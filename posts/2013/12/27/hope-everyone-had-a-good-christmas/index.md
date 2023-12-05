@@ -1,7 +1,7 @@
 ---
 title: 'Hope Everyone Had a Good Christmas'
 date: '2013-12-27'
-tags:
+post_tags:
   - Life
 ---
 

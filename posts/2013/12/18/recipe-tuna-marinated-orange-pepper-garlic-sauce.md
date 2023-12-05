@@ -1,7 +1,7 @@
 ---
 title: 'Recipe - Tuna Marinated in an Orange Pepper Garlic Sauce'
 date: '2013-12-18'
-tags:
+post_tags:
   - Cooking
   - Recipe
 ---

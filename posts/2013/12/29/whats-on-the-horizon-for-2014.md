@@ -1,7 +1,7 @@
 ---
 title: "What's on the Horizon for 2014?"
 date: '2013-12-29'
-tags:
+post_tags:
   - Goals
   - Life
   - Yearly Retrospective
