@@ -70,3 +70,28 @@ div.code-block-filename + pre {
     font-style: italic;
     text-align: center;
 }
+
+ul.tag-list {
+    margin: 16px 0 24px 0 !important;
+    padding: 0;
+    width: 100%;
+}
+
+.tag-list li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 0 30px 0 0;
+    line-height: 1.6;
+    margin-bottom: 0 !important;
+}
+
+.tag-list li.lead {
+    padding-left: 0;
+    padding-right: 10px;
+    font-weight: 600;
+}
+
+.tag-list li a {
+    white-space: nowrap;
+    font-size: 1.2rem;
+}

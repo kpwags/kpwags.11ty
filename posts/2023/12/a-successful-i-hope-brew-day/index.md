@@ -1,13 +1,16 @@
 ---
 title: 'A Successful (I Hope) Brew Day'
 date: '2023-12-03T14:00:00.000Z'
-tags: ['beer', 'homebrewing']
 description: "Yesterday I had my first brew day in almost 2 years. I ended up brewing a Harpoon Winter Warmer clone."
 commentIssueNumber: 177
+post_tags:
+  - Beer
+  - Homebrewing
+  - C#
 ---
 
 Yesterday I had my first brew day in almost 2 years. I ended up brewing a Harpoon [Winter Warmer](https://www.harpoonbrewery.com/beer/winter-warmer/) clone.
-
+<!-- excerpt -->
 {% image "./brewday1.jpg", "My small water pot sitting on my propane stove heating up to steep the grains" %}
 
 {% image "./brewday2.jpg", "My large pot sitting on the propane stove heating up the wort" %}

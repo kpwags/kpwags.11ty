@@ -1,4 +1,5 @@
 const { DateTime } = require('luxon');
+const MarkdownIt = require('markdown-it');
 
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 const pluginSyntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
@@ -23,11 +24,36 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.addFilter('readableDate', (dateObj, format, zone) => {
         // Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
+        if (typeof dateObj === 'string') {
+            dateObj = new Date(dateObj);
+        }
         return DateTime.fromJSDate(dateObj, { zone: zone || 'utc' }).toFormat(format || 'LLLL d, yyyy');
     });
 
     eleventyConfig.addFilter('htmlDateString', (dateObj) => {
         // dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
         return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('yyyy-LL-dd');
+    });
+
+    eleventyConfig.addFilter('tagUrlSlug', (tag) => {
+        switch (tag.toUpperCase()) {
+            case '.NET':
+                return 'dotnet';
+            case 'C#':
+                return 'csharp';
+            case 'F#':
+                return 'fsharp';
+            default:
+                return tag.toLowerCase().replace(/\s/g, '-').replaceAll('.', '').replaceAll("'", '').replaceAll('?', '');
+        }
+    });
+
+    eleventyConfig.setFrontMatterParsingOptions({
+        excerpt: true,
+        excerpt_separator: '<!-- excerpt -->',
+    });
+
+    eleventyConfig.addFilter('toHTML', (str) => {
+        return new MarkdownIt({ html: true, linkify: true }).renderInline(str);
     });
 };

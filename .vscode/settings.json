@@ -14,7 +14,7 @@
         "statusBarItem.remoteForeground": "#ffffff",
         "statusBar.foreground": "#ffffff"
     },
-    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "workbench.colorTheme": "Cobalt2",
     "editor.tabSize": 4,
     "editor.insertSpaces": false,
     "search.exclude": {

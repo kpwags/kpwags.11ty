@@ -1,3 +1,4 @@
 {
-    "layout": "layouts/blog-post.html"
+    "layout": "layouts/blog-post.html",
+    "tags": "post"
 }

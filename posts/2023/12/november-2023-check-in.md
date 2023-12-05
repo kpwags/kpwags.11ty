@@ -1,12 +1,17 @@
 ---
 title: 'November 2023 Check-In'
 date: '2023-12-03T15:00:00.000Z'
-tags: ['Monthly Check-In', 'Writing', 'Trips', 'Travel', 'Home Ownership']
+post_tags:
+  - Monthly Check-In
+  - Writing
+  - Trips
+  - Travel
+  - Home Ownership
 commentIssueNumber: 176
 ---
 
 I can’t believe Thanksgiving has come and gone and that we’re already into December. November was a good month, after a 2 week vacation I had to come back to the real world and back to work, but I still had some good breaks during the month.
-
+<!-- excerpt -->
 As I mentioned [previously](https://kpwags.com/posts/2023/10/29/aruba), my wife and I spent 2 weeks that second half of October in Aruba to celebrate our 10 year anniversary. After spending a glorious 2 weeks in a tropical paradise without a care in the world, we had to come back to reality and return to the workplace. It wasn’t the end of the world of course, but I’d rather be sitting back on the beach with a cocktail.
 
 ## Writing - Umm, Not as Much

@@ -18,6 +18,15 @@
 			<div>{{ page.date | readableDate }}</div>
 		</div>
 		{{ content }}
+		<hr />
+		<ul class="tag-list">
+			<li class="lead">Tagged:</li>
+			{% for tag in post_tags %}
+				<li>
+					<a href="/tag/{{ tag | tagUrlSlug }}">{{ tag }}</a>
+				</li>
+			{% endfor %}
+		</ul>
 	</main>
 	{% include "footer.html" %}
 </body>
