@@ -1,0 +1,72 @@
+.blog-post h1 {
+    margin: 0;
+    line-height: 1;
+}
+
+.blog-post .metadata {
+    margin: 12px 0 20px 0;
+    font-size: 1.2rem;
+    color: var(--meta);
+    font-weight: 300;
+    display: flex;
+    justify-content: flex-start;
+    gap: 16px;
+    text-transform: uppercase;
+}
+
+.blog-post p:has(img):has(+ div.image-credit) {
+    margin-bottom: 0;
+}
+
+.blog-post img {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blog-post blockquote {
+    margin: 0;
+    border-left: 5px solid var(--primary-color-1);
+}
+
+.blog-post blockquote p {
+    padding: 0 0 0 24px;
+    font-style: italic;
+}
+
+.blog-post ul {
+    margin: 0 0 32px 0;
+}
+
+.blog-post ul li {
+    margin: 12px 0;
+}
+
+.blog-post div.code-block-filename {
+    font-weight: 500;
+    padding-left: 12px;
+    background-color: var(--shaded-background);
+    border: 1px solid #24292e;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+}
+
+div.code-block-filename + pre {
+    margin-top: 0;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+}
+
+.blog-post .blog-post pre {
+    padding: 16px;
+    border-radius: 6px;
+}
+
+.blog-post pre code {
+    font-size: 1rem;
+}
+
+.blog-post .image-credit {
+    font-style: italic;
+    text-align: center;
+}
