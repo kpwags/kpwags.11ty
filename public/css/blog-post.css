@@ -95,3 +95,46 @@ ul.tag-list {
     white-space: nowrap;
     font-size: 1.2rem;
 }
+
+.embedded-post {
+    margin: 48px 32px;
+}
+
+.embedded-post blockquote.post {
+    border-radius: 10px;
+    border: 1px solid var(--grey-1);
+    padding: 16px;
+    margin: 0;
+    background-color: var(--shaded-background);
+}
+
+.embedded-post blockquote.post:hover {
+    box-shadow: var(--box-shadow);
+}
+
+.embedded-post blockquote.post p {
+    margin-block-start: 0;
+    font-size: 1.6rem;
+    margin-bottom: 16px;
+}
+
+.embedded-post blockquote.post .credit {
+    display: flex;
+    justify-content: space-between;
+}
+
+.embedded-post blockquote.post svg {
+    width: 24px;
+    height: 24px;
+    fill: var(--primary-color-1);
+}
+
+@media (max-width: 500px) {
+    .embedded-post {
+        margin: 24px 0;
+    }
+
+    .embedded-post blockquote.post {
+        margin: 0;
+    }
+}
