@@ -138,3 +138,21 @@ ul.tag-list {
         margin: 0;
     }
 }
+
+.blog-post .video-container {
+    max-width: 80%;
+    margin: 32px auto;
+    text-align: center;
+}
+
+.blog-post .in-depth-notes {
+    margin-bottom: 2rem;
+}
+
+.blog-post .in-depth-notes h3 {
+    font-size: 1.85rem;
+}
+
+.blog-post .in-depth-notes .source {
+    color: var(--text);
+}

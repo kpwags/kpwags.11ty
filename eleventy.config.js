@@ -3,7 +3,6 @@ const MarkdownIt = require('markdown-it');
 
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 const pluginSyntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
-
 const pluginImages = require('./eleventy.config.images.js');
 
 module.exports = function (eleventyConfig) {
@@ -16,7 +15,6 @@ module.exports = function (eleventyConfig) {
 
     // App plugins
     eleventyConfig.addPlugin(pluginImages);
-
     eleventyConfig.addPlugin(pluginRss);
     eleventyConfig.addPlugin(pluginSyntaxHighlight, {
         preAttributes: { tabindex: 0 },
