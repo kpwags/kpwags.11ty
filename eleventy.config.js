@@ -21,7 +21,7 @@ module.exports = function (eleventyConfig) {
         preAttributes: { tabindex: 0 },
     });
     eleventyConfig.addPlugin(pluginWebc, {
-        components: "src/_includes/components/**/*.webc",
+        components: "src/_includes/components/*.webc",
     });
 
     eleventyConfig.addFilter('readableDate', (dateObj, format, zone) => {
