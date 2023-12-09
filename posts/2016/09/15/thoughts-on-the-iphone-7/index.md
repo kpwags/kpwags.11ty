@@ -23,4 +23,4 @@ Instead Apple wants to add their own proprietary standard to things making it di
 
 There’s also rumors of Apple inquiring about the 3.5mm headphone jack in the Macbook Pro. This would likely mean the same thing there as well. All I can say to that is NO!
 
-{% image "./michael-scott-no.gif", "An animated gif of Michael Scott from the Office shouting NO" %}
+<img src="michael-scott-no.gif" alt="An animated gif of Michael Scott from the Office shouting NO" />

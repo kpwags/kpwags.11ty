@@ -114,7 +114,6 @@ ul.tag-list {
 
 .embedded-post blockquote.post p {
     margin-block-start: 0;
-    font-size: 1.6rem;
     margin-bottom: 16px;
 }
 
@@ -155,4 +154,38 @@ ul.tag-list {
 
 .blog-post .in-depth-notes .source {
     color: var(--text);
+}
+
+.blog-post .blog-series {
+    margin: 0 0 32px 0;
+    padding: 16px 0;
+    border-top: 1px dashed var(--primary-color-3);
+    border-bottom: 1px dashed var(--primary-color-3);
+}
+
+.blog-post .blog-series h4 {
+    margin-top: 0;
+    font-size: 1.75rem;
+}
+
+.blog-post .blog-series .posts {
+    margin: 12px 16px 0 16px;
+    padding-inline-start: 0;
+}
+
+.blog-post .blog-series .posts li {
+    list-style-type: none;
+    margin-bottom: 8px;
+}
+
+.blog-post .blog-series .posts li:last-child {
+    margin-bottom: 0;
+}
+
+.blog-post .blog-series .posts a {
+    text-decoration: underline;
+}
+
+.blog-post .blog-series .current {
+    font-weight: 600;
 }
