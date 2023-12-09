@@ -4,6 +4,7 @@ const MarkdownIt = require('markdown-it');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 const pluginSyntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const pluginImages = require('./eleventy.config.images.js');
+const pluginWebc = require('@11ty/eleventy-plugin-webc');
 
 module.exports = function (eleventyConfig) {
     // Copy the contents of the `public` folder to the output folder
@@ -18,6 +19,9 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPlugin(pluginRss);
     eleventyConfig.addPlugin(pluginSyntaxHighlight, {
         preAttributes: { tabindex: 0 },
+    });
+    eleventyConfig.addPlugin(pluginWebc, {
+        components: "src/_includes/components/**/*.webc",
     });
 
     eleventyConfig.addFilter('readableDate', (dateObj, format, zone) => {
@@ -54,4 +58,11 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter('toHTML', (str) => {
         return new MarkdownIt({ html: true, linkify: true }).renderInline(str);
     });
+
+    return {
+        dir: {
+            input: 'src',
+            output: '_site'
+        }
+    };
 };

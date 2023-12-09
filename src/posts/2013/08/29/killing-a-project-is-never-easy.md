@@ -1,7 +1,7 @@
 ---
 title: 'Killing a Project is Never Easy'
 date: '2013-08-29'
-tags:
+post_tags:
   - Development
   - OpenVoter
 ---
