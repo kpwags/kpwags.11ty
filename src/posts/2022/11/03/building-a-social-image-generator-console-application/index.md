@@ -1,7 +1,6 @@
 ---
 title: 'Building a Social Image Generator Console Application'
 date: '2022-11-03'
-tags: ['C#', '.NET', 'Tutorial', 'Development']
 post_tags:
   - C#
   - .NET

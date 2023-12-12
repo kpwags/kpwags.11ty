@@ -11,6 +11,8 @@ post_tags:
 This week we look at a lot of web dev articles as well as some amazing photos from the JWST.
 <!-- excerpt -->
 
+<div class="reading-log"></div>
+
 ## 👨🏼‍💻Software Development
 
 [The Resiliency in the Web's Layers](https://blog.jim-nielsen.com/2022/resiliency-in-the-webs-layers/) - *blog.jim-nielsen.com*

@@ -1,7 +1,6 @@
 ---
 title: 'Two Years of Remote Work'
 date: '2022-04-28'
-tags: ['Life', 'Work', 'Remote Work']
 post_tags:
   - Life
   - Work

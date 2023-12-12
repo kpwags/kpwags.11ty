@@ -15,6 +15,8 @@ post_tags:
 Quite a lot this week.
 <!-- excerpt -->
 
+<div class="reading-log"></div>
+
 ## 👨🏼‍💻Software Development
 
 [Announcing TypeScript 4.8 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-4-8-rc/) - *devblogs.microsoft.com*

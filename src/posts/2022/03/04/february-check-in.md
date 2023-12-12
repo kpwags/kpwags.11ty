@@ -1,7 +1,6 @@
 ---
 title: 'February Check-In'
 date: '2022-03-04'
-tags: ['Life', 'Monthly Check-In', 'Homebrewing']
 post_tags:
   - Life
   - Monthly Check-In

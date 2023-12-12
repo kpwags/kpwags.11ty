@@ -26,7 +26,7 @@ As a .NET developer, Blazor has been on my radar for a little while now. I decid
 
 ## Go Birds
 
-<img src="gobirds.gif" alt="Mac from It's Always Sunny in Philadelphia shouting 'Go Birds'" />
+{% image "./gobirds.gif", "Mac from It's Always Sunny in Philadelphia shouting 'Go Birds'" %}
 
 The Philadelphia Eagles are back in the Super Bowl facing off against the Kansas City Chiefs. Grease those light posts!
 

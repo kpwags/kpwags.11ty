@@ -1,7 +1,6 @@
 ---
 title: 'Reading List: July 16 - July 22'
 date: '2022-07-22'
-tags: ['Reading Log', 'C#', 'SQL', 'CSS', 'Local News']
 post_tags:
   - Reading Log
   - C#
@@ -12,6 +11,8 @@ post_tags:
 
 Some articles about C#, SQL and looking at local newspapers.
 <!-- excerpt -->
+
+<div class="reading-log"></div>
 
 ## 👨🏼‍💻Software Development
 

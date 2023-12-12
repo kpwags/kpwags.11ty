@@ -3,9 +3,12 @@ const pluginSyntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const pluginImages = require('./eleventy.config.images.js');
 const pluginWebc = require('@11ty/eleventy-plugin-webc');
 
+const publicPosts = require('./src/collections/publicPosts.js');
+
 const dateFilter = require('./src/filters/date-filter.js');
 const tagUrlFilter = require('./src/filters/tagurl-filter.js');
 const toHtmlFilter = require('./src/filters/tohtml-filter.js');
+const readingTimeFilter = require('./src/filters/readingTime-filter.js');
 
 module.exports = function (eleventyConfig) {
     // Copy the contents of the `public` folder to the output folder
@@ -30,9 +33,12 @@ module.exports = function (eleventyConfig) {
         components: "src/_includes/components/*.webc",
     });
 
+    eleventyConfig.addCollection('publicPosts', publicPosts);
+
     eleventyConfig.addFilter('readableDate', dateFilter);
     eleventyConfig.addFilter('tagUrlSlug', tagUrlFilter);
     eleventyConfig.addFilter('toHTML', toHtmlFilter);
+    eleventyConfig.addFilter('readingTime', readingTimeFilter);
 
     return {
         dir: {

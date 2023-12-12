@@ -12,6 +12,8 @@ post_tags:
 Didn't get to much reading this week, but a little bit on CSS, Apple's issues with WebKit and iOS, and women and grunge.
 <!-- excerpt -->
 
+<div class="reading-log"></div>
+
 ## 👨🏼‍💻Software Development
 
 [The End of Localhost](https://swyx.io/the-end-of-localhost) - Developing on our local machines might not be as common as it is now <span className="domain-name">(swyx.io)</span>

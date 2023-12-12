@@ -1,7 +1,7 @@
 ---
 title: 'Data Privacy'
 date: '2023-12-07'
-tags:
+post_tags:
   - Privacy
   - TikTok
   - Big Data

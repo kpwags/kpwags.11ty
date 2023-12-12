@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ metadata.language }}">
+
 <head>
 	{% include "head.html" %}
 	<title>{{ title }} - Keith Wagner</title>
+	<link rel="stylesheet" type="text/css" href="/css/prism-okaidia.css" />
 	<link rel="stylesheet" type="text/css" href="/css/blog-post.css" />
 
 	<meta property="og:type" content="website" />
@@ -12,24 +14,28 @@
 
 	<script type="module" src="/scripts/fit-vids.js"></script>
 </head>
+
 <body>
 	{% include "header.html" %}
 	<main class="blog-post">
 		<h1>{{ title }}</h1>
 		<div class="metadata">
 			<div>{{ page.date | readableDate }}</div>
+			<div>&bull;</div>
+			<div>{{ content | readingTime }}</div>
 		</div>
 		{{ content }}
 		<hr />
 		<ul class="tag-list">
 			<li class="lead">Tagged:</li>
 			{% for tag in post_tags %}
-				<li>
-					<a href="/tag/{{ tag | tagUrlSlug }}">{{ tag }}</a>
-				</li>
+			<li>
+				<a href="/tag/{{ tag | tagUrlSlug }}">{{ tag }}</a>
+			</li>
 			{% endfor %}
 		</ul>
 	</main>
 	{% include "footer.html" %}
 </body>
+
 </html>

@@ -11,6 +11,7 @@ post_tags:
 
 Due to my trip last week to New York City, this list is a little bit longer.
 <!-- excerpt -->
+<div class="reading-log"></div>
 
 ## 👨🏼‍💻 Software Development
 

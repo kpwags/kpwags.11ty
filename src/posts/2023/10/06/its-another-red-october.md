@@ -13,8 +13,8 @@ took out the Miami Marlins to reach the NLDS for a rematch against the Braves.
 <!-- excerpt -->
 
 <div class="video-container">
-    <video controls autoplay="false" width="320" height="480">
-        <source src="/posts/2023-10-06-its-another-red-october/phillies-stott-grand-slam.mp4" type="video/mp4" />
+    <video controls autoplay="false" width="480" height="320">
+        <source src="/videos/posts/2023-10-06-its-another-red-october/phillies-stott-grand-slam.mp4" type="video/mp4" />
          Not Supported
     </video>
 </div>

@@ -1,13 +1,17 @@
 ---
 title: 'Reading List: August 6 - August 12'
 date: '2022-08-12'
-tags: ['Reading Log', '.NET', 'Crypto', 'Comcast']
-commentIssueNumber: 42
-ignoreWordCount: true
+post_tags:
+  - Reading Log
+  - .NET
+  - Crypto
+  - Comcast
 ---
 
 Looking forward to .NET 7 and a man in Michigan hitting back against Comcast.
 <!-- excerpt -->
+
+<div class="reading-log"></div>
 
 ## 👨🏼‍💻Software Development
 

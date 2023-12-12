@@ -17,6 +17,8 @@ post_tags:
 Was a little busy last week so this week is a little longer.
 <!-- excerpt -->
 
+<div class="reading-log"></div>
+
 ## 👨🏼‍💻Software Development
 
 [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders) - *joshwcomeau.com*

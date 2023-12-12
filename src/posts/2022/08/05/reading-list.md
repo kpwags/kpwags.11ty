@@ -12,6 +12,8 @@ post_tags:
 Amazon now has Alexa on wheels!
 <!-- excerpt -->
 
+<div class="reading-log"></div>
+
 ## 👨🏼‍💻Software Development
 
 [Containerize .NET applications without writing Dockerfiles](https://developers.redhat.com/articles/2022/08/01/containerize-net-applications-without-writing-dockerfiles) - *developers.redhat.com*

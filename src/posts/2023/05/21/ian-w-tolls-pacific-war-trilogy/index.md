@@ -1,7 +1,6 @@
 ---
 title: "Ian W. Toll's Pacific War Trilogy"
 date: '2023-05-21'
-tags: ['Books', 'Reading', 'Book Recommendation', 'History']
 post_tags:
   - Books
   - Reading

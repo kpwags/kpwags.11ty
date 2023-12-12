@@ -12,6 +12,8 @@ post_tags:
 Delved a lot into C# and .NET this week. Also a great discussion on Plain English about the current state of Crypto.
 <!-- excerpt -->
 
+<div class="reading-log"></div>
+
 ## 👨🏼‍💻Software Development
 
 [When debugging, assume an unreliable narrator](https://ayende.com/blog/197793-C/when-debugging-assume-an-unreliable-narrator) - *ayende.com*

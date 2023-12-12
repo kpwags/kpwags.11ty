@@ -3,6 +3,28 @@
     line-height: 1;
 }
 
+.blog-post:has(div.reading-log) h1 {
+    margin: 0 0 24px;
+    font-size: 2.35rem;
+}
+
+.blog-post:has(div.reading-log) h2 {
+    font-size: 2.15rem;
+    margin: 20px 0 40px 0;
+}
+
+.blog-post:has(div.reading-log) h3 {
+    font-size: 2rem;
+    margin: 20px 0;
+    color: var(--text);
+}
+
+.blog-post:has(div.reading-log) h4 {
+    margin-bottom: 8px;
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+
 .blog-post .metadata {
     margin: 12px 0 20px 0;
     font-size: 1.2rem;
@@ -149,7 +171,7 @@ ul.tag-list {
 }
 
 .blog-post .in-depth-notes h3 {
-    font-size: 1.85rem;
+    font-size: 1.85rem !important;
 }
 
 .blog-post .in-depth-notes .source {

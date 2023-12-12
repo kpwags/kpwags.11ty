@@ -1,7 +1,6 @@
 ---
 title: 'February Check-In'
 date: '2023-03-06'
-tags: ['Monthly Check-In', 'Life', 'Eagles', 'NFL', 'Fitness', 'Blazor', '.NET', 'Hockey']
 post_tags:
   - Monthly Check-In
   - Life

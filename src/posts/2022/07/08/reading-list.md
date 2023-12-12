@@ -11,6 +11,8 @@ post_tags:
 This week we look at a lot of CSS web development and some background on GoldenEye for the Nintendo 64.
 <!-- excerpt -->
 
+<div class="reading-log"></div>
+
 ## 👨🏼‍💻Software Development
 
 [The Unlocked Possibilities of the :has() Selector](https://blog.jim-nielsen.com/2022/unlocked-possibilities-of-has-selector/) - blog.jim-nielsen.com
