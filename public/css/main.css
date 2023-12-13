@@ -205,7 +205,6 @@ footer {
 
 footer nav {
     margin-bottom: 16px;
-    font-size: 16px;
     display: block;
 }
 
@@ -219,9 +218,60 @@ nav @media (max-width: 450px) {
     footer {
         margin: 16px 0;
     }
-
-    footer nav a {
-        /* display: inline-block; */
-    }
 }
 /* end footer */
+
+article.post {
+    margin: 32px 0 64px;
+    border: 1px solid var(--grey-1);
+    padding: 16px;
+    border-radius: 8px;
+}
+
+article.post:hover {
+    border-color: var(--grey-2);
+    box-shadow: var(--box-shadow);
+}
+
+article.post .metadata.metadata {
+    margin: 12px 0 20px 0;
+    font-size: 1.2rem;
+    color: var(--meta);
+    font-weight: 300;
+    display: flex;
+    justify-content: flex-start;
+    gap: 16px;
+    text-transform: uppercase;
+}
+
+article.post h2 {
+    font-size: 2rem;
+    line-height: 1.1;
+}
+
+article.post h2 a {
+    text-decoration: none;
+}
+
+article.post div.excerpt {
+    margin: 16px 0 0;
+}
+
+@media (max-width: 414px) {
+    article.post h2 {
+        font-size: 2.25rem;
+        margin-bottom: 16px;
+    }
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    font-size: 1.25rem;
+    margin: 32px 0;
+}
+
+.pagination a {
+    text-decoration: none;
+}

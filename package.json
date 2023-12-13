@@ -6,7 +6,7 @@
   "scripts": {
     "build": "npx @11ty/eleventy",
     "build-ghpages": "npx @11ty/eleventy --pathprefix=/eleventy-base-blog/",
-    "start": "npx @11ty/eleventy --serve --quiet",
+    "start": "npx @11ty/eleventy --serve",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
     "debugstart": "DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
     "benchmark": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
@@ -19,6 +19,8 @@
     "@11ty/eleventy-img": "^3.1.8",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
-    "luxon": "^3.4.4"
+    "@11ty/eleventy-plugin-webc": "^0.11.1",
+    "luxon": "^3.4.4",
+    "markdown-it": "^13.0.2"
   }
 }

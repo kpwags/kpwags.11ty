@@ -14,7 +14,7 @@
         "statusBarItem.remoteForeground": "#ffffff",
         "statusBar.foreground": "#ffffff"
     },
-    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "workbench.colorTheme": "Cobalt2",
     "editor.tabSize": 4,
     "editor.insertSpaces": false,
     "search.exclude": {
@@ -25,7 +25,9 @@
     },
     "[markdown]": {
         "editor.formatOnSave": false,
-        "editor.wordWrap": "off"
+        "editor.wordWrap": "off",
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2
     },
     "[mdx]": {
         "editor.formatOnSave": false,

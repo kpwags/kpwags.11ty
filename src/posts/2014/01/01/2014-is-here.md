@@ -1,0 +1,11 @@
+---
+title: '2014 Is Here!'
+date: '2014-01-01'
+post_tags:
+  - Life
+---
+
+Happy New Year everyone! Hope you all had a good, safe, fun New Year's Eve. Lauren and I spent it bundled up watching the Flyers game and Netflix which is just what we wanted.
+<!-- excerpt -->
+
+Here's to a great and productive 2014!
