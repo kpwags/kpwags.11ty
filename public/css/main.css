@@ -275,3 +275,44 @@ article.post div.excerpt {
 .pagination a {
     text-decoration: none;
 }
+
+ul.tag-list {
+    margin: 16px 0 24px 0 !important;
+    padding: 0;
+    width: 100%;
+}
+
+.tag-list li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 0 30px 0 0;
+    line-height: 1.6;
+    margin-bottom: 0 !important;
+}
+
+.tag-list li.lead {
+    padding-left: 0;
+    padding-right: 10px;
+    font-weight: 600;
+}
+
+.tag-list li a {
+    white-space: nowrap;
+}
+
+.in-depth-notes {
+    margin-bottom: 2rem;
+}
+
+.in-depth-notes h3 {
+    font-size: 1.6rem !important;
+    text-wrap: unset;
+}
+
+.in-depth-notes .source {
+    color: var(--text);
+}
+
+.in-depth-notes li p {
+    margin: 0;
+}
