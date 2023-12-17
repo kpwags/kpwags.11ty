@@ -1,0 +1,90 @@
+article.book-note .content {
+    padding: 16px;
+}
+
+article.book-note blockquote,
+article.book-note blockquote p {
+    border-left: none;
+    padding: 0 8px;
+    margin: 0 0 32px;
+    font-size: 1.4rem;
+    line-height: 1.75;
+    font-style: italic;
+    color: var(--primary-color-2);
+}
+
+article.book-note p:last-of-type {
+    margin-bottom: 0;
+}
+
+.metadata {
+    display: flex;
+    gap: 40px;
+}
+
+.metadata h2 {
+    font-size: 2.1rem;
+    margin-bottom: 16px;
+}
+
+.image {
+    min-width: 200px;
+    margin: 0 auto 32px;
+}
+
+.metadata h3 {
+    color: var(--text);
+    font-size: 1.75rem;
+    margin-bottom: 12px;
+}
+
+.book-rating {
+    margin: 16px 0;
+}
+
+.categories {
+    margin: 16px 0;
+    display: flex;
+    gap: 8px;
+}
+
+.category {
+    padding: 0 16px;
+    background-color: var(--primary-color-2);
+    color: var(--background);
+    border-radius: 4px;
+}
+
+.finished-reading {
+    font-size: 1.2rem;
+}
+
+.links {
+    display: flex;
+    gap: 16px;
+    font-size: 1.2rem;
+}
+
+.links a {
+    text-decoration: underline;
+}
+
+@media (max-width: 500px) {
+    .metadata {
+        display: block;
+    }
+
+    .image {
+        width: 200px;
+        margin: 0 auto 32px;
+    }
+
+    .links {
+        display: block;
+    }
+
+    .links a {
+        display: block;
+        margin: 5px 0;
+    }
+}
