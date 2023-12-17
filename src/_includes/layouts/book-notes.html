@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="{{ metadata.language }}">
+
+<head>
+	{% include "head.html" %}
+	<title>{{ title }} - Keith Wagner</title>
+	<link rel="stylesheet" type="text/css" href="/css/prism-okaidia.css" />
+	<link rel="stylesheet" type="text/css" href="/css/book-notes.css" />
+
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://kpwags.com{{ page.url }}" />
+	<meta property="og:title" content="{{ title }}" />
+	<meta property="og:description" content="{{ description }}" />
+</head>
+
+<body>
+	{% include "header.html" %}
+	<main>
+		<article class="book-note">
+			<div class="content">
+				<div class="metadata">
+					<div class="image">
+						<img src="{{ coverImage }}" alt="{{ author }} - {{ title }}" />
+					</div>
+					<div>
+						<h2>{{ title }}</h2>
+						<h3>by {{ author }}</h3>
+
+						<div class="finished-reading"><strong>Finished</strong>: {{ dateFinished | readableDate }}
+						</div>
+
+						<div class="book-rating">
+							{% starRating rating "lg" %}
+						</div>
+
+						<div class="categories">
+							{% for category in categories %}
+							<span class="category">{{ category }}</span>
+							{% endfor %}
+						</div>
+
+						<div class="links">
+							<div>Links:</div>
+							{% for link in links %}
+							<a href="{{ link.url }}" target="_blank" rel="noreferrer nofollow">
+								{{ link.title }}
+							</a>
+							{% endfor %}
+						</div>
+					</div>
+				</div>
+
+				<hr />
+
+				<div class="book-notes">
+					{{ content }}
+				</div>
+			</div>
+		</article>
+	</main>
+	{% include "footer.html" %}
+</body>
+
+</html>

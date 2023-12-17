@@ -316,3 +316,126 @@ ul.tag-list {
 .in-depth-notes li p {
     margin: 0;
 }
+
+.book-note-card {
+    margin: 32px 0;
+    border: 1px solid var(--grey-1);
+    padding: 16px;
+    border-radius: 8px;
+    container-type: inline-size;
+}
+
+.book-note-card:hover {
+    border-color: var(--grey-2);
+    box-shadow: var(--box-shadow);
+}
+
+.book-note-card .metadata {
+    text-transform: uppercase;
+    font-style: italic;
+    padding: 8px 16px;
+    border-bottom: 1px solid var(--grey-1);
+    background-color: var(--background-lighter);
+}
+
+.book-note-card .content {
+    display: flex;
+    gap: 32px;
+    padding: 16px;
+}
+
+.book-note-card .image {
+    min-width: 200px;
+}
+
+.book-note-card h2 {
+    font-size: 1.9rem;
+}
+
+.book-note-card h2 a {
+    text-decoration: none;
+}
+
+.book-note-card h2 a:hover {
+    text-decoration: underline;
+}
+
+.book-note-card h3 {
+    color: var(--text);
+    margin: 16px 0 24px;
+    font-size: 1.7rem;
+}
+
+.book-note-card .categories {
+    margin: 16px 0;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.book-note-card .category {
+    padding: 0 16px;
+    background-color: var(--primary-color-2);
+    color: var(--background);
+    border-radius: 8px;
+}
+
+.book-note-card .date {
+    font-style: italic;
+    margin-bottom: 16px;
+    font-size: 1.2rem;
+}
+
+@container (min-width: 600px) {
+    .book-note-card .content {
+        gap: 64px;
+    }
+}
+
+@media (max-width: 450px) {
+    .book-note-card .content {
+        display: block;
+    }
+
+    .book-note-card .image {
+        width: 200px;
+        margin: 0 auto 2rem;
+    }
+
+    .book-note-card .metadata {
+        text-align: center;
+    }
+}
+
+.rating {
+    margin: 10px 0;
+}
+
+.star {
+    display: inline-block;
+    fill: var(--primary-color-1);
+    stroke: var(--primary-color-1);
+    margin: 0 4px;
+}
+
+.star-sm {
+    width: 16px;
+    height: 16px;
+}
+
+.star-md {
+    width: 24px;
+    height: 24px;
+}
+
+.star-lg {
+    width: 32px;
+    height: 32px;
+}
+
+.empty-star {
+    display: inline-block;
+    fill: none;
+    stroke: var(--primary-color-1);
+    margin: 0 4px;
+}
