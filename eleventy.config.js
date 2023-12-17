@@ -10,6 +10,9 @@ const tagUrlFilter = require('./src/filters/tagurl-filter.js');
 const toHtmlFilter = require('./src/filters/tohtml-filter.js');
 const readingTimeFilter = require('./src/filters/readingTime-filter.js');
 
+const inDepthShortcode = require('./src/shortcodes/inDepth-shortcode.js');
+const youTubeShortcode = require('./src/shortcodes/youTube-shortcode.js');
+
 module.exports = function (eleventyConfig) {
     // Copy the contents of the `public` folder to the output folder
     // For example, `./public/css/` ends up in `_site/css/`
@@ -39,6 +42,9 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter('tagUrlSlug', tagUrlFilter);
     eleventyConfig.addFilter('toHTML', toHtmlFilter);
     eleventyConfig.addFilter('readingTime', readingTimeFilter);
+
+    eleventyConfig.addPairedLiquidShortcode('inDepth', inDepthShortcode);
+    eleventyConfig.addLiquidShortcode('youTubeEmbed', youTubeShortcode);
 
     return {
         dir: {
