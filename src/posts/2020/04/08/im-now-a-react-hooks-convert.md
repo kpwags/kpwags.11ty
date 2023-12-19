@@ -1,7 +1,7 @@
 ---
 title: "I'm Now a React Hooks Convert"
 date: '2020-04-08'
-post_tags:
+tags:
   - Development
   - React
   - GraphQL

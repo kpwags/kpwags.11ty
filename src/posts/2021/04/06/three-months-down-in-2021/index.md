@@ -1,7 +1,7 @@
 ---
 title: 'Three Months Down in 2021'
 date: '2021-04-06'
-post_tags:
+tags:
   - Goals
   - Life
 ---

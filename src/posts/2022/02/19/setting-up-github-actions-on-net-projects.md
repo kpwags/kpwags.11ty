@@ -1,7 +1,7 @@
 ---
 title: 'Setting Up GitHub Actions on .NET Projects'
 date: '2022-02-19'
-post_tags:
+tags:
   - Development
   - .NET
   - Coding

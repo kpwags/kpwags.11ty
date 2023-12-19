@@ -1,7 +1,7 @@
 ---
 title: '3 Weeks In'
 date: '2019-01-22'
-post_tags:
+tags:
   - Goals
   - Life
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Better SQL Update Stored Procedures'
 date: '2022-05-29'
-post_tags:
+tags:
   - Development
   - SQL
   - Database

@@ -1,7 +1,7 @@
 ---
 title: 'Personal Sites are Never "Done"'
 date: '2023-10-02'
-post_tags:
+tags:
   - Blogging
   - Development
 ---

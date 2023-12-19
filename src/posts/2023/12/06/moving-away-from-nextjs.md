@@ -1,7 +1,7 @@
 ---
 title: 'Moving Away from Next.js'
 date: '2023-12-06'
-post_tags:
+tags:
   - Eleventy
   - Blogging
   - Performance

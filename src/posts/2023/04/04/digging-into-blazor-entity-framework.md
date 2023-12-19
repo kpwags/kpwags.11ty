@@ -1,7 +1,7 @@
 ---
 title: 'Digging Into Blazor - Integrating with Entity Framework'
 date: '2023-04-04'
-post_tags:
+tags:
   - .NET
   - C#
   - Blazor

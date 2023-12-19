@@ -1,7 +1,7 @@
 ---
 title: 'October Check-In'
 date: '2022-11-06'
-post_tags:
+tags:
   - Monthly Check-In
   - Life
   - Concerts

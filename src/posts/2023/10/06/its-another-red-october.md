@@ -1,7 +1,7 @@
 ---
 title: "It's Another Red October"
 date: '2023-10-06T17:00:00.000Z'
-post_tags:
+tags:
   - Baseball
   - Sports
   - Phillies

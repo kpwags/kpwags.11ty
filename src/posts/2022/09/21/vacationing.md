@@ -1,7 +1,7 @@
 ---
 title: 'Vacationing'
 date: '2022-09-21'
-post_tags:
+tags:
   - Life
 rss_only: true
 ---

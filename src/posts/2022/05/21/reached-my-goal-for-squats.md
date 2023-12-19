@@ -1,7 +1,7 @@
 ---
 title: 'Reached my Goal for Squats'
 date: '2022-05-21'
-post_tags:
+tags:
   - Goals
   - Lifting
   - Strength Training

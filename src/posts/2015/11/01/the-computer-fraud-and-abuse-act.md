@@ -1,7 +1,7 @@
 ---
 title: 'The Computer Fraud and Abuse Act'
 date: '2015-11-01'
-post_tags:
+tags:
   - Technology
   - Internet
   - Politics

@@ -1,7 +1,7 @@
 ---
 title: 'Delving into Unit Testing'
 date: '2020-05-06'
-post_tags:
+tags:
   - Development
   - Unit Testing
   - React

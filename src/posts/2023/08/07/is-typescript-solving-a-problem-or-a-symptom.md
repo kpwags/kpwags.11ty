@@ -1,7 +1,7 @@
 ---
 title: 'Is TypeScript Solving a Problem or a Symptom'
 date: '2023-08-07'
-post_tags:
+tags:
   - TypeScript
   - JavaScript
   - Web Development

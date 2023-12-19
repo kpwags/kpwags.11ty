@@ -1,7 +1,7 @@
 ---
 title: 'Reading List: July 30 - August 5'
 date: '2022-08-05'
-post_tags:
+tags:
   - Reading Log
   - TypeScript
   - .NET

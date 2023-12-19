@@ -1,7 +1,7 @@
 ---
 title: 'Digging Into Blazor - Forms'
 date: '2023-09-29T17:00:00.000Z'
-post_tags:
+tags:
   - Blazor
   - .NET
   - C#

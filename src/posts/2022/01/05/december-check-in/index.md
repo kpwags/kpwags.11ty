@@ -1,7 +1,7 @@
 ---
 title: 'December Check-In'
 date: '2022-01-05'
-post_tags:
+tags:
   - Life
   - Monthly Check-In
   - Pets

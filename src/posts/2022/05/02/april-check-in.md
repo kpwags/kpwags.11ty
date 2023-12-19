@@ -1,7 +1,7 @@
 ---
 title: 'April Check-In'
 date: '2022-05-02'
-post_tags:
+tags:
   - Life
   - Monthly Check-In
   - Video Games

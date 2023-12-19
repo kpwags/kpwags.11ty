@@ -1,7 +1,7 @@
 ---
 title: 'Reading List: July 23 - July 29'
 date: '2022-07-22'
-post_tags:
+tags:
   - Reading Log
   - C#
   - .NET

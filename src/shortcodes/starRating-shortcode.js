@@ -19,7 +19,5 @@ module.exports = (rating, size = "md") => {
 		}
 	}
 
-	console.log(rating);
-
 	return `<div class="rating">${stars.join('')}</div>`
 }

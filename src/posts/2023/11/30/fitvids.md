@@ -1,7 +1,7 @@
 ---
 title: 'FitVids'
 date: '2023-11-30'
-post_tags:
+tags:
   - Web Components
   - Web Development
   - Development

@@ -1,7 +1,7 @@
 ---
 title: 'Halfway Through 2021'
 date: '2021-07-24'
-post_tags:
+tags:
   - Goals
   - Life
 ---

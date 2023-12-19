@@ -1,7 +1,7 @@
 ---
 title: 'Email Development Sucks, but Refactoring is Oddly Satisfying'
 date: '2023-09-12'
-post_tags:
+tags:
   - Development
   - Email Development
   - Refactoring

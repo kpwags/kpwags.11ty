@@ -1,7 +1,7 @@
 ---
 title: 'I Made A Thing!'
 date: '2016-02-19'
-post_tags:
+tags:
   - Development
   - Where Do You Want to Eat
   - Side Projects

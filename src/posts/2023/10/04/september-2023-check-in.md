@@ -1,7 +1,7 @@
 ---
 title: 'September 2023 Check-In'
 date: '2023-10-04'
-post_tags:
+tags:
   - Monthly Check-In
   - Life
   - Podcasts

@@ -1,7 +1,7 @@
 ---
 title: 'I Did It! Half Marathon Complete!'
 date: '2013-11-18'
-post_tags:
+tags:
   - Goals
   - Fitness
   - Running

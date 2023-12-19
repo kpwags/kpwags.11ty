@@ -1,7 +1,7 @@
 ---
 title: '12 Weeks of P.H.U.L.'
 date: '2019-05-28'
-post_tags:
+tags:
   - Fitness
   - Strength Training
   - Goals

@@ -1,7 +1,7 @@
 ---
 title: 'Gary Bettman and the NHL are Cowards'
 date: '2023-06-24'
-post_tags:
+tags:
   - Hockey
   - NHL
   - Pride

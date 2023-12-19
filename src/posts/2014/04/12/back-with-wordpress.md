@@ -1,7 +1,7 @@
 ---
 title: 'Back with Wordpress'
 date: '2014-04-12'
-post_tags:
+tags:
   - Blogging
   - Development
 ---

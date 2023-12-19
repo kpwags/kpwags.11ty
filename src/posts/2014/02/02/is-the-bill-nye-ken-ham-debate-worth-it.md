@@ -1,7 +1,7 @@
 ---
 title: 'Is the Bill Nye - Ken Ham Debate Worth It?'
 date: '2014-02-02'
-post_tags:
+tags:
   - Science
   - Thoughts
   - Politics

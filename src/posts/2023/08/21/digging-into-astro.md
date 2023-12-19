@@ -1,7 +1,7 @@
 ---
 title: 'Digging Into Astro'
 date: '2023-08-21'
-post_tags:
+tags:
   - Astro
   - Web Development
   - Next.js

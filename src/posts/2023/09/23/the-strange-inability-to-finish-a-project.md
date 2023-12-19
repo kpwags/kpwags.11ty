@@ -1,7 +1,7 @@
 ---
 title: 'The Strange Inability to Finish a Project'
 date: '2023-09-23'
-post_tags:
+tags:
   - Side Projects
   - Distractions
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Separating Reading Logs'
 date: '2023-03-01'
-post_tags:
+tags:
   - Site Updates
 ---
 

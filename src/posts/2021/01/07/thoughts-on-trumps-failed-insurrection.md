@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on Trump's Failed Insurrection"
 date: '2021-01-07'
-post_tags:
+tags:
   - Thoughts
   - Politics
 ---

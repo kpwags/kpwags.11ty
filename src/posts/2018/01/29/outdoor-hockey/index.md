@@ -1,7 +1,7 @@
 ---
 title: 'Outdoor Hockey'
 date: '2018-01-29'
-post_tags:
+tags:
   - Fitness
   - Hockey
 ---

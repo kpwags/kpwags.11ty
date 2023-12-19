@@ -1,7 +1,7 @@
 ---
 title: 'Redesigned Again'
 date: '2015-12-12'
-post_tags:
+tags:
   - Development
   - Design
   - Blogging

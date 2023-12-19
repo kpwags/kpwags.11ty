@@ -1,7 +1,7 @@
 ---
 title: 'So I Finally Just Built a Home Gym'
 date: '2020-08-04'
-post_tags:
+tags:
   - Fitness
   - Strength Training
 ---

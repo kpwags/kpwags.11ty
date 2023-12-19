@@ -1,7 +1,7 @@
 ---
 title: 'My Cat Cookie is Now 11 Years Old'
 date: '2020-05-15'
-post_tags:
+tags:
   - Life
   - Pets
 ---

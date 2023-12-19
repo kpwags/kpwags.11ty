@@ -1,7 +1,7 @@
 ---
 title: 'Gary Bettman and the NHL are Cowards (Part 2)'
 date: '2023-10-13'
-post_tags:
+tags:
   - NHL
   - Hockey
   - Sports

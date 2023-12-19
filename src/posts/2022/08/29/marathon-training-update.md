@@ -1,7 +1,7 @@
 ---
 title: 'Marathon Training Update'
 date: '2022-08-29'
-post_tags:
+tags:
   - Running
   - Fitness
   - Marathon

@@ -1,7 +1,7 @@
 ---
 title: 'Tracking My 2022 Goals'
 date: '2022-01-25'
-post_tags:
+tags:
   - Life
   - Goals
 ---

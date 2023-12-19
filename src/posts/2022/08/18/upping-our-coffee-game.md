@@ -1,7 +1,7 @@
 ---
 title: 'Upping Our Coffee Game'
 date: '2022-08-18'
-post_tags:
+tags:
   - Coffee
 ---
 

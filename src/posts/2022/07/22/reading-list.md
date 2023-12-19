@@ -1,7 +1,7 @@
 ---
 title: 'Reading List: July 16 - July 22'
 date: '2022-07-22'
-post_tags:
+tags:
   - Reading Log
   - C#
   - SQL

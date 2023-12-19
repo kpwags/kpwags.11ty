@@ -1,7 +1,7 @@
 ---
 title: 'I Need More Time in the Day'
 date: '2023-10-30'
-post_tags:
+tags:
   - Life
   - Guitar
   - Side Projects

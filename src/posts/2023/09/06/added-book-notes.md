@@ -1,7 +1,7 @@
 ---
 title: 'Added Book Notes'
 date: '2023-09-06'
-post_tags:
+tags:
   - Books
   - Reading
   - Site Updates

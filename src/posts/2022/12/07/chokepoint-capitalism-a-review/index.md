@@ -1,7 +1,7 @@
 ---
 title: 'Chokepoint Capitalism: A Review'
 date: '2022-12-07'
-post_tags:
+tags:
   - Books
   - What I've Read
   - Reviews

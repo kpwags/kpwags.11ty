@@ -1,7 +1,7 @@
 ---
 title: 'February Check-In'
 date: '2023-03-06'
-post_tags:
+tags:
   - Monthly Check-In
   - Life
   - Eagles

@@ -1,7 +1,7 @@
 ---
 title: 'Default Apps'
 date: '2023-11-27'
-post_tags:
+tags:
   - Notes
   - Applications
 ---

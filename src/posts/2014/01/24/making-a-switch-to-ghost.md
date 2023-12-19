@@ -1,7 +1,7 @@
 ---
 title: 'Making a Switch to Ghost?'
 date: '2014-01-24'
-post_tags:
+tags:
   - Development
   - Blogging
 ---

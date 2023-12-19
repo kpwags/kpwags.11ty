@@ -1,7 +1,7 @@
 ---
 title: 'Section 230 Should Be Protected'
 date: '2020-06-24'
-post_tags:
+tags:
   - Technology
   - Internet
   - Thoughts

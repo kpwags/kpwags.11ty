@@ -1,7 +1,7 @@
 ---
 title: 'June 2023 Check-In'
 date: '2023-07-03'
-post_tags:
+tags:
   - Monthly Check-In
   - Life
   - Hockey

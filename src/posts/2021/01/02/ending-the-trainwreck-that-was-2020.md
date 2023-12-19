@@ -1,7 +1,7 @@
 ---
 title: 'Ending the Trainwreck that was 2020'
 date: '2021-01-02'
-post_tags:
+tags:
   - Goals
   - Life
   - Yearly Retrospective

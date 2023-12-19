@@ -1,7 +1,7 @@
 ---
 title: 'Thoughts on the iPhone 7'
 date: '2016-09-15'
-post_tags:
+tags:
   - Technology
   - Thoughts
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Reading List: June 25 - July 1'
 date: '2022-07-01'
-post_tags:
+tags:
   - Reading Log
   - CSS
   - Music

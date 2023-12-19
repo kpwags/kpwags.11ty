@@ -1,7 +1,7 @@
 ---
 title: 'A New Year'
 date: '2019-01-03'
-post_tags:
+tags:
   - Goals
   - Life
   - Yearly Retrospective

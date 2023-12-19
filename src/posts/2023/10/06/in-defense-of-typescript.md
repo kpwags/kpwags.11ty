@@ -1,7 +1,7 @@
 ---
 title: 'In Defense of TypeScript'
 date: '2023-10-06T15:00:00.000Z'
-post_tags:
+tags:
   - Web Development
   - JavaScript
   - TypeScript

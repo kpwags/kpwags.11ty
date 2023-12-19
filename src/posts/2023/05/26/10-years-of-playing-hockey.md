@@ -1,7 +1,7 @@
 ---
 title: '10 Years of Playing Hockey'
 date: '2023-05-26'
-post_tags:
+tags:
   - Hockey
   - Life
 ---

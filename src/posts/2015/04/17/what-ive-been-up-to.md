@@ -1,7 +1,7 @@
 ---
 title: "What I've Been Up To"
 date: '2015-04-17'
-post_tags:
+tags:
   - Life
 ---
 

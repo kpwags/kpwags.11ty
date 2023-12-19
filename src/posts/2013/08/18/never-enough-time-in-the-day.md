@@ -1,7 +1,7 @@
 ---
 title: 'Never Enough Time in the Day'
 date: '2013-08-18'
-post_tags:
+tags:
   - Goals
 ---
 

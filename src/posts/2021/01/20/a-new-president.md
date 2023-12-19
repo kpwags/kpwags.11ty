@@ -1,7 +1,7 @@
 ---
 title: 'A New President'
 date: '2021-01-20'
-post_tags:
+tags:
   - Politics
 ---
 

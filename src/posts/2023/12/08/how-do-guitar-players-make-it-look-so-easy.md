@@ -1,7 +1,7 @@
 ---
 title: 'How Do Guitar Players Make it Look So Easy?'
 date: '2023-12-08'
-post_tags:
+tags:
   - Guitar
   - Music
   - Practice

@@ -1,7 +1,7 @@
 ---
 title: 'My Blogging Workflow'
 date: '2023-09-25'
-post_tags:
+tags:
   - Blogging
   - Writing
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'A Little Tip for Sticking with Fitness Goals'
 date: '2020-11-03'
-post_tags:
+tags:
   - Fitness
   - Goals
 ---

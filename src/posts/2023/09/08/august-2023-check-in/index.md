@@ -1,7 +1,7 @@
 ---
 title: 'August 2023 Check-In'
 date: '2023-09-08T14:00:00.000Z'
-post_tags:
+tags:
   - Monthly Check-In
   - Life
   - Music

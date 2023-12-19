@@ -1,7 +1,7 @@
 ---
 title: 'Star Trek Discovery and the Future of Streaming'
 date: '2017-09-28'
-post_tags:
+tags:
   - Thoughts
   - Media
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Mocking React Router and useParams'
 date: '2022-07-01'
-post_tags:
+tags:
   - Development
   - Unit Tests
   - React

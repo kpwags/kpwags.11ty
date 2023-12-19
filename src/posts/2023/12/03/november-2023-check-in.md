@@ -1,7 +1,7 @@
 ---
 title: 'November 2023 Check-In'
 date: '2023-12-03T15:00:00.000Z'
-post_tags:
+tags:
   - Monthly Check-In
   - Writing
   - Trips

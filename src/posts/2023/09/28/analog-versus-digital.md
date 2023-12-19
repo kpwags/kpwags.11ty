@@ -1,7 +1,7 @@
 ---
 title: 'Analog Versus Digital'
 date: '2023-09-28'
-post_tags:
+tags:
   - Notes
   - Thoughts
 ---

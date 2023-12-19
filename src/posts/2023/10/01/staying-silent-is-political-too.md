@@ -1,7 +1,7 @@
 ---
 title: 'Staying Silent is Political Too'
 date: '2023-10-01'
-post_tags:
+tags:
   - Politics
 ---
 

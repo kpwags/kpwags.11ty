@@ -1,7 +1,7 @@
 ---
 title: 'Reading List: July 2 - July 8'
 date: '2022-07-08'
-post_tags:
+tags:
   - Reading Log
   - CSS
   - C#

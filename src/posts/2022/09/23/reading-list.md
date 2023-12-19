@@ -1,7 +1,7 @@
 ---
 title: 'Reading List: September 3 - 23'
 date: '2022-09-23'
-post_tags:
+tags:
   - Reading Log
   - Free Speech
   - Development

@@ -1,7 +1,7 @@
 ---
 title: 'There Goes the Neighborhood...'
 date: '2022-04-26'
-post_tags:
+tags:
   - Internet
   - Twitter
   - Social Media

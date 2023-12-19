@@ -1,7 +1,7 @@
 ---
 title: 'November Check-In'
 date: '2022-12-05'
-post_tags:
+tags:
   - Monthly Check-In
   - Life
   - Hockey

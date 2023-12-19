@@ -1,7 +1,7 @@
 ---
 title: 'Adjusting My Social Media Presence'
 date: '2017-08-13'
-post_tags:
+tags:
   - Social Media
   - Thoughts
   - News

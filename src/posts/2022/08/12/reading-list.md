@@ -1,7 +1,7 @@
 ---
 title: 'Reading List: August 6 - August 12'
 date: '2022-08-12'
-post_tags:
+tags:
   - Reading Log
   - .NET
   - Crypto

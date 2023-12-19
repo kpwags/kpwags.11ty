@@ -1,7 +1,7 @@
 ---
 title: 'Continuing My Side Project & Learning React'
 date: '2019-08-15'
-post_tags:
+tags:
   - Development
   - React
   - Node.js

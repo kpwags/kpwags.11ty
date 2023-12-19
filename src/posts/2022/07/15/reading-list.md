@@ -1,7 +1,7 @@
 ---
 title: 'Reading List: July 9 - July 15'
 date: '2022-07-15'
-post_tags:
+tags:
   - Reading Log
   - Space
   - Remote Work

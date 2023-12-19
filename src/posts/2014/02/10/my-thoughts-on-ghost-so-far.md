@@ -1,7 +1,7 @@
 ---
 title: 'My Thoughts on Ghost so Far'
 date: '2014-02-10'
-post_tags:
+tags:
   - Development
   - Blogging
   - Thoughts

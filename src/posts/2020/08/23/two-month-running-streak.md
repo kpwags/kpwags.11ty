@@ -1,7 +1,7 @@
 ---
 title: 'Two Month Running Streak'
 date: '2020-08-23'
-post_tags:
+tags:
   - Fitness
   - Running
 ---

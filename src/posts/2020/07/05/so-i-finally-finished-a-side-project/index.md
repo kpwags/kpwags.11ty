@@ -1,7 +1,7 @@
 ---
 title: 'So I Finally Finished A Side Project'
 date: '2020-07-05'
-post_tags:
+tags:
   - Development
   - .NET
   - Where Do You Want to Eat

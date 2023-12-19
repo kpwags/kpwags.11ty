@@ -1,7 +1,7 @@
 ---
 title: 'Figuring Out Better Sleep Habits'
 date: '2023-08-16'
-post_tags:
+tags:
   - Life
   - Habits
   - Fitness

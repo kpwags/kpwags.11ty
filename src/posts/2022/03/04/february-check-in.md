@@ -1,7 +1,7 @@
 ---
 title: 'February Check-In'
 date: '2022-03-04'
-post_tags:
+tags:
   - Life
   - Monthly Check-In
   - Homebrewing

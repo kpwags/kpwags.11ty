@@ -224,7 +224,7 @@ nav @media (max-width: 450px) {
 article.post {
     margin: 32px 0 64px;
     border: 1px solid var(--grey-1);
-    padding: 16px;
+    padding: 32px;
     border-radius: 8px;
 }
 
@@ -298,6 +298,14 @@ ul.tag-list {
 
 .tag-list li a {
     white-space: nowrap;
+}
+
+.tag-list li:not(.lead):after {
+    content: ',';
+}
+
+.tag-list li:last-child:after {
+    content: '';
 }
 
 .in-depth-notes {
@@ -481,4 +489,15 @@ ul.tag-list {
         width: 250px;
         margin: 0 auto 32px;
     }
+}
+
+.tag-page-header {
+    text-transform: uppercase;
+    font-size: 3.4rem;
+}
+
+.tag-page-header span {
+    font-size: 1.33rem;
+    display: block;
+    font-weight: 300;
 }

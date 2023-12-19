@@ -1,7 +1,7 @@
 ---
 title: 'One More Time by Blink-182'
 date: '2023-09-29T16:00:00.000Z'
-post_tags:
+tags:
   - Songs
   - Music
   - Nostalgia

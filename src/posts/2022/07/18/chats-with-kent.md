@@ -1,7 +1,7 @@
 ---
 title: 'Chats with Kent'
 date: '2022-07-18'
-post_tags:
+tags:
   - Podcasts
   - Development
   - Recommendations

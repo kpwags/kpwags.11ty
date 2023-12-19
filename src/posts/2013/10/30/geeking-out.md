@@ -1,7 +1,7 @@
 ---
 title: 'Geeking Out'
 date: '2013-10-30'
-post_tags:
+tags:
   - Space
 ---
 
