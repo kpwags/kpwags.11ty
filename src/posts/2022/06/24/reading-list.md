@@ -1,7 +1,7 @@
 ---
 title: 'Reading List: June 11 - June 24'
 date: '2022-06-24'
-post_tags:
+tags:
   - Reading Log
   - CSS
   - TypeScript

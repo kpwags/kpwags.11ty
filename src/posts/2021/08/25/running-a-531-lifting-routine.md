@@ -1,7 +1,7 @@
 ---
 title: 'Running a 5/3/1 Lifting Routine'
 date: '2021-08-25'
-post_tags:
+tags:
   - Fitness
   - Lifting
   - Strength Training

@@ -1,4 +1,8 @@
 module.exports = (tag) => {
+	if (typeof tag === 'undefined') {
+		return '';
+	}
+
 	switch (tag.toUpperCase()) {
 		case '.NET':
 			return 'dotnet';
@@ -6,6 +10,8 @@ module.exports = (tag) => {
 			return 'csharp';
 		case 'F#':
 			return 'fsharp';
+		case '':
+			return '';
 		default:
 			return tag.toLowerCase().replace(/\s/g, '-').replaceAll('.', '').replaceAll("'", '').replaceAll('?', '');
 	}

@@ -1,7 +1,7 @@
 ---
 title: 'Podcasts galore!'
 date: '2014-02-05'
-post_tags:
+tags:
   - Podcasts
 ---
 

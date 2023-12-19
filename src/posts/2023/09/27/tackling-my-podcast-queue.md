@@ -1,7 +1,7 @@
 ---
 title: 'Tackling My Podcast Queue'
 date: '2023-09-27'
-post_tags:
+tags:
   - Podcasts
 ---
 

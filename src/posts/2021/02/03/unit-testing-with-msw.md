@@ -1,7 +1,7 @@
 ---
 title: 'Unit Testing with MSW'
 date: '2021-02-03'
-post_tags:
+tags:
   - Development
   - Unit Testing
   - React

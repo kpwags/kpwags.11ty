@@ -1,7 +1,7 @@
 ---
 title: 'Writing Everyday'
 date: '2023-09-22'
-post_tags:
+tags:
   - Writing
   - Habits
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'The Media and Protecting Democracy'
 date: '2023-11-21'
-post_tags:
+tags:
   - Media
   - News
   - Politics

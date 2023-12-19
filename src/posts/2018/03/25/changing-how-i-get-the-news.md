@@ -1,7 +1,7 @@
 ---
 title: 'Changing How I Get the News'
 date: '2018-03-25'
-post_tags:
+tags:
   - Social Media
   - Politics
   - News

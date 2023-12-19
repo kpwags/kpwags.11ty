@@ -1,7 +1,7 @@
 ---
 title: 'Integrating Notion into my Site'
 date: '2023-09-08T13:00:00.000Z'
-post_tags:
+tags:
   - Notion
   - Development
   - Node.js

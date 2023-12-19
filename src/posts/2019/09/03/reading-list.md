@@ -1,7 +1,7 @@
 ---
 title: 'Reading List 8/26 - 9/1'
 date: '2019-09-03'
-post_tags:
+tags:
 	- Reading Log
 ---
 

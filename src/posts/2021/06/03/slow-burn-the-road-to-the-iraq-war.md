@@ -1,7 +1,7 @@
 ---
 title: 'Slow Burn: The Road to the Iraq War'
 date: '2021-06-03'
-post_tags:
+tags:
   - Podcasts
   - Recommendations
   - Politics

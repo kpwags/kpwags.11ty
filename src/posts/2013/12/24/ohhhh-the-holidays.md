@@ -1,7 +1,7 @@
 ---
 title: 'Ohhhh, the Holidays'
 date: '2013-12-24'
-post_tags:
+tags:
   - Life
 ---
 

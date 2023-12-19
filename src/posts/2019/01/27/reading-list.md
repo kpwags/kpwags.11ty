@@ -1,7 +1,7 @@
 ---
 title: 'Reading List 1/17 - 1/27'
 date: '2019-01-27'
-post_tags:
+tags:
 	- Reading Log
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Reading and Watching Notes'
 date: '2023-07-24'
-post_tags:
+tags:
   - Books
   - Movies
   - Documentaries

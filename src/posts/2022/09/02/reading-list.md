@@ -1,7 +1,7 @@
 ---
 title: 'Reading List for August 20 - September 2'
 date: '2022-09-02'
-post_tags:
+tags:
   - Reading Log
   - React
   - Web Development

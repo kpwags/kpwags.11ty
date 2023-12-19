@@ -1,7 +1,7 @@
 ---
 title: 'April Check-In'
 date: '2023-05-02'
-post_tags:
+tags:
   - Monthly Check-In
   - Travel
   - Blogging

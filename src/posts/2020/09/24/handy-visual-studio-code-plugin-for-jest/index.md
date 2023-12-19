@@ -1,7 +1,7 @@
 ---
 title: 'Handy Visual Studio Code Plugin for Jest'
 date: '2020-09-24'
-post_tags:
+tags:
   - Development
   - Unit Testing
 ---

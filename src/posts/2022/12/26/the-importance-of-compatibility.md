@@ -1,7 +1,7 @@
 ---
 title: 'The Importance of Compatibility'
 date: '2022-12-26'
-post_tags:
+tags:
   - Podcasts
   - Podcast Notes
   - Development

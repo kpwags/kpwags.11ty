@@ -1,7 +1,7 @@
 ---
 title: 'Switching to Eleventy'
 date: '2023-12-14'
-post_tags:
+tags:
   - Eleventy
   - Site Updates
   - Blogging

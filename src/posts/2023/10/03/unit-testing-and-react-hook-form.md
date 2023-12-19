@@ -1,7 +1,7 @@
 ---
 title: 'Unit Testing and React Hook Form'
 date: '2023-10-03'
-post_tags:
+tags:
   - Development
   - React
   - Unit Testing

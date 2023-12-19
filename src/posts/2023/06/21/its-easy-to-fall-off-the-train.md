@@ -1,7 +1,7 @@
 ---
 title: "It's Easy to Fall Off the Train"
 date: '2023-06-21'
-post_tags:
+tags:
   - Life
   - Fitness
   - Routines

@@ -1,7 +1,7 @@
 ---
 title: 'September Check-In'
 date: '2022-10-10'
-post_tags:
+tags:
   - Monthly Check-In
   - Running
   - Life

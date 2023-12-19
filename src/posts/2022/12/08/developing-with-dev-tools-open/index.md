@@ -1,7 +1,7 @@
 ---
 title: 'Developing with Dev Tools Open'
 date: '2022-12-08'
-post_tags:
+tags:
   - Web Development
   - Dev Tips
   - Development

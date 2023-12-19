@@ -1,7 +1,7 @@
 ---
 title: 'Taking Control of Your Content'
 date: '2022-05-12'
-post_tags:
+tags:
   - Social Media
 ---
 

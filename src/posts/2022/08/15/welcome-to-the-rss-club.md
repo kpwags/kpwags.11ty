@@ -2,7 +2,7 @@
 title: 'Welcome to the RSS Club'
 date: '2022-08-15'
 rss_only: true
-post_tags:
+tags:
   - RSS
 ---
 

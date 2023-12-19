@@ -1,7 +1,7 @@
 ---
 title: 'My Typical Weekday'
 date: '2021-01-14'
-post_tags:
+tags:
   - Life
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Marathon Training'
 date: '2022-08-03'
-post_tags:
+tags:
   - Running
   - Fitness
 ---

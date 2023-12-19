@@ -1,7 +1,7 @@
 ---
 title: 'Adding Themes'
 date: '2022-11-08'
-post_tags:
+tags:
   - CSS
   - HTML
   - Tutorial

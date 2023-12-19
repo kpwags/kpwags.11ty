@@ -1,7 +1,7 @@
 ---
 title: '2021 Retrospective'
 date: '2022-01-07'
-post_tags:
+tags:
   - Life
   - Yearly Retrospective
   - Goals

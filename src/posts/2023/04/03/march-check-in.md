@@ -1,7 +1,7 @@
 ---
 title: 'March Check-In'
 date: '2023-04-03'
-post_tags:
+tags:
   - Astro
   - Photography
   - Monthly Check-In

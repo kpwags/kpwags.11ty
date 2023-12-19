@@ -1,7 +1,7 @@
 ---
 title: '2014 Is Here!'
 date: '2014-01-01'
-post_tags:
+tags:
   - Life
 ---
 

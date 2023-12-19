@@ -1,7 +1,7 @@
 ---
 title: 'Tracking My Fitness Journey'
 date: '2020-01-21'
-post_tags:
+tags:
   - Fitness
   - Strength Training
   - Running

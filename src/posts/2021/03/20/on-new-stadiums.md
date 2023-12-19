@@ -1,7 +1,7 @@
 ---
 title: 'On New Stadiums'
 date: '2021-03-21'
-post_tags:
+tags:
   - Thoughts
   - Politics
   - Sports

@@ -1,7 +1,7 @@
 ---
 title: "Further Thoughts on Reddit's API Changes"
 date: '2023-06-07'
-post_tags:
+tags:
   - Reddit
   - Social Media
   - Internet

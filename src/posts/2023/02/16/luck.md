@@ -1,7 +1,7 @@
 ---
 title: 'Luck'
 date: '2023-02-16'
-post_tags:
+tags:
   - Life
   - Thoughts
 ---

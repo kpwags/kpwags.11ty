@@ -1,7 +1,7 @@
 ---
 title: 'Starting a New Job'
 date: '2020-12-14'
-post_tags:
+tags:
   - Development
   - Life
 ---

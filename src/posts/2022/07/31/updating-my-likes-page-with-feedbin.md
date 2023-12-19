@@ -1,7 +1,7 @@
 ---
 title: 'Updating My Likes Page with Feedbin'
 date: '2022-07-31'
-post_tags:
+tags:
   - Development
   - TypeScript
   - Next.js

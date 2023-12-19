@@ -1,7 +1,7 @@
 ---
 title: 'My Thoughts on Microsoft Acquiring GitHub'
 date: '2018-06-12'
-post_tags:
+tags:
   - Development
   - Technology
   - Thoughts

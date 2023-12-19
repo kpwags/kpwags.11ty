@@ -1,7 +1,7 @@
 ---
 title: 'Looking Back at 2017 and Forward into 2018'
 date: '2018-01-25'
-post_tags:
+tags:
   - Goals
   - Life
   - Yearly Retrospective

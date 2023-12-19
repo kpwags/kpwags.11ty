@@ -1,7 +1,7 @@
 ---
 title: 'May Check-In'
 date: '2023-06-02'
-post_tags:
+tags:
   - Monthly Check-In
   - Life
   - Side Projects

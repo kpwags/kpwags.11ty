@@ -1,7 +1,7 @@
 ---
 title: 'Yearly Wrap-up and Retrospective: 2019'
 date: '2020-01-05'
-post_tags:
+tags:
   - Goals
   - Life
   - Yearly Retrospective

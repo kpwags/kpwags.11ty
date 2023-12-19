@@ -1,7 +1,7 @@
 ---
 title: 'Artemis I'
 date: '2022-11-23'
-post_tags:
+tags:
   - NASA
   - Artemis
   - Space

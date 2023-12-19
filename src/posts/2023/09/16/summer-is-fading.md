@@ -1,7 +1,7 @@
 ---
 title: 'Summer is Fading'
 date: '2023-09-16'
-post_tags:
+tags:
   - Life
   - Weather
 ---

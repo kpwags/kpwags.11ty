@@ -1,7 +1,7 @@
 ---
 title: 'Goodbye Reddit!'
 date: '2023-06-12'
-post_tags:
+tags:
   - Reddit
   - Social Media
 ---

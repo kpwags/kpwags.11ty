@@ -1,7 +1,7 @@
 ---
 title: 'My Month Away from Social Media'
 date: '2018-05-05'
-post_tags:
+tags:
   - Social Media
   - Politics
   - News

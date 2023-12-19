@@ -1,7 +1,7 @@
 ---
 title: 'July Check-In'
 date: '2022-08-01'
-post_tags:
+tags:
   - Monthly Check-In
   - Life
   - Hockey

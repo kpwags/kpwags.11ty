@@ -1,7 +1,7 @@
 ---
 title: 'Random Thoughts on Owning Things'
 date: '2023-07-12'
-post_tags:
+tags:
   - Thoughts
   - Streaming Services
   - Music

@@ -1,7 +1,7 @@
 ---
 title: 'Reading List 3/4 - 3/10'
 date: '2019-03-10'
-post_tags:
+tags:
 	- Reading Log
 ---
 

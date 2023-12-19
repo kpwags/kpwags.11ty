@@ -1,7 +1,7 @@
 ---
 title: 'Two Years of Remote Work'
 date: '2022-04-28'
-post_tags:
+tags:
   - Life
   - Work
   - Remote Work

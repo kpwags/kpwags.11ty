@@ -1,7 +1,7 @@
 ---
 title: 'Reading List: June 4 - June 10'
 date: '2022-06-10'
-post_tags:
+tags:
   - Reading Log
   - .NET
   - Next.js

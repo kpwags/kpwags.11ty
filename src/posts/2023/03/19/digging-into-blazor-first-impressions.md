@@ -1,7 +1,7 @@
 ---
 title: 'Digging Into Blazor - First Impressions'
 date: '2023-03-19'
-post_tags:
+tags:
   - .NET
   - Blazor
   - C#

@@ -1,7 +1,7 @@
 ---
 title: 'Reading List: May 28 - June 3'
 date: '2022-06-03'
-post_tags:
+tags:
   - Reading Log
   - CSS
   - Git

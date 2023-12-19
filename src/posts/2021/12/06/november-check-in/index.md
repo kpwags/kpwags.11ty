@@ -1,7 +1,7 @@
 ---
 title: 'November Check-In'
 date: '2021-12-06'
-post_tags:
+tags:
   - Life
   - Monthly Check-In
   - Travel

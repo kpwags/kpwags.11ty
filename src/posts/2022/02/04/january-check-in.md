@@ -1,7 +1,7 @@
 ---
 title: 'January Check-In'
 date: '2022-02-04'
-post_tags:
+tags:
   - Life
   - Monthly Check-In
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'The Kids Online Safety Act (KOSA) Must Fail'
 date: '2023-10-07'
-post_tags:
+tags:
   - Politics
   - Internet
   - LGBTQ

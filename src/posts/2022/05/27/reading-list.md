@@ -1,7 +1,7 @@
 ---
 title: 'Reading List: May 21 - May 27'
 date: '2022-05-27'
-post_tags:
+tags:
   - Reading Log
   - Food
   - Social Media

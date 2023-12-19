@@ -1,7 +1,7 @@
 ---
 title: 'Star Trek Generations is Underrated'
 date: '2022-12-27'
-post_tags:
+tags:
   - Movie Notes
   - Star Trek
 ---

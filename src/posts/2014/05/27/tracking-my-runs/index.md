@@ -1,7 +1,7 @@
 ---
 title: 'Tracking My Runs'
 date: '2014-05-27'
-post_tags:
+tags:
   - Running
   - Fitness
 ---

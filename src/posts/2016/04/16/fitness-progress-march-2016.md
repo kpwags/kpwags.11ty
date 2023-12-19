@@ -1,7 +1,7 @@
 ---
 title: 'Fitness Progress - March 2016'
 date: '2016-04-16'
-post_tags:
+tags:
   - Fitness
   - Strength Training
   - Running

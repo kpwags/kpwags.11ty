@@ -1,7 +1,7 @@
 ---
 title: 'Calming Down After Hockey'
 date: '2023-05-05'
-post_tags:
+tags:
   - Hockey
   - Rituals
   - Reading

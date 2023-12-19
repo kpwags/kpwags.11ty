@@ -1,7 +1,7 @@
 ---
 title: 'December Check-In'
 date: '2023-01-01'
-post_tags:
+tags:
   - Monthly Check-In
   - Life
   - Christmaas

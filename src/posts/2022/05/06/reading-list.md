@@ -1,7 +1,7 @@
 ---
 title: 'Reading List: April 29 - May 6'
 date: '2022-05-06'
-post_tags:
+tags:
   - Reading Log
   - Crypto
   - React

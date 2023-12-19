@@ -1,7 +1,7 @@
 ---
 title: 'On FTX and Crypto in General'
 date: '2022-11-18'
-post_tags:
+tags:
   - Crypto
   - FTX
 ---

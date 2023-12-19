@@ -1,7 +1,7 @@
 ---
 title: 'Think Again Review'
 date: '2021-10-27'
-post_tags:
+tags:
   - Books
   - Reviews
   - Book Reviews

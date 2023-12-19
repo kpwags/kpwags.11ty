@@ -1,7 +1,7 @@
 ---
 title: 'Delays, Delays...'
 date: '2014-01-24'
-post_tags:
+tags:
   - Goals
   - Fitness
 ---

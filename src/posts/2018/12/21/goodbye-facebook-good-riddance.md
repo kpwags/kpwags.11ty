@@ -1,7 +1,7 @@
 ---
 title: 'Goodbye Facebook & Good Riddance'
 date: '2018-12-21'
-post_tags:
+tags:
   - Social Media
   - Thoughts
 ---

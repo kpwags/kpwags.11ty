@@ -1,7 +1,7 @@
 ---
 title: 'Reading List: August 13 - 19'
 date: '2022-08-19'
-post_tags:
+tags:
   - Reading Log
   - C#
   - .NET

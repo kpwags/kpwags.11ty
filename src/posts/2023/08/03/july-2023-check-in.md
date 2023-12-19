@@ -1,7 +1,7 @@
 ---
 title: 'July 2023 Check-In'
 date: '2023-08-03'
-post_tags:
+tags:
   - Monthly Check-In
   - Life
   - Travel

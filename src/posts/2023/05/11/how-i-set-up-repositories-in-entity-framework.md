@@ -1,7 +1,7 @@
 ---
 title: 'How I Set Up Repositories in Entity Framework'
 date: '2023-05-11'
-post_tags:
+tags:
   - Entity Framework
   - .NET
   - C#

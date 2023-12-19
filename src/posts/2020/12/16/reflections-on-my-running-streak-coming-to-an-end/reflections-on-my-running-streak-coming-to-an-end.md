@@ -1,7 +1,7 @@
 ---
 title: 'Reflections on My Running Streak Coming to an End'
 date: '2020-12-16'
-post_tags:
+tags:
   - Fitness
   - Running
 ---

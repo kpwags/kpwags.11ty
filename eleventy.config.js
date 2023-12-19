@@ -4,6 +4,7 @@ const pluginImages = require('./eleventy.config.images.js');
 const pluginWebc = require('@11ty/eleventy-plugin-webc');
 
 const publicPosts = require('./src/collections/publicPosts.js');
+const allPublicPosts = require('./src/collections/allPublicPosts.js');
 
 const dateFilter = require('./src/filters/date-filter.js');
 const tagUrlFilter = require('./src/filters/tagurl-filter.js');
@@ -13,6 +14,7 @@ const readingTimeFilter = require('./src/filters/readingTime-filter.js');
 const inDepthShortcode = require('./src/shortcodes/inDepth-shortcode.js');
 const youTubeShortcode = require('./src/shortcodes/youTube-shortcode.js');
 const starRatingShortcode = require('./src/shortcodes/starRating-shortcode.js');
+const tagListShortcode = require('./src/shortcodes/tagList-shortcode.js');
 
 module.exports = function (eleventyConfig) {
     // Copy the contents of the `public` folder to the output folder
@@ -27,6 +29,10 @@ module.exports = function (eleventyConfig) {
         excerpt_separator: '<!-- excerpt -->',
     });
 
+    eleventyConfig.setNunjucksEnvironmentOptions({
+
+    });
+
     // App plugins
     eleventyConfig.addPlugin(pluginImages);
     eleventyConfig.addPlugin(pluginRss);
@@ -38,6 +44,7 @@ module.exports = function (eleventyConfig) {
     });
 
     eleventyConfig.addCollection('publicPosts', publicPosts);
+    eleventyConfig.addCollection('postsAndReadingLogs', allPublicPosts);
 
     eleventyConfig.addFilter('readableDate', dateFilter);
     eleventyConfig.addFilter('tagUrlSlug', tagUrlFilter);
@@ -47,8 +54,15 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPairedLiquidShortcode('inDepth', inDepthShortcode);
     eleventyConfig.addLiquidShortcode('youTubeEmbed', youTubeShortcode);
     eleventyConfig.addLiquidShortcode('starRating', starRatingShortcode);
+    eleventyConfig.addLiquidShortcode('tagList', tagListShortcode);
 
     return {
+        templateFormats: [
+			"md",
+			"njk",
+			"html",
+			"liquid",
+		],
         dir: {
             input: 'src',
             output: '_site'

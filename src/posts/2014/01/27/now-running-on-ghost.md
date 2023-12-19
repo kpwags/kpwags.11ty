@@ -1,7 +1,7 @@
 ---
 title: 'Now Running on Ghost'
 date: '2014-01-27'
-post_tags:
+tags:
   - Development
   - Blogging
 ---

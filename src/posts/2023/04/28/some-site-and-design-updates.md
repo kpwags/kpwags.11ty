@@ -1,7 +1,7 @@
 ---
 title: 'Some Site & Design Updates'
 date: '2023-04-28'
-post_tags:
+tags:
   - Site Updates
   - Design
 description: "I've made some design updates to my site and have introduced new and upgraded functionality with Next.js, Code Hike, and Sandpack"

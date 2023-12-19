@@ -1,7 +1,7 @@
 ---
 title: 'Refactoring Loops'
 date: '2021-06-02'
-post_tags:
+tags:
   - Development
   - .NET
   - React

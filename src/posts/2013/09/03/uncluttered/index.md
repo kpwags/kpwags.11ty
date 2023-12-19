@@ -1,7 +1,7 @@
 ---
 title: 'Uncluttered'
 date: '2013-09-03'
-post_tags:
+tags:
   - Organization
 ---
 

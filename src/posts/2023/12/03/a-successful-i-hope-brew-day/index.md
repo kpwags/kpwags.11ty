@@ -3,7 +3,7 @@ title: 'A Successful (I Hope) Brew Day'
 date: '2023-12-03T14:00:00.000Z'
 description: "Yesterday I had my first brew day in almost 2 years. I ended up brewing a Harpoon Winter Warmer clone."
 commentIssueNumber: 177
-post_tags:
+tags:
   - Beer
   - Homebrewing
   - C#

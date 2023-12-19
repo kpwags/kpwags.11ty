@@ -1,7 +1,7 @@
 ---
 title: '2016 In Review'
 date: '2017-01-06'
-post_tags:
+tags:
   - Goals
   - Life
   - Yearly Retrospective

@@ -1,7 +1,7 @@
 ---
 title: 'About the iPhone 7'
 date: '2016-08-23'
-post_tags:
+tags:
   - Technology
   - Thoughts
 ---

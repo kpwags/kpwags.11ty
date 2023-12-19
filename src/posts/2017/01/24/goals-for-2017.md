@@ -1,7 +1,7 @@
 ---
 title: 'Goals for 2017'
 date: '2017-01-24'
-post_tags:
+tags:
   - Goals
 ---
 

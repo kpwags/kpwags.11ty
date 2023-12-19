@@ -1,7 +1,7 @@
 ---
 title: 'Digging Into Blazor - Setting Up Custom Authentication'
 date: '2023-07-31'
-post_tags:
+tags:
   - Blazor
   - .NET
   - C#

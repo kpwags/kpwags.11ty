@@ -1,7 +1,7 @@
 ---
 title: 'A New Mini-Project is Brewing: Daily Shots'
 date: '2013-10-03'
-post_tags:
+tags:
   - Development
   - Photography
 ---

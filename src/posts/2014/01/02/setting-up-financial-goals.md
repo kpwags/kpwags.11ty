@@ -1,7 +1,7 @@
 ---
 title: 'Setting Up Financial Goals'
 date: '2014-01-02'
-post_tags:
+tags:
   - Goals
   - Finance
 ---

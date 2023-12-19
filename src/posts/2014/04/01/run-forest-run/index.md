@@ -1,7 +1,7 @@
 ---
 title: 'Run Forest Run!'
 date: '2014-04-01'
-post_tags:
+tags:
   - Goals
   - Fitness
   - Running

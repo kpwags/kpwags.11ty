@@ -1,7 +1,7 @@
 ---
 title: 'September Check-In'
 date: '2021-10-06'
-post_tags:
+tags:
   - Life
   - Monthly Check-In
 ---

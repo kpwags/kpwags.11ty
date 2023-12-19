@@ -1,7 +1,7 @@
 ---
 title: 'New Domain, New Look, More Posts (Hopefully)'
 date: '2013-08-14'
-post_tags:
+tags:
   - Development
   - Blogging
 ---

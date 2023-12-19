@@ -1,7 +1,7 @@
 ---
 title: 'Reading List: May 7 - May 13'
 date: '2022-05-13'
-post_tags:
+tags:
   - Reading Log
   - Development
   - Economics

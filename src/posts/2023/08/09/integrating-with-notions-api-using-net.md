@@ -1,7 +1,7 @@
 ---
 title: "Integrating with Notion's API Using .NET"
 date: '2023-08-09'
-post_tags:
+tags:
   - .NET
   - C#
   - Notion

@@ -1,7 +1,7 @@
 ---
 title: 'On Software Subscriptions'
 date: '2021-09-04'
-post_tags:
+tags:
   - Thoughts
   - Software
 ---

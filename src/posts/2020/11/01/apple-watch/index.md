@@ -1,7 +1,7 @@
 ---
 title: 'Why I Chose the Apple Watch'
 date: '2020-11-01'
-post_tags:
+tags:
   - Thoughts
   - Technology
   - Apple

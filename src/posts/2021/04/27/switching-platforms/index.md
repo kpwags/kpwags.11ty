@@ -1,7 +1,7 @@
 ---
 title: 'Switching Platforms'
 date: '2021-04-27'
-post_tags:
+tags:
   - Development
   - Next.js
   - React

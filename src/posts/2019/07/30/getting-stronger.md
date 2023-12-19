@@ -1,7 +1,7 @@
 ---
 title: 'Getting Stronger'
 date: '2019-07-30'
-post_tags:
+tags:
   - Fitness
   - Strength Training
   - Goals

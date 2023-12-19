@@ -1,7 +1,7 @@
 ---
 title: 'Quarantine Update'
 date: '2020-03-31'
-post_tags:
+tags:
   - 2020 Sucks
   - Goals
 ---

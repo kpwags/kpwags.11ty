@@ -1,7 +1,7 @@
 ---
 title: 'Star Trek Prodigy...What a Bummer'
 date: '2023-06-27'
-post_tags:
+tags:
   - Star Trek
   - TV
 ---

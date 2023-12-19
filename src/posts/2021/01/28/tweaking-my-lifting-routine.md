@@ -1,7 +1,7 @@
 ---
 title: 'Tweaking My Lifting Routine'
 date: '2021-01-28'
-post_tags:
+tags:
   - Fitness
   - Strength Training
 ---

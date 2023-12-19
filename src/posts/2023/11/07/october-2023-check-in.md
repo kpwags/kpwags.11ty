@@ -1,7 +1,7 @@
 ---
 title: 'October 2023 Check-In'
 date: '2023-11-07'
-post_tags:
+tags:
   - Monthly Check-In
   - Life
   - Fitness

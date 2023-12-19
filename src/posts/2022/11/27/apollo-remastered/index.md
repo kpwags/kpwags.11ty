@@ -1,7 +1,7 @@
 ---
 title: 'Apollo Remastered'
 date: '2022-11-27'
-post_tags:
+tags:
   - Apollo
   - NASA
   - Space

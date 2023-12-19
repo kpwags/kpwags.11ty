@@ -1,7 +1,7 @@
 ---
 title: 'My Progress So Far'
 date: '2019-03-12'
-post_tags:
+tags:
   - Goals
   - Life
 ---

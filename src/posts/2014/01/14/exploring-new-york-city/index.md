@@ -1,7 +1,7 @@
 ---
 title: 'Exploring New York City'
 date: '2014-01-14'
-post_tags:
+tags:
   - Life
   - Travel
 ---

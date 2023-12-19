@@ -1,7 +1,7 @@
 ---
 title: 'Another Redesign'
 date: '2018-05-15'
-post_tags:
+tags:
   - Development
   - Design
   - Blogging

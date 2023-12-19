@@ -1,7 +1,7 @@
 ---
 title: 'June Check-In'
 date: '2022-07-05'
-post_tags:
+tags:
   - Life
   - Monthly Check-In
   - Video Games

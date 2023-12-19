@@ -1,7 +1,7 @@
 ---
 title: 'The Redesign'
 date: '2014-11-14'
-post_tags:
+tags:
   - Development
   - Design
   - Blogging

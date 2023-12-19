@@ -1,7 +1,7 @@
 ---
 title: 'The Stress of the Playoffs'
 date: '2023-10-09'
-post_tags:
+tags:
   - Sports
   - Playoffs
   - Baseball

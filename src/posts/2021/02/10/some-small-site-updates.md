@@ -1,7 +1,7 @@
 ---
 title: 'Some Small Site Updates'
 date: '2021-02-10'
-post_tags:
+tags:
   - Development
   - Blogging
   - CSS

@@ -1,7 +1,7 @@
 ---
 title: 'I Finally Ran a Marathon'
 date: '2015-12-17'
-post_tags:
+tags:
   - Goals
   - Fitness
   - Running
