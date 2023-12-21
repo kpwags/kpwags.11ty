@@ -194,6 +194,7 @@ a:hover svg {
         padding: 0 32px;
     }
 }
+
 /* end header */
 
 /* footer */
@@ -214,11 +215,12 @@ footer nav a {
     white-space: nowrap;
 }
 
-nav @media (max-width: 450px) {
-    footer {
+@media (max-width: 450px) {
+    footer nav {
         margin: 16px 0;
     }
 }
+
 /* end footer */
 
 article.post {
@@ -500,4 +502,26 @@ ul.tag-list {
     font-size: 1.33rem;
     display: block;
     font-weight: 300;
+}
+
+section.archives {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+
+    a {
+        text-align: center;
+        text-decoration: none;
+        display: block;
+        padding: 10px 16px;
+        width: 250px;
+        border-radius: 8px;
+        border: 1px solid var(--grey-1);
+
+        &:hover {
+            text-decoration: underline;
+            border-color: var(--grey-2);
+            box-shadow: var(--box-shadow);
+        }
+    }
 }

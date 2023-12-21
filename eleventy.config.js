@@ -5,11 +5,13 @@ const pluginWebc = require('@11ty/eleventy-plugin-webc');
 
 const publicPosts = require('./src/collections/publicPosts.js');
 const allPublicPosts = require('./src/collections/allPublicPosts.js');
+const postsByYear = require('./src/collections/postsByYear.js');
 
 const dateFilter = require('./src/filters/date-filter.js');
 const tagUrlFilter = require('./src/filters/tagurl-filter.js');
 const toHtmlFilter = require('./src/filters/tohtml-filter.js');
 const readingTimeFilter = require('./src/filters/readingTime-filter.js');
+const archivesMonthYear = require('./src/filters/archivesMonthYear-filter.js');
 
 const inDepthShortcode = require('./src/shortcodes/inDepth-shortcode.js');
 const youTubeShortcode = require('./src/shortcodes/youTube-shortcode.js');
@@ -29,10 +31,6 @@ module.exports = function (eleventyConfig) {
         excerpt_separator: '<!-- excerpt -->',
     });
 
-    eleventyConfig.setNunjucksEnvironmentOptions({
-
-    });
-
     // App plugins
     eleventyConfig.addPlugin(pluginImages);
     eleventyConfig.addPlugin(pluginRss);
@@ -45,11 +43,15 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.addCollection('publicPosts', publicPosts);
     eleventyConfig.addCollection('postsAndReadingLogs', allPublicPosts);
+    eleventyConfig.addCollection('postsByYear', postsByYear);
 
     eleventyConfig.addFilter('readableDate', dateFilter);
     eleventyConfig.addFilter('tagUrlSlug', tagUrlFilter);
     eleventyConfig.addFilter('toHTML', toHtmlFilter);
     eleventyConfig.addFilter('readingTime', readingTimeFilter);
+    eleventyConfig.addFilter('archivesGetMonth', archivesMonthYear.getMonth);
+    eleventyConfig.addFilter('archivesGetYear', archivesMonthYear.getYear);
+    eleventyConfig.addFilter('archivesGetDateString', archivesMonthYear.getDateString);
 
     eleventyConfig.addPairedLiquidShortcode('inDepth', inDepthShortcode);
     eleventyConfig.addLiquidShortcode('youTubeEmbed', youTubeShortcode);
@@ -58,11 +60,11 @@ module.exports = function (eleventyConfig) {
 
     return {
         templateFormats: [
-			"md",
-			"njk",
-			"html",
-			"liquid",
-		],
+            "md",
+            "njk",
+            "html",
+            "liquid",
+        ],
         dir: {
             input: 'src',
             output: '_site'
