@@ -1,0 +1,43 @@
+---
+  title: Archives
+  layout: "layouts/layout.html"
+  permalink: /archives/{% if pagination.pageNumber > 0 %}{{ posts | archivesGetYear }}/{{ posts | archivesGetMonth }}/{% endif %}index.html
+  pagination:
+    data: collections.postsByYear
+    size: 1
+    alias: posts
+    reverse: true
+---
+
+{% if pagination.pageNumber == 0 %}
+<h1>Archives</h1>
+
+<section class="archives">
+
+	{% for pageEntry in pagination.pages %}
+		{% if page.url != pagination.hrefs[ loop.index0 ] %}
+      <div class="archives-link">
+        <a href="{{ pageEntry | archivesGetYear }}/{{ pageEntry | archivesGetMonth }}">{{ pageEntry | archivesGetDateString }}</a>
+      </div>
+    {% endif %}
+	{% endfor %}
+
+</section>
+{% endif %}
+
+{% if pagination.pageNumber > 0 %}
+<h1>{{ posts | archivesGetDateString }}</h1>
+
+{% for post in collections.postsByYear[posts] | reverse %}
+    <article class="post">
+      <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+      <div class="metadata">
+        <div class="post-date">{{ post.data.date | readableDate }}</div>
+        <div>&bull;</div>
+        <div>{{ post | readingTime }}</div>
+      </div>
+      <div class="excerpt">{{ post.data.page.excerpt | toHTML | safe }}</div>
+    </article>
+{% endfor %}
+
+{% endif %}
