@@ -508,20 +508,40 @@ section.archives {
     display: flex;
     flex-wrap: wrap;
     gap: 16px;
+}
 
-    a {
-        text-align: center;
-        text-decoration: none;
-        display: block;
-        padding: 10px 16px;
-        width: 250px;
-        border-radius: 8px;
-        border: 1px solid var(--grey-1);
+section.archives a {
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    padding: 10px 16px;
+    width: 250px;
+    border-radius: 8px;
+    border: 1px solid var(--grey-1);
+}
 
-        &:hover {
-            text-decoration: underline;
-            border-color: var(--grey-2);
-            box-shadow: var(--box-shadow);
-        }
-    }
+section.archives a:hover {
+    text-decoration: underline;
+    border-color: var(--grey-2);
+    box-shadow: var(--box-shadow);
+}
+
+ul.likes {
+    margin: 25px 0;
+    padding: 0;
+}
+
+ul.likes li {
+    display: block;
+    list-style-type: none;
+    margin: 24px 0;
+}
+
+ul.likes li div.title {
+    font-weight: 400;
+    font-size: 1.4rem;
+}
+
+ul.likes li div.source {
+    color: var(--meta);
 }
