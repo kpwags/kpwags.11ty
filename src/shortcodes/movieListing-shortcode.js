@@ -18,14 +18,12 @@ const getThoughts = (movie) => {
 }
 
 module.exports = (movie) => {
-	const dateWatched = movie.dateWatched ? `<div class"meta">${movie.dateWatched}</div>` : '';
+	const dateWatched = movie.dateWatched ? `<div class="meta small">${movie.dateWatched}</div>` : '';
 
 	return `
 <div class="item">
 	<div>
-		<a href="${movie.link}" target="_blank" rel="noreferrer">
-			<img src="${movie.cover}" alt="${movie.title}" class="cover" height="300" width="200" />
-		</a>
+		<img src="${movie.cover}" alt="${movie.title}" class="cover" height="225" width="150" />
 	</div>
 	<div>
 		<a href="${movie.link}" target="_blank" rel="noreferrer">
@@ -34,7 +32,7 @@ module.exports = (movie) => {
 
 		${dateWatched}
 
-		${starRating(movie.rating)}
+		${starRating(movie.rating, "sm")}
 
 		${getThoughts(movie)}
 	</div>
