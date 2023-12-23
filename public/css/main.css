@@ -113,19 +113,19 @@ header {
     gap: 16px;
 }
 
-nav {
+header nav {
     padding: 16px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-nav a {
+header nav a {
     text-decoration: none;
     font-size: 20px;
 }
 
-nav a:hover {
+header nav a:hover {
     text-decoration: underline;
 }
 
@@ -170,7 +170,7 @@ a:hover svg {
 }
 
 @media (max-width: 820px) {
-    nav {
+    header nav {
         display: block;
     }
 
@@ -211,17 +211,40 @@ footer {
 footer nav {
     margin-bottom: 16px;
     display: block;
+    padding: 0;
 }
 
 footer nav a {
-    padding: 10px;
+    padding: 0 10px;
     text-decoration: none;
     white-space: nowrap;
+}
+
+footer nav.site-info span {
+    padding: 0 20px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+footer nav.site-info span a {
+    padding: 0;
+}
+
+footer nav.info {
+    margin-bottom: 0;
 }
 
 @media (max-width: 450px) {
     footer nav {
         margin: 16px 0;
+    }
+
+    footer nav a {
+        padding: 10px;
+    }
+
+    footer nav.site-info span {
+        padding: 10px 20px;
     }
 }
 
