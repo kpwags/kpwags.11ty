@@ -1,0 +1,24 @@
+---
+layout: "layouts/wide-layout.html"
+title: "Bookshelf"
+---
+
+<div class="media-container">
+	<h1>My Bookshelf</h1>
+
+	<p>I've been trying to read more and update my bookshelf to share what I think of books.</p>
+
+	<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
+
+	{% for readingYear in books %}
+	<div>
+		<h2>{{ readingYear.year }} ({{ readingYear.books | length }})</h2>
+
+		<div class="items padded-top">
+			{% for book in readingYear.books %}
+			{% bookListing book %}
+			{% endfor %}
+		</div>
+	</div>
+	{% endfor %}
+</div>

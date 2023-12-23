@@ -18,14 +18,12 @@ const getThoughts = (tvShow) => {
 }
 
 module.exports = (tvShow) => {
-	const getRating = tvShow.rating !== null ? starRating(tvShow.rating) : '';
+	const getRating = tvShow.rating !== null ? starRating(tvShow.rating, "sm") : '';
 
 	return `
 <div class="item">
 	<div>
-		<a href="${tvShow.link}" target="_blank" rel="noreferrer">
-			<img src="${tvShow.cover}" alt="${tvShow.title}" class="cover" height="300" width="200" />
-		</a>
+		<img src="${tvShow.cover}" alt="${tvShow.title}" class="cover" height="225" width="150" />
 	</div>
 	<div>
 		<a href="${tvShow.link}" target="_blank" rel="noreferrer">

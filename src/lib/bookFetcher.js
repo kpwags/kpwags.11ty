@@ -1,7 +1,6 @@
 require("dotenv").config();
 
 const { Client } = require('@notionhq/client');
-const dayjs = require('dayjs');
 
 const fetchFromNotion = async (cursor = undefined) => {
 	const notion = new Client({
@@ -9,16 +8,16 @@ const fetchFromNotion = async (cursor = undefined) => {
 	});
 
 	const response = await notion.databases.query({
-		database_id: process.env.MOVIE_DB_ID,
+		database_id: process.env.BOOKS_DB_ID,
 		start_cursor: cursor,
 		filter: {
 			property: 'Status',
 			select: {
-				equals: 'Watched',
+				equals: 'Completed',
 			},
 		},
 		sorts: [
-			{ property: 'DateWatched', direction: 'descending' },
+			{ property: 'DateFinished', direction: 'descending' },
 		],
 	});
 
@@ -37,12 +36,15 @@ const fetchFromNotion = async (cursor = undefined) => {
 const mapResults = (result) => ({
 	id: result.id,
 	title: result.properties.Name.title[0].plain_text,
-	cover: result.properties.CoverUrl.url,
+	subtitle: result.properties.SubTitle.rich_text[0]?.plain_text ?? null,
+	author: result.properties.Author.rich_text[0].plain_text,
+	coverUrl: result.properties.CoverUrl.url,
 	rating: result.properties.Rating.number,
 	thoughts: result.properties.Thoughts.rich_text[0]?.plain_text ?? null,
-	link: result.properties.ImdbLink.url,
-	dateWatched: result.properties.DateWatched.date ? dayjs(result.properties.DateWatched.date.start).format('MMMM D, YYYY') : null,
-	yearWatched: result.properties.DateWatched.date ? dayjs(result.properties.DateWatched.date.start).year() : null,
+	status: result.properties.Status.select.name === 'In Progress' ? 'current' : 'read',
+	link: result.properties.Link.url,
+	yearRead: result.properties.DateFinished.date ? new Date(result.properties.DateFinished.date.start).getFullYear() : null,
+	reviewUrlSlug: result.properties.ReviewUrlSlug.rich_text[0]?.plain_text ?? null,
 });
 
 module.exports = async () => {
