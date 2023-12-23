@@ -627,3 +627,7 @@ ul.likes li div.source {
         text-align: center;
     }
 }
+
+article.uses h2 {
+    margin: 32px 0 24px 0;
+}
