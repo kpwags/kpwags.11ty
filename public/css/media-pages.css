@@ -131,3 +131,60 @@
         box-shadow: 0 0 0 20px rgba(0, 0, 0, 0);
     }
 }
+
+.music-grid {
+    margin: 0 0 2.5rem;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-column-gap: 0.6rem;
+    grid-row-gap: 2.5rem;
+    justify-items: center;
+}
+
+.music-album {
+    font-size: 1.1rem;
+    text-align: center;
+    vertical-align: top;
+    line-height: 1.3;
+    width: 200px;
+}
+
+.music-album-title {
+    color: var(--primary-color-1);
+    font-size: 1.25rem;
+}
+
+.music-album-cover {
+    border: 1px solid #bcbcbc;
+    margin: 0 auto 1rem;
+    display: block;
+    max-height: 200px;
+}
+
+.music-album-cover:hover {
+    animation: pulse-animation 2s infinite;
+}
+
+.music-album-meta {
+    margin: 0.6rem 0;
+    color: var(--meta);
+    font-style: italic;
+}
+
+@media all and (max-width: 767px) {
+    .music-album {
+        text-align: left;
+        font-size: 1.3rem;
+        display: block;
+        margin: 30px 0;
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 1.5rem;
+    }
+
+    .music-album-meta {
+        font-size: 1.1rem;
+    }
+}
