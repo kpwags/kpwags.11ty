@@ -21,6 +21,7 @@ const tagListShortcode = require('./src/shortcodes/tagList-shortcode.js');
 const movieListingShortcode = require('./src/shortcodes/movieListing-shortcode.js');
 const tvListingShortcode = require('./src/shortcodes/tvListing-shortcode.js');
 const musicListingShortcode = require('./src/shortcodes/musicListing-shortcode.js');
+const videoGameListingShortcode = require('./src/shortcodes/videoGameListing-shortcode.js');
 
 module.exports = function (eleventyConfig) {
     // Copy the contents of the `public` folder to the output folder
@@ -65,6 +66,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addLiquidShortcode('movieListing', movieListingShortcode);
     eleventyConfig.addLiquidShortcode('tvListing', tvListingShortcode);
     eleventyConfig.addLiquidShortcode('musicListing', musicListingShortcode);
+    eleventyConfig.addLiquidShortcode('videoGameListing', videoGameListingShortcode);
 
     return {
         templateFormats: [
