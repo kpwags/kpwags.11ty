@@ -1,0 +1,32 @@
+---
+layout: "layouts/wide-layout.html"
+title: "Video Games"
+---
+
+<div class="media-container">
+	<h1>Video Games</h1>
+
+	<p>I've ertainly played more than this, but I figured I'd update this list with some of my thoughts for the video
+		games I've played and am currently playing.</p>
+
+	<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
+
+	{% for status in videoGames %}
+	<div>
+		<h2>{{ status.status }} ({{ status.games | length }})</h2>
+
+		{% if status.status == "Played" %}
+		<p>
+			✅ - indicates that I finished the game<br />
+			🟥 - indicates that I did not finish the game
+		</p>
+		{% endif %}
+
+		<div class="items padded-top">
+			{% for game in status.games %}
+			{% videoGameListing game %}
+			{% endfor %}
+		</div>
+	</div>
+	{% endfor %}
+</div>

@@ -71,6 +71,16 @@
     max-height: 300px;
 }
 
+.media-container .video-game-cover {
+    position: relative;
+}
+
+.finished-icon {
+    position: absolute;
+    bottom: 5px;
+    right: 10px;
+}
+
 .media-container .cover:hover {
     animation: pulse-animation 2s infinite;
 }
