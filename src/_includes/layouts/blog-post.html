@@ -27,6 +27,15 @@
 		{{ content }}
 		<hr />
 		{% tagList tags %}
+		<hr />
+		<div class="reply-links">
+			<span>Reply via:</span>
+			<a href="mailto:hello@kpwags.com?subject={{ title }}">Email</a>
+			&bull;
+			<a href="https://hachyderm.io/@kpwags" target="_blank" rel="noreferrer nofollow">Mastodon</a>
+			&bull;
+			<a href="https://bsky.app/profile/kpwags.com" target="_blank" rel="noreferrer nofollow">Bluesky</a>
+		</div>
 	</main>
 	{% include "footer.html" %}
 </body>

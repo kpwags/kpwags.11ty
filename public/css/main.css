@@ -314,6 +314,11 @@ ul.tag-list {
     content: '';
 }
 
+.reply-links span {
+    font-weight: 600;
+    padding-right: 10px;
+}
+
 .in-depth-notes {
     margin-bottom: 2rem;
 }
