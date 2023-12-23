@@ -1,9 +1,14 @@
-const { DateTime } = require('luxon');
+const dayjs = require('dayjs');
+const utc = require('dayjs/plugin/utc');
+const timezone = require('dayjs/plugin/timezone');
 
-module.exports = (dateObj, format, zone) => {
-	// Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
+dayjs.extend(utc);
+dayjs.extend(timezone);
+
+module.exports = (dateObj, format = 'MMMM D, YYYY', zone) => {
 	if (typeof dateObj === 'string') {
 		dateObj = new Date(dateObj);
 	}
-	return DateTime.fromJSDate(dateObj, { zone: zone || 'utc' }).toFormat(format || 'LLLL d, yyyy');
-}
+
+	return dayjs(dateObj).tz('America/New_York').format(format);
+};

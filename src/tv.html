@@ -1,0 +1,25 @@
+---
+layout: "layouts/wide-layout.html"
+title: "Television Watch List"
+---
+
+<div class="media-container">
+	<h1>Television Watch List</h1>
+
+	<p>I've certainly seen more than this, but I figured I'd update this list with some of my thoughts for the TV series
+		I've watched and am currently watching.</p>
+
+	<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
+
+	{% for status in tv %}
+	<div>
+		<h2>{{ status.status }} ({{ status.shows | length }})</h2>
+
+		<div class="items padded-top">
+			{% for show in status.shows %}
+			{% tvListing show %}
+			{% endfor %}
+		</div>
+	</div>
+	{% endfor %}
+</div>

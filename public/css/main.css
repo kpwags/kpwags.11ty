@@ -429,7 +429,7 @@ ul.tag-list {
     display: inline-block;
     fill: var(--primary-color-1);
     stroke: var(--primary-color-1);
-    margin: 0 4px;
+    margin: 0;
 }
 
 .star-sm {
@@ -451,15 +451,10 @@ ul.tag-list {
     display: inline-block;
     fill: none;
     stroke: var(--primary-color-1);
-    margin: 0 4px;
+    margin: 0;
 }
 
 @media (max-width: 500px) {
-    .star,
-    .empty-star {
-        margin: 0;
-    }
-
     .star-md,
     .star-lg {
         width: 20px;
