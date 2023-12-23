@@ -101,6 +101,10 @@ header {
     position: relative;
 }
 
+.hidden {
+    display: none;
+}
+
 .mobile-settings {
     display: none;
     position: absolute;
@@ -450,6 +454,19 @@ ul.tag-list {
     margin: 0 4px;
 }
 
+@media (max-width: 500px) {
+    .star,
+    .empty-star {
+        margin: 0;
+    }
+
+    .star-md,
+    .star-lg {
+        width: 20px;
+        height: 20px;
+    }
+}
+
 .about-page {
     display: flex;
     gap: 48px;
@@ -545,3 +562,4 @@ ul.likes li div.title {
 ul.likes li div.source {
     color: var(--meta);
 }
+

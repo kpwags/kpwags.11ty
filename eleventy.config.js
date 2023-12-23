@@ -12,11 +12,13 @@ const tagUrlFilter = require('./src/filters/tagurl-filter.js');
 const toHtmlFilter = require('./src/filters/tohtml-filter.js');
 const readingTimeFilter = require('./src/filters/readingTime-filter.js');
 const archivesMonthYear = require('./src/filters/archivesMonthYear-filter.js');
+const lengthFilter = require('./src/filters/length-filter.js');
 
 const inDepthShortcode = require('./src/shortcodes/inDepth-shortcode.js');
 const youTubeShortcode = require('./src/shortcodes/youTube-shortcode.js');
 const starRatingShortcode = require('./src/shortcodes/starRating-shortcode.js');
 const tagListShortcode = require('./src/shortcodes/tagList-shortcode.js');
+const movieListingShortcode = require('./src/shortcodes/movieListing-shortcode.js');
 
 module.exports = function (eleventyConfig) {
     // Copy the contents of the `public` folder to the output folder
@@ -49,6 +51,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter('tagUrlSlug', tagUrlFilter);
     eleventyConfig.addFilter('toHTML', toHtmlFilter);
     eleventyConfig.addFilter('readingTime', readingTimeFilter);
+    eleventyConfig.addFilter('length', lengthFilter);
     eleventyConfig.addFilter('archivesGetMonth', archivesMonthYear.getMonth);
     eleventyConfig.addFilter('archivesGetYear', archivesMonthYear.getYear);
     eleventyConfig.addFilter('archivesGetDateString', archivesMonthYear.getDateString);
@@ -57,6 +60,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addLiquidShortcode('youTubeEmbed', youTubeShortcode);
     eleventyConfig.addLiquidShortcode('starRating', starRatingShortcode);
     eleventyConfig.addLiquidShortcode('tagList', tagListShortcode);
+    eleventyConfig.addLiquidShortcode('movieListing', movieListingShortcode);
 
     return {
         templateFormats: [
