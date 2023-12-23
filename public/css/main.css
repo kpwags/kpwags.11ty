@@ -563,3 +563,44 @@ ul.likes li div.source {
     color: var(--meta);
 }
 
+.progress-bar {
+    display: grid;
+    grid-template-columns: 8fr 4fr;
+    grid-column-gap: 12px;
+    margin-top: 12px;
+}
+
+.progress-bar .bar {
+    height: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #666;
+    position: relative;
+    margin: 0 0 25px 0;
+}
+
+.progress-bar .bar .inner-bar {
+    height: 100%;
+}
+
+.progress-bar .legend {
+    line-height: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+@media all and (max-width: 500px) {
+    .progress-bar {
+        display: block;
+    }
+
+    .progress-bar .bar {
+        margin: 0 0 10px 0;
+    }
+
+    .progress-bar .legend {
+        line-height: 1;
+        margin: 0 0 25px 0;
+        text-align: center;
+    }
+}
