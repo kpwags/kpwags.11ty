@@ -1,0 +1,18 @@
+---
+layout: "layouts/wide-layout.html"
+title: "Music Collection"
+---
+
+<div class="media-container">
+	<h1>Music Collection</h1>
+
+	<p>I've amassed a fairly large music collection of various tastes over the years.</p>
+
+	<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
+
+	<div class="music-grid">
+		{% for album in music %}
+		{% musicListing album %}
+		{% endfor %}
+	</div>
+</div>
