@@ -1,0 +1,31 @@
+---
+layout: "layouts/wide-layout.html"
+title: "What I'm Up To"
+---
+
+<div class="media-container now-page">
+	<h1>What I'm Up To</h1>
+
+	<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
+
+	<h2>Reading</h2>
+	<div class="items padded-top">
+		{% for book in now.reading %}
+		{% bookListing book %}
+		{% endfor %}
+	</div>
+
+	<h2>Watching</h2>
+	<div class="items padded-top">
+		{% for tv in now.watching %}
+		{% tvListing tv %}
+		{% endfor %}
+	</div>
+
+	<h2>Playing</h2>
+	<div class="items padded-top">
+		{% for game in now.playing %}
+		{% videoGameListing game %}
+		{% endfor %}
+	</div>
+</div>

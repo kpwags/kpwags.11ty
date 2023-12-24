@@ -124,6 +124,11 @@
     background: rgba(200, 200, 200, 0.2);
 }
 
+main:has(div.now-page) .media-container .view-thoughts,
+main:has(div.now-page) .media-container .rating {
+    display: none;
+}
+
 @media all and (max-width: 767px) {
     .media-container .item {
         text-align: left;
