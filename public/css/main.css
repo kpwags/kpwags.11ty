@@ -8,16 +8,17 @@ body {
     margin: 0;
 }
 
-main {
+main.full-width {
+    width: 100%;
+    padding: 0 25px;
+}
+
+main,
+main.full-width:has(div.now-page) {
     width: var(--width);
     margin: 32px auto 0 auto;
     padding: 0 10px;
     max-width: 100%;
-}
-
-main.full-width {
-    width: 100%;
-    padding: 0 25px;
 }
 
 hr {

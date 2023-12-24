@@ -2,7 +2,7 @@ require("dotenv").config();
 
 const { Client } = require('@notionhq/client');
 
-const fetchFromNotion = async (cursor = undefined) => {
+const fetchFromNotion = async (status, cursor = undefined) => {
 	const notion = new Client({
 		auth: process.env.NOTION_API_KEY,
 	});
@@ -13,7 +13,7 @@ const fetchFromNotion = async (cursor = undefined) => {
 		filter: {
 			property: 'Status',
 			select: {
-				equals: 'Completed',
+				equals: status,
 			},
 		},
 		sorts: [
@@ -47,13 +47,13 @@ const mapResults = (result) => ({
 	reviewUrlSlug: result.properties.ReviewUrlSlug.rich_text[0]?.plain_text ?? null,
 });
 
-module.exports = async () => {
+module.exports = async (status = 'Completed') => {
 	const movies = [];
 
 	let nextCursor;
 
 	do {
-		const response = await fetchFromNotion(nextCursor);
+		const response = await fetchFromNotion(status, nextCursor);
 
 		nextCursor = response.nextCursor;
 
