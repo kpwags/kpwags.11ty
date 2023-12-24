@@ -612,7 +612,7 @@ ul.likes li div.source {
     padding: 0;
 }
 
-@media all and (max-width: 500px) {
+@media (max-width: 500px) {
     .progress-bar {
         display: block;
     }
@@ -630,4 +630,68 @@ ul.likes li div.source {
 
 article.uses h2 {
     margin: 32px 0 24px 0;
+}
+
+.chart {
+    margin: 32px 0 16px 0;
+}
+
+.chart h2 {
+    margin-bottom: 24px;
+}
+
+.stats-chart {
+    display: grid;
+    grid-template-columns: 1fr 9fr 1fr;
+    grid-column-gap: 12px;
+}
+
+.stats-chart.tags {
+    grid-template-columns: 3fr 9fr 1fr;
+}
+
+.stats-chart .bar {
+    height: 40px;
+    position: relative;
+    margin: 0 0 25px 0;
+}
+
+.stats-chart .inner-bar {
+    height: 100%;
+}
+
+.stats-chart .bar-title {
+    line-height: 40px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+}
+
+.stats-chart .mobile-stats {
+    display: none;
+}
+
+.stats-chart .legend {
+    line-height: 40px;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+@media all and (max-width: 500px) {
+    .stats-chart {
+        display: block;
+    }
+
+    .stats-chart .bar {
+        margin: 0 0 10px 0;
+    }
+
+    .stats-chart .legend {
+        display: none;
+    }
+
+    .stats-chart .mobile-stats {
+        display: inline;
+    }
 }
