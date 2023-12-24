@@ -6,6 +6,7 @@ const pluginWebc = require('@11ty/eleventy-plugin-webc');
 const publicPosts = require('./src/collections/publicPosts.js');
 const allPublicPosts = require('./src/collections/allPublicPosts.js');
 const postsByYear = require('./src/collections/postsByYear.js');
+const stats = require('./src/collections/stats.js');
 
 const dateFilter = require('./src/filters/date-filter.js');
 const tagUrlFilter = require('./src/filters/tagurl-filter.js');
@@ -51,6 +52,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addCollection('publicPosts', publicPosts);
     eleventyConfig.addCollection('postsAndReadingLogs', allPublicPosts);
     eleventyConfig.addCollection('postsByYear', postsByYear);
+    eleventyConfig.addCollection('stats', stats);
 
     eleventyConfig.addFilter('readableDate', dateFilter);
     eleventyConfig.addFilter('tagUrlSlug', tagUrlFilter);
