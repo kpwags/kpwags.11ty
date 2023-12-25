@@ -24,6 +24,7 @@ const tvListingShortcode = require('./src/shortcodes/tvListing-shortcode.js');
 const musicListingShortcode = require('./src/shortcodes/musicListing-shortcode.js');
 const videoGameListingShortcode = require('./src/shortcodes/videoGameListing-shortcode.js');
 const bookListingShortcode = require('./src/shortcodes/bookListing-shortcode.js');
+const podcastListingShortcode = require('./src/shortcodes/podcastListing-shortcode.js');
 const progressBarShortcode = require('./src/shortcodes/progressBar-shortcode.js');
 
 module.exports = function (eleventyConfig) {
@@ -72,6 +73,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addLiquidShortcode('musicListing', musicListingShortcode);
     eleventyConfig.addLiquidShortcode('videoGameListing', videoGameListingShortcode);
     eleventyConfig.addLiquidShortcode('bookListing', bookListingShortcode);
+    eleventyConfig.addLiquidShortcode('podcastListing', podcastListingShortcode);
     eleventyConfig.addLiquidShortcode('progressBar', progressBarShortcode);
 
     return {

@@ -9,30 +9,8 @@ const fetchFromNotion = async (cursor = undefined) => {
 	});
 
 	const response = await notion.databases.query({
-		database_id: process.env.TV_DB_ID,
+		database_id: process.env.PODCAST_DB_ID,
 		start_cursor: cursor,
-		filter: {
-			or: [
-				{
-					property: 'Status',
-					select: {
-						equals: 'In Progress',
-					},
-				},
-				{
-					property: 'Status',
-					select: {
-						equals: 'Completed',
-					},
-				},
-				{
-					property: 'Status',
-					select: {
-						equals: 'Between Seasons',
-					},
-				},
-			],
-		},
 	});
 
 	let nextCursor = undefined;
@@ -47,25 +25,11 @@ const fetchFromNotion = async (cursor = undefined) => {
 	};
 };
 
-const getStatus = (name) => {
-	switch (name) {
-		case 'Completed':
-			return 'completed';
-		case 'Between Seasons':
-			return 'between-seasons';
-		case 'In Progress':
-		default:
-			return 'current';
-	}
-};
-
 const mapResult = (result) => ({
 	id: result.id,
 	title: result.properties.Name.title[0].plain_text,
-	cover: result.properties.CoverUrl.url,
-	rating: result.properties.Rating.number,
-	thoughts: result.properties.Thoughts.rich_text[0]?.plain_text ?? null,
-	status: getStatus(result.properties.Status.select.name),
+	cover: result.properties.ArtworkUrl.url,
+	category: result.properties.Category.select.name,
 	link: result.properties.Link.url,
 	sortedName: getSortedName(result.properties.Name.title[0].plain_text),
 });
