@@ -81,6 +81,8 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addLiquidShortcode('podcastListing', podcastListingShortcode);
     eleventyConfig.addLiquidShortcode('progressBar', progressBarShortcode);
 
+    eleventyConfig.addNunjucksShortcode('starRating', starRatingShortcode);
+
     return {
         templateFormats: [
             "md",

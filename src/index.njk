@@ -1,0 +1,59 @@
+---
+title: ''
+layout: 'layouts/layout.html'
+---
+
+<h1>Welcome!</h1>
+
+<section class="intro">
+	<p>Welcome to my little corner of the internet. I share my thoughts about software development, technology, and so
+		much more. I also share what I've read, watched and played.</p>
+</section>
+
+<section class="latest-from-blog">
+	<h2>Latest Posts</h2>
+
+	{% set recentPostsSorted = collections.postsAndReadingLogs | reverse %}
+	{% set recentPosts = recentPostsSorted.slice(0, 7) %}
+
+	{% for post in recentPosts %}
+
+	<article class="post">
+		<h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+		<div class="metadata">
+			<div class="post-date">{{ post.data.date | readableDate }}</div>
+			<div>&bull;</div>
+			<div>{{ post | readingTime }}</div>
+		</div>
+		<div class="excerpt">{{ post.data.page.excerpt | toHTML | safe }}</div>
+	</article>
+
+	{% endfor %}
+</section>
+
+<section class="latest-from-book-notes">
+	<h2>Latest Book Note</h2>
+
+	{% set recentBookNotesSorted = collections.booknotes | reverse %}
+	{% set bookNote = recentBookNotesSorted[0] %}
+
+	<article class="book-note-card">
+		<div class="content">
+			<div class="image">
+				<img src="{{ bookNote.data.coverImage }}" alt="{{ bookNote.data.author }} - {{ bookNote.data.title }}" />
+			</div>
+			<div>
+				<h2><a href="{{ bookNote.url }}">{{ bookNote.data.title }}</a></h2>
+				<h3>by {{ bookNote.data.author }}</h3>
+
+				{% starRating bookNote.data.rating %}
+
+				<div class="categories">
+					{% for category in bookNote.data.categories %}
+					<span class="category">{{ category }}</span>
+					{% endfor %}
+				</div>
+			</div>
+		</div>
+	</article>
+</section>
