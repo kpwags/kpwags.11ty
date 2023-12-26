@@ -27,6 +27,8 @@ const videoGameListingShortcode = require('./src/shortcodes/videoGameListing-sho
 const bookListingShortcode = require('./src/shortcodes/bookListing-shortcode.js');
 const podcastListingShortcode = require('./src/shortcodes/podcastListing-shortcode.js');
 const progressBarShortcode = require('./src/shortcodes/progressBar-shortcode.js');
+const blogPostShortcode = require('./src/shortcodes/blogPost-shortcode.js');
+const bookNoteShortcode = require('./src/shortcodes/bookNote-shortcode.js');
 
 module.exports = function (eleventyConfig) {
     // Copy the contents of the `public` folder to the output folder
@@ -80,8 +82,12 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addLiquidShortcode('bookListing', bookListingShortcode);
     eleventyConfig.addLiquidShortcode('podcastListing', podcastListingShortcode);
     eleventyConfig.addLiquidShortcode('progressBar', progressBarShortcode);
+    eleventyConfig.addLiquidShortcode('blogPost', blogPostShortcode);
+    eleventyConfig.addLiquidShortcode('bookNote', bookNoteShortcode);
 
     eleventyConfig.addNunjucksShortcode('starRating', starRatingShortcode);
+    eleventyConfig.addNunjucksShortcode('blogPost', blogPostShortcode);
+    eleventyConfig.addNunjucksShortcode('bookNote', bookNoteShortcode);
 
     return {
         templateFormats: [

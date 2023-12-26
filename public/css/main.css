@@ -375,10 +375,7 @@ ul.tag-list {
 
 .book-note-card .metadata {
     text-transform: uppercase;
-    font-style: italic;
-    padding: 8px 16px;
-    border-bottom: 1px solid var(--grey-1);
-    background-color: var(--background-lighter);
+    color: var(--meta);
 }
 
 .book-note-card .content {
@@ -405,8 +402,8 @@ ul.tag-list {
 
 .book-note-card h3 {
     color: var(--text);
-    margin: 16px 0 24px;
-    font-size: 1.7rem;
+    margin: 16px 0;
+    font-size: 1.5rem;
 }
 
 .book-note-card .categories {
