@@ -252,7 +252,7 @@ footer nav.info {
 /* end footer */
 
 article.post {
-    margin: 32px 0 64px;
+    margin: 32px 0;
     border: 1px solid var(--grey-1);
     padding: 32px;
     border-radius: 8px;
@@ -263,7 +263,7 @@ article.post:hover {
     box-shadow: var(--box-shadow);
 }
 
-article.post .metadata.metadata {
+article.post .metadata {
     margin: 12px 0 20px 0;
     font-size: 1.2rem;
     color: var(--meta);
@@ -861,4 +861,9 @@ button[data-color='purple'] {
 .rss ul li {
     font-size: 1.1rem;
     margin: 6px 0;
+}
+
+.latest-from-blog,
+.latest-from-book-notes {
+    margin-top: 48px;
 }
