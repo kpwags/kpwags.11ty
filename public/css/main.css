@@ -170,7 +170,7 @@ a:hover svg {
     align-items: center;
 }
 
-@media (max-width: 820px) {
+@media (max-width: 950px) {
     header nav {
         display: block;
     }
@@ -231,7 +231,7 @@ footer nav.site-info span a {
     padding: 0;
 }
 
-footer nav.info {
+footer div.copyright {
     margin-bottom: 0;
 }
 
@@ -285,6 +285,16 @@ article.post h2 a {
 
 article.post div.excerpt {
     margin: 16px 0 0;
+}
+
+@media (max-width: 460px) {
+    article.post .metadata {
+        display: block;
+    }
+
+    article.post .metadata .separator {
+        display: none;
+    }
 }
 
 @media (max-width: 414px) {
@@ -432,7 +442,7 @@ ul.tag-list {
     }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 550px) {
     .book-note-card .content {
         display: block;
     }
@@ -546,6 +556,7 @@ section.archives {
     display: flex;
     flex-wrap: wrap;
     gap: 16px;
+    justify-content: center;
 }
 
 section.archives a {
