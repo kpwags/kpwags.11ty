@@ -9,7 +9,7 @@ links: [
     { title: 'Penguin Random House', url: 'https://www.penguinrandomhouse.com/books/691288/your-face-belongs-to-us-by-kashmir-hill/' }
 ]
 coverImage: 'https://i.postimg.cc/DyyGWNHz/your-face-belongs-to-us.jpg'
-dateFinished: '2023-10-21'
+date: '2023-10-21'
 rating: 4
 ---
 

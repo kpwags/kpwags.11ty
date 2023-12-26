@@ -8,7 +8,7 @@ links: [
     { title: 'Bookshop.org', url: 'https://bookshop.org/p/books/team-of-rivals-the-political-genius-of-abraham-lincoln-doris-kearns-goodwin/586230?ean=9780743270755' }
 ]
 coverImage: 'https://i.postimg.cc/xTsF7bDf/team-of-rivals.jpg'
-dateFinished: '2023-10-13'
+date: '2023-10-13'
 rating: 5
 ---
 This was a really fascinating look at Lincoln's rise to the presidency. and how he ran the Union during America's darkest hours.

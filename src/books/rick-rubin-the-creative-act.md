@@ -9,7 +9,7 @@ links: [
     { title: 'Penguin Random House', url: 'https://www.penguinrandomhouse.com/books/717356/the-creative-act-by-rick-rubin/' }
 ]
 coverImage: 'https://i.postimg.cc/14xF3Q0H/the-creative-act.jpg'
-dateFinished: '2023-11-16'
+date: '2023-11-16'
 rating: 4
 ---
 

@@ -9,7 +9,7 @@ links: [
     { title: 'Official Site', url: 'http://www.acityonmars.com' }
 ]
 coverImage: 'https://i.postimg.cc/L5g9MfZP/city-on-mars.jpg'
-dateFinished: '2023-11-27'
+date: '2023-11-27'
 rating: 5
 ---
 
