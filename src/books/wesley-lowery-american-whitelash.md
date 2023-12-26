@@ -9,7 +9,7 @@ links: [
     { title: 'HarperCollins', url: 'https://www.harpercollins.com/products/american-whitelash-wesley-lowery?variant=40902969983010' }
 ]
 coverImage: 'https://i.postimg.cc/FzbsPnL9/american-whitelash.jpg'
-dateFinished: '2023-12-05'
+date: '2023-12-05'
 rating: 3
 ---
 

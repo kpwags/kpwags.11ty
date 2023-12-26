@@ -7,6 +7,7 @@ const publicPosts = require('./src/collections/publicPosts.js');
 const allPublicPosts = require('./src/collections/allPublicPosts.js');
 const postsByYear = require('./src/collections/postsByYear.js');
 const stats = require('./src/collections/stats.js');
+const everything = require('./src/collections/everything.js');
 
 const dateFilter = require('./src/filters/date-filter.js');
 const tagUrlFilter = require('./src/filters/tagurl-filter.js');
@@ -54,6 +55,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addCollection('postsAndReadingLogs', allPublicPosts);
     eleventyConfig.addCollection('postsByYear', postsByYear);
     eleventyConfig.addCollection('stats', stats);
+    eleventyConfig.addCollection('everything', everything);
 
     eleventyConfig.addFilter('readableDate', dateFilter);
     eleventyConfig.addFilter('tagUrlSlug', tagUrlFilter);
@@ -63,6 +65,9 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter('archivesGetMonth', archivesMonthYear.getMonth);
     eleventyConfig.addFilter('archivesGetYear', archivesMonthYear.getYear);
     eleventyConfig.addFilter('archivesGetDateString', archivesMonthYear.getDateString);
+
+    eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
+    eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);
 
     eleventyConfig.addPairedLiquidShortcode('inDepth', inDepthShortcode);
     eleventyConfig.addLiquidShortcode('youTubeEmbed', youTubeShortcode);

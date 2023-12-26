@@ -10,7 +10,7 @@ links: [
     { title: 'Penguin Random House', url: 'https://www.penguinrandomhouse.com/books/711959/number-go-up-by-zeke-faux/' }
 ]
 coverImage: 'https://i.postimg.cc/43hVfhMb/number-go-up.jpg'
-dateFinished: '2023-10-24'
+date: '2023-10-24'
 rating: 4
 ---
 

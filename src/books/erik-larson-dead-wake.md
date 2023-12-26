@@ -8,7 +8,7 @@ links: [
     { title: 'Bookshop.org', url: 'https://bookshop.org/p/books/dead-wake-the-last-crossing-of-the-lusitania-erik-larson/7296476?ean=9780307408877' }
 ]
 coverImage: 'https://i.postimg.cc/yN2RYVhj/dead-wake.jpg'
-dateFinished: '2023-09-01'
+date: '2023-09-01'
 rating: 4
 ---
 This book was an interesting read looking at one of the biggest victims of unrestricted submarine warfare. It was also the start of the events that would bring the US into World War I two years later.

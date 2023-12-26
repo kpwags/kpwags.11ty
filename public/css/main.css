@@ -30,7 +30,7 @@ hr {
 
 h1 {
     font-weight: 500;
-    font-size: 3.999rem;
+    font-size: 3.4rem;
     color: var(--primary-color-1);
     margin: 2rem 0;
     padding: 0;
@@ -38,14 +38,14 @@ h1 {
 
 h2 {
     font-weight: 400;
-    font-size: 2.999rem;
+    font-size: 2.75rem;
     color: var(--primary-color-1);
     margin: 0;
     padding: 0;
 }
 
 h3 {
-    font-size: 2.333rem;
+    font-size: 2.3rem;
     color: var(--primary-color-1);
     font-weight: 500;
     margin: 0;
@@ -852,4 +852,13 @@ button[data-color='blue'] {
 button[data-color='purple'] {
     border-color: var(--primary-color-purple);
     background: var(--primary-color-purple);
+}
+
+.rss h2 {
+    font-size: 2.5rem;
+}
+
+.rss ul li {
+    font-size: 1.1rem;
+    margin: 6px 0;
 }
