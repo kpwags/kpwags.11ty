@@ -4,7 +4,7 @@ const readingTime = require('../filters/readingTime-filter');
 
 module.exports = (post) => {
 	const readingTimeDiv = !post.data.title.includes('Reading Log - ')
-		? `<div>&bull;</div> <div>${readingTime(post)}</div>`
+		? `<div class="separator">&bull;</div> <div>${readingTime(post)}</div>`
 		: '';
 
 	return `

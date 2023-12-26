@@ -17,73 +17,73 @@ article.book-note p:last-of-type {
     margin-bottom: 0;
 }
 
-.metadata {
+article.book-note .metadata {
     display: flex;
     gap: 40px;
 }
 
-.metadata h2 {
+article.book-note .metadata h2 {
     font-size: 2.1rem;
     margin-bottom: 16px;
 }
 
-.image {
+article.book-note .image {
     min-width: 200px;
     margin: 0 auto 32px;
 }
 
-.metadata h3 {
+article.book-note .metadata h3 {
     color: var(--text);
     font-size: 1.75rem;
     margin-bottom: 12px;
 }
 
-.book-rating {
+article.book-note .book-rating {
     margin: 16px 0;
 }
 
-.categories {
+article.book-note .categories {
     margin: 16px 0;
     display: flex;
     gap: 8px;
 }
 
-.category {
+article.book-note .category {
     padding: 0 16px;
     background-color: var(--primary-color-2);
     color: var(--background);
     border-radius: 4px;
 }
 
-.finished-reading {
+article.book-note .finished-reading {
     font-size: 1.2rem;
 }
 
-.links {
+article.book-note .links {
     display: flex;
     gap: 16px;
     font-size: 1.2rem;
 }
 
-.links a {
+article.book-note .links a {
     text-decoration: underline;
 }
 
-@media (max-width: 500px) {
-    .metadata {
+@media (max-width: 550px) {
+    article.book-note .metadata {
         display: block;
     }
 
-    .image {
+    article.book-note .image {
         width: 200px;
         margin: 0 auto 32px;
     }
 
-    .links {
+    article.book-note .links {
         display: block;
     }
 
-    .links a {
+    article.book-note .links a {
         display: block;
         margin: 5px 0;
     }
