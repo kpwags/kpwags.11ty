@@ -17,17 +17,7 @@ layout: 'layouts/layout.html'
 	{% set recentPosts = recentPostsSorted.slice(0, 7) %}
 
 	{% for post in recentPosts %}
-
-	<article class="post">
-		<h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
-		<div class="metadata">
-			<div class="post-date">{{ post.data.date | readableDate }}</div>
-			<div>&bull;</div>
-			<div>{{ post | readingTime }}</div>
-		</div>
-		<div class="excerpt">{{ post.data.page.excerpt | toHTML | safe }}</div>
-	</article>
-
+	{% blogPost post %}
 	{% endfor %}
 </section>
 
@@ -37,23 +27,5 @@ layout: 'layouts/layout.html'
 	{% set recentBookNotesSorted = collections.booknotes | reverse %}
 	{% set bookNote = recentBookNotesSorted[0] %}
 
-	<article class="book-note-card">
-		<div class="content">
-			<div class="image">
-				<img src="{{ bookNote.data.coverImage }}" alt="{{ bookNote.data.author }} - {{ bookNote.data.title }}" />
-			</div>
-			<div>
-				<h2><a href="{{ bookNote.url }}">{{ bookNote.data.title }}</a></h2>
-				<h3>by {{ bookNote.data.author }}</h3>
-
-				{% starRating bookNote.data.rating %}
-
-				<div class="categories">
-					{% for category in bookNote.data.categories %}
-					<span class="category">{{ category }}</span>
-					{% endfor %}
-				</div>
-			</div>
-		</div>
-	</article>
+	{% bookNote bookNote %}
 </section>

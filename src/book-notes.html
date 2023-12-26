@@ -10,27 +10,7 @@ pagination:
 <h1>Book Notes</h1>
 
 {% for bookNote in pagination.items %}
-
-<article class="book-note-card">
-    <div class="content">
-        <div class="image">
-            <img src="{{ bookNote.data.coverImage }}" alt="{{ bookNote.data.author }} - {{ bookNote.data.title }}" />
-        </div>
-        <div>
-            <h2><a href="{{ bookNote.url }}">{{ bookNote.data.title }}</a></h2>
-            <h3>by {{ bookNote.data.author }}</h3>
-
-            {% starRating bookNote.data.rating %}
-
-            <div class="categories">
-				{% for category in bookNote.data.categories %}
-				<span class="category">{{ category }}</span>
-				{% endfor %}
-			</div>
-        </div>
-    </div>
-</article>
-
+{% bookNote bookNote %}
 {% endfor %}
 
 <section class="pagination">
