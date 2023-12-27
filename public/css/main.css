@@ -804,7 +804,7 @@ button#close-theme-drawer svg {
     margin-bottom: 0;
 }
 
-label {
+.button-label {
     font-weight: 600;
 }
 

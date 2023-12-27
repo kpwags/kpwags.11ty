@@ -20,7 +20,7 @@ const getThoughts = (book) => {
 module.exports = (book) => `
 <div class="item">
 	<div>
-		<img src="${book.coverUrl}" alt="${book.title}" class="cover" height="225" width="150" />
+		<img src="${book.coverUrl}" alt="The cover for ${book.title}" class="cover" height="225" width="150" />
 	</div>
 	<div>
 		<a href="${book.link}" target="_blank" rel="noreferrer">
