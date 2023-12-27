@@ -13,7 +13,7 @@ I've decided to stick with using Notion as a platform and have moved a bunch of 
 
 The month started out with us celebrating my Mom's birthday with a Lehigh Football Game and dinner at my sister's. The football game wasn't all that much fun to watch as it ended up being a 34-0 blowout, but the weather was beautiful and we had good company.
 
-{% image "./lehighgame.jpeg", "The Lehigh University football team taking the snap deep in their own zone" %}
+{% image "./LehighGame.jpeg", "The Lehigh University football team taking the snap deep in their own zone" %}
 
 In mid-October, after attending my cousin's wedding, Lauren and I went to Cape May, NJ again, this time celebrating our 8th anniversary. We stayed at Congress Hall and enjoyed sitting out on the veranda reading most mornings and evenings. We again went out and visited some of the local wineries and breweries. The weather was beautiful and it was a great way to celebrate 8 years.
 
