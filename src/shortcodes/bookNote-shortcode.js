@@ -18,7 +18,7 @@ module.exports = (bookNote) => {
 			<h2><a href="${bookNote.url}">${bookNote.data.title}</a></h2>
 			<h3>by ${bookNote.data.author}</h3>
 
-			<div class="metadata">${readableDate(bookNote.date)}</div>
+			<div class="metadata">${bookNote.data.dateString}</div>
 
 			${starRating(bookNote.data.rating)}
 
