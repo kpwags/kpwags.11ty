@@ -83,9 +83,10 @@ div.code-block-filename + pre {
     border-top-left-radius: 0;
 }
 
-.blog-post .blog-post pre {
+.blog-post pre {
     padding: 16px;
     border-radius: 6px;
+    margin-bottom: 32px;
 }
 
 .blog-post pre code {
