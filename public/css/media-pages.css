@@ -125,7 +125,9 @@
 }
 
 main:has(div.now-page) .media-container .view-thoughts,
-main:has(div.now-page) .media-container .rating {
+main:has(div.now-page) .media-container .rating,
+.items.current-status .rating,
+.items.current-status .view-thoughts {
     display: none;
 }
 

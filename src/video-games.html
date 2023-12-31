@@ -22,7 +22,7 @@ title: "Video Games"
 		</p>
 		{% endif %}
 
-		<div class="items padded-top">
+		<div class='items padded-top {% if status.status == "Currently Playing" %}current-status{% endif %}'>
 			{% for game in status.games %}
 			{% videoGameListing game %}
 			{% endfor %}
