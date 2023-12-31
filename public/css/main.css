@@ -231,7 +231,7 @@ footer nav.site-info span a {
     padding: 0;
 }
 
-footer div.copyright {
+footer div.site-info {
     margin-bottom: 0;
 }
 
@@ -621,6 +621,12 @@ ul.likes li div.source {
     padding: 0;
 }
 
+.aspiration-status {
+    font-size: 4rem;
+    margin-top: 12px;
+    margin-left: 32px;
+}
+
 @media (max-width: 500px) {
     .progress-bar {
         display: block;
@@ -635,6 +641,13 @@ ul.likes li div.source {
         margin: 0 0 25px 0;
         text-align: center;
     }
+
+    .aspiration-status {
+        font-size: 3rem;
+        text-align: center;
+        margin-left: 0;
+    }
+
 }
 
 article.uses h2 {
