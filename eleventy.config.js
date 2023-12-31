@@ -15,6 +15,7 @@ const toHtmlFilter = require('./src/filters/tohtml-filter.js');
 const readingTimeFilter = require('./src/filters/readingTime-filter.js');
 const archivesMonthYear = require('./src/filters/archivesMonthYear-filter.js');
 const lengthFilter = require('./src/filters/length-filter.js');
+const rssPrefixes = require('./src/filters/rssPrefixes-filter.js');
 
 const inDepthShortcode = require('./src/shortcodes/inDepth-shortcode.js');
 const youTubeShortcode = require('./src/shortcodes/youTube-shortcode.js');
@@ -67,27 +68,25 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter('archivesGetMonth', archivesMonthYear.getMonth);
     eleventyConfig.addFilter('archivesGetYear', archivesMonthYear.getYear);
     eleventyConfig.addFilter('archivesGetDateString', archivesMonthYear.getDateString);
+    eleventyConfig.addFilter('bookNoteTitlePrefix', rssPrefixes.bookNoteTitlePrefix);
+    eleventyConfig.addFilter('rssOnlyPrefix', rssPrefixes.rssOnlyPrefix);
 
     eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
     eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);
 
-    eleventyConfig.addPairedLiquidShortcode('inDepth', inDepthShortcode);
-    eleventyConfig.addLiquidShortcode('youTubeEmbed', youTubeShortcode);
-    eleventyConfig.addLiquidShortcode('starRating', starRatingShortcode);
-    eleventyConfig.addLiquidShortcode('tagList', tagListShortcode);
-    eleventyConfig.addLiquidShortcode('movieListing', movieListingShortcode);
-    eleventyConfig.addLiquidShortcode('tvListing', tvListingShortcode);
-    eleventyConfig.addLiquidShortcode('musicListing', musicListingShortcode);
-    eleventyConfig.addLiquidShortcode('videoGameListing', videoGameListingShortcode);
-    eleventyConfig.addLiquidShortcode('bookListing', bookListingShortcode);
-    eleventyConfig.addLiquidShortcode('podcastListing', podcastListingShortcode);
-    eleventyConfig.addLiquidShortcode('progressBar', progressBarShortcode);
-    eleventyConfig.addLiquidShortcode('blogPost', blogPostShortcode);
-    eleventyConfig.addLiquidShortcode('bookNote', bookNoteShortcode);
-
-    eleventyConfig.addNunjucksShortcode('starRating', starRatingShortcode);
-    eleventyConfig.addNunjucksShortcode('blogPost', blogPostShortcode);
-    eleventyConfig.addNunjucksShortcode('bookNote', bookNoteShortcode);
+    eleventyConfig.addPairedShortcode('inDepth', inDepthShortcode);
+    eleventyConfig.addShortcode('youTubeEmbed', youTubeShortcode);
+    eleventyConfig.addShortcode('starRating', starRatingShortcode);
+    eleventyConfig.addShortcode('tagList', tagListShortcode);
+    eleventyConfig.addShortcode('movieListing', movieListingShortcode);
+    eleventyConfig.addShortcode('tvListing', tvListingShortcode);
+    eleventyConfig.addShortcode('musicListing', musicListingShortcode);
+    eleventyConfig.addShortcode('videoGameListing', videoGameListingShortcode);
+    eleventyConfig.addShortcode('bookListing', bookListingShortcode);
+    eleventyConfig.addShortcode('podcastListing', podcastListingShortcode);
+    eleventyConfig.addShortcode('progressBar', progressBarShortcode);
+    eleventyConfig.addShortcode('blogPost', blogPostShortcode);
+    eleventyConfig.addShortcode('bookNote', bookNoteShortcode);
 
     return {
         templateFormats: [

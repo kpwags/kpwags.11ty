@@ -15,7 +15,7 @@ title: "Television Watch List"
 	<div>
 		<h2>{{ status.status }} ({{ status.shows | length }})</h2>
 
-		<div class="items padded-top">
+		<div class='items padded-top {% if status.status == "Currently Watching" %}current-status{% endif %}'>
 			{% for show in status.shows %}
 			{% tvListing show %}
 			{% endfor %}
