@@ -1,5 +1,4 @@
 const toHTML = require('../filters/tohtml-filter');
-const readableDate = require('../filters/date-filter');
 const readingTime = require('../filters/readingTime-filter');
 
 module.exports = (post) => {

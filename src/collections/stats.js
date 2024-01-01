@@ -1,7 +1,7 @@
-const dayjs = require('dayjs');
 const { getUniqueValues } = require('../lib/Utilities.js');
 const { getBlogPostsAndReadingLogs } = require("../lib/CollectionHelpers");
 const tagUrl = require('../filters/tagurl-filter.js');
+const { DateTime } = require('luxon');
 
 const availableColors = [
 	'#ff0000',
@@ -12,16 +12,18 @@ const availableColors = [
 	'#aa00ff',
 ];
 
+const getYear = (date) => DateTime.fromJSDate(date, { zone: 'utc' }).toFormat('yyyy');
+
 const getPostsByYearData = (posts) => {
 	const postsByYear = [];
 
-	const years = posts.map((p) => dayjs(p.date).format('YYYY'));
+	const years = posts.map((p) => getYear(p.date));
 	const uniqueYears = getUniqueValues(years);
 
 	let maxCount = 0;
 
 	uniqueYears.forEach((year) => {
-		const count = posts.filter((p) => dayjs(p.date).format('YYYY') === year).length;
+		const count = posts.filter((p) => getYear(p.date) === year).length;
 
 		if (count > maxCount) {
 			maxCount = count;
@@ -37,7 +39,7 @@ const getPostsByYearData = (posts) => {
 				colorIndex = 0;
 			}
 
-			const count = posts.filter((p) => dayjs(p.date).format('YYYY') === year).length;
+			const count = posts.filter((p) => getYear(p.date) === year).length;
 
 			postsByYear.push({
 				year,
