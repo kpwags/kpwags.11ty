@@ -1,7 +1,10 @@
 const { getUniqueValues } = require('../lib/Utilities.js');
 const { getBlogPostsAndReadingLogs } = require("../lib/CollectionHelpers");
 const tagUrl = require('../filters/tagurl-filter.js');
-const { DateTime } = require('luxon');
+const dayjs = require('dayjs');
+const utc = require('dayjs/plugin/utc');
+
+dayjs.extend(utc);
 
 const availableColors = [
 	'#ff0000',
@@ -12,7 +15,7 @@ const availableColors = [
 	'#aa00ff',
 ];
 
-const getYear = (date) => DateTime.fromJSDate(date, { zone: 'utc' }).toFormat('yyyy');
+const getYear = (date) => dayjs.utc(date).format('YYYY');
 
 const getPostsByYearData = (posts) => {
 	const postsByYear = [];

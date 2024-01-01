@@ -1,9 +1,12 @@
-const { DateTime } = require('luxon');
+const dayjs = require('dayjs');
+const utc = require('dayjs/plugin/utc');
+dayjs.extend(utc);
+
 
 module.exports = (dateObj, format = 'MMMM D, YYYY', zone) => {
 	if (typeof dateObj === 'string') {
 		dateObj = new Date(dateObj);
 	}
 
-	return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toLocaleString(DateTime.DATE_FULL)
+	return dayjs.utc(dateObj).format(format);
 };
