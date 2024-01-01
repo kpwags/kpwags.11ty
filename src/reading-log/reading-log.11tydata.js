@@ -1,9 +1,11 @@
-const { DateTime } = require('luxon');
+const dayjs = require('dayjs');
+const utc = require('dayjs/plugin/utc');
+dayjs.extend(utc);
 
 module.exports = {
 	layout: 'layouts/reading-log.html',
 	tags: 'readinglog',
 	eleventyComputed: {
-		dateString: ({ page }) => DateTime.fromJSDate(page.date, { zone: 'utc' }).toLocaleString(DateTime.DATE_FULL),
+		dateString: ({ page }) => dayjs.utc(page.date).format('MMMM D, YYYY'),
 	}
 };
