@@ -1,4 +1,4 @@
-module.exports = (color, currentValue, fullValue, format = null) => {
+module.exports = (color, currentValue, fullValue, mode = 'percentage', format = null) => {
 	let currentPercentage = 0;
 
 	if (currentValue > fullValue) {
@@ -29,11 +29,15 @@ module.exports = (color, currentValue, fullValue, format = null) => {
 			break;
 	}
 
+	const legendMode = mode === 'percentage'
+		? `<p class="legend">${formattedCurrentValue} / ${formattedFullValue} (${actualPercentage}%)</p>`
+		: `<p class="legend">${mode}</p>`;
+
 	return `
 <div class="progress-bar">
 	<div class="bar">
 		<div class="inner-bar" style="background-color: ${color}; width: ${currentPercentage}%"></div>
 	</div>
-	<p class="legend">${formattedCurrentValue} / ${formattedFullValue} (${actualPercentage}%)</p>
+	${legendMode}
 </div>`;
 };

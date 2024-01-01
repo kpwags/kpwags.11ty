@@ -1,5 +1,4 @@
 const starRating = require('./starRating-shortcode');
-const readableDate = require('../filters/date-filter');
 
 module.exports = (bookNote) => {
 	const categories = [];
