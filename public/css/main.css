@@ -888,3 +888,20 @@ button[data-color='purple'] {
 .latest-from-book-notes {
     margin-top: 48px;
 }
+
+.note h2 {
+    font-size: 1.75rem;
+}
+
+.note h2 a {
+    text-decoration: none;
+}
+
+.note h2 a:hover {
+    text-decoration: underline;
+}
+
+.note .metadata {
+    text-transform: uppercase;
+    color: var(--meta);
+}

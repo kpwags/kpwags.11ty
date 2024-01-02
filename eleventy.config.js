@@ -30,10 +30,9 @@ const podcastListingShortcode = require('./src/shortcodes/podcastListing-shortco
 const progressBarShortcode = require('./src/shortcodes/progressBar-shortcode.js');
 const blogPostShortcode = require('./src/shortcodes/blogPost-shortcode.js');
 const bookNoteShortcode = require('./src/shortcodes/bookNote-shortcode.js');
+const noteListingShortcode = require('./src/shortcodes/noteListing-shortcode.js');
 
 module.exports = function (eleventyConfig) {
-    // Copy the contents of the `public` folder to the output folder
-    // For example, `./public/css/` ends up in `_site/css/`
     eleventyConfig.addPassthroughCopy({
         './public/': '/',
         './node_modules/prismjs/themes/prism-okaidia.css': '/css/prism-okaidia.css',
@@ -87,6 +86,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addShortcode('progressBar', progressBarShortcode);
     eleventyConfig.addShortcode('blogPost', blogPostShortcode);
     eleventyConfig.addShortcode('bookNote', bookNoteShortcode);
+    eleventyConfig.addShortcode('noteListing', noteListingShortcode);
 
     return {
         templateFormats: [

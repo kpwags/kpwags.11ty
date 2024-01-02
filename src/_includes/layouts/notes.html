@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ metadata.language }}">
+
+<head>
+	{% include "head.html" %}
+	<title>{{ title }} - Keith Wagner</title>
+	<link rel="stylesheet" type="text/css" href="/css/prism-okaidia.css" />
+	<link rel="stylesheet" type="text/css" href="/css/blog-post.css" />
+
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://kpwags.com{{ page.url }}" />
+	<meta property="og:title" content="{{ title }}" />
+	<meta property="og:description" content="{{ description }}" />
+</head>
+
+<body>
+	{% include "header.html" %}
+	<main class="blog-post">
+		<h1>{{ title }}</h1>
+		<div class="metadata">
+			<div>{{ dateString }}</div>
+		</div>
+		{{ content }}
+		<hr />
+		<div class="reply-links">
+			<span>Reply via:</span>
+			<a href="mailto:hello@kpwags.com?subject={{ title }}">Email</a>
+			&bull;
+			<a href="https://hachyderm.io/@kpwags" target="_blank" rel="noreferrer nofollow">Mastodon</a>
+			&bull;
+			<a href="https://bsky.app/profile/kpwags.com" target="_blank" rel="noreferrer nofollow">Bluesky</a>
+		</div>
+	</main>
+	{% include "footer.html" %}
+</body>
+
+</html>
