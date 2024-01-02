@@ -1,7 +1,7 @@
 ---
 title: 'Movies I Watched in 2023'
 date: '2024-01-01'
-permalink: '/posts/2024/01/01/movies-i-watched-in-2023'
+permalink: '/posts/2024/01/01/movies-i-watched-in-2023/index.html'
 tags:
   - Movies
   - Year-End Review
