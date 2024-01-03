@@ -1,7 +1,7 @@
 ---
 title: 'Movies I Watched in 2023'
 date: '2024-01-01'
-permalink: '/posts/2024/01/01/movies-i-watched-in-2023'
+permalink: '/posts/2024/01/01/movies-i-watched-in-2023/index.html'
 tags:
   - Movies
   - Year-End Review
@@ -104,6 +104,10 @@ These movies, well, I wasn't the biggest fan of, but that could just be my taste
 
 6. **The Menu:** Another weird one. I’m really not sure how I feel about it other than “meh”.
 
-7. **Once Upon a Time in Hollywood:** I didn’t go into this with high expectations. I was not disappointed, dumb, but did have its moments.
+7. **Once Upon a Time in Hollywood:** I found the movie to be dragged out far longer than it needed to be.
 
-8. **This is the End:** I found the movie to be dragged out far longer than it needed to be.
+8. **This is the End:** I didn’t go into this with high expectations. I was not disappointed, dumb, but did have its moments.
+
+---
+
+*Edit 1/2/24: Corrected reviews for Once Upon a Time in Hollywood & This is the End*
