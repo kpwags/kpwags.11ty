@@ -77,6 +77,32 @@ exports.getBookNotes = (collection) => {
 	});
 };
 
+
+exports.getNotes = (collection) => {
+	const notes = [];
+
+	const allItems = collection.getAll();
+
+	for (let i = 0; i < allItems.length; i++) {
+		const item = allItems[i];
+
+		if (!item.data.tags) {
+			continue;
+		}
+
+		if (item.data.tags.includes('shortnotes')) {
+			notes.push(item);
+		}
+	}
+
+	return notes.sort((a, b) => {
+		if (a.date > b.date) {
+			return 1;
+		}
+		return -1;
+	});
+};
+
 exports.getBlogPostsAndReadingLogs = (collection, includeRssOnly = false) => {
 	const posts = this.getBlogPosts(collection, includeRssOnly);
 	const readingLogs = this.getReadingLogs(collection);
@@ -96,11 +122,13 @@ exports.getEverything = (collection, includeRssOnly = false) => {
 	const posts = this.getBlogPosts(collection, includeRssOnly);
 	const readingLogs = this.getReadingLogs(collection);
 	const bookNotes = this.getBookNotes(collection);
+	const notes = this.getNotes(collection);
 
 	return allPosts = [
 		...posts,
 		...readingLogs,
 		...bookNotes,
+		...notes,
 	].sort((a, b) => {
 		if (a.date > b.date) {
 			return 1;

@@ -1,6 +1,6 @@
 ---
 title: 'An Image Dialog Web Component'
-date: '2024-01-01'
+date: '2024-01-02'
 link: 'https://www.raymondcamden.com/2023/12/13/an-image-dialog-web-component'
 ---
 
