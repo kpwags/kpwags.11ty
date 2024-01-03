@@ -16,6 +16,7 @@ const readingTimeFilter = require('./src/filters/readingTime-filter.js');
 const archivesMonthYear = require('./src/filters/archivesMonthYear-filter.js');
 const lengthFilter = require('./src/filters/length-filter.js');
 const rssPrefixes = require('./src/filters/rssPrefixes-filter.js');
+const domainFilter = require('./src/filters/domain-filter.js');
 
 const inDepthShortcode = require('./src/shortcodes/inDepth-shortcode.js');
 const youTubeShortcode = require('./src/shortcodes/youTube-shortcode.js');
@@ -69,6 +70,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter('archivesGetDateString', archivesMonthYear.getDateString);
     eleventyConfig.addFilter('bookNoteTitlePrefix', rssPrefixes.bookNoteTitlePrefix);
     eleventyConfig.addFilter('rssOnlyPrefix', rssPrefixes.rssOnlyPrefix);
+    eleventyConfig.addFilter('domainFromUrl', domainFilter);
 
     eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
     eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);

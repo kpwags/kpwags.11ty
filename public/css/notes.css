@@ -1,0 +1,57 @@
+.short-note h1 {
+	margin: 0;
+	line-height: 1;
+	font-size: 2rem;
+}
+
+.short-note .metadata {
+	margin: 12px 0 20px 0;
+	font-size: 1.2rem;
+	color: var(--meta);
+	font-weight: 300;
+	display: flex;
+	justify-content: flex-start;
+	gap: 16px;
+}
+
+.short-note .post-date {
+	text-transform: uppercase;
+}
+
+@media (max-width: 550px) {
+	.short-note .metadata {
+		display: block;
+	}
+
+	.short-note .metadata .separator {
+		display: none;
+	}
+}
+
+.short-note blockquote {
+	margin: 0;
+	border-left: 5px solid var(--primary-color-1);
+}
+
+.short-note blockquote p {
+	padding: 0 0 0 24px;
+	font-style: italic;
+}
+
+.short-note ul {
+	margin: 0 0 32px 0;
+}
+
+.short-note ul li {
+	margin: 12px 0;
+}
+
+.short-note pre {
+	padding: 16px;
+	border-radius: 6px;
+	margin-bottom: 32px;
+}
+
+.short-note pre code {
+	font-size: 1rem;
+}

@@ -194,9 +194,17 @@ a:hover svg {
     }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 550px) {
     .links {
-        padding: 0 32px;
+        margin-top: 42px;
+    }
+
+    .links a {
+        width: 45%;
+        text-align: center;
+        border: 1px solid var(--grey-1);
+        border-radius: 6px;
+        padding: 4px;
     }
 }
 
@@ -491,6 +499,7 @@ ul.tag-list {
 }
 
 @media (max-width: 500px) {
+
     .star-md,
     .star-lg {
         width: 20px;
@@ -902,6 +911,58 @@ button[data-color='purple'] {
 }
 
 .note .metadata {
-    text-transform: uppercase;
+    margin: 12px 0 20px 0;
+    font-size: 1.2rem;
     color: var(--meta);
+    font-weight: 300;
+    display: flex;
+    justify-content: flex-start;
+    gap: 16px;
+}
+
+.note .metadata .post-date {
+    text-transform: uppercase;
+    order: 1;
+}
+
+.note .metadata .separator {
+    order: 2;
+}
+
+.note .metadata .domain {
+    order: 3;
+}
+
+@media (max-width: 550px) {
+    .note .metadata {
+        display: block;
+    }
+
+    .note .metadata .separator {
+        display: none;
+    }
+
+    .note .metadata .domain {
+        margin-bottom: 8px;
+    }
+}
+
+.note blockquote {
+    margin: 0;
+    border-left: 5px solid var(--primary-color-1);
+}
+
+.note blockquote p {
+    padding: 0 0 0 24px;
+    font-style: italic;
+}
+
+.note pre {
+    padding: 16px;
+    border-radius: 6px;
+    margin-bottom: 32px;
+}
+
+.note pre code {
+    font-size: 1rem;
 }
