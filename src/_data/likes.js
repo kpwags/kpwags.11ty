@@ -1,4 +1,5 @@
 const { XMLParser } = require('fast-xml-parser');
+const getDomainFromUrl = require('../filters/domain-filter.js');
 
 module.exports = () => {
 	return new Promise(async (resolve, reject) => {
@@ -17,12 +18,10 @@ module.exports = () => {
 			const data = parser.parse(response);
 
 			data.rss.channel.item.forEach((i) => {
-				const domain = (new URL(i.link));
-
 				likes.push({
 					title: i.title,
 					link: i.link,
-					domain: domain.hostname.startsWith('www.') ? domain.hostname.replace('www.', '') : domain.hostname,
+					domain: getDomainFromUrl(i.link),
 				});
 			});
 

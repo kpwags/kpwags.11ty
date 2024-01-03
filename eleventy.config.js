@@ -16,6 +16,7 @@ const readingTimeFilter = require('./src/filters/readingTime-filter.js');
 const archivesMonthYear = require('./src/filters/archivesMonthYear-filter.js');
 const lengthFilter = require('./src/filters/length-filter.js');
 const rssPrefixes = require('./src/filters/rssPrefixes-filter.js');
+const domainFilter = require('./src/filters/domain-filter.js');
 
 const inDepthShortcode = require('./src/shortcodes/inDepth-shortcode.js');
 const youTubeShortcode = require('./src/shortcodes/youTube-shortcode.js');
@@ -30,10 +31,9 @@ const podcastListingShortcode = require('./src/shortcodes/podcastListing-shortco
 const progressBarShortcode = require('./src/shortcodes/progressBar-shortcode.js');
 const blogPostShortcode = require('./src/shortcodes/blogPost-shortcode.js');
 const bookNoteShortcode = require('./src/shortcodes/bookNote-shortcode.js');
+const noteListingShortcode = require('./src/shortcodes/noteListing-shortcode.js');
 
 module.exports = function (eleventyConfig) {
-    // Copy the contents of the `public` folder to the output folder
-    // For example, `./public/css/` ends up in `_site/css/`
     eleventyConfig.addPassthroughCopy({
         './public/': '/',
         './node_modules/prismjs/themes/prism-okaidia.css': '/css/prism-okaidia.css',
@@ -70,6 +70,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter('archivesGetDateString', archivesMonthYear.getDateString);
     eleventyConfig.addFilter('bookNoteTitlePrefix', rssPrefixes.bookNoteTitlePrefix);
     eleventyConfig.addFilter('rssOnlyPrefix', rssPrefixes.rssOnlyPrefix);
+    eleventyConfig.addFilter('domainFromUrl', domainFilter);
 
     eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
     eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);
@@ -87,6 +88,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addShortcode('progressBar', progressBarShortcode);
     eleventyConfig.addShortcode('blogPost', blogPostShortcode);
     eleventyConfig.addShortcode('bookNote', bookNoteShortcode);
+    eleventyConfig.addShortcode('noteListing', noteListingShortcode);
 
     return {
         templateFormats: [
