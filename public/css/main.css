@@ -295,6 +295,10 @@ article.post div.excerpt {
     margin: 16px 0 0;
 }
 
+article.post div.excerpt p {
+    margin-bottom: 0;
+}
+
 @media (max-width: 460px) {
     article.post .metadata {
         display: block;
