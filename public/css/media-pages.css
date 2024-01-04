@@ -100,6 +100,12 @@
     color: var(--meta);
 }
 
+.media-container .book-notes-link a {
+    color: var(--primary-color-1);
+    font-weight: 400;
+    font-size: 1.05rem;
+}
+
 .media-container .view-thoughts {
     margin: 8px 0;
     font-size: 1.05rem;
