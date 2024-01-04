@@ -15,7 +15,15 @@ const getThoughts = (book) => {
 	<div class="thoughts hidden" id="thoughts-${book.id}">${book.thoughts}</div>
 </div>
 	`;
-}
+};
+
+const getBookNotesLink = (book) => {
+	if (book.reviewUrlSlug === null || book.reviewUrlSlug === '') {
+		return '';
+	}
+
+	return `<div class="book-notes-link"><a href="/books/${book.reviewUrlSlug}">View Book Notes</a></div>`
+};
 
 module.exports = (book) => `
 <div class="item">
@@ -32,6 +40,8 @@ module.exports = (book) => `
 		<div class="meta">${book.author}</div>
 
 		${book.rating !== null ? starRating(book.rating, "sm") : ''}
+
+		${getBookNotesLink(book)}
 
 		${getThoughts(book)}
 	</div>
