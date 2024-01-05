@@ -233,3 +233,31 @@ main:has(div.now-page) .media-container .rating,
 .podcast-title a:hover {
     text-decoration: underline;
 }
+
+dialog.media-thoughts-dialog {
+    width: 600px;
+    text-align: center;
+    border-color: var(--primary-color-1);
+}
+
+dialog.media-thoughts-dialog .thoughts-content {
+    margin-bottom: 24px;
+}
+
+@media (max-width: 650px) {
+    dialog.media-thoughts-dialog {
+        width: 300px;
+    }
+}
+
+dialog.media-thoughts-dialog button {
+    padding: 8px 16px;
+    border-color: var(--primary-color-2);
+    cursor: pointer;
+}
+
+
+dialog.media-thoughts-dialog button:hover {
+    color: var(--primary-color-1);
+    border-color: var(--primary-color-1);
+}
