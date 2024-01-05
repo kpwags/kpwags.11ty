@@ -3,6 +3,12 @@
     line-height: 1;
 }
 
+.blog-post h1 span.prefix {
+    display: block;
+    font-size: 1.667rem;
+    margin: 0;
+}
+
 .blog-post h2 + h3 {
     margin-top: 24px;
 }
