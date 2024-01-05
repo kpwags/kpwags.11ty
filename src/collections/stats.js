@@ -1,5 +1,5 @@
 const { getUniqueValues } = require('../lib/Utilities.js');
-const { getBlogPostsAndReadingLogs } = require("../lib/CollectionHelpers");
+const { getBlogPosts } = require("../lib/CollectionHelpers");
 const tagUrl = require('../filters/tagurl-filter.js');
 const dayjs = require('dayjs');
 const utc = require('dayjs/plugin/utc');
@@ -114,7 +114,7 @@ const getPopularTagsData = (posts, limit = 10) => {
 };
 
 module.exports = (collection) => {
-	const posts = getBlogPostsAndReadingLogs(collection, false);
+	const posts = getBlogPosts(collection, true);
 
 	const stats = {
 		postsByYear: getPostsByYearData(posts),

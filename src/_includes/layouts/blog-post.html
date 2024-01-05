@@ -18,7 +18,7 @@
 <body>
 	{% include "header.html" %}
 	<main class="blog-post">
-		<h1>{{ title }}</h1>
+		{{ title | postTitle }}
 		<div class="metadata">
 			<div>{{ dateString }}</div>
 			<div>&bull;</div>
