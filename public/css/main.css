@@ -565,7 +565,15 @@ ul.tag-list {
     font-weight: 300;
 }
 
-section.archives {
+section.archives.yearly-archive-section {
+    margin-bottom: 48px;
+}
+
+section.archives h2 {
+    margin-bottom: 20px;
+}
+
+section.archives .links {
     display: flex;
     flex-wrap: wrap;
     gap: 16px;
@@ -969,4 +977,16 @@ button[data-color='purple'] {
 
 .note pre code {
     font-size: 1rem;
+}
+
+ul.archives-list {
+    margin: 0;
+    padding: 0;
+}
+
+ul.archives-list li {
+    list-style-type: none;
+    margin: 12px 0;
+    display: grid;
+    grid-template-columns: 80px auto;
 }

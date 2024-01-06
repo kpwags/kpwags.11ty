@@ -7,5 +7,6 @@ module.exports = {
 	tags: 'readinglog',
 	eleventyComputed: {
 		dateString: ({ page }) => dayjs.utc(page.date).format('MMMM D, YYYY'),
+		archiveDateString: ({ page }) => dayjs.utc(page.date).format('M-D'),
 	}
 };

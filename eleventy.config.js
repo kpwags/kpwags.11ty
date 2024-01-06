@@ -5,7 +5,7 @@ const pluginWebc = require('@11ty/eleventy-plugin-webc');
 
 const publicPosts = require('./src/collections/publicPosts.js');
 const allPublicPosts = require('./src/collections/allPublicPosts.js');
-const postsByYear = require('./src/collections/postsByYear.js');
+const { postsByMonthAndYear, postsByYear } = require('./src/collections/postsByDate.js');
 const stats = require('./src/collections/stats.js');
 const everything = require('./src/collections/everything.js');
 
@@ -57,6 +57,7 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.addCollection('publicPosts', publicPosts);
     eleventyConfig.addCollection('postsAndReadingLogs', allPublicPosts);
+    eleventyConfig.addCollection('postsByMonthAndYear', postsByMonthAndYear);
     eleventyConfig.addCollection('postsByYear', postsByYear);
     eleventyConfig.addCollection('stats', stats);
     eleventyConfig.addCollection('everything', everything);
