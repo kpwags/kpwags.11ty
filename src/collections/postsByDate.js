@@ -19,14 +19,24 @@ function getByDate(collection, dateFormat) {
 		postsByDate[d].push(post);
 	});
 
-	// hacky way to get an index page
-	// TODO: find a better way?
-	const nextYear = dayjs().add(1, 'year')
-	postsByDate[nextYear.format('MM-YYYY')] = new Array();
+	if (dateFormat === 'MM-YYYY') {
+		// hacky way to get an index page
+		// TODO: find a better way?
+		const nextYear = dayjs().add(1, 'year')
+		postsByDate[nextYear.format('MM-YYYY')] = new Array();
+	}
+
+	if (dateFormat === 'YYYY') {
+		Object.keys(postsByDate).forEach((p) => postsByDate[p].reverse());
+	}
 
 	return postsByDate;
 }
 
-module.exports = (collection) => {
+exports.postsByMonthAndYear = (collection) => {
 	return getByDate(collection, "MM-YYYY");
 };
+
+exports.postsByYear = (collection) => {
+	return getByDate(collection, "YYYY");
+}
