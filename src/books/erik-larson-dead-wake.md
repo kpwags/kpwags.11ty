@@ -1,5 +1,6 @@
 ---
-title: 'Dead Wake: The Last Crossing of the Lusitania'
+title: 'Dead Wake'
+subtitle: 'The Last Crossing of the Lusitania'
 author: 'Erik Larson'
 categories:
   - History

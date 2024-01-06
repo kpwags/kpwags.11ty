@@ -1,5 +1,6 @@
 ---
-title: 'The Creative ACT: A Way of Being'
+title: 'The Creative ACT'
+subtitle: 'A Way of Being'
 author: 'Rick Rubin'
 categories:
   - Creativity

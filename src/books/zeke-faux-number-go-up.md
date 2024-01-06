@@ -1,5 +1,6 @@
 ---
-title: "Number Go Up: Inside Crypto's Wild Rise and Staggering Fall"
+title: "Number Go Up"
+subtitle: "Inside Crypto's Wild Rise and Staggering Fall"
 author: 'Zeke Faux'
 categories:
   - Technology

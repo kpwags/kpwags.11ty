@@ -1,5 +1,6 @@
 ---
-title: 'Team of Rivals: The Political Genius of Abraham Lincoln'
+title: 'Team of Rivals'
+subtitle: 'The Political Genius of Abraham Lincoln'
 author: 'Doris Kearns Goodwin'
 categories:
   - History
