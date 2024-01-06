@@ -1,5 +1,6 @@
 ---
-title: "Your Face Belongs to Us: A Secretive Startup's Quest to End Privacy as We Know It"
+title: "Your Face Belongs to Us"
+subtitle: "A Secretive Startup's Quest to End Privacy as We Know It"
 author: 'Kashmir Hill'
 categories:
   - Technology

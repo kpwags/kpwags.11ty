@@ -423,6 +423,13 @@ ul.tag-list {
 }
 
 .book-note-card h3 {
+    font-weight: 500;
+    margin: 8px 0;
+    font-size: 1.5rem;
+    color: var(--meta);
+}
+
+.book-note-card h4 {
     color: var(--text);
     margin: 16px 0;
     font-size: 1.5rem;

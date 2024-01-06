@@ -1,5 +1,6 @@
 ---
-title: 'American Whitelash: A Changing Nation and the Cost of Progress'
+title: 'American Whitelash'
+subtitle: 'A Changing Nation and the Cost of Progress'
 author: 'Wesley Lowery'
 categories:
   - History

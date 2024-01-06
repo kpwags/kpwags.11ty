@@ -7,6 +7,10 @@ module.exports = (bookNote) => {
 		categories.push(`<span class="category">${category}</span>`);
 	});
 
+	const subtitle = bookNote.data.subtitle.length > 0
+		? `<h3>${bookNote.data.subtitle}</h3>`
+		: '';
+
 	return `
 <article class="book-note-card">
 	<div class="content">
@@ -15,7 +19,8 @@ module.exports = (bookNote) => {
 		</div>
 		<div>
 			<h2><a href="${bookNote.url}">${bookNote.data.title}</a></h2>
-			<h3>by ${bookNote.data.author}</h3>
+			${subtitle}
+			<h4>by ${bookNote.data.author}</h4>
 
 			<div class="metadata">${bookNote.data.dateString}</div>
 
