@@ -1,0 +1,30 @@
+/rss/atom.xml
+  Content-Type: application/xml; charset=utf-8
+  x-content-type-options: nosniff
+/rss/feed.xml
+  Content-Type: application/xml; charset=utf-8
+  x-content-type-options: nosniff
+/rss/blogposts_atom.xml
+  Content-Type: application/xml; charset=utf-8
+  x-content-type-options: nosniff
+/rss/blogposts_feed.xml
+  Content-Type: application/xml; charset=utf-8
+  x-content-type-options: nosniff
+/rss/notes_atom.xml
+  Content-Type: application/xml; charset=utf-8
+  x-content-type-options: nosniff
+/rss/notes_feed.xml
+  Content-Type: application/xml; charset=utf-8
+  x-content-type-options: nosniff
+/rss/readinglog_atom.xml
+  Content-Type: application/xml; charset=utf-8
+  x-content-type-options: nosniff
+/rss/readinglog_feed.xml
+  Content-Type: application/xml; charset=utf-8
+  x-content-type-options: nosniff
+/rss/booknotes_atom.xml
+  Content-Type: application/xml; charset=utf-8
+  x-content-type-options: nosniff
+/rss/booknotes_feed.xml
+  Content-Type: application/xml; charset=utf-8
+  x-content-type-options: nosniff
