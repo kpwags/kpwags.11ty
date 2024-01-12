@@ -4,9 +4,9 @@
   "eleventyExcludeFromCollections": true,
   "metadata": {
     "title": "Keith Wagner - Blog",
-    "subtitle": "Thoughts and musings of a nerd and software developer.",
+    "subtitle": "My blog posts",
     "language": "en",
-    "url": "https://kpwags.com/",
+    "url": "https://kpwags.com/blog",
     "author": {
       "name": "Keith Wagner",
       "email": "hello@kpwags.com"
@@ -15,11 +15,12 @@
 }
 ---
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="/feedstyles/rss.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ metadata.url }}">
   <title>{{ metadata.title }}</title>
   <subtitle>{{ metadata.subtitle }}</subtitle>
-  <link href="{{ permalink | absoluteUrl(metadata.url) }}" rel="self"/>
   <link href="{{ metadata.url }}"/>
+  <link href="{{ permalink | absoluteUrl(metadata.url) }}" rel="self"/>
   <updated>{{ collections.post | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
   <id>{{ metadata.url }}</id>
   <author>
