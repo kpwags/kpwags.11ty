@@ -510,7 +510,6 @@ ul.tag-list {
 }
 
 @media (max-width: 500px) {
-
     .star-md,
     .star-lg {
         width: 20px;

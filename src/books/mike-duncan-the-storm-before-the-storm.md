@@ -4,7 +4,7 @@ subtitle: 'The Beginning of the End of the Roman Republic'
 author: 'Mike Duncan'
 categories:
   - History
-  - Roman Republic
+  - Ancient Rome
 links: [
     { title: 'Bookshop.org', url: 'https://bookshop.org/p/books/the-storm-before-the-storm-the-beginning-of-the-end-of-the-roman-republic-mike-duncan/7215014?ean=9781541724037' },
     { title: 'Hachette', url: 'https://www.hachettebookgroup.com/titles/mike-duncan/the-storm-before-the-storm/9781610397216' }

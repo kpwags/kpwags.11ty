@@ -4,8 +4,7 @@ subtitle: 'Antony, Cleopatra, and Octavian at Actium'
 author: 'Barry Strauss'
 categories:
   - History
-  - Roman Republic
-  - Roman Empire
+  - Ancient Rome
 links: [
     { title: 'Barry Strauss', url: 'https://barrystrauss.com/books/the-war-that-made-the-roman-empire/' },
     { title: 'Bookshop.org', url: 'https://bookshop.org/p/books/the-war-that-made-the-roman-empire-antony-cleopatra-and-octavian-at-actium-barry-strauss/18576030?ean=9781982116682' },
