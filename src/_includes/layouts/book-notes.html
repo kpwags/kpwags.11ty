@@ -39,12 +39,11 @@
 							{% endfor %}
 						</div>
 
-						<div class="links">
-							<div>Links:</div>
+						<div class="book-links">
+							<span class="lead">Links:</span>
 							{% for link in links %}
-							<a href="{{ link.url }}" target="_blank" rel="noreferrer nofollow">
-								{{ link.title }}
-							</a>
+							<a href="{{ link.url }}">{{ link.title }}</a>
+							<span class="separator">&bull;</span>
 							{% endfor %}
 						</div>
 					</div>

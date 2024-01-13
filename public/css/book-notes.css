@@ -71,14 +71,17 @@ article.book-note .finished-reading {
     font-size: 1.2rem;
 }
 
-article.book-note .links {
-    display: flex;
-    gap: 16px;
-    font-size: 1.2rem;
+article.book-note div.book-links span.lead {
+    font-weight: 600;
+    padding-right: 10px;
 }
 
-article.book-note .links a {
-    text-decoration: underline;
+article.book-note div.book-links a {
+    white-space: nowrap;
+}
+
+article.book-note div.book-links span.separator:last-child {
+    display: none;
 }
 
 @media (max-width: 550px) {
@@ -89,14 +92,5 @@ article.book-note .links a {
     article.book-note .image {
         width: 200px;
         margin: 0 auto 32px;
-    }
-
-    article.book-note .links {
-        display: block;
-    }
-
-    article.book-note .links a {
-        display: block;
-        margin: 5px 0;
     }
 }
