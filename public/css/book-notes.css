@@ -46,8 +46,9 @@ article.book-note .metadata h3:empty {
 
 article.book-note .metadata h4 {
     color: var(--text);
-    font-size: 1.75rem;
+    font-size: 1.35rem;
     margin: 12px 0;
+    font-weight: 500;
 }
 
 article.book-note .book-rating {
@@ -58,27 +59,34 @@ article.book-note .categories {
     margin: 16px 0;
     display: flex;
     gap: 8px;
+    align-items: stretch;
 }
 
 article.book-note .category {
-    padding: 0 16px;
+    padding: 8px 16px;
     background-color: var(--primary-color-2);
     color: var(--background);
     border-radius: 4px;
+    text-align: center;
+    display: flex;
+    align-items: center;
 }
 
 article.book-note .finished-reading {
     font-size: 1.2rem;
 }
 
-article.book-note .links {
-    display: flex;
-    gap: 16px;
-    font-size: 1.2rem;
+article.book-note div.book-links span.lead {
+    font-weight: 600;
+    padding-right: 10px;
 }
 
-article.book-note .links a {
-    text-decoration: underline;
+article.book-note div.book-links a {
+    white-space: nowrap;
+}
+
+article.book-note div.book-links span.separator:last-child {
+    display: none;
 }
 
 @media (max-width: 550px) {
@@ -91,12 +99,9 @@ article.book-note .links a {
         margin: 0 auto 32px;
     }
 
-    article.book-note .links {
-        display: block;
-    }
-
-    article.book-note .links a {
-        display: block;
-        margin: 5px 0;
+    article.book-note .star-md,
+    article.book-note .star-lg {
+        width: 32px;
+        height: 32px;
     }
 }

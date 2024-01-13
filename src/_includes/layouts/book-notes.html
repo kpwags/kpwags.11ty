@@ -26,8 +26,7 @@
 						<h3>{{ subtitle }}</h3>
 						<h4>by {{ author }}</h4>
 
-						<div class="finished-reading"><strong>Finished</strong>: {{ dateString }}
-						</div>
+						<div class="finished-reading"><strong>Finished</strong>: {{ dateString }}</div>
 
 						<div class="book-rating">
 							{% starRating rating "lg" %}
@@ -39,12 +38,11 @@
 							{% endfor %}
 						</div>
 
-						<div class="links">
-							<div>Links:</div>
+						<div class="book-links">
+							<span class="lead">Links:</span>
 							{% for link in links %}
-							<a href="{{ link.url }}" target="_blank" rel="noreferrer nofollow">
-								{{ link.title }}
-							</a>
+							<a href="{{ link.url }}">{{ link.title }}</a>
+							<span class="separator">&bull;</span>
 							{% endfor %}
 						</div>
 					</div>
