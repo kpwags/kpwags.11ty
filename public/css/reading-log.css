@@ -47,14 +47,16 @@
     font-size: 2.35rem;
 }
 
-.reading-log h2 {
+.reading-log h2.old {
     font-size: 2rem;
     margin: 20px 0 40px 0;
+    color: var(--primary-color-1);
 }
 
+.reading-log h2,
 .reading-log h3 {
     font-size: 1.8rem;
-    margin: 64px 0 32px 0;
+    margin: 32px 0;
     color: var(--text);
 }
 
@@ -67,8 +69,10 @@
     margin-top: 0;
 }
 
+.reading-log h3.music,
 .reading-log h4 {
-    margin-bottom: 8px;
+    color: var(--primary-color-1);
+    margin: 32px 0 8px;
     font-size: 1.3rem;
     font-weight: 400;
 }
