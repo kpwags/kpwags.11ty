@@ -1,7 +1,7 @@
 ---
 title: 'Figuring Out Notes'
 date: '2024-01-09'
-permalink: /2024/01/09/figuring-out-notes/index.html
+permalink: /posts/2024/01/09/figuring-out-notes/index.html
 tags:
   - Apps
   - Note Taking

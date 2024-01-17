@@ -1,7 +1,7 @@
 ---
 title: 'What I Learned: Styling RSS Feeds'
 date: '2024-01-12'
-permalink: /2024/01/12/what-i-learned-styling-rss-feeds/index.html
+permalink: /posts/2024/01/12/what-i-learned-styling-rss-feeds/index.html
 tags:
   - What I Learned
   - RSS

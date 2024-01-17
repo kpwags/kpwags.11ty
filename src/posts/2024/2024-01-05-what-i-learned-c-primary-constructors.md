@@ -1,7 +1,7 @@
 ---
 title: 'What I Learned: C# Primary Constructors'
 date: '2024-01-05'
-permalink: /2024/01/05/what-i-learned-c-primary-constructors/index.html
+permalink: /posts/2024/01/05/what-i-learned-c-primary-constructors/index.html
 tags:
   - What I Learned
   - C#
