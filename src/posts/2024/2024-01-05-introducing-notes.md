@@ -1,7 +1,7 @@
 ---
 title: 'Introducing Notes'
 date: '2024-01-05'
-permalink: /2024/01/05/introducing-notes/index.html
+permalink: /posts/2024/01/05/introducing-notes/index.html
 tags:
   - Site Updates
 ---

@@ -1,6 +1,7 @@
 ---
 title: 'Remembering Cookie'
 date: '2024-01-10'
+permalink: /posts/2024/01/10/remembering-cookie/index.html
 tags:
   - Cookie
   - Pets
