@@ -238,6 +238,7 @@ dialog.media-thoughts-dialog {
     width: 600px;
     text-align: center;
     border-color: var(--primary-color-1);
+    border-radius: 10px;
 }
 
 dialog.media-thoughts-dialog .thoughts-content {
@@ -252,8 +253,11 @@ dialog.media-thoughts-dialog .thoughts-content {
 
 dialog.media-thoughts-dialog button {
     padding: 8px 16px;
+    border-style: solid;
     border-color: var(--primary-color-2);
     cursor: pointer;
+    appearance: none;
+    border-radius: 5px;
 }
 
 
