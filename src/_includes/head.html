@@ -68,6 +68,22 @@
 		return [mode, color, width];
 	}
 
+	function getColorHexCode(color) {
+		switch (color) {
+			case 'blue':
+				return '#2a45cb';
+			case 'purple':
+				return '#d01bcd';
+			case 'orange':
+				return '#d27519';
+			case 'red':
+				return '#ff5757';
+			case 'green':
+			default:
+				return '#187c3d';
+		}
+	}
+
 	addEventListener('DOMContentLoaded', (event) => {
 		const [mode, color, width] = getCurrentTheme();
 
@@ -79,6 +95,11 @@
 
 		document.documentElement.setAttribute('data-color-theme', color);
 		document.documentElement.setAttribute('data-width', width);
+
+		const themeElement = document.querySelector('meta[name="theme-color"]');
+		if (themeElement) {
+			themeElement.setAttribute('content', getColorHexCode(color));
+		}
 	});
 </script>
 <script src="/scripts/theming.js" defer></script>
