@@ -45,6 +45,7 @@ const mapResults = (result) => ({
 	link: result.properties.Link.url,
 	yearRead: result.properties.DateFinished.date ? new Date(result.properties.DateFinished.date.start).getFullYear() : null,
 	reviewUrlSlug: result.properties.ReviewUrlSlug.rich_text[0]?.plain_text ?? null,
+	progress: result.properties.Progress.formula?.number ?? 0,
 });
 
 module.exports = async (status = 'Completed') => {
