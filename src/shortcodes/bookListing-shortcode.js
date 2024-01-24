@@ -17,6 +17,19 @@ const getThoughts = (book) => {
 	`;
 };
 
+const getProgress = (book) => {
+	if (book.progress <= 0 || book.progress >= 100) {
+		return '';
+	}
+
+	return `
+<div class="book-progress-bar" title="${book.progress}% complete">
+	<div class="bar">
+		<div class="inner-bar" style="width: ${book.progress}%"></div>
+	</div>
+</div>`;
+}
+
 const getBookNotesLink = (book) => {
 	if (book.reviewUrlSlug === null || book.reviewUrlSlug === '') {
 		return '';
@@ -27,8 +40,9 @@ const getBookNotesLink = (book) => {
 
 module.exports = (book) => `
 <div class="item">
-	<div>
+	<div class="book-cover">
 		<img src="${book.coverUrl}" alt="The cover for ${book.title}" class="cover" height="225" width="150" />
+		${getProgress(book)}
 	</div>
 	<div>
 		<a href="${book.link}" target="_blank" rel="noreferrer">

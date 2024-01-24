@@ -80,6 +80,21 @@
     animation: pulse-animation 2s infinite;
 }
 
+.media-container .book-cover .book-progress-bar {
+    width: 150px;
+    margin: -8px auto 16px;
+}
+
+.media-container .book-cover .book-progress-bar .bar {
+    height: 16px;
+    border: 1px solid #bcbcbc;
+}
+
+.media-container .book-cover .book-progress-bar .bar .inner-bar {
+    height: 100%;
+    background-color: var(--primary-color-1);
+}
+
 .media-container .item a {
     font-weight: 600;
     text-decoration: none;
