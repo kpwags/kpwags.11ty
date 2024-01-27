@@ -149,7 +149,7 @@ function getColorHexCode(color) {
 			return '#ff0122';
 		case 'green':
 		default:
-			return '#04bd11';
+			return '#1d7038';
 	}
 }
 
