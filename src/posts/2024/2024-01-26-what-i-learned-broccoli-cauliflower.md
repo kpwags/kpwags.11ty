@@ -1,7 +1,7 @@
 ---
 title: 'What I Learned: Broccoli & Cauliflower are Cabbages'
 date: '2024-01-26'
-permalink: /posts/2024/01/26/what-i-learned-broccoli-cauliflower
+permalink: /posts/2024/01/26/what-i-learned-broccoli-cauliflower/index.html
 tags:
   - What I Learned
   - Cooking

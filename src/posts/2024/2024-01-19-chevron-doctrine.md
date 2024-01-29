@@ -1,7 +1,7 @@
 ---
 title: 'About the Chevron Doctrine'
 date: '2024-01-19'
-permalink: /posts/2024/01/19/about-the-chevron-doctrine
+permalink: /posts/2024/01/19/about-the-chevron-doctrine/index.html
 tags:
   - Politics
   - News
