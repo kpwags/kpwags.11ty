@@ -1,7 +1,7 @@
 ---
 title: 'Limiting My Side Projects'
 date: '2024-01-25'
-permalink: /posts/2024/01/25/limiting-my-side-projects
+permalink: /posts/2024/01/25/limiting-my-side-projects/index.html
 tags:
   - Side Projects
   - Yearly Goals

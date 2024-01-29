@@ -1,7 +1,7 @@
 ---
 title: 'What I Learned: More CSS Colors'
 date: '2024-01-19'
-permalink: /posts/2024/01/19/what-i-learned-more-css-colors
+permalink: /posts/2024/01/19/what-i-learned-more-css-colors/index.html
 tags:
   - What I Learned
   - CSS
