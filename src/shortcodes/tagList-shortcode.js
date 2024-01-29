@@ -9,7 +9,7 @@ module.exports = (tags) => {
 	return `
 		<ul class="tag-list">
 			<li class="lead">Tagged:</li>
-			${links.join('')}
+			${links.join('<li class="tag-separator">&bull;</li>')}
 		</ul>
 	`;
 }
