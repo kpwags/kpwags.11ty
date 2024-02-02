@@ -25,7 +25,7 @@ Suppose we have a class for people
 public class Person
 {
 	public string Name { get; set; }
-	public string Rank { get; set; }
+	public string Species { get; set; }
 }
 ```
 
@@ -81,3 +81,5 @@ In the first case, the query is acted upon by converting it to a list object. In
 Some of the benefits of deferred query execution are better performance, as you won’t have to execute the query on large datasets all at once. It can also allow you to better chain queries together, allowing more complex queries and operations. And since the query is always re-evaluated on enumeration, you can update the collection as you are iterating over it.
 
 It’s something I have been doing for a long time in C#, but hadn’t really known it. Now I’m a little bit smarter about it and figured I’d share.
+
+*Edit 2/2/2024: Corrected the Person class definition to be Name & Species*
