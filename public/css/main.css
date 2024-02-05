@@ -1000,3 +1000,26 @@ ul.archives-list li {
     display: grid;
     grid-template-columns: 80px auto;
 }
+
+.blog-roll {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+}
+
+.blog-roll .blog {
+    border: 1px solid var(--grey-1);
+    padding: 16px;
+    border-radius: 8px;
+}
+
+.blog-roll .blog .title {
+    font-weight: 500;
+    font-size: 1.5rem;
+    color: var(--primary-color-2);
+}
+
+.blog-roll .blog p {
+    margin: 16px 0 0 0;
+}

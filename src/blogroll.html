@@ -1,0 +1,19 @@
+---
+layout: "layouts/layout.html"
+title: "Blog Roll"
+---
+
+<h1>Blog Roll</h1>
+
+<div class="blog-roll">
+	{% for blog in blogroll %}
+		<div class="blog">
+			<div class="title">{{ blog.title }}</div>
+			<div class="links">
+				<a href="{{ blog.link }}">Website</a>
+				<a href="{{ blog.rssLink }}">RSS</a>
+			</div>
+		</div>
+		
+	{% endfor %}
+</div>
