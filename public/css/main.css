@@ -1003,7 +1003,7 @@ ul.archives-list li {
 
 .blog-roll {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
     grid-column-gap: 16px;
     grid-row-gap: 16px;
 }
