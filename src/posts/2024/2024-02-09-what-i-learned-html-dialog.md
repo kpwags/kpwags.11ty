@@ -3,6 +3,8 @@ title: 'What I Learned: HTML Dialog'
 date: Created
 permalink: /posts/2024/02/09/what-i-learned-html-dialog/index.html
 tags:
+  - What I Learned
+  - Development
   - HTML
   - JavaScript
 ---
