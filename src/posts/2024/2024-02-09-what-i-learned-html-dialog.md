@@ -1,6 +1,6 @@
 ---
 title: 'What I Learned: HTML Dialog'
-date: Created
+date: '2024-02-09'
 permalink: /posts/2024/02/09/what-i-learned-html-dialog/index.html
 tags:
   - What I Learned
