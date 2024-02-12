@@ -1,6 +1,6 @@
 ---
 title: 'Starting with Test-Driven Development'
-date: Created
+date: '2024-02-09'
 permalink: /posts/2024/02/09/starting-with-test-driven-development/index.html
 tags:
   - Development
