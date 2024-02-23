@@ -1,5 +1,5 @@
 ---
-title: 'What I Learned: HTTP GET Requests in Blazor with a .NET Web API Gotcha'
+title: 'What I Learned: HTTP GET Requests in Blazor with a .NET Web API & MediatR Gotcha'
 date: '2024-02-23'
 permalink: /posts/2024/02/23/what-i-learned-blazor-web-api-gotcha/index.html
 tags:
