@@ -22,7 +22,7 @@ Towards the end of the month, Lauren and I went out to Hershey again. We spent a
 
 Also, at [Yah Brew](https://www.yahbrewco.com/home), I got to have a Strawberry Swirl Push Pop Sour, which did not look anything like a beer, but it was delicious all the same. Maybe one day I'll figure out how to brew it.
 
-[picture of beer here]
+{% image "./images/pink-beer.jpg", "A Strawberry Swirl Push Pop Sour from Yah Brew in a funky looking glass. The beer is pink." %}
 
 ## Hobby Scheduling
 
@@ -64,7 +64,6 @@ I've generally done a good job on focusing my side projects and writing, but Wed
 - [What I Learned: React Strict Mode](https://kpwags.com/posts/2024/02/16/what-i-learned-react-strict-mode/)
 - [Lunchtime Exercise](https://kpwags.com/posts/2024/02/22/lunchtime-exercise/)
 - [What I Learned: HTTP GET Requests in Blazor with a .NET Web API & MediatR Gotcha](https://kpwags.com/posts/2024/02/23/what-i-learned-blazor-web-api-gotcha/)
-- [Keeping My Phone Out of the Bedroom](https://kpwags.com/posts/2024/02/28/keeping-my-phone-out-of-the-bedroom/)
 - [Keeping My Phone Out of the Bedroom](https://kpwags.com/posts/2024/02/28/keeping-my-phone-out-of-the-bedroom/)
 
 **🎮 Gaming**
