@@ -22,7 +22,7 @@ Towards the end of the month, Lauren and I went out to Hershey again. We spent a
 
 Also, at [Yah Brew](https://www.yahbrewco.com/home), I got to have a Strawberry Swirl Push Pop Sour, which did not look anything like a beer, but it was delicious all the same. Maybe one day I'll figure out how to brew it.
 
-[picture of beer here]
+{% image "./images/pink-beer.jpg", "A Strawberry Swirl Push Pop Sour from Yah Brew in a funky looking glass. The beer is pink." %}
 
 ## Hobby Scheduling
 

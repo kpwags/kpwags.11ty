@@ -7,13 +7,14 @@ title: "Blog Roll"
 
 <div class="blog-roll">
 	{% for blog in blogroll %}
-		<div class="blog">
-			<div class="title">{{ blog.title }}</div>
-			<div class="links">
-				<a href="{{ blog.link }}">Website</a>
-				<a href="{{ blog.rssLink }}">RSS</a>
-			</div>
+	<div class="blog">
+		<div class="title">{{ blog.title }}</div>
+		<div class="links">
+			<a href="{{ blog.link }}">Website</a>
+			<a href="{{ blog.rssLink }}">RSS</a>
 		</div>
-		
+		<p class="description">{{ blog.description }}</p>
+	</div>
+
 	{% endfor %}
 </div>
