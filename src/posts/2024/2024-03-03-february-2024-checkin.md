@@ -65,7 +65,6 @@ I've generally done a good job on focusing my side projects and writing, but Wed
 - [Lunchtime Exercise](https://kpwags.com/posts/2024/02/22/lunchtime-exercise/)
 - [What I Learned: HTTP GET Requests in Blazor with a .NET Web API & MediatR Gotcha](https://kpwags.com/posts/2024/02/23/what-i-learned-blazor-web-api-gotcha/)
 - [Keeping My Phone Out of the Bedroom](https://kpwags.com/posts/2024/02/28/keeping-my-phone-out-of-the-bedroom/)
-- [Keeping My Phone Out of the Bedroom](https://kpwags.com/posts/2024/02/28/keeping-my-phone-out-of-the-bedroom/)
 
 **🎮 Gaming**
 
