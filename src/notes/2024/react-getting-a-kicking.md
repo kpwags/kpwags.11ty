@@ -2,6 +2,7 @@
 title: 'It feels like React is getting a bit of a kicking recently'
 date: '2024-03-03'
 link: 'https://piccalil.li/blog/react-is-getting-a-bit-of-a-kicking-recently/'
+permalink: /notes/react-getting-a-kicking/index.html
 ---
 
 > I don’t like the fact that libraries like React are so heavily used, but over the years, I’ve grown more empathetic about the decision by teams to use them. The web platform doesn’t currently give us all the tools we might need, but I’m hopeful it will in the longer term. I also get that people can’t wait for that and need to get moving, so libraries service their needs better than the web platform currently does.
