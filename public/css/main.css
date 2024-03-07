@@ -130,6 +130,10 @@ header nav a:hover {
     text-decoration: underline;
 }
 
+header .open-settings-btn {
+    cursor: pointer;
+}
+
 .logo a {
     display: flex;
     gap: 16px;
@@ -806,16 +810,13 @@ form {
 }
 
 .settings-drawer {
-    display: none;
     position: absolute;
     z-index: 100;
     width: 640px;
-    top: 0;
-    left: 50%;
-    margin-left: -320px;
     background: var(--background);
     box-shadow: var(--box-shadow);
     padding: 20px;
+    border-color: var(--primary-color-1);
 }
 
 @media (max-width: 680px) {
@@ -829,15 +830,19 @@ button#close-theme-drawer {
     position: absolute;
     top: 10px;
     right: 10px;
-    height: 32px;
-    width: 32px;
     border: none;
+    width: 32px;
+    height: 32px;
     background-color: transparent;
     cursor: pointer;
+    padding: 0;
+    margin: 0;
 }
 
 button#close-theme-drawer svg {
     stroke: var(--text);
+    width: 32px;
+    height: 32px;
 }
 
 .theme-section {
