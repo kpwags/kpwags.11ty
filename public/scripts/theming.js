@@ -1,16 +1,18 @@
 window.addEventListener('load', () => {
+	const settingsDialog = document.querySelector('dialog#settings-drawer');
+
 	const openThemeSettingsButtons = document.querySelectorAll('.open-settings-btn');
 
 	openThemeSettingsButtons.forEach((button) => {
 		button.addEventListener('click', () => {
-			toggleThemeSettings();
+			settingsDialog.showModal();
 		});
 	});
 
 	const closeThemeDrawerButton = document.getElementById('close-theme-drawer');
 	if (closeThemeDrawerButton) {
 		closeThemeDrawerButton.addEventListener('click', () => {
-			toggleThemeSettings();
+			settingsDialog.close();
 		});
 	}
 
