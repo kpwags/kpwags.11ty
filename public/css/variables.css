@@ -1,6 +1,7 @@
 :root {
     --background: oklch(100% 0 0);
     --shaded-background: oklch(96.96% 0 0);
+    --code-background: oklch(88% 0 31.24);
     --text: oklch(26.97% 0 0);
     --white-1: oklch(100% 0 0);
     --white-2: oklch(92.34% 0 0);
@@ -28,6 +29,7 @@
 [data-theme*='dark'] {
     --background: oklch(26.03% 0 0);
     --shaded-background: oklch(30.12% 0 0);
+    --code-background: oklch(45.33% 0 37.59);
     --text: oklch(95.51% 0 0);
     --primary-color-1: oklch(69.22% 0.232 142.82);
     --primary-color-2: oklch(77.65% 0.242 142.82);
@@ -46,6 +48,7 @@
 [data-theme*='light'] {
     --background: oklch(100% 0 0);
     --shaded-background: oklch(96.96% 0 0);
+    --code-background: oklch(88% 0 31.24);
     --text: oklch(26.97% 0 0);
     --white-1: oklch(100% 0 0);
     --white-2: oklch(92.34% 0 0);

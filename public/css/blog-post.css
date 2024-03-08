@@ -50,6 +50,12 @@
     margin-bottom: 0;
 }
 
+.blog-post p code {
+    background: var(--code-background);
+    font-family: var(--font);
+    padding: 4px;
+}
+
 .blog-post img {
     text-align: center;
     margin-left: auto;
