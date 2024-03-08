@@ -855,6 +855,7 @@ button#close-theme-drawer svg {
 
 .button-label {
     font-weight: 600;
+    color: var(--text);
 }
 
 .color-options {
@@ -882,7 +883,7 @@ button#close-theme-drawer svg {
 }
 
 .color-button.active {
-    border: 5px solid var(--black-1);
+    border: 5px solid var(--text);
     box-sizing: border-box;
 }
 
