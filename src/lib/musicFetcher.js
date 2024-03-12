@@ -33,6 +33,7 @@ const mapResult = (result) => ({
 	genres: result.properties.Genre.multi_select.map((i) => i.name),
 	formats: result.properties.Format.multi_select.map((i) => i.name),
 	sortedName: getSortedName(result.properties.Artist.rich_text[0].plain_text),
+	sortedAlbumName: getSortedName(result.properties.Album.title[0].plain_text),
 });
 
 module.exports = async () => {
@@ -50,5 +51,18 @@ module.exports = async () => {
 		});
 	} while (nextCursor);
 
-	return music.sort((a, b) => a.sortedName.localeCompare(b.sortedName));
+	return music
+		.sort((a, b) => {
+			if (a.sortedName > b.sortedName) {
+				return 1;
+			} else if (a.sortedName < b.sortedName) {
+				return -1;
+			} else {
+				if (a.sortedAlbumName > b.sortedAlbumName) {
+					return 1;
+				} else {
+					return -1;
+				}
+			}
+		});
 };

@@ -1,0 +1,23 @@
+---
+layout: "layouts/layout.html"
+title: "Links"
+---
+
+<h1>Links</h1>
+
+<p>I traverse the web and run into many interesting posts, how-tos, and countless other fun links. Figured I'd share them here when I don't have anything specific to add.</p>
+
+<ul class="likes">
+	{% for item in links %}
+	<li>
+		<div class="title">
+			<a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
+				{{ item.title }}
+			</a>
+		</div>
+		<div class="source">
+			{{ item.date }} &bull; {{ item.author }}
+		</div>
+	</li>
+	{% endfor %}
+</ul>
