@@ -1,6 +1,10 @@
 ---
 layout: "layouts/layout.html"
 title: "Links"
+pagination:
+    data: links
+    size: 25
+    alias: links
 ---
 
 <h1>Links</h1>
@@ -21,3 +25,8 @@ title: "Links"
 	</li>
 	{% endfor %}
 </ul>
+
+<section class="pagination">
+    {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Links</a>{% endif %}
+    {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Links &rightarrow;</a>{% endif %}
+</section>

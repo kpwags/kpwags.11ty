@@ -34,6 +34,7 @@ const mapResults = (result) => ({
 	author: result.properties.Author.rich_text[0].plain_text,
 	link: result.properties.Link.url,
 	date: result.properties.Date.date ? dayjs(result.properties.Date.date.start).format('MMMM D, YYYY') : null,
+	jsDate: result.properties.Date.date ? dayjs(result.properties.Date.date.start).toDate() : null,
 });
 
 module.exports = async () => {

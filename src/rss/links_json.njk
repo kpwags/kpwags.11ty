@@ -1,0 +1,40 @@
+---json
+{
+  "permalink": "/rss/links_feed.json",
+  "eleventyExcludeFromCollections": true,
+  "metadata": {
+    "title": "Keith Wagner - Links",
+    "subtitle": "Links I've discovered around the web",
+    "language": "en",
+    "url": "https://kpwags.com/links",
+    "author": {
+      "name": "Keith Wagner",
+      "email": "hello@kpwags.com"
+    }
+  }
+}
+---
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "{{ metadata.title }}",
+  "language": "{{ metadata.language }}",
+  "home_page_url": "{{ metadata.url }}",
+  "feed_url": "{{ permalink | absoluteUrl(metadata.url) }}",
+  "description": "{{ metadata.subtitle }}",
+  "author": {
+    "name": "{{ metadata.author.name }}",
+    "url": "{{ metadata.author.url }}"
+  },
+  "items": [
+    {%- for item in links %}
+    {
+      "id": "{{ item.link }}",
+      "url": "{{ item.link }}",
+      "title": "{{ item.title }}",
+      "content_html": {{ item | linkContent | dump | safe }},
+      "date_published": "{{ item.jsDate | dateToRfc3339 }}"
+    }
+    {% if not loop.last %},{% endif %}
+    {%- endfor %}
+  ]
+}
