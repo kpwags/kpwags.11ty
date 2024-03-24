@@ -2,6 +2,7 @@ const pluginRss = require('@11ty/eleventy-plugin-rss');
 const pluginSyntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const pluginImages = require('./eleventy.config.images.js');
 const pluginWebc = require('@11ty/eleventy-plugin-webc');
+const { EleventyRenderPlugin } = require("@11ty/eleventy");
 
 const publicPosts = require('./src/collections/publicPosts.js');
 const allPublicPosts = require('./src/collections/allPublicPosts.js');
@@ -49,11 +50,12 @@ module.exports = function (eleventyConfig) {
     // App plugins
     eleventyConfig.addPlugin(pluginImages);
     eleventyConfig.addPlugin(pluginRss);
+    eleventyConfig.addPlugin(EleventyRenderPlugin);
     eleventyConfig.addPlugin(pluginSyntaxHighlight, {
         preAttributes: { tabindex: 0 },
     });
     eleventyConfig.addPlugin(pluginWebc, {
-        components: "src/_includes/components/*.webc",
+        components: "./src/_components/**/*.webc",
     });
 
     eleventyConfig.addCollection('publicPosts', publicPosts);

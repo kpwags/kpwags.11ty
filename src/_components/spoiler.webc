@@ -1,0 +1,57 @@
+<div class="spoiler secret">
+	<div class="warning">
+		<h2>Warning</h2>
+		<p>This may contain spoilers. Reader beware.</p>
+		<p><button type="button" class="show-content">Show Content</button></p>
+	</div>
+	<div class="content">
+		<slot></slot>
+	</div>
+</div>
+
+<style webc:keep>
+	.spoiler .warning {
+		border: 1px solid var(--primary-color-3);
+		background: var(--shaded-background);
+		padding: 3rem 0;
+		text-align: center;
+		border-radius: 10px;
+	}
+
+	.spoiler .warning h2 {
+		font-size: 2rem;
+	}
+
+	.spoiler .warning button {
+		padding: 0.25rem 1.25rem;
+		cursor: pointer;
+	}
+
+	.spoiler.secret .content,
+	.spoiler.shown .warning {
+		display: none;
+	}
+
+	.spoiler.shown .content {
+		display: block;
+	}
+
+	.spoiler.secret {
+		display: block;	
+		width: 100%;
+	}
+</style>
+
+<script webc:keep>
+	window.addEventListener('load', () => {
+		const showButton = document.querySelector('button.show-content');
+
+		if (showButton) {
+			showButton.addEventListener('click', () => {
+				const spoilerDiv = document.querySelector('div.spoiler');
+				spoilerDiv.classList.remove('secret');
+				spoilerDiv.classList.add('shown');
+			});
+		}
+	});
+</script>
