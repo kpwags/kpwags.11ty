@@ -35,6 +35,7 @@ const mapResults = (result) => ({
 	link: result.properties.Link.url,
 	date: result.properties.Date.date ? dayjs(result.properties.Date.date.start).format('MMMM D, YYYY') : null,
 	jsDate: result.properties.Date.date ? dayjs(result.properties.Date.date.start).toDate() : null,
+	type: result.properties.Type.select.name
 });
 
 module.exports = async () => {
@@ -47,7 +48,7 @@ module.exports = async () => {
 
 		nextCursor = response.nextCursor;
 
-		response.results.forEach((m) => {
+		response.results.forEach((m, idx) => {
 			links.push(mapResults(m));
 		});
 	} while (nextCursor);

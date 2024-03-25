@@ -11,16 +11,33 @@ pagination:
 
 <p>I traverse the web and run into many interesting posts, how-tos, and countless other fun links. Figured I'd share them here when I don't have anything specific to add.</p>
 
+<p>
+	🔗 - Link / 🎥 - Video / 🎧 - Podcast
+</p>
+
 <ul class="likes">
 	{% for item in links %}
 	<li>
-		<div class="title">
-			<a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
-				{{ item.title }}
-			</a>
-		</div>
-		<div class="source">
-			{{ item.date }} &bull; {{ item.author }}
+		<div class="link">
+			<div class="icon">
+				{% if item.type == "Podcast" %}
+				🎧
+				{% elsif item.type == "Video" %}
+				🎥
+				{% else %}
+				🔗
+				{% endif %}
+			</div>
+			<div>
+				<div class="title">
+					<a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
+						{{ item.title }}
+					</a>
+				</div>
+				<div class="source">
+					{{ item.date }} &bull; {{ item.author }}
+				</div>
+			</div>
 		</div>
 	</li>
 	{% endfor %}
