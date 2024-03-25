@@ -621,6 +621,15 @@ ul.likes li {
     margin: 24px 0;
 }
 
+ul.likes li div.link {
+    display: flex;
+    gap:8px;
+}
+
+ul.likes li div.link .icon {
+    margin-top: 6px;
+}
+
 ul.likes li div.title {
     font-weight: 400;
     font-size: 1.4rem;
