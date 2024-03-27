@@ -71,7 +71,7 @@ The next step was setting up the styling.
 
 I styled the warning div to look nice with the content.
 
-![A screenshot of my spoiler control warning users clicking to continue could spoil things](./../images/2024-03-26-spoiler-output.png)
+{% image "./images/2024-03-26-spoiler-output.png", "A screenshot of my spoiler control warning users clicking to continue could spoil things" %}
 
 The important lines are:
 
