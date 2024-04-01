@@ -16,7 +16,7 @@ window.addEventListener('load', () => {
 			});
 		});
 
-		const modalCloseButton = document.querySelector('dialog button');
+		const modalCloseButton = document.querySelector('dialog.media-thoughts-dialog button');
 		if (modalCloseButton) {
 			modalCloseButton.addEventListener('click', () => dialog.close());
 		}
