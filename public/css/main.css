@@ -310,6 +310,12 @@ article.post div.excerpt p {
     margin-bottom: 0;
 }
 
+article.post div.excerpt code {
+    background: var(--code-background);
+    font-family: var(--font);
+    padding: 4px;
+}
+
 @media (max-width: 460px) {
     article.post .metadata {
         display: block;
