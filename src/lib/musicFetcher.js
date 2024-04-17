@@ -34,6 +34,7 @@ const mapResult = (result) => ({
 	formats: result.properties.Format.multi_select.map((i) => i.name),
 	sortedName: getSortedName(result.properties.Artist.rich_text[0].plain_text),
 	sortedAlbumName: getSortedName(result.properties.Album.title[0].plain_text),
+	isTopTen: result.properties.Top10.checkbox,
 });
 
 module.exports = async () => {
