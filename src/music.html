@@ -10,9 +10,21 @@ title: "Music Collection"
 
 	<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
 
-	<div class="music-grid">
-		{% for album in music %}
-		{% musicListing album %}
-		{% endfor %}
+	<div class="media-with-columns">
+		<div class="sidebar music-sidebar">
+			<ul>
+				<li><button type="button" id="all-music" class="active">All</button></li>
+				<li><button type="button" id="top10-music">My Top 10</button></li>
+				<li><button type="button" id="vinyl-music">Vinyl</button></li>
+				<li><button type="button" id="cd-music">CD</button></li>
+				<li><button type="button" id="digital-music">Digital</button></li>
+			</ul>
+		</div>
+
+		<div class="music-grid">
+			{% for album in music %}
+			{% musicListing album %}
+			{% endfor %}
+		</div>
 	</div>
 </div>

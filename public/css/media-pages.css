@@ -11,6 +11,63 @@
     font-style: italic;
 }
 
+.media-with-columns {
+    display: flex;
+    column-gap: 48px;
+    margin-top: 64px;
+}
+
+.media-with-columns .sidebar {
+    width: 200px;
+}
+
+.media-with-columns .sidebar ul {
+    margin: 0;
+    padding: 0;
+}
+
+.media-with-columns .sidebar ul li {
+    margin-bottom: 16px;
+    list-style-type: none;
+}
+
+.media-with-columns .sidebar ul li button {
+    padding: 0;
+    color: var(--primary-color-1);
+    cursor: pointer;
+    text-decoration: underline;
+    border: none;
+    font-size: 1.25rem;
+    background-color: transparent;
+}
+
+.media-with-columns .sidebar ul li button.active {
+    font-weight: 700;
+}
+
+.media-with-columns .sidebar ul button:hover {
+    color: var(--primary-color-2);
+    text-decoration: underline;
+}
+
+@media (max-width: 810px) {
+    .media-with-columns {
+        display: block;
+        margin-top: 32px;
+    }
+
+    .media-with-columns .sidebar {
+        width: 100%;
+        margin-bottom: 32px;
+        text-align: center;
+    }
+
+    .media-with-columns .sidebar ul li {
+        display: inline-block;
+        margin: 0 16px 16px;
+    }
+}
+
 .media-container .items {
     margin: 0 0 2.5rem;
     padding: 0;
@@ -180,6 +237,7 @@ main:has(div.now-page) .media-container .rating,
 }
 
 .music-grid {
+    width: 100%;
     margin: 0 0 40px;
     padding: 0;
     display: grid;
@@ -193,6 +251,10 @@ main:has(div.now-page) .media-container .rating,
     text-align: center;
     vertical-align: top;
     width: 150px;
+}
+
+.music-album.hidden {
+    display: none;
 }
 
 .music-album-title {
