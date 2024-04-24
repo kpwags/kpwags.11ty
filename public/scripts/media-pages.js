@@ -60,6 +60,7 @@ function filterMusic(mode) {
 	musicFilterButtons.forEach((btn) => btn.classList.remove('active'));
 
 	const musicAlbums = document.querySelectorAll('div.music-album');
+
 	switch (mode) {
 		case 'all':
 			addClassToElement('#all-music', 'active');
@@ -81,43 +82,25 @@ function filterMusic(mode) {
 			break;
 
 		case 'vinyl':
-			addClassToElement('#vinyl-music', 'active');
-			musicAlbums.forEach((album) => {
-				const formats = album.getAttribute('data-formats');
-				if (formats && formats.includes('vinyl')) {
-					album.classList.remove('hidden');
-				} else {
-					album.classList.add('hidden');
-				}
-			});
-			break;
-
-
 		case 'cd':
-			addClassToElement('#cd-music', 'active');
-			musicAlbums.forEach((album) => {
-				const formats = album.getAttribute('data-formats');
-				if (formats && formats.includes('cd')) {
-					album.classList.remove('hidden');
-				} else {
-					album.classList.add('hidden');
-				}
-			});
-			break;
-
-
 		case 'digital':
-			addClassToElement('#digital-music', 'active');
-			musicAlbums.forEach((album) => {
-				const formats = album.getAttribute('data-formats');
-				if (formats && formats.includes('digital')) {
-					album.classList.remove('hidden');
-				} else {
-					album.classList.add('hidden');
-				}
-			});
+			toggleAlbumFormat(musicAlbums, mode);
 			break;
+
 		default:
 			break;
 	}
+}
+
+function toggleAlbumFormat(musicAlbums, format) {
+	addClassToElement(`#${format}-music`, 'active');
+
+	musicAlbums.forEach((album) => {
+		const formats = album.getAttribute('data-formats');
+		if (formats && formats.includes(format)) {
+			album.classList.remove('hidden');
+		} else {
+			album.classList.add('hidden');
+		}
+	});
 }
