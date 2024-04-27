@@ -54,12 +54,12 @@ module.exports = async () => {
 
 	return music
 		.sort((a, b) => {
-			if (a.sortedName > b.sortedName) {
+			if (a.sortedName.toLowerCase() > b.sortedName.toLowerCase()) {
 				return 1;
-			} else if (a.sortedName < b.sortedName) {
+			} else if (a.sortedName.toLowerCase() < b.sortedName.toLowerCase()) {
 				return -1;
 			} else {
-				if (a.sortedAlbumName > b.sortedAlbumName) {
+				if (a.sortedAlbumName.toLowerCase() > b.sortedAlbumName.toLowerCase()) {
 					return 1;
 				} else {
 					return -1;
