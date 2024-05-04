@@ -2,7 +2,15 @@ require("dotenv").config();
 
 const { Client } = require('@notionhq/client');
 
-const fetchFromNotion = async (status, cursor = undefined) => {
+const defaultSorts = [
+	{ property: 'DateFinished', direction: 'descending' },
+];
+
+const fetchFromNotion = async (status, sorts = undefined, cursor = undefined) => {
+	if (typeof sorts === 'undefined') {
+		sorts = defaultSorts;
+	}
+
 	const notion = new Client({
 		auth: process.env.NOTION_API_KEY,
 	});
@@ -16,9 +24,7 @@ const fetchFromNotion = async (status, cursor = undefined) => {
 				equals: status,
 			},
 		},
-		sorts: [
-			{ property: 'DateFinished', direction: 'descending' },
-		],
+		sorts,
 	});
 
 	let nextCursor = undefined;
@@ -48,20 +54,20 @@ const mapResults = (result) => ({
 	progress: result.properties.Progress.formula?.number ?? 0,
 });
 
-module.exports = async (status = 'Completed') => {
-	const movies = [];
+module.exports = async (status = 'Completed', sorts = undefined) => {
+	const books = [];
 
 	let nextCursor;
 
 	do {
-		const response = await fetchFromNotion(status, nextCursor);
+		const response = await fetchFromNotion(status, sorts, nextCursor);
 
 		nextCursor = response.nextCursor;
 
 		response.results.forEach((m) => {
-			movies.push(mapResults(m));
+			books.push(mapResults(m));
 		});
 	} while (nextCursor);
 
-	return movies;
+	return books;
 }

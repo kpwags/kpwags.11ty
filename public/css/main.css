@@ -1048,3 +1048,21 @@ ul.archives-list li {
 fit-vids {
     margin-bottom: 48px;
 }
+
+.books-to-read {
+    margin: 0;
+    padding: 0;
+}
+
+.books-to-read li {
+    margin: 12px 0;
+    list-style-type: '';
+}
+
+.books-to-read-count {
+    margin: 24px 0;
+}
+
+.books-to-read-count span {
+    font-weight: 600;
+}
