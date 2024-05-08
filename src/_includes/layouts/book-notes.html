@@ -10,6 +10,12 @@
 	<meta property="og:url" content="https://kpwags.com{{ page.url }}" />
 	<meta property="og:title" content="{{ title }}" />
 	<meta property="og:description" content="{{ description }}" />
+
+	{% if socialimage %}
+	<meta property="og:image" content="https://kpwags.com{{ imageUrl }}" />
+	{% elsif %}
+	<meta property="og:image" content="https://kpwags.com/img/featureimage.jpg" />
+	{% endif %}
 </head>
 
 <body>
