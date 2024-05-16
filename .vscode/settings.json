@@ -14,7 +14,7 @@
         "statusBarItem.remoteForeground": "#ffffff",
         "statusBar.foreground": "#ffffff"
     },
-    "workbench.colorTheme": "Cobalt2",
+    "workbench.colorTheme": "Night Owl",
     "editor.tabSize": 4,
     "editor.insertSpaces": false,
     "search.exclude": {
