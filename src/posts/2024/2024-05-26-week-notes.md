@@ -1,0 +1,30 @@
+---
+title: 'Week Notes for May 19 - 25'
+date: '2024-05-26T13:35:29Z'
+permalink: /posts/2024/05/26/week-notes/index.html
+tags:
+  - Week Notes
+  - Mass Effect 2
+  - Gaming
+  - House
+  - Sublime Text
+---
+
+Week notes for May 19 through May 25
+<!-- excerpt -->
+
+## Leegtastic Work
+
+I had taken a break working on Leegtastic to work on a website for my wife. I came back and started questioning how I was doing things based on some of my work with Blazor for my job. Decided to revamp some of the architecture. So while I’m not building new functionality, I’m hopefully putting it in a better place for future work.
+
+## Completed Mass Effect 2
+
+I've been playing a lot of Mass Effect 2 and ended up completing it Saturday. I enjoyed it a lot more than I anticipated given how it started. I also kind of felt that the final battle was easier than you'd expect for a final showdown.
+
+## Sublime Text
+
+Prior to Visual Studio Code's release, I was a big fan of Sublime Text. I'm giving it a try again on my personal site and seeing how I like it. So far I miss some features of Code, but it feels lighter and slightly more snappy.
+
+## House Work
+
+We are getting a refrigerator for our basement, I spent parts of the week cleaning out a spot for it and running a wire for a new outlet. It was a challenge to find an acceptable circuit to use and connect into.
