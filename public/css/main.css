@@ -224,7 +224,7 @@ a:hover svg {
 /* footer */
 footer {
     margin: 96px 0 48px;
-    padding-top: 24px;
+    padding: 0 24px;
     text-align: center;
 }
 
@@ -255,6 +255,10 @@ footer div.site-info {
 }
 
 @media (max-width: 450px) {
+    footer {
+        margin: 32px 0;
+    }
+
     footer nav {
         margin: 16px 0;
     }
@@ -1065,4 +1069,70 @@ fit-vids {
 
 .books-to-read-count span {
     font-weight: 600;
+}
+
+.homepage-blog-post-link {
+    margin: 24px 0;
+}
+
+.homepage-blog-post-link a {
+    font-size: 1.66rem;
+}
+
+.homepage-blog-post-link div.metadata {
+    color: var(--meta);
+    text-transform: uppercase;
+}
+
+.homepage-book-note-link {
+    margin: 24px 0;
+}
+
+.homepage-book-note-link a {
+    font-size: 1.66rem;
+}
+
+.homepage-book-note-link div.metadata {
+    color: var(--meta);
+    display: flex;
+    gap: 16px;
+    text-transform: uppercase;
+}
+
+.latest-pixelfed-photos {
+    margin: 32px 0;
+}
+
+.latest-pixelfed-photos .pixelfed-photos {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    margin: 16px 0;
+}
+
+.latest-pixelfed-photos .pixelfed-photos a {
+    border: 8px solid var(--photo-frame-color);
+    width: 200px;
+    height: 200px;
+}
+
+.latest-pixelfed-photos .pixelfed-photos a:hover {
+    border-color: var(--primary-color-3);
+}
+
+@media (max-width: 700px) {
+    .latest-pixelfed-photos {
+        margin: 32px 0 0;
+    }
+    .latest-pixelfed-photos .pixelfed-photos {
+        display: flex;
+        justify-content: initial;
+        flex-direction: column;
+    }
+
+    .latest-pixelfed-photos .pixelfed-photos a {
+        border: 8px solid var(--photo-frame-color);
+        width: 100%;
+        height: auto;
+    }
 }

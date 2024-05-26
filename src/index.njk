@@ -14,12 +14,17 @@ layout: 'layouts/layout.html'
 	<h2>Latest Posts</h2>
 
 	{% set recentPostsSorted = collections.postsAndReadingLogs | reverse %}
-	{% set recentPosts = recentPostsSorted.slice(0, 7) %}
+	{% set recentPosts = recentPostsSorted.slice(0, 5) %}
 
 	{% for post in recentPosts %}
-	{% blogPost post %}
+		<div class="homepage-blog-post-link">
+			<a href="{{ post.url }}">{{ post.data.title }}</a>
+			<div class="metadata">{{ post.data.dateString }}</div>
+		</div>
 	{% endfor %}
 </section>
+
+<hr />
 
 <section class="latest-from-book-notes">
 	<h2>Latest Book Note</h2>
@@ -27,5 +32,29 @@ layout: 'layouts/layout.html'
 	{% set recentBookNotesSorted = collections.booknotes | reverse %}
 	{% set bookNote = recentBookNotesSorted[0] %}
 
-	{% bookNote bookNote %}
+	<div class="homepage-book-note-link">
+		<a href="{{ bookNote.url }}">{{ bookNote.data.title }}</a>
+		<div class="metadata">
+			<span>by {{ bookNote.data.author }}</span>
+			<span class="separator">&bull;</span>
+			<span>{{ bookNote.data.dateString }}</span>
+		</div>
+	</div>
+</section>
+
+<hr />
+
+<section class="latest-pixelfed-photos">
+	<h2>Latest from pixelfed</h2>
+
+
+	<div class="pixelfed-photos">
+		{% for img in pixelfed %}
+			<a href="{{ img.link }}">
+				<img src="{{ img.image }}" alt="{{ img.title }}" />
+			</a>
+		{% endfor %}
+	</div>
+
+	<div class="view-more"><a href="https://pixelfed.social/users/kpwags">View More</a></div>
 </section>
