@@ -24,6 +24,7 @@
     --primary-color-blue: oklch(57.94% 0.197 252);
     --primary-color-purple: oklch(63.53% 0.266 325.06);
     --width: min(80ch, 100vw - 2rem);
+    --photo-frame-color: var(--primary-color-1);
 }
 
 [data-theme*='dark'] {
@@ -43,6 +44,7 @@
     --primary-color-blue: oklch(68.53% 0.16 229.76);
     --primary-color-purple: oklch(73.04% 0.277 328.67);
     --box-shadow: 0 12px 24px 0 oklch(47.41% 0 0 / 20%);
+    --photo-frame-color: oklch(95.51% 0 0);
 }
 
 [data-theme*='light'] {
@@ -69,6 +71,7 @@
     --primary-color-green: oklch(48.24% 0.118 149.75);
     --primary-color-blue: oklch(57.94% 0.197 252);
     --primary-color-purple: oklch(63.53% 0.266 325.06);
+    --photo-frame-color: var(--primary-color-1);
 }
 
 [data-color-theme*='green'] {
