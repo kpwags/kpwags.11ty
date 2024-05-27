@@ -1,36 +1,81 @@
 <footer>
     <hr />
-    <nav>
-        <a href="/">Home</a>
-        <a href="/blog">Blog</a>
-        <a href="/notes">Notes</a>
-        <a href="/reading-logs">Reading Logs</a>
-        <a href="/book-notes">Book Notes</a>
-        <a href="/links">Links</a>
-        <a href="/archives">Archives</a>
-        <a href="/about">About</a>
-        <a href="/work" title="View a page showcasing projects I've worked on">Work</a>
-        <a href="/uses" title="View a page showing the gear and apps I use">Uses</a>
-        <a href="/search" title="Go to a page allowing you to search my blog">Search</a>
-        <a href="/bookshelf" title="View a page listing the books I've read">Bookshelf</a>
-        <a href="/now" title="Now">Now</a>
-        <a href="/movies" title="View a page listing the movies I've watched">Movies</a>
-        <a href="/likes" title="View a page listing various articles I've liked and want to share from my RSS feeds">Likes</a>
-        <a href="/listening" title="View a page listing the podcasts I'm subscribed to">Podcasts</a>
-        <a href="/tv/" title="View a page listing the TV shows I've watched">TV</a>
-        <a href="/music" title="View a page listing the music albums I own">Music</a>
-        <a href="/video-games/" title="View a page listing the video games I've played">Video Games</a>
-        <a href="/stats" title="View a page showing stats for my page">Stats</a>
-        <a href="/blogroll" title="View a page of recommendations of other people to follow">Blog Roll</a>
-        <a href="/progress/2024" title="View a page showing my current progress reaching my 2024 aspirations">2024 Aspirations Progress</a>
+    <nav class="core-pages">
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/blog">Blog</a></li>
+            <li><a href="/notes">Notes</a></li>
+            <li><a href="/reading-logs">Reading Logs</a></li>
+            <li><a href="/book-notes">Book Notes</a></li>
+            <li><a href="/links">Links</a></li>
+            <li><a href="/rss" title="Get my RSS feeds">RSS</a></li>
+        </ul>
     </nav>
-    <nav>
-        <a href="mailto:hello@kpwags.com" title="Email me">hello@kpwags.com</a>
-        <a href="https://www.github.com/kpwags" title="View my GitHub profile">GitHub</a>
-        <a rel="me" href="https://hachyderm.io/@kpwags" title="View my Mastodon profile">Mastodon</a>
-        <a href="https://bsky.app/profile/kpwags.com" title="View my Bluesky profile">Bluesky</a>
-        <a href="https://www.last.fm/user/DarkNemesis618" title="View my Last.fm profile">Last.fm</a>
-        <a href="/rss" title="Get my RSS feed">RSS</a>
+    <nav class="secondary-pages">
+        <ul>
+            <li><a href="/archives">Archives</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/work" title="View a page showcasing projects I've worked on">Work</a></li>
+            <li><a href="/uses" title="View a page showing the gear and apps I use">Uses</a></li>
+            <li><a href="/search" title="Go to a page allowing you to search my blog">Search</a></li>
+            <li><a href="/now" title="Now">Now</a></li>
+            <li><a href="/likes" title="View a page listing various articles I've liked and want to share from my RSS feeds">Likes</a></li>
+            <li><a href="/stats" title="View a page showing stats for my page">Stats</a></li>
+            <li><a href="/blogroll" title="View a page of recommendations of other people to follow">Blog Roll</a></li>
+            <li><a href="/progress/2024" title="View a page showing my current progress reaching my 2024 aspirations" class="no-break">2024 Aspirations</a></li>
+        </ul>
+    </nav>
+    <nav class="media">
+        <ul>
+            <li><a href="/bookshelf" title="View a page listing the books I've read">Bookshelf</a></li>
+            <li><a href="/movies" title="View a page listing the movies I've watched">Movies</a></li>
+            <li><a href="/music" title="View a page listing the music albums I own">Music</a></li>
+            <li><a href="/listening" title="View a page listing the podcasts I'm subscribed to">Podcasts</a></li>
+            <li><a href="/tv/" title="View a page listing the TV shows I've watched">TV</a></li>
+            <li><a href="/video-games/" title="View a page listing the video games I've played">Video Games</a></li>
+        </ul>
+    </nav>
+    <nav class="contact">
+        <ul>
+            <li>
+                <a href="mailto:hello@kpwags.com" title="Email me">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 16 16" aria-label="Email icon">
+                        <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1zm13 2.383-4.708 2.825L15 11.105zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741M1 11.105l4.708-2.897L1 5.383z"/>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.github.com/kpwags" title="View my GitHub profile">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 16 16" aria-label="GitHub Logo">
+                        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8"/>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a rel="me" href="https://hachyderm.io/@kpwags" title="View my Mastodon profile">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 16 16" aria-label="Mastodon Logo">
+                        <path d="M11.19 12.195c2.016-.24 3.77-1.475 3.99-2.603.348-1.778.32-4.339.32-4.339 0-3.47-2.286-4.488-2.286-4.488C12.062.238 10.083.017 8.027 0h-.05C5.92.017 3.942.238 2.79.765c0 0-2.285 1.017-2.285 4.488l-.002.662c-.004.64-.007 1.35.011 2.091.083 3.394.626 6.74 3.78 7.57 1.454.383 2.703.463 3.709.408 1.823-.1 2.847-.647 2.847-.647l-.06-1.317s-1.303.41-2.767.36c-1.45-.05-2.98-.156-3.215-1.928a4 4 0 0 1-.033-.496s1.424.346 3.228.428c1.103.05 2.137-.064 3.188-.189zm1.613-2.47H11.13v-4.08c0-.859-.364-1.295-1.091-1.295-.804 0-1.207.517-1.207 1.541v2.233H7.168V5.89c0-1.024-.403-1.541-1.207-1.541-.727 0-1.091.436-1.091 1.296v4.079H3.197V5.522q0-1.288.66-2.046c.456-.505 1.052-.764 1.793-.764.856 0 1.504.328 1.933.983L8 4.39l.417-.695c.429-.655 1.077-.983 1.934-.983.74 0 1.336.259 1.791.764q.662.757.661 2.046z"/>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="https://bsky.app/profile/kpwags.com" title="View my Bluesky profile" aria-label="Bluesky Logo">
+                    <svg width="27" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 530">
+                        <path d="m135.72 44.03c66.496 49.921 138.02 151.14 164.28 205.46 26.262-54.316 97.782-155.54 164.28-205.46 47.98-36.021 125.72-63.892 125.72 24.795 0 17.712-10.155 148.79-16.111 170.07-20.703 73.984-96.144 92.854-163.25 81.433 117.3 19.964 147.14 86.092 82.697 152.22-122.39 125.59-175.91-31.511-189.63-71.766-2.514-7.3797-3.6904-10.832-3.7077-7.8964-0.0174-2.9357-1.1937 0.51669-3.7077 7.8964-13.714 40.255-67.233 197.36-189.63 71.766-64.444-66.128-34.605-132.26 82.697-152.22-67.108 11.421-142.55-7.4491-163.25-81.433-5.9562-21.282-16.111-152.36-16.111-170.07 0-88.687 77.742-60.816 125.72-24.795z" />
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="https://pixelfed.social/users/kpwags" title="View my pixelfed profile">
+                    <svg width="24" height="24" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" aria-label="Pixelfed Logo">
+                        <g transform="translate(-1.9773591,-1.8732876)">
+                            <path fill="none" d="M 0,0 H 24 V 24 H 0 Z" />
+                            <path d="m 12,1.877584 c 5.523,0 10,4.477 10,10 0,5.523 -4.477,10 -10,10 -5.523,0 -10,-4.477 -10,-10 0,-5.523 4.477,-10 10,-10 z m 1.031,6.099 h -2.624 c -0.988,0 -1.789,0.776 -1.789,1.733 v 6.748 l 2.595,-2.471 h 1.818 c 1.713,0 3.101,-1.345 3.101,-3.005 0,-1.66 -1.388,-3.005 -3.1,-3.005 z" />
+                        </g>
+                    </svg>
+                </a>
+            </li>
+        </ul>
     </nav>
     <nav class="site-info">
         <span>Built with <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer nofollow">Eleventy</a> (v2.0.1)</span>
