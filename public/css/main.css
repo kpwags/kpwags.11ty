@@ -66,7 +66,8 @@ h6 {
 
 h1 span,
 h2 span,
-h3 span {
+h3 span,
+.no-break {
     white-space: nowrap;
 }
 
@@ -162,15 +163,15 @@ header .open-settings-btn {
     height: 20px;
 }
 
-.nav-btn svg,
-a svg {
+header .nav-btn svg,
+header a svg {
     height: 20px;
     width: 20px;
     stroke: var(--primary-color-1);
 }
 
-.nav-btn:hover svg,
-a:hover svg {
+header .nav-btn:hover svg,
+header a:hover svg {
     stroke: var(--primary-color-2);
 }
 
@@ -229,15 +230,40 @@ footer {
 }
 
 footer nav {
-    margin-bottom: 16px;
-    display: block;
-    padding: 0;
+    display: flex;
+    margin-bottom: 24px;
+    justify-content: center;
+    column-gap: 32px;
+    align-items: center;
 }
 
-footer nav a {
-    padding: 0 10px;
+footer nav ul {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+footer nav ul li {
+    list-style-type: '';
+    display: inline;
+    padding: 0 6px;
+}
+
+footer nav ul li a {
     text-decoration: none;
-    white-space: nowrap;
+}
+
+footer nav.contact ul li a:has(svg),
+footer nav.contact ul li a:has(svg):hover {
+    text-decoration: none;
+}
+
+footer nav.contact ul li a svg {
+    fill: var(--primary-color-1);
+}
+
+footer nav.contact ul li a:hover svg {
+    fill: var(--primary-color-2);
 }
 
 footer nav.site-info span {
@@ -259,16 +285,9 @@ footer div.site-info {
         margin: 32px 0;
     }
 
-    footer nav {
-        margin: 16px 0;
-    }
-
-    footer nav a {
-        padding: 10px;
-    }
-
-    footer nav.site-info span {
-        padding: 10px 20px;
+    footer nav.site-info {
+        flex-direction: column;
+        row-gap: 16px;
     }
 }
 
