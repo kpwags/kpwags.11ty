@@ -1,6 +1,6 @@
-const getDomainFromUrl = require('../filters/domain-filter.js');
+import getDomainFromUrl from '../filters/domain-filter.js';
 
-module.exports = (note) => `
+const noteListingShortcode = (note) => `
 <article class="note">
 	<h2><a href="${note.data.link}">${note.data.title}</a></h2>
 	<div class="metadata">
@@ -12,3 +12,5 @@ module.exports = (note) => `
 	<div><a href="${note.url}">Permalink</a></div>
 </article>
 `;
+
+export default noteListingShortcode;

@@ -1,4 +1,4 @@
-const starRating = require('./starRating-shortcode');
+import starRating from './starRating-shortcode.js';
 
 const getThoughts = (tvShow) => {
 	if (tvShow.thoughts === null) {
@@ -17,7 +17,7 @@ const getThoughts = (tvShow) => {
 	`;
 }
 
-module.exports = (tvShow) => {
+const tvListingShortcode = (tvShow) => {
 	const getRating = tvShow.rating !== null ? starRating(tvShow.rating, "sm") : '';
 
 	return `
@@ -37,3 +37,5 @@ module.exports = (tvShow) => {
 </div>
 	`;
 };
+
+export default tvListingShortcode;

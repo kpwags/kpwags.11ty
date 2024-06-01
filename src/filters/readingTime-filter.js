@@ -1,4 +1,4 @@
-module.exports = (postOrContent) => {
+const readingTimeFilter = (postOrContent) => {
 	const htmlContent =
 	  typeof postOrContent === 'string'
 		? postOrContent
@@ -16,3 +16,6 @@ module.exports = (postOrContent) => {
 
 	return min + ' Minute Read';
   };
+
+  export default readingTimeFilter;
+  

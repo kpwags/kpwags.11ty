@@ -1,6 +1,7 @@
-require("dotenv").config();
+import dotenv from 'dotenv';
+import { Client } from '@notionhq/client';
 
-const { Client } = require('@notionhq/client');
+dotenv.config();
 
 const defaultSorts = [
 	{ property: 'DateFinished', direction: 'descending' },
@@ -54,7 +55,7 @@ const mapResults = (result) => ({
 	progress: result.properties.Progress.formula?.number ?? 0,
 });
 
-module.exports = async (status = 'Completed', sorts = undefined) => {
+const bookFetcher = async (status = 'Completed', sorts = undefined) => {
 	const books = [];
 
 	let nextCursor;
@@ -70,4 +71,6 @@ module.exports = async (status = 'Completed', sorts = undefined) => {
 	} while (nextCursor);
 
 	return books;
-}
+};
+
+export default bookFetcher;

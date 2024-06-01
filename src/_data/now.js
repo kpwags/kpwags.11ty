@@ -1,8 +1,8 @@
-const bookFetcher = require('../lib/bookFetcher.js');
-const tvFetcher = require('../lib/tvFetcher.js');
-const videoGameFetcher = require('../lib/videoGameFetcher.js');
+import bookFetcher from '../lib/bookFetcher.js';
+import tvFetcher from '../lib/tvFetcher.js';
+import videoGameFetcher from '../lib/videoGameFetcher.js';
 
-module.exports = () => {
+const now = () => {
 	return new Promise(async (resolve, reject) => {
 		try {
 			const gameData = await videoGameFetcher();
@@ -21,3 +21,5 @@ module.exports = () => {
 		}
 	});
 };
+
+export default now;

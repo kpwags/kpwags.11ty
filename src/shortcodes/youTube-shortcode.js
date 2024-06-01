@@ -1,4 +1,4 @@
-module.exports = (id, title) => `
+const youTubeShortcode = (id, title) => `
 <fit-vids>
     <iframe
         width="560"
@@ -9,3 +9,5 @@ module.exports = (id, title) => `
         allowfullscreen></iframe>
 </fit-vids>
 `;
+
+export default youTubeShortcode;

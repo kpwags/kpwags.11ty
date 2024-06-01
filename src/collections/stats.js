@@ -1,8 +1,8 @@
-const { getUniqueValues } = require('../lib/Utilities.js');
-const { getBlogPosts } = require("../lib/CollectionHelpers");
-const tagUrl = require('../filters/tagurl-filter.js');
-const dayjs = require('dayjs');
-const utc = require('dayjs/plugin/utc');
+import dayjs from 'dayjs';
+import utc from 'dayjs/plugin/utc.js';
+import { getUniqueValues } from '../lib/Utilities.js';
+import { getBlogPosts } from '../lib/CollectionHelpers.js';
+import tagUrl from '../filters/tagurl-filter.js';
 
 dayjs.extend(utc);
 
@@ -113,7 +113,7 @@ const getPopularTagsData = (posts, limit = 10) => {
 	return limitedResults;
 };
 
-module.exports = (collection) => {
+const stats = (collection) => {
 	const posts = getBlogPosts(collection, true);
 
 	const stats = {
@@ -123,3 +123,5 @@ module.exports = (collection) => {
 
 	return stats;
 };
+
+export default stats;

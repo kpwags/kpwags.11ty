@@ -1,11 +1,11 @@
-const dayjs = require("dayjs");
+import dayjs from 'dayjs';
 
-exports.getYear = (val) => val.split('-')[1];
+export const getYear = (val) => val.split('-')[1];
 
-exports.getMonth = (val) => val.split('-')[0];
+export const getMonth = (val) => val.split('-')[0];
 
-exports.getDateString = (val) => {
-	const date = dayjs(`${this.getYear(val)}-${this.getMonth(val)}-1`);
+export const getDateString = (val) => {
+	const date = dayjs(`${getYear(val)}-${getMonth(val)}-1`);
 
 	return date.format('MMMM YYYY');
-}
+};

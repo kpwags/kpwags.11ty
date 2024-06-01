@@ -1,4 +1,4 @@
-const starRating = require('./starRating-shortcode');
+import starRating from './starRating-shortcode.js';
 
 const getThoughts = (game) => {
 	if (game.thoughts === null) {
@@ -29,7 +29,7 @@ const getPlayedIcon = (game) => {
 	}
 };
 
-module.exports = (game) => {
+const videoGameListingShortcode = (game) => {
 	const getRating = game.rating !== null ? starRating(game.rating, 'sm') : '';
 	const platform = game.platform !== null ? `<div class="meta">${game.platform}</div>` : '';
 
@@ -55,3 +55,5 @@ module.exports = (game) => {
 </div>
 	`;
 };
+
+export default videoGameListingShortcode;

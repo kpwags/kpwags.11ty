@@ -1,6 +1,6 @@
-const podcastFetcher = require('../lib/podcastFetcher.js');
+import podcastFetcher from '../lib/podcastFetcher.js';
 
-module.exports = () => {
+const podcasts = () => {
 	return new Promise(async (resolve, reject) => {
 		try {
 			const podcastData = await podcastFetcher();
@@ -28,3 +28,5 @@ module.exports = () => {
 		}
 	});
 };
+
+export default podcasts;

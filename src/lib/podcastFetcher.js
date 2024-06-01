@@ -1,7 +1,9 @@
-require("dotenv").config();
+import dotenv from 'dotenv';
+import { Client } from '@notionhq/client';
+import { getSortedName } from './Utilities.js';
 
-const { Client } = require('@notionhq/client');
-const { getSortedName } = require('./Utilities');
+dotenv.config();
+
 
 const fetchFromNotion = async (cursor = undefined) => {
 	const notion = new Client({
@@ -34,7 +36,7 @@ const mapResult = (result) => ({
 	sortedName: getSortedName(result.properties.Name.title[0].plain_text),
 });
 
-module.exports = async () => {
+const podcastFetcher = async () => {
 	const tv = [];
 
 	let nextCursor;
@@ -50,4 +52,6 @@ module.exports = async () => {
 	} while (nextCursor);
 
 	return tv.sort((a, b) => a.sortedName.localeCompare(b.sortedName));
-}
+};
+
+export default podcastFetcher;

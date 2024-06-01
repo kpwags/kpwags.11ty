@@ -1,7 +1,8 @@
-require("dotenv").config();
+import dotenv from 'dotenv';
+import { Client } from '@notionhq/client';
+import dayjs from 'dayjs';
 
-const { Client } = require('@notionhq/client');
-const dayjs = require('dayjs');
+dotenv.config();
 
 const fetchFromNotion = async (cursor = undefined) => {
 	const notion = new Client({
@@ -38,7 +39,7 @@ const mapResults = (result) => ({
 	type: result.properties.Type.select.name
 });
 
-module.exports = async () => {
+const linkFetcher = async () => {
 	const links = [];
 
 	let nextCursor;
@@ -54,4 +55,6 @@ module.exports = async () => {
 	} while (nextCursor);
 
 	return links;
-}
+};
+
+export default linkFetcher;

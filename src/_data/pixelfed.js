@@ -1,6 +1,6 @@
-const { XMLParser } = require('fast-xml-parser');
+import { XMLParser } from 'fast-xml-parser';
 
-module.exports = () => {
+const pixelfed = () => {
 	return new Promise(async (resolve, reject) => {
 		try {
 			const images = [];
@@ -34,3 +34,5 @@ module.exports = () => {
 		}
 	});
 };
+
+export default pixelfed;

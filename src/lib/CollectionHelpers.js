@@ -1,4 +1,4 @@
-exports.getBlogPosts = (collection, includeRssOnly = false) => {
+export const getBlogPosts = (collection, includeRssOnly = false) => {
 	const posts = [];
 
 	const allItems = collection.getAll();
@@ -27,7 +27,7 @@ exports.getBlogPosts = (collection, includeRssOnly = false) => {
 	});
 };
 
-exports.getReadingLogs = (collection) => {
+export const getReadingLogs = (collection) => {
 	const readingLogs = [];
 
 	const allItems = collection.getAll();
@@ -52,7 +52,7 @@ exports.getReadingLogs = (collection) => {
 	});
 };
 
-exports.getBookNotes = (collection) => {
+export const getBookNotes = (collection) => {
 	const bookNotes = [];
 
 	const allItems = collection.getAll();
@@ -78,7 +78,7 @@ exports.getBookNotes = (collection) => {
 };
 
 
-exports.getNotes = (collection) => {
+export const getNotes = (collection) => {
 	const notes = [];
 
 	const allItems = collection.getAll();
@@ -103,11 +103,11 @@ exports.getNotes = (collection) => {
 	});
 };
 
-exports.getBlogPostsAndReadingLogs = (collection, includeRssOnly = false) => {
-	const posts = this.getBlogPosts(collection, includeRssOnly);
-	const readingLogs = this.getReadingLogs(collection);
+export const getBlogPostsAndReadingLogs = (collection, includeRssOnly = false) => {
+	const posts = getBlogPosts(collection, includeRssOnly);
+	const readingLogs = getReadingLogs(collection);
 
-	return allPosts = [
+	return [
 		...posts,
 		...readingLogs,
 	].sort((a, b) => {
@@ -118,13 +118,13 @@ exports.getBlogPostsAndReadingLogs = (collection, includeRssOnly = false) => {
 	});
 };
 
-exports.getEverything = (collection, includeRssOnly = false) => {
-	const posts = this.getBlogPosts(collection, includeRssOnly);
-	const readingLogs = this.getReadingLogs(collection);
-	const bookNotes = this.getBookNotes(collection);
-	const notes = this.getNotes(collection);
+export const getEverything = (collection, includeRssOnly = false) => {
+	const posts = getBlogPosts(collection, includeRssOnly);
+	const readingLogs = getReadingLogs(collection);
+	const bookNotes = getBookNotes(collection);
+	const notes = getNotes(collection);
 
-	return allPosts = [
+	return [
 		...posts,
 		...readingLogs,
 		...bookNotes,

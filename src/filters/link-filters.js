@@ -1,3 +1,3 @@
-exports.linkContent = (link) =>  `Discovered on ${link.date}. Content by ${link.author}`;
+export const linkContent = (link) =>  `Discovered on ${link.date}. Content by ${link.author}`;
 
-exports.linkMostRecentDate = (links) => links[0].jsDate;
+export const linkMostRecentDate = (links) => links[0].jsDate;

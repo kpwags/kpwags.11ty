@@ -1,42 +1,42 @@
-const pluginRss = require('@11ty/eleventy-plugin-rss');
-const pluginSyntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
-const pluginImages = require('./eleventy.config.images.js');
-const pluginWebc = require('@11ty/eleventy-plugin-webc');
-const { EleventyRenderPlugin } = require("@11ty/eleventy");
+import pluginRss from '@11ty/eleventy-plugin-rss';
+import pluginSyntaxHighlight from '@11ty/eleventy-plugin-syntaxhighlight';
+import pluginImages from './eleventy.config.images.js';
+import pluginWebc from '@11ty/eleventy-plugin-webc';
+import { EleventyRenderPlugin } from "@11ty/eleventy";
 
-const publicPosts = require('./src/collections/publicPosts.js');
-const allPublicPosts = require('./src/collections/allPublicPosts.js');
-const { postsByMonthAndYear, postsByYear } = require('./src/collections/postsByDate.js');
-const stats = require('./src/collections/stats.js');
-const everything = require('./src/collections/everything.js');
+import publicPosts from './src/collections/publicPosts.js';
+import allPublicPosts from './src/collections/allPublicPosts.js';
+import { postsByMonthAndYear, postsByYear } from './src/collections/postsByDate.js';
+import stats from './src/collections/stats.js';
+import everything from './src/collections/everything.js';
 
-const dateFilter = require('./src/filters/date-filter.js');
-const tagUrlFilter = require('./src/filters/tagurl-filter.js');
-const toHtmlFilter = require('./src/filters/tohtml-filter.js');
-const readingTimeFilter = require('./src/filters/readingTime-filter.js');
-const archivesMonthYear = require('./src/filters/archivesMonthYear-filter.js');
-const lengthFilter = require('./src/filters/length-filter.js');
-const rssPrefixes = require('./src/filters/rssPrefixes-filter.js');
-const domainFilter = require('./src/filters/domain-filter.js');
-const postTitle = require('./src/filters/postTitle-filter.js');
-const linkFilters = require('./src/filters/link-filters.js');
+import dateFilter from './src/filters/date-filter.js';
+import tagUrlFilter from './src/filters/tagurl-filter.js';
+import toHtmlFilter from './src/filters/tohtml-filter.js';
+import readingTimeFilter from './src/filters/readingTime-filter.js';
+import { getDateString, getMonth, getYear } from './src/filters/archivesMonthYear-filter.js';
+import lengthFilter from './src/filters/length-filter.js';
+import { bookNoteTitlePrefix, rssOnlyPrefix } from './src/filters/rssPrefixes-filter.js';
+import domainFilter from './src/filters/domain-filter.js';
+import postTitle from './src/filters/postTitle-filter.js';
+import { linkContent, linkMostRecentDate } from './src/filters/link-filters.js';
 
-const inDepthShortcode = require('./src/shortcodes/inDepth-shortcode.js');
-const youTubeShortcode = require('./src/shortcodes/youTube-shortcode.js');
-const starRatingShortcode = require('./src/shortcodes/starRating-shortcode.js');
-const tagListShortcode = require('./src/shortcodes/tagList-shortcode.js');
-const movieListingShortcode = require('./src/shortcodes/movieListing-shortcode.js');
-const tvListingShortcode = require('./src/shortcodes/tvListing-shortcode.js');
-const musicListingShortcode = require('./src/shortcodes/musicListing-shortcode.js');
-const videoGameListingShortcode = require('./src/shortcodes/videoGameListing-shortcode.js');
-const bookListingShortcode = require('./src/shortcodes/bookListing-shortcode.js');
-const podcastListingShortcode = require('./src/shortcodes/podcastListing-shortcode.js');
-const progressBarShortcode = require('./src/shortcodes/progressBar-shortcode.js');
-const blogPostShortcode = require('./src/shortcodes/blogPost-shortcode.js');
-const bookNoteShortcode = require('./src/shortcodes/bookNote-shortcode.js');
-const noteListingShortcode = require('./src/shortcodes/noteListing-shortcode.js');
+import inDepthShortcode from './src/shortcodes/inDepth-shortcode.js';
+import youTubeShortcode from './src/shortcodes/youTube-shortcode.js';
+import starRatingShortcode from './src/shortcodes/starRating-shortcode.js';
+import tagListShortcode from './src/shortcodes/tagList-shortcode.js';
+import movieListingShortcode from './src/shortcodes/movieListing-shortcode.js';
+import tvListingShortcode from './src/shortcodes/tvListing-shortcode.js';
+import musicListingShortcode from './src/shortcodes/musicListing-shortcode.js';
+import videoGameListingShortcode from './src/shortcodes/videoGameListing-shortcode.js';
+import bookListingShortcode from './src/shortcodes/bookListing-shortcode.js';
+import podcastListingShortcode from './src/shortcodes/podcastListing-shortcode.js';
+import progressBarShortcode from './src/shortcodes/progressBar-shortcode.js';
+import blogPostShortcode from './src/shortcodes/blogPost-shortcode.js';
+import bookNoteShortcode from './src/shortcodes/bookNote-shortcode.js';
+import noteListingShortcode from './src/shortcodes/noteListing-shortcode.js';
 
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy({
         './public/': '/',
         './node_modules/prismjs/themes/prism-okaidia.css': '/css/prism-okaidia.css',
@@ -70,15 +70,15 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter('toHTML', toHtmlFilter);
     eleventyConfig.addFilter('readingTime', readingTimeFilter);
     eleventyConfig.addFilter('length', lengthFilter);
-    eleventyConfig.addFilter('archivesGetMonth', archivesMonthYear.getMonth);
-    eleventyConfig.addFilter('archivesGetYear', archivesMonthYear.getYear);
-    eleventyConfig.addFilter('archivesGetDateString', archivesMonthYear.getDateString);
-    eleventyConfig.addFilter('bookNoteTitlePrefix', rssPrefixes.bookNoteTitlePrefix);
-    eleventyConfig.addFilter('rssOnlyPrefix', rssPrefixes.rssOnlyPrefix);
+    eleventyConfig.addFilter('archivesGetMonth', getMonth);
+    eleventyConfig.addFilter('archivesGetYear', getYear);
+    eleventyConfig.addFilter('archivesGetDateString', getDateString);
+    eleventyConfig.addFilter('bookNoteTitlePrefix', bookNoteTitlePrefix);
+    eleventyConfig.addFilter('rssOnlyPrefix', rssOnlyPrefix);
     eleventyConfig.addFilter('domainFromUrl', domainFilter);
     eleventyConfig.addFilter('postTitle', postTitle);
-    eleventyConfig.addFilter('linkContent', linkFilters.linkContent);
-    eleventyConfig.addFilter('linkMostRecentDate', linkFilters.linkMostRecentDate);
+    eleventyConfig.addFilter('linkContent', linkContent);
+    eleventyConfig.addFilter('linkMostRecentDate', linkMostRecentDate);
 
     eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
     eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);
@@ -110,4 +110,4 @@ module.exports = function (eleventyConfig) {
             output: '_site'
         }
     };
-};
+}

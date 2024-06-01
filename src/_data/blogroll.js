@@ -1,4 +1,4 @@
-module.exports = () => {
+const blogRoll = () => {
 	return new Promise(async (resolve, reject) => {
 		try {
 			const blogRoll = [
@@ -46,3 +46,5 @@ module.exports = () => {
 		}
 	});
 };
+
+export default blogRoll;

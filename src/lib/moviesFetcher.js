@@ -1,7 +1,8 @@
-require("dotenv").config();
+import dotenv from 'dotenv';
+import { Client } from '@notionhq/client';
+import dayjs from 'dayjs';
 
-const { Client } = require('@notionhq/client');
-const dayjs = require('dayjs');
+dotenv.config();
 
 const fetchFromNotion = async (cursor = undefined) => {
 	const notion = new Client({
@@ -45,7 +46,7 @@ const mapResults = (result) => ({
 	yearWatched: result.properties.DateWatched.date ? dayjs(result.properties.DateWatched.date.start).year() : null,
 });
 
-module.exports = async () => {
+const moviesFetcher = async () => {
 	const movies = [];
 
 	let nextCursor;
@@ -61,4 +62,6 @@ module.exports = async () => {
 	} while (nextCursor);
 
 	return movies;
-}
+};
+
+export default moviesFetcher;

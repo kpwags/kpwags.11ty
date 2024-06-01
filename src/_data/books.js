@@ -1,7 +1,7 @@
-const bookFetcher = require('../lib/bookFetcher.js');
-const { getUniqueValues } = require('../lib/Utilities.js');
+import bookFetcher from '../lib/bookFetcher.js';
+import { getUniqueValues } from '../lib/Utilities.js';
 
-module.exports = () => {
+const books = () => {
 	return new Promise(async (resolve, reject) => {
 		try {
 			const bookData = await bookFetcher();
@@ -21,3 +21,5 @@ module.exports = () => {
 		}
 	});
 };
+
+export default books;

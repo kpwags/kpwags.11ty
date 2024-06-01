@@ -1,6 +1,6 @@
-const musicFetcher = require('../lib/musicFetcher.js');
+import musicFetcher from '../lib/musicFetcher.js';
 
-module.exports = () => {
+const music = () => {
 	return new Promise(async (resolve, reject) => {
 		try {
 			const music = await musicFetcher();
@@ -11,3 +11,5 @@ module.exports = () => {
 		}
 	});
 };
+
+export default music;

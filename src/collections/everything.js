@@ -1,3 +1,5 @@
-const { getEverything } = require('../lib/CollectionHelpers');
+import { getEverything } from '../lib/CollectionHelpers.js';
 
-module.exports = (collection) => getEverything(collection, true);
+const everything = (collection) => getEverything(collection, true);
+
+export default everything;

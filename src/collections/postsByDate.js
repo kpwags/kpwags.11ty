@@ -1,10 +1,10 @@
-const dayjs = require("dayjs");
-const CollectionHelpers = require('../lib/CollectionHelpers');
+import dayjs from 'dayjs';
+import { getBlogPostsAndReadingLogs } from '../lib/CollectionHelpers.js';
 
 function getByDate(collection, dateFormat) {
 	const postsByDate = {};
 
-	const allPosts = CollectionHelpers.getBlogPostsAndReadingLogs(collection, false);
+	const allPosts = getBlogPostsAndReadingLogs(collection, false);
 
 	allPosts.forEach(function (post) {
 		// Get the year from the date
@@ -33,10 +33,10 @@ function getByDate(collection, dateFormat) {
 	return postsByDate;
 }
 
-exports.postsByMonthAndYear = (collection) => {
+export const postsByMonthAndYear = (collection) => {
 	return getByDate(collection, "MM-YYYY");
 };
 
-exports.postsByYear = (collection) => {
+export const postsByYear = (collection) => {
 	return getByDate(collection, "YYYY");
-}
+};

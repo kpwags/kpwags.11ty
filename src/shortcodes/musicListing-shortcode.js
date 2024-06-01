@@ -1,4 +1,4 @@
-module.exports = (album) => `
+const musicListingShortcode = (album) => `
 <div class="music-album" data-topten="${album.isTopTen}" data-formats="${album.formats.join(",").toLowerCase()}">
 	<div>
 		<img src="${album.coverUrl}" alt="${album.title} by ${album.artist}" class="music-album-cover" />
@@ -9,3 +9,5 @@ module.exports = (album) => `
 	</div>
 </div>
 `;
+
+export default musicListingShortcode;

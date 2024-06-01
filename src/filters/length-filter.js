@@ -1,1 +1,3 @@
-module.exports = (arr) => arr.length;
+const lengthFilter = (arr) => arr.length;
+
+export default lengthFilter;
