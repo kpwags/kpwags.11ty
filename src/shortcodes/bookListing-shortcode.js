@@ -1,4 +1,4 @@
-const starRating = require('./starRating-shortcode');
+import starRating from './starRating-shortcode.js';
 
 const getThoughts = (book) => {
 	if (book.thoughts === null) {
@@ -38,7 +38,7 @@ const getBookNotesLink = (book) => {
 	return `<div class="book-notes-link"><a href="/books/${book.reviewUrlSlug}">View Book Notes</a></div>`
 };
 
-module.exports = (book) => `
+const bookListingShortcode = (book) => `
 <div class="item">
 	<div class="book-cover">
 		<img src="${book.coverUrl}" alt="The cover for ${book.title}" class="cover" height="225" width="150" />
@@ -61,3 +61,5 @@ module.exports = (book) => `
 	</div>
 </div>
 `;
+
+export default bookListingShortcode;

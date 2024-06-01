@@ -1,7 +1,9 @@
-require("dotenv").config();
+import dotenv from 'dotenv';
+import { Client } from '@notionhq/client';
+import dayjs from 'dayjs';
+import { getSortedName } from './Utilities.js';
 
-const { Client } = require('@notionhq/client');
-const { getSortedName } = require('./Utilities');
+dotenv.config();
 
 const fetchFromNotion = async (cursor = undefined) => {
 	const notion = new Client({
@@ -37,7 +39,7 @@ const mapResult = (result) => ({
 	isTopTen: result.properties.Top10.checkbox,
 });
 
-module.exports = async () => {
+const musicFetcher = async () => {
 	const music = [];
 
 	let nextCursor;
@@ -67,3 +69,5 @@ module.exports = async () => {
 			}
 		});
 };
+
+export default musicFetcher;

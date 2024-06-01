@@ -1,4 +1,4 @@
-module.exports = (tag) => {
+const tagUrlFilter = (tag) => {
 	if (typeof tag === 'undefined') {
 		return '';
 	}
@@ -16,3 +16,5 @@ module.exports = (tag) => {
 			return tag.toLowerCase().replace(/\s/g, '-').replaceAll('.', '').replaceAll("'", '').replaceAll('?', '');
 	}
 };
+
+export default tagUrlFilter;

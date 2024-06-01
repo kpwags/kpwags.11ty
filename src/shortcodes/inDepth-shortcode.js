@@ -1,6 +1,6 @@
-const MarkdownIt = require('markdown-it');
+import MarkdownIt from 'markdown-it';
 
-module.exports = (children, author, title, link) => {
+const inDepthShortcode = (children, author, title, link) => {
 	const content = new MarkdownIt({ html: true, linkify: true, typographer: true }).renderInline(children);
 
 	return `
@@ -17,3 +17,5 @@ module.exports = (children, author, title, link) => {
 <hr />
 `;
 };
+
+export default inDepthShortcode;

@@ -1,4 +1,4 @@
-const starRating = require('./starRating-shortcode');
+import starRating from './starRating-shortcode.js';
 
 const getThoughts = (movie) => {
 	if (movie.thoughts === null) {
@@ -17,7 +17,7 @@ const getThoughts = (movie) => {
 	`;
 }
 
-module.exports = (movie) => {
+const movieShortcode = (movie) => {
 	const dateWatched = movie.dateWatched ? `<div class="meta small">${movie.dateWatched}</div>` : '';
 
 	return `
@@ -38,4 +38,6 @@ module.exports = (movie) => {
 	</div>
 </div>
 	`;
-}
+};
+
+export default movieShortcode;

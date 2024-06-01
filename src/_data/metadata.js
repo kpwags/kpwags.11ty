@@ -1,4 +1,4 @@
-module.exports = {
+export default {
     title: 'Keith Wagner',
     url: 'https://kpwags.com/',
     language: 'en',

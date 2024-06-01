@@ -1,4 +1,4 @@
-module.exports = (rating, size = "md") => {
+const starRatingShortcode = (rating, size = "md") => {
 	const stars = [];
 
 	for (let i = 0; i < rating; i++) {
@@ -20,4 +20,6 @@ module.exports = (rating, size = "md") => {
 	}
 
 	return `<div class="rating">${stars.join('')}</div>`
-}
+};
+
+export default starRatingShortcode;

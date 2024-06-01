@@ -1,6 +1,6 @@
-const starRating = require('./starRating-shortcode');
+import starRating from './starRating-shortcode.js';
 
-module.exports = (bookNote) => {
+const bookNoteShortcode = (bookNote) => {
 	const categories = [];
 
 	bookNote.data.categories.forEach((category) => {
@@ -34,3 +34,5 @@ module.exports = (bookNote) => {
 </article>
 	`;
 };
+
+export default bookNoteShortcode;

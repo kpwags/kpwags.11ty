@@ -1,7 +1,7 @@
-const { XMLParser } = require('fast-xml-parser');
-const getDomainFromUrl = require('../filters/domain-filter.js');
+import { XMLParser } from 'fast-xml-parser';
+import getDomainFromUrl from '../filters/domain-filter.js';
 
-module.exports = () => {
+const likes = () => {
 	return new Promise(async (resolve, reject) => {
 		try {
 			const likes = [];
@@ -31,3 +31,5 @@ module.exports = () => {
 		}
 	});
 };
+
+export default likes;

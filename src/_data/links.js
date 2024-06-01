@@ -1,6 +1,6 @@
-const linkFetcher = require('../lib/linkFetcher.js');
+import linkFetcher from '../lib/linkFetcher.js';
 
-module.exports = () => {
+const links = () => {
 	return new Promise(async (resolve, reject) => {
 		try {
 			const links = await linkFetcher();
@@ -11,3 +11,5 @@ module.exports = () => {
 		}
 	});
 };
+
+export default links;

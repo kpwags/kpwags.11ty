@@ -1,7 +1,7 @@
-const toHTML = require('../filters/tohtml-filter');
-const readingTime = require('../filters/readingTime-filter');
+import toHTML from '../filters/tohtml-filter.js';
+import readingTime from '../filters/readingTime-filter.js';
 
-module.exports = (post) => {
+const blogPostShortcode = (post) => {
 	const readingTimeDiv = !post.data.title.includes('Reading Log - ')
 		? `<div class="separator">&bull;</div> <div>${readingTime(post)}</div>`
 		: '';
@@ -16,4 +16,6 @@ module.exports = (post) => {
 	<div class="excerpt">${toHTML(post.data.page.excerpt)}</div>
 </article>
 `;
-}
+};
+
+export default blogPostShortcode;

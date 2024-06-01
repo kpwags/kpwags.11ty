@@ -1,4 +1,4 @@
-module.exports = (color, currentValue, fullValue, mode = 'percentage', format = null) => {
+const progressBarShortcode = (color, currentValue, fullValue, mode = 'percentage', format = null) => {
 	let currentPercentage = 0;
 
 	if (currentValue > fullValue) {
@@ -41,3 +41,5 @@ module.exports = (color, currentValue, fullValue, mode = 'percentage', format = 
 	${legendMode}
 </div>`;
 };
+
+export default progressBarShortcode;

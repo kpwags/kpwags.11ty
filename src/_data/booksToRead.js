@@ -1,6 +1,6 @@
-const bookFetcher = require('../lib/bookFetcher.js');
+import bookFetcher from '../lib/bookFetcher.js';
 
-module.exports = () => {
+const booksToRead = () => {
 	return new Promise(async (resolve, reject) => {
 		try {
 			const books = await bookFetcher('Not started', [{ property: 'Backlog ID', direction: 'ascending' }]);
@@ -11,3 +11,5 @@ module.exports = () => {
 		}
 	});
 };
+
+export default booksToRead;

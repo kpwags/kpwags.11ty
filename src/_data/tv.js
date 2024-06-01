@@ -1,6 +1,6 @@
-const tvFetcher = require('../lib/tvFetcher.js');
+import tvFetcher from '../lib/tvFetcher.js';
 
-module.exports = () => {
+const tv = () => {
 	return new Promise(async (resolve, reject) => {
 		try {
 			const tvData = await tvFetcher();
@@ -17,3 +17,5 @@ module.exports = () => {
 		}
 	});
 };
+
+export default tv;

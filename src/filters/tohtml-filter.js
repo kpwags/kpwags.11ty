@@ -1,9 +1,11 @@
-const MarkdownIt = require('markdown-it');
+import MarkdownIt from 'markdown-it';
 
-module.exports = (str) => {
+const toHtmlFilter = (str) => {
 	try {
 		return new MarkdownIt({ html: true, linkify: true }).renderInline(str);
 	} catch {
 		return '';
 	}
-}
+};
+
+export default toHtmlFilter;

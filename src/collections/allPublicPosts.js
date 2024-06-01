@@ -1,3 +1,5 @@
-const CollectionHelpers = require('../lib/CollectionHelpers');
+import { getBlogPostsAndReadingLogs } from '../lib/CollectionHelpers.js';
 
-module.exports = (collection) => CollectionHelpers.getBlogPostsAndReadingLogs(collection, false);
+const allPublicPosts = (collection) => getBlogPostsAndReadingLogs(collection, false);
+
+export default allPublicPosts;

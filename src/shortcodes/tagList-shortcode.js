@@ -1,6 +1,6 @@
-const tagUrlFilter = require('./../filters/tagurl-filter.js');
+import tagUrlFilter from './../filters/tagurl-filter.js';
 
-module.exports = (tags) => {
+const tagListShortcode = (tags) => {
 	const renderedTags = tags
 		.filter((t) => !['post', 'readinglog'].includes(t));
 
@@ -12,4 +12,6 @@ module.exports = (tags) => {
 			${links.join('<li class="tag-separator">&bull;</li>')}
 		</ul>
 	`;
-}
+};
+
+export default tagListShortcode;

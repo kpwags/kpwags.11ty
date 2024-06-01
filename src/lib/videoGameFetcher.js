@@ -1,8 +1,9 @@
-require("dotenv").config();
+import dotenv from 'dotenv';
+import { Client } from '@notionhq/client';
+import dayjs from 'dayjs';
+import { getSortedName } from './Utilities.js';
 
-const { Client } = require('@notionhq/client');
-const dayjs = require('dayjs');
-const { getSortedName } = require('./Utilities');
+dotenv.config();
 
 const fetchFromNotion = async (cursor = undefined) => {
 	const notion = new Client({
@@ -63,7 +64,7 @@ const mapResult = (result) => ({
 	link: result.properties.Link.url,
 });
 
-module.exports = async () => {
+const videoGameFetcher = async () => {
 	const videoGames = [];
 
 	let nextCursor;
@@ -80,3 +81,5 @@ module.exports = async () => {
 
 	return videoGames;
 };
+
+export default videoGameFetcher;

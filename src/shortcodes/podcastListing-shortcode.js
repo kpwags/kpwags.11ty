@@ -1,4 +1,4 @@
-module.exports = (podcast) => `
+const podcastListingShortcode = (podcast) => `
 <div class="podcast">
 	<div>
 		<img src="${podcast.cover}" alt="${podcast.title}" class="podcast-cover" />
@@ -10,3 +10,5 @@ module.exports = (podcast) => `
 	</div>
 </div>
 `;
+
+export default podcastListingShortcode;

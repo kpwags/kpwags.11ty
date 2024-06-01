@@ -1,6 +1,6 @@
-const videoGameFetcher = require('../lib/videoGameFetcher.js');
+import videoGameFetcher from '../lib/videoGameFetcher.js';
 
-module.exports = () => {
+const videoGames = () => {
 	return new Promise(async (resolve, reject) => {
 		try {
 			const gameData = await videoGameFetcher();
@@ -16,3 +16,5 @@ module.exports = () => {
 		}
 	});
 };
+
+export default videoGames;

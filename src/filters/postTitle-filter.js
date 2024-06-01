@@ -1,4 +1,4 @@
-module.exports = (title) => {
+const postTitleFilter = (title) => {
 	if (title.startsWith('What I Learned:')) {
 		return `<h1><span class="prefix">What I Learned:</span>${title.replace('What I Learned: ', '')}</h1>`
 	}
@@ -9,3 +9,5 @@ module.exports = (title) => {
 
 	return `<h1>${title}</h1>`;
 };
+
+export default postTitleFilter;

@@ -1,7 +1,7 @@
-const moviesFetcher = require('../lib/moviesFetcher.js');
-const { getUniqueValues } = require('../lib/Utilities.js');
+import moviesFetcher from '../lib/moviesFetcher.js';
+import { getUniqueValues } from '../lib/Utilities.js';
 
-module.exports = () => {
+const movies = () => {
 	return new Promise(async (resolve, reject) => {
 		try {
 			const movieData = await moviesFetcher();
@@ -21,3 +21,5 @@ module.exports = () => {
 		}
 	});
 };
+
+export default movies;
