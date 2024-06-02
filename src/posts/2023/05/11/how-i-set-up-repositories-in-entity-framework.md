@@ -9,8 +9,10 @@ tags:
 rss_only: true
 ---
 
-Ever since I built _Where Do You Want to Eat 2_ I’ve been building repository classes to interact with Entity Framework and the database in a very similar manner. Since much of my interactions are relatively simple CRUD (Create, Read, Update, & Delete) operations, having a standard method to interact makes a lot of sense.
+*This post is for the [Secret RSS Club Readers](https://kpwags.com/posts/2022/08/15/welcome-to-the-rss-club).*
 <!-- excerpt -->
+
+Ever since I built _Where Do You Want to Eat 2_ I’ve been building repository classes to interact with Entity Framework and the database in a very similar manner. Since much of my interactions are relatively simple CRUD (Create, Read, Update, & Delete) operations, having a standard method to interact makes a lot of sense.
 
 For just about every database object, I need to be able to perform one of five operations.
 

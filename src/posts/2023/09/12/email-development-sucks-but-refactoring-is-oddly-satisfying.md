@@ -9,8 +9,10 @@ tags:
 rss_only: true
 ---
 
-Over the last week at work, I've been spending most of my time working on overhauling the email backend code as well as the HTML markup of the emails themselves. [Email development kinda sucks](https://dodov.dev/blog/why-does-email-development-have-to-suck) and it hasn't been the most fun of tasks. With that said, I'm actually kind of enjoying the refactoring part.
+*This post is for the [Secret RSS Club Readers](https://kpwags.com/posts/2022/08/15/welcome-to-the-rss-club).*
 <!-- excerpt -->
+
+Over the last week at work, I've been spending most of my time working on overhauling the email backend code as well as the HTML markup of the emails themselves. [Email development kinda sucks](https://dodov.dev/blog/why-does-email-development-have-to-suck) and it hasn't been the most fun of tasks. With that said, I'm actually kind of enjoying the refactoring part.
 
 ## HTML Markup
 

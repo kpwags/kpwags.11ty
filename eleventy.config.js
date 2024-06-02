@@ -16,7 +16,7 @@ import toHtmlFilter from './src/filters/tohtml-filter.js';
 import readingTimeFilter from './src/filters/readingTime-filter.js';
 import { getDateString, getMonth, getYear } from './src/filters/archivesMonthYear-filter.js';
 import lengthFilter from './src/filters/length-filter.js';
-import { bookNoteTitlePrefix, rssOnlyPrefix } from './src/filters/rssPrefixes-filter.js';
+import { bookNoteTitlePrefix } from './src/filters/rssPrefixes-filter.js';
 import domainFilter from './src/filters/domain-filter.js';
 import postTitle from './src/filters/postTitle-filter.js';
 import { linkContent, linkMostRecentDate } from './src/filters/link-filters.js';
@@ -74,7 +74,6 @@ export default function (eleventyConfig) {
     eleventyConfig.addFilter('archivesGetYear', getYear);
     eleventyConfig.addFilter('archivesGetDateString', getDateString);
     eleventyConfig.addFilter('bookNoteTitlePrefix', bookNoteTitlePrefix);
-    eleventyConfig.addFilter('rssOnlyPrefix', rssOnlyPrefix);
     eleventyConfig.addFilter('domainFromUrl', domainFilter);
     eleventyConfig.addFilter('postTitle', postTitle);
     eleventyConfig.addFilter('linkContent', linkContent);
