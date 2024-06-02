@@ -6,8 +6,10 @@ tags:
   - RSS
 ---
 
-If you're reading this, you're part of the RSS club!
+*This post is for the [Secret RSS Club Readers](https://kpwags.com/posts/2022/08/15/welcome-to-the-rss-club).*
 <!-- excerpt -->
+
+If you're reading this, you're part of the RSS club!
 
 This means that you've subscribed to the RSS feed for my blog. Every once in a while I'll write a post that is only available via my RSS feed. Consider it your semi-exclusive content.
 

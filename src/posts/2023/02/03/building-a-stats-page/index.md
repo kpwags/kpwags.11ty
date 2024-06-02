@@ -9,8 +9,10 @@ post_tags:
   - Blogging
 ---
 
-With the rebirth of personal sites as a content platform, I’ve seen a lot of people making a page dedicated to different statistics about their sites. I figured it was time for me to get in on the action.
+*This post is for the [Secret RSS Club Readers](https://kpwags.com/posts/2022/08/15/welcome-to-the-rss-club).*
 <!-- excerpt -->
+
+With the rebirth of personal sites as a content platform, I’ve seen a lot of people making a page dedicated to different statistics about their sites. I figured it was time for me to get in on the action.
 
 When I first thought to do this, I wasn’t sure what stats to include. I don’t have analytics on my site as I question the privacy implications. The only initial thought I had was posts per year. That was something I could easily gather given that all my posts are in a single folder and all of them have their date in both their filename and their metadata.
 
