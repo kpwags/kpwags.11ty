@@ -15,6 +15,16 @@ const availableColors = [
 	'#aa00ff',
 ];
 
+const excludedTags = [
+	'readinglog',
+	'post',
+	'Reading Log',
+	'booknotes',
+	'shortnotes',
+	'Week Notes',
+	'Monthly Check-In',
+];
+
 const getYear = (date) => dayjs.utc(date).format('YYYY');
 
 const getPostsByYearData = (posts) => {
@@ -66,7 +76,7 @@ const getPopularTagsData = (posts, limit = 10) => {
 
 		tagArray = [
 			...tagArray,
-			...tags.filter((tag) => !['readinglog', 'post', 'Reading Log'].includes(tag)),
+			...tags.filter((tag) => !excludedTags.includes(tag)),
 		];
 	});
 
