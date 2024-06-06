@@ -13,7 +13,7 @@ title: "Stats"
 	<h2>Posts Per Year</h2>
 	{% for year in stats.postsByYear %}
 		<div class="stats-chart">
-			<p class="bar-title">{{ year.year }}<span class="mobile-stats">&nbsp;({{ year.count }})</span></p>
+			<p class="bar-title"><a href="/archives/{{ year.year }}">{{ year.year }}</a><span class="mobile-stats">&nbsp;({{ year.count }})</span></p>
 			<div class="bar">
 				<div class="inner-bar" style="background-color: {{ year.color }}; width: {{ year.percentage }}%"></div>
 			</div>
@@ -28,7 +28,7 @@ title: "Stats"
 	<h2>Most Popular Tags</h2>
 	{% for tag in stats.popularTags %}
 		<div class="stats-chart tags">
-			<p class="bar-title">{{ tag.name }}<span class="mobile-stats">&nbsp;({{ tag.count }})</span></p>
+			<p class="bar-title"><a href="/tag/{{ tag.url }}">{{ tag.name }}</a><span class="mobile-stats">&nbsp;({{ tag.count }})</span></p>
 			<div class="bar">
 				<div class="inner-bar" style="background-color: {{ tag.color }}; width: {{ tag.percentage }}%"></div>
 			</div>
