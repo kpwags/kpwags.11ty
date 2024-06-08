@@ -1,6 +1,7 @@
 ---
 title: 'Looking Back at 2017 and Forward into 2018'
 date: '2018-01-25'
+permalink: /posts/2018/01/25/looking-back-at-2017-and-forward-into-2018/index.html
 tags:
   - Goals
   - Life
@@ -14,7 +15,7 @@ A year later, let's see what happened in 2017 and what I'm looking at for 2018.
 
 2017 has been an interesting year to say the least. My productivity has definitely been hampered by what's been going on in Washington D.C. and Trump's presidency. I know I shouldn't let it affect me as much as it has, but at the same time, I can't say that it hasn't. So many of his actions have made my blood boil to the point that I become distracted, and in some cases, full of despair. Not that I can use this as an excuse for things I didn't accomplish, but like other people, I can't always throw current events to the back of my mind.
 
-I wish I could say I was successful at accomplishing my goals for 2017 that I laid out [previously](https://kpwags.com/life/2017/01/24/goals-for-2017.html). At the end of the day though, I didn't completely hit any of them. Despite this, 2017 was not a bad year.
+I wish I could say I was successful at accomplishing my goals for 2017 that I laid out [previously](https://kpwags.com/posts/2017/01/24/goals-for-2017/). At the end of the day though, I didn't completely hit any of them. Despite this, 2017 was not a bad year.
 
 ### 2017 Goals Post-Mortem
 

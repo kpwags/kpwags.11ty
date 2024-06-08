@@ -1,6 +1,7 @@
 ---
 title: 'My Thoughts on Microsoft Acquiring GitHub'
 date: '2018-06-12'
+permalink: /posts/2018/06/12/my-thoughts-on-microsoft-acquiring-github/index.html
 tags:
   - Development
   - Technology

@@ -1,6 +1,7 @@
 ---
 title: 'Another Redesign'
 date: '2018-05-15'
+permalink: /posts/2018/05/15/another-redesign/index.html
 tags:
   - Development
   - Design

@@ -1,6 +1,7 @@
 ---
 title: "Wow, I've Fallen Behind"
 date: '2017-08-01'
+permalink: /posts/2017/08/01/wow-ive-fallen-behind/index.html
 tags:
   - Development
   - React

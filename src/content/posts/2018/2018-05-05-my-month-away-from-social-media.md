@@ -1,6 +1,7 @@
 ---
 title: 'My Month Away from Social Media'
 date: '2018-05-05'
+permalink: /posts/2018/05/05/my-month-away-from-social-media/index.html
 tags:
   - Social Media
   - Politics

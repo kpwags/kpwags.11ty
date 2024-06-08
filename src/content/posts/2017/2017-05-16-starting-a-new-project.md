@@ -1,6 +1,7 @@
 ---
 title: 'Starting a New Project'
 date: '2017-05-16'
+permalink: /posts/2017/05/16/starting-a-new-project/index.html
 tags:
   - Development
 ---

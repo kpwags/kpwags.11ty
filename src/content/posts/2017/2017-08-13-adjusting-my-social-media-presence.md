@@ -1,6 +1,7 @@
 ---
 title: 'Adjusting My Social Media Presence'
 date: '2017-08-13'
+permalink: /posts/2017/08/13/adjusting-my-social-media-presence/index.html
 tags:
   - Social Media
   - Thoughts

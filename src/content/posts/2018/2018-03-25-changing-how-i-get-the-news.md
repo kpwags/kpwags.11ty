@@ -1,6 +1,7 @@
 ---
 title: 'Changing How I Get the News'
 date: '2018-03-25'
+permalink: /posts/2018/03/25/changing-how-i-get-the-news/index.html
 tags:
   - Social Media
   - Politics

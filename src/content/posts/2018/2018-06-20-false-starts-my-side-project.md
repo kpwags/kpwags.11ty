@@ -1,6 +1,7 @@
 ---
 title: 'False Starts & My Side Project'
 date: '2018-06-20'
+permalink: /posts/2018/06/20/false-starts-my-side-project/index.html
 tags:
   - Development
 ---
