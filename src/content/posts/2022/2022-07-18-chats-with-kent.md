@@ -1,7 +1,7 @@
 ---
 title: 'Chats with Kent'
 date: '2022-07-18'
-permalink: /posts/2022-07-18-chats-with-kent/index.html
+permalink: /posts/2022/07/18/chats-with-kent/index.html
 tags:
   - Podcasts
   - Development

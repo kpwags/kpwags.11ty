@@ -1,7 +1,7 @@
 ---
 title: 'September 2023 Check-In'
 date: '2023-10-04'
-peramlink: /posts/2023/10/04/september-2023-check-in/index.html
+permalink: /posts/2023/10/04/september-2023-check-in/index.html
 tags:
   - Monthly Check-In
   - Life
