@@ -202,7 +202,7 @@ header a:hover svg {
     }
 
     .hide-mobile {
-        display: none !important;
+        display: none;
     }
 }
 
