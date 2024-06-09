@@ -26,6 +26,15 @@
 		</div>
 		{{ content }}
 		<hr />
+		{% if relatedPosts %}
+		<section class="related-posts">
+			<h2>Related Posts</h2>
+			{% for relatedPost in relatedPosts %}
+			<a href="{{ relatedPost.url }}">{{ relatedPost.title }}</a>
+			{% endfor %}
+		</section>
+		<hr />
+		{% endif %}
 		{% tagList tags %}
 		<div class="reply-links">
 			<span>Reply via:</span>

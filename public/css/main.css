@@ -202,7 +202,7 @@ header a:hover svg {
     }
 
     .hide-mobile {
-        display: none;
+        display: none !important;
     }
 }
 
@@ -1172,4 +1172,15 @@ fit-vids {
             rgba(186, 12, 248, 1) 80%,
             rgba(251, 7, 217, 1) 90%,
             rgba(255, 0, 0, 1) 100%);
+}
+
+.related-posts h2 {
+    font-size: 1.3rem;
+    color: var(--text);
+    margin-bottom: 12px;
+}
+
+.related-posts a {
+    display: block;
+    margin: 8px 0;
 }
