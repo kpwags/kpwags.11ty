@@ -11,6 +11,7 @@ tags:
 ---
 
 Week notes for June 2 through June 8.
+<!-- excerpt -->
 
 ## Really Bumping Up My Running Distance
 
