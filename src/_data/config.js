@@ -1,4 +1,4 @@
 export default {
 	builtAt: new Date(),
-	eleventyVersion: 'v3.0.0-alpha.12',
+	eleventyVersion: 'v3.0.0-alpha.13',
 };
