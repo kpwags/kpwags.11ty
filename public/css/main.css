@@ -8,6 +8,12 @@ body {
     margin: 0;
 }
 
+/* CATCH WHEN I MISS A LABEL OR ALT TEXT */
+img:not([alt]),
+svg:not([aria-label]) {
+    border: 5px solid red;
+}
+
 main.full-width {
     width: 100%;
     padding: 0 25px;
