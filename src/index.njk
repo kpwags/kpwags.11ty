@@ -11,6 +11,22 @@ layout: 'layouts/layout.html'
 </section>
 
 <section class="latest-from-blog">
+	<h2>Pinned Posts</h2>
+
+	{% set pinnedPostsSorted = collections.pinnedPosts | reverse %}
+	{% set pinnedPosts = pinnedPostsSorted.slice(0, 5) %}
+
+	{% for post in pinnedPosts %}
+		<div class="homepage-blog-post-link">
+			<a href="{{ post.url }}">{{ post.data.title }}</a>
+			<div class="metadata">{{ post.data.dateString }}</div>
+		</div>
+	{% endfor %}
+</section>
+
+<hr />
+
+<section class="latest-from-blog">
 	<h2>Latest Posts</h2>
 
 	{% set recentPostsSorted = collections.postsAndReadingLogs | reverse %}

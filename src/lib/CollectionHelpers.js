@@ -136,3 +136,9 @@ export const getEverything = (collection, includeRssOnly = false) => {
 		return -1;
 	});
 };
+
+export const getPinnedBlogPosts = (collection) => {
+	const posts = getBlogPosts(collection, false);
+
+	return posts.filter((p) => p.data.pinned);
+};
