@@ -7,6 +7,7 @@ tags:
   - 11ty
   - Blogging
   - Personal Sites
+pinned: true
 ---
 
 At the end of 2023, I switched my site from being built with [Next.js](https://nextjs.org/) to [11ty](https://www.11ty.dev/). 6 months on, I’m still quite happy with my decision.

@@ -1190,3 +1190,20 @@ fit-vids {
     display: block;
     margin: 8px 0;
 }
+
+.wip-section {
+    margin: 24px 0;
+}
+
+.wip-section h2 {
+    margin-bottom: 24px;
+}
+
+.wip-section article {
+    margin: 16px 0;
+}
+
+.wip-section article h3 {
+    font-weight: 700;
+    font-size: 1.9rem;
+}

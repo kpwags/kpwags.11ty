@@ -9,6 +9,7 @@ import allPublicPosts from './src/collections/allPublicPosts.js';
 import { postsByMonthAndYear, postsByYear } from './src/collections/postsByDate.js';
 import stats from './src/collections/stats.js';
 import everything from './src/collections/everything.js';
+import pinnedPosts from './src/collections/pinnedPosts.js';
 
 import dateFilter from './src/filters/date-filter.js';
 import tagUrlFilter from './src/filters/tagurl-filter.js';
@@ -64,6 +65,7 @@ export default function (eleventyConfig) {
     eleventyConfig.addCollection('postsByYear', postsByYear);
     eleventyConfig.addCollection('stats', stats);
     eleventyConfig.addCollection('everything', everything);
+    eleventyConfig.addCollection('pinnedPosts', pinnedPosts);
 
     eleventyConfig.addFilter('readableDate', dateFilter);
     eleventyConfig.addFilter('tagUrlSlug', tagUrlFilter);
