@@ -37,6 +37,7 @@ const mapResult = (result) => ({
 	sortedName: getSortedName(result.properties.Artist.rich_text[0].plain_text),
 	sortedAlbumName: getSortedName(result.properties.Album.title[0].plain_text),
 	isTopTen: result.properties.Top10.checkbox,
+	showOnNow: result.properties.ShowOnNow.checkbox,
 });
 
 const musicFetcher = async () => {

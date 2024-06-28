@@ -15,17 +15,33 @@ title: "What I'm Up To"
 		{% endfor %}
 	</div>
 
-	<h2>Watching</h2>
+	<h2>TV</h2>
 	<div class="items padded-top">
-		{% for tv in now.watching %}
+		{% for tv in now.tv %}
 		{% tvListing tv %}
 		{% endfor %}
 	</div>
+
+	{% if now.movies.length > 0 %}
+	<h2>Movies</h2>
+	<div class="items padded-top">
+		{% for film in now.movies %}
+		{% movieListing film %}
+		{% endfor %}
+	</div>
+	{% endif %}
 
 	<h2>Playing</h2>
 	<div class="items padded-top">
 		{% for game in now.playing %}
 		{% videoGameListing game %}
+		{% endfor %}
+	</div>
+
+	<h2>Listening</h2>
+	<div class="items padded-top">
+		{% for music in now.music %}
+		{% musicListing music %}
 		{% endfor %}
 	</div>
 </div>
