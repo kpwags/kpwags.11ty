@@ -20,19 +20,17 @@ I'm angry at every single person who voted for Trump. They're partly responsible
 
 I'm angry at the complete difference in reaction to this attack compared to the Black Lives Matter protests earlier in the year. The National Guard shot fucking rubber bullets and tear gas at peaceful protestors for a fucking photo op. This time, mostly white protestors break into the US Capitol Building, threaten the lives of our representatives and others, and what do the police do? They open the gates and take selfies with the insurrectionists. The difference? One group is Black, the other is white. I have no idea how anyone can look at this and NOT see the systemic racism that is going on. If this were the Black Lives Matter protest, there undoubtedly, and sadly would've been far more blood shed. At the end of the day 5 people so far, including 1 Capitol Police Officer lost their lives because Donald Trump is a sore loser and decided the best way to go forward was to incite his followers. He filled DC with gasoline and gunpowder, and handed them matches and lighters.
 
-<div class="embedded-post">
-    <blockquote class="post">
-        <p>We’re not asking you to shoot them like you shoot us, we’re asking you to NOT shoot us like you don’t shoot them...</p>
-        <div class="credit">
-            <div class="author">(<a href="https://twitter.com/wichkid" target="_blank" rel="noreferer noopener">Davontae Harris</a>) <a href="https://twitter.com/wichkid/status/1346990204071108610?ref_src=twsrc%5Etfw" target="_blank" rel="noreferer noopener">January 6, 2021</a></div>
-            <div class="source-icon">
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" view-box="0 0 16 16">
-                    <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z" />
-                </svg>
-            </div>
-        </div>
-    </blockquote>
-</div>
+{% renderTemplate "webc" %}
+<social-embed
+    link="https://twitter.com/wichkid/status/1346990204071108610?ref_src=twsrc%5Etfw"
+    author="Davontae Harris"
+    date="January 6, 2021"
+    site="twitter"
+>
+    <p>We’re not asking you to shoot them like you shoot us, we’re asking you to NOT shoot us like you don’t shoot them...</p>
+</social-embed>
+{% endrenderTemplate %}
+
 
 I think the thing that saddens me the most is that I really thought our institutions would hold up better. That the institutions we've fought for and built up over the last almost 250 years would dull the worst of Trump. Instead they just caved. The Attorney General had no problem acting as Trump's "personal" lawyer despite his responsibility to be the country's lawyer. I thought the systems of checks and balances would help. Instead, they were just rolled over.
 
