@@ -13,6 +13,7 @@ tags:
 ---
 
 My week notes for the week of May 26 through June 1.
+<!-- excerpt -->
 
 ## Revamping My Diet
 
