@@ -3,7 +3,7 @@ title: 'Reading List 2/4 - 2/10'
 date: '2019-02-10'
 permalink: /posts/2019/02/10/reading-list/index.html
 tags:
-	- Reading Log
+  - Reading Log
 ---
 
 This week looks at controversies at Instacart and DoorDash, possible changes in MLB rules, French battlefields in WWI and WWII, &amp; Google/Facebook lock-in.

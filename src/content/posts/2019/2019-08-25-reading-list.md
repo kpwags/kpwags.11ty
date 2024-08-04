@@ -3,7 +3,7 @@ title: 'Reading List 8/19 - 8/25'
 date: '2019-08-25'
 permalink: /posts/2019/08/25/reading-list/index.html
 tags:
-	- Reading Log
+  - Reading Log
 ---
 
 This week I read about Javascript, jQuery, terraforming Mars, baseball cards and more.

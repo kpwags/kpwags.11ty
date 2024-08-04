@@ -3,7 +3,7 @@ title: 'Reading List 2/18 - 3/3'
 date: '2019-03-02'
 permalink: /posts/2019/03/03/reading-list/index.html
 tags:
-	- Reading Log
+  - Reading Log
 ---
 
 2 weeks combined this time as I was in NYC last weekend. This week I read about loot boxes, whistle blowing, YouTube conspiracies and more.
