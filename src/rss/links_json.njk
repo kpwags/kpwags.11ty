@@ -29,10 +29,10 @@
     {%- for item in links %}
     {
       "id": "{{ item.link }}",
-      "url": "{{ item.link }}",
+      "url": "{{ item.url }}",
       "title": "{{ item.title }}",
       "content_html": {{ item | linkContent | dump | safe }},
-      "date_published": "{{ item.jsDate | dateToRfc3339 }}"
+      "date_published": "{{ item.linkDate }}"
     }
     {% if not loop.last %},{% endif %}
     {%- endfor %}

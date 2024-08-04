@@ -3,24 +3,35 @@ layout: "layouts/wide-layout.html"
 title: "Bookshelf"
 ---
 
-<div class="media-container">
+<main class="media-container">
 	<h1>My Bookshelf</h1>
 
-	<p>I've been trying to read more and update my bookshelf to share what I think of books.</p>
-	<p>You can also check out my <a href="/bookshelf/to-read">backlog</a> to see the books I plan on reading.
-	</p>
+	<p class="large">I've been trying to read more and update my bookshelf to share what I think of books.<br />
+		You can also check out my <a href="/bookshelf/to-read">backlog</a> to see the books I plan on reading.</p>
 
 	<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
 
-	{% for readingYear in books %}
-	<div>
-		<h2>{{ readingYear.year }} ({{ readingYear.books | length }})</h2>
+	{% for year in books.completed %}
+	<div class="grid-section">
+		<h2>{{ year.year }} ({{ year.books | length }})</h2>
 
-		<div class="items padded-top">
-			{% for book in readingYear.books %}
+		<div class="media-grid books">
+			{% for book in year.books %}
 			{% bookListing book %}
 			{% endfor %}
 		</div>
 	</div>
 	{% endfor %}
-</div>
+</main>
+
+<dialog class="thoughts-dialog book">
+	<div class="thoughts-content">
+		<img src="" alt="" height="225" width="150" />
+		<div class="details">
+			<div class="title"></div>
+			<div class="rating"></div>
+			<div class="thoughts"></div>
+		</div>
+	</div>
+	<div class="close-button"><button type="button">Close</button></div>
+</dialog>

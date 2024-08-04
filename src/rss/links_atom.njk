@@ -21,7 +21,7 @@
   <subtitle>{{ metadata.subtitle }}</subtitle>
   <link href="{{ metadata.url }}"/>
   <link href="{{ permalink | absoluteUrl(metadata.url) }}" rel="self"/>
-  <updated>{{ links | linkMostRecentDate | dateToRfc3339 }}</updated>
+  <updated>{{ links | linkMostRecentDate }}</updated>
   <id>{{ metadata.url }}</id>
   <author>
     <name>{{ metadata.author.name }}</name>
@@ -30,9 +30,9 @@
   {%- for item in links %}
   <entry>
     <title>{{ item.title }}</title>
-    <link href="{{ item.link }}"/>
-    <updated>{{ item.jsDate | dateToRfc3339 }}</updated>
-    <id>{{ item.link }}</id>
+    <link href="{{ item.url }}"/>
+    <updated>{{ item.linkDate }}</updated>
+    <id>{{ item.url }}</id>
     <content xml:lang="{{ metadata.language }}" type="html">{{ item | linkContent }}</content>
   </entry>
   {%- endfor %}

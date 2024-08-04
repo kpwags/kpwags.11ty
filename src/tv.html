@@ -3,23 +3,54 @@ layout: "layouts/wide-layout.html"
 title: "Television Watch List"
 ---
 
-<div class="media-container">
+<main class="media-container">
 	<h1>Television Watch List</h1>
 
-	<p>I've certainly seen more than this, but I figured I'd update this list with some of my thoughts for the TV series
-		I've watched and am currently watching.</p>
+	<h5>I've certainly seen more than this, but I figured I'd update this list with some of my thoughts for the TV
+		series
+		I've watched and am currently watching.</h5>
 
 	<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
 
-	{% for status in tv %}
-	<div>
-		<h2>{{ status.status }} ({{ status.shows | length }})</h2>
+	<div class="grid-section">
+		<h2>Currently Watching ({{ tv.inProgress | length }})</h2>
 
-		<div class='items padded-top {% if status.status == "Currently Watching" %}current-status{% endif %}'>
-			{% for show in status.shows %}
+		<div class="media-grid current-status">
+			{% for show in tv.inProgress %}
 			{% tvListing show %}
 			{% endfor %}
 		</div>
 	</div>
-	{% endfor %}
-</div>
+
+	<div class="grid-section">
+		<h2>Between Seasons ({{ tv.betweenSeasons | length }})</h2>
+
+		<div class="media-grid">
+			{% for show in tv.betweenSeasons %}
+			{% tvListing show %}
+			{% endfor %}
+		</div>
+	</div>
+
+	<div class="grid-section">
+		<h2>Finished ({{ tv.completed | length }})</h2>
+
+		<div class="media-grid">
+			{% for show in tv.completed %}
+			{% tvListing show %}
+			{% endfor %}
+		</div>
+	</div>
+</main>
+
+<dialog class="thoughts-dialog tv">
+	<div class="thoughts-content">
+		<img src="" alt="" height="225" width="150" />
+		<div class="details">
+			<div class="title"></div>
+			<div class="rating"></div>
+			<div class="thoughts"></div>
+		</div>
+	</div>
+	<div class="close-button"><button type="button">Close</button></div>
+</dialog>

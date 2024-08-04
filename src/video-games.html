@@ -3,30 +3,50 @@ layout: "layouts/wide-layout.html"
 title: "Video Games"
 ---
 
-<div class="media-container">
+<main class="media-container">
 	<h1>Video Games</h1>
 
-	<p>I've ertainly played more than this, but I figured I'd update this list with some of my thoughts for the video
-		games I've played and am currently playing.</p>
+	<h5>I've certainly played more than this, but I figured I'd update this list with some of my thoughts for the video
+		games I've played and am currently playing.</h5>
 
 	<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
 
-	{% for status in videoGames %}
-	<div>
-		<h2>{{ status.status }} ({{ status.games | length }})</h2>
+	<div class="grid-section">
+		<h2>Currently Playing ({{ videoGames.inProgress | length }})</h2>
 
-		{% if status.status == "Played" %}
-		<p>
-			✅ - indicates that I finished the game<br />
-			🟥 - indicates that I did not finish the game
-		</p>
-		{% endif %}
 
-		<div class='items padded-top {% if status.status == "Currently Playing" %}current-status{% endif %}'>
-			{% for game in status.games %}
+		<div class="media-grid current-status">
+			{% for game in videoGames.inProgress %}
 			{% videoGameListing game %}
 			{% endfor %}
 		</div>
 	</div>
-	{% endfor %}
-</div>
+
+	<div class="grid-section">
+		<h2>Have Played ({{ videoGames.completed | length }})</h2>
+
+		<div class="game-legend">
+			<div>✅ - indicates that I finished the game</div>
+			<div>🟥 - indicates that I did not finish the game</div>
+		</div>
+
+		<div class='media-grid'>
+			{% for game in videoGames.completed %}
+			{% videoGameListing game %}
+			{% endfor %}
+		</div>
+	</div>
+</main>
+
+<dialog class="thoughts-dialog video-game">
+	<div class="thoughts-content">
+		<img src="" alt="" height="225" width="150" />
+		<div class="details">
+			<div class="title"></div>
+			<div class="platform"></div>
+			<div class="rating"></div>
+			<div class="thoughts"></div>
+		</div>
+	</div>
+	<div class="close-button"><button type="button">Close</button></div>
+</dialog>

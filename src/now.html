@@ -10,15 +10,15 @@ title: "What I'm Up To"
 
 	<h2>Reading</h2>
 	<div class="items padded-top">
-		{% for book in now.reading %}
+		{% for book in books.inProgress %}
 		{% bookListing book %}
 		{% endfor %}
 	</div>
 
 	<h2>TV</h2>
 	<div class="items padded-top">
-		{% for tv in now.tv %}
-		{% tvListing tv %}
+		{% for show in tv.inProgress %}
+		{% tvListing show %}
 		{% endfor %}
 	</div>
 
@@ -33,7 +33,7 @@ title: "What I'm Up To"
 
 	<h2>Playing</h2>
 	<div class="items padded-top">
-		{% for game in now.playing %}
+		{% for game in videoGames.inProgress %}
 		{% videoGameListing game %}
 		{% endfor %}
 	</div>

@@ -3,7 +3,7 @@ title: 'Reading List 1/17 - 1/27'
 date: '2019-01-27'
 permalink: /posts/2019/01/27/reading-list/index.html
 tags:
-	- Reading Log
+  - Reading Log
 ---
 
 So I think for 2019, I'm going to try something new. I'm going to try to share a weekly list of various articles and podcasts I've read or listened to over the week that I've found interesting. So here we go.

@@ -1,7 +1,7 @@
 import starRating from './starRating-shortcode.js';
 
 const getThoughts = (tvShow) => {
-	if (tvShow.thoughts === null) {
+	if (tvShow.thoughts === null || tvShow.thoughts === '') {
 		return '';
 	}
 
@@ -9,8 +9,9 @@ const getThoughts = (tvShow) => {
 <div class="view-thoughts">
 	<button
 		class="toggle-thoughts"
-		id="toggle-btn-${tvShow.id}"
 		type="button"
+		data-id="${tvShow.televisionShowId}"
+		data-type="tv"
 	>View Thoughts</button>
 	<div class="thoughts hidden" id="thoughts-${tvShow.id}">${tvShow.thoughts}</div>
 </div>
@@ -21,12 +22,12 @@ const tvListingShortcode = (tvShow) => {
 	const getRating = tvShow.rating !== null ? starRating(tvShow.rating, "sm") : '';
 
 	return `
-<div class="item">
-	<div>
-		<img src="${tvShow.cover}" alt="${tvShow.title}" class="cover" height="225" width="150" />
+<div class="item" data-tv-id="${tvShow.televisionShowId}">
+	<div class="cover">
+		<img src="${tvShow.coverImageUrl}" alt="${tvShow.title}" class="cover" height="225" width="150" />
 	</div>
-	<div>
-		<a href="${tvShow.link}" target="_blank" rel="noreferrer">
+	<div class="info">
+		<a href="${tvShow.imdbLink}" target="_blank" rel="noreferrer">
 			${tvShow.title}
 		</a>
 
