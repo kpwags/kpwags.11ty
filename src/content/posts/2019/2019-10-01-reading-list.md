@@ -3,7 +3,7 @@ title: 'Reading List 9/23 - 9/29'
 date: '2019-10-01'
 permalink: /posts/2019/10/01/reading-list/index.html
 tags:
-	- Reading Log
+  - Reading Log
 ---
 
 This week we look at a historical close call with our nuclear weapons, the OLPC laptop, the NSA going after ISIS, good CSS design tips, and ES2019.

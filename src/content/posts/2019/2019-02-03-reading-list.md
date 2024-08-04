@@ -3,7 +3,7 @@ title: 'Reading List 1/28 - 2/3'
 date: '2019-02-03'
 permalink: /posts/2019/02/03/reading-list/index.html
 tags:
-	- Reading Log
+  - Reading Log
 ---
 
 Another week, another set of articles ranging from Apple's row with Facebook to the future of American infrastructure.

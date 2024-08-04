@@ -3,7 +3,7 @@ title: 'Reading List 8/5 - 8/11'
 date: '2019-08-11'
 permalink: /posts/2019/08/11/reading-list/index.html
 tags:
-	- Reading Log
+  - Reading Log
 ---
 
 I've decided to start this back up. Some interesting thoughts about making the data social media has on us transferrable, DIY Phone Farms, and a new software development podcast I've found.

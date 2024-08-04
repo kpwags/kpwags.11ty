@@ -3,7 +3,7 @@ title: 'Reading List 2/11 - 2/17'
 date: '2019-02-19'
 permalink: /posts/2019/02/19/reading-list/index.html
 tags:
-	- Reading Log
+  - Reading Log
 ---
 
 It's a little late, but here we go. This week we look at code, login forms, and the old Altavista search engine.
