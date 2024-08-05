@@ -1,0 +1,43 @@
+---
+title: "Week Notes for July 28 - August 3"
+date: '2024-08-04T21:38:10.55Z'
+permalink: /posts/2024/08/04/week-notes/index.html
+description: "My week notes for the week of July 28 through August 3"
+tags:
+  - Week Notes
+  - Site Updates
+  - Family
+  - Hockey
+  - Video Games
+  - Ratchet and Clank
+  - The Last of Us
+---
+
+My week notes for the week of July 28 through August 3.
+<!-- excerpt -->
+
+## Site Redesign Underway
+
+I was able to finish up my media repository so I've taken advantage of changing the data for my media pages as an excuse to refresh the look of my site. It's still in the relative early phases, but I like the new look and feel. The other benefit is that now that I'm pulling the data locally prior to my 11ty build is that my build time has gone from 30-45 seconds to under 10 seconds. Turns out having to go to Notion's API takes time...who'd have thunk it.
+
+## Plenty of Hockey
+
+My game count this past week was 4. One Sunday night, 2 Monday night and another Wednesday night. Almost played Friday too.
+
+The one thing about playing goalie is you're sometimes called by random teams to fill in when their normal goalie is out of town or unavailable. Sometimes last minute too. I know I can say "no", and will, but I also know how much it sucks to play a game without a netminder so I try to help when I can.
+
+## Beat *Ratchet & Clank: A Rift Apart*
+
+I ended up beating *Ratchet & Clank: A Rift Apart* this week. It my first Ratchet & Clank game I've ever played and I enjoyed it. It was fast paced and fun. Some of the repetitiveness got a tad annoying, but not enough to detract from it. It's light-hearted story was a nice change from the more serious stories of Horizon and Mass Effect.
+
+It was the 5th game I completed this year so far. I have a rather large backlog and I'm hoping to knock some more off this year.
+
+## Started *The Last of Us*
+
+After beating *Ratchet & Clank: A Rift Apart*, I needed a new game. I was considering *God of War* or *Spiderman*, but at a friend's recommendation, I've given *The Last of Us* another go. I had tried it in 2020 but was turned off by some of the sneaking gameplay. Which is a shame because I know the story is supposed to be top notch.
+
+I'm giving it another go and I'm still kind of annoyed by the over-reliance of having to sneak around. I know that's a thing, and it's on me, but I've gotten farther this time around and am enjoying the characters and better handling the sneaking around.
+
+## Time with Family
+
+Saturday I drove up to my parents' house to celebrate my nephew's birthday. It was a nice time and nice to see my parents and siblings.
