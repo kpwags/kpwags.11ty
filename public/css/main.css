@@ -17,10 +17,8 @@ svg:not([aria-label]) {
 main {
     width: var(--width);
     margin: 32px auto 0 auto;
-    padding: 24px;
     border-radius: 6px;
     max-width: 100%;
-    background: var(--background);
 }
 
 hr {
@@ -215,7 +213,7 @@ header a:hover {
 
 /* footer */
 footer {
-    margin: 96px 0 48px;
+    margin: 48px 0;
     padding: 0 24px;
     text-align: center;
 }
@@ -792,7 +790,6 @@ dialog.thoughts-dialog .details .platform {
 
 /* end media pages */
 
-
 /* links */
 main.links {
     background-color: var(--grey-3);
@@ -876,132 +873,241 @@ ul.links li a:hover span.meta {
     margin: 32px 0;
 }
 
-@media (max-width: 450px) {
-    .pagination {
-        justify-content: space-between;
-    }
-}
-
 .pagination a {
     text-decoration: none;
+    align-self: center;
 }
 
 /* end pagination */
 
-article.post {
-    margin: 32px 0;
-    border: 1px solid var(--grey-1);
-    padding: 32px;
-    border-radius: 8px;
+/* notes */
+article.note {
+    background: var(--background);
+    border: 1px solid var(--border-color);
+    margin-bottom: 32px;
+    border-radius: 6px;
 }
 
-article.post:hover {
-    border-color: var(--grey-2);
-    box-shadow: var(--box-shadow);
+article.note:hover {
+    border-color: var(--primary-color-1);
 }
 
-article.post .metadata {
-    margin: 12px 0 20px 0;
-    font-size: 1.2rem;
-    color: var(--meta);
-    font-weight: 300;
+article.note:last-child {
+    margin-bottom: 0;
+}
+
+article.note h1,
+article.note h2 {
+    padding: 12px 24px 0;
+    margin: 0;
+    font-size: 1.75rem;
+}
+
+article.note h2 a {
+    text-decoration: none;
+}
+
+article.note h2 a:hover {
+    text-decoration: underline;
+}
+
+article.note .metadata {
     display: flex;
-    justify-content: flex-start;
-    gap: 16px;
+    margin: 8px 0;
+    padding: 0 24px;
+    gap: 8px;
+    color: var(--meta);
     text-transform: uppercase;
 }
 
+article.note .content {
+    padding: 0 24px;
+    margin: 24px 0;
+}
+
+article.note .view-link {
+    padding: 0 24px 24px 24px;
+    text-align: center;
+}
+
+article.note.note-page .view-link {
+    padding-bottom: 0;
+}
+
+article.note .view-link a {
+    border: 1px solid var(--primary-color-1);
+    padding: 8px 16px;
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+article.note .view-link a:hover {
+    border: 1px solid var(--primary-color-3);
+    color: var(--primary-color-3);
+    text-decoration: underline;
+}
+
+article.note .footer {
+    padding: 0 24px 24px 24px;
+}
+
+/* end notes */
+
+/* blog & reading logs */
+article.post {
+    background: var(--background);
+    border: 1px solid var(--border-color);
+    margin-bottom: 32px;
+    border-radius: 6px;
+}
+
+article.post:hover {
+    border-color: var(--primary-color-1);
+}
+
+article.post:last-child {
+    margin-bottom: 0;
+}
+
+article.post .content {
+    padding: 24px;
+}
+
+article.post h1,
 article.post h2 {
-    font-size: 2rem;
-    line-height: 1.1;
+    padding: 0;
+    margin: 0;
+    font-size: 1.75rem;
 }
 
 article.post h2 a {
     text-decoration: none;
 }
 
-article.post div.excerpt {
-    margin: 16px 0 0;
+article.post h2 a:hover {
+    text-decoration: underline;
 }
 
-article.post div.excerpt p {
-    margin-bottom: 0;
+article.post .metadata {
+    display: flex;
+    margin: 8px 0;
+    gap: 8px;
+    color: var(--meta);
+    text-transform: uppercase;
 }
 
-article.post div.excerpt code {
-    background: var(--code-background);
-    font-family: var(--font);
-    padding: 4px;
+article.post .excerpt {
+    margin: 24px 0;
+    font-size: 1.1rem;
 }
 
-@media (max-width: 460px) {
-    article.post .metadata {
-        display: block;
-    }
-
-    article.post .metadata .separator {
-        display: none;
-    }
+article.post .body {
+    margin: 24px 0;
+    font-size: 1.1rem;
 }
 
-@media (max-width: 414px) {
-    article.post h2 {
-        font-size: 2.25rem;
-        margin-bottom: 16px;
-    }
-}
-
-
-
-ul.tag-list {
-    margin: 16px 0 24px 0 !important;
-    padding: 0;
-    width: 100%;
-}
-
-.tag-list li {
-    display: inline-block;
-    list-style-type: none;
-    padding: 0;
-    line-height: 1.6;
-    margin-bottom: 0 !important;
-}
-
-.tag-list li.lead {
-    padding-left: 0;
-    padding-right: 10px;
-    font-weight: 600;
-}
-
-.tag-list li.tag-separator {
-    padding: 0 8px;
-}
-
-.tag-list li a {
-    white-space: nowrap;
-}
-
-.reply-links span {
-    font-weight: 600;
-    padding-right: 10px;
-}
-
-.in-depth-notes {
-    margin-bottom: 2rem;
-}
-
-.in-depth-notes h3 {
-    font-size: 1.6rem !important;
-    text-wrap: unset;
-}
-
-.in-depth-notes .source {
+article.post.reading-log-page h2,
+article.post.reading-log-page h3 {
     color: var(--text);
 }
 
-.in-depth-notes li p {
-    margin: 0;
+article.post.reading-log-page h2.old {
+    font-size: 2rem;
+    margin: 20px 0 40px 0;
+    color: var(--primary-color-1);
 }
+
+article.post.reading-log-page h3.music,
+article.post.reading-log-page h4 {
+    color: var(--primary-color-1);
+    margin: 32px 0 8px;
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+
+article.post.reading-log-page .in-depth-notes {
+    margin: 24px 0;
+}
+
+article.post.reading-log-page .in-depth-notes:last-child {
+    margin-bottom: 0;
+}
+
+article.post.reading-log-page .in-depth-notes a {
+    display: block;
+    font-size: 1.4rem;
+    font-weight: 500px;
+}
+
+article.post.reading-log-page .in-depth-notes .in-depth-meta {
+    color: var(--meta);
+}
+
+article.post.reading-log-page .in-depth-notes .in-depth-text {
+    font-size: 1.1rem;
+}
+
+/* end blog & reading-logs */
+
+/* blog post, book note, note shared */
+article.note blockquote,
+article.post blockquote,
+article.book-note blockquote {
+    margin-left: 0;
+    border-left: 4px solid var(--primary-color-3);
+    padding-left: 24px;
+}
+
+article.note blockquote p,
+article.post blockquote p,
+article.book-note blockquote p {
+    margin: 0 0 24px 0;
+}
+
+.titled-horizontal-list {
+    margin: 0 0 24px 0;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.titled-horizontal-list li {
+    list-style-type: none;
+    padding: 0;
+    line-height: 1.6;
+    margin-bottom: 0;
+}
+
+.titled-horizontal-list li.lead {
+    padding-left: 0;
+    padding-right: 10px;
+}
+
+.titled-horizontal-list li.tag-separator {
+    padding: 0 8px;
+}
+
+.titled-horizontal-list li a {
+    white-space: nowrap;
+}
+
+.titled-horizontal-list:last-child {
+    margin-bottom: 0;
+}
+
+@media (max-width: 450px) {
+    .titled-horizontal-list {
+        flex-direction: column;
+    }
+
+    .titled-horizontal-list li {
+        line-height: 1;
+    }
+}
+
+/* end blog post, book note, note shared */
 
 .book-note-card {
     margin: 32px 0;
@@ -1473,76 +1579,6 @@ button[data-color='purple'] {
     margin: 6px 0;
 }
 
-
-
-.note h2 {
-    font-size: 1.75rem;
-}
-
-.note h2 a {
-    text-decoration: none;
-}
-
-.note h2 a:hover {
-    text-decoration: underline;
-}
-
-.note .metadata {
-    margin: 12px 0 20px 0;
-    font-size: 1.2rem;
-    color: var(--meta);
-    font-weight: 300;
-    display: flex;
-    justify-content: flex-start;
-    gap: 16px;
-}
-
-.note .metadata .post-date {
-    text-transform: uppercase;
-    order: 1;
-}
-
-.note .metadata .separator {
-    order: 2;
-}
-
-.note .metadata .domain {
-    order: 3;
-}
-
-@media (max-width: 550px) {
-    .note .metadata {
-        display: block;
-    }
-
-    .note .metadata .separator {
-        display: none;
-    }
-
-    .note .metadata .domain {
-        margin-bottom: 8px;
-    }
-}
-
-.note blockquote {
-    margin: 0;
-    border-left: 5px solid var(--primary-color-1);
-}
-
-.note blockquote p {
-    padding: 0 0 0 24px;
-    font-style: italic;
-}
-
-.note pre {
-    padding: 16px;
-    border-radius: 6px;
-    margin-bottom: 32px;
-}
-
-.note pre code {
-    font-size: 1rem;
-}
 
 ul.archives-list {
     margin: 0;

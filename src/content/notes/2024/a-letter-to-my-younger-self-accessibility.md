@@ -3,6 +3,9 @@ title: 'A letter to my younger self, as an accessibility advocate'
 date: '2024-03-15'
 link: 'https://heather-buchel.com/blog/2024/03/letters-to-an-accessibility-advocate/'
 permalink: /notes/a-letter-to-my-younger-self-accessibility/index.html
+tags:
+  - Accessibility
+  - Web Development
 ---
 
 > It's the getting people to understand the organizational changes needed to address them that is the hard part. It's a lot of time convincing people of things that have been documented for years. It's a lot of time spent educating people on things you learned 1, 5, 10 year(s) ago

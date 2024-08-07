@@ -3,6 +3,9 @@ title: 'How to Report on Trump: Tell the Truth'
 date: '2024-04-03T00:02:09Z'
 link: 'https://www.cleveland.com/news/2024/03/our-trump-reporting-upsets-some-readers-but-there-arent-two-sides-to-facts-letter-from-the-editor.html'
 permalink: /notes/how-to-report-on-trump/index.html
+tags:
+  - Politics
+  - Journalism
 ---
 
 Reporting on Trump has been giving the media fits since he first started his presidential run in 2015. The editor for The Cleveland Plain Dealer writes about what should be obvious.

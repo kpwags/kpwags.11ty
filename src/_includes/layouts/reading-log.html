@@ -5,7 +5,6 @@
 	{% include "head.html" %}
 	<title>{{ title }} - Keith Wagner</title>
 	<link rel="stylesheet" type="text/css" href="/css/prism-okaidia.css" />
-	<link rel="stylesheet" type="text/css" href="/css/reading-log.css" />
 
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://kpwags.com{{ page.url }}" />
@@ -17,25 +16,24 @@
 
 <body>
 	{% include "header.html" %}
+
 	<main>
-		<article class="reading-log">
-			<h1>{{ title }}</h1>
-			<div class="metadata">
-				<div>{{ dateString }}</div>
-			</div>
-			{{ content }}
-			<hr />
-			{% tagList tags %}
-			<div class="reply-links">
-				<span>Reply via:</span>
-				<a href="mailto:hello@kpwags.com?subject={{ title }}">Email</a>
-				&bull;
-				<a href="https://hachyderm.io/@kpwags" target="_blank" rel="noreferrer nofollow">Mastodon</a>
-				&bull;
-				<a href="https://bsky.app/profile/kpwags.com" target="_blank" rel="noreferrer nofollow">Bluesky</a>
+		<article class="post reading-log reading-log-page">
+			<div class="content">
+				<h1>{{ title }}</h1>
+				<div class="metadata">{{ dateString }}</div>
+				<div class="body">
+					{{ content }}
+				</div>
+				<hr />
+				<div class="footer">
+					{% tagList tags %}
+					{% replyLinks title %}
+				</div>
 			</div>
 		</article>
 	</main>
+
 	{% include "footer.html" %}
 </body>
 

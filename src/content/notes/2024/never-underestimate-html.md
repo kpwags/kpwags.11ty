@@ -3,6 +3,10 @@ title: 'Never Underestimate HTML'
 date: '2024-01-12'
 link: 'https://www.htmhell.dev/adventcalendar/2023/24/'
 permalink: /notes/never-underestimate-html/index.html
+tags:
+  - Web Development
+  - Development
+  - HTML
 ---
 
 > Writing HTML in itself isn’t that hard, no.
