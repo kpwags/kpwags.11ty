@@ -7,9 +7,13 @@ const bookNoteShortcode = (bookNote) => {
 		categories.push(`<span class="category">${category}</span>`);
 	});
 
-	const subtitle = bookNote.data.subtitle.length > 0
-		? `<h3>${bookNote.data.subtitle}</h3>`
-		: '';
+	const title = () => {
+		if (bookNote.data.subtitle.length > 0) {
+			return `${bookNote.data.title}: ${bookNote.data.subtitle}`
+		}
+
+		return bookNote.data.title;
+	};
 
 	return `
 <article class="book-note-card">
@@ -17,12 +21,11 @@ const bookNoteShortcode = (bookNote) => {
 		<div class="image">
 			<img src="${bookNote.data.coverImage}" alt="${bookNote.data.author} - ${bookNote.data.title}" />
 		</div>
-		<div>
-			<h2><a href="${bookNote.url}">${bookNote.data.title}</a></h2>
-			${subtitle}
-			<h4>by ${bookNote.data.author}</h4>
+		<div class="info">
+			<h2><a href="${bookNote.url}">${title()}</a></h2>
+			<div class="author">by ${bookNote.data.author}</div>
 
-			<div class="metadata">${bookNote.data.dateString}</div>
+			<div class="date">${bookNote.data.dateString}</div>
 
 			${starRating(bookNote.data.rating)}
 

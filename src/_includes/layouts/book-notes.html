@@ -4,7 +4,6 @@
 <head>
 	{% include "head.html" %}
 	<title>{{ title }} - Keith Wagner</title>
-	<link rel="stylesheet" type="text/css" href="/css/book-notes.css" />
 
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://kpwags.com{{ page.url }}" />
@@ -16,15 +15,18 @@
 	{% include "header.html" %}
 	<main>
 		<article class="book-note">
-			<div class="content">
-				<div class="metadata">
+			<div class="book-note-card">
+				<div class="content">
 					<div class="image">
 						<img src="{{ coverImage }}" alt="{{ author }} - {{ title }}" />
 					</div>
-					<div>
+					<div class="info">
+						{% if subtitle.length > 0 %}
+						<h2>{{ title }}: {{ subtitle }}</h2>
+						{% else %}
 						<h2>{{ title }}</h2>
-						<h3>{{ subtitle }}</h3>
-						<h4>by {{ author }}</h4>
+						{% endif %}
+						<div class="author">by {{ author }}</div>
 
 						<div class="finished-reading"><strong>Finished</strong>: {{ dateString }}</div>
 
@@ -47,22 +49,16 @@
 						</div>
 					</div>
 				</div>
-
-				<hr />
-
-				<div class="book-notes">
+			</div>
+			<div class="book-note-content">
+				<div class="body">
 					{{ content }}
 				</div>
 
 				<hr />
 
-				<div class="reply-links">
-					<span>Reply via:</span>
-					<a href="mailto:hello@kpwags.com?subject={{ title }}">Email</a>
-					&bull;
-					<a href="https://hachyderm.io/@kpwags" target="_blank" rel="noreferrer nofollow">Mastodon</a>
-					&bull;
-					<a href="https://bsky.app/profile/kpwags.com" target="_blank" rel="noreferrer nofollow">Bluesky</a>
+				<div class="footer">
+					{% replyLinks title %}
 				</div>
 			</div>
 		</article>

@@ -3,27 +3,27 @@ layout: "layouts/layout.html"
 title: "Likes"
 ---
 
-<h1>
-	Articles, Podcasts & <span>Other Likes</span>
-</h1>
+<main>
+	<h1>
+		Articles, Podcasts & <span>Other Likes</span>
+	</h1>
 
-<p>
-	One of my biggest sources of finding interesting articles is through my RSS feeds. Feedbin allows me to star items
-	and gives
-	me the starred items in a feed. These are my starred items.
-</p>
+	<p class="large">
+		One of my biggest sources of finding interesting articles is through my RSS feeds. Feedbin allows me to star items
+		and gives
+		me the starred items in a feed. These are my starred items.
+	</p>
 
-<ul class="likes">
-	{% for item in likes %}
-	<li>
-		<div class="title">
+	<ul class="links">
+		{% for item in likes %}
+		<li>
 			<a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
-				{{ item.title }}
+				<div>
+					<span class="text">{{ item.title }}</span>
+					<span class="meta">{{ item.domain }}</span>
+				</div>
 			</a>
-		</div>
-		<div class="source">
-			{{ item.domain }}
-		</div>
-	</li>
-	{% endfor %}
-</ul>
+		</li>
+		{% endfor %}
+	</ul>
+</main>
