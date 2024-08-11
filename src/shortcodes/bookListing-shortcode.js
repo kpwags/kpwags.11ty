@@ -1,11 +1,11 @@
 import starRating from './starRating-shortcode.js';
 
 const getThoughts = (book) => {
-	if (book.thoughts === null || book.thoughts === '') {
-		return '';
-	}
+    if (book.thoughts === null || book.thoughts === '') {
+        return '';
+    }
 
-	return `
+    return `
 <div class="view-thoughts">
 	<button
 		class="toggle-thoughts"
@@ -19,28 +19,34 @@ const getThoughts = (book) => {
 };
 
 const getProgress = (book) => {
-	if (book.progress <= 0 || book.progress >= 100) {
-		return '';
-	}
+    if (book.progress <= 0 || book.progress >= 100) {
+        return '';
+    }
 
-	return `
+    return `
 <div class="book-progress-bar" title="${book.percentComplete}% complete">
 	<div class="bar">
 		<div class="inner-bar" style="width: ${book.percentComplete}%"></div>
 	</div>
 </div>`;
-}
+};
 
 const getBookNotesLink = (book) => {
-	if (book.bookNotesUrl === null || book.bookNotesUrl === '') {
-		return '';
-	}
+    if (book.bookNotesUrl === null || book.bookNotesUrl === '') {
+        return '';
+    }
 
-	return `<div class="book-notes-link"><a href="/books/${book.bookNotesUrl}">View Book Notes</a></div>`
+    return `<div class="book-notes-link"><a href="/books/${book.bookNotesUrl}">View Book Notes</a></div>`;
+};
+
+const getBookGenres = (book) => {
+    const genres = book.genres.map((g) => g.name.replaceAll(' ', '-').toLowerCase());
+
+    return genres.join(',');
 };
 
 const bookListingShortcode = (book) => `
-<div class="item" data-book-id="${book.bookId}">
+<div class="item" data-book-id="${book.bookId}" data-booktype="${book.type.name.toLowerCase()}" data-genre="${getBookGenres(book)}">
 	<div class="cover">
 		<img src="${book.coverImageUrl}" alt="The cover for ${book.title}" height="225" width="150" />
 		${getProgress(book)}
@@ -56,7 +62,7 @@ const bookListingShortcode = (book) => `
 
 		<div class="meta">${book.author}</div>
 
-		${book.rating !== null ? starRating(book.rating, "sm") : ''}
+		${book.rating !== null ? starRating(book.rating, 'sm') : ''}
 
 		${getBookNotesLink(book)}
 

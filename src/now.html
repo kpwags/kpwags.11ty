@@ -3,45 +3,70 @@ layout: "layouts/wide-layout.html"
 title: "What I'm Up To"
 ---
 
-<div class="media-container now-page">
+<main>
 	<h1>What I'm Up To</h1>
 
 	<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
 
-	<h2>Reading</h2>
-	<div class="items padded-top">
-		{% for book in books.inProgress %}
-		{% bookListing book %}
-		{% endfor %}
+	<div class="grid-section">
+		<h2>Reading</h2>
+		<div class="media-grid now">
+			{% for book in books.inProgress %}
+			{% bookListing book %}
+			{% endfor %}
+		</div>
 	</div>
 
-	<h2>TV</h2>
-	<div class="items padded-top">
-		{% for show in tv.inProgress %}
-		{% tvListing show %}
-		{% endfor %}
+	<div class="grid-section">
+		<h2>TV</h2>
+		<div class="media-grid now current-status">
+			{% for show in tv.inProgress %}
+			{% tvListing show %}
+			{% endfor %}
+		</div>
 	</div>
 
-	{% if now.movies.length > 0 %}
-	<h2>Movies</h2>
-	<div class="items padded-top">
-		{% for film in now.movies %}
-		{% movieListing film %}
-		{% endfor %}
+	{% if recentMovies.length > 0 %}
+	<div class="grid-section">
+		<h2>Movies</h2>
+		<div class="media-grid now">
+			{% for film in recentMovies %}
+			{% movieListing film %}
+			{% endfor %}
+		</div>
 	</div>
 	{% endif %}
 
-	<h2>Playing</h2>
-	<div class="items padded-top">
-		{% for game in videoGames.inProgress %}
-		{% videoGameListing game %}
-		{% endfor %}
+
+	<div class="grid-section">
+		<h2>Playing</h2>
+		<div class="media-grid now">
+			{% for game in videoGames.inProgress %}
+			{% videoGameListing game %}
+			{% endfor %}
+		</div>
 	</div>
 
-	<h2>Listening</h2>
-	<div class="items padded-top">
-		{% for music in now.music %}
-		{% musicListing music %}
-		{% endfor %}
+	<div class="grid-section">
+		<h2>Listening</h2>
+		<div class="media-grid now">
+			{% for music in now.music %}
+			{% musicListing music %}
+			{% endfor %}
+		</div>
 	</div>
-</div>
+
+	<div class="site-card now">
+		<h2>Everything Else</h2>
+
+		<div class="item">
+			<h3>Site Re-Design</h3>
+			<p>Currently working on giving my site a refresh. I've been thinking about doing it for a little while and since I've gotten my media repository in a good place, figured now was the time.</p>
+		</div>
+
+		<div class="item">
+			<h3>Media Repository</h3>
+			<p>Currently working on finishing up my media repository to move off of Notion's API.</p>
+		</div>
+	</div>
+</main>

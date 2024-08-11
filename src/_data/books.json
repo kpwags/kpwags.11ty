@@ -1,50 +1,55 @@
 {
   "inProgress": [
     {
-      "bookId": 88,
+      "bookId": 133,
       "bookStatusId": 2,
-      "bookTypeId": 2,
+      "bookTypeId": 1,
       "bookSeriesId": null,
-      "title": "The Blood Telegram",
-      "subTitle": "Nixon, Kissinger, and a Forgotten Genocide",
-      "fullTitle": "The Blood Telegram: Nixon, Kissinger, and a Forgotten Genocide",
-      "author": "Gary J. Bass",
-      "link": "https://bookshop.org/p/books/the-blood-telegram-nixon-kissinger-and-a-forgotten-genocide-gary-j-bass/9789502?ean=9780307744623",
-      "dateStarted": "2024-07-19T00:00:00",
+      "title": "The Firm",
+      "subTitle": "",
+      "fullTitle": "The Firm",
+      "author": "John Grisham",
+      "link": "https://bookshop.org/p/books/the-firm-john-grisham/7309328?ean=9780385319058",
+      "dateStarted": "2024-08-07T00:00:00",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/zGN4M6fY/the-blood-telegram.jpg",
+      "coverImageUrl": "https://i.postimg.cc/02X8mG0K/john-grisham-the-firm.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 236,
-      "pageCount": 345,
-      "percentComplete": 68,
-      "sortOrder": 60,
+      "currentPage": 3274,
+      "pageCount": 6650,
+      "percentComplete": 49,
+      "sortOrder": 71,
       "status": {
         "bookStatusId": 2,
         "name": "Reading",
         "colorCode": "#6a208f"
       },
       "type": {
-        "bookTypeId": 2,
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
+        "bookTypeId": 1,
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
       },
       "series": null,
       "genres": [
         {
-          "bookGenreId": 4,
-          "name": "History",
-          "colorCode": "rgb(4, 38, 142)"
+          "bookGenreId": 5,
+          "name": "Crime",
+          "colorCode": "rgb(8, 84, 3)"
+        },
+        {
+          "bookGenreId": 2,
+          "name": "Thriller",
+          "colorCode": "rgb(54, 31, 112)"
         }
       ],
       "formats": [
         {
-          "bookFormatId": 1,
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
+          "bookFormatId": 3,
+          "name": "eBook",
+          "colorCode": "#2c5813"
         }
       ]
     }
@@ -53,6 +58,54 @@
     {
       "year": "2024",
       "books": [
+        {
+          "bookId": 88,
+          "bookStatusId": 3,
+          "bookTypeId": 2,
+          "bookSeriesId": null,
+          "title": "The Blood Telegram",
+          "subTitle": "Nixon, Kissinger, and a Forgotten Genocide",
+          "fullTitle": "The Blood Telegram: Nixon, Kissinger, and a Forgotten Genocide",
+          "author": "Gary J. Bass",
+          "link": "https://bookshop.org/p/books/the-blood-telegram-nixon-kissinger-and-a-forgotten-genocide-gary-j-bass/9789502?ean=9780307744623",
+          "dateStarted": "2024-07-19T00:00:00",
+          "dateCompleted": "2024-08-06T00:00:00",
+          "rating": 3,
+          "bookNotesUrl": "gary-j-bass-the-blood-telegram",
+          "thoughts": "This was an informative read about events I was unaware of. It also provided a look into the Nixon White House that clearly matches the reputation of Nixon and Kissinger.",
+          "coverImageUrl": "https://i.postimg.cc/zGN4M6fY/the-blood-telegram.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 345,
+          "pageCount": 345,
+          "percentComplete": 100,
+          "sortOrder": 60,
+          "status": {
+            "bookStatusId": 3,
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "bookGenreId": 4,
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 1,
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
+        },
         {
           "bookId": 17,
           "bookStatusId": 3,
@@ -2952,7 +3005,7 @@
         {
           "bookId": 481,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Storyteller",
           "subTitle": "Tales of Life and Music",
@@ -2977,18 +3030,30 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 14,
+              "name": "Biography / Memoir",
+              "colorCode": "rgb(68, 0, 214)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 1,
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
         },
         {
           "bookId": 495,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Nudge",
           "subTitle": "The Final Edition",
@@ -3013,13 +3078,30 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 8,
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            },
+            {
+              "bookGenreId": 12,
+              "name": "Philosophy",
+              "colorCode": "rgb(9, 58, 78)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 2,
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
         },
         {
           "bookId": 480,
@@ -3054,14 +3136,31 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            },
+            {
+              "bookGenreId": 2,
+              "name": "Thriller",
+              "colorCode": "rgb(54, 31, 112)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 1,
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
         },
         {
           "bookId": 483,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 10,
           "title": "Leviathan Falls",
           "subTitle": "",
           "fullTitle": "Leviathan Falls",
@@ -3089,9 +3188,25 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 10,
+            "name": "The Expanse",
+            "colorCode": "rgb(105, 109, 8)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 1,
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
         }
       ]
     },
@@ -3101,7 +3216,7 @@
         {
           "bookId": 504,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Righteous Mind",
           "subTitle": "Why Good People Are Divided by Politics and Religion",
@@ -3126,18 +3241,35 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 12,
+              "name": "Philosophy",
+              "colorCode": "rgb(9, 58, 78)"
+            },
+            {
+              "bookGenreId": 6,
+              "name": "Science",
+              "colorCode": "rgb(24, 90, 80)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 505,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Buyout of America",
           "subTitle": "How Private Equity Is Destroying Jobs and Killing the American Economy",
@@ -3162,18 +3294,35 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 8,
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            },
+            {
+              "bookGenreId": 7,
+              "name": "Politics",
+              "colorCode": "rgb(130, 40, 40)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 506,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Cult of We",
           "subTitle": "Wework, Adam Neumann, and the Great Startup Delusion",
@@ -3198,18 +3347,30 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 8,
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 503,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Think Again",
           "subTitle": "The Power of Knowing What You Don\u0027t Know",
@@ -3234,18 +3395,30 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 12,
+              "name": "Philosophy",
+              "colorCode": "rgb(9, 58, 78)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 1,
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
         },
         {
           "bookId": 502,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Premonition",
           "subTitle": "A Pandemic Story",
@@ -3270,18 +3443,30 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 7,
+              "name": "Politics",
+              "colorCode": "rgb(130, 40, 40)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 1,
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
         },
         {
           "bookId": 501,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Field of Schemes",
           "subTitle": "How the Great Stadium Swindle Turns Public Money Into Private Profit",
@@ -3306,18 +3491,35 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 8,
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            },
+            {
+              "bookGenreId": 13,
+              "name": "Sports",
+              "colorCode": "rgb(0, 80, 20)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 500,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Money",
           "subTitle": "The True Story of a Made-Up Thing",
@@ -3342,18 +3544,30 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 8,
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 499,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The MVP Machine",
           "subTitle": "How Baseball\u0027s New Nonconformists Are Using Data to Build Better Players",
@@ -3378,18 +3592,30 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 13,
+              "name": "Sports",
+              "colorCode": "rgb(0, 80, 20)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 498,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Franchise",
           "subTitle": "The Golden Arches in Black America",
@@ -3414,13 +3640,30 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 8,
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            },
+            {
+              "bookGenreId": 4,
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         }
       ]
     },
@@ -3430,7 +3673,7 @@
         {
           "bookId": 372,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The 99% Invisible City",
           "subTitle": "",
@@ -3455,18 +3698,30 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 17,
+              "name": "Technology",
+              "colorCode": "rgb(55, 78, 146)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 1,
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
         },
         {
           "bookId": 371,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The End is Always Near",
           "subTitle": "",
@@ -3491,13 +3746,25 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 4,
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 370,
@@ -3532,14 +3799,31 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            },
+            {
+              "bookGenreId": 2,
+              "name": "Thriller",
+              "colorCode": "rgb(54, 31, 112)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 369,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 17,
           "title": "The Last Emperox",
           "subTitle": "",
           "fullTitle": "The Last Emperox",
@@ -3567,15 +3851,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 17,
+            "name": "Interdepency",
+            "colorCode": "rgb(83, 98, 98)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 368,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 17,
           "title": "The Consuming Fire",
           "subTitle": "",
           "fullTitle": "The Consuming Fire",
@@ -3603,15 +3903,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 17,
+            "name": "Interdepency",
+            "colorCode": "rgb(83, 98, 98)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 367,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 17,
           "title": "The Collapsing Empire",
           "subTitle": "",
           "fullTitle": "The Collapsing Empire",
@@ -3639,14 +3955,30 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 17,
+            "name": "Interdepency",
+            "colorCode": "rgb(83, 98, 98)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 366,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Age of Surveillance Capitalism",
           "subTitle": "",
@@ -3671,18 +4003,40 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 8,
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            },
+            {
+              "bookGenreId": 7,
+              "name": "Politics",
+              "colorCode": "rgb(130, 40, 40)"
+            },
+            {
+              "bookGenreId": 17,
+              "name": "Technology",
+              "colorCode": "rgb(55, 78, 146)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 365,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Big Short",
           "subTitle": "",
@@ -3707,13 +4061,25 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 8,
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 364,
@@ -3748,13 +4114,30 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 3,
+              "name": "Horror",
+              "colorCode": "rgb(146, 4, 4)"
+            },
+            {
+              "bookGenreId": 2,
+              "name": "Thriller",
+              "colorCode": "rgb(54, 31, 112)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 363,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Open Borders",
           "subTitle": "",
@@ -3779,18 +4162,35 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 7,
+              "name": "Politics",
+              "colorCode": "rgb(130, 40, 40)"
+            },
+            {
+              "bookGenreId": 8,
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 2,
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
         },
         {
           "bookId": 362,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "How To",
           "subTitle": "",
@@ -3815,18 +4215,35 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 10,
+              "name": "Humor",
+              "colorCode": "rgb(126, 1, 123)"
+            },
+            {
+              "bookGenreId": 6,
+              "name": "Science",
+              "colorCode": "rgb(24, 90, 80)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 1,
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
         },
         {
           "bookId": 361,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Fifth Risk",
           "subTitle": "",
@@ -3851,19 +4268,31 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 7,
+              "name": "Politics",
+              "colorCode": "rgb(130, 40, 40)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 1,
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
         },
         {
           "bookId": 360,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 10,
           "title": "Auberon",
           "subTitle": "",
           "fullTitle": "Auberon",
@@ -3891,9 +4320,25 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 10,
+            "name": "The Expanse",
+            "colorCode": "rgb(105, 109, 8)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 359,
@@ -3928,8 +4373,25 @@
             "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 7,
+              "name": "Politics",
+              "colorCode": "rgb(130, 40, 40)"
+            },
+            {
+              "bookGenreId": 4,
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 358,
@@ -3964,13 +4426,25 @@
             "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 8,
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 357,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Incomplete Book of Running",
           "subTitle": "",
@@ -3995,13 +4469,30 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 14,
+              "name": "Biography / Memoir",
+              "colorCode": "rgb(68, 0, 214)"
+            },
+            {
+              "bookGenreId": 13,
+              "name": "Sports",
+              "colorCode": "rgb(0, 80, 20)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 356,
@@ -4036,8 +4527,25 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            },
+            {
+              "bookGenreId": 2,
+              "name": "Thriller",
+              "colorCode": "rgb(54, 31, 112)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 2,
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
         },
         {
           "bookId": 355,
@@ -4072,8 +4580,25 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            },
+            {
+              "bookGenreId": 2,
+              "name": "Thriller",
+              "colorCode": "rgb(54, 31, 112)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 2,
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
         },
         {
           "bookId": 354,
@@ -4108,8 +4633,25 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            },
+            {
+              "bookGenreId": 2,
+              "name": "Thriller",
+              "colorCode": "rgb(54, 31, 112)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 2,
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
         },
         {
           "bookId": 353,
@@ -4144,13 +4686,30 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            },
+            {
+              "bookGenreId": 2,
+              "name": "Thriller",
+              "colorCode": "rgb(54, 31, 112)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 2,
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
         },
         {
           "bookId": 352,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Us vs. Them",
           "subTitle": "The Failure of Globalism",
@@ -4175,13 +4734,30 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 8,
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            },
+            {
+              "bookGenreId": 7,
+              "name": "Politics",
+              "colorCode": "rgb(130, 40, 40)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 351,
@@ -4216,13 +4792,30 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 16,
+              "name": "Speculative Fiction",
+              "colorCode": "rgb(182, 112, 112)"
+            },
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 350,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Vietnam",
           "subTitle": "An Epic Tragedy, 1945-1975",
@@ -4247,13 +4840,25 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 4,
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         }
       ]
     },
@@ -4263,7 +4868,7 @@
         {
           "bookId": 349,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Dumb Things Smart People Do With Their Money",
           "subTitle": "",
@@ -4288,18 +4893,35 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 8,
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            },
+            {
+              "bookGenreId": 9,
+              "name": "Self Help",
+              "colorCode": "rgb(75, 61, 190)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 348,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Midnight in Chernobyl",
           "subTitle": "",
@@ -4324,19 +4946,31 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 4,
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 347,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 10,
           "title": "Tiamat\u2019s Wrath",
           "subTitle": "",
           "fullTitle": "Tiamat\u2019s Wrath",
@@ -4364,14 +4998,30 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 10,
+            "name": "The Expanse",
+            "colorCode": "rgb(105, 109, 8)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 346,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Imagineers of War",
           "subTitle": "",
@@ -4396,18 +5046,40 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 4,
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            },
+            {
+              "bookGenreId": 7,
+              "name": "Politics",
+              "colorCode": "rgb(130, 40, 40)"
+            },
+            {
+              "bookGenreId": 6,
+              "name": "Science",
+              "colorCode": "rgb(24, 90, 80)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 345,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Forever War",
           "subTitle": "",
@@ -4432,18 +5104,35 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 4,
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            },
+            {
+              "bookGenreId": 7,
+              "name": "Politics",
+              "colorCode": "rgb(130, 40, 40)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 344,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Why Wall Street Matters",
           "subTitle": "",
@@ -4468,13 +5157,25 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 8,
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         }
       ]
     },
@@ -4485,7 +5186,7 @@
           "bookId": 343,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 16,
           "title": "The Judas Solution",
           "subTitle": "",
           "fullTitle": "The Judas Solution",
@@ -4513,15 +5214,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 16,
+            "name": "Blackcollar",
+            "colorCode": "rgb(111, 102, 102)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 342,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 16,
           "title": "The Backlash Mission",
           "subTitle": "",
           "fullTitle": "The Backlash Mission",
@@ -4549,15 +5266,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 16,
+            "name": "Blackcollar",
+            "colorCode": "rgb(111, 102, 102)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 341,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 16,
           "title": "Blackcollar",
           "subTitle": "",
           "fullTitle": "Blackcollar",
@@ -4585,14 +5318,30 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 16,
+            "name": "Blackcollar",
+            "colorCode": "rgb(111, 102, 102)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 340,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Kitchen Confidential",
           "subTitle": "",
@@ -4617,18 +5366,35 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 14,
+              "name": "Biography / Memoir",
+              "colorCode": "rgb(68, 0, 214)"
+            },
+            {
+              "bookGenreId": 15,
+              "name": "Food",
+              "colorCode": "rgb(92, 66, 0)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 339,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Aisles Have Eyes",
           "subTitle": "",
@@ -4653,13 +5419,25 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 17,
+              "name": "Technology",
+              "colorCode": "rgb(55, 78, 146)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 338,
@@ -4694,13 +5472,25 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 16,
+              "name": "Speculative Fiction",
+              "colorCode": "rgb(182, 112, 112)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 337,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Ratf**ked",
           "subTitle": "",
@@ -4725,13 +5515,30 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 4,
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            },
+            {
+              "bookGenreId": 7,
+              "name": "Politics",
+              "colorCode": "rgb(130, 40, 40)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 336,
@@ -4766,13 +5573,25 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 10,
+              "name": "Humor",
+              "colorCode": "rgb(126, 1, 123)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 335,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Failure is Not an Option",
           "subTitle": "",
@@ -4797,22 +5616,34 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 14,
+              "name": "Biography / Memoir",
+              "colorCode": "rgb(68, 0, 214)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 334,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Hit Refresh",
-          "subTitle": "",
-          "fullTitle": "Hit Refresh",
+          "subTitle": "The Quest to Rediscover Microsoft\u0027s Soul and Imagine a Better Future for Everyone",
+          "fullTitle": "Hit Refresh: The Quest to Rediscover Microsoft\u0027s Soul and Imagine a Better Future for Everyone",
           "author": "Satya Nadella",
           "link": "https://bookshop.org/p/books/hit-refresh-the-quest-to-rediscover-microsoft-s-soul-and-imagine-a-better-future-for-everyone-satya-nadella/6439128",
           "dateStarted": null,
@@ -4833,19 +5664,31 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 8,
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 333,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 10,
           "title": "Perseopolis Rising",
           "subTitle": "",
           "fullTitle": "Perseopolis Rising",
@@ -4873,15 +5716,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 10,
+            "name": "The Expanse",
+            "colorCode": "rgb(105, 109, 8)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 332,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 10,
           "title": "Strange Dogs",
           "subTitle": "",
           "fullTitle": "Strange Dogs",
@@ -4909,14 +5768,30 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 10,
+            "name": "The Expanse",
+            "colorCode": "rgb(105, 109, 8)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 331,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Shooting Ghosts",
           "subTitle": "",
@@ -4941,13 +5816,30 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 4,
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            },
+            {
+              "bookGenreId": 7,
+              "name": "Politics",
+              "colorCode": "rgb(130, 40, 40)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         }
       ]
     },
@@ -4957,7 +5849,7 @@
         {
           "bookId": 330,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Peddling Protectionism",
           "subTitle": "",
@@ -4982,18 +5874,40 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 8,
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            },
+            {
+              "bookGenreId": 7,
+              "name": "Politics",
+              "colorCode": "rgb(130, 40, 40)"
+            },
+            {
+              "bookGenreId": 4,
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 329,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Soonish",
           "subTitle": "",
@@ -5018,18 +5932,30 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 6,
+              "name": "Science",
+              "colorCode": "rgb(24, 90, 80)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 1,
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
         },
         {
           "bookId": 328,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "An Astronaut\u2019s Guid to Life on Earth",
           "subTitle": "",
@@ -5054,18 +5980,35 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 14,
+              "name": "Biography / Memoir",
+              "colorCode": "rgb(68, 0, 214)"
+            },
+            {
+              "bookGenreId": 9,
+              "name": "Self Help",
+              "colorCode": "rgb(75, 61, 190)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 327,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Arm",
           "subTitle": "",
@@ -5090,13 +6033,25 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 13,
+              "name": "Sports",
+              "colorCode": "rgb(0, 80, 20)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 326,
@@ -5131,8 +6086,20 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 325,
@@ -5167,17 +6134,29 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 324,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Trouble with Reality",
-          "subTitle": "",
-          "fullTitle": "The Trouble with Reality",
+          "subTitle": "A Rumination On Moral Panic In Our Time",
+          "fullTitle": "The Trouble with Reality: A Rumination On Moral Panic In Our Time",
           "author": "Brooke Gladstone",
           "link": "https://bookshop.org/p/books/the-trouble-with-reality-a-rumination-on-moral-panic-in-our-time-brooke-gladstone/6790873",
           "dateStarted": null,
@@ -5198,19 +6177,36 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 7,
+              "name": "Politics",
+              "colorCode": "rgb(130, 40, 40)"
+            },
+            {
+              "bookGenreId": 4,
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 323,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 10,
           "title": "Babylon\u2019s Ashes",
           "subTitle": "",
           "fullTitle": "Babylon\u2019s Ashes",
@@ -5238,15 +6234,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 10,
+            "name": "The Expanse",
+            "colorCode": "rgb(105, 109, 8)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 322,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 10,
           "title": "The Vital Abyss",
           "subTitle": "",
           "fullTitle": "The Vital Abyss",
@@ -5274,15 +6286,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 10,
+            "name": "The Expanse",
+            "colorCode": "rgb(105, 109, 8)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 321,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 10,
           "title": "Nemesis Games",
           "subTitle": "",
           "fullTitle": "Nemesis Games",
@@ -5310,15 +6338,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 10,
+            "name": "The Expanse",
+            "colorCode": "rgb(105, 109, 8)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 320,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 10,
           "title": "Cibola Burn",
           "subTitle": "",
           "fullTitle": "Cibola Burn",
@@ -5346,15 +6390,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 10,
+            "name": "The Expanse",
+            "colorCode": "rgb(105, 109, 8)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 319,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 10,
           "title": "The Churn",
           "subTitle": "",
           "fullTitle": "The Churn",
@@ -5382,15 +6442,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 10,
+            "name": "The Expanse",
+            "colorCode": "rgb(105, 109, 8)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 318,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 10,
           "title": "Abaddon\u2019s Gate",
           "subTitle": "",
           "fullTitle": "Abaddon\u2019s Gate",
@@ -5418,9 +6494,25 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 10,
+            "name": "The Expanse",
+            "colorCode": "rgb(105, 109, 8)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         }
       ]
     },
@@ -5431,7 +6523,7 @@
           "bookId": 317,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 10,
           "title": "Gods of Risk",
           "subTitle": "",
           "fullTitle": "Gods of Risk",
@@ -5459,15 +6551,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 10,
+            "name": "The Expanse",
+            "colorCode": "rgb(105, 109, 8)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 316,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 10,
           "title": "Caliban\u2019s War",
           "subTitle": "",
           "fullTitle": "Caliban\u2019s War",
@@ -5495,15 +6603,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 10,
+            "name": "The Expanse",
+            "colorCode": "rgb(105, 109, 8)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 315,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 10,
           "title": "Butcher of Anderson Station",
           "subTitle": "",
           "fullTitle": "Butcher of Anderson Station",
@@ -5531,15 +6655,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 10,
+            "name": "The Expanse",
+            "colorCode": "rgb(105, 109, 8)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 314,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 10,
           "title": "Leviathan Wakes",
           "subTitle": "",
           "fullTitle": "Leviathan Wakes",
@@ -5567,18 +6707,34 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 10,
+            "name": "The Expanse",
+            "colorCode": "rgb(105, 109, 8)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 313,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Only Rule is it Has to Work",
-          "subTitle": "",
-          "fullTitle": "The Only Rule is it Has to Work",
+          "subTitle": "Our Wild Experiment Building a New Kind of Baseball Team",
+          "fullTitle": "The Only Rule is it Has to Work: Our Wild Experiment Building a New Kind of Baseball Team",
           "author": "Ben Lindbergh \u0026 Sam Miller",
           "link": "https://bookshop.org/p/books/the-only-rule-is-it-has-to-work-our-wild-experiment-building-a-new-kind-of-baseball-team-includes-a-new-afterword-sam-miller/230464",
           "dateStarted": null,
@@ -5599,19 +6755,31 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 13,
+              "name": "Sports",
+              "colorCode": "rgb(0, 80, 20)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 312,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 14,
           "title": "Disillusioned",
           "subTitle": "",
           "fullTitle": "Disillusioned",
@@ -5639,15 +6807,36 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 14,
+            "name": "Dis",
+            "colorCode": "rgb(167, 100, 100)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 11,
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            },
+            {
+              "bookGenreId": 10,
+              "name": "Humor",
+              "colorCode": "rgb(126, 1, 123)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 311,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 14,
           "title": "Distopia",
           "subTitle": "",
           "fullTitle": "Distopia",
@@ -5675,9 +6864,30 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 14,
+            "name": "Dis",
+            "colorCode": "rgb(167, 100, 100)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 11,
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            },
+            {
+              "bookGenreId": 10,
+              "name": "Humor",
+              "colorCode": "rgb(126, 1, 123)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 310,
@@ -5712,8 +6922,25 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            },
+            {
+              "bookGenreId": 2,
+              "name": "Thriller",
+              "colorCode": "rgb(54, 31, 112)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         }
       ]
     },
@@ -5753,8 +6980,30 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 3,
+              "name": "Horror",
+              "colorCode": "rgb(146, 4, 4)"
+            },
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            },
+            {
+              "bookGenreId": 2,
+              "name": "Thriller",
+              "colorCode": "rgb(54, 31, 112)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 308,
@@ -5789,13 +7038,35 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 3,
+              "name": "Horror",
+              "colorCode": "rgb(146, 4, 4)"
+            },
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            },
+            {
+              "bookGenreId": 2,
+              "name": "Thriller",
+              "colorCode": "rgb(54, 31, 112)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 307,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Bonobo and the Athiest",
           "subTitle": "",
@@ -5820,13 +7091,30 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 12,
+              "name": "Philosophy",
+              "colorCode": "rgb(9, 58, 78)"
+            },
+            {
+              "bookGenreId": 6,
+              "name": "Science",
+              "colorCode": "rgb(24, 90, 80)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 306,
@@ -5861,8 +7149,20 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         }
       ]
     },
@@ -5872,7 +7172,7 @@
         {
           "bookId": 305,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Pale Blue Dot",
           "subTitle": "",
@@ -5897,13 +7197,25 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 6,
+              "name": "Science",
+              "colorCode": "rgb(24, 90, 80)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 304,
@@ -5938,14 +7250,26 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 303,
           "bookStatusId": 3,
-          "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookTypeId": 2,
+          "bookSeriesId": 15,
           "title": "Think Like a Freak",
           "subTitle": "",
           "fullTitle": "Think Like a Freak",
@@ -5969,19 +7293,45 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 15,
+            "name": "Freakonomics",
+            "colorCode": "rgb(155, 150, 52)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 8,
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            },
+            {
+              "bookGenreId": 6,
+              "name": "Science",
+              "colorCode": "rgb(24, 90, 80)"
+            },
+            {
+              "bookGenreId": 12,
+              "name": "Philosophy",
+              "colorCode": "rgb(9, 58, 78)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 302,
           "bookStatusId": 3,
-          "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookTypeId": 2,
+          "bookSeriesId": 15,
           "title": "Superfreakonomics",
           "subTitle": "",
           "fullTitle": "Superfreakonomics",
@@ -6005,19 +7355,45 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 15,
+            "name": "Freakonomics",
+            "colorCode": "rgb(155, 150, 52)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 8,
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            },
+            {
+              "bookGenreId": 6,
+              "name": "Science",
+              "colorCode": "rgb(24, 90, 80)"
+            },
+            {
+              "bookGenreId": 12,
+              "name": "Philosophy",
+              "colorCode": "rgb(9, 58, 78)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 301,
           "bookStatusId": 3,
-          "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookTypeId": 2,
+          "bookSeriesId": 15,
           "title": "Freakonomics",
           "subTitle": "",
           "fullTitle": "Freakonomics",
@@ -6041,18 +7417,44 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 15,
+            "name": "Freakonomics",
+            "colorCode": "rgb(155, 150, 52)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 6,
+              "name": "Science",
+              "colorCode": "rgb(24, 90, 80)"
+            },
+            {
+              "bookGenreId": 8,
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            },
+            {
+              "bookGenreId": 12,
+              "name": "Philosophy",
+              "colorCode": "rgb(9, 58, 78)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 300,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Letter to a Christian Nation",
           "subTitle": "",
@@ -6077,22 +7479,34 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 12,
+              "name": "Philosophy",
+              "colorCode": "rgb(9, 58, 78)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 299,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Because I Said So!",
-          "subTitle": "",
-          "fullTitle": "Because I Said So!",
+          "subTitle": "The Truth Behind the Myths, Tales, and Warnings Every Generation Passes Down to Its Kids",
+          "fullTitle": "Because I Said So!: The Truth Behind the Myths, Tales, and Warnings Every Generation Passes Down to Its Kids",
           "author": "Ken Jennings",
           "link": "https://bookshop.org/p/books/because-i-said-so-the-truth-behind-the-myths-tales-and-warnings-every-generation-passes-down-to-its-kids-ken-jennings/10340479",
           "dateStarted": null,
@@ -6113,13 +7527,25 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 6,
+              "name": "Science",
+              "colorCode": "rgb(24, 90, 80)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 298,
@@ -6154,8 +7580,20 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 297,
@@ -6190,14 +7628,26 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 296,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 8,
           "title": "Pebble in the Sky",
           "subTitle": "",
           "fullTitle": "Pebble in the Sky",
@@ -6225,15 +7675,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 8,
+            "name": "Empire Series",
+            "colorCode": "rgb(157, 15, 231)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 295,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 8,
           "title": "The Currents of Space",
           "subTitle": "",
           "fullTitle": "The Currents of Space",
@@ -6261,15 +7727,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 8,
+            "name": "Empire Series",
+            "colorCode": "rgb(157, 15, 231)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 294,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 8,
           "title": "The Stars, Like Dust",
           "subTitle": "",
           "fullTitle": "The Stars, Like Dust",
@@ -6297,15 +7779,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 8,
+            "name": "Empire Series",
+            "colorCode": "rgb(157, 15, 231)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 293,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 7,
           "title": "Robots and Empire",
           "subTitle": "",
           "fullTitle": "Robots and Empire",
@@ -6333,15 +7831,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 7,
+            "name": "Robot Series",
+            "colorCode": "rgb(100, 100, 100)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 2,
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
         },
         {
           "bookId": 292,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 7,
           "title": "I, Robot",
           "subTitle": "",
           "fullTitle": "I, Robot",
@@ -6369,9 +7883,25 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 7,
+            "name": "Robot Series",
+            "colorCode": "rgb(100, 100, 100)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 291,
@@ -6406,8 +7936,20 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 290,
@@ -6442,8 +7984,20 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 289,
@@ -6478,8 +8032,25 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            },
+            {
+              "bookGenreId": 11,
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 288,
@@ -6514,8 +8085,25 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 11,
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            },
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 287,
@@ -6550,13 +8138,30 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 11,
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            },
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 286,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Cooked",
           "subTitle": "",
@@ -6581,19 +8186,36 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 15,
+              "name": "Food",
+              "colorCode": "rgb(92, 66, 0)"
+            },
+            {
+              "bookGenreId": 6,
+              "name": "Science",
+              "colorCode": "rgb(24, 90, 80)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 285,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 3,
           "title": "Mercury Revolts",
           "subTitle": "",
           "fullTitle": "Mercury Revolts",
@@ -6621,9 +8243,35 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 3,
+            "name": "Mercury",
+            "colorCode": "rgb(0, 61, 94)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            },
+            {
+              "bookGenreId": 10,
+              "name": "Humor",
+              "colorCode": "rgb(126, 1, 123)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            },
+            {
+              "bookFormatId": 2,
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
         },
         {
           "bookId": 284,
@@ -6658,14 +8306,26 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 283,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 14,
           "title": "Disenchanted",
           "subTitle": "",
           "fullTitle": "Disenchanted",
@@ -6693,14 +8353,35 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 14,
+            "name": "Dis",
+            "colorCode": "rgb(167, 100, 100)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 11,
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            },
+            {
+              "bookGenreId": 10,
+              "name": "Humor",
+              "colorCode": "rgb(126, 1, 123)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 282,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Wherever I Wind Up",
           "subTitle": "",
@@ -6725,18 +8406,35 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 14,
+              "name": "Biography / Memoir",
+              "colorCode": "rgb(68, 0, 214)"
+            },
+            {
+              "bookGenreId": 13,
+              "name": "Sports",
+              "colorCode": "rgb(0, 80, 20)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 281,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Mortaility",
           "subTitle": "",
@@ -6761,19 +8459,31 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 12,
+              "name": "Philosophy",
+              "colorCode": "rgb(9, 58, 78)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 280,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 11,
           "title": "The Dark Tower",
           "subTitle": "",
           "fullTitle": "The Dark Tower",
@@ -6801,15 +8511,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 11,
+            "name": "Dark Tower",
+            "colorCode": "rgb(33, 33, 33)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 279,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 11,
           "title": "Song of Susannah",
           "subTitle": "",
           "fullTitle": "Song of Susannah",
@@ -6837,15 +8563,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 11,
+            "name": "Dark Tower",
+            "colorCode": "rgb(33, 33, 33)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 278,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 11,
           "title": "Wolves of the Calla",
           "subTitle": "",
           "fullTitle": "Wolves of the Calla",
@@ -6873,9 +8615,25 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 11,
+            "name": "Dark Tower",
+            "colorCode": "rgb(33, 33, 33)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         }
       ]
     },
@@ -6886,7 +8644,7 @@
           "bookId": 277,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 11,
           "title": "The Wind Through the Keyhole",
           "subTitle": "",
           "fullTitle": "The Wind Through the Keyhole",
@@ -6914,15 +8672,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 11,
+            "name": "Dark Tower",
+            "colorCode": "rgb(33, 33, 33)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 276,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 11,
           "title": "Wizard and Glass",
           "subTitle": "",
           "fullTitle": "Wizard and Glass",
@@ -6950,15 +8724,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 11,
+            "name": "Dark Tower",
+            "colorCode": "rgb(33, 33, 33)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 275,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 11,
           "title": "The Waste Lands",
           "subTitle": "",
           "fullTitle": "The Waste Lands",
@@ -6986,15 +8776,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 11,
+            "name": "Dark Tower",
+            "colorCode": "rgb(33, 33, 33)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 274,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 11,
           "title": "The Drawing of the Three",
           "subTitle": "",
           "fullTitle": "The Drawing of the Three",
@@ -7022,15 +8828,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 11,
+            "name": "Dark Tower",
+            "colorCode": "rgb(33, 33, 33)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 273,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 11,
           "title": "The Gunslinger",
           "subTitle": "",
           "fullTitle": "The Gunslinger",
@@ -7058,15 +8880,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 11,
+            "name": "Dark Tower",
+            "colorCode": "rgb(33, 33, 33)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 272,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 12,
           "title": "The Human Division",
           "subTitle": "",
           "fullTitle": "The Human Division",
@@ -7094,15 +8932,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 12,
+            "name": "Old Man\u0027s War",
+            "colorCode": "rgb(3, 93, 88)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 271,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 12,
           "title": "Zoe\u2019s Tale",
           "subTitle": "",
           "fullTitle": "Zoe\u2019s Tale",
@@ -7130,15 +8984,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 12,
+            "name": "Old Man\u0027s War",
+            "colorCode": "rgb(3, 93, 88)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 270,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 12,
           "title": "The Last Colony",
           "subTitle": "",
           "fullTitle": "The Last Colony",
@@ -7166,15 +9036,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 12,
+            "name": "Old Man\u0027s War",
+            "colorCode": "rgb(3, 93, 88)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 269,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 12,
           "title": "The Ghost Brigades",
           "subTitle": "",
           "fullTitle": "The Ghost Brigades",
@@ -7202,15 +9088,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 12,
+            "name": "Old Man\u0027s War",
+            "colorCode": "rgb(3, 93, 88)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 268,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 12,
           "title": "Old Man\u2019s War",
           "subTitle": "",
           "fullTitle": "Old Man\u2019s War",
@@ -7238,14 +9140,30 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 12,
+            "name": "Old Man\u0027s War",
+            "colorCode": "rgb(3, 93, 88)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 267,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Just a Geek",
           "subTitle": "",
@@ -7270,13 +9188,25 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 14,
+              "name": "Biography / Memoir",
+              "colorCode": "rgb(68, 0, 214)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 266,
@@ -7311,8 +9241,20 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 265,
@@ -7347,8 +9289,25 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            },
+            {
+              "bookGenreId": 11,
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 264,
@@ -7383,13 +9342,30 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 3,
+              "name": "Horror",
+              "colorCode": "rgb(146, 4, 4)"
+            },
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 263,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Rise and Fall of the Third Reich",
           "subTitle": "",
@@ -7414,19 +9390,31 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 4,
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 262,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 13,
           "title": "Company Men",
           "subTitle": "",
           "fullTitle": "Company Men",
@@ -7454,15 +9442,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 13,
+            "name": "Diaspora Trilogy",
+            "colorCode": "rgb(29, 180, 95)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 261,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 13,
           "title": "Missing Signals",
           "subTitle": "",
           "fullTitle": "Missing Signals",
@@ -7490,15 +9494,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 13,
+            "name": "Diaspora Trilogy",
+            "colorCode": "rgb(29, 180, 95)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 260,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 13,
           "title": "John Gone",
           "subTitle": "",
           "fullTitle": "John Gone",
@@ -7526,9 +9546,25 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 13,
+            "name": "Diaspora Trilogy",
+            "colorCode": "rgb(29, 180, 95)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 259,
@@ -7563,13 +9599,25 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 258,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Lying",
           "subTitle": "",
@@ -7594,13 +9642,25 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 12,
+              "name": "Philosophy",
+              "colorCode": "rgb(9, 58, 78)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         }
       ]
     },
@@ -7640,8 +9700,20 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 256,
@@ -7676,14 +9748,26 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 255,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 3,
           "title": "Mercury Rests",
           "subTitle": "",
           "fullTitle": "Mercury Rests",
@@ -7711,15 +9795,41 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 3,
+            "name": "Mercury",
+            "colorCode": "rgb(0, 61, 94)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 10,
+              "name": "Humor",
+              "colorCode": "rgb(126, 1, 123)"
+            },
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            },
+            {
+              "bookFormatId": 2,
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
         },
         {
           "bookId": 254,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 7,
           "title": "The Robots of Dawn",
           "subTitle": "",
           "fullTitle": "The Robots of Dawn",
@@ -7747,15 +9857,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 7,
+            "name": "Robot Series",
+            "colorCode": "rgb(100, 100, 100)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 253,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 7,
           "title": "The Naked Sun",
           "subTitle": "",
           "fullTitle": "The Naked Sun",
@@ -7783,15 +9909,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 7,
+            "name": "Robot Series",
+            "colorCode": "rgb(100, 100, 100)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 252,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 7,
           "title": "The Caves of Steel",
           "subTitle": "",
           "fullTitle": "The Caves of Steel",
@@ -7819,9 +9961,25 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 7,
+            "name": "Robot Series",
+            "colorCode": "rgb(100, 100, 100)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 251,
@@ -7856,14 +10014,26 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 250,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 4,
           "title": "The Silmarillion",
           "subTitle": "",
           "fullTitle": "The Silmarillion",
@@ -7891,15 +10061,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 4,
+            "name": "Tolkien",
+            "colorCode": "rgb(215, 0, 0)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 11,
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 249,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 4,
           "title": "The Hobbit",
           "subTitle": "",
           "fullTitle": "The Hobbit",
@@ -7927,14 +10113,30 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 4,
+            "name": "Tolkien",
+            "colorCode": "rgb(215, 0, 0)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 11,
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 248,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Lost Moon",
           "subTitle": "",
@@ -7959,13 +10161,25 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 4,
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 2,
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
         },
         {
           "bookId": 247,
@@ -8000,14 +10214,26 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 246,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 9,
           "title": "Foundation and Earth",
           "subTitle": "",
           "fullTitle": "Foundation and Earth",
@@ -8035,15 +10261,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 9,
+            "name": "Foundation Series",
+            "colorCode": "rgb(0, 97, 69)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 245,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 9,
           "title": "Foundation\u2019s Edge",
           "subTitle": "",
           "fullTitle": "Foundation\u2019s Edge",
@@ -8071,15 +10313,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 9,
+            "name": "Foundation Series",
+            "colorCode": "rgb(0, 97, 69)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 244,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 9,
           "title": "Forward the Foundation",
           "subTitle": "",
           "fullTitle": "Forward the Foundation",
@@ -8107,15 +10365,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 9,
+            "name": "Foundation Series",
+            "colorCode": "rgb(0, 97, 69)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 243,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 9,
           "title": "Prelude to Foundation",
           "subTitle": "",
           "fullTitle": "Prelude to Foundation",
@@ -8143,15 +10417,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 9,
+            "name": "Foundation Series",
+            "colorCode": "rgb(0, 97, 69)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 242,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 9,
           "title": "Second Foundation",
           "subTitle": "",
           "fullTitle": "Second Foundation",
@@ -8179,15 +10469,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 9,
+            "name": "Foundation Series",
+            "colorCode": "rgb(0, 97, 69)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 241,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 9,
           "title": "Foundation and Empire",
           "subTitle": "",
           "fullTitle": "Foundation and Empire",
@@ -8215,15 +10521,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 9,
+            "name": "Foundation Series",
+            "colorCode": "rgb(0, 97, 69)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 240,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 9,
           "title": "Foundation",
           "subTitle": "",
           "fullTitle": "Foundation",
@@ -8251,9 +10573,25 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 9,
+            "name": "Foundation Series",
+            "colorCode": "rgb(0, 97, 69)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 239,
@@ -8288,13 +10626,25 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 238,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "Drift",
           "subTitle": "",
@@ -8319,19 +10669,36 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 4,
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            },
+            {
+              "bookGenreId": 7,
+              "name": "Politics",
+              "colorCode": "rgb(130, 40, 40)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 237,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 6,
           "title": "A Dance with Dragons",
           "subTitle": "",
           "fullTitle": "A Dance with Dragons",
@@ -8359,15 +10726,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 6,
+            "name": "A Song of Ice \u0026 Fire",
+            "colorCode": "rgb(0, 114, 145)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 11,
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 236,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 6,
           "title": "A Feast for Crows",
           "subTitle": "",
           "fullTitle": "A Feast for Crows",
@@ -8395,15 +10778,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 6,
+            "name": "A Song of Ice \u0026 Fire",
+            "colorCode": "rgb(0, 114, 145)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 11,
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 235,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 6,
           "title": "A Storm of Swords",
           "subTitle": "",
           "fullTitle": "A Storm of Swords",
@@ -8431,15 +10830,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 6,
+            "name": "A Song of Ice \u0026 Fire",
+            "colorCode": "rgb(0, 114, 145)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 11,
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 234,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 6,
           "title": "A Clash of Kings",
           "subTitle": "",
           "fullTitle": "A Clash of Kings",
@@ -8467,9 +10882,25 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 6,
+            "name": "A Song of Ice \u0026 Fire",
+            "colorCode": "rgb(0, 114, 145)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 11,
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         }
       ]
     },
@@ -8480,7 +10911,7 @@
           "bookId": 233,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 6,
           "title": "A Game of Thrones",
           "subTitle": "",
           "fullTitle": "A Game of Thrones",
@@ -8508,14 +10939,30 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 6,
+            "name": "A Song of Ice \u0026 Fire",
+            "colorCode": "rgb(0, 114, 145)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 11,
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 232,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "God is Not Great",
           "subTitle": "",
@@ -8540,18 +10987,30 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 12,
+              "name": "Philosophy",
+              "colorCode": "rgb(9, 58, 78)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 231,
           "bookStatusId": 3,
-          "bookTypeId": 1,
+          "bookTypeId": 2,
           "bookSeriesId": null,
           "title": "The Moral Landscape",
           "subTitle": "",
@@ -8576,19 +11035,31 @@
             "colorCode": "#0e6532"
           },
           "type": {
-            "bookTypeId": 1,
-            "name": "Fiction",
-            "colorCode": "#1d3c8c"
+            "bookTypeId": 2,
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 12,
+              "name": "Philosophy",
+              "colorCode": "rgb(9, 58, 78)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 230,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 5,
           "title": "Mostly Harmless",
           "subTitle": "",
           "fullTitle": "Mostly Harmless",
@@ -8616,15 +11087,41 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 5,
+            "name": "Hitchhiker\u0027s Guide",
+            "colorCode": "rgb(246, 87, 0)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 10,
+              "name": "Humor",
+              "colorCode": "rgb(126, 1, 123)"
+            },
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 1,
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            },
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 229,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 5,
           "title": "So Long, and Thanks for all the Fish",
           "subTitle": "",
           "fullTitle": "So Long, and Thanks for all the Fish",
@@ -8652,15 +11149,41 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 5,
+            "name": "Hitchhiker\u0027s Guide",
+            "colorCode": "rgb(246, 87, 0)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            },
+            {
+              "bookGenreId": 10,
+              "name": "Humor",
+              "colorCode": "rgb(126, 1, 123)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 1,
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            },
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 228,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 5,
           "title": "Life, the Universe and Everything",
           "subTitle": "",
           "fullTitle": "Life, the Universe and Everything",
@@ -8688,15 +11211,41 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 5,
+            "name": "Hitchhiker\u0027s Guide",
+            "colorCode": "rgb(246, 87, 0)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 10,
+              "name": "Humor",
+              "colorCode": "rgb(126, 1, 123)"
+            },
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 1,
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            },
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 227,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 5,
           "title": "The Restaurant at the End of the Universe",
           "subTitle": "",
           "fullTitle": "The Restaurant at the End of the Universe",
@@ -8724,15 +11273,41 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 5,
+            "name": "Hitchhiker\u0027s Guide",
+            "colorCode": "rgb(246, 87, 0)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 3,
+              "name": "Horror",
+              "colorCode": "rgb(146, 4, 4)"
+            },
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            },
+            {
+              "bookFormatId": 1,
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
         },
         {
           "bookId": 226,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 5,
           "title": "The Hitchhiker\u2019s Guide to the Galaxy",
           "subTitle": "",
           "fullTitle": "The Hitchhiker\u2019s Guide to the Galaxy",
@@ -8760,9 +11335,35 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 5,
+            "name": "Hitchhiker\u0027s Guide",
+            "colorCode": "rgb(246, 87, 0)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 10,
+              "name": "Humor",
+              "colorCode": "rgb(126, 1, 123)"
+            },
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            },
+            {
+              "bookFormatId": 1,
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
         },
         {
           "bookId": 225,
@@ -8797,14 +11398,26 @@
             "colorCode": "#1d3c8c"
           },
           "series": null,
-          "genres": [],
-          "formats": []
+          "genres": [
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 224,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 4,
           "title": "The Return of the King",
           "subTitle": "",
           "fullTitle": "The Return of the King",
@@ -8832,15 +11445,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 4,
+            "name": "Tolkien",
+            "colorCode": "rgb(215, 0, 0)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 11,
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 223,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 4,
           "title": "The Two Towers",
           "subTitle": "",
           "fullTitle": "The Two Towers",
@@ -8868,15 +11497,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 4,
+            "name": "Tolkien",
+            "colorCode": "rgb(215, 0, 0)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 11,
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 222,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 4,
           "title": "The Fellowship of the Ring",
           "subTitle": "",
           "fullTitle": "The Fellowship of the Ring",
@@ -8904,15 +11549,31 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 4,
+            "name": "Tolkien",
+            "colorCode": "rgb(215, 0, 0)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 11,
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 221,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 3,
           "title": "Mercury Rises",
           "subTitle": "",
           "fullTitle": "Mercury Rises",
@@ -8940,15 +11601,41 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 3,
+            "name": "Mercury",
+            "colorCode": "rgb(0, 61, 94)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 10,
+              "name": "Humor",
+              "colorCode": "rgb(126, 1, 123)"
+            },
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            },
+            {
+              "bookFormatId": 2,
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
         },
         {
           "bookId": 220,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 3,
           "title": "Mercury Swings",
           "subTitle": "",
           "fullTitle": "Mercury Swings",
@@ -8976,15 +11663,36 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 3,
+            "name": "Mercury",
+            "colorCode": "rgb(0, 61, 94)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 10,
+              "name": "Humor",
+              "colorCode": "rgb(126, 1, 123)"
+            },
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
         },
         {
           "bookId": 219,
           "bookStatusId": 3,
           "bookTypeId": 1,
-          "bookSeriesId": null,
+          "bookSeriesId": 3,
           "title": "Mercury Falls",
           "subTitle": "",
           "fullTitle": "Mercury Falls",
@@ -9012,9 +11720,35 @@
             "name": "Fiction",
             "colorCode": "#1d3c8c"
           },
-          "series": null,
-          "genres": [],
-          "formats": []
+          "series": {
+            "bookSeriesId": 3,
+            "name": "Mercury",
+            "colorCode": "rgb(0, 61, 94)"
+          },
+          "genres": [
+            {
+              "bookGenreId": 10,
+              "name": "Humor",
+              "colorCode": "rgb(126, 1, 123)"
+            },
+            {
+              "bookGenreId": 1,
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "bookFormatId": 3,
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            },
+            {
+              "bookFormatId": 2,
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
         }
       ]
     }
@@ -9051,42 +11785,6 @@
         "bookTypeId": 2,
         "name": "Non-Fiction",
         "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
-      "bookId": 133,
-      "bookStatusId": 1,
-      "bookTypeId": 1,
-      "bookSeriesId": null,
-      "title": "The Firm",
-      "subTitle": "",
-      "fullTitle": "The Firm",
-      "author": "John Grisham",
-      "link": "https://bookshop.org/p/books/the-firm-john-grisham/7309328?ean=9780385319058",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "percentComplete": 0,
-      "sortOrder": 71,
-      "status": {
-        "bookStatusId": 1,
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "bookTypeId": 1,
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
       },
       "series": null,
       "genres": [],
@@ -18391,6 +21089,273 @@
           "colorCode": "#cd6a29"
         }
       ]
+    },
+    {
+      "bookId": 508,
+      "bookStatusId": 1,
+      "bookTypeId": 2,
+      "bookSeriesId": null,
+      "title": "Freedom\u0027s Laboratory",
+      "subTitle": "The Cold War Struggle for the Soul of Science",
+      "fullTitle": "Freedom\u0027s Laboratory: The Cold War Struggle for the Soul of Science",
+      "author": "Audra J Wolfe",
+      "link": "https://bookshop.org/p/books/freedom-s-laboratory-the-cold-war-struggle-for-the-soul-of-science-audra-j-wolfe/10363874?ean=9781421426730",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 0,
+      "percentComplete": 0,
+      "sortOrder": 2700,
+      "status": {
+        "bookStatusId": 1,
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "bookTypeId": 2,
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "bookGenreId": 4,
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        },
+        {
+          "bookGenreId": 6,
+          "name": "Science",
+          "colorCode": "rgb(24, 90, 80)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 509,
+      "bookStatusId": 1,
+      "bookTypeId": 2,
+      "bookSeriesId": null,
+      "title": "Overthrow",
+      "subTitle": "America\u0027s Century of Regime Change from Hawaii to Iraq",
+      "fullTitle": "Overthrow: America\u0027s Century of Regime Change from Hawaii to Iraq",
+      "author": "Stephen Kinzer",
+      "link": "https://bookshop.org/p/books/overthrow-america-s-century-of-regime-change-from-hawaii-to-iraq-stephen-kinzer/7901847?ean=9780805082401",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 0,
+      "percentComplete": 0,
+      "sortOrder": 2710,
+      "status": {
+        "bookStatusId": 1,
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "bookTypeId": 2,
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "bookGenreId": 4,
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        },
+        {
+          "bookGenreId": 7,
+          "name": "Politics",
+          "colorCode": "rgb(130, 40, 40)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 510,
+      "bookStatusId": 1,
+      "bookTypeId": 2,
+      "bookSeriesId": null,
+      "title": "Legacy of Ashes",
+      "subTitle": "The History of the CIA",
+      "fullTitle": "Legacy of Ashes: The History of the CIA",
+      "author": "Tim Weiner",
+      "link": "https://bookshop.org/p/books/legacy-of-ashes-the-history-of-the-cia-tim-weiner/8582123?ean=9780307389008",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 0,
+      "percentComplete": 0,
+      "sortOrder": 2720,
+      "status": {
+        "bookStatusId": 1,
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "bookTypeId": 2,
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "bookGenreId": 4,
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 511,
+      "bookStatusId": 1,
+      "bookTypeId": 2,
+      "bookSeriesId": null,
+      "title": "Atoms and Ashes",
+      "subTitle": "A Global History of Nuclear Disasters",
+      "fullTitle": "Atoms and Ashes: A Global History of Nuclear Disasters",
+      "author": "Serhii Plokhy",
+      "link": "https://bookshop.org/p/books/atoms-and-ashes-a-global-history-of-nuclear-disasters-serhii-plokhy/18744898?ean=9781324064558",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 0,
+      "percentComplete": 0,
+      "sortOrder": 2730,
+      "status": {
+        "bookStatusId": 1,
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "bookTypeId": 2,
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "bookGenreId": 4,
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 512,
+      "bookStatusId": 1,
+      "bookTypeId": 2,
+      "bookSeriesId": null,
+      "title": "Reset",
+      "subTitle": "Iran, Turkey, and America\u0027s Future",
+      "fullTitle": "Reset: Iran, Turkey, and America\u0027s Future",
+      "author": "Stephen Kinzer",
+      "link": "https://bookshop.org/p/books/reset-iran-turkey-and-america-s-future-stephen-kinzer/16650353?ean=9780312573416",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 0,
+      "percentComplete": 0,
+      "sortOrder": 2740,
+      "status": {
+        "bookStatusId": 1,
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "bookTypeId": 2,
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "bookGenreId": 4,
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        },
+        {
+          "bookGenreId": 7,
+          "name": "Politics",
+          "colorCode": "rgb(130, 40, 40)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 513,
+      "bookStatusId": 1,
+      "bookTypeId": 2,
+      "bookSeriesId": null,
+      "title": "Brothers",
+      "subTitle": "John Foster Dulles, Allen Dulles, and Their Secret Worl",
+      "fullTitle": "Brothers: John Foster Dulles, Allen Dulles, and Their Secret Worl",
+      "author": "Stephen Kinzer",
+      "link": "https://bookshop.org/p/books/the-brothers-john-foster-dulles-allen-dulles-and-their-secret-world-war-stephen-kinzer/15557253?ean=9781250053121",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 0,
+      "percentComplete": 0,
+      "sortOrder": 2750,
+      "status": {
+        "bookStatusId": 1,
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "bookTypeId": 2,
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "bookGenreId": 4,
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        }
+      ],
+      "formats": []
     }
   ]
 }

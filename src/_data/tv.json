@@ -1327,37 +1327,6 @@
           "colorCode": "rgb(88, 88, 88)"
         }
       ]
-    },
-    {
-      "televisionShowId": 100,
-      "televisionStatusId": 3,
-      "title": "Turning Point: The Bomb and the Cold War",
-      "imdbLink": "https://www.imdb.com/title/tt26227818/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/MpRmKYN6/turning-point.jpg",
-      "currentSeason": 1,
-      "numberOfSeasons": 1,
-      "sortOrder": null,
-      "status": {
-        "televisionStatusId": 3,
-        "name": "Watching",
-        "colorCode": "#005c78"
-      },
-      "genres": [
-        {
-          "televisionGenreId": 10,
-          "name": "Documentary",
-          "colorCode": "rgb(126, 13, 85)"
-        }
-      ],
-      "services": [
-        {
-          "televisionServiceId": 2,
-          "name": "Netflix",
-          "colorCode": "rgb(190, 4, 4)"
-        }
-      ]
     }
   ],
   "betweenSeasons": [
@@ -2308,6 +2277,37 @@
       },
       "genres": [],
       "services": []
+    },
+    {
+      "televisionShowId": 100,
+      "televisionStatusId": 5,
+      "title": "Turning Point: The Bomb and the Cold War",
+      "imdbLink": "https://www.imdb.com/title/tt26227818/",
+      "rating": 5,
+      "thoughts": "This was an incredibly interesting documentary about the Cold War, Nuclear Weapons, and the current state of the world with regards to Russia.",
+      "coverImageUrl": "https://i.postimg.cc/MpRmKYN6/turning-point.jpg",
+      "currentSeason": 1,
+      "numberOfSeasons": 1,
+      "sortOrder": null,
+      "status": {
+        "televisionStatusId": 5,
+        "name": "Watched",
+        "colorCode": "#343aa8"
+      },
+      "genres": [
+        {
+          "televisionGenreId": 10,
+          "name": "Documentary",
+          "colorCode": "rgb(126, 13, 85)"
+        }
+      ],
+      "services": [
+        {
+          "televisionServiceId": 2,
+          "name": "Netflix",
+          "colorCode": "rgb(190, 4, 4)"
+        }
+      ]
     }
   ],
   "abandoned": []

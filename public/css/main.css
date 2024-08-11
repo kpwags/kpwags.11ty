@@ -177,7 +177,7 @@ header nav ul {
     margin: 0;
     padding: 0;
     display: flex;
-    column-gap: 20px;
+    column-gap: 32px;
 }
 
 header nav ul li {
@@ -709,6 +709,48 @@ main.media-container {
     }
 }
 
+.filters {
+    margin-bottom: 32px;
+}
+
+.filters legend {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--primary-color-1);
+    margin-bottom: 8px;
+}
+
+.filters .filter-list {
+    display: flex;
+    column-gap: 16px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.filters .filter-list input {
+    display: none;
+}
+
+.filters .filter-list label {
+    border: 1px solid var(--primary-color-1);
+    border-radius: 10px;
+    padding: 4px 8px;
+    cursor: pointer;
+}
+
+.filters .filter-list label:has(input:checked) {
+    background-color: var(--primary-color-1);
+    color: var(--white-1);
+}
+
+.grid-section:has(.item[hidden]) {
+    display: none;
+}
+
+.grid-section:has(.item:not([hidden])) {
+    display: inherit;
+}
+
 dialog.thoughts-dialog {
     width: 600px;
     text-align: center;
@@ -795,6 +837,31 @@ dialog.thoughts-dialog .details .platform {
 }
 
 /* end media pages */
+
+/* Now Page */
+
+.site-card.now h2 {
+    margin-bottom: 24px;
+}
+
+.site-card.now h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.site-card.now .item {
+    margin-bottom: 24px;
+}
+
+.site-card.now .item:last-child {
+    margin-bottom: 0;
+}
+
+.site-card.now .item p:last-child {
+    margin-bottom: 0;
+}
+
+/* End Now Page */
 
 /* links */
 main.links {

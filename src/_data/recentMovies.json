@@ -1,0 +1,62 @@
+[
+  {
+    "movieId": 147,
+    "movieStatusId": 3,
+    "title": "Asteroid City",
+    "imdbLink": "https://www.imdb.com/title/tt14230388/",
+    "dateWatched": "2024-08-10T00:00:00",
+    "sortOrder": null,
+    "rating": 2,
+    "thoughts": "This was just weird. I guess I\u2019m not really surprised since it\u2019s a Wes Anderson film, but I really don\u2019t know what to make of it.",
+    "posterImageUrl": "https://i.postimg.cc/k5KJVJd1/asteroid-city.jpg",
+    "status": {
+      "movieStatusId": 3,
+      "name": "Watched",
+      "colorCode": "#2a9a39"
+    },
+    "genres": [
+      {
+        "movieGenreId": 5,
+        "name": "Comedy",
+        "colorCode": "#174b1f"
+      }
+    ],
+    "services": [
+      {
+        "movieServiceId": 7,
+        "name": "Amazon Prime",
+        "colorCode": "#215260"
+      }
+    ]
+  },
+  {
+    "movieId": 146,
+    "movieStatusId": 3,
+    "title": "The Many Saints of Newark",
+    "imdbLink": "https://www.imdb.com/title/tt8110232/",
+    "dateWatched": "2024-07-28T00:00:00",
+    "sortOrder": null,
+    "rating": 2,
+    "thoughts": "Not really sure I liked it\u2026felt disjointed and with some storylines just never finished or flushed out.",
+    "posterImageUrl": "https://i.postimg.cc/wx2sTN7K/many-saints-of-newark.jpg",
+    "status": {
+      "movieStatusId": 3,
+      "name": "Watched",
+      "colorCode": "#2a9a39"
+    },
+    "genres": [
+      {
+        "movieGenreId": 3,
+        "name": "Drama",
+        "colorCode": "#54286b"
+      }
+    ],
+    "services": [
+      {
+        "movieServiceId": 5,
+        "name": "HBO",
+        "colorCode": "#47155b"
+      }
+    ]
+  }
+]

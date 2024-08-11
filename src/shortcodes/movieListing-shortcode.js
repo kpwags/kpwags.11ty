@@ -2,11 +2,11 @@ import dayjs from 'dayjs';
 import starRating from './starRating-shortcode.js';
 
 const getThoughts = (movie) => {
-	if (movie.thoughts === null || movie.thoughts === '') {
-		return '';
-	}
+    if (movie.thoughts === null || movie.thoughts === '') {
+        return '';
+    }
 
-	return `
+    return `
 <div class="view-thoughts">
 	<button
 		class="toggle-thoughts"
@@ -18,15 +18,15 @@ const getThoughts = (movie) => {
 	<div class="thoughts hidden" id="thoughts-${movie.movieId}">${movie.thoughts}</div>
 </div>
 	`;
-}
+};
 
 const movieShortcode = (movie) => {
-	const dateWatched = movie.dateWatched ? `<div class="meta small">${dayjs(movie.dateWatched).format('MMMM D, YYYY')}</div>` : '';
+    const dateWatched = movie.dateWatched ? `<div class="meta small">${dayjs(movie.dateWatched).format('MMMM D, YYYY')}</div>` : '';
 
-	return `
+    return `
 <div class="item" data-movie-id="${movie.movieId}">
 	<div class="cover">
-		<img src="${movie.posterImageUrl}" alt="${movie.title}" class="cover" height="225" width="150" />
+		<img src="${movie.posterImageUrl}" alt="${movie.title}" height="225" width="150" />
 	</div>
 	<div class="info">
 		<a href="${movie.imdbLink}" target="_blank" rel="noreferrer">
@@ -35,7 +35,7 @@ const movieShortcode = (movie) => {
 
 		${dateWatched}
 
-		${starRating(movie.rating, "sm")}
+		${starRating(movie.rating, 'sm')}
 
 		${getThoughts(movie)}
 	</div>

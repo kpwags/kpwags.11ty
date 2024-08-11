@@ -1,23 +1,19 @@
-import dayjs from 'dayjs';
-import musicFetcher from '../lib/musicFetcher.js';
+import { readFile } from 'fs/promises';
 
 const now = () => {
-	return new Promise(async (resolve, reject) => {
-		try {
-			const musicData = await musicFetcher();
+    return new Promise(async (resolve, reject) => {
+        try {
+            const music = JSON.parse(await readFile(new URL('./music.json', import.meta.url)));
 
-			const oneMonthAgo = dayjs().subtract(30, 'day');
+            const currentData = {
+                music: music.filter((m) => m.showOnNowPage),
+            };
 
-			const currentData = {
-				music: musicData.filter((m) => m.showOnNow),
-				// movies: movieData.filter((m) => dayjs(m.dateWatched).isAfter(oneMonthAgo)),
-			};
-
-			resolve(currentData);
-		} catch (error) {
-			reject(error);
-		}
-	});
+            resolve(currentData);
+        } catch (error) {
+            reject(error);
+        }
+    });
 };
 
 export default now;
