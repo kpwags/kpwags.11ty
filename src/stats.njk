@@ -1,38 +1,69 @@
 ---
 layout: "layouts/layout.html"
 title: "Stats"
+eleventyImport: {
+  collections: [ 'post', 'readinglog' ]
+}
 ---
 
-<h1>Stats</h1>
+<main>
+	<h1>Stats</h1>
 
-<p>Some stats about my blog and what I post</p>
+	<p class="large">Some stats about my blog and what I post</p>
 
-{% set stats = collections.stats %}
+	{% set stats = collections.stats %}
 
-<section class="chart">
-	<h2>Posts Per Year</h2>
-	{% for year in stats.postsByYear %}
-		<div class="stats-chart">
-			<p class="bar-title"><a href="/archives/{{ year.year }}">{{ year.year }}</a><span class="mobile-stats">&nbsp;({{ year.count }})</span></p>
-			<div class="bar">
-				<div class="inner-bar" style="background-color: {{ year.color }}; width: {{ year.percentage }}%"></div>
+	<section class="site-card chart">
+		<h2>Overall Stats</h2>
+		<div class="stats-table">
+			<div class="stat-row">
+				<div class="stat-name">Total Posts</div>
+				<div class="stat-value">{{ stats.overall.totalPosts }}</div>
 			</div>
-			<p class="legend">{{ year.count }}</p>
-		</div>
-	{% endfor %}
-</section>
-
-<hr />
-
-<section class="chart">
-	<h2>Most Popular Tags</h2>
-	{% for tag in stats.popularTags %}
-		<div class="stats-chart tags">
-			<p class="bar-title"><a href="/tag/{{ tag.url }}">{{ tag.name }}</a><span class="mobile-stats">&nbsp;({{ tag.count }})</span></p>
-			<div class="bar">
-				<div class="inner-bar" style="background-color: {{ tag.color }}; width: {{ tag.percentage }}%"></div>
+			<div class="stat-row">
+				<div class="stat-name">Total Words</div>
+				<div class="stat-value">{{ stats.overall.totalWords }}</div>
 			</div>
-			<p class="legend">{{ tag.count }}</p>
+			<div class="stat-row">
+				<div class="stat-name">Average Word Count:</div>
+				<div class="stat-value">{{ stats.overall.averageWordsPerPost }}</div>
+			</div>
+			<div class="stat-row">
+				<div class="stat-name">First Post Date</div>
+				<div class="stat-value">{{ stats.overall.firstPostDate }}</div>
+			</div>
+			<div class="stat-row">
+				<div class="stat-name">Last Post Date</div>
+				<div class="stat-value">{{ stats.overall.lastPostDate }}</div>
+			</div>
 		</div>
-	{% endfor %}
-</section>
+	</section>
+
+	<section class="site-card chart">
+		<h2>Posts Per Year</h2>
+		{% for year in stats.postsByYear %}
+			<div class="stats-chart">
+				<p class="bar-title"><a href="/archives/{{ year.year }}">{{ year.year }}</a><span class="mobile-stats">&nbsp;({{ year.count }})</span></p>
+				<div class="bar">
+					<div class="inner-bar" style="background-color: {{ year.color }}; width: {{ year.percentage }}%"></div>
+				</div>
+				<p class="legend">{{ year.count }}</p>
+			</div>
+		{% endfor %}
+	</section>
+
+	<hr />
+
+	<section class="site-card chart">
+		<h2>Most Popular Tags</h2>
+		{% for tag in stats.popularTags %}
+			<div class="stats-chart tags">
+				<p class="bar-title"><a href="/tag/{{ tag.url }}">{{ tag.name }}</a><span class="mobile-stats">&nbsp;({{ tag.count }})</span></p>
+				<div class="bar">
+					<div class="inner-bar" style="background-color: {{ tag.color }}; width: {{ tag.percentage }}%"></div>
+				</div>
+				<p class="legend">{{ tag.count }}</p>
+			</div>
+		{% endfor %}
+	</section>
+</main>

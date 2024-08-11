@@ -1465,6 +1465,7 @@ article.book-note .book-note-content p:first-child {
         text-align: center;
     }
 }
+
 /* end book notes */
 
 
@@ -1670,10 +1671,15 @@ article.book-note .book-note-content p:first-child {
 
 /* End Goals Pages */
 
-article.uses h2 {
-    margin: 32px 0 24px 0;
+article.uses .uses-section {
+    margin-bottom: 32px;
 }
 
+article.uses .uses-section ul {
+    margin-bottom: 0;
+}
+
+/* Stats Page */
 .chart {
     margin: 32px 0 16px 0;
 }
@@ -1720,6 +1726,28 @@ article.uses h2 {
     text-align: right;
 }
 
+.stats-table {
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+}
+
+.stat-row {
+    display: flex;
+    font-size: 1.1rem;
+    column-gap: 24px;
+    width: 100%;
+}
+
+.stat-row:hover {
+    background-color: var(--grey-3);
+}
+
+.stat-name {
+    min-width: 200px;
+    font-weight: 600;
+}
+
 @media all and (max-width: 500px) {
     .stats-chart {
         display: block;
@@ -1736,7 +1764,13 @@ article.uses h2 {
     .stats-chart .mobile-stats {
         display: inline;
     }
+
+    .stat-name {
+        min-width: 175px;
+    }
 }
+
+/* End Stats Page */
 
 .project {
     margin: 32px 0;
