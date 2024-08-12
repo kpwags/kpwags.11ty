@@ -722,7 +722,7 @@ main.media-container {
 
 .filters .filter-list {
     display: flex;
-    column-gap: 16px;
+    gap: 16px;
     flex-wrap: wrap;
     align-items: center;
 }

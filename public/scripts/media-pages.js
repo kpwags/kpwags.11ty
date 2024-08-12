@@ -169,6 +169,17 @@ function hideBooks(bookList) {
     });
 }
 
+function convertFilterName(genre) {
+    switch (genre) {
+        case 'business-economics':
+            return 'business-&-economics';
+        case 'biography':
+            return 'biography-/-memoir';
+        default:
+            return genre;
+    }
+}
+
 function filterBooks(genre) {
     if (genre === 'all') {
         document.querySelectorAll('.item').forEach((item) => {
@@ -194,7 +205,7 @@ function filterBooks(genre) {
     } else {
         document.querySelectorAll('.item').forEach((item) => {
             const genres = item.getAttribute('data-genre').split(',');
-            if (genres.includes(genre)) {
+            if (genres.includes(convertFilterName(genre))) {
                 item.removeAttribute('hidden');
             } else {
                 item.setAttribute('hidden', 'true');
