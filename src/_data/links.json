@@ -1,5560 +1,4480 @@
 [
   {
+    "linkId": 279,
+    "title": "So you want to compete with or replace open source",
+    "url": "https://drewdevault.com/2024/07/16/2024-07-16-So-you-want-to-compete-with-FOSS.html",
+    "author": "Drew DeVault",
+    "linkDate": "2024-08-14T00:00:00",
+    "readingLogIssueNumber": 89,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 280,
+    "title": "Why Your Team Sucks 2024: Indianapolis Colts",
+    "url": "https://defector.com/why-your-team-sucks-2024-indianapolis-colts",
+    "author": "Drew Magary",
+    "linkDate": "2024-08-14T00:00:00",
+    "readingLogIssueNumber": 89,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
     "linkId": 267,
-    "linkTypeId": 1,
-    "linkCategoryId": 1,
     "title": "New .NET 9 Templates for Blazor Hybrid, .NET MAUI",
     "url": "https://visualstudiomagazine.com/Articles/2024/06/20/net-9-preview-5.aspx",
     "author": "David Ramel",
     "linkDate": "2024-08-09T00:00:00",
     "readingLogIssueNumber": 88,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 1,
+    "category": {
       "name": ".NET",
       "colorCode": "#5725a0"
     }
   },
   {
     "linkId": 268,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "The 3 Types of CSS Utility Classes",
     "url": "https://www.jameskerr.blog/posts/3-types-of-css-utility-classes/",
     "author": "James Kerr",
     "linkDate": "2024-08-09T00:00:00",
     "readingLogIssueNumber": 88,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 269,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "The many ways to hide things in the DOM",
     "url": "https://gomakethings.com/the-many-ways-to-hide-things-in-the-dom/",
     "author": "Chris Ferdinandi",
     "linkDate": "2024-08-09T00:00:00",
     "readingLogIssueNumber": 88,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 270,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "It\u2019s about time I tried to explain what progressive enhancement actually is",
     "url": "https://piccalil.li/blog/its-about-time-i-tried-to-explain-what-progressive-enhancement-actually-is/?ref=main-rss-feed",
     "author": "Andy Bell",
     "linkDate": "2024-08-09T00:00:00",
     "readingLogIssueNumber": 88,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 271,
-    "linkTypeId": 1,
-    "linkCategoryId": 14,
     "title": "Why Your Team Sucks 2024: Las Vegas Raiders",
     "url": "https://defector.com/why-your-team-sucks-2024-las-vegas-raiders",
     "author": "Ray Ratto",
     "linkDate": "2024-08-09T00:00:00",
     "readingLogIssueNumber": 88,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 14,
+    "category": {
       "name": "Sports",
       "colorCode": "#2d5f6f"
     }
   },
   {
     "linkId": 272,
-    "linkTypeId": 1,
-    "linkCategoryId": 14,
     "title": "Why Your Team Sucks 2024: Denver Broncos",
     "url": "https://defector.com/why-your-team-sucks-2024-denver-broncos",
     "author": "Drew Magary",
     "linkDate": "2024-08-08T00:00:00",
     "readingLogIssueNumber": 88,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 14,
+    "category": {
       "name": "Sports",
       "colorCode": "#2d5f6f"
     }
   },
   {
     "linkId": 273,
-    "linkTypeId": 1,
-    "linkCategoryId": 14,
     "title": "Why Your Team Sucks 2024: Minnesota Vikings",
     "url": "https://defector.com/why-your-team-sucks-2024-minnesota-vikings",
     "author": "Drew Magary",
     "linkDate": "2024-08-08T00:00:00",
     "readingLogIssueNumber": 88,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 14,
+    "category": {
       "name": "Sports",
       "colorCode": "#2d5f6f"
     }
   },
   {
     "linkId": 275,
-    "linkTypeId": 1,
-    "linkCategoryId": 14,
     "title": "Why Your Team Sucks 2024: New York Jets",
     "url": "https://defector.com/why-your-team-sucks-2024-new-york-jets",
     "author": "Drew Magary",
     "linkDate": "2024-08-08T00:00:00",
     "readingLogIssueNumber": 88,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 14,
+    "category": {
       "name": "Sports",
       "colorCode": "#2d5f6f"
     }
   },
   {
     "linkId": 274,
-    "linkTypeId": 1,
-    "linkCategoryId": 16,
     "title": "It Always Gets Dumber: Elon Sues The Ad Coalition He Just Rejoined Because He Thinks It\u2019s Illegal To Not Advertise On ExTwitter",
     "url": "https://www.techdirt.com/2024/08/07/it-always-gets-dumber-elon-sues-the-ad-coalition-he-just-rejoined-because-he-thinks-its-illegal-to-not-advertise-on-extwitter/",
     "author": "Mike Masnick",
     "linkDate": "2024-08-07T00:00:00",
     "readingLogIssueNumber": 88,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 16,
+    "category": {
       "name": "The Internet",
       "colorCode": "#8b3d15"
     }
   },
   {
     "linkId": 276,
-    "linkTypeId": 1,
-    "linkCategoryId": 14,
     "title": "Why Your Team Sucks 2024: Chicago Bears",
     "url": "https://defector.com/why-your-team-sucks-2024-chicago-bears",
     "author": "Drew Magary",
     "linkDate": "2024-08-07T00:00:00",
     "readingLogIssueNumber": 88,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 14,
+    "category": {
       "name": "Sports",
       "colorCode": "#2d5f6f"
     }
   },
   {
     "linkId": 277,
-    "linkTypeId": 1,
-    "linkCategoryId": 14,
     "title": "Why Your Team Sucks 2024: Atlanta Falcons",
     "url": "https://defector.com/why-your-team-sucks-2024-atlanta-falcons",
     "author": "Drew Magary",
     "linkDate": "2024-08-07T00:00:00",
     "readingLogIssueNumber": 88,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 14,
+    "category": {
       "name": "Sports",
       "colorCode": "#2d5f6f"
     }
   },
   {
     "linkId": 278,
-    "linkTypeId": 1,
-    "linkCategoryId": 14,
     "title": "Why Your Team Sucks 2024: Tennessee Titans",
     "url": "https://defector.com/why-your-team-sucks-2024-tennessee-titans",
     "author": "Mike Tanier",
     "linkDate": "2024-08-06T00:00:00",
     "readingLogIssueNumber": 88,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 14,
+    "category": {
       "name": "Sports",
       "colorCode": "#2d5f6f"
     }
   },
   {
     "linkId": 262,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Glowing Peril: the Magical Glitter That Poisoned a City",
     "url": "https://timharford.com/2023/11/cautionary-tales-the-lethal-fallout-of-a-stolen-treasure/",
     "author": "Cautionary Tales Podcast",
     "linkDate": "2024-08-05T00:00:00",
     "readingLogIssueNumber": 87,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 263,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Why the Olympics cost so much",
     "url": "https://www.npr.org/2024/08/01/1197967951/paris-2024-olympics-hosting-costs",
     "author": "The Indicator",
     "linkDate": "2024-08-05T00:00:00",
     "readingLogIssueNumber": 87,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 264,
-    "linkTypeId": 1,
-    "linkCategoryId": 15,
     "title": "Every\u00A0Microsoft\u00A0employee is now being judged on their security work",
     "url": "https://www.theverge.com/2024/8/5/24213774/microsoft-security-performance-reviews-employees-top-priority",
     "author": "Tom Warren",
     "linkDate": "2024-08-05T00:00:00",
     "readingLogIssueNumber": 87,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 15,
+    "category": {
       "name": "Technology",
       "colorCode": "#273fd2"
     }
   },
   {
     "linkId": 265,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Uniting Web And Native Apps With 4 Unknown JavaScript APIs",
     "url": "https://www.smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
     "author": "Juan Diego Rodr\u00EDguez",
     "linkDate": "2024-08-05T00:00:00",
     "readingLogIssueNumber": 87,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 266,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "How React 19 (Almost) Made the Internet Slower",
     "url": "https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/",
     "author": "Henrique Yuji",
     "linkDate": "2024-08-03T00:00:00",
     "readingLogIssueNumber": 87,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 221,
-    "linkTypeId": 1,
-    "linkCategoryId": 14,
     "title": "Why Your Team Sucks 2024: New York Giants",
     "url": "https://defector.com/why-your-team-sucks-2024-new-york-giants",
     "author": "Drew Magary",
     "linkDate": "2024-07-30T00:00:00",
     "readingLogIssueNumber": 87,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 14,
+    "category": {
       "name": "Sports",
       "colorCode": "#2d5f6f"
     }
   },
   {
     "linkId": 222,
-    "linkTypeId": 1,
-    "linkCategoryId": 14,
     "title": "Why Your Team Sucks 2024: Los Angeles Chargers",
     "url": "https://defector.com/why-your-team-sucks-2024-los-angeles-chargers",
     "author": "Drew Magary",
     "linkDate": "2024-07-30T00:00:00",
     "readingLogIssueNumber": 87,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 14,
+    "category": {
       "name": "Sports",
       "colorCode": "#2d5f6f"
     }
   },
   {
     "linkId": 223,
-    "linkTypeId": 1,
-    "linkCategoryId": 14,
     "title": "Why Your Team Sucks 2024: Arizona Cardinals",
     "url": "https://defector.com/why-your-team-sucks-2024-arizona-cardinals",
     "author": "Ray Ratto",
     "linkDate": "2024-07-30T00:00:00",
     "readingLogIssueNumber": 87,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 14,
+    "category": {
       "name": "Sports",
       "colorCode": "#2d5f6f"
     }
   },
   {
     "linkId": 224,
-    "linkTypeId": 1,
-    "linkCategoryId": 14,
     "title": "Why Your Team Sucks 2024: New England Patriots",
     "url": "https://defector.com/why-your-team-sucks-2024-new-england-patriots",
     "author": "Ray Ratto",
     "linkDate": "2024-07-30T00:00:00",
     "readingLogIssueNumber": 87,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 14,
+    "category": {
       "name": "Sports",
       "colorCode": "#2d5f6f"
     }
   },
   {
     "linkId": 225,
-    "linkTypeId": 1,
-    "linkCategoryId": 15,
     "title": "Logitech has an idea for a \u201Cforever mouse\u201D that requires a subscription",
     "url": "https://arstechnica.com/gadgets/2024/07/logitech-has-an-idea-for-a-forever-mouse-thatrequires-a-subscription/",
     "author": "Scharon Harding",
     "linkDate": "2024-07-30T00:00:00",
     "readingLogIssueNumber": 87,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 15,
+    "category": {
       "name": "Technology",
       "colorCode": "#273fd2"
     }
   },
   {
     "linkId": 226,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "On compliance vs readability: Generating text colors with CSS",
     "url": "https://lea.verou.me/blog/2024/contrast-color/",
     "author": "Lea Verou",
     "linkDate": "2024-07-26T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 227,
-    "linkTypeId": 1,
-    "linkCategoryId": 16,
     "title": "Yet Another ID Verification Service Breached, Exposing Private Info Collected On Behalf Of Uber, TikTok \u0026 More",
     "url": "https://www.techdirt.com/2024/06/28/yet-another-id-verification-service-breached-exposing-private-info-collected-on-behalf-of-uber-tiktok-more/",
     "author": "Mike Masnick",
     "linkDate": "2024-07-26T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 16,
+    "category": {
       "name": "The Internet",
       "colorCode": "#8b3d15"
     }
   },
   {
     "linkId": 228,
-    "linkTypeId": 1,
-    "linkCategoryId": 6,
     "title": "Why we should care about process",
     "url": "https://blog.scottlogic.com/2024/06/10/why-we-should-care-about-process.html",
     "author": "Dave Ogle",
     "linkDate": "2024-07-26T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 6,
+    "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
     }
   },
   {
     "linkId": 229,
-    "linkTypeId": 1,
-    "linkCategoryId": 13,
     "title": "NASA\u2019s flagship mission to Europa has a problem: Vulnerability to radiation",
     "url": "https://arstechnica.com/space/2024/07/nasas-flagship-mission-to-europa-has-a-problem-vulnerability-to-radiation/",
     "author": "Eric Berger",
     "linkDate": "2024-07-26T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 13,
+    "category": {
       "name": "Space",
       "colorCode": "#2c0d18"
     }
   },
   {
     "linkId": 230,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Goodbye SASS, welcome back native CSS",
     "url": "https://dev.to/karsten_biedermann/goodbye-sass-welcome-back-native-css-cf",
     "author": "Karsten Biedermann",
     "linkDate": "2024-07-26T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 231,
-    "linkTypeId": 1,
-    "linkCategoryId": 13,
     "title": "JWST finds its first old, cold giant exoplanet!",
     "url": "https://badastronomy.beehiiv.com/p/jwst-finds-first-old-cold-giant-exoplanet?utm_source=badastronomy.beehiiv.com\u0026utm_medium=newsletter\u0026utm_campaign=jwst-finds-its-first-old-cold-giant-exoplanet\u0026last_resource_guid=Post%3A1b11cfa2-c97f-4f9a-9a47-039a5f7ea496\u0026jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJzY3JpYmVyX2lkIjoiMmFkZTExOGQtOWE3Mi00YWU3LTg0NDMtMTNiMmM4ZTgxM2ZlIiwiZXhwIjoxNzIyMDg4OTY2LCJpc3MiOiJodHRwczovL2FwcC5iZWVoaWl2LmNvbSIsImlhdCI6MTcyMTkxNjE2Nn0.Lr6wc2Wv9175ysy-QPpMY2FBcGJ3EYFNwAcSlxRbwUg",
     "author": "Phil Plait",
     "linkDate": "2024-07-26T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 13,
+    "category": {
       "name": "Space",
       "colorCode": "#2c0d18"
     }
   },
   {
     "linkId": 232,
-    "linkTypeId": 1,
-    "linkCategoryId": 1,
     "title": "Blazor Basics: Blazor Render Modes in .NET 8",
     "url": "https://www.telerik.com/blogs/blazor-basics-blazor-render-modes-net-8",
     "author": "Claudio Bernasconi",
     "linkDate": "2024-07-26T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 1,
+    "category": {
       "name": ".NET",
       "colorCode": "#5725a0"
     }
   },
   {
     "linkId": 233,
-    "linkTypeId": 1,
-    "linkCategoryId": 16,
     "title": "What is Firefox supposed to do?",
     "url": "https://www.spacebar.news/mozilla-firefox-privacy-preserving-attribution/",
     "author": "Corbin Davenport",
     "linkDate": "2024-07-25T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 16,
+    "category": {
       "name": "The Internet",
       "colorCode": "#8b3d15"
     }
   },
   {
     "linkId": 234,
-    "linkTypeId": 1,
-    "linkCategoryId": 2,
     "title": "The ghost jobs haunting your career search",
     "url": "https://stackoverflow.blog/2024/07/15/the-ghost-jobs-haunting-your-career-search/?utm_source=iterable\u0026utm_medium=email\u0026utm_campaign=the-overflow-newsletter",
     "author": "Eira May",
     "linkDate": "2024-07-25T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 2,
+    "category": {
       "name": "Business \u0026 Finance",
       "colorCode": "#0d5430"
     }
   },
   {
     "linkId": 235,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Case Insensitive CSS Attribute\u00A0Selector",
     "url": "https://davidwalsh.name/css-attribute-case",
     "author": "David Walsh",
     "linkDate": "2024-07-24T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 236,
-    "linkTypeId": 1,
-    "linkCategoryId": 15,
     "title": "Organic Intelligence",
     "url": "https://blog.jim-nielsen.com/2024/organic-intelligence/",
     "author": "Jim Nielsen",
     "linkDate": "2024-07-24T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 15,
+    "category": {
       "name": "Technology",
       "colorCode": "#273fd2"
     }
   },
   {
     "linkId": 238,
-    "linkTypeId": 1,
-    "linkCategoryId": 15,
     "title": "Apple Maps launches on the web to take on Google",
     "url": "https://www.theverge.com/2024/7/24/24205449/apple-maps-web-beta",
     "author": "Emma Roth",
     "linkDate": "2024-07-24T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 15,
+    "category": {
       "name": "Technology",
       "colorCode": "#273fd2"
     }
   },
   {
     "linkId": 239,
-    "linkTypeId": 1,
-    "linkCategoryId": 5,
     "title": "World of Warcraft developers form Blizzard\u2019s largest and most inclusive union",
     "url": "https://www.theverge.com/2024/7/24/24205366/world-of-warcraft-developers-form-union-blizzard-entertainment",
     "author": "Ash Parrish",
     "linkDate": "2024-07-24T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 5,
+    "category": {
       "name": "Gaming",
       "colorCode": "#275576"
     }
   },
   {
     "linkId": 240,
-    "linkTypeId": 1,
-    "linkCategoryId": 14,
     "title": "Olympic drone spying scandal lands Canadian coach a red card",
     "url": "https://www.theverge.com/2024/7/24/24205155/drones-olympics-soccer-canada-spying",
     "author": "Andrew Liszewski",
     "linkDate": "2024-07-24T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 14,
+    "category": {
       "name": "Sports",
       "colorCode": "#2d5f6f"
     }
   },
   {
     "linkId": 241,
-    "linkTypeId": 1,
-    "linkCategoryId": 14,
     "title": "Why Your Team Sucks 2024: Washington Commanders",
     "url": "https://defector.com/why-your-team-sucks-2024-washington-commanders",
     "author": "Drew Magary",
     "linkDate": "2024-07-24T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 14,
+    "category": {
       "name": "Sports",
       "colorCode": "#2d5f6f"
     }
   },
   {
     "linkId": 237,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Commercializing Open Source with Victoria Melnikova",
     "url": "https://www.dotnetrocks.com/details/1871",
     "author": ".NET Rocks",
     "linkDate": "2024-07-23T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 242,
-    "linkTypeId": 1,
-    "linkCategoryId": 14,
     "title": "Why Your Team Sucks 2024: Carolina Panthers",
     "url": "https://defector.com/why-your-team-sucks-2024-carolina-panthers",
     "author": "Drew Magary",
     "linkDate": "2024-07-23T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 14,
+    "category": {
       "name": "Sports",
       "colorCode": "#2d5f6f"
     }
   },
   {
     "linkId": 243,
-    "linkTypeId": 1,
-    "linkCategoryId": 13,
     "title": "Up close and personal radar images of two potentially hazardous asteroids",
     "url": "https://badastronomy.beehiiv.com/p/close-personal-radar-images-two-potentially-hazardous-asteroids",
     "author": "Phil Plait",
     "linkDate": "2024-07-23T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 13,
+    "category": {
       "name": "Space",
       "colorCode": "#2c0d18"
     }
   },
   {
     "linkId": 244,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "D3f4ult",
     "url": "https://darknetdiaries.com/episode/139/",
     "author": "Darknet Diaries",
     "linkDate": "2024-07-22T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 245,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Zach Weinersmith on Space Settlement and A City on Mars",
     "url": "https://simplecast.econtalk.org/episodes/zach-weinersmith-on-space-settlement-and-a-city-on-mars",
     "author": "EconTalk",
     "linkDate": "2024-07-22T00:00:00",
     "readingLogIssueNumber": 86,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 246,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Navigating the .NETverse: From Assembler to Open Source Marvel with Scott Hunter",
     "url": "https://dotnetcore.show/season-6/navigating-the-netverse-from-assembler-to-open-source-marvel-with-scott-hunter/",
     "author": "The Modern .NET Show",
     "linkDate": "2024-07-22T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 247,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "The company that owns colors",
     "url": "https://www.npr.org/2024/07/19/1197961103/pantone-colors-lawrence-herbert-stuart-semple-standards",
     "author": "Planet Money",
     "linkDate": "2024-07-22T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 248,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "How To Hack Your Google Lighthouse Scores In 2024",
     "url": "https://www.smashingmagazine.com/2024/06/how-hack-google-lighthouse-scores-2024/",
     "author": "Salma Alam-Naylor",
     "linkDate": "2024-07-20T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 249,
-    "linkTypeId": 1,
-    "linkCategoryId": 15,
     "title": "High hopes and security fears for next-gen nuclear reactors",
     "url": "https://www.theverge.com/24201610/next-generation-nuclear-energy-reactors-security-weapons-proliferation-risk",
     "author": "Justine Calma",
     "linkDate": "2024-07-20T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 15,
+    "category": {
       "name": "Technology",
       "colorCode": "#273fd2"
     }
   },
   {
     "linkId": 250,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Assessing Web Component Libraries",
     "url": "https://keithjgrant.com/posts/2024/06/assessing-web-component-libraries/",
     "author": "Keith J. Grant",
     "linkDate": "2024-07-20T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 251,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Carl Franklin",
     "url": "https://www.coffeeandopensource.com/guest/carl-franklin.html",
     "author": "Coffee \u0026 Open Source Podcast",
     "linkDate": "2024-07-18T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 252,
-    "linkTypeId": 1,
-    "linkCategoryId": 2,
     "title": "Google-backed software developer GitLab explores sale, sources say",
     "url": "https://www.reuters.com/markets/deals/google-backed-software-developer-gitlab-explores-sale-sources-say-2024-07-17/",
     "author": "Milana Vinn \u0026 Anirban Sen",
     "linkDate": "2024-07-18T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 2,
+    "category": {
       "name": "Business \u0026 Finance",
       "colorCode": "#0d5430"
     }
   },
   {
     "linkId": 253,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Stolen River",
     "url": "https://www.marketplace.org/shows/how-we-survive/stolen-river/",
     "author": "How We Survive Podcast",
     "linkDate": "2024-07-18T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 254,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Link Taxes Won\u2019t Save Journalism",
     "url": "https://www.techdirt.com/2024/07/17/techdirt-podcast-episode-398-link-taxes-wont-save-journalism/",
     "author": "Techdirt Podcast",
     "linkDate": "2024-07-18T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 255,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "bUnit Update with Egil Hansen",
     "url": "https://www.dotnetrocks.com/details/1868",
     "author": ".NET Rocks Podcast",
     "linkDate": "2024-07-17T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 256,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "The $80 Million Dollar Acre",
     "url": "https://www.marketplace.org/shows/how-we-survive/the-80-million-acre/",
     "author": "How We Survive Podcast",
     "linkDate": "2024-07-17T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 257,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Sarah Guthals",
     "url": "https://www.coffeeandopensource.com/guest/sarah-guthals.html",
     "author": "Coffee \u0026 Open Source Podcast",
     "linkDate": "2024-07-17T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 258,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": ".NET and Podcasting - with Jamie Taylor",
     "url": "https://unhandledexceptionpodcast.com/posts/0057-jamietaylor/",
     "author": "The Unhandled Exception Podcast",
     "linkDate": "2024-07-17T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 259,
-    "linkTypeId": 1,
-    "linkCategoryId": 10,
     "title": "Actor Patrick Stewart",
     "url": "https://www.npr.org/2023/10/13/1197956085/fresh-air-draft-10-13-2023",
     "author": "NPR\u2019s Fresh Air",
     "linkDate": "2024-07-17T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 260,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "A Monkey For Mayor / A Screw Loose At 17,000 Feet",
     "url": "https://timharford.com/2023/10/cautionary-tales-double-header-a-monkey-for-mayor-a-screw-loose-at-17000-feet/",
     "author": "Cautionary Tales",
     "linkDate": "2024-07-17T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 261,
-    "linkTypeId": 1,
-    "linkCategoryId": 2,
     "title": "Inside the world of UPS\u2019 overnight shipping hub",
     "url": "https://www.marketplace.org/2024/07/16/inside-world-of-ups-overnight-shipping-hub/",
     "author": "Kristin Schwab",
     "linkDate": "2024-07-17T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 2,
+    "category": {
       "name": "Business \u0026 Finance",
       "colorCode": "#0d5430"
     }
   },
   {
     "linkId": 1,
-    "linkTypeId": 1,
-    "linkCategoryId": 7,
     "title": "Small investments in nutrition could make the world brainier",
     "url": "https://www.economist.com/briefing/2024/07/11/small-investments-in-nutrition-could-make-the-world-brainier",
     "author": "The Economist",
     "linkDate": "2024-07-16T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 7,
+    "category": {
       "name": "Health \u0026 Fitness",
       "colorCode": "#871c4a"
     }
   },
   {
     "linkId": 2,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Blog Redesign, Sounds on a Website, Accessibility Tests, and Safari 17",
     "url": "https://shoptalkshow.com/585/",
     "author": "Shop Talk Show",
     "linkDate": "2024-07-16T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 3,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Better Know a Design System - Design Tokens!",
     "url": "https://ryantrimble.com/blog/design-system-tokens/",
     "author": "Ryan Trimble",
     "linkDate": "2024-07-16T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 4,
-    "linkTypeId": 1,
-    "linkCategoryId": 1,
     "title": "Introducing collection expressions in C#12",
     "url": "https://andrewlock.net/behind-the-scenes-of-collection-expressions-part-1-introducing-collection-expressions-in-csharp12/",
     "author": "Andrew Lock",
     "linkDate": "2024-07-15T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 1,
+    "category": {
       "name": ".NET",
       "colorCode": "#5725a0"
     }
   },
   {
     "linkId": 5,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Promises From The Ground Up",
     "url": "https://www.joshwcomeau.com/javascript/promises/",
     "author": "Josh Comeau",
     "linkDate": "2024-07-15T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 6,
-    "linkTypeId": 1,
-    "linkCategoryId": 1,
     "title": "How To Encrypt ASP.NET Core Route Parameters",
     "url": "https://khalidabuhakmeh.com/how-to-encrypt-aspnet-core-route-parameters",
     "author": "Khalid Abuhakmeh",
     "linkDate": "2024-07-15T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 1,
+    "category": {
       "name": ".NET",
       "colorCode": "#5725a0"
     }
   },
   {
     "linkId": 7,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "What is \u0022the grain of the web?\u0022",
     "url": "https://gomakethings.com/what-is-the-grain-of-the-web/",
     "author": "Chris Ferdinandi",
     "linkDate": "2024-07-15T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 8,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "LeVar Burton",
     "url": "http://www.wtfpod.com/podcast/episode-1474-levar-burton",
     "author": "WTF with Marc Maron",
     "linkDate": "2024-07-15T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 9,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Kashmir Hill",
     "url": "https://longform.org/posts/longform-podcast-551-kashmir-hill",
     "author": "Longform Podcast",
     "linkDate": "2024-07-15T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 10,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "The People Who Turn Lies Into Reality",
     "url": "https://www.techdirt.com/2024/07/09/techdirt-podcast-episode-397-the-people-who-turn-lies-into-reality/",
     "author": "Techdirt Podcast",
     "linkDate": "2024-07-15T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 11,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "What military brats tell us about social mobility",
     "url": "https://www.npr.org/2024/07/09/1197967537/military-brats-financial-earnings-social-mobility",
     "author": "The Indicator",
     "linkDate": "2024-07-15T00:00:00",
     "readingLogIssueNumber": 85,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 12,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "CSS Cap Unit",
     "url": "https://ishadeed.com/article/css-cap-unit/",
     "author": "Ahmad Shadeed",
     "linkDate": "2024-07-10T00:00:00",
     "readingLogIssueNumber": 84,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 13,
-    "linkTypeId": 1,
-    "linkCategoryId": 16,
     "title": "Beware the cloud of hype",
     "url": "https://thehistoryoftheweb.com/beware-the-cloud-of-hype/",
     "author": "The History of the Web",
     "linkDate": "2024-07-10T00:00:00",
     "readingLogIssueNumber": 84,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 16,
+    "category": {
       "name": "The Internet",
       "colorCode": "#8b3d15"
     }
   },
   {
     "linkId": 14,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "I drove a Cybertruck around SF because I am a smart, cool alpha male",
     "url": "https://www.sfgate.com/tech/article/drew-magary-cybertruck-review-sf-19561381.php",
     "author": "Drew Magary",
     "linkDate": "2024-07-09T00:00:00",
     "readingLogIssueNumber": 84,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 15,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "A Lack of (Under)Standing",
     "url": "https://podcast.ctrlaltspeech.com/2315966/15330492-a-lack-of-under-standing",
     "author": "Ctrl-Alt-Speech",
     "linkDate": "2024-07-09T00:00:00",
     "readingLogIssueNumber": 84,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 16,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "The young trolls of Wall Street are growing up",
     "url": "https://www.npr.org/2024/07/08/1197967531/gamestop-roaring-kitty-memestocks-wall-street-stock-market",
     "author": "The Indicator",
     "linkDate": "2024-07-09T00:00:00",
     "readingLogIssueNumber": 84,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 17,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "The game theory that led to nuclear standoffs",
     "url": "https://www.npr.org/2024/07/03/1197967395/game-theory-nuclear-war-putin",
     "author": "The Indicator",
     "linkDate": "2024-07-09T00:00:00",
     "readingLogIssueNumber": 84,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 18,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "How the end of Roe is reshaping the medical workforce",
     "url": "https://www.npr.org/2024/07/01/1197967379/obgyn-students-leaving-states-strict-abortion-bans",
     "author": "The Indicator",
     "linkDate": "2024-07-09T00:00:00",
     "readingLogIssueNumber": 84,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 19,
-    "linkTypeId": 1,
-    "linkCategoryId": 2,
     "title": "Dynamic pricing tech may brighten retail bottom lines and put consumers in the dark",
     "url": "https://www.marketplace.org/2024/07/08/digital-price-tags-dynamic-pricing-in-person-shopping/",
     "author": "Kristin Schwab\u00A0\u0026\u00A0Sofia Terenzio",
     "linkDate": "2024-07-09T00:00:00",
     "readingLogIssueNumber": 84,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 2,
+    "category": {
       "name": "Business \u0026 Finance",
       "colorCode": "#0d5430"
     }
   },
   {
     "linkId": 20,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Data Science and UX with Grishma Jena",
     "url": "https://www.dotnetrocks.com/details/1864",
     "author": ".NET Rocks",
     "linkDate": "2024-07-09T00:00:00",
     "readingLogIssueNumber": 84,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 21,
-    "linkTypeId": 1,
-    "linkCategoryId": 6,
     "title": "Every dependency is a potential vulnerability",
     "url": "https://gomakethings.com/every-dependency-is-a-potential-vulnerability/",
     "author": "Chris Ferdinandi",
     "linkDate": "2024-07-09T00:00:00",
     "readingLogIssueNumber": 84,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 6,
+    "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
     }
   },
   {
     "linkId": 22,
-    "linkTypeId": 1,
-    "linkCategoryId": 9,
     "title": "They will never think you\u0027re good enough",
     "url": "https://www.infinitescroll.us/p/they-will-never-think-youre-good",
     "author": "Jeremiah Johnson",
     "linkDate": "2024-07-09T00:00:00",
     "readingLogIssueNumber": 84,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 9,
+    "category": {
       "name": "Media \u0026 Entertainment",
       "colorCode": "#7949a8"
     }
   },
   {
     "linkId": 23,
-    "linkTypeId": 1,
-    "linkCategoryId": 15,
     "title": "The",
     "url": "https://www.wired.com/story/titan-submersible-disaster-inside-story-oceangate-files/",
     "author": "Mark Harris",
     "linkDate": "2024-07-04T00:00:00",
     "readingLogIssueNumber": 83,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 15,
+    "category": {
       "name": "Technology",
       "colorCode": "#273fd2"
     }
   },
   {
     "linkId": 24,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "A primer on JavaScript Proxies",
     "url": "https://gomakethings.com/a-primer-on-javascript-proxies/",
     "author": "Chris Ferdinandi",
     "linkDate": "2024-07-04T00:00:00",
     "readingLogIssueNumber": 83,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 25,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "What is Motion Sensitivity? How to Design Accessible Web Animations",
     "url": "https://www.freecodecamp.org/news/web-sensitivity-how-to-design-accessible-animations/",
     "author": "Elizabeth Meshioye",
     "linkDate": "2024-07-04T00:00:00",
     "readingLogIssueNumber": 83,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 26,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "The deskilling of web dev is harming the product but, more importantly, it\u2019s damaging our health \u2013 this is why burnout happens",
     "url": "https://www.baldurbjarnason.com/2024/the-deskilling-of-web-dev-is-harming-us-all/",
     "author": "Baldur Bjarnason",
     "linkDate": "2024-07-03T00:00:00",
     "readingLogIssueNumber": 83,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 27,
-    "linkTypeId": 1,
-    "linkCategoryId": 16,
     "title": "Highlighting journalism on Mastodon",
     "url": "https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/",
     "author": "Eugen Rochko",
     "linkDate": "2024-07-02T00:00:00",
     "readingLogIssueNumber": 83,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 16,
+    "category": {
       "name": "The Internet",
       "colorCode": "#8b3d15"
     }
   },
   {
     "linkId": 28,
-    "linkTypeId": 1,
-    "linkCategoryId": 13,
     "title": "The Lunacy of Artemis",
     "url": "https://idlewords.com/2024/5/the_lunacy_of_artemis.htm",
     "author": "Idle Words",
     "linkDate": "2024-06-27T00:00:00",
     "readingLogIssueNumber": 82,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 13,
+    "category": {
       "name": "Space",
       "colorCode": "#2c0d18"
     }
   },
   {
     "linkId": 29,
-    "linkTypeId": 1,
-    "linkCategoryId": 1,
     "title": "Thoughts about primary constructors: 3 pros and 5 cons",
     "url": "https://andrewlock.net/thoughts-about-primary-constructors-3-pros-and-5-cons/",
     "author": "Andrew Lock",
     "linkDate": "2024-06-27T00:00:00",
     "readingLogIssueNumber": 82,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 1,
+    "category": {
       "name": ".NET",
       "colorCode": "#5725a0"
     }
   },
   {
     "linkId": 30,
-    "linkTypeId": 1,
-    "linkCategoryId": 16,
     "title": "RSS: The forgotten protocol that still matters",
     "url": "https://www.joanwestenberg.com/rss-the-forgotten-protocol-that-still-matters%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B",
     "author": "Joan Westenberg",
     "linkDate": "2024-06-27T00:00:00",
     "readingLogIssueNumber": 82,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 16,
+    "category": {
       "name": "The Internet",
       "colorCode": "#8b3d15"
     }
   },
   {
     "linkId": 31,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Angus Deaton on life in America",
     "url": "https://shows.acast.com/the-new-bazaar/episodes/angus-deaton-on-life-in-america",
     "author": "The New Bazaar",
     "linkDate": "2024-06-26T00:00:00",
     "readingLogIssueNumber": 82,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 32,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Building Cross-Platform Apps with .NET MAUI: A Developer\u0027s Dream Come True with Matt Goldman",
     "url": "https://dotnetcore.show/season-6/building-cross-platform-apps-with-net-maui-a-developers-dream-come-true-with-matt-goldman/",
     "author": "The Modern .NET Show",
     "linkDate": "2024-06-26T00:00:00",
     "readingLogIssueNumber": 82,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 33,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Invest like a Congress member",
     "url": "https://www.npr.org/2024/06/18/1197965254/stock-trading-congress-etfs-unusual-whales",
     "author": "The Indicator",
     "linkDate": "2024-06-20T00:00:00",
     "readingLogIssueNumber": 81,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 34,
-    "linkTypeId": 1,
-    "linkCategoryId": 14,
     "title": "Willie Mays Was Baseball",
     "url": "https://defector.com/willie-mays-was-baseball",
     "author": "Ray Ratto",
     "linkDate": "2024-06-19T00:00:00",
     "readingLogIssueNumber": 81,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 14,
+    "category": {
       "name": "Sports",
       "colorCode": "#2d5f6f"
     }
   },
   {
     "linkId": 35,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Beyond CSS Media Queries",
     "url": "https://www.smashingmagazine.com/2024/05/beyond-css-media-queries/",
     "author": "Juan Diego Rodriguez",
     "linkDate": "2024-06-19T00:00:00",
     "readingLogIssueNumber": 81,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 36,
-    "linkTypeId": 1,
-    "linkCategoryId": 1,
     "title": "XUnit\u2013Improve type safety",
     "url": "https://bartwullems.blogspot.com/2024/05/xunitimprove-type-safety.html",
     "author": "Bart Wullems",
     "linkDate": "2024-06-19T00:00:00",
     "readingLogIssueNumber": 81,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 1,
+    "category": {
       "name": ".NET",
       "colorCode": "#5725a0"
     }
   },
   {
     "linkId": 37,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Baseline progressive enhancement",
     "url": "https://adactio.com/journal/21128",
     "author": "Jeremy Keith",
     "linkDate": "2024-06-19T00:00:00",
     "readingLogIssueNumber": 81,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 38,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Opinions for Writing Good CSS",
     "url": "https://andrewwalpole.com/blog/opinions-for-writing-good-css/",
     "author": "Andrew Walpole",
     "linkDate": "2024-06-17T00:00:00",
     "readingLogIssueNumber": 81,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 39,
-    "linkTypeId": 1,
-    "linkCategoryId": 6,
     "title": "Done is Better Than Perfect",
     "url": "https://www.donnfelker.com/done-is-better-than-perfect/",
     "author": "Donn Felker",
     "linkDate": "2024-06-17T00:00:00",
     "readingLogIssueNumber": 81,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 6,
+    "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
     }
   },
   {
     "linkId": 40,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Bringing a tariff to a graphite fight",
     "url": "https://www.npr.org/2024/06/12/1197959267/graphite-batteries-tariffs-china",
     "author": "Planet Money",
     "linkDate": "2024-06-14T00:00:00",
     "readingLogIssueNumber": 81,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 41,
-    "linkTypeId": 1,
-    "linkCategoryId": 6,
     "title": "Bullying in Open Source Software Is a Massive Security Vulnerability",
     "url": "https://www.404media.co/xz-backdoor-bullying-in-open-source-software-is-a-massive-security-vulnerability/",
     "author": "Jason Koebler",
     "linkDate": "2024-06-13T00:00:00",
     "readingLogIssueNumber": 81,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 6,
+    "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
     }
   },
   {
     "linkId": 42,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "You Don\u2019t Need a CSS Framework",
     "url": "https://www.infoq.com/articles/no-need-css-framework/",
     "author": "Tyson Gern",
     "linkDate": "2024-06-13T00:00:00",
     "readingLogIssueNumber": 81,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 43,
-    "linkTypeId": 1,
-    "linkCategoryId": 1,
     "title": "C#: How to Enumerate over Enum values and names",
     "url": "https://www.pietschsoft.com/post/2024/05/03/csharp-iterate-over-enum",
     "author": "Chris Pietschmann",
     "linkDate": "2024-06-13T00:00:00",
     "readingLogIssueNumber": 81,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 1,
+    "category": {
       "name": ".NET",
       "colorCode": "#5725a0"
     }
   },
   {
     "linkId": 44,
-    "linkTypeId": 1,
-    "linkCategoryId": 6,
     "title": "The biggest effect on code quality",
     "url": "https://bartwullems.blogspot.com/2024/05/the-biggest-effect-on-code-quality.html",
     "author": "Bart Wullems",
     "linkDate": "2024-06-13T00:00:00",
     "readingLogIssueNumber": 81,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 6,
+    "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
     }
   },
   {
     "linkId": 45,
-    "linkTypeId": 1,
-    "linkCategoryId": 6,
     "title": "Errors Aren\u2019t All Bad",
     "url": "https://blog.jim-nielsen.com/2024/errors-arent-all-bad/",
     "author": "Jim Nielsen",
     "linkDate": "2024-06-13T00:00:00",
     "readingLogIssueNumber": 81,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 6,
+    "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
     }
   },
   {
     "linkId": 46,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "A Primer On Child Online Safety Legislation",
     "url": "https://www.techdirt.com/2024/06/11/techdirt-podcast-episode-394-a-primer-on-child-online-safety-legislation/",
     "author": "Techdirt Podcast",
     "linkDate": "2024-06-12T00:00:00",
     "readingLogIssueNumber": 81,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 47,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Printing music with CSS Grid",
     "url": "https://cruncher.ch/blog/printing-music-with-css-grid/",
     "author": "Stephen Band",
     "linkDate": "2024-06-10T00:00:00",
     "readingLogIssueNumber": 81,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 48,
-    "linkTypeId": 1,
-    "linkCategoryId": 6,
     "title": "Navigating the Buzzwords of Frontend Development",
     "url": "https://remotesynthesis.com/blog/navigaitng-frontend-buzzwords/",
     "author": "Brian Rinaldi",
     "linkDate": "2024-06-10T00:00:00",
     "readingLogIssueNumber": 81,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 6,
+    "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
     }
   },
   {
     "linkId": 49,
-    "linkTypeId": 1,
-    "linkCategoryId": 6,
     "title": "Why we suck at estimating software projects",
     "url": "https://www.infoworld.com/article/3715342/why-we-suck-at-estimating-software-projects.html",
     "author": "Nick Hodges",
     "linkDate": "2024-06-10T00:00:00",
     "readingLogIssueNumber": 81,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 6,
+    "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
     }
   },
   {
     "linkId": 50,
-    "linkTypeId": 1,
-    "linkCategoryId": 2,
     "title": "Some company heads hoped return-to-office mandates would make people quit, survey says",
     "url": "https://arstechnica.com/tech-policy/2024/06/company-heads-hoped-return-to-office-mandates-would-make-people-quit-survey-says/",
     "author": "Scharon Harding",
     "linkDate": "2024-06-10T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 2,
+    "category": {
       "name": "Business \u0026 Finance",
       "colorCode": "#0d5430"
     }
   },
   {
     "linkId": 51,
-    "linkTypeId": 1,
-    "linkCategoryId": 19,
     "title": "Don\u2019t Put Crap in the Design System",
     "url": "https://bradfrost.com/blog/post/dont-put-crap-in-the-design-system/",
     "author": "Brad Frost",
     "linkDate": "2024-06-10T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 19,
+    "category": {
       "name": "Design",
       "colorCode": "#0b545e"
     }
   },
   {
     "linkId": 52,
-    "linkTypeId": 1,
-    "linkCategoryId": 6,
     "title": "VS Code\u0027s new minimap section headers",
     "url": "https://www.stefanjudis.com/blog/vs-code-minimap-section-headers/",
     "author": "Stefan Judis",
     "linkDate": "2024-06-09T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 6,
+    "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
     }
   },
   {
     "linkId": 53,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Phil Haack",
     "url": "https://www.coffeeandopensource.com/guest/phil-haack.html",
     "author": "Coffee \u0026 Open Source",
     "linkDate": "2024-06-09T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 54,
-    "linkTypeId": 1,
-    "linkCategoryId": 5,
     "title": "Here\u2019s our first look at the new Perfect Dark game",
     "url": "https://www.theverge.com/24174839/perfect-dark-reboot-xbox-microsoft",
     "author": "Tom Warren",
     "linkDate": "2024-06-09T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 5,
+    "category": {
       "name": "Gaming",
       "colorCode": "#275576"
     }
   },
   {
     "linkId": 55,
-    "linkTypeId": 1,
-    "linkCategoryId": 2,
     "title": "What\u2019s all the buzz about decaf coffee?",
     "url": "https://www.marketplace.org/2024/06/07/decaf-coffee-award-growing-market/",
     "author": "Kai Ryssdal \u0026 Sarah Leeson",
     "linkDate": "2024-06-07T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 2,
+    "category": {
       "name": "Business \u0026 Finance",
       "colorCode": "#0d5430"
     }
   },
   {
     "linkId": 56,
-    "linkTypeId": 1,
-    "linkCategoryId": 14,
     "title": "How The Fix Gets In",
     "url": "https://defector.com/how-the-fix-gets-in-jontay-porter",
     "author": "Ray Ratto",
     "linkDate": "2024-06-07T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 14,
+    "category": {
       "name": "Sports",
       "colorCode": "#2d5f6f"
     }
   },
   {
     "linkId": 57,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Blocks, Components, Linting Images, Engines, and \u201CWeb Integrity\u201D",
     "url": "https://shoptalkshow.com/576/",
     "author": "Shop Talk Show",
     "linkDate": "2024-06-07T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 58,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Modular Monoliths with Layla Porter",
     "url": "https://www.dotnetrocks.com/details/1856",
     "author": ".NET Rocks",
     "linkDate": "2024-06-06T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 59,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "The Importance Of Section 230 For Online Communities",
     "url": "https://www.techdirt.com/2024/06/04/techdirt-podcast-episode-393-the-importance-of-section-230-for-online-communities/",
     "author": "Techdirt Podcast",
     "linkDate": "2024-06-06T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 60,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "11ty goes fully independent",
     "url": "https://changelog.com/jsparty/325",
     "author": "JS Party",
     "linkDate": "2024-06-06T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 61,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Using the Popover API for HTML Tooltips",
     "url": "https://frontendmasters.com/blog/using-the-popover-api-for-html-tooltips/",
     "author": "Chris Coyier",
     "linkDate": "2024-06-06T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 62,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Old Dogs, new CSS Tricks",
     "url": "https://mxb.dev/blog/old-dogs-new-css-tricks/",
     "author": "Max B\u00F6ck",
     "linkDate": "2024-06-06T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 63,
-    "linkTypeId": 1,
-    "linkCategoryId": 19,
     "title": "Interdisciplinary Website Maker",
     "url": "https://blog.jim-nielsen.com/2024/interdisciplinary-website-maker/",
     "author": "Jim Nielsen",
     "linkDate": "2024-06-05T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 19,
+    "category": {
       "name": "Design",
       "colorCode": "#0b545e"
     }
   },
   {
     "linkId": 64,
-    "linkTypeId": 1,
-    "linkCategoryId": 19,
     "title": "The art of design system recipes",
     "url": "https://bradfrost.com/blog/post/the-art-of-design-system-recipes/",
     "author": "Brad Frost",
     "linkDate": "2024-06-05T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 19,
+    "category": {
       "name": "Design",
       "colorCode": "#0b545e"
     }
   },
   {
     "linkId": 65,
-    "linkTypeId": 1,
-    "linkCategoryId": 9,
     "title": "Star Trek: Discovery tore itself apart for the good of Star Trek\u2019s future",
     "url": "https://www.polygon.com/24168842/star-trek-discovery-finale-interview-showrunner-end",
     "author": "Dylan Roth",
     "linkDate": "2024-06-05T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 9,
+    "category": {
       "name": "Media \u0026 Entertainment",
       "colorCode": "#7949a8"
     }
   },
   {
     "linkId": 66,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Fine-tuning Text\u00A0Inputs",
     "url": "https://garrettdimon.com/journal/posts/fine-tuning-text-inputs",
     "author": "Garrett Dimon",
     "linkDate": "2024-06-05T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 67,
-    "linkTypeId": 1,
-    "linkCategoryId": 13,
     "title": "The Hubble Space Telescope has lost a majority of its gyroscopes",
     "url": "https://arstechnica.com/space/2024/06/down-to-just-two-gyroscopes-hubbles-science-operations-will-continue/",
     "author": "Eric Berger",
     "linkDate": "2024-06-05T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 13,
+    "category": {
       "name": "Space",
       "colorCode": "#2c0d18"
     }
   },
   {
     "linkId": 68,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "\u201CJust\u201D One Line",
     "url": "https://blog.jim-nielsen.com/2024/just-one-line/",
     "author": "Jim Nielsen",
     "linkDate": "2024-06-04T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 69,
-    "linkTypeId": 1,
-    "linkCategoryId": 19,
     "title": "Different Gets Ignored",
     "url": "https://www.lukew.com/ff/entry.asp?2066",
     "author": "Luke Wroblewski",
     "linkDate": "2024-06-04T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 19,
+    "category": {
       "name": "Design",
       "colorCode": "#0b545e"
     }
   },
   {
     "linkId": 70,
-    "linkTypeId": 1,
-    "linkCategoryId": 13,
     "title": "China will be the first to retrieve soil samples from the far side of the Moon",
     "url": "https://www.theverge.com/2024/6/4/24171169/china-lunar-sample-far-side-moon-launch",
     "author": "Justine Calma",
     "linkDate": "2024-06-04T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 13,
+    "category": {
       "name": "Space",
       "colorCode": "#2c0d18"
     }
   },
   {
     "linkId": 71,
-    "linkTypeId": 1,
-    "linkCategoryId": 3,
     "title": "It\u2019s getting cheaper to filter carbon dioxide out of the air",
     "url": "https://www.theverge.com/2024/6/4/24170729/direct-air-capture-carbon-dioxide-removal-climate-tech-climeworks-generation-3",
     "author": "Justine Calma",
     "linkDate": "2024-06-04T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 3,
+    "category": {
       "name": "Climate",
       "colorCode": "#9a702d"
     }
   },
   {
     "linkId": 72,
-    "linkTypeId": 1,
-    "linkCategoryId": 5,
     "title": "You Don\u2019t Own The Video Games You\u2019ve Bought: The Death Edition",
     "url": "https://www.techdirt.com/2024/06/03/you-dont-own-the-video-games-youve-bought-the-death-edition/",
     "author": "Timothy Geigner",
     "linkDate": "2024-06-04T00:00:00",
     "readingLogIssueNumber": 80,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 5,
+    "category": {
       "name": "Gaming",
       "colorCode": "#275576"
     }
   },
   {
     "linkId": 73,
-    "linkTypeId": 1,
-    "linkCategoryId": 15,
     "title": "\u2018You\u2019re Fighting AI With AI\u2019: Bots Are Breaking the Hiring Process",
     "url": "https://www.wsj.com/lifestyle/careers/ai-job-application-685f29f7",
     "author": "Lindsay Ellis",
     "linkDate": "2024-06-01T00:00:00",
     "readingLogIssueNumber": 79,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 15,
+    "category": {
       "name": "Technology",
       "colorCode": "#273fd2"
     }
   },
   {
     "linkId": 74,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "The Modern Guide For Making CSS Shapes",
     "url": "https://www.smashingmagazine.com/2024/05/modern-guide-making-css-shapes/",
     "author": "Temani Afif",
     "linkDate": "2024-06-01T00:00:00",
     "readingLogIssueNumber": 79,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 75,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Finally Understanding How Array.sort(comparator) Works",
     "url": "https://www.jameskerr.blog/posts/javascript-sort-comparators/",
     "author": "James Kerr",
     "linkDate": "2024-05-29T00:00:00",
     "readingLogIssueNumber": 79,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 76,
-    "linkTypeId": 1,
-    "linkCategoryId": 16,
     "title": "Why Jonathan Haidt\u2019s \u2018Protect The Kids\u2019 Proposals Could Make Things Worse For Kids",
     "url": "https://www.techdirt.com/2024/05/22/why-jonathan-haidts-protect-the-kids-proposals-could-make-things-worse/",
     "author": "Mike Masnick",
     "linkDate": "2024-05-29T00:00:00",
     "readingLogIssueNumber": 79,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 16,
+    "category": {
       "name": "The Internet",
       "colorCode": "#8b3d15"
     }
   },
   {
     "linkId": 77,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Why Patching Globals Is Harmful",
     "url": "https://kettanaito.com/blog/why-patching-globals-is-harmful",
     "author": "Artem Zakharchenko",
     "linkDate": "2024-05-29T00:00:00",
     "readingLogIssueNumber": 79,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 78,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Generative A.I. for Writers: An Unfolding (but not Inevitable) Nightmare!",
     "url": "https://terribleminds.com/ramble/2024/04/01/generative-a-i-for-writers-an-unfolding-but-not-inevitable-nightmare/",
     "author": "Chuck Wendig",
     "linkDate": "2024-05-29T00:00:00",
     "readingLogIssueNumber": 79,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 79,
-    "linkTypeId": 1,
-    "linkCategoryId": 1,
     "title": "Don\u0027t Do This With Extension Methods",
     "url": "https://adamstorr.co.uk/blog/dont-do-this-with-extension-methods/",
     "author": "Adam Storr",
     "linkDate": "2024-05-28T00:00:00",
     "readingLogIssueNumber": 79,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 1,
+    "category": {
       "name": ".NET",
       "colorCode": "#5725a0"
     }
   },
   {
     "linkId": 80,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "A common web component learning blunder",
     "url": "https://daverupert.com/2024/05/cold-turkey-wont-fix-your-javascript-addiction/",
     "author": "Dave Rupert",
     "linkDate": "2024-05-28T00:00:00",
     "readingLogIssueNumber": 79,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 81,
-    "linkTypeId": 1,
-    "linkCategoryId": 13,
     "title": "A planet for Fomalhaut? And three ancient stars from another galaxy orbit our own",
     "url": "https://badastronomy.beehiiv.com/p/planet-fomalhaut-three-ancient-stars-another-galaxy-orbit",
     "author": "Philip Plait",
     "linkDate": "2024-05-28T00:00:00",
     "readingLogIssueNumber": 79,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 13,
+    "category": {
       "name": "Space",
       "colorCode": "#2c0d18"
     }
   },
   {
     "linkId": 82,
-    "linkTypeId": 1,
-    "linkCategoryId": 16,
     "title": "The Analog Web",
     "url": "https://thehistoryoftheweb.com/the-analog-web/",
     "author": "Jay Hoffmann",
     "linkDate": "2024-05-26T00:00:00",
     "readingLogIssueNumber": 78,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 16,
+    "category": {
       "name": "The Internet",
       "colorCode": "#8b3d15"
     }
   },
   {
     "linkId": 83,
-    "linkTypeId": 1,
-    "linkCategoryId": 5,
     "title": "The Nintendo Switch has turned into an excellent Mario RPG machine",
     "url": "https://www.theverge.com/24162364/paper-mario-rpg-nintendo-switch",
     "author": "Andrew Webster",
     "linkDate": "2024-05-23T00:00:00",
     "readingLogIssueNumber": 78,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 5,
+    "category": {
       "name": "Gaming",
       "colorCode": "#275576"
     }
   },
   {
     "linkId": 84,
-    "linkTypeId": 1,
-    "linkCategoryId": 5,
     "title": "Atari acquires longtime rival Intellivision",
     "url": "https://www.theverge.com/2024/5/23/24163176/atari-acquires-intellivision-amico-console",
     "author": "Ash Parrish",
     "linkDate": "2024-05-23T00:00:00",
     "readingLogIssueNumber": 78,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 5,
+    "category": {
       "name": "Gaming",
       "colorCode": "#275576"
     }
   },
   {
     "linkId": 85,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Don\u2019t be afraid to admit when you don\u2019t know something",
     "url": "https://coryd.dev/posts/2024/dont-be-afraid-to-admin-when-you-dont-know-something/",
     "author": "Cory Dransfeldt",
     "linkDate": "2024-05-21T00:00:00",
     "readingLogIssueNumber": 78,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 86,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "How we fix the rebellion against knowledge",
     "url": "https://joanwestenberg.com/blog/vlze6zsss80jh0xbew8e3ukxl4voxp",
     "author": "Joan Westenberg",
     "linkDate": "2024-05-21T00:00:00",
     "readingLogIssueNumber": 78,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 87,
-    "linkTypeId": 1,
-    "linkCategoryId": 16,
     "title": "The Worst Website In The Entire World",
     "url": "https://matduggan.com/the-worst-website-in-the-entire-world/",
     "author": "Matthew Duggan",
     "linkDate": "2024-05-21T00:00:00",
     "readingLogIssueNumber": 78,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 16,
+    "category": {
       "name": "The Internet",
       "colorCode": "#8b3d15"
     }
   },
   {
     "linkId": 88,
-    "linkTypeId": 1,
-    "linkCategoryId": 15,
     "title": "University Suspends Students for AI Homework Tool It Gave Them $10,000 Prize to Make",
     "url": "https://www.404media.co/university-suspends-students-for-ai-homework-tool-it-paid-them-10-000-to-make/",
     "author": "Jason Koebler",
     "linkDate": "2024-05-21T00:00:00",
     "readingLogIssueNumber": 78,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 15,
+    "category": {
       "name": "Technology",
       "colorCode": "#273fd2"
     }
   },
   {
     "linkId": 89,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Hidden vs. Disabled In UX",
     "url": "https://www.smashingmagazine.com/2024/05/hidden-vs-disabled-ux/",
     "author": "Vitaly Friedman",
     "linkDate": "2024-05-21T00:00:00",
     "readingLogIssueNumber": 78,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 90,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Invisible success",
     "url": "https://ericwbailey.website/published/invisible-success/",
     "author": "Eric Bailey",
     "linkDate": "2024-05-21T00:00:00",
     "readingLogIssueNumber": 78,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 91,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Safe/unsafe alignment in CSS flexbox",
     "url": "https://www.stefanjudis.com/today-i-learned/safe-unsafe-alignment-in-css-flexbox/",
     "author": "Stefan Judis",
     "linkDate": "2024-05-21T00:00:00",
     "readingLogIssueNumber": 78,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 92,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "The future of responsive design with Una Kravets and Adam Argyle",
     "url": "https://podrocket.logrocket.com/future-of-responsive-design",
     "author": "PodRocket",
     "linkDate": "2024-05-20T00:00:00",
     "readingLogIssueNumber": 77,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 93,
-    "linkTypeId": 1,
-    "linkCategoryId": 16,
     "title": "Manifesto for a Humane Web",
     "url": "https://humanewebmanifesto.com/",
     "author": "Michelle Barker",
     "linkDate": "2024-05-20T00:00:00",
     "readingLogIssueNumber": 77,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 16,
+    "category": {
       "name": "The Internet",
       "colorCode": "#8b3d15"
     }
   },
   {
     "linkId": 94,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "CSS inheritance",
     "url": "https://piccalil.li/blog/css-inheritance/",
     "author": "Andy Bell",
     "linkDate": "2024-05-19T00:00:00",
     "readingLogIssueNumber": 77,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 95,
-    "linkTypeId": 1,
-    "linkCategoryId": 15,
     "title": "It is dangerously easy to hack the world\u2019s phones",
     "url": "https://www.economist.com/science-and-technology/2024/05/17/it-is-dangerously-easy-to-hack-the-worlds-phones",
     "author": "The Economist",
     "linkDate": "2024-05-19T00:00:00",
     "readingLogIssueNumber": 77,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 15,
+    "category": {
       "name": "Technology",
       "colorCode": "#273fd2"
     }
   },
   {
     "linkId": 96,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Make Your Forms Accessible to All: A Checklist for Web \u0026 Mobile Apps",
     "url": "https://www.digitala11y.com/make-your-forms-accessible-to-all-a-checklist-for-web-mobile-apps/",
     "author": "Raghavendra Satish Peri",
     "linkDate": "2024-05-17T00:00:00",
     "readingLogIssueNumber": 77,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 97,
-    "linkTypeId": 1,
-    "linkCategoryId": 6,
     "title": "C isn\u2019t a Hangover; Rust isn\u2019t a Hangover Cure",
     "url": "https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce",
     "author": "John Viega",
     "linkDate": "2024-05-17T00:00:00",
     "readingLogIssueNumber": 77,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 6,
+    "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
     }
   },
   {
     "linkId": 98,
-    "linkTypeId": 1,
-    "linkCategoryId": 13,
     "title": "Private mission to save the Hubble Space Telescope raises concerns, NASA emails show",
     "url": "https://www.npr.org/2024/05/16/1250250249/spacex-repair-hubble-space-telescope-nasa-foia",
     "author": "Nell Greenfieldboyce",
     "linkDate": "2024-05-16T00:00:00",
     "readingLogIssueNumber": 77,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 13,
+    "category": {
       "name": "Space",
       "colorCode": "#2c0d18"
     }
   },
   {
     "linkId": 99,
-    "linkTypeId": 1,
-    "linkCategoryId": 15,
     "title": "Apple and Google deliver support for unwanted tracking alerts in iOS and Android",
     "url": "https://www.apple.com/ca/newsroom/2024/05/apple-and-google-deliver-support-for-unwanted-tracking-alerts-in-ios-and-android/",
     "author": "Apple",
     "linkDate": "2024-05-14T00:00:00",
     "readingLogIssueNumber": 77,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 15,
+    "category": {
       "name": "Technology",
       "colorCode": "#273fd2"
     }
   },
   {
     "linkId": 100,
-    "linkTypeId": 1,
-    "linkCategoryId": 9,
     "title": "System of a Down\u0027s Serj Tankian on his memoir, why a new album hasn\u0027t come since 2005",
     "url": "https://www.npr.org/2024/05/14/1250973443/system-of-a-downs-serj-tankian-on-his-memoir-why-a-new-album-hasnt-come-since-20",
     "author": "Kaity Kline, Phil Harrell, \u0026 A Mart\u00EDnez",
     "linkDate": "2024-05-14T00:00:00",
     "readingLogIssueNumber": 77,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 9,
+    "category": {
       "name": "Media \u0026 Entertainment",
       "colorCode": "#7949a8"
     }
   },
   {
     "linkId": 101,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "React 19 Beta",
     "url": "https://react.dev/blog/2024/04/25/react-19",
     "author": "The React Team",
     "linkDate": "2024-05-13T00:00:00",
     "readingLogIssueNumber": 76,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 102,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Start With Simple\u00A0Tools",
     "url": "https://mikegrindle.com/posts/start-simple",
     "author": "Mike Grindle",
     "linkDate": "2024-05-13T00:00:00",
     "readingLogIssueNumber": 76,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 103,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Level-Setting Heading Levels",
     "url": "https://adrianroselli.com/2024/05/level-setting-heading-levels.html",
     "author": "Adrian Roselli",
     "linkDate": "2024-05-09T00:00:00",
     "readingLogIssueNumber": 76,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 104,
-    "linkTypeId": 1,
-    "linkCategoryId": 13,
     "title": "Boeing\u2019s Big Space Test: Using Starliner to Ferry NASA Astronauts",
     "url": "https://www.wsj.com/science/space-astronomy/boeings-big-space-test-using-starliner-to-ferry-nasa-astronauts-b1425629?st=ojphifftvoa9d9m\u0026reflink=article_copyURL_share",
     "author": "Micah Maidenberg",
     "linkDate": "2024-05-09T00:00:00",
     "readingLogIssueNumber": 76,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 13,
+    "category": {
       "name": "Space",
       "colorCode": "#2c0d18"
     }
   },
   {
     "linkId": 105,
-    "linkTypeId": 3,
-    "linkCategoryId": 6,
     "title": "The Case Against Clean\u00A0Architecture",
     "url": "https://jeremydmiller.com/2024/02/12/the-case-against-clean-architecture/",
     "author": "Jeremy D. Miller",
     "linkDate": "2024-05-09T00:00:00",
     "readingLogIssueNumber": 76,
-    "linkType": {
-      "linkTypeId": 3,
+    "type": {
       "name": "Video",
       "colorCode": "#a53621"
     },
-    "linkCategory": {
-      "linkCategoryId": 6,
+    "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
     }
   },
   {
     "linkId": 106,
-    "linkTypeId": 3,
-    "linkCategoryId": 4,
     "title": "New talk: Making Hard Things Easy",
     "url": "https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/",
     "author": "Julia Evans",
     "linkDate": "2024-05-09T00:00:00",
     "readingLogIssueNumber": 76,
-    "linkType": {
-      "linkTypeId": 3,
+    "type": {
       "name": "Video",
       "colorCode": "#a53621"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 107,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Talking TikTok",
     "url": "https://www.techdirt.com/2024/04/30/techdirt-podcast-episode-389-talking-tiktok/",
     "author": "Techdirt Podcast",
     "linkDate": "2024-05-09T00:00:00",
     "readingLogIssueNumber": 76,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 108,
-    "linkTypeId": 1,
-    "linkCategoryId": 13,
     "title": "NASA confirms \u201Cindependent review\u201D of Orion heat shield issue",
     "url": "https://arstechnica.com/space/2024/05/nasa-confirms-independent-review-of-orion-heat-shield-issue/",
     "author": "Stephen Clark",
     "linkDate": "2024-05-09T00:00:00",
     "readingLogIssueNumber": 76,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 13,
+    "category": {
       "name": "Space",
       "colorCode": "#2c0d18"
     }
   },
   {
     "linkId": 109,
-    "linkTypeId": 1,
-    "linkCategoryId": 9,
     "title": "Peacock is turning The Office into a franchise with a new spinoff series",
     "url": "https://www.theverge.com/2024/5/8/24152046/peacock-office-spinoff-greg-daniels-michael-koman",
     "author": "Charles Pulliam-Moore",
     "linkDate": "2024-05-08T00:00:00",
     "readingLogIssueNumber": 76,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 9,
+    "category": {
       "name": "Media \u0026 Entertainment",
       "colorCode": "#7949a8"
     }
   },
   {
     "linkId": 110,
-    "linkTypeId": 1,
-    "linkCategoryId": 5,
     "title": "Elder Scrolls and Fallout devs Bethesda want to release games more often, but making them last is more important",
     "url": "https://www.rockpapershotgun.com/elder-scrolls-and-fallout-creators-bethesda-want-to-release-games-more-often-but-making-them-last-is-more-important",
     "author": "Edwin Evans-Thirlwell",
     "linkDate": "2024-05-08T00:00:00",
     "readingLogIssueNumber": 76,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 5,
+    "category": {
       "name": "Gaming",
       "colorCode": "#275576"
     }
   },
   {
     "linkId": 111,
-    "linkTypeId": 1,
-    "linkCategoryId": 1,
     "title": "Blazor 8 Render Mode Detection",
     "url": "https://blog.lhotka.net/2024/03/30/Blazor-8-Render-Mode-Detection",
     "author": "Rockford Lhotka",
     "linkDate": "2024-05-06T00:00:00",
     "readingLogIssueNumber": 75,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 1,
+    "category": {
       "name": ".NET",
       "colorCode": "#5725a0"
     }
   },
   {
     "linkId": 112,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Help us invent CSS Grid Level 3, aka \u201CMasonry\u201D layout",
     "url": "https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/",
     "author": "Jen Simmons",
     "linkDate": "2024-05-06T00:00:00",
     "readingLogIssueNumber": 75,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 113,
-    "linkTypeId": 1,
-    "linkCategoryId": 13,
     "title": "NASA says Artemis II report by its inspector general is unhelpful and redundant",
     "url": "https://arstechnica.com/space/2024/05/nasa-seems-unhappy-to-be-questioned-about-its-artemis-ii-readiness/",
     "author": "Eric Berger",
     "linkDate": "2024-05-02T00:00:00",
     "readingLogIssueNumber": 75,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 13,
+    "category": {
       "name": "Space",
       "colorCode": "#2c0d18"
     }
   },
   {
     "linkId": 114,
-    "linkTypeId": 1,
-    "linkCategoryId": 16,
     "title": "We can have a different web",
     "url": "https://www.citationneeded.news/we-can-have-a-different-web/",
     "author": "Molly White",
     "linkDate": "2024-05-02T00:00:00",
     "readingLogIssueNumber": 75,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 16,
+    "category": {
       "name": "The Internet",
       "colorCode": "#8b3d15"
     }
   },
   {
     "linkId": 115,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "An evolution, not a revolution",
     "url": "https://piccalil.li/blog/an-evolution-not-a-revolution/",
     "author": "Andy Bell",
     "linkDate": "2024-05-02T00:00:00",
     "readingLogIssueNumber": 75,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 116,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "The \u0060never\u0060 type and error handling in TypeScript",
     "url": "https://fettblog.eu/typescript-never-and-error-handling/",
     "author": "Stefan Baumgartner",
     "linkDate": "2024-05-01T00:00:00",
     "readingLogIssueNumber": 75,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 117,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "CSS Button Styles You Might Not Know",
     "url": "https://dbushell.com/2024/03/10/css-button-styles-you-might-not-know/",
     "author": "David Bushell",
     "linkDate": "2024-05-01T00:00:00",
     "readingLogIssueNumber": 75,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 118,
-    "linkTypeId": 1,
-    "linkCategoryId": 15,
     "title": "UnitedHealth CEO admits it paid $22 million ransom to BlackCat",
     "url": "https://www.theverge.com/2024/5/1/24146693/unitedhealth-22-million-ransom-ransomware-hack-blackcat",
     "author": "Gaby Del Valle",
     "linkDate": "2024-05-01T00:00:00",
     "readingLogIssueNumber": 75,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 15,
+    "category": {
       "name": "Technology",
       "colorCode": "#273fd2"
     }
   },
   {
     "linkId": 119,
-    "linkTypeId": 1,
-    "linkCategoryId": 11,
     "title": "Congress lets broadband funding run out, ending $30 low-income discounts",
     "url": "https://arstechnica.com/tech-policy/2024/05/fcc-makes-last-plea-to-congress-as-broadband-discount-program-runs-out-of-cash/",
     "author": "Jon Brodkin",
     "linkDate": "2024-05-01T00:00:00",
     "readingLogIssueNumber": 75,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 11,
+    "category": {
       "name": "Politics",
       "colorCode": "#8b642f"
     }
   },
   {
     "linkId": 120,
-    "linkTypeId": 1,
-    "linkCategoryId": 15,
     "title": "Verizon, AT\u0026T, T-Mobile Finally Fined $192 Million For Abuse Of User Location Data",
     "url": "https://www.techdirt.com/2024/05/01/verizon-att-t-mobile-finally-fined-192-million-for-abuse-of-user-location-data/",
     "author": "Karl Bode",
     "linkDate": "2024-05-01T00:00:00",
     "readingLogIssueNumber": 75,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 15,
+    "category": {
       "name": "Technology",
       "colorCode": "#273fd2"
     }
   },
   {
     "linkId": 121,
-    "linkTypeId": 1,
-    "linkCategoryId": 13,
     "title": "Daily Telescope: The Horsehead Nebula as we\u2019ve never seen it before",
     "url": "https://arstechnica.com/space/2024/05/daily-telescope-seeing-a-mane-attraction-up-close/",
     "author": "Eric Berger",
     "linkDate": "2024-05-01T00:00:00",
     "readingLogIssueNumber": 75,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 13,
+    "category": {
       "name": "Space",
       "colorCode": "#2c0d18"
     }
   },
   {
     "linkId": 122,
-    "linkTypeId": 1,
-    "linkCategoryId": 13,
     "title": "NASA lays out how SpaceX will refuel Starships in low-Earth orbit",
     "url": "https://arstechnica.com/space/2024/04/nasa-exploration-chief-lays-out-next-steps-for-starship-development/",
     "author": "Stephen Clark",
     "linkDate": "2024-04-29T00:00:00",
     "readingLogIssueNumber": 75,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 13,
+    "category": {
       "name": "Space",
       "colorCode": "#2c0d18"
     }
   },
   {
     "linkId": 123,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "William Bernstein on stocks, bonds, and the economy",
     "url": "https://shows.acast.com/the-new-bazaar/episodes/william-bernstein-on-stocks-bonds-and-the-economy",
     "author": "The New Bazaar",
     "linkDate": "2024-04-27T00:00:00",
     "readingLogIssueNumber": 74,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 124,
-    "linkTypeId": 1,
-    "linkCategoryId": 5,
     "title": "Video Games Should Be Easy, For Baby Gamers Like Me",
     "url": "https://defector.com/video-games-should-be-easy-for-baby-gamers-like-me",
     "author": "Barry Petchesky",
     "linkDate": "2024-04-25T00:00:00",
     "readingLogIssueNumber": 74,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 5,
+    "category": {
       "name": "Gaming",
       "colorCode": "#275576"
     }
   },
   {
     "linkId": 125,
-    "linkTypeId": 1,
-    "linkCategoryId": 16,
     "title": "Jonathan Haidt\u2019s Book \u2018The Anxious Generation\u2019 Is Coddling The American Parent; Giving Them Clear, Simple \u0026 Wrong Explanations For What\u2019s Ailing Teens",
     "url": "https://www.techdirt.com/2024/04/22/jonathan-haidts-book-the-anxious-generation-is-coddling-the-american-parent-giving-them-clear-simple-wrong-explanations-for-whats-ailing-teens/",
     "author": "Mike Masnick",
     "linkDate": "2024-04-25T00:00:00",
     "readingLogIssueNumber": 74,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 16,
+    "category": {
       "name": "The Internet",
       "colorCode": "#8b3d15"
     }
   },
   {
     "linkId": 126,
-    "linkTypeId": 1,
-    "linkCategoryId": 16,
     "title": "The Coddling of the American Parent",
     "url": "https://www.thedailybeast.com/the-coddling-of-the-american-parent?ref=author",
     "author": "Mike Masnick",
     "linkDate": "2024-04-25T00:00:00",
     "readingLogIssueNumber": 74,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 16,
+    "category": {
       "name": "The Internet",
       "colorCode": "#8b3d15"
     }
   },
   {
     "linkId": 127,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Digital reading soars in Seattle, creating problems for local libraries",
     "url": "https://www.kuow.org/stories/digital-reading-soars-in-seattle-creating-problems-for-local-libraries",
     "author": "Clare McGrane \u0026 Patricia Murphy",
     "linkDate": "2024-04-25T00:00:00",
     "readingLogIssueNumber": 74,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 128,
-    "linkTypeId": 1,
-    "linkCategoryId": 16,
     "title": "Benjamin Cohen was falsely accused of the Bondi Junction stabbings. Here\u0027s how the lie spread around the world.",
     "url": "https://www.abc.net.au/news/2024-04-15/how-misinformation-spread-after-bondi-junction-stabbing/103708210",
     "author": "Kevin Nguyen\u00A0and\u00A0Michael Workman",
     "linkDate": "2024-04-24T00:00:00",
     "readingLogIssueNumber": 74,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 16,
+    "category": {
       "name": "The Internet",
       "colorCode": "#8b3d15"
     }
   },
   {
     "linkId": 129,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "The Difficulty of Being a Teen Online",
     "url": "https://podcast.ctrlaltspeech.com/2315966/14920868-the-difficulty-of-being-a-teen-online",
     "author": "Ctrl-Alt-Speech",
     "linkDate": "2024-04-24T00:00:00",
     "readingLogIssueNumber": 74,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 130,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "What we often get wrong about teens and screen time",
     "url": "https://www.marketplace.org/shows/make-me-smart/what-we-often-get-wrong-about-teens-and-screen-time/",
     "author": "Make Me Smart",
     "linkDate": "2024-04-24T00:00:00",
     "readingLogIssueNumber": 74,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 131,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "The align-content property for block layouts is now part of Baseline",
     "url": "https://web.dev/blog/align-content-block",
     "author": "Rachel Andrew",
     "linkDate": "2024-04-23T00:00:00",
     "readingLogIssueNumber": 74,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 132,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "How would you build Wordle with just HTML \u0026 CSS?",
     "url": "https://scottjehl.com/posts/wordleish/",
     "author": "Scott Jehl",
     "linkDate": "2024-04-21T00:00:00",
     "readingLogIssueNumber": 73,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 133,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Sliding 3D Image Frames In CSS",
     "url": "https://www.smashingmagazine.com/2024/04/sliding-3d-image-frames-css/",
     "author": "Temani Afif",
     "linkDate": "2024-04-21T00:00:00",
     "readingLogIssueNumber": 73,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 134,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "The Box Model and Box Sizing",
     "url": "https://piccalil.li/blog/the-box-model-and-box-sizing/",
     "author": "Andy Bell",
     "linkDate": "2024-04-21T00:00:00",
     "readingLogIssueNumber": 73,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 135,
-    "linkTypeId": 1,
-    "linkCategoryId": 1,
     "title": "Understanding the Whys, Whats, and Whens of ValueTask",
     "url": "https://devblogs.microsoft.com/dotnet/understanding-the-whys-whats-and-whens-of-valuetask/",
     "author": "Stephen Toub",
     "linkDate": "2024-04-21T00:00:00",
     "readingLogIssueNumber": 73,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 1,
+    "category": {
       "name": ".NET",
       "colorCode": "#5725a0"
     }
   },
   {
     "linkId": 136,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "A primer on the cascade and specificity",
     "url": "https://piccalil.li/blog/a-primer-on-the-cascade-and-specificity/",
     "author": "Andy Bell",
     "linkDate": "2024-04-21T00:00:00",
     "readingLogIssueNumber": 73,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 137,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "The Fifty-Fifty Split and Overflow",
     "url": "https://ryanmulligan.dev/blog/50-50-overflow/",
     "author": "Ryan Mulligan",
     "linkDate": "2024-04-21T00:00:00",
     "readingLogIssueNumber": 73,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 138,
-    "linkTypeId": 1,
-    "linkCategoryId": 6,
     "title": "Everyone should be an architect",
     "url": "https://bartwullems.blogspot.com/2024/03/everyone-should-be-architect.html",
     "author": "Bart Wullems",
     "linkDate": "2024-04-21T00:00:00",
     "readingLogIssueNumber": 73,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 6,
+    "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
     }
   },
   {
     "linkId": 139,
-    "linkTypeId": 1,
-    "linkCategoryId": 16,
     "title": "Why Bluesky Remains The Most Interesting Experiment In Social Media, By Far",
     "url": "https://www.techdirt.com/2024/03/27/why-bluesky-remains-the-most-interesting-experiment-in-social-media-by-far/",
     "author": "Mike Masnick",
     "linkDate": "2024-04-21T00:00:00",
     "readingLogIssueNumber": 73,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 16,
+    "category": {
       "name": "The Internet",
       "colorCode": "#8b3d15"
     }
   },
   {
     "linkId": 140,
-    "linkTypeId": 1,
-    "linkCategoryId": 6,
     "title": "Redis\u2019 license change and forking are a mess that everybody can feel bad about",
     "url": "https://arstechnica.com/information-technology/2024/04/redis-license-change-and-forking-are-a-mess-that-everybody-can-feel-bad-about/",
     "author": "Kevin Purdy",
     "linkDate": "2024-04-21T00:00:00",
     "readingLogIssueNumber": 73,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 6,
+    "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
     }
   },
   {
     "linkId": 141,
-    "linkTypeId": 1,
-    "linkCategoryId": 15,
     "title": "Why Corporations Fail to Protect Our Data",
     "url": "https://om.co/2024/03/31/why-corporations-fail-to-protect-our-data/",
     "author": "Om Malik",
     "linkDate": "2024-04-21T00:00:00",
     "readingLogIssueNumber": 73,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 15,
+    "category": {
       "name": "Technology",
       "colorCode": "#273fd2"
     }
   },
   {
     "linkId": 142,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "CSS in React Server Components",
     "url": "https://www.joshwcomeau.com/react/css-in-rsc/",
     "author": "Josh W Comeau",
     "linkDate": "2024-04-21T00:00:00",
     "readingLogIssueNumber": 73,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 143,
-    "linkTypeId": 1,
-    "linkCategoryId": 6,
     "title": "Returning A Row When Your Query Has No Results",
     "url": "https://erikdarling.com/returning-a-row-when-your-query-has-no-results/",
     "author": "Erik Darling",
     "linkDate": "2024-04-21T00:00:00",
     "readingLogIssueNumber": 73,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 6,
+    "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
     }
   },
   {
     "linkId": 144,
-    "linkTypeId": 1,
-    "linkCategoryId": 15,
     "title": "Why the US government\u2019s overreliance on Microsoft is a big problem",
     "url": "https://www.wired.com/story/the-us-government-has-a-microsoft-problem/",
     "author": "Eric Geller",
     "linkDate": "2024-04-20T00:00:00",
     "readingLogIssueNumber": 73,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 15,
+    "category": {
       "name": "Technology",
       "colorCode": "#273fd2"
     }
   },
   {
     "linkId": 145,
-    "linkTypeId": 1,
-    "linkCategoryId": 13,
     "title": "A chunk of metal that tore through a Florida home definitely came from the ISS",
     "url": "https://arstechnica.com/space/2024/04/florida-man-tells-ars-about-his-encounter-with-something-that-fell-from-space/",
     "author": "Stephen Clark",
     "linkDate": "2024-04-20T00:00:00",
     "readingLogIssueNumber": 73,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 13,
+    "category": {
       "name": "Space",
       "colorCode": "#2c0d18"
     }
   },
   {
     "linkId": 146,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Why the Short-Lived Calvin and Hobbes is Still One of the Most Beloved and Influential Comic Strips",
     "url": "https://www.openculture.com/2024/04/why-the-short-lived-calvin-and-hobbes-is-still-one-of-the-most-beloved-and-influential-comic-strips.html",
     "author": "Colin Marshall",
     "linkDate": "2024-04-20T00:00:00",
     "readingLogIssueNumber": 73,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 147,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "I can\u0027t use my number pad for 2FA codes",
     "url": "https://shkspr.mobi/blog/2024/04/i-cant-use-my-number-pad-for-2fa-codes/",
     "author": "Terence Eden",
     "linkDate": "2024-04-17T00:00:00",
     "readingLogIssueNumber": 73,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 148,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "When Parakeets Plundered New York",
     "url": "https://www.pushkin.fm/podcasts/cautionary-tales/when-parakeets-plundered-new-york",
     "author": "Cautionary Tales",
     "linkDate": "2024-04-15T00:00:00",
     "readingLogIssueNumber": 73,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 149,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Fluent Assertions with Dennis Doomen",
     "url": "https://www.dotnetrocks.com/details/1854",
     "author": ".NET Rocks",
     "linkDate": "2024-04-15T00:00:00",
     "readingLogIssueNumber": 73,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 150,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Write CSS. Not too much. Mostly scoped.",
     "url": "https://www.leereamsnyder.com/write-css-not-too-much-mostly-scoped",
     "author": "Lee James Reamsnyder",
     "linkDate": "2024-04-14T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 151,
-    "linkTypeId": 1,
-    "linkCategoryId": 1,
     "title": "Useful features in Entity Framework Core 8 for your application",
     "url": "https://dateo-software.de/blog/entity-framework-8",
     "author": "Dennis Fr\u00FChauff",
     "linkDate": "2024-04-13T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 1,
+    "category": {
       "name": ".NET",
       "colorCode": "#5725a0"
     }
   },
   {
     "linkId": 152,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "What is the Transitional Web with Chris Ferdinandi",
     "url": "https://podcast.smashingmagazine.com/episodes/what-is-the-transitional-web-with-chris-ferdinandi",
     "author": "Smashing Magazine Podcast",
     "linkDate": "2024-04-12T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 153,
-    "linkTypeId": 1,
-    "linkCategoryId": 9,
     "title": "If You Love Podcasts, Dump Spotify",
     "url": "https://defector.com/if-you-love-podcasts-dump-spotify",
     "author": "Alex Sujong Laughlin",
     "linkDate": "2024-04-12T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 9,
+    "category": {
       "name": "Media \u0026 Entertainment",
       "colorCode": "#7949a8"
     }
   },
   {
     "linkId": 154,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "(De)coding conventions",
     "url": "https://github.com/readme/podcast/decoding-conventions",
     "author": "The ReadME Podcast",
     "linkDate": "2024-04-11T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 155,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "The Legacy Of Baseball\u0027s \u0027Negro League\u0027",
     "url": "https://www.npr.org/2023/06/26/1184369968/the-legacy-of-baseballs-negro-league",
     "author": "Fresh Air",
     "linkDate": "2024-04-11T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 156,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "I want to elevate more people with Piccalilli Links",
     "url": "https://piccalil.li/blog/i-want-to-elevate-more-people/",
     "author": "Andy Bell",
     "linkDate": "2024-04-11T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 157,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Scaling a Monolith with Derek Comartin",
     "url": "https://www.dotnetrocks.com/details/1853",
     "author": ".NET Rocks",
     "linkDate": "2024-04-11T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 158,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "For Ivy League Rejects, Public Schools Are Next-Best Bet",
     "url": "https://www.bloomberg.com/graphics/2024-college-return-on-investment/",
     "author": "The Big Take",
     "linkDate": "2024-04-11T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 159,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "JavaScript Visualized: Promise Execution",
     "url": "https://lydiahallie.framer.website/blog/promise-execution",
     "author": "Lydia Hallie",
     "linkDate": "2024-04-10T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 160,
-    "linkTypeId": 1,
-    "linkCategoryId": 6,
     "title": "What is static code analysis?",
     "url": "https://blog.jetbrains.com/qodana/2024/03/what-is-static-code-analysis/",
     "author": "Kerry Beetge",
     "linkDate": "2024-04-10T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 6,
+    "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
     }
   },
   {
     "linkId": 161,
-    "linkTypeId": 1,
-    "linkCategoryId": 6,
     "title": "Designing for Neurodiversity",
     "url": "https://blog.scottlogic.com/2024/03/22/designing-for-neurodiversity.html",
     "author": "Mark Wallace",
     "linkDate": "2024-04-10T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 6,
+    "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
     }
   },
   {
     "linkId": 162,
-    "linkTypeId": 1,
-    "linkCategoryId": 1,
     "title": "Collection Expressions \u2013 Using C# 12 in Rider and ReSharper",
     "url": "https://blog.jetbrains.com/dotnet/2024/03/26/collection-expressions-using-csharp-12-in-rider-and-resharper/",
     "author": "Matthias Koch",
     "linkDate": "2024-04-10T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 1,
+    "category": {
       "name": ".NET",
       "colorCode": "#5725a0"
     }
   },
   {
     "linkId": 163,
-    "linkTypeId": 1,
-    "linkCategoryId": 1,
     "title": "C# Compiler Lead Jared Parsons on 20 Years at Microsoft",
     "url": "https://thenewstack.io/c-compiler-lead-jared-parsons-on-20-years-at-microsoft/",
     "author": "David Cassel",
     "linkDate": "2024-04-10T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 1,
+    "category": {
       "name": ".NET",
       "colorCode": "#5725a0"
     }
   },
   {
     "linkId": 164,
-    "linkTypeId": 1,
-    "linkCategoryId": 20,
     "title": "Green Acres",
     "url": "https://texashighways.com/culture/people/one-mans-quest-to-transform-the-west-texas-desert/",
     "author": "Wes Ferguson",
     "linkDate": "2024-04-10T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 20,
+    "category": {
       "name": "Longform",
       "colorCode": "#571693"
     }
   },
   {
     "linkId": 165,
-    "linkTypeId": 1,
-    "linkCategoryId": 2,
     "title": "Beeper was just acquired by Automattic, which has big plans for the future of messaging",
     "url": "https://www.theverge.com/2024/4/9/24124179/beeper-app-automattic-acquisition-matrix-messaging",
     "author": "David Pierce",
     "linkDate": "2024-04-10T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 2,
+    "category": {
       "name": "Business \u0026 Finance",
       "colorCode": "#0d5430"
     }
   },
   {
     "linkId": 166,
-    "linkTypeId": 1,
-    "linkCategoryId": 6,
     "title": "The Cost of Not Logging",
     "url": "https://pmichaels.net/cost-of-not-logging/",
     "author": "Paul Michaels",
     "linkDate": "2024-04-10T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 6,
+    "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
     }
   },
   {
     "linkId": 167,
-    "linkTypeId": 1,
-    "linkCategoryId": 6,
     "title": "How to correctly review a pull request",
     "url": "https://jimbobbennett.dev/blogs/how-to-review-a-pr/",
     "author": "Jim Bennett",
     "linkDate": "2024-04-10T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 6,
+    "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
     }
   },
   {
     "linkId": 168,
-    "linkTypeId": 1,
-    "linkCategoryId": 14,
     "title": "Pitching injury crisis has no easy fix, but baseball\u2019s leaders better get to work on one",
     "url": "https://theathletic.com/5398208/2024/04/08/baseball-pitching-injury-crisis/",
     "author": "Ken Rosenthal",
     "linkDate": "2024-04-10T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 14,
+    "category": {
       "name": "Sports",
       "colorCode": "#2d5f6f"
     }
   },
   {
     "linkId": 169,
-    "linkTypeId": 1,
-    "linkCategoryId": 2,
     "title": "We need more calm\u00A0companies",
     "url": "https://justinjackson.ca/calm-company",
     "author": "Justin Jackson",
     "linkDate": "2024-04-10T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 2,
+    "category": {
       "name": "Business \u0026 Finance",
       "colorCode": "#0d5430"
     }
   },
   {
     "linkId": 170,
-    "linkTypeId": 1,
-    "linkCategoryId": 1,
     "title": "Abstract Class vs Interface in C#",
     "url": "https://blog.ndepend.com/abstract-class-vs-interface-in-c/",
     "author": "NDepend",
     "linkDate": "2024-04-10T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 1,
+    "category": {
       "name": ".NET",
       "colorCode": "#5725a0"
     }
   },
   {
     "linkId": 171,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Hanging punctuation in CSS",
     "url": "https://adactio.com/journal/21027",
     "author": "Jeremy Keith",
     "linkDate": "2024-04-09T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 172,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "Front-end development\u2019s identity crisis",
     "url": "https://ellyloel.com/blog/front-end-development-s-identity-crisis/",
     "author": "Elly Loel",
     "linkDate": "2024-04-09T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 173,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Going Full Time on Open Source with Shaun Walker",
     "url": "https://www.dotnetrocks.com/details/1852",
     "author": ".NET Rocks",
     "linkDate": "2024-04-09T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 174,
-    "linkTypeId": 1,
-    "linkCategoryId": 17,
     "title": "How to think about HTML responsive images",
     "url": "https://danburzo.ro/responsive-images-html/",
     "author": "Dan C\u0103t\u0103lin Burzo",
     "linkDate": "2024-04-09T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 17,
+    "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
     }
   },
   {
     "linkId": 175,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Can breaking the law be good for business?",
     "url": "https://www.npr.org/2024/04/01/1197963517/dupont-chemours-chemicals-cows",
     "author": "The Indicator",
     "linkDate": "2024-04-09T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 176,
-    "linkTypeId": 1,
-    "linkCategoryId": 15,
     "title": "Tech is supercharging pre-employment personality tests",
     "url": "https://www.marketplace.org/2024/04/08/tech-is-supercharging-pre-employment-personality-tests/",
     "author": "Meghan McCarty Carino",
     "linkDate": "2024-04-09T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 15,
+    "category": {
       "name": "Technology",
       "colorCode": "#273fd2"
     }
   },
   {
     "linkId": 177,
-    "linkTypeId": 1,
-    "linkCategoryId": 1,
     "title": "How to use xUnit to run unit testing in .NET and C#",
     "url": "https://www.roundthecode.com/dotnet-tutorials/how-to-use-xunit-run-unit-testing-dotnet-csharp",
     "author": "David Grace",
     "linkDate": "2024-04-09T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 1,
+    "category": {
       "name": ".NET",
       "colorCode": "#5725a0"
     }
   },
   {
     "linkId": 178,
-    "linkTypeId": 2,
-    "linkCategoryId": 10,
     "title": "Linda Haviv",
     "url": "https://www.coffeeandopensource.com/guest/linda-haviv.html",
     "author": "Coffee \u0026 Open Source",
     "linkDate": "2024-04-09T00:00:00",
     "readingLogIssueNumber": 72,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 10,
+    "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
     }
   },
   {
     "linkId": 179,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Gmail Launched 20 Years Ago Today. Why Isn\u2019t It Better?",
     "url": "https://www.insidehook.com/internet/gmail-launched-2024",
     "author": "Kirk Miller",
     "linkDate": "2024-04-07T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 180,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "CSS Button Styles You Might Not Know",
     "url": "https://dbushell.com/2024/03/10/css-button-styles-you-might-not-know/",
     "author": "David Bushell",
     "linkDate": "2024-04-05T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 181,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "In-app browsers are still a privacy, security, and choice problem",
     "url": "https://www.theregister.com/2024/03/27/inapp_browsers/",
     "author": "Thomas Claburn",
     "linkDate": "2024-04-05T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 182,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Flaky Tests In React: Detection, Prevention and Tools",
     "url": "https://semaphoreci.com/blog/flaky-react",
     "author": "Victor Ayomipo \u0026 Tomas Fernandez",
     "linkDate": "2024-04-05T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 183,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Add Superpowers to Your CSS Variables with Style Queries",
     "url": "https://thathtml.blog/2024/03/superpowered-container-style-queries/",
     "author": "Jared White",
     "linkDate": "2024-04-05T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 184,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "What You Need to Know about Modern CSS",
     "url": "https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-spring-2024-edition/",
     "author": "Chris Coyier",
     "linkDate": "2024-04-05T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 185,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Don\u0027t modernize your code just for the heck of it",
     "url": "https://gomakethings.com/dont-modernize-your-code-just-for-the-heck-of-it/",
     "author": "Chris Ferdinandi",
     "linkDate": "2024-04-05T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 186,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Drive-by accessibility tweaks",
     "url": "https://brucelawson.co.uk/2024/drive-by-accessibility-tweaks/",
     "author": "Bruce Lawson",
     "linkDate": "2024-04-05T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 187,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "How one volunteer stopped a backdoor from exposing Linux systems worldwide",
     "url": "https://www.theverge.com/2024/4/2/24119342/xz-utils-linux-backdoor-attempt",
     "author": "Amrita Khalid",
     "linkDate": "2024-04-04T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 188,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Redis\u2019 license change and forking are a mess that everybody can feel bad about",
     "url": "https://arstechnica.com/information-technology/2024/04/redis-license-change-and-forking-are-a-mess-that-everybody-can-feel-bad-about/",
     "author": "Kevin Purdy",
     "linkDate": "2024-04-02T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 189,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Expose Platform APIs Over Wrapping Them",
     "url": "https://blog.jim-nielsen.com/2024/expose-platform-apis-over-wrapping-them/",
     "author": "Jim Nielsen",
     "linkDate": "2024-04-01T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 190,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "What\u0027s the difference between JavaScript engines and JavaScript runtimes?",
     "url": "https://humanwhocodes.com/blog/2024/03/javascript-engines-runtimes/",
     "author": "Nicholas C. Zakas",
     "linkDate": "2024-04-01T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 191,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Last Week Missouri Told The Supreme Court No Gov\u2019t Should EVER Interfere With Speech; This Week It Sues Media Matters For \nIts Speech",
     "url": "https://www.techdirt.com/2024/03/27/last-week-missouri-told-the-supreme-court-no-govt-should-ever-interfere-with-speech-this-week-it-sues-media-matters-for-its-speech/",
     "author": "Mike Masnick",
     "linkDate": "2024-04-01T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 192,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "A Guide To Designing For Older Adults",
     "url": "https://www.smashingmagazine.com/2024/02/guide-designing-older-adults/",
     "author": "Vitaly Friedman",
     "linkDate": "2024-03-29T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 193,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Event Horizon Telescope captures stunning new image of Milky Way\u2019s black hole",
     "url": "https://arstechnica.com/science/2024/03/event-horizon-telescope-captures-stunning-new-image-of-milky-ways-black-hole/",
     "author": "Jennifer Ouellette",
     "linkDate": "2024-03-29T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 194,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "An architect is not an evangelist",
     "url": "https://bartwullems.blogspot.com/2024/03/an-architect-is-not-evangelist.html",
     "author": "Bart Wullems",
     "linkDate": "2024-03-28T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 195,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "\u201CMFA Fatigue\u201D attack targets iPhone owners with endless password reset prompts",
     "url": "https://arstechnica.com/security/2024/03/mfa-fatigue-attack-targets-iphone-owners-with-endless-password-reset-prompts/",
     "author": "Kevin Purdy",
     "linkDate": "2024-03-28T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 196,
-    "linkTypeId": 2,
-    "linkCategoryId": 4,
     "title": "The Countdown To End WWII",
     "url": "https://www.npr.org/2023/06/20/1183194275/the-countdown-to-end-wwii",
     "author": "Fresh Air",
     "linkDate": "2024-03-28T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 197,
-    "linkTypeId": 2,
-    "linkCategoryId": 4,
     "title": "Murthy, Reddit, and the Speech Deciders",
     "url": "https://www.buzzsprout.com/2315966/14747842-murthy-reddit-and-the-speech-deciders",
     "author": "Ctrl-Alt-Speech Podcast",
     "linkDate": "2024-03-25T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 198,
-    "linkTypeId": 2,
-    "linkCategoryId": 4,
     "title": "The Global Internet - Or Is It?",
     "url": "https://www.buzzsprout.com/2315966/14698023-the-global-internet-or-is-it",
     "author": "Ctrl-Alt-Speech Podcast",
     "linkDate": "2024-03-25T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 199,
-    "linkTypeId": 2,
-    "linkCategoryId": 4,
     "title": "America\u2019s news deserts and the 2024 election",
     "url": "https://www.marketplace.org/shows/make-me-smart/americas-news-deserts-and-the-2024-election/",
     "author": "Make Me Smart Podcast",
     "linkDate": "2024-03-25T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 2,
+    "type": {
       "name": "Podcast",
       "colorCode": "#5725a0"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 200,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "John Romero doesn\u2019t believe in prototypes",
     "url": "https://daverupert.com/2024/03/romero-doesnt-like-prototypes/",
     "author": "Dave Rupert",
     "linkDate": "2024-03-23T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 201,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "C# 12: Collection Expressions",
     "url": "https://www.thomasclaudiushuber.com/2024/03/19/csharp-12-collection-expressions/",
     "author": "Thomas Claudius Huber",
     "linkDate": "2024-03-23T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 202,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "The box model and box sizing",
     "url": "https://piccalil.li/blog/the-box-model-and-box-sizing/",
     "author": "Andy Bell",
     "linkDate": "2024-03-23T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 203,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Accessibility Myths",
     "url": "https://a11ymyths.com/",
     "author": "Sergei Kriger",
     "linkDate": "2024-03-17T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 204,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Front-End solution: progress indicator",
     "url": "https://piccalil.li/blog/solution-009-progress-indicator/",
     "author": "Andy Bell",
     "linkDate": "2024-03-17T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 205,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "How npm install scripts can be weaponized: A real-world example of a harmful npm package",
     "url": "https://stacklok.com/blog/how-npm-install-scripts-can-be-weaponized-a-real-life-example-of-a-harmful-npm-package",
     "author": "Edward Thomson",
     "linkDate": "2024-03-17T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 206,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Blog What You Like",
     "url": "https://brandons-journal.com/post/blog-what-you-like",
     "author": "Brandon",
     "linkDate": "2024-03-14T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 207,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "The quiet, pervasive devaluation of frontend",
     "url": "https://joshcollinsworth.com/blog/devaluing-frontend",
     "author": "Josh Collinsworth",
     "linkDate": "2024-03-14T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 208,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "My Talk on CSS Runtime Performance",
     "url": "https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/",
     "author": "Nolan Lawson",
     "linkDate": "2024-03-14T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 209,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Write for others but mostly for yourself",
     "url": "https://jack-vanlightly.com/blog/2022/1/25/write-for-others-but-mostly-for-yourself",
     "author": "Jack Vanlightly",
     "linkDate": "2024-03-14T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 210,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "You don\u0027t have to be a \u201Ccontent creator\u201D  to have a website.",
     "url": "https://ohhelloana.blog/just-get-a-website/",
     "author": "Ana Rodrigues",
     "linkDate": "2024-03-14T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 212,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Once More With Feeling: Banning TikTok Is Unconstitutional \u0026 Won\u2019t Do Shit To Deal With Any Actual Threats",
     "url": "https://www.techdirt.com/2024/03/14/once-more-with-feeling-banning-tiktok-is-unconstitutional-wont-do-shit-to-deal-with-any-actual-threats/",
     "author": "Mike Masnick",
     "linkDate": "2024-03-14T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 211,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Once More With Feeling: Banning TikTok Doesn\u2019t Do Much If We Don\u2019t Regulate Data Brokers And Pass A Privacy Law",
     "url": "https://www.techdirt.com/2024/03/11/once-more-with-feeling-banning-tiktok-doesnt-do-much-if-we-dont-regulate-data-brokers-and-pass-a-privacy-law/",
     "author": "Karl Bode",
     "linkDate": "2024-03-12T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 213,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "A letter to my younger self, as an accessibility advocate",
     "url": "https://heather-buchel.com/blog/2024/03/letters-to-an-accessibility-advocate/",
     "author": "Heather Buchel",
     "linkDate": "2024-03-12T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 214,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Beginner\u0027s mind and empathy in writing educational content",
     "url": "https://jamesg.blog/2024/02/28/beginners-mind-empathy/",
     "author": "James\u2019 Coffee Blog",
     "linkDate": "2024-03-12T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 215,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "When Stewards Go Astray",
     "url": "https://tedium.co/2024/02/28/wordpress-automattic-tumblr-controversy/",
     "author": "Ernie Smith",
     "linkDate": "2024-03-12T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 216,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "The Browser Company feels gross to me right now",
     "url": "https://birchtree.me/blog/the-browser-company-feels-gross-to-me-right-now/",
     "author": "Matt Birchler",
     "linkDate": "2024-03-12T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 217,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "I Archived My Tweets",
     "url": "https://lynnandtonic.com/thoughts/entries/i-archived-my-tweets/",
     "author": "Lynn Fisher",
     "linkDate": "2024-03-11T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 218,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Okay, Color Spaces",
     "url": "https://ericportis.com/posts/2024/okay-color-spaces/",
     "author": "Eric Portis",
     "linkDate": "2024-03-11T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 219,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Some little ways I\u2019m using CSS :has() in the real world",
     "url": "https://piccalil.li/blog/some-little-ways-im-using-css-has-in-the-real-world/",
     "author": "Andy Bell",
     "linkDate": "2024-03-07T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }
   },
   {
     "linkId": 220,
-    "linkTypeId": 1,
-    "linkCategoryId": 4,
     "title": "Code coverage features in Visual Studio Enterprise",
     "url": "https://devblogs.microsoft.com/visualstudio/code-coverage-features-in-visual-studio-enterprise/",
     "author": "Faisal Hafeez",
     "linkDate": "2024-03-05T00:00:00",
     "readingLogIssueNumber": 0,
-    "linkType": {
-      "linkTypeId": 1,
+    "type": {
       "name": "Link",
       "colorCode": "#009b8f"
     },
-    "linkCategory": {
-      "linkCategoryId": 4,
+    "category": {
       "name": "Everything Else",
       "colorCode": "#921e14"
     }

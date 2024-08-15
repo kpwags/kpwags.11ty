@@ -9,89 +9,64 @@
     "showOnNowPage": true,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       },
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 11,
-        "musicAlbumId": 3,
-        "title": "Smoking Rooms",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Smoking Rooms"
       },
       {
-        "musicAlbumTrackId": 12,
-        "musicAlbumId": 3,
-        "title": "Roman Candles",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Roman Candles"
       },
       {
-        "musicAlbumTrackId": 13,
-        "musicAlbumId": 3,
-        "title": "Paying Bills at the End of the World",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Paying Bills at the End of the World"
       },
       {
-        "musicAlbumTrackId": 14,
-        "musicAlbumId": 3,
-        "title": "Monongahela Park",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Monongahela Park"
       },
       {
-        "musicAlbumTrackId": 15,
-        "musicAlbumId": 3,
-        "title": "Alone at St. Luke\u0027s",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Alone at St. Luke\u0027s"
       },
       {
-        "musicAlbumTrackId": 16,
-        "musicAlbumId": 3,
-        "title": "Whiplash",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Whiplash"
       },
       {
-        "musicAlbumTrackId": 17,
-        "musicAlbumId": 3,
-        "title": "Spitting in the Wind",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Spitting in the Wind"
       },
       {
-        "musicAlbumTrackId": 18,
-        "musicAlbumId": 3,
-        "title": "I\u0027m an Albatross",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "I\u0027m an Albatross"
       },
       {
-        "musicAlbumTrackId": 19,
-        "musicAlbumId": 3,
-        "title": "Runnin\u0027 Out of Excuses",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Runnin\u0027 Out of Excuses"
       },
       {
-        "musicAlbumTrackId": 20,
-        "musicAlbumId": 3,
-        "title": "In Lieu of Flowers",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "In Lieu of Flowers"
       },
       {
-        "musicAlbumTrackId": 21,
-        "musicAlbumId": 3,
-        "title": "Dead Leaves",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Dead Leaves"
       }
     ]
   },
@@ -105,83 +80,60 @@
     "showOnNowPage": true,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       },
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 22,
-        "musicAlbumId": 2,
-        "title": "Lead Paint \u0026 Salt Air",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Lead Paint \u0026 Salt Air"
       },
       {
-        "musicAlbumTrackId": 23,
-        "musicAlbumId": 2,
-        "title": "Just Sign the Papers",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Just Sign the Papers"
       },
       {
-        "musicAlbumTrackId": 24,
-        "musicAlbumId": 2,
-        "title": "Bloodied Up in a Bar Fight",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Bloodied Up in a Bar Fight"
       },
       {
-        "musicAlbumTrackId": 25,
-        "musicAlbumId": 2,
-        "title": "Bury Me Anywhere Else",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Bury Me Anywhere Else"
       },
       {
-        "musicAlbumTrackId": 26,
-        "musicAlbumId": 2,
-        "title": "Rosa \u0026 Reseda",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Rosa \u0026 Reseda"
       },
       {
-        "musicAlbumTrackId": 27,
-        "musicAlbumId": 2,
-        "title": "Wildflower Honey",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Wildflower Honey"
       },
       {
-        "musicAlbumTrackId": 28,
-        "musicAlbumId": 2,
-        "title": "Runnin\u0027 Toward the Light",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Runnin\u0027 Toward the Light"
       },
       {
-        "musicAlbumTrackId": 29,
-        "musicAlbumId": 2,
-        "title": "God \u0026 the Billboards",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "God \u0026 the Billboards"
       },
       {
-        "musicAlbumTrackId": 30,
-        "musicAlbumId": 2,
-        "title": "Winter Coats",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Winter Coats"
       },
       {
-        "musicAlbumTrackId": 31,
-        "musicAlbumId": 2,
-        "title": "Routine Maintenance",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Routine Maintenance"
       }
     ]
   },
@@ -195,83 +147,60 @@
     "showOnNowPage": true,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       },
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 32,
-        "musicAlbumId": 1,
-        "title": "Our Apartment",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Our Apartment"
       },
       {
-        "musicAlbumTrackId": 33,
-        "musicAlbumId": 1,
-        "title": "Grapefruit",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Grapefruit"
       },
       {
-        "musicAlbumTrackId": 34,
-        "musicAlbumId": 1,
-        "title": "St. Joe Keeps Us Safe",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "St. Joe Keeps Us Safe"
       },
       {
-        "musicAlbumTrackId": 35,
-        "musicAlbumId": 1,
-        "title": "Runnin\u0027 Scared",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Runnin\u0027 Scared"
       },
       {
-        "musicAlbumTrackId": 36,
-        "musicAlbumId": 1,
-        "title": "Divorce and the American South",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Divorce and the American South"
       },
       {
-        "musicAlbumTrackId": 37,
-        "musicAlbumId": 1,
-        "title": "The Thunderbird Inn",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "The Thunderbird Inn"
       },
       {
-        "musicAlbumTrackId": 38,
-        "musicAlbumId": 1,
-        "title": "Get Me Out of Here Alive",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Get Me Out of Here Alive"
       },
       {
-        "musicAlbumTrackId": 39,
-        "musicAlbumId": 1,
-        "title": "You Ain\u0027t No Saint",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "You Ain\u0027t No Saint"
       },
       {
-        "musicAlbumTrackId": 40,
-        "musicAlbumId": 1,
-        "title": "Carolina Coast",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Carolina Coast"
       },
       {
-        "musicAlbumTrackId": 41,
-        "musicAlbumId": 1,
-        "title": "Going to Georgia by the Mountain Goats",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Going to Georgia by the Mountain Goats"
       }
     ]
   },
@@ -285,108 +214,76 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 9,
         "name": "Classic Rock",
         "colorCode": "rgb(182, 11, 105)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 42,
-        "musicAlbumId": 169,
-        "title": "Walk on Water",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Walk on Water"
       },
       {
-        "musicAlbumTrackId": 43,
-        "musicAlbumId": 169,
-        "title": "Love in an Elevator",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Love in an Elevator"
       },
       {
-        "musicAlbumTrackId": 44,
-        "musicAlbumId": 169,
-        "title": "Rag Doll",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Rag Doll"
       },
       {
-        "musicAlbumTrackId": 45,
-        "musicAlbumId": 169,
-        "title": "What it Takes",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "What it Takes"
       },
       {
-        "musicAlbumTrackId": 46,
-        "musicAlbumId": 169,
-        "title": "Dude (Looks Like a Lady)",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Dude (Looks Like a Lady)"
       },
       {
-        "musicAlbumTrackId": 47,
-        "musicAlbumId": 169,
-        "title": "Janie\u0027s Got a Gun",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Janie\u0027s Got a Gun"
       },
       {
-        "musicAlbumTrackId": 48,
-        "musicAlbumId": 169,
-        "title": "Cryin\u0027",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Cryin\u0027"
       },
       {
-        "musicAlbumTrackId": 49,
-        "musicAlbumId": 169,
-        "title": "Amazing",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Amazing"
       },
       {
-        "musicAlbumTrackId": 50,
-        "musicAlbumId": 169,
-        "title": "Blind Man",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Blind Man"
       },
       {
-        "musicAlbumTrackId": 51,
-        "musicAlbumId": 169,
-        "title": "Deuces are Wild",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Deuces are Wild"
       },
       {
-        "musicAlbumTrackId": 52,
-        "musicAlbumId": 169,
-        "title": "The Other Side",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "The Other Side"
       },
       {
-        "musicAlbumTrackId": 53,
-        "musicAlbumId": 169,
-        "title": "Crazy",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "Crazy"
       },
       {
-        "musicAlbumTrackId": 54,
-        "musicAlbumId": 169,
-        "title": "Eat the Rich",
-        "trackNumber": 13
+        "trackNumber": 13,
+        "title": "Eat the Rich"
       },
       {
-        "musicAlbumTrackId": 55,
-        "musicAlbumId": 169,
-        "title": "Angel",
-        "trackNumber": 14
+        "trackNumber": 14,
+        "title": "Angel"
       },
       {
-        "musicAlbumTrackId": 56,
-        "musicAlbumId": 169,
-        "title": "Livin\u0027 on the Edge",
-        "trackNumber": 15
+        "trackNumber": 15,
+        "title": "Livin\u0027 on the Edge"
       }
     ]
   },
@@ -400,102 +297,72 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 57,
-        "musicAlbumId": 168,
-        "title": "White Crosses",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "White Crosses"
       },
       {
-        "musicAlbumTrackId": 58,
-        "musicAlbumId": 168,
-        "title": "I Was a Teenage Anarchist",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "I Was a Teenage Anarchist"
       },
       {
-        "musicAlbumTrackId": 59,
-        "musicAlbumId": 168,
-        "title": "Because of the Shame",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Because of the Shame"
       },
       {
-        "musicAlbumTrackId": 60,
-        "musicAlbumId": 168,
-        "title": "Suffocation",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Suffocation"
       },
       {
-        "musicAlbumTrackId": 61,
-        "musicAlbumId": 168,
-        "title": "We\u0027re Breaking Up",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "We\u0027re Breaking Up"
       },
       {
-        "musicAlbumTrackId": 62,
-        "musicAlbumId": 168,
-        "title": "High Pressure Low",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "High Pressure Low"
       },
       {
-        "musicAlbumTrackId": 63,
-        "musicAlbumId": 168,
-        "title": "Ache With Me",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Ache With Me"
       },
       {
-        "musicAlbumTrackId": 64,
-        "musicAlbumId": 168,
-        "title": "Spanish Moss",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Spanish Moss"
       },
       {
-        "musicAlbumTrackId": 65,
-        "musicAlbumId": 168,
-        "title": "Rapid Decompression",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Rapid Decompression"
       },
       {
-        "musicAlbumTrackId": 66,
-        "musicAlbumId": 168,
-        "title": "Bamboo Bones",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Bamboo Bones"
       },
       {
-        "musicAlbumTrackId": 67,
-        "musicAlbumId": 168,
-        "title": "Lehigh Acres",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Lehigh Acres"
       },
       {
-        "musicAlbumTrackId": 68,
-        "musicAlbumId": 168,
-        "title": "Bob Dylan Dream",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "Bob Dylan Dream"
       },
       {
-        "musicAlbumTrackId": 69,
-        "musicAlbumId": 168,
-        "title": "One By One",
-        "trackNumber": 13
+        "trackNumber": 13,
+        "title": "One By One"
       },
       {
-        "musicAlbumTrackId": 70,
-        "musicAlbumId": 168,
-        "title": "Bitter Divisions",
-        "trackNumber": 14
+        "trackNumber": 14,
+        "title": "Bitter Divisions"
       }
     ]
   },
@@ -509,106 +376,76 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       },
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       },
       {
-        "musicGenreId": 8,
         "name": "Pop Punk",
         "colorCode": "rgb(32, 92, 9)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 71,
-        "musicAlbumId": 167,
-        "title": "Courage",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Courage"
       },
       {
-        "musicAlbumTrackId": 72,
-        "musicAlbumId": 167,
-        "title": "Movies",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Movies"
       },
       {
-        "musicAlbumTrackId": 73,
-        "musicAlbumId": 167,
-        "title": "Flesh and Bone",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Flesh and Bone"
       },
       {
-        "musicAlbumTrackId": 74,
-        "musicAlbumId": 167,
-        "title": "Whisper",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Whisper"
       },
       {
-        "musicAlbumTrackId": 75,
-        "musicAlbumId": 167,
-        "title": "Summer",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Summer"
       },
       {
-        "musicAlbumTrackId": 76,
-        "musicAlbumId": 167,
-        "title": "Sticks and Stones",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Sticks and Stones"
       },
       {
-        "musicAlbumTrackId": 77,
-        "musicAlbumId": 167,
-        "title": "Attitude",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Attitude"
       },
       {
-        "musicAlbumTrackId": 78,
-        "musicAlbumId": 167,
-        "title": "Stranded",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Stranded"
       },
       {
-        "musicAlbumTrackId": 79,
-        "musicAlbumId": 167,
-        "title": "Wish",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Wish"
       },
       {
-        "musicAlbumTrackId": 80,
-        "musicAlbumId": 167,
-        "title": "Calico",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Calico"
       },
       {
-        "musicAlbumTrackId": 81,
-        "musicAlbumId": 167,
-        "title": "Happy Death Day",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Happy Death Day"
       },
       {
-        "musicAlbumTrackId": 82,
-        "musicAlbumId": 167,
-        "title": "Smooth Criminal",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "Smooth Criminal"
       },
       {
-        "musicAlbumTrackId": 83,
-        "musicAlbumId": 167,
-        "title": "Universe",
-        "trackNumber": 13
+        "trackNumber": 13,
+        "title": "Universe"
       }
     ]
   },
@@ -622,114 +459,80 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 84,
-        "musicAlbumId": 166,
-        "title": "The Suburbs",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "The Suburbs"
       },
       {
-        "musicAlbumTrackId": 85,
-        "musicAlbumId": 166,
-        "title": "Ready to Start",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Ready to Start"
       },
       {
-        "musicAlbumTrackId": 86,
-        "musicAlbumId": 166,
-        "title": "Modern Man",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Modern Man"
       },
       {
-        "musicAlbumTrackId": 87,
-        "musicAlbumId": 166,
-        "title": "Rococo",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Rococo"
       },
       {
-        "musicAlbumTrackId": 88,
-        "musicAlbumId": 166,
-        "title": "Empty Room",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Empty Room"
       },
       {
-        "musicAlbumTrackId": 89,
-        "musicAlbumId": 166,
-        "title": "City With No Children",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "City With No Children"
       },
       {
-        "musicAlbumTrackId": 90,
-        "musicAlbumId": 166,
-        "title": "Half Light I",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Half Light I"
       },
       {
-        "musicAlbumTrackId": 91,
-        "musicAlbumId": 166,
-        "title": "Half Light II (No Celebration)",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Half Light II (No Celebration)"
       },
       {
-        "musicAlbumTrackId": 92,
-        "musicAlbumId": 166,
-        "title": "Suburban War",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Suburban War"
       },
       {
-        "musicAlbumTrackId": 93,
-        "musicAlbumId": 166,
-        "title": "Month of May",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Month of May"
       },
       {
-        "musicAlbumTrackId": 94,
-        "musicAlbumId": 166,
-        "title": "Wasted Hours",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Wasted Hours"
       },
       {
-        "musicAlbumTrackId": 95,
-        "musicAlbumId": 166,
-        "title": "Deep Blue",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "Deep Blue"
       },
       {
-        "musicAlbumTrackId": 96,
-        "musicAlbumId": 166,
-        "title": "We Used to Wait",
-        "trackNumber": 13
+        "trackNumber": 13,
+        "title": "We Used to Wait"
       },
       {
-        "musicAlbumTrackId": 97,
-        "musicAlbumId": 166,
-        "title": "Sprawl I",
-        "trackNumber": 14
+        "trackNumber": 14,
+        "title": "Sprawl I"
       },
       {
-        "musicAlbumTrackId": 98,
-        "musicAlbumId": 166,
-        "title": "Sprawl II (Mountains Beyond Mountains)",
-        "trackNumber": 15
+        "trackNumber": 15,
+        "title": "Sprawl II (Mountains Beyond Mountains)"
       },
       {
-        "musicAlbumTrackId": 99,
-        "musicAlbumId": 166,
-        "title": "The Suburbs (Continued)",
-        "trackNumber": 16
+        "trackNumber": 16,
+        "title": "The Suburbs (Continued)"
       }
     ]
   },
@@ -743,90 +546,64 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 100,
-        "musicAlbumId": 165,
-        "title": "Drake\u0027s Dad",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Drake\u0027s Dad"
       },
       {
-        "musicAlbumTrackId": 101,
-        "musicAlbumId": 165,
-        "title": "Private School",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Private School"
       },
       {
-        "musicAlbumTrackId": 102,
-        "musicAlbumId": 165,
-        "title": "My Heart\u0027s Always Yours",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "My Heart\u0027s Always Yours"
       },
       {
-        "musicAlbumTrackId": 103,
-        "musicAlbumId": 165,
-        "title": "Savannah",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Savannah"
       },
       {
-        "musicAlbumTrackId": 104,
-        "musicAlbumId": 165,
-        "title": "Passenger Seat",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Passenger Seat"
       },
       {
-        "musicAlbumTrackId": 105,
-        "musicAlbumId": 165,
-        "title": "Making Due",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Making Due"
       },
       {
-        "musicAlbumTrackId": 106,
-        "musicAlbumId": 165,
-        "title": "Round and Round",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Round and Round"
       },
       {
-        "musicAlbumTrackId": 107,
-        "musicAlbumId": 165,
-        "title": "Hung Up",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Hung Up"
       },
       {
-        "musicAlbumTrackId": 108,
-        "musicAlbumId": 165,
-        "title": "Come Back Home",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Come Back Home"
       },
       {
-        "musicAlbumTrackId": 109,
-        "musicAlbumId": 165,
-        "title": "A Little Rain (A Song for Pete)",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "A Little Rain (A Song for Pete)"
       },
       {
-        "musicAlbumTrackId": 110,
-        "musicAlbumId": 165,
-        "title": "And Then Some",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "And Then Some"
       },
       {
-        "musicAlbumTrackId": 111,
-        "musicAlbumId": 165,
-        "title": "Hangs the Moon",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "Hangs the Moon"
       }
     ]
   },
@@ -840,83 +617,60 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       },
       {
-        "musicGenreId": 10,
         "name": "Hard Rock",
         "colorCode": "rgb(13, 158, 154)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 112,
-        "musicAlbumId": 164,
-        "title": "Critical Acclaim",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Critical Acclaim"
       },
       {
-        "musicAlbumTrackId": 113,
-        "musicAlbumId": 164,
-        "title": "Almost Easy",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Almost Easy"
       },
       {
-        "musicAlbumTrackId": 114,
-        "musicAlbumId": 164,
-        "title": "Scream",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Scream"
       },
       {
-        "musicAlbumTrackId": 115,
-        "musicAlbumId": 164,
-        "title": "Afterlife",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Afterlife"
       },
       {
-        "musicAlbumTrackId": 116,
-        "musicAlbumId": 164,
-        "title": "Gunslinger",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Gunslinger"
       },
       {
-        "musicAlbumTrackId": 117,
-        "musicAlbumId": 164,
-        "title": "Unbound (The Wild Ride)",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Unbound (The Wild Ride)"
       },
       {
-        "musicAlbumTrackId": 118,
-        "musicAlbumId": 164,
-        "title": "Brompton Cocktail",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Brompton Cocktail"
       },
       {
-        "musicAlbumTrackId": 119,
-        "musicAlbumId": 164,
-        "title": "Lost",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Lost"
       },
       {
-        "musicAlbumTrackId": 120,
-        "musicAlbumId": 164,
-        "title": "A Little Piece of Heaven",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "A Little Piece of Heaven"
       },
       {
-        "musicAlbumTrackId": 121,
-        "musicAlbumId": 164,
-        "title": "Dear God",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Dear God"
       }
     ]
   },
@@ -930,89 +684,64 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       },
       {
-        "musicGenreId": 10,
         "name": "Hard Rock",
         "colorCode": "rgb(13, 158, 154)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 122,
-        "musicAlbumId": 105,
-        "title": "Beast and the Harlot",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Beast and the Harlot"
       },
       {
-        "musicAlbumTrackId": 123,
-        "musicAlbumId": 105,
-        "title": "Burn it Down",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Burn it Down"
       },
       {
-        "musicAlbumTrackId": 124,
-        "musicAlbumId": 105,
-        "title": "Blinded in Chains",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Blinded in Chains"
       },
       {
-        "musicAlbumTrackId": 125,
-        "musicAlbumId": 105,
-        "title": "Bat Country",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Bat Country"
       },
       {
-        "musicAlbumTrackId": 126,
-        "musicAlbumId": 105,
-        "title": "Trashed and Scattered",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Trashed and Scattered"
       },
       {
-        "musicAlbumTrackId": 127,
-        "musicAlbumId": 105,
-        "title": "Seize the Day",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Seize the Day"
       },
       {
-        "musicAlbumTrackId": 128,
-        "musicAlbumId": 105,
-        "title": "Sidewinder",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Sidewinder"
       },
       {
-        "musicAlbumTrackId": 129,
-        "musicAlbumId": 105,
-        "title": "The Wicked End",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "The Wicked End"
       },
       {
-        "musicAlbumTrackId": 130,
-        "musicAlbumId": 105,
-        "title": "Strength of the World",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Strength of the World"
       },
       {
-        "musicAlbumTrackId": 131,
-        "musicAlbumId": 105,
-        "title": "Betrayed",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Betrayed"
       },
       {
-        "musicAlbumTrackId": 132,
-        "musicAlbumId": 105,
-        "title": "M.I.A.",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "M.I.A."
       }
     ]
   },
@@ -1026,89 +755,64 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       },
       {
-        "musicGenreId": 10,
         "name": "Hard Rock",
         "colorCode": "rgb(13, 158, 154)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 133,
-        "musicAlbumId": 163,
-        "title": "Nightmare",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Nightmare"
       },
       {
-        "musicAlbumTrackId": 134,
-        "musicAlbumId": 163,
-        "title": "Welcome to the Family",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Welcome to the Family"
       },
       {
-        "musicAlbumTrackId": 135,
-        "musicAlbumId": 163,
-        "title": "Danger Line",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Danger Line"
       },
       {
-        "musicAlbumTrackId": 136,
-        "musicAlbumId": 163,
-        "title": "Buried Alive",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Buried Alive"
       },
       {
-        "musicAlbumTrackId": 137,
-        "musicAlbumId": 163,
-        "title": "Natural Born Killer",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Natural Born Killer"
       },
       {
-        "musicAlbumTrackId": 138,
-        "musicAlbumId": 163,
-        "title": "So Far Away",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "So Far Away"
       },
       {
-        "musicAlbumTrackId": 139,
-        "musicAlbumId": 163,
-        "title": "God Hates Us",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "God Hates Us"
       },
       {
-        "musicAlbumTrackId": 140,
-        "musicAlbumId": 163,
-        "title": "Victim",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Victim"
       },
       {
-        "musicAlbumTrackId": 141,
-        "musicAlbumId": 163,
-        "title": "Tonight the World Dies",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Tonight the World Dies"
       },
       {
-        "musicAlbumTrackId": 142,
-        "musicAlbumId": 163,
-        "title": "Fiction",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Fiction"
       },
       {
-        "musicAlbumTrackId": 143,
-        "musicAlbumId": 163,
-        "title": "Save Me",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Save Me"
       }
     ]
   },
@@ -1122,95 +826,68 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       },
       {
-        "musicGenreId": 10,
         "name": "Hard Rock",
         "colorCode": "rgb(13, 158, 154)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 144,
-        "musicAlbumId": 106,
-        "title": "Waking the Fallen",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Waking the Fallen"
       },
       {
-        "musicAlbumTrackId": 145,
-        "musicAlbumId": 106,
-        "title": "Unholy Confessions",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Unholy Confessions"
       },
       {
-        "musicAlbumTrackId": 146,
-        "musicAlbumId": 106,
-        "title": "Chapter Four",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Chapter Four"
       },
       {
-        "musicAlbumTrackId": 147,
-        "musicAlbumId": 106,
-        "title": "Remenissions",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Remenissions"
       },
       {
-        "musicAlbumTrackId": 148,
-        "musicAlbumId": 106,
-        "title": "Desecrate Through Reverence",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Desecrate Through Reverence"
       },
       {
-        "musicAlbumTrackId": 149,
-        "musicAlbumId": 106,
-        "title": "Eternal Rest",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Eternal Rest"
       },
       {
-        "musicAlbumTrackId": 150,
-        "musicAlbumId": 106,
-        "title": "Second Heartbeat",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Second Heartbeat"
       },
       {
-        "musicAlbumTrackId": 151,
-        "musicAlbumId": 106,
-        "title": "Radiant Eclipse",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Radiant Eclipse"
       },
       {
-        "musicAlbumTrackId": 152,
-        "musicAlbumId": 106,
-        "title": "I Won\u0027t See You Tonight (Part 1)",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "I Won\u0027t See You Tonight (Part 1)"
       },
       {
-        "musicAlbumTrackId": 153,
-        "musicAlbumId": 106,
-        "title": "I Won\u0027t See You Tonight (Part 2)",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "I Won\u0027t See You Tonight (Part 2)"
       },
       {
-        "musicAlbumTrackId": 154,
-        "musicAlbumId": 106,
-        "title": "Clairvoyant Disease",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Clairvoyant Disease"
       },
       {
-        "musicAlbumTrackId": 155,
-        "musicAlbumId": 106,
-        "title": "And All Things Will End",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "And All Things Will End"
       }
     ]
   },
@@ -1224,96 +901,68 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 156,
-        "musicAlbumId": 162,
-        "title": "One Week",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "One Week"
       },
       {
-        "musicAlbumTrackId": 157,
-        "musicAlbumId": 162,
-        "title": "It\u0027s All Been Done",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "It\u0027s All Been Done"
       },
       {
-        "musicAlbumTrackId": 158,
-        "musicAlbumId": 162,
-        "title": "Light Up My Room",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Light Up My Room"
       },
       {
-        "musicAlbumTrackId": 159,
-        "musicAlbumId": 162,
-        "title": "I\u0027ll Be That Girl",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "I\u0027ll Be That Girl"
       },
       {
-        "musicAlbumTrackId": 160,
-        "musicAlbumId": 162,
-        "title": "Leave",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Leave"
       },
       {
-        "musicAlbumTrackId": 161,
-        "musicAlbumId": 162,
-        "title": "Alcohol",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Alcohol"
       },
       {
-        "musicAlbumTrackId": 162,
-        "musicAlbumId": 162,
-        "title": "Call and Answer",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Call and Answer"
       },
       {
-        "musicAlbumTrackId": 163,
-        "musicAlbumId": 162,
-        "title": "In the Car",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "In the Car"
       },
       {
-        "musicAlbumTrackId": 164,
-        "musicAlbumId": 162,
-        "title": "Never is Enough",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Never is Enough"
       },
       {
-        "musicAlbumTrackId": 165,
-        "musicAlbumId": 162,
-        "title": "Who Needs Sleep",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Who Needs Sleep"
       },
       {
-        "musicAlbumTrackId": 166,
-        "musicAlbumId": 162,
-        "title": "Told You So",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Told You So"
       },
       {
-        "musicAlbumTrackId": 167,
-        "musicAlbumId": 162,
-        "title": "Some Fantastic",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "Some Fantastic"
       },
       {
-        "musicAlbumTrackId": 168,
-        "musicAlbumId": 162,
-        "title": "When You Dream",
-        "trackNumber": 13
+        "trackNumber": 13,
+        "title": "When You Dream"
       }
     ]
   },
@@ -1327,102 +976,72 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 8,
         "name": "Pop Punk",
         "colorCode": "rgb(32, 92, 9)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 169,
-        "musicAlbumId": 161,
-        "title": "Feeling This",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Feeling This"
       },
       {
-        "musicAlbumTrackId": 170,
-        "musicAlbumId": 161,
-        "title": "Obvious",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Obvious"
       },
       {
-        "musicAlbumTrackId": 171,
-        "musicAlbumId": 161,
-        "title": "I Miss You",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "I Miss You"
       },
       {
-        "musicAlbumTrackId": 172,
-        "musicAlbumId": 161,
-        "title": "Violence",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Violence"
       },
       {
-        "musicAlbumTrackId": 173,
-        "musicAlbumId": 161,
-        "title": "Stockholm Syndrome",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Stockholm Syndrome"
       },
       {
-        "musicAlbumTrackId": 174,
-        "musicAlbumId": 161,
-        "title": "Down",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Down"
       },
       {
-        "musicAlbumTrackId": 175,
-        "musicAlbumId": 161,
-        "title": "The Fallen Interlude",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "The Fallen Interlude"
       },
       {
-        "musicAlbumTrackId": 176,
-        "musicAlbumId": 161,
-        "title": "Go",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Go"
       },
       {
-        "musicAlbumTrackId": 177,
-        "musicAlbumId": 161,
-        "title": "Asthenia",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Asthenia"
       },
       {
-        "musicAlbumTrackId": 178,
-        "musicAlbumId": 161,
-        "title": "Always",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Always"
       },
       {
-        "musicAlbumTrackId": 179,
-        "musicAlbumId": 161,
-        "title": "Easy Target",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Easy Target"
       },
       {
-        "musicAlbumTrackId": 180,
-        "musicAlbumId": 161,
-        "title": "All of This",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "All of This"
       },
       {
-        "musicAlbumTrackId": 181,
-        "musicAlbumId": 161,
-        "title": "Here\u0027s Your Letter",
-        "trackNumber": 13
+        "trackNumber": 13,
+        "title": "Here\u0027s Your Letter"
       },
       {
-        "musicAlbumTrackId": 182,
-        "musicAlbumId": 161,
-        "title": "I\u0027m Lost Without You",
-        "trackNumber": 14
+        "trackNumber": 14,
+        "title": "I\u0027m Lost Without You"
       }
     ]
   },
@@ -1436,102 +1055,72 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 8,
         "name": "Pop Punk",
         "colorCode": "rgb(32, 92, 9)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 183,
-        "musicAlbumId": 160,
-        "title": "Pathetic",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Pathetic"
       },
       {
-        "musicAlbumTrackId": 184,
-        "musicAlbumId": 160,
-        "title": "Voyeur",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Voyeur"
       },
       {
-        "musicAlbumTrackId": 185,
-        "musicAlbumId": 160,
-        "title": "Dammit",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Dammit"
       },
       {
-        "musicAlbumTrackId": 186,
-        "musicAlbumId": 160,
-        "title": "Boring",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Boring"
       },
       {
-        "musicAlbumTrackId": 187,
-        "musicAlbumId": 160,
-        "title": "Dick Lips",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Dick Lips"
       },
       {
-        "musicAlbumTrackId": 188,
-        "musicAlbumId": 160,
-        "title": "Waggy",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Waggy"
       },
       {
-        "musicAlbumTrackId": 189,
-        "musicAlbumId": 160,
-        "title": "Enthused",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Enthused"
       },
       {
-        "musicAlbumTrackId": 190,
-        "musicAlbumId": 160,
-        "title": "Untitled",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Untitled"
       },
       {
-        "musicAlbumTrackId": 191,
-        "musicAlbumId": 160,
-        "title": "Apple Shampoo",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Apple Shampoo"
       },
       {
-        "musicAlbumTrackId": 192,
-        "musicAlbumId": 160,
-        "title": "Emo",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Emo"
       },
       {
-        "musicAlbumTrackId": 193,
-        "musicAlbumId": 160,
-        "title": "Josie",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Josie"
       },
       {
-        "musicAlbumTrackId": 194,
-        "musicAlbumId": 160,
-        "title": "A New Hope",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "A New Hope"
       },
       {
-        "musicAlbumTrackId": 195,
-        "musicAlbumId": 160,
-        "title": "Degenerate",
-        "trackNumber": 13
+        "trackNumber": 13,
+        "title": "Degenerate"
       },
       {
-        "musicAlbumTrackId": 196,
-        "musicAlbumId": 160,
-        "title": "Lemmings",
-        "trackNumber": 14
+        "trackNumber": 14,
+        "title": "Lemmings"
       }
     ]
   },
@@ -1545,90 +1134,64 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 8,
         "name": "Pop Punk",
         "colorCode": "rgb(32, 92, 9)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 197,
-        "musicAlbumId": 159,
-        "title": "Dumpweed",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Dumpweed"
       },
       {
-        "musicAlbumTrackId": 198,
-        "musicAlbumId": 159,
-        "title": "Don\u0027t Leave Me",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Don\u0027t Leave Me"
       },
       {
-        "musicAlbumTrackId": 199,
-        "musicAlbumId": 159,
-        "title": "Aliens Exist",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Aliens Exist"
       },
       {
-        "musicAlbumTrackId": 200,
-        "musicAlbumId": 159,
-        "title": "Going Away to College",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Going Away to College"
       },
       {
-        "musicAlbumTrackId": 201,
-        "musicAlbumId": 159,
-        "title": "What\u0027s My Age Again",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "What\u0027s My Age Again"
       },
       {
-        "musicAlbumTrackId": 202,
-        "musicAlbumId": 159,
-        "title": "Dysentery Gary",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Dysentery Gary"
       },
       {
-        "musicAlbumTrackId": 203,
-        "musicAlbumId": 159,
-        "title": "Adam\u0027s Song",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Adam\u0027s Song"
       },
       {
-        "musicAlbumTrackId": 204,
-        "musicAlbumId": 159,
-        "title": "All the Small Things",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "All the Small Things"
       },
       {
-        "musicAlbumTrackId": 205,
-        "musicAlbumId": 159,
-        "title": "The Party Song",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "The Party Song"
       },
       {
-        "musicAlbumTrackId": 206,
-        "musicAlbumId": 159,
-        "title": "Mutt",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Mutt"
       },
       {
-        "musicAlbumTrackId": 207,
-        "musicAlbumId": 159,
-        "title": "Wendy Clear",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Wendy Clear"
       },
       {
-        "musicAlbumTrackId": 208,
-        "musicAlbumId": 159,
-        "title": "Anthem",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "Anthem"
       }
     ]
   },
@@ -1642,120 +1205,84 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 8,
         "name": "Pop Punk",
         "colorCode": "rgb(32, 92, 9)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 209,
-        "musicAlbumId": 27,
-        "title": "Anthem Part 3",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Anthem Part 3"
       },
       {
-        "musicAlbumTrackId": 210,
-        "musicAlbumId": 27,
-        "title": "Dance with Me",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Dance with Me"
       },
       {
-        "musicAlbumTrackId": 211,
-        "musicAlbumId": 27,
-        "title": "Fell in Love",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Fell in Love"
       },
       {
-        "musicAlbumTrackId": 212,
-        "musicAlbumId": 27,
-        "title": "Terrified",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Terrified"
       },
       {
-        "musicAlbumTrackId": 213,
-        "musicAlbumId": 27,
-        "title": "One More Time",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "One More Time"
       },
       {
-        "musicAlbumTrackId": 214,
-        "musicAlbumId": 27,
-        "title": "More Than You Know",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "More Than You Know"
       },
       {
-        "musicAlbumTrackId": 215,
-        "musicAlbumId": 27,
-        "title": "Turn This Off!",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Turn This Off!"
       },
       {
-        "musicAlbumTrackId": 216,
-        "musicAlbumId": 27,
-        "title": "When We Were Young",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "When We Were Young"
       },
       {
-        "musicAlbumTrackId": 217,
-        "musicAlbumId": 27,
-        "title": "Edging",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Edging"
       },
       {
-        "musicAlbumTrackId": 218,
-        "musicAlbumId": 27,
-        "title": "You Don\u0027t Know What You\u0027ve Got",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "You Don\u0027t Know What You\u0027ve Got"
       },
       {
-        "musicAlbumTrackId": 219,
-        "musicAlbumId": 27,
-        "title": "Blink Wave",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Blink Wave"
       },
       {
-        "musicAlbumTrackId": 220,
-        "musicAlbumId": 27,
-        "title": "Bad News",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "Bad News"
       },
       {
-        "musicAlbumTrackId": 221,
-        "musicAlbumId": 27,
-        "title": "Hurt (Interlude)",
-        "trackNumber": 13
+        "trackNumber": 13,
+        "title": "Hurt (Interlude)"
       },
       {
-        "musicAlbumTrackId": 222,
-        "musicAlbumId": 27,
-        "title": "Turpentine",
-        "trackNumber": 14
+        "trackNumber": 14,
+        "title": "Turpentine"
       },
       {
-        "musicAlbumTrackId": 223,
-        "musicAlbumId": 27,
-        "title": "Fuck Face",
-        "trackNumber": 15
+        "trackNumber": 15,
+        "title": "Fuck Face"
       },
       {
-        "musicAlbumTrackId": 224,
-        "musicAlbumId": 27,
-        "title": "Other Side",
-        "trackNumber": 16
+        "trackNumber": 16,
+        "title": "Other Side"
       },
       {
-        "musicAlbumTrackId": 225,
-        "musicAlbumId": 27,
-        "title": "Childhood",
-        "trackNumber": 17
+        "trackNumber": 17,
+        "title": "Childhood"
       }
     ]
   },
@@ -1769,66 +1296,48 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 9,
         "name": "Classic Rock",
         "colorCode": "rgb(182, 11, 105)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 226,
-        "musicAlbumId": 158,
-        "title": "Don\u0027t Look Back",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Don\u0027t Look Back"
       },
       {
-        "musicAlbumTrackId": 227,
-        "musicAlbumId": 158,
-        "title": "The Journey",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "The Journey"
       },
       {
-        "musicAlbumTrackId": 228,
-        "musicAlbumId": 158,
-        "title": "It\u0027s Easy",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "It\u0027s Easy"
       },
       {
-        "musicAlbumTrackId": 229,
-        "musicAlbumId": 158,
-        "title": "A Man I\u0027ll Never Be",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "A Man I\u0027ll Never Be"
       },
       {
-        "musicAlbumTrackId": 230,
-        "musicAlbumId": 158,
-        "title": "Feelin\u0027 Satisfied",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Feelin\u0027 Satisfied"
       },
       {
-        "musicAlbumTrackId": 231,
-        "musicAlbumId": 158,
-        "title": "Party",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Party"
       },
       {
-        "musicAlbumTrackId": 232,
-        "musicAlbumId": 158,
-        "title": "Used to Bad News",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Used to Bad News"
       },
       {
-        "musicAlbumTrackId": 233,
-        "musicAlbumId": 158,
-        "title": "Don\u0027t Be Afraid",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Don\u0027t Be Afraid"
       }
     ]
   },
@@ -1842,90 +1351,64 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 8,
         "name": "Pop Punk",
         "colorCode": "rgb(32, 92, 9)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 234,
-        "musicAlbumId": 157,
-        "title": "Lit Me Up",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Lit Me Up"
       },
       {
-        "musicAlbumTrackId": 235,
-        "musicAlbumId": 157,
-        "title": "Can\u0027t Get It Out",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Can\u0027t Get It Out"
       },
       {
-        "musicAlbumTrackId": 236,
-        "musicAlbumId": 157,
-        "title": "Waste",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Waste"
       },
       {
-        "musicAlbumTrackId": 237,
-        "musicAlbumId": 157,
-        "title": "Could Never Be Heaven",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Could Never Be Heaven"
       },
       {
-        "musicAlbumTrackId": 238,
-        "musicAlbumId": 157,
-        "title": "Same Logic / Teeth",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Same Logic / Teeth"
       },
       {
-        "musicAlbumTrackId": 239,
-        "musicAlbumId": 157,
-        "title": "137",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "137"
       },
       {
-        "musicAlbumTrackId": 240,
-        "musicAlbumId": 157,
-        "title": "Out of Mana",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Out of Mana"
       },
       {
-        "musicAlbumTrackId": 241,
-        "musicAlbumId": 157,
-        "title": "In the Water",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "In the Water"
       },
       {
-        "musicAlbumTrackId": 242,
-        "musicAlbumId": 157,
-        "title": "Desert",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Desert"
       },
       {
-        "musicAlbumTrackId": 243,
-        "musicAlbumId": 157,
-        "title": "No Control",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "No Control"
       },
       {
-        "musicAlbumTrackId": 244,
-        "musicAlbumId": 157,
-        "title": "451",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "451"
       },
       {
-        "musicAlbumTrackId": 245,
-        "musicAlbumId": 157,
-        "title": "Batter Up",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "Batter Up"
       }
     ]
   },
@@ -1939,66 +1422,48 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 246,
-        "musicAlbumId": 154,
-        "title": "When You\u0027re Ready",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "When You\u0027re Ready"
       },
       {
-        "musicAlbumTrackId": 247,
-        "musicAlbumId": 154,
-        "title": "21 Days",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "21 Days"
       },
       {
-        "musicAlbumTrackId": 248,
-        "musicAlbumId": 154,
-        "title": "Vincent",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Vincent"
       },
       {
-        "musicAlbumTrackId": 249,
-        "musicAlbumId": 154,
-        "title": "I Don\u0027t Mind (If I\u0027m With You)",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "I Don\u0027t Mind (If I\u0027m With You)"
       },
       {
-        "musicAlbumTrackId": 250,
-        "musicAlbumId": 154,
-        "title": "Lonely for You Only",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Lonely for You Only"
       },
       {
-        "musicAlbumTrackId": 251,
-        "musicAlbumId": 154,
-        "title": "Horses",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Horses"
       },
       {
-        "musicAlbumTrackId": 252,
-        "musicAlbumId": 154,
-        "title": "Hard Feelings",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Hard Feelings"
       },
       {
-        "musicAlbumTrackId": 253,
-        "musicAlbumId": 154,
-        "title": "You Have Stolen My Heart",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "You Have Stolen My Heart"
       }
     ]
   },
@@ -2012,90 +1477,64 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 254,
-        "musicAlbumId": 156,
-        "title": "A Wonderful Life",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "A Wonderful Life"
       },
       {
-        "musicAlbumTrackId": 255,
-        "musicAlbumId": 156,
-        "title": "Painkillers",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Painkillers"
       },
       {
-        "musicAlbumTrackId": 256,
-        "musicAlbumId": 156,
-        "title": "Among Other Foolish Things",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Among Other Foolish Things"
       },
       {
-        "musicAlbumTrackId": 257,
-        "musicAlbumId": 156,
-        "title": "Smoke",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Smoke"
       },
       {
-        "musicAlbumTrackId": 258,
-        "musicAlbumId": 156,
-        "title": "Steve McQueen",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Steve McQueen"
       },
       {
-        "musicAlbumTrackId": 259,
-        "musicAlbumId": 156,
-        "title": "Nobody Wins",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Nobody Wins"
       },
       {
-        "musicAlbumTrackId": 260,
-        "musicAlbumId": 156,
-        "title": "Rosemary",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Rosemary"
       },
       {
-        "musicAlbumTrackId": 261,
-        "musicAlbumId": 156,
-        "title": "Red Lights",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Red Lights"
       },
       {
-        "musicAlbumTrackId": 262,
-        "musicAlbumId": 156,
-        "title": "Long Drives",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Long Drives"
       },
       {
-        "musicAlbumTrackId": 263,
-        "musicAlbumId": 156,
-        "title": "Honey Magnolia",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Honey Magnolia"
       },
       {
-        "musicAlbumTrackId": 264,
-        "musicAlbumId": 156,
-        "title": "Mojo Hand",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Mojo Hand"
       },
       {
-        "musicAlbumTrackId": 265,
-        "musicAlbumId": 156,
-        "title": "Open All Night",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "Open All Night"
       }
     ]
   },
@@ -2109,90 +1548,64 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 266,
-        "musicAlbumId": 155,
-        "title": "If Your Prayers Don\u0027t Get to Heaven",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "If Your Prayers Don\u0027t Get to Heaven"
       },
       {
-        "musicAlbumTrackId": 267,
-        "musicAlbumId": 155,
-        "title": "Forget Me Not",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Forget Me Not"
       },
       {
-        "musicAlbumTrackId": 268,
-        "musicAlbumId": 155,
-        "title": "Come Wander With Me",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Come Wander With Me"
       },
       {
-        "musicAlbumTrackId": 269,
-        "musicAlbumId": 155,
-        "title": "Etta James",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Etta James"
       },
       {
-        "musicAlbumTrackId": 270,
-        "musicAlbumId": 155,
-        "title": "Her Majesty\u0027s Service",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Her Majesty\u0027s Service"
       },
       {
-        "musicAlbumTrackId": 271,
-        "musicAlbumId": 155,
-        "title": "Proof of Life",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Proof of Life"
       },
       {
-        "musicAlbumTrackId": 272,
-        "musicAlbumId": 155,
-        "title": "Little Nightmares",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Little Nightmares"
       },
       {
-        "musicAlbumTrackId": 273,
-        "musicAlbumId": 155,
-        "title": "Sleepwalkers",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Sleepwalkers"
       },
       {
-        "musicAlbumTrackId": 274,
-        "musicAlbumId": 155,
-        "title": "My Name is Night (Color Me Black)",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "My Name is Night (Color Me Black)"
       },
       {
-        "musicAlbumTrackId": 275,
-        "musicAlbumId": 155,
-        "title": "Neptune",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Neptune"
       },
       {
-        "musicAlbumTrackId": 276,
-        "musicAlbumId": 155,
-        "title": "Watson",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Watson"
       },
       {
-        "musicAlbumTrackId": 277,
-        "musicAlbumId": 155,
-        "title": "See You on the Other Side",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "See You on the Other Side"
       }
     ]
   },
@@ -2206,101 +1619,72 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       },
       {
-        "musicGenreId": 10,
         "name": "Hard Rock",
         "colorCode": "rgb(13, 158, 154)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 278,
-        "musicAlbumId": 103,
-        "title": "Intro",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Intro"
       },
       {
-        "musicAlbumTrackId": 279,
-        "musicAlbumId": 103,
-        "title": "Her Voice Resides",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Her Voice Resides"
       },
       {
-        "musicAlbumTrackId": 280,
-        "musicAlbumId": 103,
-        "title": "4 Words (To Choke Upon)",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "4 Words (To Choke Upon)"
       },
       {
-        "musicAlbumTrackId": 281,
-        "musicAlbumId": 103,
-        "title": "Tears Don\u0027t Fall",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Tears Don\u0027t Fall"
       },
       {
-        "musicAlbumTrackId": 282,
-        "musicAlbumId": 103,
-        "title": "Suffocating Under Words of Sorrow",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Suffocating Under Words of Sorrow"
       },
       {
-        "musicAlbumTrackId": 283,
-        "musicAlbumId": 103,
-        "title": "Hit the Floor",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Hit the Floor"
       },
       {
-        "musicAlbumTrackId": 284,
-        "musicAlbumId": 103,
-        "title": "All These Things I Hate (Revolve Around Me)",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "All These Things I Hate (Revolve Around Me)"
       },
       {
-        "musicAlbumTrackId": 285,
-        "musicAlbumId": 103,
-        "title": "Room 409",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Room 409"
       },
       {
-        "musicAlbumTrackId": 286,
-        "musicAlbumId": 103,
-        "title": "The Poison",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "The Poison"
       },
       {
-        "musicAlbumTrackId": 287,
-        "musicAlbumId": 103,
-        "title": "10 Years Today",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "10 Years Today"
       },
       {
-        "musicAlbumTrackId": 288,
-        "musicAlbumId": 103,
-        "title": "Cries in Vain",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Cries in Vain"
       },
       {
-        "musicAlbumTrackId": 289,
-        "musicAlbumId": 103,
-        "title": "Spit You Out",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "Spit You Out"
       },
       {
-        "musicAlbumTrackId": 290,
-        "musicAlbumId": 103,
-        "title": "The End",
-        "trackNumber": 13
+        "trackNumber": 13,
+        "title": "The End"
       }
     ]
   },
@@ -2314,90 +1698,64 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 291,
-        "musicAlbumId": 153,
-        "title": "Warm Machine",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Warm Machine"
       },
       {
-        "musicAlbumTrackId": 292,
-        "musicAlbumId": 153,
-        "title": "Jesus Online",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Jesus Online"
       },
       {
-        "musicAlbumTrackId": 293,
-        "musicAlbumId": 153,
-        "title": "The Chemical Between Us",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "The Chemical Between Us"
       },
       {
-        "musicAlbumTrackId": 294,
-        "musicAlbumId": 153,
-        "title": "English Fire",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "English Fire"
       },
       {
-        "musicAlbumTrackId": 295,
-        "musicAlbumId": 153,
-        "title": "Spacetravel",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Spacetravel"
       },
       {
-        "musicAlbumTrackId": 296,
-        "musicAlbumId": 153,
-        "title": "40 Miles From the Sun",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "40 Miles From the Sun"
       },
       {
-        "musicAlbumTrackId": 297,
-        "musicAlbumId": 153,
-        "title": "Prizefighter",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Prizefighter"
       },
       {
-        "musicAlbumTrackId": 298,
-        "musicAlbumId": 153,
-        "title": "Disease of the Dancing Cats",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Disease of the Dancing Cats"
       },
       {
-        "musicAlbumTrackId": 299,
-        "musicAlbumId": 153,
-        "title": "Altered States",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Altered States"
       },
       {
-        "musicAlbumTrackId": 300,
-        "musicAlbumId": 153,
-        "title": "Dead Meat",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Dead Meat"
       },
       {
-        "musicAlbumTrackId": 301,
-        "musicAlbumId": 153,
-        "title": "Letting the Cables Sleep",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Letting the Cables Sleep"
       },
       {
-        "musicAlbumTrackId": 302,
-        "musicAlbumId": 153,
-        "title": "Mindchanger",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "Mindchanger"
       }
     ]
   },
@@ -2411,96 +1769,68 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 4,
         "name": "Rap",
         "colorCode": "rgb(52, 51, 51)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 303,
-        "musicAlbumId": 4,
-        "title": "Outside",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Outside"
       },
       {
-        "musicAlbumTrackId": 304,
-        "musicAlbumId": 4,
-        "title": "Fire Fly",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Fire Fly"
       },
       {
-        "musicAlbumTrackId": 305,
-        "musicAlbumId": 4,
-        "title": "Bonfire",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Bonfire"
       },
       {
-        "musicAlbumTrackId": 306,
-        "musicAlbumId": 4,
-        "title": "All the Shine",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "All the Shine"
       },
       {
-        "musicAlbumTrackId": 307,
-        "musicAlbumId": 4,
-        "title": "Letter Home",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Letter Home"
       },
       {
-        "musicAlbumTrackId": 308,
-        "musicAlbumId": 4,
-        "title": "Heartbeat",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Heartbeat"
       },
       {
-        "musicAlbumTrackId": 309,
-        "musicAlbumId": 4,
-        "title": "Backpackers",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Backpackers"
       },
       {
-        "musicAlbumTrackId": 310,
-        "musicAlbumId": 4,
-        "title": "L.E.S.",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "L.E.S."
       },
       {
-        "musicAlbumTrackId": 311,
-        "musicAlbumId": 4,
-        "title": "Hold You Down",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Hold You Down"
       },
       {
-        "musicAlbumTrackId": 312,
-        "musicAlbumId": 4,
-        "title": "Kids (Keep Up)",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Kids (Keep Up)"
       },
       {
-        "musicAlbumTrackId": 313,
-        "musicAlbumId": 4,
-        "title": "You See Me",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "You See Me"
       },
       {
-        "musicAlbumTrackId": 314,
-        "musicAlbumId": 4,
-        "title": "Sunrise",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "Sunrise"
       },
       {
-        "musicAlbumTrackId": 315,
-        "musicAlbumId": 4,
-        "title": "That Power",
-        "trackNumber": 13
+        "trackNumber": 13,
+        "title": "That Power"
       }
     ]
   },
@@ -2514,114 +1844,80 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 316,
-        "musicAlbumId": 12,
-        "title": "The Boat",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "The Boat"
       },
       {
-        "musicAlbumTrackId": 317,
-        "musicAlbumId": 12,
-        "title": "For Broken Ears",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "For Broken Ears"
       },
       {
-        "musicAlbumTrackId": 318,
-        "musicAlbumId": 12,
-        "title": "It\u0027s What You Will",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "It\u0027s What You Will"
       },
       {
-        "musicAlbumTrackId": 319,
-        "musicAlbumId": 12,
-        "title": "Symmetry",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Symmetry"
       },
       {
-        "musicAlbumTrackId": 320,
-        "musicAlbumId": 12,
-        "title": "Valentine",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Valentine"
       },
       {
-        "musicAlbumTrackId": 321,
-        "musicAlbumId": 12,
-        "title": "Do What You Do",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Do What You Do"
       },
       {
-        "musicAlbumTrackId": 322,
-        "musicAlbumId": 12,
-        "title": "Do You Pray?",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Do You Pray?"
       },
       {
-        "musicAlbumTrackId": 323,
-        "musicAlbumId": 12,
-        "title": "Congratulations Joe",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Congratulations Joe"
       },
       {
-        "musicAlbumTrackId": 324,
-        "musicAlbumId": 12,
-        "title": "The Grove",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "The Grove"
       },
       {
-        "musicAlbumTrackId": 325,
-        "musicAlbumId": 12,
-        "title": "Above the Flames",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Above the Flames"
       },
       {
-        "musicAlbumTrackId": 326,
-        "musicAlbumId": 12,
-        "title": "Open Up and Wail",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Open Up and Wail"
       },
       {
-        "musicAlbumTrackId": 327,
-        "musicAlbumId": 12,
-        "title": "Sound of a Gun",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "Sound of a Gun"
       },
       {
-        "musicAlbumTrackId": 328,
-        "musicAlbumId": 12,
-        "title": "Trenchfoot",
-        "trackNumber": 13
+        "trackNumber": 13,
+        "title": "Trenchfoot"
       },
       {
-        "musicAlbumTrackId": 329,
-        "musicAlbumId": 12,
-        "title": "Done and Done",
-        "trackNumber": 14
+        "trackNumber": 14,
+        "title": "Done and Done"
       },
       {
-        "musicAlbumTrackId": 330,
-        "musicAlbumId": 12,
-        "title": "Hearts of Stone",
-        "trackNumber": 15
+        "trackNumber": 15,
+        "title": "Hearts of Stone"
       },
       {
-        "musicAlbumTrackId": 331,
-        "musicAlbumId": 12,
-        "title": "Hold My Bed",
-        "trackNumber": 16
+        "trackNumber": 16,
+        "title": "Hold My Bed"
       }
     ]
   },
@@ -2635,78 +1931,56 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 332,
-        "musicAlbumId": 13,
-        "title": "Nothing Left to Prove",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Nothing Left to Prove"
       },
       {
-        "musicAlbumTrackId": 333,
-        "musicAlbumId": 13,
-        "title": "Nomad by Fate",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Nomad by Fate"
       },
       {
-        "musicAlbumTrackId": 334,
-        "musicAlbumId": 13,
-        "title": "You Get What You Give",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "You Get What You Give"
       },
       {
-        "musicAlbumTrackId": 335,
-        "musicAlbumId": 13,
-        "title": "Wish on the Moon",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Wish on the Moon"
       },
       {
-        "musicAlbumTrackId": 336,
-        "musicAlbumId": 13,
-        "title": "Come Around",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Come Around"
       },
       {
-        "musicAlbumTrackId": 337,
-        "musicAlbumId": 13,
-        "title": "Seems We\u0027re OK",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Seems We\u0027re OK"
       },
       {
-        "musicAlbumTrackId": 338,
-        "musicAlbumId": 13,
-        "title": "Valentine",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Valentine"
       },
       {
-        "musicAlbumTrackId": 339,
-        "musicAlbumId": 13,
-        "title": "Right as Rain",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Right as Rain"
       },
       {
-        "musicAlbumTrackId": 340,
-        "musicAlbumId": 13,
-        "title": "Meet You in the Middle",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Meet You in the Middle"
       },
       {
-        "musicAlbumTrackId": 341,
-        "musicAlbumId": 13,
-        "title": "Lost and Found",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Lost and Found"
       }
     ]
   },
@@ -2720,78 +1994,56 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 342,
-        "musicAlbumId": 11,
-        "title": "The Flame in the Flood",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "The Flame in the Flood"
       },
       {
-        "musicAlbumTrackId": 343,
-        "musicAlbumId": 11,
-        "title": "Gathering Wood",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Gathering Wood"
       },
       {
-        "musicAlbumTrackId": 344,
-        "musicAlbumId": 11,
-        "title": "In the Eddy",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "In the Eddy"
       },
       {
-        "musicAlbumTrackId": 345,
-        "musicAlbumId": 11,
-        "title": "Loop Garou",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Loop Garou"
       },
       {
-        "musicAlbumTrackId": 346,
-        "musicAlbumId": 11,
-        "title": "Spanish Moss",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Spanish Moss"
       },
       {
-        "musicAlbumTrackId": 347,
-        "musicAlbumId": 11,
-        "title": "Landsick",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Landsick"
       },
       {
-        "musicAlbumTrackId": 348,
-        "musicAlbumId": 11,
-        "title": "River and Dale",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "River and Dale"
       },
       {
-        "musicAlbumTrackId": 349,
-        "musicAlbumId": 11,
-        "title": "Cover Me Gently",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Cover Me Gently"
       },
       {
-        "musicAlbumTrackId": 350,
-        "musicAlbumId": 11,
-        "title": "Long Water",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Long Water"
       },
       {
-        "musicAlbumTrackId": 351,
-        "musicAlbumId": 11,
-        "title": "What We Leave Behind",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "What We Leave Behind"
       }
     ]
   },
@@ -2805,59 +2057,44 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       },
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 352,
-        "musicAlbumId": 29,
-        "title": "On Tim Riggins as He Prepares for His Sophomore Year",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "On Tim Riggins as He Prepares for His Sophomore Year"
       },
       {
-        "musicAlbumTrackId": 353,
-        "musicAlbumId": 29,
-        "title": "QB 1",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "QB 1"
       },
       {
-        "musicAlbumTrackId": 354,
-        "musicAlbumId": 29,
-        "title": "Coming Up for Air",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Coming Up for Air"
       },
       {
-        "musicAlbumTrackId": 355,
-        "musicAlbumId": 29,
-        "title": "Good Get Coach",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Good Get Coach"
       },
       {
-        "musicAlbumTrackId": 356,
-        "musicAlbumId": 29,
-        "title": "The Fields",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "The Fields"
       },
       {
-        "musicAlbumTrackId": 357,
-        "musicAlbumId": 29,
-        "title": "Grace Period Over",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Grace Period Over"
       }
     ]
   },
@@ -2871,90 +2108,64 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 358,
-        "musicAlbumId": 45,
-        "title": "Distant",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Distant"
       },
       {
-        "musicAlbumTrackId": 359,
-        "musicAlbumId": 45,
-        "title": "Keiko",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Keiko"
       },
       {
-        "musicAlbumTrackId": 360,
-        "musicAlbumId": 45,
-        "title": "Wildfire",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Wildfire"
       },
       {
-        "musicAlbumTrackId": 361,
-        "musicAlbumId": 45,
-        "title": "Harbor",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Harbor"
       },
       {
-        "musicAlbumTrackId": 362,
-        "musicAlbumId": 45,
-        "title": "Broken",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Broken"
       },
       {
-        "musicAlbumTrackId": 363,
-        "musicAlbumId": 45,
-        "title": "Fall Apart",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Fall Apart"
       },
       {
-        "musicAlbumTrackId": 364,
-        "musicAlbumId": 45,
-        "title": "Waiting",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Waiting"
       },
       {
-        "musicAlbumTrackId": 365,
-        "musicAlbumId": 45,
-        "title": "End of a Good Thing",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "End of a Good Thing"
       },
       {
-        "musicAlbumTrackId": 366,
-        "musicAlbumId": 45,
-        "title": "Patience",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Patience"
       },
       {
-        "musicAlbumTrackId": 367,
-        "musicAlbumId": 45,
-        "title": "Walk Away",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Walk Away"
       },
       {
-        "musicAlbumTrackId": 368,
-        "musicAlbumId": 45,
-        "title": "Lost",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Lost"
       },
       {
-        "musicAlbumTrackId": 369,
-        "musicAlbumId": 45,
-        "title": "Cement",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "Cement"
       }
     ]
   },
@@ -2968,24 +2179,20 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 370,
-        "musicAlbumId": 19,
-        "title": "All Too Well",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "All Too Well"
       }
     ]
   },
@@ -2999,83 +2206,60 @@
     "showOnNowPage": true,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       },
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 371,
-        "musicAlbumId": 30,
-        "title": "Conversations with the Flowers",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Conversations with the Flowers"
       },
       {
-        "musicAlbumTrackId": 372,
-        "musicAlbumId": 30,
-        "title": "Flight No. 5",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Flight No. 5"
       },
       {
-        "musicAlbumTrackId": 373,
-        "musicAlbumId": 30,
-        "title": "When I Face Into the Wind",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "When I Face Into the Wind"
       },
       {
-        "musicAlbumTrackId": 374,
-        "musicAlbumId": 30,
-        "title": "My Break in the Rain",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "My Break in the Rain"
       },
       {
-        "musicAlbumTrackId": 375,
-        "musicAlbumId": 30,
-        "title": "Ambassador Bridge",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Ambassador Bridge"
       },
       {
-        "musicAlbumTrackId": 376,
-        "musicAlbumId": 30,
-        "title": "Gull Lake (In a Peach-Plum Dawn)",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Gull Lake (In a Peach-Plum Dawn)"
       },
       {
-        "musicAlbumTrackId": 377,
-        "musicAlbumId": 30,
-        "title": "The Kings of Halloween",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "The Kings of Halloween"
       },
       {
-        "musicAlbumTrackId": 378,
-        "musicAlbumId": 30,
-        "title": "In Love in Various Rooms",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "In Love in Various Rooms"
       },
       {
-        "musicAlbumTrackId": 379,
-        "musicAlbumId": 30,
-        "title": "Streetlights Painted You Gold",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Streetlights Painted You Gold"
       },
       {
-        "musicAlbumTrackId": 380,
-        "musicAlbumId": 30,
-        "title": "I Love You. I Miss You. Goodnight.",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "I Love You. I Miss You. Goodnight."
       }
     ]
   },
@@ -3089,78 +2273,56 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 381,
-        "musicAlbumId": 147,
-        "title": "Northstar",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Northstar"
       },
       {
-        "musicAlbumTrackId": 382,
-        "musicAlbumId": 147,
-        "title": "Sandy Sheets",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Sandy Sheets"
       },
       {
-        "musicAlbumTrackId": 383,
-        "musicAlbumId": 147,
-        "title": "Hanalei",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Hanalei"
       },
       {
-        "musicAlbumTrackId": 384,
-        "musicAlbumId": 147,
-        "title": "Plagiarist",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Plagiarist"
       },
       {
-        "musicAlbumTrackId": 385,
-        "musicAlbumId": 147,
-        "title": "Gary",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Gary"
       },
       {
-        "musicAlbumTrackId": 386,
-        "musicAlbumId": 147,
-        "title": "Surfboard",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Surfboard"
       },
       {
-        "musicAlbumTrackId": 387,
-        "musicAlbumId": 147,
-        "title": "Leave it in that Dream",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Leave it in that Dream"
       },
       {
-        "musicAlbumTrackId": 388,
-        "musicAlbumId": 147,
-        "title": "Snowglobe",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Snowglobe"
       },
       {
-        "musicAlbumTrackId": 389,
-        "musicAlbumId": 147,
-        "title": "Carry the Lantern",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Carry the Lantern"
       },
       {
-        "musicAlbumTrackId": 390,
-        "musicAlbumId": 147,
-        "title": "Little Wings",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Little Wings"
       }
     ]
   },
@@ -3174,84 +2336,60 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 391,
-        "musicAlbumId": 148,
-        "title": "With You",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "With You"
       },
       {
-        "musicAlbumTrackId": 392,
-        "musicAlbumId": 148,
-        "title": "The Flinch",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "The Flinch"
       },
       {
-        "musicAlbumTrackId": 393,
-        "musicAlbumId": 148,
-        "title": "My Mistake",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "My Mistake"
       },
       {
-        "musicAlbumTrackId": 394,
-        "musicAlbumId": 148,
-        "title": "The Mermaid",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "The Mermaid"
       },
       {
-        "musicAlbumTrackId": 395,
-        "musicAlbumId": 148,
-        "title": "Shaky Jesus",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Shaky Jesus"
       },
       {
-        "musicAlbumTrackId": 396,
-        "musicAlbumId": 148,
-        "title": "Divine Lorraine",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Divine Lorraine"
       },
       {
-        "musicAlbumTrackId": 397,
-        "musicAlbumId": 148,
-        "title": "Dirty Fucker",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Dirty Fucker"
       },
       {
-        "musicAlbumTrackId": 398,
-        "musicAlbumId": 148,
-        "title": "The Ride",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "The Ride"
       },
       {
-        "musicAlbumTrackId": 399,
-        "musicAlbumId": 148,
-        "title": "Helluva Home",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Helluva Home"
       },
       {
-        "musicAlbumTrackId": 400,
-        "musicAlbumId": 148,
-        "title": "Wild Love",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Wild Love"
       },
       {
-        "musicAlbumTrackId": 401,
-        "musicAlbumId": 148,
-        "title": "Bury Me in Philly",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Bury Me in Philly"
       }
     ]
   },
@@ -3265,95 +2403,68 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       },
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 402,
-        "musicAlbumId": 150,
-        "title": "Damascus",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Damascus"
       },
       {
-        "musicAlbumTrackId": 403,
-        "musicAlbumId": 150,
-        "title": "The Great Depression",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "The Great Depression"
       },
       {
-        "musicAlbumTrackId": 404,
-        "musicAlbumId": 150,
-        "title": "We Could Be Kings",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "We Could Be Kings"
       },
       {
-        "musicAlbumTrackId": 405,
-        "musicAlbumId": 150,
-        "title": "Autism Vaccine Blues",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Autism Vaccine Blues"
       },
       {
-        "musicAlbumTrackId": 406,
-        "musicAlbumId": 150,
-        "title": "Same Disease",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Same Disease"
       },
       {
-        "musicAlbumTrackId": 407,
-        "musicAlbumId": 150,
-        "title": "Before",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Before"
       },
       {
-        "musicAlbumTrackId": 408,
-        "musicAlbumId": 150,
-        "title": "Father\u0027s Son",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Father\u0027s Son"
       },
       {
-        "musicAlbumTrackId": 409,
-        "musicAlbumId": 150,
-        "title": "Stockholm Syndrome",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Stockholm Syndrome"
       },
       {
-        "musicAlbumTrackId": 410,
-        "musicAlbumId": 150,
-        "title": "Becoming Secular",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Becoming Secular"
       },
       {
-        "musicAlbumTrackId": 411,
-        "musicAlbumId": 150,
-        "title": "The Shine",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "The Shine"
       },
       {
-        "musicAlbumTrackId": 412,
-        "musicAlbumId": 150,
-        "title": "Bricks",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Bricks"
       },
       {
-        "musicAlbumTrackId": 413,
-        "musicAlbumId": 150,
-        "title": "Benediction",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "Benediction"
       }
     ]
   },
@@ -3367,78 +2478,56 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 414,
-        "musicAlbumId": 172,
-        "title": "Cheap Seats (New Years Day NYC 2042)",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Cheap Seats (New Years Day NYC 2042)"
       },
       {
-        "musicAlbumTrackId": 415,
-        "musicAlbumId": 172,
-        "title": "Pedal Down",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Pedal Down"
       },
       {
-        "musicAlbumTrackId": 416,
-        "musicAlbumId": 172,
-        "title": "Damn Personal",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Damn Personal"
       },
       {
-        "musicAlbumTrackId": 417,
-        "musicAlbumId": 172,
-        "title": "Low",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Low"
       },
       {
-        "musicAlbumTrackId": 418,
-        "musicAlbumId": 172,
-        "title": "chainsaweyes",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "chainsaweyes"
       },
       {
-        "musicAlbumTrackId": 419,
-        "musicAlbumId": 172,
-        "title": "Hazard Lights",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Hazard Lights"
       },
       {
-        "musicAlbumTrackId": 420,
-        "musicAlbumId": 172,
-        "title": "Drive It Like It\u0027s Stolen",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Drive It Like It\u0027s Stolen"
       },
       {
-        "musicAlbumTrackId": 421,
-        "musicAlbumId": 172,
-        "title": "lashingout",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "lashingout"
       },
       {
-        "musicAlbumTrackId": 422,
-        "musicAlbumId": 172,
-        "title": "Tarnish",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Tarnish"
       },
       {
-        "musicAlbumTrackId": 423,
-        "musicAlbumId": 172,
-        "title": "The Vulture",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "The Vulture"
       }
     ]
   },
@@ -3452,78 +2541,56 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 424,
-        "musicAlbumId": 149,
-        "title": "Eye Aye I",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Eye Aye I"
       },
       {
-        "musicAlbumTrackId": 425,
-        "musicAlbumId": 149,
-        "title": "The Ditch",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "The Ditch"
       },
       {
-        "musicAlbumTrackId": 426,
-        "musicAlbumId": 149,
-        "title": "Sabateurs",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Sabateurs"
       },
       {
-        "musicAlbumTrackId": 427,
-        "musicAlbumId": 149,
-        "title": "Civil Lies",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Civil Lies"
       },
       {
-        "musicAlbumTrackId": 428,
-        "musicAlbumId": 149,
-        "title": "Weathervane",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Weathervane"
       },
       {
-        "musicAlbumTrackId": 429,
-        "musicAlbumId": 149,
-        "title": "Warpaint",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Warpaint"
       },
       {
-        "musicAlbumTrackId": 430,
-        "musicAlbumId": 149,
-        "title": "OMG",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "OMG"
       },
       {
-        "musicAlbumTrackId": 431,
-        "musicAlbumId": 149,
-        "title": "Fireflies",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Fireflies"
       },
       {
-        "musicAlbumTrackId": 432,
-        "musicAlbumId": 149,
-        "title": "Paradise",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Paradise"
       },
       {
-        "musicAlbumTrackId": 433,
-        "musicAlbumId": 149,
-        "title": "Bearing Down",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "Bearing Down"
       }
     ]
   },
@@ -3537,131 +2604,92 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       },
       {
-        "musicGenreId": 11,
         "name": "Live Albums",
         "colorCode": "rgb(92, 19, 162)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 434,
-        "musicAlbumId": 151,
-        "title": "The Great Depression",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "The Great Depression"
       },
       {
-        "musicAlbumTrackId": 435,
-        "musicAlbumId": 151,
-        "title": "Gary",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "Gary"
       },
       {
-        "musicAlbumTrackId": 436,
-        "musicAlbumId": 151,
-        "title": "We Could Be Kings",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "We Could Be Kings"
       },
       {
-        "musicAlbumTrackId": 437,
-        "musicAlbumId": 151,
-        "title": "Sabateurs",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Sabateurs"
       },
       {
-        "musicAlbumTrackId": 438,
-        "musicAlbumId": 151,
-        "title": "Northstar",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Northstar"
       },
       {
-        "musicAlbumTrackId": 439,
-        "musicAlbumId": 151,
-        "title": "Hanalei",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Hanalei"
       },
       {
-        "musicAlbumTrackId": 440,
-        "musicAlbumId": 151,
-        "title": "Prague (Revive Me)",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Prague (Revive Me)"
       },
       {
-        "musicAlbumTrackId": 441,
-        "musicAlbumId": 151,
-        "title": "Surfboard",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Surfboard"
       },
       {
-        "musicAlbumTrackId": 442,
-        "musicAlbumId": 151,
-        "title": "Autism Vaccine Blues",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "Autism Vaccine Blues"
       },
       {
-        "musicAlbumTrackId": 443,
-        "musicAlbumId": 151,
-        "title": "High Hopes",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "High Hopes"
       },
       {
-        "musicAlbumTrackId": 444,
-        "musicAlbumId": 151,
-        "title": "Bricks",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Bricks"
       },
       {
-        "musicAlbumTrackId": 445,
-        "musicAlbumId": 151,
-        "title": "Meet Me at the Lanes",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "Meet Me at the Lanes"
       },
       {
-        "musicAlbumTrackId": 446,
-        "musicAlbumId": 151,
-        "title": "Carry the Lantern",
-        "trackNumber": 13
+        "trackNumber": 13,
+        "title": "Carry the Lantern"
       },
       {
-        "musicAlbumTrackId": 447,
-        "musicAlbumId": 151,
-        "title": "With You",
-        "trackNumber": 14
+        "trackNumber": 14,
+        "title": "With You"
       },
       {
-        "musicAlbumTrackId": 448,
-        "musicAlbumId": 151,
-        "title": "Sandy Sheets",
-        "trackNumber": 15
+        "trackNumber": 15,
+        "title": "Sandy Sheets"
       },
       {
-        "musicAlbumTrackId": 449,
-        "musicAlbumId": 151,
-        "title": "The Ditch",
-        "trackNumber": 16
+        "trackNumber": 16,
+        "title": "The Ditch"
       },
       {
-        "musicAlbumTrackId": 450,
-        "musicAlbumId": 151,
-        "title": "Without You",
-        "trackNumber": 17
+        "trackNumber": 17,
+        "title": "Without You"
       },
       {
-        "musicAlbumTrackId": 451,
-        "musicAlbumId": 151,
-        "title": "Fireflies",
-        "trackNumber": 18
+        "trackNumber": 18,
+        "title": "Fireflies"
       }
     ]
   },
@@ -3675,149 +2703,104 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       },
       {
-        "musicGenreId": 11,
         "name": "Live Albums",
         "colorCode": "rgb(92, 19, 162)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
     "tracks": [
       {
-        "musicAlbumTrackId": 452,
-        "musicAlbumId": 152,
-        "title": "Sandy Sheets",
-        "trackNumber": 1
+        "trackNumber": 1,
+        "title": "Sandy Sheets"
       },
       {
-        "musicAlbumTrackId": 453,
-        "musicAlbumId": 152,
-        "title": "We Could Be Kings",
-        "trackNumber": 2
+        "trackNumber": 2,
+        "title": "We Could Be Kings"
       },
       {
-        "musicAlbumTrackId": 454,
-        "musicAlbumId": 152,
-        "title": "Sabateurs",
-        "trackNumber": 3
+        "trackNumber": 3,
+        "title": "Sabateurs"
       },
       {
-        "musicAlbumTrackId": 455,
-        "musicAlbumId": 152,
-        "title": "Gary",
-        "trackNumber": 4
+        "trackNumber": 4,
+        "title": "Gary"
       },
       {
-        "musicAlbumTrackId": 456,
-        "musicAlbumId": 152,
-        "title": "Hazard Lights",
-        "trackNumber": 5
+        "trackNumber": 5,
+        "title": "Hazard Lights"
       },
       {
-        "musicAlbumTrackId": 457,
-        "musicAlbumId": 152,
-        "title": "Autism Vaccine Blues",
-        "trackNumber": 6
+        "trackNumber": 6,
+        "title": "Autism Vaccine Blues"
       },
       {
-        "musicAlbumTrackId": 458,
-        "musicAlbumId": 152,
-        "title": "Surfboard",
-        "trackNumber": 7
+        "trackNumber": 7,
+        "title": "Surfboard"
       },
       {
-        "musicAlbumTrackId": 459,
-        "musicAlbumId": 152,
-        "title": "Eye Aye I",
-        "trackNumber": 8
+        "trackNumber": 8,
+        "title": "Eye Aye I"
       },
       {
-        "musicAlbumTrackId": 460,
-        "musicAlbumId": 152,
-        "title": "The Great Depression",
-        "trackNumber": 9
+        "trackNumber": 9,
+        "title": "The Great Depression"
       },
       {
-        "musicAlbumTrackId": 461,
-        "musicAlbumId": 152,
-        "title": "When All of This is Over",
-        "trackNumber": 10
+        "trackNumber": 10,
+        "title": "When All of This is Over"
       },
       {
-        "musicAlbumTrackId": 462,
-        "musicAlbumId": 152,
-        "title": "Northstar",
-        "trackNumber": 11
+        "trackNumber": 11,
+        "title": "Northstar"
       },
       {
-        "musicAlbumTrackId": 463,
-        "musicAlbumId": 152,
-        "title": "Bury Me in Philly",
-        "trackNumber": 12
+        "trackNumber": 12,
+        "title": "Bury Me in Philly"
       },
       {
-        "musicAlbumTrackId": 464,
-        "musicAlbumId": 152,
-        "title": "Snowglobe",
-        "trackNumber": 13
+        "trackNumber": 13,
+        "title": "Snowglobe"
       },
       {
-        "musicAlbumTrackId": 465,
-        "musicAlbumId": 152,
-        "title": "Time Will Tell",
-        "trackNumber": 14
+        "trackNumber": 14,
+        "title": "Time Will Tell"
       },
       {
-        "musicAlbumTrackId": 466,
-        "musicAlbumId": 152,
-        "title": "Fireflies",
-        "trackNumber": 15
+        "trackNumber": 15,
+        "title": "Fireflies"
       },
       {
-        "musicAlbumTrackId": 467,
-        "musicAlbumId": 152,
-        "title": "With You",
-        "trackNumber": 16
+        "trackNumber": 16,
+        "title": "With You"
       },
       {
-        "musicAlbumTrackId": 468,
-        "musicAlbumId": 152,
-        "title": "Dirty Fucker",
-        "trackNumber": 17
+        "trackNumber": 17,
+        "title": "Dirty Fucker"
       },
       {
-        "musicAlbumTrackId": 469,
-        "musicAlbumId": 152,
-        "title": "The Ditch",
-        "trackNumber": 18
+        "trackNumber": 18,
+        "title": "The Ditch"
       },
       {
-        "musicAlbumTrackId": 470,
-        "musicAlbumId": 152,
-        "title": "Without You",
-        "trackNumber": 19
+        "trackNumber": 19,
+        "title": "Without You"
       },
       {
-        "musicAlbumTrackId": 471,
-        "musicAlbumId": 152,
-        "title": "C\u0027Mon Kids",
-        "trackNumber": 20
+        "trackNumber": 20,
+        "title": "C\u0027Mon Kids"
       },
       {
-        "musicAlbumTrackId": 472,
-        "musicAlbumId": 152,
-        "title": "Little Wings",
-        "trackNumber": 21
+        "trackNumber": 21,
+        "title": "Little Wings"
       }
     ]
   },
@@ -3832,7 +2815,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -3849,14 +2831,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -3873,14 +2853,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 6,
         "name": "Soundtrack",
         "colorCode": "rgb(157, 6, 6)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -3897,14 +2875,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -3921,14 +2897,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -3946,7 +2920,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -3964,7 +2937,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -3982,7 +2954,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -3999,19 +2970,16 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       },
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4028,24 +2996,20 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       },
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       },
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4062,14 +3026,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4086,19 +3048,16 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       },
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4115,19 +3074,16 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       },
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4144,19 +3100,16 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       },
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4173,19 +3126,16 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       },
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4202,19 +3152,16 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       },
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4231,19 +3178,16 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       },
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4260,19 +3204,16 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       },
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4289,19 +3230,16 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       },
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4319,7 +3257,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4337,7 +3274,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4355,7 +3291,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4373,7 +3308,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4391,7 +3325,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4408,14 +3341,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4433,7 +3364,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4450,14 +3380,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -4474,14 +3402,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -4498,14 +3424,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4522,14 +3446,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 8,
         "name": "Pop Punk",
         "colorCode": "rgb(32, 92, 9)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -4546,14 +3468,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 8,
         "name": "Pop Punk",
         "colorCode": "rgb(32, 92, 9)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -4570,14 +3490,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 8,
         "name": "Pop Punk",
         "colorCode": "rgb(32, 92, 9)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -4594,14 +3512,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 8,
         "name": "Pop Punk",
         "colorCode": "rgb(32, 92, 9)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -4618,14 +3534,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 8,
         "name": "Pop Punk",
         "colorCode": "rgb(32, 92, 9)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -4642,19 +3556,16 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       },
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4672,7 +3583,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4689,14 +3599,12 @@
     "showOnNowPage": true,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -4713,14 +3621,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 6,
         "name": "Soundtrack",
         "colorCode": "rgb(157, 6, 6)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -4737,14 +3643,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 6,
         "name": "Soundtrack",
         "colorCode": "rgb(157, 6, 6)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -4761,14 +3665,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 6,
         "name": "Soundtrack",
         "colorCode": "rgb(157, 6, 6)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -4785,14 +3687,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 6,
         "name": "Soundtrack",
         "colorCode": "rgb(157, 6, 6)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -4809,14 +3709,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 6,
         "name": "Soundtrack",
         "colorCode": "rgb(157, 6, 6)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -4833,14 +3731,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 6,
         "name": "Soundtrack",
         "colorCode": "rgb(157, 6, 6)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -4858,7 +3754,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -4875,14 +3770,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -4899,14 +3792,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -4923,14 +3814,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -4947,14 +3836,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -4971,14 +3858,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 6,
         "name": "Soundtrack",
         "colorCode": "rgb(157, 6, 6)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -4995,14 +3880,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 6,
         "name": "Soundtrack",
         "colorCode": "rgb(157, 6, 6)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -5020,7 +3903,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -5038,7 +3920,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -5056,7 +3937,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -5074,7 +3954,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5092,7 +3971,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5110,7 +3988,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5128,7 +4005,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5146,7 +4022,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5164,7 +4039,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5182,7 +4056,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5200,7 +4073,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5217,14 +4089,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -5241,14 +4111,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -5265,14 +4133,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -5289,14 +4155,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -5314,7 +4178,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -5332,7 +4195,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -5350,7 +4212,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5368,7 +4229,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5385,14 +4245,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -5409,14 +4267,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -5433,14 +4289,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -5457,14 +4311,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -5481,14 +4333,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -5505,14 +4355,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -5529,14 +4377,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -5553,19 +4399,16 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       },
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -5582,19 +4425,16 @@
     "showOnNowPage": true,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       },
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -5611,14 +4451,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5635,14 +4473,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5659,14 +4495,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5683,14 +4517,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5707,19 +4539,16 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       },
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -5736,14 +4565,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5760,14 +4587,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 6,
         "name": "Soundtrack",
         "colorCode": "rgb(157, 6, 6)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -5784,14 +4609,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 6,
         "name": "Soundtrack",
         "colorCode": "rgb(157, 6, 6)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -5809,7 +4632,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -5827,7 +4649,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -5845,7 +4666,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5863,7 +4683,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -5881,7 +4700,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5899,7 +4717,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5916,14 +4733,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5941,7 +4756,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -5958,14 +4772,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -5982,14 +4794,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -6006,14 +4816,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -6031,7 +4839,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -6048,14 +4855,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -6072,14 +4877,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -6096,19 +4899,16 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       },
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -6125,14 +4925,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -6150,7 +4948,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -6168,7 +4965,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -6186,7 +4982,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -6204,7 +4999,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -6221,19 +5015,16 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       },
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -6251,7 +5042,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -6268,14 +5058,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -6292,14 +5080,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 7,
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -6316,14 +5102,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -6341,7 +5125,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -6358,14 +5141,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -6382,14 +5163,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -6406,19 +5185,16 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 3,
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       },
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -6435,14 +5211,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 6,
         "name": "Soundtrack",
         "colorCode": "rgb(157, 6, 6)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -6460,7 +5234,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -6478,7 +5251,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -6496,7 +5268,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -6514,7 +5285,6 @@
     "genres": [],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -6531,14 +5301,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -6555,14 +5323,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 1,
         "name": "CD",
         "colorCode": "#106869"
       }
@@ -6579,14 +5345,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -6603,14 +5367,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -6627,14 +5389,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 1,
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -6651,14 +5411,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -6675,14 +5433,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -6699,14 +5455,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
@@ -6723,14 +5477,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -6747,14 +5499,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -6771,19 +5521,16 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       },
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -6800,14 +5547,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -6824,14 +5569,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 3,
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -6848,14 +5591,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "musicGenreId": 2,
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
       {
-        "musicFormatId": 2,
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }

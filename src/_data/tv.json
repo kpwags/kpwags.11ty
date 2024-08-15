@@ -2,7 +2,6 @@
   "toWatch": [
     {
       "televisionShowId": 46,
-      "televisionStatusId": 2,
       "title": "1883",
       "imdbLink": "https://www.imdb.com/title/tt13991232/",
       "rating": 0,
@@ -12,7 +11,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -21,7 +19,6 @@
     },
     {
       "televisionShowId": 24,
-      "televisionStatusId": 2,
       "title": "1923",
       "imdbLink": "",
       "rating": 0,
@@ -31,7 +28,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -40,7 +36,6 @@
     },
     {
       "televisionShowId": 44,
-      "televisionStatusId": 2,
       "title": "Anthony Bourdain: Parts Unknown",
       "imdbLink": "",
       "rating": 0,
@@ -50,7 +45,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -59,7 +53,6 @@
     },
     {
       "televisionShowId": 69,
-      "televisionStatusId": 2,
       "title": "Arrested Development",
       "imdbLink": "",
       "rating": 0,
@@ -69,7 +62,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -78,7 +70,6 @@
     },
     {
       "televisionShowId": 64,
-      "televisionStatusId": 2,
       "title": "The Book of Boba Fett",
       "imdbLink": "",
       "rating": 0,
@@ -88,7 +79,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -97,7 +87,6 @@
     },
     {
       "televisionShowId": 81,
-      "televisionStatusId": 2,
       "title": "Challenger: Final Flight",
       "imdbLink": "https://www.imdb.com/title/tt12930534/",
       "rating": 0,
@@ -107,7 +96,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -116,7 +104,6 @@
     },
     {
       "televisionShowId": 29,
-      "televisionStatusId": 2,
       "title": "Cosmos",
       "imdbLink": "https://www.imdb.com/title/tt2395695/",
       "rating": 0,
@@ -126,7 +113,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -135,7 +121,6 @@
     },
     {
       "televisionShowId": 59,
-      "televisionStatusId": 1,
       "title": "CSI: Vegas",
       "imdbLink": "",
       "rating": 0,
@@ -145,7 +130,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
@@ -154,7 +138,6 @@
     },
     {
       "televisionShowId": 71,
-      "televisionStatusId": 2,
       "title": "Dark",
       "imdbLink": "",
       "rating": 0,
@@ -164,7 +147,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -173,7 +155,6 @@
     },
     {
       "televisionShowId": 22,
-      "televisionStatusId": 1,
       "title": "Dead Loch",
       "imdbLink": "",
       "rating": 0,
@@ -183,7 +164,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
@@ -192,7 +172,6 @@
     },
     {
       "televisionShowId": 21,
-      "televisionStatusId": 1,
       "title": "The Defiant Ones",
       "imdbLink": "",
       "rating": 0,
@@ -202,7 +181,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
@@ -211,7 +189,6 @@
     },
     {
       "televisionShowId": 7,
-      "televisionStatusId": 2,
       "title": "Evil",
       "imdbLink": "",
       "rating": 0,
@@ -221,7 +198,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -230,7 +206,6 @@
     },
     {
       "televisionShowId": 95,
-      "televisionStatusId": 2,
       "title": "Foundation",
       "imdbLink": "",
       "rating": 0,
@@ -240,7 +215,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -249,7 +223,6 @@
     },
     {
       "televisionShowId": 76,
-      "televisionStatusId": 1,
       "title": "House of Cards",
       "imdbLink": "",
       "rating": 0,
@@ -259,7 +232,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
@@ -268,7 +240,6 @@
     },
     {
       "televisionShowId": 51,
-      "televisionStatusId": 1,
       "title": "Industry",
       "imdbLink": "",
       "rating": 0,
@@ -278,7 +249,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
@@ -287,7 +257,6 @@
     },
     {
       "televisionShowId": 67,
-      "televisionStatusId": 2,
       "title": "Ken Burns: Baseball",
       "imdbLink": "",
       "rating": 0,
@@ -297,7 +266,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -306,7 +274,6 @@
     },
     {
       "televisionShowId": 68,
-      "televisionStatusId": 2,
       "title": "Ken Burns: Vietnam",
       "imdbLink": "",
       "rating": 0,
@@ -316,7 +283,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -325,7 +291,6 @@
     },
     {
       "televisionShowId": 49,
-      "televisionStatusId": 1,
       "title": "The Last of Us",
       "imdbLink": "",
       "rating": 0,
@@ -335,7 +300,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
@@ -344,7 +308,6 @@
     },
     {
       "televisionShowId": 41,
-      "televisionStatusId": 2,
       "title": "The Last Ship",
       "imdbLink": "",
       "rating": 0,
@@ -354,7 +317,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -363,7 +325,6 @@
     },
     {
       "televisionShowId": 18,
-      "televisionStatusId": 1,
       "title": "Lawmen: Bass Reeves",
       "imdbLink": "",
       "rating": 0,
@@ -373,7 +334,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
@@ -382,7 +342,6 @@
     },
     {
       "televisionShowId": 96,
-      "televisionStatusId": 2,
       "title": "Loki",
       "imdbLink": "",
       "rating": 0,
@@ -392,7 +351,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -401,7 +359,6 @@
     },
     {
       "televisionShowId": 1,
-      "televisionStatusId": 2,
       "title": "Only Murderers in the Building",
       "imdbLink": "",
       "rating": 0,
@@ -411,7 +368,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -420,7 +376,6 @@
     },
     {
       "televisionShowId": 63,
-      "televisionStatusId": 2,
       "title": "The Outsider",
       "imdbLink": "",
       "rating": 0,
@@ -430,7 +385,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -439,7 +393,6 @@
     },
     {
       "televisionShowId": 65,
-      "televisionStatusId": 2,
       "title": "Queen\u2019s Gambit",
       "imdbLink": "",
       "rating": 0,
@@ -449,7 +402,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -458,7 +410,6 @@
     },
     {
       "televisionShowId": 66,
-      "televisionStatusId": 2,
       "title": "Succession",
       "imdbLink": "",
       "rating": 0,
@@ -468,7 +419,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -477,7 +427,6 @@
     },
     {
       "televisionShowId": 91,
-      "televisionStatusId": 2,
       "title": "WandaVision",
       "imdbLink": "https://www.imdb.com/title/tt9140560/",
       "rating": 0,
@@ -487,7 +436,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -496,7 +444,6 @@
     },
     {
       "televisionShowId": 73,
-      "televisionStatusId": 2,
       "title": "The Witcher",
       "imdbLink": "",
       "rating": 0,
@@ -506,7 +453,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -515,7 +461,6 @@
     },
     {
       "televisionShowId": 57,
-      "televisionStatusId": 2,
       "title": "Yellowjackets",
       "imdbLink": "",
       "rating": 0,
@@ -525,7 +470,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
@@ -534,7 +478,6 @@
     },
     {
       "televisionShowId": 11,
-      "televisionStatusId": 2,
       "title": "11.22.63",
       "imdbLink": "https://www.imdb.com/title/tt2879552/",
       "rating": 0,
@@ -544,20 +487,17 @@
       "numberOfSeasons": 1,
       "sortOrder": 1,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
       "genres": [
         {
-          "televisionGenreId": 7,
           "name": "Drama",
           "colorCode": "rgb(121, 167, 12)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 4,
           "name": "Amazon Prime",
           "colorCode": "rgb(6, 104, 148)"
         }
@@ -565,7 +505,6 @@
     },
     {
       "televisionShowId": 4,
-      "televisionStatusId": 1,
       "title": "Under the Dome",
       "imdbLink": "https://www.imdb.com/title/tt1553656/",
       "rating": 0,
@@ -575,25 +514,21 @@
       "numberOfSeasons": 3,
       "sortOrder": 1,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
       "genres": [
         {
-          "televisionGenreId": 1,
           "name": "Science Fiction",
           "colorCode": "#5f3194"
         },
         {
-          "televisionGenreId": 7,
           "name": "Drama",
           "colorCode": "rgb(121, 167, 12)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 7,
           "name": "Paramount\u002B",
           "colorCode": "rgb(14, 58, 236)"
         }
@@ -601,7 +536,6 @@
     },
     {
       "televisionShowId": 28,
-      "televisionStatusId": 2,
       "title": "Star Trek: Prodigy",
       "imdbLink": "https://www.imdb.com/title/tt9795876/",
       "rating": 0,
@@ -611,30 +545,25 @@
       "numberOfSeasons": 2,
       "sortOrder": 2,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
       "genres": [
         {
-          "televisionGenreId": 1,
           "name": "Science Fiction",
           "colorCode": "#5f3194"
         },
         {
-          "televisionGenreId": 3,
           "name": "Star Trek",
           "colorCode": "rgb(149, 145, 6)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 2,
           "name": "Netflix",
           "colorCode": "rgb(190, 4, 4)"
         },
         {
-          "televisionServiceId": 6,
           "name": "Physical Media",
           "colorCode": "rgb(88, 88, 88)"
         }
@@ -642,7 +571,6 @@
     },
     {
       "televisionShowId": 2,
-      "televisionStatusId": 2,
       "title": "The Bear",
       "imdbLink": "https://www.imdb.com/title/tt14452776/",
       "rating": 0,
@@ -652,20 +580,17 @@
       "numberOfSeasons": 3,
       "sortOrder": 3,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
       "genres": [
         {
-          "televisionGenreId": 7,
           "name": "Drama",
           "colorCode": "rgb(121, 167, 12)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 1,
           "name": "Hulu",
           "colorCode": "rgb(1, 168, 44)"
         }
@@ -673,7 +598,6 @@
     },
     {
       "televisionShowId": 9,
-      "televisionStatusId": 1,
       "title": "Mr.  Robot",
       "imdbLink": "https://www.imdb.com/title/tt4158110/",
       "rating": 0,
@@ -683,25 +607,21 @@
       "numberOfSeasons": 4,
       "sortOrder": 3,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
       "genres": [
         {
-          "televisionGenreId": 1,
           "name": "Science Fiction",
           "colorCode": "#5f3194"
         },
         {
-          "televisionGenreId": 7,
           "name": "Drama",
           "colorCode": "rgb(121, 167, 12)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 4,
           "name": "Amazon Prime",
           "colorCode": "rgb(6, 104, 148)"
         }
@@ -709,7 +629,6 @@
     },
     {
       "televisionShowId": 75,
-      "televisionStatusId": 2,
       "title": "Arrested Development",
       "imdbLink": "https://www.imdb.com/title/tt0367279/",
       "rating": 0,
@@ -719,20 +638,17 @@
       "numberOfSeasons": 5,
       "sortOrder": 4,
       "status": {
-        "televisionStatusId": 2,
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
       "genres": [
         {
-          "televisionGenreId": 9,
           "name": "Comedy",
           "colorCode": "rgb(1, 113, 82)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 2,
           "name": "Netflix",
           "colorCode": "rgb(190, 4, 4)"
         }
@@ -740,7 +656,6 @@
     },
     {
       "televisionShowId": 85,
-      "televisionStatusId": 1,
       "title": "The Wire",
       "imdbLink": "https://www.imdb.com/title/tt0306414/",
       "rating": 0,
@@ -750,25 +665,21 @@
       "numberOfSeasons": 5,
       "sortOrder": 4,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
       "genres": [
         {
-          "televisionGenreId": 7,
           "name": "Drama",
           "colorCode": "rgb(121, 167, 12)"
         },
         {
-          "televisionGenreId": 4,
           "name": "Crime Drama",
           "colorCode": "rgb(136, 0, 0)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 3,
           "name": "HBO",
           "colorCode": "rgb(104, 5, 167)"
         }
@@ -776,7 +687,6 @@
     },
     {
       "televisionShowId": 19,
-      "televisionStatusId": 1,
       "title": "Special Ops: The Lioness",
       "imdbLink": "https://www.imdb.com/title/tt13111078/",
       "rating": 0,
@@ -786,20 +696,17 @@
       "numberOfSeasons": 1,
       "sortOrder": 5,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
       "genres": [
         {
-          "televisionGenreId": 7,
           "name": "Drama",
           "colorCode": "rgb(121, 167, 12)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 7,
           "name": "Paramount\u002B",
           "colorCode": "rgb(14, 58, 236)"
         }
@@ -807,7 +714,6 @@
     },
     {
       "televisionShowId": 6,
-      "televisionStatusId": 1,
       "title": "Shogun",
       "imdbLink": "https://www.imdb.com/title/tt2788316/",
       "rating": 0,
@@ -817,20 +723,17 @@
       "numberOfSeasons": 1,
       "sortOrder": 6,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
       "genres": [
         {
-          "televisionGenreId": 7,
           "name": "Drama",
           "colorCode": "rgb(121, 167, 12)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 1,
           "name": "Hulu",
           "colorCode": "rgb(1, 168, 44)"
         }
@@ -838,7 +741,6 @@
     },
     {
       "televisionShowId": 13,
-      "televisionStatusId": 1,
       "title": "Babylon 5",
       "imdbLink": "https://www.imdb.com/title/tt0105946/",
       "rating": 0,
@@ -848,25 +750,21 @@
       "numberOfSeasons": 5,
       "sortOrder": 7,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
       "genres": [
         {
-          "televisionGenreId": 1,
           "name": "Science Fiction",
           "colorCode": "#5f3194"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 8,
           "name": "Roku",
           "colorCode": "rgb(144, 68, 190)"
         },
         {
-          "televisionServiceId": 9,
           "name": "Tubi",
           "colorCode": "rgb(193, 7, 224)"
         }
@@ -874,7 +772,6 @@
     },
     {
       "televisionShowId": 52,
-      "televisionStatusId": 1,
       "title": "The Orville",
       "imdbLink": "https://www.imdb.com/title/tt5691552/episodes/",
       "rating": 0,
@@ -884,25 +781,21 @@
       "numberOfSeasons": 3,
       "sortOrder": 8,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
       "genres": [
         {
-          "televisionGenreId": 1,
           "name": "Science Fiction",
           "colorCode": "#5f3194"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 4,
           "name": "Amazon Prime",
           "colorCode": "rgb(6, 104, 148)"
         },
         {
-          "televisionServiceId": 1,
           "name": "Hulu",
           "colorCode": "rgb(1, 168, 44)"
         }
@@ -910,7 +803,6 @@
     },
     {
       "televisionShowId": 14,
-      "televisionStatusId": 1,
       "title": "Farscape",
       "imdbLink": "https://www.imdb.com/title/tt0187636/",
       "rating": 0,
@@ -920,20 +812,17 @@
       "numberOfSeasons": 4,
       "sortOrder": 9,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
       "genres": [
         {
-          "televisionGenreId": 1,
           "name": "Science Fiction",
           "colorCode": "#5f3194"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 10,
           "name": "Crackle",
           "colorCode": "rgb(243, 132, 7)"
         }
@@ -941,7 +830,6 @@
     },
     {
       "televisionShowId": 79,
-      "televisionStatusId": 1,
       "title": "Doctor Who",
       "imdbLink": "https://www.imdb.com/title/tt0436992/",
       "rating": 0,
@@ -951,20 +839,17 @@
       "numberOfSeasons": 13,
       "sortOrder": 10,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
       "genres": [
         {
-          "televisionGenreId": 1,
           "name": "Science Fiction",
           "colorCode": "#5f3194"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 3,
           "name": "HBO",
           "colorCode": "rgb(104, 5, 167)"
         }
@@ -972,7 +857,6 @@
     },
     {
       "televisionShowId": 48,
-      "televisionStatusId": 1,
       "title": "Startup",
       "imdbLink": "https://www.imdb.com/title/tt5028002/",
       "rating": 0,
@@ -982,20 +866,17 @@
       "numberOfSeasons": 3,
       "sortOrder": 11,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
       "genres": [
         {
-          "televisionGenreId": 7,
           "name": "Drama",
           "colorCode": "rgb(121, 167, 12)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 9,
           "name": "Tubi",
           "colorCode": "rgb(193, 7, 224)"
         }
@@ -1003,7 +884,6 @@
     },
     {
       "televisionShowId": 80,
-      "televisionStatusId": 1,
       "title": "The Newsroom",
       "imdbLink": "https://www.imdb.com/title/tt1870479/",
       "rating": 0,
@@ -1013,20 +893,17 @@
       "numberOfSeasons": 3,
       "sortOrder": 12,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
       "genres": [
         {
-          "televisionGenreId": 7,
           "name": "Drama",
           "colorCode": "rgb(121, 167, 12)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 3,
           "name": "HBO",
           "colorCode": "rgb(104, 5, 167)"
         }
@@ -1034,7 +911,6 @@
     },
     {
       "televisionShowId": 78,
-      "televisionStatusId": 1,
       "title": "Stargate SG-1",
       "imdbLink": "https://www.imdb.com/title/tt0118480/",
       "rating": 0,
@@ -1044,20 +920,17 @@
       "numberOfSeasons": 10,
       "sortOrder": 13,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
       "genres": [
         {
-          "televisionGenreId": 1,
           "name": "Science Fiction",
           "colorCode": "#5f3194"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 4,
           "name": "Amazon Prime",
           "colorCode": "rgb(6, 104, 148)"
         }
@@ -1065,7 +938,6 @@
     },
     {
       "televisionShowId": 72,
-      "televisionStatusId": 1,
       "title": "Community",
       "imdbLink": "https://www.imdb.com/title/tt1439629/",
       "rating": 0,
@@ -1075,20 +947,17 @@
       "numberOfSeasons": 6,
       "sortOrder": 14,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
       "genres": [
         {
-          "televisionGenreId": 9,
           "name": "Comedy",
           "colorCode": "rgb(1, 113, 82)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 1,
           "name": "Hulu",
           "colorCode": "rgb(1, 168, 44)"
         }
@@ -1096,7 +965,6 @@
     },
     {
       "televisionShowId": 77,
-      "televisionStatusId": 1,
       "title": "The Boys",
       "imdbLink": "https://www.imdb.com/title/tt1190634/",
       "rating": 0,
@@ -1106,20 +974,17 @@
       "numberOfSeasons": 5,
       "sortOrder": 15,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
       "genres": [
         {
-          "televisionGenreId": 7,
           "name": "Drama",
           "colorCode": "rgb(121, 167, 12)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 4,
           "name": "Amazon Prime",
           "colorCode": "rgb(6, 104, 148)"
         }
@@ -1127,7 +992,6 @@
     },
     {
       "televisionShowId": 84,
-      "televisionStatusId": 1,
       "title": "Longmire",
       "imdbLink": "https://www.imdb.com/title/tt1836037/",
       "rating": 0,
@@ -1137,20 +1001,17 @@
       "numberOfSeasons": 6,
       "sortOrder": 16,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
       "genres": [
         {
-          "televisionGenreId": 7,
           "name": "Drama",
           "colorCode": "rgb(121, 167, 12)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 2,
           "name": "Netflix",
           "colorCode": "rgb(190, 4, 4)"
         }
@@ -1158,7 +1019,6 @@
     },
     {
       "televisionShowId": 74,
-      "televisionStatusId": 1,
       "title": "The Good Place",
       "imdbLink": "https://www.imdb.com/title/tt4955642/",
       "rating": 0,
@@ -1168,25 +1028,21 @@
       "numberOfSeasons": 4,
       "sortOrder": 17,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
       "genres": [
         {
-          "televisionGenreId": 9,
           "name": "Comedy",
           "colorCode": "rgb(1, 113, 82)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 2,
           "name": "Netflix",
           "colorCode": "rgb(190, 4, 4)"
         },
         {
-          "televisionServiceId": 4,
           "name": "Amazon Prime",
           "colorCode": "rgb(6, 104, 148)"
         }
@@ -1194,7 +1050,6 @@
     },
     {
       "televisionShowId": 5,
-      "televisionStatusId": 1,
       "title": "Dead Boy Detectives",
       "imdbLink": "https://www.imdb.com/title/tt15358446/",
       "rating": 0,
@@ -1204,20 +1059,17 @@
       "numberOfSeasons": 1,
       "sortOrder": 25,
       "status": {
-        "televisionStatusId": 1,
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
       "genres": [
         {
-          "televisionGenreId": 7,
           "name": "Drama",
           "colorCode": "rgb(121, 167, 12)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 2,
           "name": "Netflix",
           "colorCode": "rgb(190, 4, 4)"
         }
@@ -1227,7 +1079,6 @@
   "inProgress": [
     {
       "televisionShowId": 16,
-      "televisionStatusId": 3,
       "title": "Good Eats",
       "imdbLink": "https://www.imdb.com/title/tt0344651/",
       "rating": 0,
@@ -1237,20 +1088,17 @@
       "numberOfSeasons": 14,
       "sortOrder": 3,
       "status": {
-        "televisionStatusId": 3,
         "name": "Watching",
         "colorCode": "#005c78"
       },
       "genres": [
         {
-          "televisionGenreId": 8,
           "name": "Food",
           "colorCode": "rgb(164, 108, 2)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 3,
           "name": "HBO",
           "colorCode": "rgb(104, 5, 167)"
         }
@@ -1258,7 +1106,6 @@
     },
     {
       "televisionShowId": 10,
-      "televisionStatusId": 3,
       "title": "The Stand",
       "imdbLink": "https://www.imdb.com/title/tt1831804/",
       "rating": 0,
@@ -1268,20 +1115,17 @@
       "numberOfSeasons": 1,
       "sortOrder": 2,
       "status": {
-        "televisionStatusId": 3,
         "name": "Watching",
         "colorCode": "#005c78"
       },
       "genres": [
         {
-          "televisionGenreId": 7,
           "name": "Drama",
           "colorCode": "rgb(121, 167, 12)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 7,
           "name": "Paramount\u002B",
           "colorCode": "rgb(14, 58, 236)"
         }
@@ -1289,7 +1133,6 @@
     },
     {
       "televisionShowId": 39,
-      "televisionStatusId": 3,
       "title": "Star Trek: The Next Generation",
       "imdbLink": "https://www.imdb.com/title/tt0092455/",
       "rating": 5,
@@ -1299,30 +1142,25 @@
       "numberOfSeasons": 7,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 3,
         "name": "Watching",
         "colorCode": "#005c78"
       },
       "genres": [
         {
-          "televisionGenreId": 1,
           "name": "Science Fiction",
           "colorCode": "#5f3194"
         },
         {
-          "televisionGenreId": 3,
           "name": "Star Trek",
           "colorCode": "rgb(149, 145, 6)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 7,
           "name": "Paramount\u002B",
           "colorCode": "rgb(14, 58, 236)"
         },
         {
-          "televisionServiceId": 6,
           "name": "Physical Media",
           "colorCode": "rgb(88, 88, 88)"
         }
@@ -1332,7 +1170,6 @@
   "betweenSeasons": [
     {
       "televisionShowId": 15,
-      "televisionStatusId": 4,
       "title": "Death and Other Details",
       "imdbLink": "https://www.imdb.com/title/tt15439048/",
       "rating": 0,
@@ -1342,7 +1179,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 4,
         "name": "In Between Seasons",
         "colorCode": "#901960"
       },
@@ -1351,7 +1187,6 @@
     },
     {
       "televisionShowId": 8,
-      "televisionStatusId": 4,
       "title": "Fallout",
       "imdbLink": "https://www.imdb.com/title/tt12637874/",
       "rating": 0,
@@ -1361,7 +1196,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 4,
         "name": "In Between Seasons",
         "colorCode": "#901960"
       },
@@ -1370,7 +1204,6 @@
     },
     {
       "televisionShowId": 98,
-      "televisionStatusId": 4,
       "title": "For All Mankind",
       "imdbLink": "https://www.imdb.com/title/tt7772588/",
       "rating": 0,
@@ -1380,7 +1213,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 4,
         "name": "In Between Seasons",
         "colorCode": "#901960"
       },
@@ -1389,7 +1221,6 @@
     },
     {
       "televisionShowId": 20,
-      "televisionStatusId": 4,
       "title": "Frasier (2023)",
       "imdbLink": "https://www.imdb.com/title/tt14124236/",
       "rating": 0,
@@ -1399,7 +1230,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 4,
         "name": "In Between Seasons",
         "colorCode": "#901960"
       },
@@ -1408,7 +1238,6 @@
     },
     {
       "televisionShowId": 47,
-      "televisionStatusId": 4,
       "title": "It\u2019s Always Sunny in Philadelphia",
       "imdbLink": "https://www.imdb.com/title/tt0472954/",
       "rating": 0,
@@ -1418,7 +1247,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 4,
         "name": "In Between Seasons",
         "colorCode": "#901960"
       },
@@ -1427,7 +1255,6 @@
     },
     {
       "televisionShowId": 26,
-      "televisionStatusId": 4,
       "title": "Mythic Quest",
       "imdbLink": "https://www.imdb.com/title/tt8879940/",
       "rating": 0,
@@ -1437,7 +1264,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 4,
         "name": "In Between Seasons",
         "colorCode": "#901960"
       },
@@ -1446,7 +1272,6 @@
     },
     {
       "televisionShowId": 89,
-      "televisionStatusId": 4,
       "title": "Star Trek: Lower Decks",
       "imdbLink": "https://www.imdb.com/title/tt9184820/",
       "rating": 0,
@@ -1456,7 +1281,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 4,
         "name": "In Between Seasons",
         "colorCode": "#901960"
       },
@@ -1465,7 +1289,6 @@
     },
     {
       "televisionShowId": 53,
-      "televisionStatusId": 4,
       "title": "Star Trek: Strange New Worlds",
       "imdbLink": "https://www.imdb.com/title/tt12327578/",
       "rating": 0,
@@ -1475,7 +1298,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 4,
         "name": "In Between Seasons",
         "colorCode": "#901960"
       },
@@ -1484,7 +1306,6 @@
     },
     {
       "televisionShowId": 62,
-      "televisionStatusId": 4,
       "title": "Yellowstone",
       "imdbLink": "https://www.imdb.com/title/tt4236770/",
       "rating": 0,
@@ -1494,7 +1315,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 4,
         "name": "In Between Seasons",
         "colorCode": "#901960"
       },
@@ -1505,7 +1325,6 @@
   "completed": [
     {
       "televisionShowId": 94,
-      "televisionStatusId": 5,
       "title": "30 Rock",
       "imdbLink": "https://www.imdb.com/title/tt0496424/",
       "rating": 4,
@@ -1515,7 +1334,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1524,7 +1342,6 @@
     },
     {
       "televisionShowId": 70,
-      "televisionStatusId": 5,
       "title": "Altered Carbon",
       "imdbLink": "https://www.imdb.com/title/tt2261227/",
       "rating": 3,
@@ -1534,7 +1351,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1543,7 +1359,6 @@
     },
     {
       "televisionShowId": 45,
-      "televisionStatusId": 5,
       "title": "American Gods",
       "imdbLink": "https://www.imdb.com/title/tt1898069/",
       "rating": 3,
@@ -1553,7 +1368,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1562,7 +1376,6 @@
     },
     {
       "televisionShowId": 43,
-      "televisionStatusId": 5,
       "title": "Band of Brothers",
       "imdbLink": "https://www.imdb.com/title/tt0185906/",
       "rating": 5,
@@ -1572,7 +1385,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1581,7 +1393,6 @@
     },
     {
       "televisionShowId": 56,
-      "televisionStatusId": 5,
       "title": "Castle Rock",
       "imdbLink": "https://www.imdb.com/title/tt6548228/",
       "rating": 2,
@@ -1591,20 +1402,17 @@
       "numberOfSeasons": 2,
       "sortOrder": 1,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
       "genres": [
         {
-          "televisionGenreId": 6,
           "name": "Horror",
           "colorCode": "rgb(4, 77, 67)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 1,
           "name": "Hulu",
           "colorCode": "rgb(1, 168, 44)"
         }
@@ -1612,7 +1420,6 @@
     },
     {
       "televisionShowId": 12,
-      "televisionStatusId": 5,
       "title": "Catch-22",
       "imdbLink": "https://www.imdb.com/title/tt5056196/",
       "rating": 4,
@@ -1622,7 +1429,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1631,7 +1437,6 @@
     },
     {
       "televisionShowId": 50,
-      "televisionStatusId": 5,
       "title": "Daria",
       "imdbLink": "https://www.imdb.com/title/tt0118298/",
       "rating": 3,
@@ -1641,7 +1446,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1650,7 +1454,6 @@
     },
     {
       "televisionShowId": 83,
-      "televisionStatusId": 5,
       "title": "Designated Survivor",
       "imdbLink": "https://www.imdb.com/title/tt5296406/",
       "rating": 2,
@@ -1660,20 +1463,17 @@
       "numberOfSeasons": 3,
       "sortOrder": 2,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
       "genres": [
         {
-          "televisionGenreId": 7,
           "name": "Drama",
           "colorCode": "rgb(121, 167, 12)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 2,
           "name": "Netflix",
           "colorCode": "rgb(190, 4, 4)"
         }
@@ -1681,7 +1481,6 @@
     },
     {
       "televisionShowId": 40,
-      "televisionStatusId": 5,
       "title": "Elementary",
       "imdbLink": "https://www.imdb.com/title/tt2191671/",
       "rating": 5,
@@ -1691,7 +1490,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1700,7 +1498,6 @@
     },
     {
       "televisionShowId": 60,
-      "televisionStatusId": 5,
       "title": "The Expanse",
       "imdbLink": "https://www.imdb.com/title/tt3230854/",
       "rating": 5,
@@ -1710,7 +1507,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1719,7 +1515,6 @@
     },
     {
       "televisionShowId": 36,
-      "televisionStatusId": 5,
       "title": "Frasier",
       "imdbLink": "https://www.imdb.com/title/tt0106004/",
       "rating": 4,
@@ -1729,7 +1524,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1738,7 +1532,6 @@
     },
     {
       "televisionShowId": 32,
-      "televisionStatusId": 5,
       "title": "Game of Thrones",
       "imdbLink": "https://www.imdb.com/title/tt0944947/",
       "rating": 4,
@@ -1748,7 +1541,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1757,7 +1549,6 @@
     },
     {
       "televisionShowId": 55,
-      "televisionStatusId": 5,
       "title": "Halo",
       "imdbLink": "https://www.imdb.com/title/tt2934286/",
       "rating": 2,
@@ -1767,20 +1558,17 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
       "genres": [
         {
-          "televisionGenreId": 1,
           "name": "Science Fiction",
           "colorCode": "#5f3194"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 7,
           "name": "Paramount\u002B",
           "colorCode": "rgb(14, 58, 236)"
         }
@@ -1788,7 +1576,6 @@
     },
     {
       "televisionShowId": 92,
-      "televisionStatusId": 5,
       "title": "Jack Ryan",
       "imdbLink": "https://www.imdb.com/title/tt5057054/",
       "rating": 4,
@@ -1798,7 +1585,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1807,7 +1593,6 @@
     },
     {
       "televisionShowId": 33,
-      "televisionStatusId": 5,
       "title": "Lost",
       "imdbLink": "https://www.imdb.com/title/tt0411008/",
       "rating": 4,
@@ -1817,7 +1602,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1826,7 +1610,6 @@
     },
     {
       "televisionShowId": 90,
-      "televisionStatusId": 5,
       "title": "The Mandalorian",
       "imdbLink": "https://www.imdb.com/title/tt8111088/",
       "rating": 5,
@@ -1836,7 +1619,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1845,7 +1627,6 @@
     },
     {
       "televisionShowId": 35,
-      "televisionStatusId": 5,
       "title": "Meltdown: Three Mile Island",
       "imdbLink": "https://www.imdb.com/title/tt19757508/",
       "rating": 2,
@@ -1855,7 +1636,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1864,7 +1644,6 @@
     },
     {
       "televisionShowId": 58,
-      "televisionStatusId": 5,
       "title": "The Middle",
       "imdbLink": "https://www.imdb.com/title/tt1442464/",
       "rating": 4,
@@ -1874,7 +1653,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1883,7 +1661,6 @@
     },
     {
       "televisionShowId": 54,
-      "televisionStatusId": 5,
       "title": "Obi-Wan Kenobi",
       "imdbLink": "https://www.imdb.com/title/tt8466564/",
       "rating": 5,
@@ -1893,7 +1670,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1902,7 +1678,6 @@
     },
     {
       "televisionShowId": 37,
-      "televisionStatusId": 5,
       "title": "The Office",
       "imdbLink": "https://www.imdb.com/title/tt0386676/",
       "rating": 5,
@@ -1912,7 +1687,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1921,7 +1695,6 @@
     },
     {
       "televisionShowId": 42,
-      "televisionStatusId": 5,
       "title": "The Pacific",
       "imdbLink": "https://www.imdb.com/title/tt0374463/",
       "rating": 4,
@@ -1931,7 +1704,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1940,7 +1712,6 @@
     },
     {
       "televisionShowId": 31,
-      "televisionStatusId": 5,
       "title": "Parks and Recreation",
       "imdbLink": "https://www.imdb.com/title/tt1266020/",
       "rating": 4,
@@ -1950,7 +1721,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1959,7 +1729,6 @@
     },
     {
       "televisionShowId": 88,
-      "televisionStatusId": 5,
       "title": "Person of Interest",
       "imdbLink": "https://www.imdb.com/title/tt1839578/",
       "rating": 5,
@@ -1969,7 +1738,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1978,7 +1746,6 @@
     },
     {
       "televisionShowId": 27,
-      "televisionStatusId": 5,
       "title": "The Roosevelts",
       "imdbLink": "https://www.pbs.org/kenburns/the-roosevelts/",
       "rating": 5,
@@ -1988,7 +1755,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -1997,7 +1763,6 @@
     },
     {
       "televisionShowId": 23,
-      "televisionStatusId": 5,
       "title": "Salt Fat Acid Heat",
       "imdbLink": "https://www.imdb.com/title/tt8772088/",
       "rating": 3,
@@ -2007,7 +1772,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -2016,7 +1780,6 @@
     },
     {
       "televisionShowId": 25,
-      "televisionStatusId": 5,
       "title": "Schitt\u2019s Creek",
       "imdbLink": "https://www.imdb.com/title/tt3526078/",
       "rating": 4,
@@ -2026,7 +1789,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -2035,7 +1797,6 @@
     },
     {
       "televisionShowId": 34,
-      "televisionStatusId": 5,
       "title": "Scrubs",
       "imdbLink": "https://www.imdb.com/title/tt0285403/",
       "rating": 5,
@@ -2045,7 +1806,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -2054,7 +1814,6 @@
     },
     {
       "televisionShowId": 30,
-      "televisionStatusId": 5,
       "title": "Sherlock",
       "imdbLink": "https://www.imdb.com/title/tt1475582/",
       "rating": 5,
@@ -2064,7 +1823,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -2073,7 +1831,6 @@
     },
     {
       "televisionShowId": 3,
-      "televisionStatusId": 5,
       "title": "Short Treks",
       "imdbLink": "https://www.imdb.com/title/tt9059594/",
       "rating": 4,
@@ -2083,7 +1840,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -2092,7 +1848,6 @@
     },
     {
       "televisionShowId": 93,
-      "televisionStatusId": 5,
       "title": "The Sopranos",
       "imdbLink": "https://www.imdb.com/title/tt0141842/",
       "rating": 4,
@@ -2102,25 +1857,21 @@
       "numberOfSeasons": 6,
       "sortOrder": 4,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
       "genres": [
         {
-          "televisionGenreId": 4,
           "name": "Crime Drama",
           "colorCode": "rgb(136, 0, 0)"
         },
         {
-          "televisionGenreId": 7,
           "name": "Drama",
           "colorCode": "rgb(121, 167, 12)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 3,
           "name": "HBO",
           "colorCode": "rgb(104, 5, 167)"
         }
@@ -2128,7 +1879,6 @@
     },
     {
       "televisionShowId": 38,
-      "televisionStatusId": 5,
       "title": "Star Trek",
       "imdbLink": "https://www.imdb.com/title/tt0060028/",
       "rating": 5,
@@ -2138,7 +1888,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -2147,7 +1896,6 @@
     },
     {
       "televisionShowId": 82,
-      "televisionStatusId": 5,
       "title": "Star Trek: Deep Space Nine",
       "imdbLink": "https://www.imdb.com/title/tt0106145/",
       "rating": 5,
@@ -2157,7 +1905,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -2166,7 +1913,6 @@
     },
     {
       "televisionShowId": 99,
-      "televisionStatusId": 5,
       "title": "Star Trek: Discovery",
       "imdbLink": "https://www.imdb.com/title/tt5171438/",
       "rating": 4,
@@ -2176,7 +1922,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -2185,7 +1930,6 @@
     },
     {
       "televisionShowId": 87,
-      "televisionStatusId": 5,
       "title": "Star Trek: Enterprise",
       "imdbLink": "https://www.imdb.com/title/tt0244365/",
       "rating": 5,
@@ -2195,7 +1939,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -2204,7 +1947,6 @@
     },
     {
       "televisionShowId": 61,
-      "televisionStatusId": 5,
       "title": "Star Trek: Picard",
       "imdbLink": "https://www.imdb.com/title/tt8806524/",
       "rating": 5,
@@ -2214,7 +1956,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -2223,7 +1964,6 @@
     },
     {
       "televisionShowId": 17,
-      "televisionStatusId": 5,
       "title": "Star Trek: The Next Generation",
       "imdbLink": "https://www.imdb.com/title/tt0092455/",
       "rating": 5,
@@ -2233,7 +1973,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -2242,7 +1981,6 @@
     },
     {
       "televisionShowId": 86,
-      "televisionStatusId": 5,
       "title": "Star Trek: Voyager",
       "imdbLink": "https://www.imdb.com/title/tt0112178/",
       "rating": 5,
@@ -2252,7 +1990,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -2261,7 +1998,6 @@
     },
     {
       "televisionShowId": 97,
-      "televisionStatusId": 5,
       "title": "Ted Lasso",
       "imdbLink": "https://www.imdb.com/title/tt10986410/",
       "rating": 5,
@@ -2271,7 +2007,6 @@
       "numberOfSeasons": 0,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
@@ -2280,7 +2015,6 @@
     },
     {
       "televisionShowId": 100,
-      "televisionStatusId": 5,
       "title": "Turning Point: The Bomb and the Cold War",
       "imdbLink": "https://www.imdb.com/title/tt26227818/",
       "rating": 5,
@@ -2290,20 +2024,17 @@
       "numberOfSeasons": 1,
       "sortOrder": null,
       "status": {
-        "televisionStatusId": 5,
         "name": "Watched",
         "colorCode": "#343aa8"
       },
       "genres": [
         {
-          "televisionGenreId": 10,
           "name": "Documentary",
           "colorCode": "rgb(126, 13, 85)"
         }
       ],
       "services": [
         {
-          "televisionServiceId": 2,
           "name": "Netflix",
           "colorCode": "rgb(190, 4, 4)"
         }

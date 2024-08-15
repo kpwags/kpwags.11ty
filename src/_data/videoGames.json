@@ -14,14 +14,12 @@
       "completionStatus": 1,
       "genres": [
         {
-          "videoGameGenreId": 11,
           "name": "Adventure",
           "colorCode": "#50518b"
         }
       ],
       "systems": [
         {
-          "videoGameSystemId": 3,
           "name": "PlayStation",
           "colorCode": "#191f77"
         }
@@ -43,14 +41,12 @@
       "completionStatus": 2,
       "genres": [
         {
-          "videoGameGenreId": 10,
           "name": "Platform",
           "colorCode": "#585e00"
         }
       ],
       "systems": [
         {
-          "videoGameSystemId": 3,
           "name": "PlayStation",
           "colorCode": "#191f77"
         }
@@ -71,7 +67,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 4,
           "name": "Xbox",
           "colorCode": "#1b903f"
         }
@@ -92,7 +87,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 4,
           "name": "Xbox",
           "colorCode": "#1b903f"
         }
@@ -113,7 +107,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 4,
           "name": "Xbox",
           "colorCode": "#1b903f"
         }
@@ -134,7 +127,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 3,
           "name": "PlayStation",
           "colorCode": "#191f77"
         }
@@ -155,7 +147,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 3,
           "name": "PlayStation",
           "colorCode": "#191f77"
         }
@@ -176,7 +167,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 3,
           "name": "PlayStation",
           "colorCode": "#191f77"
         }
@@ -197,7 +187,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -218,7 +207,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 2,
           "name": "Nintendo Switch",
           "colorCode": "#8e0b24"
         }
@@ -239,7 +227,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 4,
           "name": "Xbox",
           "colorCode": "#1b903f"
         }
@@ -260,7 +247,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -281,7 +267,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 3,
           "name": "PlayStation",
           "colorCode": "#191f77"
         }
@@ -302,7 +287,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 4,
           "name": "Xbox",
           "colorCode": "#1b903f"
         }
@@ -323,7 +307,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 4,
           "name": "Xbox",
           "colorCode": "#1b903f"
         }
@@ -344,7 +327,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 4,
           "name": "Xbox",
           "colorCode": "#1b903f"
         }
@@ -365,7 +347,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 4,
           "name": "Xbox",
           "colorCode": "#1b903f"
         }
@@ -386,7 +367,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 4,
           "name": "Xbox",
           "colorCode": "#1b903f"
         }
@@ -407,7 +387,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 4,
           "name": "Xbox",
           "colorCode": "#1b903f"
         }
@@ -428,7 +407,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 4,
           "name": "Xbox",
           "colorCode": "#1b903f"
         }
@@ -449,7 +427,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 4,
           "name": "Xbox",
           "colorCode": "#1b903f"
         }
@@ -470,7 +447,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 4,
           "name": "Xbox",
           "colorCode": "#1b903f"
         }
@@ -491,7 +467,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 3,
           "name": "PlayStation",
           "colorCode": "#191f77"
         }
@@ -512,7 +487,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 3,
           "name": "PlayStation",
           "colorCode": "#191f77"
         }
@@ -533,7 +507,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 3,
           "name": "PlayStation",
           "colorCode": "#191f77"
         }
@@ -554,7 +527,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 3,
           "name": "PlayStation",
           "colorCode": "#191f77"
         }
@@ -575,7 +547,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 3,
           "name": "PlayStation",
           "colorCode": "#191f77"
         }
@@ -596,7 +567,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -617,7 +587,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 4,
           "name": "Xbox",
           "colorCode": "#1b903f"
         }
@@ -638,7 +607,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -659,7 +627,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 3,
           "name": "PlayStation",
           "colorCode": "#191f77"
         }
@@ -682,7 +649,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 2,
           "name": "Nintendo Switch",
           "colorCode": "#8e0b24"
         }
@@ -703,7 +669,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 2,
           "name": "Nintendo Switch",
           "colorCode": "#8e0b24"
         }
@@ -724,7 +689,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 2,
           "name": "Nintendo Switch",
           "colorCode": "#8e0b24"
         }
@@ -745,7 +709,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -766,7 +729,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -787,7 +749,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -808,7 +769,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -829,7 +789,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -850,7 +809,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -871,7 +829,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -892,7 +849,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -913,7 +869,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -934,7 +889,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -955,7 +909,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -976,7 +929,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -997,7 +949,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 3,
           "name": "PlayStation",
           "colorCode": "#191f77"
         }
@@ -1018,7 +969,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 3,
           "name": "PlayStation",
           "colorCode": "#191f77"
         }
@@ -1039,7 +989,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -1060,7 +1009,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -1081,7 +1029,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -1102,7 +1049,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -1123,7 +1069,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
@@ -1144,7 +1089,6 @@
       "genres": [],
       "systems": [
         {
-          "videoGameSystemId": 1,
           "name": "PC",
           "colorCode": "#4f1e57"
         }
