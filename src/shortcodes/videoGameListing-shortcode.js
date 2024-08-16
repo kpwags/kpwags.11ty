@@ -31,12 +31,20 @@ const getPlayedIcon = (game) => {
     }
 };
 
+const stringify = (values) => values.join(',').replaceAll(' ', '-').toLowerCase();
+
 const videoGameListingShortcode = (game) => {
     const getRating = game.rating > 0 ? starRating(game.rating, 'sm') : '';
     const platform = game.systems.length > 0 ? `<div class="meta">${game.systems.map((s) => s.name).join(', ')}</div>` : '';
 
     return `
-<div class="item video-game" data-video-game-id="${game.videoGameId}" data-platform="${game.systems.map((s) => s.name).join(', ')}">
+<div
+	class="item video-game"
+	data-video-game-id="${game.videoGameId}"
+	data-platform="${game.systems.map((s) => s.name).join(', ')}"
+	data-filter-platform="${stringify(game.systems.map((s) => s.name))}"
+	data-filter-genre="${stringify(game.genres.map((g) => g.name))}"
+>
 	<div class="cover"><img src="${game.coverImageUrl}" alt="${game.title}" height="225" width="150" />${getPlayedIcon(game)}</div>
 	<div class="info">
 		<a href="${game.link}" target="_blank" rel="noreferrer">

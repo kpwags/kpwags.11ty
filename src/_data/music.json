@@ -77,7 +77,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/SsN8LdYf/aaron-west-routine-maintenance.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Alternative",
@@ -144,7 +144,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/Qt47f7pG/aaron-west-we-dont-have-each-other.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Alternative",
@@ -3253,7 +3253,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/W18kStNX/gaslightanthem-59sound.jpg",
     "isTopTen": false,
-    "showOnNowPage": false,
+    "showOnNowPage": true,
     "genres": [],
     "formats": [
       {
@@ -4422,7 +4422,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/x8vrGhHm/mercyunion-whitetiger.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Alternative",
@@ -4679,7 +4679,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/YCK3T4w7/nothington-intheend.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [],
     "formats": [
       {

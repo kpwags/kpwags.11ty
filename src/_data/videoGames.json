@@ -64,7 +64,16 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
       "systems": [
         {
           "name": "Xbox",
@@ -84,7 +93,16 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
       "systems": [
         {
           "name": "Xbox",
@@ -104,7 +122,16 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
       "systems": [
         {
           "name": "Xbox",
@@ -124,7 +151,20 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
       "systems": [
         {
           "name": "PlayStation",
@@ -144,7 +184,20 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
       "systems": [
         {
           "name": "PlayStation",
@@ -164,7 +217,20 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
       "systems": [
         {
           "name": "PlayStation",
@@ -184,7 +250,16 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 1,
-      "genres": [],
+      "genres": [
+        {
+          "name": "MMO",
+          "colorCode": "#3f8398"
+        },
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
       "systems": [
         {
           "name": "PC",
@@ -204,7 +279,12 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 3,
-      "genres": [],
+      "genres": [
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
       "systems": [
         {
           "name": "Nintendo Switch",
@@ -224,7 +304,16 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Hack and Slash",
+          "colorCode": "#a30d42"
+        }
+      ],
       "systems": [
         {
           "name": "Xbox",
@@ -244,7 +333,16 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 1,
-      "genres": [],
+      "genres": [
+        {
+          "name": "MMO",
+          "colorCode": "#3f8398"
+        },
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
       "systems": [
         {
           "name": "PC",
@@ -264,7 +362,20 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 1,
-      "genres": [],
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        },
+        {
+          "name": "Multiplayer",
+          "colorCode": "#d2128a"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
       "systems": [
         {
           "name": "PlayStation",
@@ -284,7 +395,16 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 1,
-      "genres": [],
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        },
+        {
+          "name": "Multiplayer",
+          "colorCode": "#d2128a"
+        }
+      ],
       "systems": [
         {
           "name": "Xbox",
@@ -304,7 +424,16 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
       "systems": [
         {
           "name": "Xbox",
@@ -324,7 +453,12 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
       "systems": [
         {
           "name": "Xbox",
@@ -344,7 +478,12 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
       "systems": [
         {
           "name": "Xbox",
@@ -364,7 +503,12 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
       "systems": [
         {
           "name": "Xbox",
@@ -384,7 +528,12 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
       "systems": [
         {
           "name": "Xbox",
@@ -404,7 +553,12 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
       "systems": [
         {
           "name": "Xbox",
@@ -424,7 +578,12 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
       "systems": [
         {
           "name": "Xbox",
@@ -444,7 +603,12 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
       "systems": [
         {
           "name": "Xbox",
@@ -464,7 +628,16 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
       "systems": [
         {
           "name": "PlayStation",
@@ -484,7 +657,16 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
       "systems": [
         {
           "name": "PlayStation",
@@ -504,7 +686,16 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
       "systems": [
         {
           "name": "PlayStation",
@@ -524,7 +715,16 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
       "systems": [
         {
           "name": "PlayStation",
@@ -544,7 +744,16 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 2,
-      "genres": [],
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
       "systems": [
         {
           "name": "PlayStation",
@@ -564,7 +773,12 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 3,
-      "genres": [],
+      "genres": [
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
       "systems": [
         {
           "name": "PC",
@@ -584,7 +798,16 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 3,
-      "genres": [],
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
       "systems": [
         {
           "name": "Xbox",
@@ -604,7 +827,20 @@
       "sortOrder": null,
       "status": 3,
       "completionStatus": 3,
-      "genres": [],
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        },
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
       "systems": [
         {
           "name": "PC",
@@ -618,17 +854,47 @@
       "link": "https://theshow.com",
       "dateStarted": "2024-03-29T00:00:00",
       "dateCompleted": null,
-      "rating": 0,
+      "rating": 4,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/1zpKPnTF/mlb24.jpg",
       "sortOrder": null,
       "status": 3,
       "completionStatus": 1,
-      "genres": [],
+      "genres": [
+        {
+          "name": "Sports",
+          "colorCode": "#298d5f"
+        }
+      ],
       "systems": [
         {
           "name": "PlayStation",
           "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 55,
+      "title": "Rise of Nations",
+      "link": "https://www.xbox.com/en-us/games/store/rise-of-nations-extended-edition/9ns84hcwzd8b",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 5,
+      "thoughts": "This is definitely one of my absolute favorite real time strategy games. I loved the mechanics of the game and poured hours into games both against the computer and friends.",
+      "coverImageUrl": "https://i.postimg.cc/qvLSyyRB/rise-of-nations.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Real Time Strategy",
+          "colorCode": "#977131"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
         }
       ]
     }

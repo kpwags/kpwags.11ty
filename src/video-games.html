@@ -11,6 +11,64 @@ title: "Video Games"
 
 	<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
 
+	<section class="filters site-card">
+		<legend>Filters</legend>
+		<div class="filter-list">
+			<label for="all">
+				<input type="radio" id="all" name="gameFilters" checked />
+				All
+			</label>
+			<label for="pc">
+				<input type="radio" id="pc" name="gameFilters" />
+				PC
+			</label>
+			<label for="playstation">
+				<input type="radio" id="playstation" name="gameFilters" />
+				PlayStation
+			</label>
+			<label for="xbox">
+				<input type="radio" id="xbox" name="gameFilters" />
+				Xbox
+			</label>
+			<label for="nintendo">
+				<input type="radio" id="nintendo" name="gameFilters" />
+				Nintendo
+			</label>
+			<label for="adventure">
+				<input type="radio" id="adventure" name="gameFilters" />
+				Adventure
+			</label>
+			<label for="mmo">
+				<input type="radio" id="mmo" name="gameFilters" />
+				MMO
+			</label>
+			<label for="open-world">
+				<input type="radio" id="open-world" name="gameFilters" />
+				Open World
+			</label>
+			<label for="platform">
+				<input type="radio" id="platform" name="gameFilters" />
+				Platform
+			</label>
+			<label for="rts">
+				<input type="radio" id="rts" name="gameFilters" />
+				Real Time Strategy
+			</label>
+			<label for="rpg">
+				<input type="radio" id="rpg" name="gameFilters" />
+				Role Playing Game
+			</label>
+			<label for="sports">
+				<input type="radio" id="sports" name="gameFilters" />
+				Sports
+			</label>
+			<label for="shooter">
+				<input type="radio" id="shooter" name="gameFilters" />
+				Shooter
+			</label>
+		</div>
+	</section>
+
 	<div class="grid-section">
 		<h2>Currently Playing ({{ videoGames.inProgress | length }})</h2>
 
@@ -23,14 +81,14 @@ title: "Video Games"
 	</div>
 
 	<div class="grid-section">
-		<h2>Have Played ({{ videoGames.completed | length }})</h2>
+		<h2>Have Played (<span id="have-played">{{ videoGames.completed | length }}</span>)</h2>
 
 		<div class="game-legend">
 			<div>✅ - indicates that I finished the game</div>
 			<div>🟥 - indicates that I did not finish the game</div>
 		</div>
 
-		<div class='media-grid'>
+		<div class="media-grid have-played-grid">
 			{% for game in videoGames.completed %}
 			{% videoGameListing game %}
 			{% endfor %}

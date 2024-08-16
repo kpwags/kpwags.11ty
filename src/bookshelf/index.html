@@ -86,8 +86,8 @@ title: "Bookshelf"
 	</section>
 
 	{% for year in books.completed %}
-	<div class="grid-section">
-		<h2>{{ year.year }} ({{ year.books | length }})</h2>
+	<div class="grid-section year-{{ year.year }}">
+		<h2>{{ year.year }} (<span>{{ year.books | length }}</span>)</h2>
 
 		<div class="media-grid books">
 			{% for book in year.books %}

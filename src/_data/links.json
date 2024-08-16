@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 296,
+    "title": "The Dying Web",
+    "url": "https://endler.dev/2024/the-dying-web/",
+    "author": "Matthias Endler",
+    "linkDate": "2024-08-16T00:00:00",
+    "readingLogIssueNumber": 89,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 286,
     "title": "A background-image trick most people dont know about",
     "url": "https://csscade.com/a-background-image-trick-most-people-dont-know-about/",
@@ -93,6 +109,70 @@
     "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 292,
+    "title": "How to Start a Professional Sports Team, Win Games, and Save the Town",
+    "url": "https://www.theringer.com/mlb/2024/8/13/24216407/oakland-ballers-pro-sports-startup-athletics",
+    "author": "Dan Moore",
+    "linkDate": "2024-08-15T00:00:00",
+    "readingLogIssueNumber": 89,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 293,
+    "title": "Why Your Team Sucks 2024: Seattle Seahawks",
+    "url": "https://defector.com/why-your-team-sucks-2024-seattle-seahawks",
+    "author": "Drew Magary",
+    "linkDate": "2024-08-15T00:00:00",
+    "readingLogIssueNumber": 89,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 294,
+    "title": "Why Your Team Sucks 2024: Jacksonville Jaguars",
+    "url": "https://defector.com/why-your-team-sucks-2024-jacksonville-jaguars",
+    "author": "Drew Magary",
+    "linkDate": "2024-08-15T00:00:00",
+    "readingLogIssueNumber": 89,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 295,
+    "title": "Why Your Team Sucks 2024: Cincinnati Bengals",
+    "url": "https://defector.com/why-your-team-sucks-2024-cincinnati-bengals",
+    "author": "Sarah York",
+    "linkDate": "2024-08-15T00:00:00",
+    "readingLogIssueNumber": 89,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
     }
   },
   {

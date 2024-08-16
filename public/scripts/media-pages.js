@@ -34,14 +34,15 @@ window.addEventListener('load', () => {
             filterBooks(e.target.id);
         });
     });
-});
 
-function addClassToElement(selector, className) {
-    const element = document.querySelector(selector);
-    if (element) {
-        element.classList.add(className);
-    }
-}
+    // Video Games Page
+    const gameFilters = document.querySelectorAll('input[type="radio"][name="gameFilters"]');
+    gameFilters.forEach((filter) => {
+        filter.addEventListener('change', (e) => {
+            filterGames(e.target.id);
+        });
+    });
+});
 
 function getMedia(id, mediaType) {
     switch (mediaType) {
@@ -110,8 +111,8 @@ function filterMusic(mode) {
         case 'cd':
         case 'digital':
             document.querySelectorAll('.item').forEach((item) => {
-                const formats = item.getAttribute('data-formats').split(',');
-                if (formats.includes(convertFilterName(mode))) {
+                const formats = item.getAttribute('data-format').split(',');
+                if (formats.includes(mode)) {
                     item.removeAttribute('hidden');
                 } else {
                     item.setAttribute('hidden', 'true');
@@ -120,21 +121,16 @@ function filterMusic(mode) {
             break;
 
         default:
+            document.querySelectorAll('.item').forEach((item) => {
+                const genres = item.getAttribute('data-genre').split(',');
+                if (genres.includes(mode)) {
+                    item.removeAttribute('hidden');
+                } else {
+                    item.setAttribute('hidden', 'true');
+                }
+            });
             break;
     }
-}
-
-function toggleAlbumFormat(musicAlbums, format) {
-    addClassToElement(`#${format}-music`, 'active');
-
-    musicAlbums.forEach((album) => {
-        const formats = album.getAttribute('data-formats');
-        if (formats && formats.includes(format)) {
-            album.classList.remove('hidden');
-        } else {
-            album.classList.add('hidden');
-        }
-    });
 }
 
 function convertFilterName(genre) {
@@ -143,6 +139,10 @@ function convertFilterName(genre) {
             return 'business-&-economics';
         case 'biography':
             return 'biography-/-memoir';
+        case 'rts':
+            return 'real-time-strategy';
+        case 'rpg':
+            return 'role-playing-game';
         default:
             return genre;
     }
@@ -180,4 +180,69 @@ function filterBooks(genre) {
             }
         });
     }
+
+    const gridSections = document.querySelectorAll('.grid-section');
+    gridSections.forEach((sec) => {
+        const visibleItems = sec.querySelectorAll('.item:not([hidden])');
+        sec.querySelector('h2 span').innerHTML = visibleItems.length;
+    });
+}
+
+function filterGames(filter) {
+    switch (filter) {
+        case 'all':
+            document.querySelectorAll('.item').forEach((item) => {
+                item.removeAttribute('hidden');
+            });
+            break;
+
+        case 'pc':
+        case 'playstation':
+        case 'xbox':
+            document.querySelectorAll('.item').forEach((item) => {
+                if (item.getAttribute('data-filter-platform').includes(filter)) {
+                    item.removeAttribute('hidden');
+                } else {
+                    item.setAttribute('hidden', 'true');
+                }
+            });
+            break;
+
+        case 'nintendo':
+            document.querySelectorAll('.item').forEach((item) => {
+                if (item.getAttribute('data-filter-platform').includes('nintendo-switch')) {
+                    item.removeAttribute('hidden');
+                } else {
+                    item.setAttribute('hidden', 'true');
+                }
+            });
+            break;
+
+        case 'shooter':
+            document.querySelectorAll('.item').forEach((item) => {
+                if (
+                    item.getAttribute('data-filter-genre').includes('first-person-shooter') ||
+                    item.getAttribute('data-filter-genre').includes('third-person-shooter')
+                ) {
+                    item.removeAttribute('hidden');
+                } else {
+                    item.setAttribute('hidden', 'true');
+                }
+            });
+            break;
+
+        default:
+            document.querySelectorAll('.item').forEach((item) => {
+                const genres = item.getAttribute('data-filter-genre').split(',');
+                if (genres.includes(convertFilterName(filter))) {
+                    item.removeAttribute('hidden');
+                } else {
+                    item.setAttribute('hidden', 'true');
+                }
+            });
+            break;
+    }
+
+    const visibleItems = document.querySelectorAll('.have-played-grid .item:not([hidden])');
+    document.getElementById('have-played').innerHTML = visibleItems.length;
 }

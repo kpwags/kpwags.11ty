@@ -65,9 +65,8 @@
 	function getCurrentTheme() {
 		const mode = getStorageItem('theme_mode', 'system');
 		const color = getStorageItem('theme_color', 'green');
-		const width = getStorageItem('theme_width', 'normal');
 
-		return [mode, color, width];
+		return [mode, color];
 	}
 
 	function getColorHexCode(color) {
@@ -87,7 +86,7 @@
 	}
 
 	addEventListener('DOMContentLoaded', (event) => {
-		const [mode, color, width] = getCurrentTheme();
+		const [mode, color] = getCurrentTheme();
 
 		if (mode !== 'system') {
 			document.documentElement.setAttribute('data-theme', mode);
@@ -96,12 +95,14 @@
 		}
 
 		document.documentElement.setAttribute('data-color-theme', color);
-		document.documentElement.setAttribute('data-width', width);
 
 		const themeElement = document.querySelector('meta[name="theme-color"]');
 		if (themeElement) {
 			themeElement.setAttribute('content', getColorHexCode(color));
 		}
+
+		document.colorsForm.colorTheme.value = color;
+		document.modeForm.selectedMode.value = mode;
 	});
 </script>
 <script src="/scripts/theming.js" defer></script>
