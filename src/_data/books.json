@@ -1,47 +1,43 @@
 {
   "inProgress": [
     {
-      "bookId": 133,
-      "title": "The Firm",
-      "subTitle": "",
-      "fullTitle": "The Firm",
-      "author": "John Grisham",
-      "link": "https://bookshop.org/p/books/the-firm-john-grisham/7309328?ean=9780385319058",
-      "dateStarted": "2024-08-07T00:00:00",
+      "bookId": 205,
+      "title": "The Internet Con",
+      "subTitle": "How to Seize the Means of Computation",
+      "fullTitle": "The Internet Con: How to Seize the Means of Computation",
+      "author": "Cory Doctorow",
+      "link": "https://bookshop.org/p/books/the-internet-con-how-to-seize-the-means-of-computation-cory-doctorow/18771891?ean=9781804291245",
+      "dateStarted": null,
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/02X8mG0K/john-grisham-the-firm.jpg",
+      "coverImageUrl": "https://i.postimg.cc/6Q5g6ZRH/the-internet-con.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 4145,
-      "pageCount": 6650,
-      "percentComplete": 62,
-      "sortOrder": 71,
+      "currentPage": 1,
+      "pageCount": 0,
+      "percentComplete": 0,
+      "sortOrder": 70,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
       },
       "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
       },
       "series": null,
       "genres": [
         {
-          "name": "Crime",
-          "colorCode": "rgb(8, 84, 3)"
-        },
-        {
-          "name": "Thriller",
-          "colorCode": "rgb(54, 31, 112)"
+          "name": "Technology",
+          "colorCode": "rgb(55, 78, 146)"
         }
       ],
       "formats": [
         {
-          "name": "eBook",
-          "colorCode": "#2c5813"
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
         }
       ]
     }
@@ -50,6 +46,51 @@
     {
       "year": "2024",
       "books": [
+        {
+          "bookId": 133,
+          "title": "The Firm",
+          "subTitle": "",
+          "fullTitle": "The Firm",
+          "author": "John Grisham",
+          "link": "https://bookshop.org/p/books/the-firm-john-grisham/7309328?ean=9780385319058",
+          "dateStarted": "2024-08-07T00:00:00",
+          "dateCompleted": "2024-08-14T00:00:00",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "This didn\u2019t necessarily feel like something I normally read, but it was still a captivating story. The characters felt believable and there were points I didn\u2019t want to put it down.",
+          "coverImageUrl": "https://i.postimg.cc/02X8mG0K/john-grisham-the-firm.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 6650,
+          "pageCount": 6650,
+          "percentComplete": 100,
+          "sortOrder": 71,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Crime",
+              "colorCode": "rgb(8, 84, 3)"
+            },
+            {
+              "name": "Thriller",
+              "colorCode": "rgb(54, 31, 112)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
+        },
         {
           "bookId": 88,
           "title": "The Blood Telegram",
@@ -10862,37 +10903,6 @@
     }
   ],
   "toRead": [
-    {
-      "bookId": 205,
-      "title": "The Internet Con",
-      "subTitle": "How to Seize the Means of Computation",
-      "fullTitle": "The Internet Con: How to Seize the Means of Computation",
-      "author": "Cory Doctorow",
-      "link": "https://bookshop.org/p/books/the-internet-con-how-to-seize-the-means-of-computation-cory-doctorow/18771891?ean=9781804291245",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/6Q5g6ZRH/the-internet-con.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "percentComplete": 0,
-      "sortOrder": 70,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
     {
       "bookId": 206,
       "title": "Liar in a Crowded Theater",

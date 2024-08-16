@@ -476,6 +476,10 @@ main.media-container {
     text-align: center;
 }
 
+.media-grid .item[hidden] {
+    display: none;
+}
+
 @media (max-width: 450px) {
     .media-grid {
         display: block;
@@ -490,7 +494,7 @@ main.media-container {
         column-gap: 24px;
         padding-bottom: 32px;
         margin-bottom: 32px;
-        align-items: center;
+        align-items: flex-start;
         width: 100%;
         border-bottom: 1px solid var(--border-color);
     }
@@ -507,7 +511,7 @@ main.media-container {
     }
 
     .media-grid .item .cover {
-        min-width: 150px;
+        min-width: 125px;
     }
 }
 
@@ -611,71 +615,6 @@ main.media-container {
         width: 20px;
         height: 20px;
     }
-}
-
-.media-with-columns {
-    display: flex;
-    column-gap: 48px;
-    margin-top: 64px;
-}
-
-.media-with-columns .sidebar {
-    width: 200px;
-}
-
-.media-with-columns .sidebar .filters {
-    padding: 24px 0 0;
-    background-color: var(--background);
-    border-radius: 6px;
-}
-
-.media-with-columns .sidebar .filters h3 {
-    padding: 0 24px 16px 24px;
-    font-size: 1.5rem;
-    border-bottom: 1px solid var(--border-color);
-}
-
-.media-with-columns .sidebar ul {
-    margin: 0;
-    padding: 0;
-}
-
-.media-with-columns .sidebar ul li {
-    border-bottom: 1px solid var(--border-color);
-    list-style-type: none;
-}
-
-.media-with-columns .sidebar ul li:hover {
-    background-color: var(--grey-4);
-}
-
-.media-with-columns .sidebar ul li:last-child {
-    margin-bottom: 0;
-    border-bottom: none;
-}
-
-.media-with-columns .sidebar ul li button {
-    display: block;
-    padding: 8px 24px;
-    color: var(--primary-color-1);
-    cursor: pointer;
-    text-decoration: none;
-    border: none;
-    font-size: 1.25rem;
-    background-color: transparent;
-    width: 100%;
-    text-align: left;
-}
-
-.media-with-columns .sidebar ul li button.active {
-    font-weight: 700;
-    color: var(--text);
-    text-decoration: none;
-}
-
-.media-with-columns .sidebar ul button:hover {
-    color: var(--primary-color-2);
-    text-decoration: underline;
 }
 
 .grid-section.music {

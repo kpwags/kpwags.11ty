@@ -20,31 +20,12 @@ window.addEventListener('load', () => {
     }
 
     // Music Page
-    const allMusicButton = document.getElementById('all-music');
-    const top10MusicButton = document.getElementById('top10-music');
-    const vinylMusicButton = document.getElementById('vinyl-music');
-    const cdMusicButton = document.getElementById('cd-music');
-    const digitalMusicButton = document.getElementById('digital-music');
-
-    if (allMusicButton) {
-        allMusicButton.addEventListener('click', () => filterMusic('all'));
-    }
-
-    if (top10MusicButton) {
-        top10MusicButton.addEventListener('click', () => filterMusic('top10'));
-    }
-
-    if (vinylMusicButton) {
-        vinylMusicButton.addEventListener('click', () => filterMusic('vinyl'));
-    }
-
-    if (cdMusicButton) {
-        cdMusicButton.addEventListener('click', () => filterMusic('cd'));
-    }
-
-    if (digitalMusicButton) {
-        digitalMusicButton.addEventListener('click', () => filterMusic('digital'));
-    }
+    const musicFilters = document.querySelectorAll('input[type="radio"][name="musicFilters"]');
+    musicFilters.forEach((filter) => {
+        filter.addEventListener('change', (e) => {
+            filterMusic(e.target.id);
+        });
+    });
 
     // Bookshelf Page
     const bookFilters = document.querySelectorAll('input[type="radio"][name="bookFilters"]');
@@ -60,56 +41,6 @@ function addClassToElement(selector, className) {
     if (element) {
         element.classList.add(className);
     }
-}
-
-function filterMusic(mode) {
-    const musicFilterButtons = document.querySelectorAll('div.music-sidebar ul li button');
-    musicFilterButtons.forEach((btn) => btn.classList.remove('active'));
-
-    const musicAlbums = document.querySelectorAll('div.item');
-
-    switch (mode) {
-        case 'all':
-            addClassToElement('#all-music', 'active');
-            musicAlbums.forEach((album) => {
-                album.classList.remove('hidden');
-            });
-            break;
-
-        case 'top10':
-            addClassToElement('#top10-music', 'active');
-            musicAlbums.forEach((album) => {
-                const isTopTen = album.getAttribute('data-topten');
-                if (isTopTen && isTopTen === 'true') {
-                    album.classList.remove('hidden');
-                } else {
-                    album.classList.add('hidden');
-                }
-            });
-            break;
-
-        case 'vinyl':
-        case 'cd':
-        case 'digital':
-            toggleAlbumFormat(musicAlbums, mode);
-            break;
-
-        default:
-            break;
-    }
-}
-
-function toggleAlbumFormat(musicAlbums, format) {
-    addClassToElement(`#${format}-music`, 'active');
-
-    musicAlbums.forEach((album) => {
-        const formats = album.getAttribute('data-formats');
-        if (formats && formats.includes(format)) {
-            album.classList.remove('hidden');
-        } else {
-            album.classList.add('hidden');
-        }
-    });
 }
 
 function getMedia(id, mediaType) {
@@ -157,15 +88,52 @@ function showThoughts(id, mediaType) {
     }
 }
 
-function showBooks(bookList) {
-    bookList.forEach((book) => {
-        book.classList.remove('hidden');
-    });
+function filterMusic(mode) {
+    switch (mode) {
+        case 'all':
+            document.querySelectorAll('.item').forEach((item) => {
+                item.removeAttribute('hidden');
+            });
+            break;
+
+        case 'top10':
+            document.querySelectorAll('.item').forEach((item) => {
+                if (item.getAttribute('data-topten') === 'true') {
+                    item.removeAttribute('hidden');
+                } else {
+                    item.setAttribute('hidden', 'true');
+                }
+            });
+            break;
+
+        case 'vinyl':
+        case 'cd':
+        case 'digital':
+            document.querySelectorAll('.item').forEach((item) => {
+                const formats = item.getAttribute('data-formats').split(',');
+                if (formats.includes(convertFilterName(mode))) {
+                    item.removeAttribute('hidden');
+                } else {
+                    item.setAttribute('hidden', 'true');
+                }
+            });
+            break;
+
+        default:
+            break;
+    }
 }
 
-function hideBooks(bookList) {
-    bookList.forEach((book) => {
-        book.classList.add('hidden');
+function toggleAlbumFormat(musicAlbums, format) {
+    addClassToElement(`#${format}-music`, 'active');
+
+    musicAlbums.forEach((album) => {
+        const formats = album.getAttribute('data-formats');
+        if (formats && formats.includes(format)) {
+            album.classList.remove('hidden');
+        } else {
+            album.classList.add('hidden');
+        }
     });
 }
 
