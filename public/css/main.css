@@ -352,7 +352,6 @@ footer .theme-control .color-controls button {
 
 footer .theme-control .color-controls legend {
     font-weight: 600;
-    color: var(--primary-color-1);
 }
 
 footer .color-controls .controls-block {
@@ -457,7 +456,6 @@ footer .mode-controls {
 
 footer .mode-controls legend {
     font-weight: 600;
-    color: var(--primary-color-1);
 }
 
 footer .mode-controls .controls-block {
