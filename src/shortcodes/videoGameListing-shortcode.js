@@ -1,11 +1,12 @@
+import dayjs from 'dayjs';
 import starRating from './starRating-shortcode.js';
 
 const getThoughts = (game) => {
-    if (game.thoughts === null || game.thoughts.trim().length === 0) {
-        return '';
-    }
+	if (game.thoughts === null || game.thoughts.trim().length === 0) {
+		return '';
+	}
 
-    return `
+	return `
 <div class="view-thoughts">
 	<button
 		class="toggle-thoughts"
@@ -20,30 +21,44 @@ const getThoughts = (game) => {
 };
 
 const getPlayedIcon = (game) => {
-    switch (game.completionStatus) {
-        case 2:
-            return '<span class="finished-icon">✅</span>';
-        case 3:
-            return '<span class="finished-icon">🟥</span>';
-        case 1:
-        default:
-            return '';
-    }
+	switch (game.completionStatus) {
+		case 2:
+			return '<span class="finished-icon">✅</span>';
+		case 3:
+			return '<span class="finished-icon">🟥</span>';
+		case 1:
+		default:
+			return '';
+	}
 };
 
 const stringify = (values) => values.join(',').replaceAll(' ', '-').toLowerCase();
 
-const videoGameListingShortcode = (game) => {
-    const getRating = game.rating > 0 ? starRating(game.rating, 'sm') : '';
-    const platform = game.systems.length > 0 ? `<div class="meta">${game.systems.map((s) => s.name).join(', ')}</div>` : '';
+const getPlayedStatus = (game) => {
+	switch (game.completionStatus) {
+		case 2:
+			return 'yes';
+		case 3:
+			return 'no';
+		case 1:
+		default:
+			return 'n/a';
+	}
+};
 
-    return `
+const videoGameListingShortcode = (game) => {
+	const getRating = game.rating > 0 ? starRating(game.rating, 'sm') : '';
+	const platform = game.systems.length > 0 ? `<div class="meta">${game.systems.map((s) => s.name).join(', ')}</div>` : '';
+
+	return `
 <div
 	class="item video-game"
 	data-video-game-id="${game.videoGameId}"
 	data-platform="${game.systems.map((s) => s.name).join(', ')}"
 	data-filter-platform="${stringify(game.systems.map((s) => s.name))}"
 	data-filter-genre="${stringify(game.genres.map((g) => g.name))}"
+	data-completed="${getPlayedStatus(game)}"
+	data-year-completed="${game.dateCompleted ? dayjs(game.dateCompleted).format('YYYY') : '0'}"
 >
 	<div class="cover"><img src="${game.coverImageUrl}" alt="${game.title}" height="225" width="150" />${getPlayedIcon(game)}</div>
 	<div class="info">

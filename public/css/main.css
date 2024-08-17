@@ -229,7 +229,7 @@ header button:hover svg {
 }
 
 [data-theme*='light'] header .switch-to-dark-mode,
-[data-theme*='dark'] header .switch-to-light-mode{
+[data-theme*='dark'] header .switch-to-light-mode {
     display: inherit;
 }
 
@@ -370,7 +370,7 @@ footer .theme-control .color-controls input {
 }
 
 footer .theme-control .color-block {
-    width:32px;
+    width: 32px;
     height: 32px;
     border-radius: 50%;
 }
@@ -869,6 +869,11 @@ main.media-container {
     gap: 16px;
     flex-wrap: wrap;
     align-items: center;
+    margin-bottom: 24px;
+}
+
+.filters .filter-list:last-child {
+    margin-bottom: 0;
 }
 
 .filters .filter-list input {
@@ -2039,6 +2044,8 @@ form {
     background: var(--primary-color-3);
 }
 
+/* Blog Roll */
+
 .blog-roll {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
@@ -2046,21 +2053,17 @@ form {
     grid-row-gap: 16px;
 }
 
-.blog-roll .blog {
-    border: 1px solid var(--grey-1);
-    padding: 16px;
-    border-radius: 8px;
-}
-
-.blog-roll .blog .title {
+.blog-roll .site-card .title {
     font-weight: 500;
     font-size: 1.5rem;
     color: var(--primary-color-2);
 }
 
-.blog-roll .blog p {
+.blog-roll .site-card p {
     margin: 16px 0 0 0;
 }
+
+/* End Blog Roll */
 
 fit-vids {
     margin-bottom: 48px;

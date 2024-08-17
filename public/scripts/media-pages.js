@@ -189,58 +189,95 @@ function filterBooks(genre) {
 }
 
 function filterGames(filter) {
-    switch (filter) {
-        case 'all':
-            document.querySelectorAll('.item').forEach((item) => {
-                item.removeAttribute('hidden');
-            });
-            break;
+    if (filter.startsWith('completed-')) {
+        console.log('in completed!');
+        const yearString = filter.replace('completed-', '');
+        const year = parseInt(yearString);
 
-        case 'pc':
-        case 'playstation':
-        case 'xbox':
+        if (year <= 2023) {
             document.querySelectorAll('.item').forEach((item) => {
-                if (item.getAttribute('data-filter-platform').includes(filter)) {
+                const yearCompleted = parseInt(item.getAttribute('data-year-completed'));
+                if (yearCompleted > 0 && yearCompleted <= 2023) {
                     item.removeAttribute('hidden');
                 } else {
                     item.setAttribute('hidden', 'true');
                 }
             });
-            break;
-
-        case 'nintendo':
+        } else {
             document.querySelectorAll('.item').forEach((item) => {
-                if (item.getAttribute('data-filter-platform').includes('nintendo-switch')) {
+                const yearCompleted = parseInt(item.getAttribute('data-year-completed'));
+                if (yearCompleted > 0 && yearCompleted === year) {
                     item.removeAttribute('hidden');
                 } else {
                     item.setAttribute('hidden', 'true');
                 }
             });
-            break;
-
-        case 'shooter':
-            document.querySelectorAll('.item').forEach((item) => {
-                if (
-                    item.getAttribute('data-filter-genre').includes('first-person-shooter') ||
-                    item.getAttribute('data-filter-genre').includes('third-person-shooter')
-                ) {
+        }
+    } else {
+        console.log('in else!');
+        switch (filter) {
+            case 'all':
+                document.querySelectorAll('.item').forEach((item) => {
                     item.removeAttribute('hidden');
-                } else {
-                    item.setAttribute('hidden', 'true');
-                }
-            });
-            break;
+                });
+                break;
 
-        default:
-            document.querySelectorAll('.item').forEach((item) => {
-                const genres = item.getAttribute('data-filter-genre').split(',');
-                if (genres.includes(convertFilterName(filter))) {
-                    item.removeAttribute('hidden');
-                } else {
-                    item.setAttribute('hidden', 'true');
-                }
-            });
-            break;
+            case 'pc':
+            case 'playstation':
+            case 'xbox':
+                document.querySelectorAll('.item').forEach((item) => {
+                    if (item.getAttribute('data-filter-platform').includes(filter)) {
+                        item.removeAttribute('hidden');
+                    } else {
+                        item.setAttribute('hidden', 'true');
+                    }
+                });
+                break;
+
+            case 'nintendo':
+                document.querySelectorAll('.item').forEach((item) => {
+                    if (item.getAttribute('data-filter-platform').includes('nintendo-switch')) {
+                        item.removeAttribute('hidden');
+                    } else {
+                        item.setAttribute('hidden', 'true');
+                    }
+                });
+                break;
+
+            case 'shooter':
+                document.querySelectorAll('.item').forEach((item) => {
+                    if (
+                        item.getAttribute('data-filter-genre').includes('first-person-shooter') ||
+                        item.getAttribute('data-filter-genre').includes('third-person-shooter')
+                    ) {
+                        item.removeAttribute('hidden');
+                    } else {
+                        item.setAttribute('hidden', 'true');
+                    }
+                });
+                break;
+
+            case 'completed':
+                document.querySelectorAll('.item').forEach((item) => {
+                    if (item.getAttribute('data-completed') === 'yes') {
+                        item.removeAttribute('hidden');
+                    } else {
+                        item.setAttribute('hidden', 'true');
+                    }
+                });
+                break;
+
+            default:
+                document.querySelectorAll('.item').forEach((item) => {
+                    const genres = item.getAttribute('data-filter-genre').split(',');
+                    if (genres.includes(convertFilterName(filter))) {
+                        item.removeAttribute('hidden');
+                    } else {
+                        item.setAttribute('hidden', 'true');
+                    }
+                });
+                break;
+        }
     }
 
     const visibleItems = document.querySelectorAll('.have-played-grid .item:not([hidden])');
