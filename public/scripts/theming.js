@@ -113,6 +113,7 @@ function toggleSiteMode() {
 }
 
 function changeMode(mode) {
+    console.log({ mode })
     if (mode === 'system') {
         removeStorageItem('theme_mode');
         document.documentElement.removeAttribute('data-theme');

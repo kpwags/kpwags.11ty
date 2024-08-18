@@ -10,12 +10,16 @@ title: "Blog Roll"
 		{% for blog in blogroll %}
 		<div class="site-card">
 			<div class="title">{{ blog.title }}</div>
-			<div class="links">
-				<a href="{{ blog.link }}">Website</a>
+			<div class="url">
+				<a href="{{ blog.link }}">{{ blog.link | domainFromUrl }}</a>
 				&bull;
 				<a href="{{ blog.rssLink }}">RSS</a>
 			</div>
-			<p class="description">{{ blog.description }}</p>
+			<div class="tags">
+				{% for tag in blog.tags %}
+				<span>{{ tag }}</span>
+				{% endfor %}
+			</div>
 		</div>
 
 		{% endfor %}

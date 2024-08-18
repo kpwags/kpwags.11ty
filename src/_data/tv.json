@@ -358,23 +358,6 @@
       "services": []
     },
     {
-      "televisionShowId": 1,
-      "title": "Only Murderers in the Building",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
       "televisionShowId": 63,
       "title": "The Outsider",
       "imdbLink": "",
@@ -1105,14 +1088,41 @@
       ]
     },
     {
+      "televisionShowId": 1,
+      "title": "Only Murderers in the Building",
+      "imdbLink": "https://www.imdb.com/title/tt11691774/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/2ypsjtLd/only-murderers-in-the-building.jpg",
+      "currentSeason": 1,
+      "numberOfSeasons": 4,
+      "sortOrder": null,
+      "status": {
+        "name": "Watching",
+        "colorCode": "#005c78"
+      },
+      "genres": [
+        {
+          "name": "Comedy",
+          "colorCode": "rgb(1, 113, 82)"
+        }
+      ],
+      "services": [
+        {
+          "name": "Hulu",
+          "colorCode": "rgb(1, 168, 44)"
+        }
+      ]
+    },
+    {
       "televisionShowId": 10,
       "title": "The Stand",
       "imdbLink": "https://www.imdb.com/title/tt1831804/",
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/dtb27Hw1/the-stand.jpg",
-      "currentSeason": 1,
-      "numberOfSeasons": 1,
+      "currentSeason": 3,
+      "numberOfSeasons": 9,
       "sortOrder": 2,
       "status": {
         "name": "Watching",

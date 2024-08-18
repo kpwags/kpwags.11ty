@@ -415,6 +415,7 @@ footer .mode-controls label[for="mode-light"] {
 footer .mode-controls label[for="mode-system"] {
     border-left: 1px solid var(--primary-color-1);
     border-right: 1px solid var(--primary-color-1);
+    color: var(--text);
 }
 
 footer .mode-controls label[for="mode-dark"] {
@@ -428,20 +429,20 @@ footer .mode-controls label svg {
 
 footer .mode-controls label:hover {
     background-color: var(--primary-color-1);
-    color: var(--white-1);
+    color: var(--background);
 }
 
 footer .mode-controls label:hover svg {
-    fill: var(--white-1);
+    fill: var(--background);
 }
 
 footer .mode-controls label:has(input:checked) {
     background-color: var(--primary-color-1);
-    color: var(--white-1);
+    color: var(--background);
 }
 
 footer .mode-controls label:has(input:checked) svg {
-    fill: var(--white-1);
+    fill: var(--background);
 }
 
 footer .mode-controls input {
@@ -769,6 +770,21 @@ main.media-container {
 
 .media-grid .item.video-game .cover {
     position: relative;
+}
+
+.media-grid .item .media-progress-bar {
+    width: 150px;
+    margin: 4px auto 16px;
+}
+
+.media-grid .item .media-progress-bar .bar {
+    height: 16px;
+    border: 1px solid #bcbcbc;
+}
+
+.media-grid .item .media-progress-bar .bar .inner-bar {
+    height: 100%;
+    background-color: var(--primary-color-1);
 }
 
 .media-grid.current-status div.rating,
@@ -1986,34 +2002,34 @@ article.uses .uses-section ul {
 
 /* End Stats Page */
 
+/* Work Page */
 .project {
     margin: 32px 0;
 }
 
 .project h2 {
-    margin-bottom: 24px;
+    margin-bottom: 0;
 }
 
 .project .status {
-    margin: 0.6rem 0;
-    font-style: italic;
+    margin: 2px 0 24px;
     color: var(--meta);
-    text-align: center;
-}
-
-.project .status span {
-    font-weight: 600;
 }
 
 .project img {
-    margin: 16px auto;
+    margin: 16px auto 24px;
     max-width: 80%;
     text-align: center;
 }
 
-.project .image.bordered img {
-    border: 1px solid var(--grey-1);
+
+.project p:last-child {
+    margin-bottom: 0;
 }
+
+/* End Work Page */
+
+/* Search Page */
 
 form {
     display: grid;
@@ -2042,6 +2058,8 @@ form {
     background: var(--primary-color-3);
 }
 
+/* End Search Page */
+
 /* Blog Roll */
 
 .blog-roll {
@@ -2054,11 +2072,27 @@ form {
 .blog-roll .site-card .title {
     font-weight: 500;
     font-size: 1.5rem;
-    color: var(--primary-color-2);
+    line-height: 1;
 }
 
-.blog-roll .site-card p {
+.blog-roll .site-card .url {
+    margin: 4px 0;
+}
+
+.blog-roll .site-card .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
     margin: 16px 0 0 0;
+}
+
+.blog-roll .site-card .tags span {
+    white-space: nowrap;
+    color: var(--background);
+    background: var(--primary-color-1);
+    padding: 2px 8px;
+    border-radius: 8px;
+    font-size: 0.8rem;
 }
 
 /* End Blog Roll */

@@ -450,6 +450,69 @@
     ]
   },
   {
+    "musicAlbumId": 174,
+    "title": "The Fear of Standing Still",
+    "artist": "American Aquarium",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/FshN106h/american-aquarium-fear-of-standing-still.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Country",
+        "colorCode": "rgb(120, 74, 0)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Crier"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Messy as a Magnolia"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Cherokee Purple"
+      },
+      {
+        "trackNumber": 4,
+        "title": "The Getting Home"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Southern Roots"
+      },
+      {
+        "trackNumber": 6,
+        "title": "The Curse of Growing Old"
+      },
+      {
+        "trackNumber": 7,
+        "title": "The Fear of Standing Still"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Piece by Piece"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Babies Having Babies"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Head Down, Feet Moving"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 166,
     "title": "The Suburbs",
     "artist": "Arcade Fire",
@@ -1985,6 +2048,77 @@
     ]
   },
   {
+    "musicAlbumId": 175,
+    "title": "Feast of Famine",
+    "artist": "Chuck Ragan",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/kgF1jhFb/chuck-ragan-feast-or-famine.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "The Boat"
+      },
+      {
+        "trackNumber": 2,
+        "title": "For Broken Ears"
+      },
+      {
+        "trackNumber": 3,
+        "title": "California Burritos"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Geraldine"
+      },
+      {
+        "trackNumber": 5,
+        "title": "It\u0027s What You Will"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Do You Pray"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Don\u0027t Cry"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Symmetry"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Between the Lines"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Hearts of Stone"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The Grove"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Do What You Do"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 11,
     "title": "The Flame in the Flood",
     "artist": "Chuck Ragan",
@@ -2044,6 +2178,140 @@
       {
         "trackNumber": 10,
         "title": "What We Leave Behind"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 176,
+    "title": "Gold Country",
+    "artist": "Chuck Ragan",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/NftP1cRc/chuck-ragan-gold-country.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "For Goodness Sake"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Glory"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Rotterdam"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Done and Done"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The Trench"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Don\u0027t Say a Word"
+      },
+      {
+        "trackNumber": 7,
+        "title": "10 West"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Ole Diesel"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Cut Em Down"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Let it Rain"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Good Enough for Rock and Roll"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Get Em All Home"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 177,
+    "title": "Till Midnight",
+    "artist": "Chuck Ragan",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/qMtSJLct/chuck-ragan-till-midnight.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Something May Catch Fire"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Vagabond"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Non Typical"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Revved"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Bedroll Lullaby"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Gave My Heart Out"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Wake With You"
+      },
+      {
+        "trackNumber": 8,
+        "title": "You And I Alone"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Whistleblowers Song"
+      },
+      {
+        "trackNumber": 10,
+        "title": "For All We Care"
       }
     ]
   },
@@ -2812,14 +3080,60 @@
     "coverImageUrl": "https://i.postimg.cc/dDM1tcq7/davehause-pattypaddy.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
     "formats": [
       {
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Moon Song"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Long Ride Home"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Top of the World"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Poor Man\u0027s House"
+      },
+      {
+        "trackNumber": 5,
+        "title": ""
+      },
+      {
+        "trackNumber": 6,
+        "title": "Minimum Wage is a Gateway Drug"
+      },
+      {
+        "trackNumber": 7,
+        "title": "The Father, The Sun and the Homosexual / Single Parent"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Doublewhiskeycokenoice"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Super Powers Enable Me to Blend in with the Machinery"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The Great American Going Out of Business Sale"
+      }
+    ]
   },
   {
     "musicAlbumId": 23,
@@ -4385,6 +4699,10 @@
       {
         "name": "Vinyl",
         "colorCode": "#a51643"
+      },
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
       }
     ],
     "tracks": []

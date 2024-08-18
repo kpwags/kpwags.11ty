@@ -657,6 +657,29 @@
       "year": "2024",
       "movies": [
         {
+          "movieId": 150,
+          "title": "Sicario",
+          "imdbLink": "https://m.imdb.com/title/tt3397884/",
+          "dateWatched": "2024-08-16T00:00:00",
+          "sortOrder": null,
+          "rating": 2,
+          "thoughts": "I thought this would be better given the cast. In the end, I felt like several of the characters were superfluous and the story disjointed.",
+          "posterImageUrl": "https://i.postimg.cc/cL4XCTQR/sicario.jpg",
+          "status": "Watched",
+          "genres": [
+            {
+              "name": "Action",
+              "colorCode": "#2254ab"
+            }
+          ],
+          "services": [
+            {
+              "name": "Amazon Prime",
+              "colorCode": "#215260"
+            }
+          ]
+        },
+        {
           "movieId": 147,
           "title": "Asteroid City",
           "imdbLink": "https://www.imdb.com/title/tt14230388/",
