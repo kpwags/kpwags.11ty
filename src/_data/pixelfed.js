@@ -14,16 +14,18 @@ const pixelfed = () => {
 			const response = await res.text();
 
 			const options = {
-			    ignoreAttributes : false
+				ignoreAttributes: false
 			};
 
 			const parser = new XMLParser(options);
 			const data = parser.parse(response);
 
+			console.log({ image: data.feed.entry[0] });
+
 			data.feed.entry.forEach((i) => {
 				images.push({
 					link: i.id,
-					title: i.summary['#text'],
+					title: i.title,
 					image: i['media:content']['@_url'],
 				});
 			});
