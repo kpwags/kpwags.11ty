@@ -10,7 +10,8 @@
     "start": "npx @11ty/eleventy --serve",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
     "debugstart": "DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
-    "benchmark": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
+    "benchmark": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy",
+    "buildstart": "/Users/keith/Apps/WagsMediaGenerator/generate.sh && npx @11ty/eleventy --serve"
   },
   "keywords": [],
   "author": "",
