@@ -1137,8 +1137,14 @@ fit-vids {
 
 .latest-pixelfed-photos .pixelfed-photos a {
     border: 8px solid var(--photo-frame-color);
+}
+
+.latest-pixelfed-photos .pixelfed-photos a div.image {
     width: 200px;
     height: 200px;
+    display: block;
+    background-size: cover;
+    background-position-y: 50%;
 }
 
 .latest-pixelfed-photos .pixelfed-photos a:hover {

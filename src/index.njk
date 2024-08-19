@@ -67,7 +67,7 @@ layout: 'layouts/layout.html'
 	<div class="pixelfed-photos">
 		{% for img in pixelfed %}
 			<a href="{{ img.link }}">
-				<img src="{{ img.image }}" alt="{{ img.title }}" width="1080" height="1080" />
+				<div class="image" title="{{ img.title }}" style="background-image: url('{{ img.image }}')"></div>
 			</a>
 		{% endfor %}
 	</div>
