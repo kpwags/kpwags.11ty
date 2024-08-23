@@ -24,9 +24,9 @@ pagination:
 		<li>
 			<a href="{{ item.url }}">
 				<div class="icon">
-					{% if item.linkType.name == "Podcast" %}
+					{% if item.type.name == "Podcast" %}
 					🎧
-					{% elsif item.linkType.name == "Video" %}
+					{% elsif item.type.name == "Video" %}
 					🎥
 					{% else %}
 					🔗
