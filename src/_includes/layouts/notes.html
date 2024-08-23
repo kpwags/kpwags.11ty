@@ -5,7 +5,6 @@
 	{% include "head.html" %}
 	<title>{{ title }} - Keith Wagner</title>
 	<link rel="stylesheet" type="text/css" href="/css/prism-okaidia.css" />
-	<link rel="stylesheet" type="text/css" href="/css/notes.css" />
 
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://kpwags.com{{ page.url }}" />
@@ -15,25 +14,22 @@
 
 <body>
 	{% include "header.html" %}
-	<main class="short-note">
-		<h1>{{ title }}</h1>
-		<div class="metadata">
-			<div class="post-date">{{ dateString }}</div>
-			<div class="separator">&bull;</div>
-			<a href="{{ link }}">Source</a>
-			<div class="separator">&bull;</div>
-			<div class="domain">{{ link | domainFromUrl }}</div>
-		</div>
-		{{ content }}
-		<hr />
-		<div class="reply-links">
-			<span>Reply via:</span>
-			<a href="mailto:hello@kpwags.com?subject={{ title }}">Email</a>
-			&bull;
-			<a href="https://hachyderm.io/@kpwags" target="_blank" rel="noreferrer nofollow">Mastodon</a>
-			&bull;
-			<a href="https://bsky.app/profile/kpwags.com" target="_blank" rel="noreferrer nofollow">Bluesky</a>
-		</div>
+	<main>
+		<article class="note note-page">
+			<h1>{{ title }}</h1>
+			<div class="metadata">
+				<div>{{ dateString }}</div>
+				<div>&bull;</div>
+				<div>{{ link | domainFromUrl }}</div>
+			</div>
+			<div class="content">{{ content }}</div>
+			<div class="view-link"><a href="{{ link }}">Read More</a></div>
+			<hr />
+			<div class="footer">
+				{% tagList tags %}
+				{% replyLinks title %}
+			</div>
+		</article>
 	</main>
 	{% include "footer.html" %}
 </body>

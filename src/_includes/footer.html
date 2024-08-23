@@ -18,9 +18,11 @@
             <li><a href="/work" title="View a page showcasing projects I've worked on">Work</a></li>
             <li><a href="/uses" title="View a page showing the gear and apps I use">Uses</a></li>
             <li><a href="/search" title="Go to a page allowing you to search my blog">Search</a></li>
-            <li><a href="/now" title="Now">Now</a></li>
+            <li><a href="/now" title="View what I'm currently doing, watching and listening to">Now</a></li>
             <li><a href="/wips" title="Works in Progress">WIPs</a></li>
-            <li><a href="/likes" title="View a page listing various articles I've liked and want to share from my RSS feeds">Likes</a></li>
+            <li><a href="/likes"
+                    title="View a page listing various articles I've liked and want to share from my RSS feeds">Likes</a>
+            </li>
             <li><a href="/stats" title="View a page showing stats for my page">Stats</a></li>
             <li><a href="/blogroll" title="View a page of recommendations of other people to follow">Blog Roll</a></li>
             <li><a href="/progress/2024" title="View a page showing my current progress reaching my 2024 aspirations"
@@ -99,11 +101,73 @@
         </ul>
     </nav>
     <nav class="site-info">
-        <span>Built with <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer nofollow">Eleventy</a>
-            ({{ config.eleventyVersion }})</span>
+        <span>Built with <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer nofollow">Eleventy</a></span>
         <span>Build Date: {{ config.builtAt | readableDate }}</span>
         <span><a href="/credits">Credits</a></span>
         <span><a href="https://github.com/kpwags/kpwags.11ty">View Source</a></span>
     </nav>
+    <div class="theme-control">
+        <form class="color-controls" name="colorsForm">
+            <fieldset>
+                <legend>Choose Color:</legend>
+                <div class="controls-block">
+                    <label for="theme-color-red">
+                        <span class="sr-only">Red</span>
+                        <div class="color-block red"></div>
+                        <input type="radio" id="theme-color-red" name="colorTheme" value="red" />
+                    </label>
+                    <label for="theme-color-orange">
+                        <span class="sr-only">Orange</span>
+                        <div class="color-block orange"></div>
+                        <input type="radio" id="theme-color-orange" name="colorTheme" value="orange" />
+                    </label>
+                    <label for="theme-color-green">
+                        <span class="sr-only">Green</span>
+                        <div class="color-block green"></div>
+                        <input type="radio" id="theme-color-green" name="colorTheme" value="green" checked />
+                    </label>
+                    <label for="theme-color-blue">
+                        <span class="sr-only">Blue</span>
+                        <div class="color-block blue"></div>
+                        <input type="radio" id="theme-color-blue" name="colorTheme" value="blue" />
+                    </label>
+                    <label for="theme-color-purple">
+                        <span class="sr-only">Purple</span>
+                        <div class="color-block purple"></div>
+                        <input type="radio" id="theme-color-purple" name="colorTheme" value="purple" />
+                    </label>
+                </div>
+            </fieldset>
+        </form>
+        <form class="mode-controls" name="modeForm">
+            <fieldset>
+                <legend>Choose Mode:</legend>
+                <div class="controls-block">
+                    <label for="mode-light">
+                        <span class="sr-only">Light Mode</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                            viewBox="0 0 16 16" aria-label="sun indicating light mode">
+                            <path
+                                d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8M8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0m0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13m8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5M3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8m10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0m-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0m9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707M4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708" />
+                        </svg>
+                        <input type="radio" id="mode-light" name="selectedMode" value="light" />
+                    </label>
+                    <label for="mode-system">
+                        <span class="sr-only">Default to System</span>
+                        AUTO
+                        <input type="radio" id="mode-system" name="selectedMode" value="system" checked />
+                    </label>
+                    <label for="mode-dark">
+                        <span class="sr-only">Dark Mode</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                            viewBox="0 0 16 16" aria-label="moon indicating dark mode">
+                            <path
+                                d="M6 .278a.77.77 0 0 1 .08.858 7.2 7.2 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277q.792-.001 1.533-.16a.79.79 0 0 1 .81.316.73.73 0 0 1-.031.893A8.35 8.35 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.75.75 0 0 1 6 .278" />
+                        </svg>
+                        <input type="radio" id="mode-dark" name="selectedMode" value="dark" />
+                    </label>
+                </div>
+            </fieldset>
+        </form>
+    </div>
 </footer>
-<div class="rainbow-bar"></div>

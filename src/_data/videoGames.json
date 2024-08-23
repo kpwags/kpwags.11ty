@@ -1,0 +1,1540 @@
+{
+  "inProgress": [
+    {
+      "videoGameId": 22,
+      "title": "The Last of Us",
+      "link": "https://www.playstation.com/en-us/games/the-last-of-us-remastered/",
+      "dateStarted": "2024-08-02T00:00:00",
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/X7NtCpfB/last-of-us.jpg",
+      "sortOrder": null,
+      "status": 2,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    }
+  ],
+  "completed": [
+    {
+      "videoGameId": 2,
+      "title": "Ratchet \u0026 Clank: A Rift Apart",
+      "link": "https://www.playstation.com/en-us/games/ratchet-and-clank-rift-apart/",
+      "dateStarted": "2024-07-13T00:00:00",
+      "dateCompleted": "2024-08-02T00:00:00",
+      "rating": 4,
+      "thoughts": "This was my first Ratchet \u0026 Clank game and I enjoyed it. It was fast paced and enjoyable. Some of the battles felt a little repetitive but not too bad.",
+      "coverImageUrl": "https://i.postimg.cc/13G1qJym/ratchet-clank-rift-apart.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "Platform",
+          "colorCode": "#585e00"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 47,
+      "title": "Mass Effect 3",
+      "link": "https://www.ea.com/games/mass-effect",
+      "dateStarted": "2024-05-31T00:00:00",
+      "dateCompleted": "2024-07-11T00:00:00",
+      "rating": 5,
+      "thoughts": "I enjoyed the gameplay and they tied up the story pretty well. Ending was fitting, but partially disappointing at the same time. Although that could be my investment in the story and what I hoped would happen.",
+      "coverImageUrl": "https://i.postimg.cc/VL9QnhJ7/mass-effect-3.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 46,
+      "title": "Mass Effect 2",
+      "link": "https://www.ea.com/games/mass-effect",
+      "dateStarted": "2024-03-11T00:00:00",
+      "dateCompleted": "2024-05-25T00:00:00",
+      "rating": 5,
+      "thoughts": "The game grew on me. Initially I thought I liked the original better, but I think that\u2019s changed. This game had some good fights and better character building.",
+      "coverImageUrl": "https://i.postimg.cc/kgnrcy87/mass-effect-2.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 45,
+      "title": "Mass Effect",
+      "link": "https://www.ea.com/games/mass-effect",
+      "dateStarted": "2024-01-26T00:00:00",
+      "dateCompleted": "2024-03-10T00:00:00",
+      "rating": 4,
+      "thoughts": "I enjoyed it. Decent story. I was a little iffy on some of the combat controls though.",
+      "coverImageUrl": "https://i.postimg.cc/vHwgshr1/mass-effect.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 4,
+      "title": "Horizon Forbidden West: Burning Shores",
+      "link": "https://www.playstation.com/en-us/games/horizon-forbidden-west/burning-shores/",
+      "dateStarted": "2023-12-01T00:00:00",
+      "dateCompleted": "2024-01-26T00:00:00",
+      "rating": 5,
+      "thoughts": "Not a super long expansion, but a good storyline and some fun battles.",
+      "coverImageUrl": "https://i.postimg.cc/8PdFPv4Z/horizon-burning-shores.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 21,
+      "title": "Horizon Forbidden West",
+      "link": "https://www.playstation.com/en-us/games/horizon-forbidden-west/",
+      "dateStarted": "2023-06-08T00:00:00",
+      "dateCompleted": "2023-12-01T00:00:00",
+      "rating": 5,
+      "thoughts": "Another fantastic installment of the Horizon series. Great story and good gameplay and combat.",
+      "coverImageUrl": "https://i.postimg.cc/Wz7LPZMT/forbidden-west.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 41,
+      "title": "Horizon Zero Dawn",
+      "link": "https://www.playstation.com/en-us/games/horizon-zero-dawn/",
+      "dateStarted": null,
+      "dateCompleted": "2023-06-03T00:00:00",
+      "rating": 5,
+      "thoughts": "I really enjoyed this game. I thought the combat mechanics were a lot of fun, the story drew me in, and the soundtrack was phenomenal. I\u2019m considering going back in and trying to complete more of the side quests and other parts I might have missed.",
+      "coverImageUrl": "https://i.postimg.cc/5NtktDJw/zero-dawn.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 18,
+      "title": "Star Trek Online",
+      "link": "https://www.playstartrekonline.com/en/",
+      "dateStarted": null,
+      "dateCompleted": "2023-06-01T00:00:00",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/qvSFSw92/star-trek-online.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "MMO",
+          "colorCode": "#3f8398"
+        },
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 17,
+      "title": "Pokemon: Violet",
+      "link": "https://scarletviolet.pokemon.com/en-us/",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-31T00:00:00",
+      "rating": 0,
+      "thoughts": "Just lost interest.",
+      "coverImageUrl": "https://i.postimg.cc/hPC6bcsy/pokemon-violet.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 3,
+      "genres": [
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Nintendo Switch",
+          "colorCode": "#8e0b24"
+        }
+      ]
+    },
+    {
+      "videoGameId": 31,
+      "title": "Jedi: Fallen Order",
+      "link": "https://www.ea.com/games/starwars/jedi/jedi-fallen-order",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-30T00:00:00",
+      "rating": 4,
+      "thoughts": "I had given up on this a while back, but I came back and am glad I did. The game was fun and had a good story. I wish it was more Jedi Knight than Dark Souls, but alas I guess those days are past.",
+      "coverImageUrl": "https://i.postimg.cc/qBx9q83d/jedi-fallen-order.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Hack and Slash",
+          "colorCode": "#a30d42"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 30,
+      "title": "WoW: Classic",
+      "link": "https://worldofwarcraft.com/en-us/wowclassic",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-29T00:00:00",
+      "rating": 4,
+      "thoughts": "I spent so much time on this in my mid 20s, and now in my late 30s, I\u0027m definitely enjoying it again",
+      "coverImageUrl": "https://i.postimg.cc/MH63VFQJ/wow-classic.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "MMO",
+          "colorCode": "#3f8398"
+        },
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 8,
+      "title": "Star Wars: Battlefront II",
+      "link": "https://www.ea.com/games/starwars/battlefront/star-wars-battlefront-2",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-28T00:00:00",
+      "rating": 4,
+      "thoughts": "I still come back to this from time to time. It\u0027s a fun multiplayer game.",
+      "coverImageUrl": "https://i.postimg.cc/xdWSGnfD/battlefront-ii.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        },
+        {
+          "name": "Multiplayer",
+          "colorCode": "#d2128a"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 3,
+      "title": "Halo Infinite: Multiplayer",
+      "link": "https://www.halowaypoint.com/halo-infinite",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-26T00:00:00",
+      "rating": 4,
+      "thoughts": "It\u2019s unfair to compare it to Halo 3 since that felt like the gold standard to me, but Infinite multiplayers is definitely a lot of fun.",
+      "coverImageUrl": "https://i.postimg.cc/ZKTzxfSR/halo-infinite-mp.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        },
+        {
+          "name": "Multiplayer",
+          "colorCode": "#d2128a"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 38,
+      "title": "Halo Infinite",
+      "link": "https://www.halowaypoint.com/halo-infinite",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-26T00:00:00",
+      "rating": 3,
+      "thoughts": "This game had a lot of promise. I enjoyed it, but the story seemed a little convoluted and while fun, the battles got a little repetetive. The lack of local co-op sucks.",
+      "coverImageUrl": "https://i.postimg.cc/zX0Ztnzk/halo-infinite.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 48,
+      "title": "Halo 5",
+      "link": "https://www.xbox.com/en-us/games/store/Halo-5-Guardians/BRRC2BP0G9P0",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-25T00:00:00",
+      "rating": 3,
+      "thoughts": "The story for this one was a little confusing and overly-complicated. The battles were definitely Halo though. The lack of local co-op sucks.",
+      "coverImageUrl": "https://i.postimg.cc/j2c91bbj/halo5.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 49,
+      "title": "Halo 4",
+      "link": "https://www.xbox.com/en-us/games/store/Halo-4/9P8CFXZH93CK",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-24T00:00:00",
+      "rating": 4,
+      "thoughts": "This was definitely the best 343 Halo game. The story was well done and was a good sequel to the Bungie trilogy.",
+      "coverImageUrl": "https://i.postimg.cc/JnbSbXYZ/halo4.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 54,
+      "title": "Halo 3: ODST",
+      "link": "https://www.xbox.com/en-US/games/store/halo-3-odst/9P6VZCRGXFMX/0010",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-23T00:00:00",
+      "rating": 4,
+      "thoughts": "I never finished this game when it came out. I entded up finally beating it for my pre-Infinite playthrough and definitely enjoyed it. The move away from Master Chief was an alternate view.",
+      "coverImageUrl": "https://i.postimg.cc/C1yWB77w/halo3-odst.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 50,
+      "title": "Halo 3",
+      "link": "https://www.xbox.com/en-us/games/store/Halo-3/BSXZVK24CMR3",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-22T00:00:00",
+      "rating": 5,
+      "thoughts": "I spent so much time with the multiplayer, it made me forget how good the story was in finishing up the trilogy.",
+      "coverImageUrl": "https://i.postimg.cc/4ysqw3jM/halo3.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 51,
+      "title": "Halo 2",
+      "link": "https://www.xbox.com/en-us/games/store/Halo-2-Anniversary/9P5739G419LD",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-21T00:00:00",
+      "rating": 5,
+      "thoughts": "I may or may not have stayed up for the midnight launch of this...A great follow-up to the original Halo and my first Xbox Live experience with a fantastic multiplayer.",
+      "coverImageUrl": "https://i.postimg.cc/YSL5CZ1X/halo2.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 53,
+      "title": "Halo CE",
+      "link": "https://www.xbox.com/en-US/games/store/halo-combat-evolved-anniversary/9NWQMVSB63N4/0010/9VQ86FXHGZHX",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-20T00:00:00",
+      "rating": 5,
+      "thoughts": "This game was fantastic. I enjoyed the story and the multiplayer was top-notch.",
+      "coverImageUrl": "https://i.postimg.cc/SQLp9BH3/halo-combat-evolved.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 52,
+      "title": "Halo Reach",
+      "link": "https://www.xbox.com/en-us/games/store/Halo-REACH/9NLGW5MXWKJ6",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-19T00:00:00",
+      "rating": 5,
+      "thoughts": "The final Bungie Halo game was phenomenal. Brought back a lot of the magic of the first Halo game.",
+      "coverImageUrl": "https://i.postimg.cc/nhW8ZpQj/halo-reach.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 16,
+      "title": "Uncharted: The Lost Legacy",
+      "link": "https://www.playstation.com/en-us/games/uncharted-the-lost-legacy/",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-17T00:00:00",
+      "rating": 4,
+      "thoughts": "Another good Uncharted game focused on some of the side characters from the first four games.",
+      "coverImageUrl": "https://i.postimg.cc/GpDfCYCV/uncharted-lost-legacy.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 15,
+      "title": "Uncharted 4: A Thief\u2019s End",
+      "link": "https://www.playstation.com/en-us/games/uncharted-4-a-thiefs-end/",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-16T00:00:00",
+      "rating": 5,
+      "thoughts": "A good end to the series and story. Only negative was that the story seemed to be a little drawn out.",
+      "coverImageUrl": "https://i.postimg.cc/7P9WwwFH/uncharted4.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 14,
+      "title": "Uncharted 3: Drake\u2019s Deception",
+      "link": "https://www.playstation.com/en-us/games/uncharted-the-nathan-drake-collection/",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-15T00:00:00",
+      "rating": 5,
+      "thoughts": "Another fantastic Uncharted game. Not much else to say.",
+      "coverImageUrl": "https://i.postimg.cc/VvKGRWqr/uncharted3.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 13,
+      "title": "Uncharted 2: Among Thieves",
+      "link": "https://www.playstation.com/en-us/games/uncharted-the-nathan-drake-collection/",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-14T00:00:00",
+      "rating": 5,
+      "thoughts": "Another fantastic Uncharted game, this one without the quick time events.",
+      "coverImageUrl": "https://i.postimg.cc/DZKMyZfZ/uncharted2.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 12,
+      "title": "Uncharted: Drake\u2019s Fortune",
+      "link": "https://www.playstation.com/en-us/games/uncharted-the-nathan-drake-collection/",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-13T00:00:00",
+      "rating": 5,
+      "thoughts": "I love this series. The gameplay was fun and fantastic with a great story.",
+      "coverImageUrl": "https://i.postimg.cc/MTbrcSXY/uncharted.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 11,
+      "title": "Dragon Age: Origins",
+      "link": "https://www.ea.com/games/dragon-age/dragon-age-origins",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-12T00:00:00",
+      "rating": 0,
+      "thoughts": "I need to get back to this. I kept getting stuck in parts of the game and got overly frustrated by it.",
+      "coverImageUrl": "https://i.postimg.cc/sX7CwqxB/dragon-age-origins.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 3,
+      "genres": [
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 10,
+      "title": "Borderlands 3",
+      "link": "https://borderlands.com/en-US/welcome/",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-10T00:00:00",
+      "rating": 3,
+      "thoughts": "The game had some fun parts, but didn\u0027t seem to have the same magic as Borderlands 1 or 2.",
+      "coverImageUrl": "https://i.postimg.cc/Vkvy3d5P/borderlands3.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 3,
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 9,
+      "title": "Skyrim",
+      "link": "https://elderscrolls.bethesda.net/en/skyrim/",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-09T00:00:00",
+      "rating": 5,
+      "thoughts": "I\u0027ve never gotten a chance to finish this (sooooo many side quests) despite pouring hundreds of hours into it. Love the game.",
+      "coverImageUrl": "https://i.postimg.cc/bwsMmWFz/skyrim.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 3,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        },
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 1,
+      "title": "MLB 24 The Show",
+      "link": "https://theshow.com",
+      "dateStarted": "2024-03-29T00:00:00",
+      "dateCompleted": null,
+      "rating": 4,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/1zpKPnTF/mlb24.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Sports",
+          "colorCode": "#298d5f"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 55,
+      "title": "Rise of Nations",
+      "link": "https://www.xbox.com/en-us/games/store/rise-of-nations-extended-edition/9ns84hcwzd8b",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 5,
+      "thoughts": "This is definitely one of my absolute favorite real time strategy games. I loved the mechanics of the game and poured hours into games both against the computer and friends.",
+      "coverImageUrl": "https://i.postimg.cc/qvLSyyRB/rise-of-nations.jpg",
+      "sortOrder": null,
+      "status": 3,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Real Time Strategy",
+          "colorCode": "#977131"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    }
+  ],
+  "toPlay": [
+    {
+      "videoGameId": 26,
+      "title": "Fallout 4",
+      "link": "",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": null,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 27,
+      "title": "Fallout New Vegas",
+      "link": "",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": null,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 28,
+      "title": "Fallout 3",
+      "link": "https://fallout.bethesda.net/en/games/fallout-3",
+      "dateStarted": "2024-04-14T00:00:00",
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/4yP0x6yY/fallout3.jpg",
+      "sortOrder": null,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 34,
+      "title": "Destiny 2",
+      "link": "",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": null,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 39,
+      "title": "Returnal",
+      "link": "",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": null,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 42,
+      "title": "Gears of War 4",
+      "link": "",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": null,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 43,
+      "title": "Gears of War 5",
+      "link": "",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": null,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 44,
+      "title": "Chorus",
+      "link": "",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": null,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 56,
+      "title": "The Last of Us, Part II",
+      "link": "https://www.playstation.com/en-us/games/the-last-of-us-part-ii-remastered/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 1,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 5,
+      "title": "Super Mario RPG",
+      "link": "https://www.nintendo.com/us/store/products/super-mario-rpg-switch/",
+      "dateStarted": "2023-11-19T00:00:00",
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/L8Z0qdSY/mario-rpg.jpg",
+      "sortOrder": 2,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Nintendo Switch",
+          "colorCode": "#8e0b24"
+        }
+      ]
+    },
+    {
+      "videoGameId": 7,
+      "title": "Breath of the Wild",
+      "link": "https://zelda.nintendo.com/breath-of-the-wild/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 3,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Nintendo Switch",
+          "colorCode": "#8e0b24"
+        }
+      ]
+    },
+    {
+      "videoGameId": 6,
+      "title": "Tears of the Kingdom",
+      "link": "https://zelda.nintendo.com/tears-of-the-kingdom/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 4,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Nintendo Switch",
+          "colorCode": "#8e0b24"
+        }
+      ]
+    },
+    {
+      "videoGameId": 36,
+      "title": "God of War",
+      "link": "https://www.playstation.com/en-us/god-of-war/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/wTFG8Zxs/god-of-war.jpg",
+      "sortOrder": 5,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 29,
+      "title": "God of War: Ragnarok",
+      "link": "https://www.playstation.com/en-us/games/god-of-war-ragnarok/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 6,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 19,
+      "title": "Witcher 3",
+      "link": "https://www.thewitcher.com/us/en/witcher3",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 7,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        },
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        },
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 20,
+      "title": "Farcry 5",
+      "link": "https://www.ubisoft.com/en-us/game/far-cry/far-cry-5",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 8,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 57,
+      "title": "FarCry New Dawn",
+      "link": "https://store.ubisoft.com/us/far-cry-new-dawn/5bf319696b54a4ddc91e8843.html?lang=en_US",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 9,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
+      "systems": []
+    },
+    {
+      "videoGameId": 33,
+      "title": "Super Mario Oddyssey",
+      "link": "https://supermario.nintendo.com/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 10,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Platform",
+          "colorCode": "#585e00"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Nintendo Switch",
+          "colorCode": "#8e0b24"
+        }
+      ]
+    },
+    {
+      "videoGameId": 40,
+      "title": "Spiderman",
+      "link": "https://www.playstation.com/en-us/explore-marvels-spider-man/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 11,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 37,
+      "title": "Spiderman: Miles Morales",
+      "link": "https://www.playstation.com/en-us/games/marvels-spider-man-miles-morales/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 12,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 35,
+      "title": "Elden Ring",
+      "link": "https://en.bandainamcoent.eu/elden-ring/elden-ring",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-27T00:00:00",
+      "rating": 0,
+      "thoughts": "I\u0027m not sure I was the targeted audience for this game. I didn\u0027t enjoy this game at all.",
+      "coverImageUrl": "https://i.postimg.cc/yxK45j3L/elden-ring.jpg",
+      "sortOrder": 13,
+      "status": 1,
+      "completionStatus": 3,
+      "genres": [
+        {
+          "name": "Hack and Slash",
+          "colorCode": "#a30d42"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        },
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 24,
+      "title": "Bioshock",
+      "link": "https://store.steampowered.com/app/7670/BioShock/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 14,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 25,
+      "title": "Bioshock 2",
+      "link": "https://store.steampowered.com/app/409720/BioShock_2_Remastered/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 15,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 23,
+      "title": "Bioshock Infinite",
+      "link": "https://store.steampowered.com/app/8870/BioShock_Infinite/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 16,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 32,
+      "title": "Lego Star Wars",
+      "link": "https://www.playstation.com/en-us/games/lego-star-wars-the-skywalker-saga/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 17,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    }
+  ]
+}

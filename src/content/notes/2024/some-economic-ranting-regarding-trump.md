@@ -3,6 +3,9 @@ title: 'Some Economic Ranting Regarding Trump'
 date: '2024-06-20'
 link: https://www.marketplace.org/shows/make-me-smart/problem-with-trumps-idea-to-replace-income-taxes-with-tariffs/
 permalink: /notes/some-economic-ranting-regarding-trump/index.html
+tags:
+  - Politics
+  - Economics
 ---
 
 I try not to delve too much into politics here, but I heard this and thought it matters.

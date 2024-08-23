@@ -1,7 +1,7 @@
 import dayjs from 'dayjs';
 import utc from 'dayjs/plugin/utc.js';
 import { getUniqueValues } from '../lib/Utilities.js';
-import { getBlogPosts } from '../lib/CollectionHelpers.js';
+import { getBlogPosts, getBlogPostsAndReadingLogs } from '../lib/CollectionHelpers.js';
 import tagUrl from '../filters/tagurl-filter.js';
 
 dayjs.extend(utc);
@@ -123,12 +123,35 @@ const getPopularTagsData = (posts, limit = 10) => {
 	return limitedResults;
 };
 
+const getOverallStats = (posts) => {
+	let totalWords = 0;
+
+	posts.forEach((p) => {
+		if (p.page.rawInput) {
+			const content = p.page.rawInput.replace(/(<([^>]+)>)/gi, '');
+			const matches = content.match(/[\u0400-\u04FF]+|\S+\s*/g);
+			const count = matches !== null ? matches.length : 0;
+
+			totalWords += count;
+		}
+	});
+
+	return {
+		totalPosts: posts.length,
+		totalWords: totalWords.toLocaleString("en-US"),
+		firstPostDate: dayjs(posts[0].date).format('M/D/YYYY'),
+		lastPostDate: dayjs(posts[posts.length - 1].date).format('M/D/YYYY'),
+		averageWordsPerPost: Math.round(totalWords / posts.length).toLocaleString("en-US"),
+	};
+}
+
 const stats = (collection) => {
 	const posts = getBlogPosts(collection, true);
 
 	const stats = {
 		postsByYear: getPostsByYearData(posts),
 		popularTags: getPopularTagsData(posts),
+		overall: getOverallStats(posts),
 	};
 
 	return stats;

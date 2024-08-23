@@ -1,0 +1,71 @@
+[
+  {
+    "movieId": 150,
+    "title": "Sicario",
+    "imdbLink": "https://m.imdb.com/title/tt3397884/",
+    "dateWatched": "2024-08-16T00:00:00",
+    "sortOrder": null,
+    "rating": 2,
+    "thoughts": "I thought this would be better given the cast. In the end, I felt like several of the characters were superfluous and the story disjointed.",
+    "posterImageUrl": "https://i.postimg.cc/cL4XCTQR/sicario.jpg",
+    "status": "Watched",
+    "genres": [
+      {
+        "name": "Action",
+        "colorCode": "#2254ab"
+      }
+    ],
+    "services": [
+      {
+        "name": "Amazon Prime",
+        "colorCode": "#215260"
+      }
+    ]
+  },
+  {
+    "movieId": 147,
+    "title": "Asteroid City",
+    "imdbLink": "https://www.imdb.com/title/tt14230388/",
+    "dateWatched": "2024-08-10T00:00:00",
+    "sortOrder": null,
+    "rating": 2,
+    "thoughts": "This was just weird. I guess I\u2019m not really surprised since it\u2019s a Wes Anderson film, but I really don\u2019t know what to make of it.",
+    "posterImageUrl": "https://i.postimg.cc/k5KJVJd1/asteroid-city.jpg",
+    "status": "Watched",
+    "genres": [
+      {
+        "name": "Comedy",
+        "colorCode": "#174b1f"
+      }
+    ],
+    "services": [
+      {
+        "name": "Amazon Prime",
+        "colorCode": "#215260"
+      }
+    ]
+  },
+  {
+    "movieId": 146,
+    "title": "The Many Saints of Newark",
+    "imdbLink": "https://www.imdb.com/title/tt8110232/",
+    "dateWatched": "2024-07-28T00:00:00",
+    "sortOrder": null,
+    "rating": 2,
+    "thoughts": "Not really sure I liked it\u2026felt disjointed and with some storylines just never finished or flushed out.",
+    "posterImageUrl": "https://i.postimg.cc/wx2sTN7K/many-saints-of-newark.jpg",
+    "status": "Watched",
+    "genres": [
+      {
+        "name": "Drama",
+        "colorCode": "#54286b"
+      }
+    ],
+    "services": [
+      {
+        "name": "HBO",
+        "colorCode": "#47155b"
+      }
+    ]
+  }
+]

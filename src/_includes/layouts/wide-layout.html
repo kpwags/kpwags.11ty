@@ -6,39 +6,17 @@
 
 	<title>{{ title }} - Keith Wagner</title>
 
-	<link rel="stylesheet" type="text/css" href="/css/media-pages.css" />
-
 	<script src="/scripts/media-pages.js" defer></script>
-
-	<noscript>
-		<style type="text/css">
-			.media-container .view-thoughts {
-				display: none;
-			}
-
-			.media-with-columns {
-				display: block;
-				margin: 0;
-			}
-
-			.media-with-columns .sidebar {
-				display: none;
-			}
-		</style>
-	</noscript>
 </head>
 
 <body>
 	{% include "header.html" %}
-	<main class="full-width">
-		{{ content }}
-	</main>
+
+	{{ content }}
+
 	{% include "footer.html" %}
 
-	<dialog class="media-thoughts-dialog">
-		<div class="thoughts-content"></div>
-		<div class="close-button"><button type="button">Close</button></div>
-	</dialog>
+	{% include "dialogs.html" %}
 </body>
 
 </html>

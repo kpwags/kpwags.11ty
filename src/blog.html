@@ -3,17 +3,19 @@ layout: "layouts/layout.html"
 title: "Blog"
 pagination:
   data: collections.publicPosts
-  size: 10
+  size: 12
   reverse: true
 ---
 
-<h1>Blog</h1>
+<main>
+    <h1>Blog</h1>
 
-{% for post in pagination.items %}
-{% blogPost post %}
-{% endfor %}
+    {% for post in pagination.items %}
+    {% blogPost post %}
+    {% endfor %}
 
-<section class="pagination">
-    {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Posts</a>{% endif %}
-    {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Posts &rightarrow;</a>{% endif %}
-</section>
+    <section class="pagination">
+        {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Posts</a>{% endif %}
+        {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Posts &rightarrow;</a>{% endif %}
+    </section>
+</main>

@@ -3,30 +3,111 @@ layout: "layouts/wide-layout.html"
 title: "Video Games"
 ---
 
-<div class="media-container">
+<main class="media-container">
 	<h1>Video Games</h1>
 
-	<p>I've ertainly played more than this, but I figured I'd update this list with some of my thoughts for the video
-		games I've played and am currently playing.</p>
+	<h5>I've certainly played more than this, but I figured I'd update this list with some of my thoughts for the video
+		games I've played and am currently playing.</h5>
 
 	<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
 
-	{% for status in videoGames %}
-	<div>
-		<h2>{{ status.status }} ({{ status.games | length }})</h2>
+	<section class="filters site-card">
+		<legend>Filters</legend>
+		<div class="filter-list">
+			<label for="all">
+				<input type="radio" id="all" name="gameFilters" checked />
+				All
+			</label>
+			<label for="pc">
+				<input type="radio" id="pc" name="gameFilters" />
+				PC
+			</label>
+			<label for="playstation">
+				<input type="radio" id="playstation" name="gameFilters" />
+				PlayStation
+			</label>
+			<label for="xbox">
+				<input type="radio" id="xbox" name="gameFilters" />
+				Xbox
+			</label>
+			<label for="nintendo">
+				<input type="radio" id="nintendo" name="gameFilters" />
+				Nintendo
+			</label>
+		</div>
+		<div class="filter-list">
+			<label for="adventure">
+				<input type="radio" id="adventure" name="gameFilters" />
+				Adventure
+			</label>
+			<label for="mmo">
+				<input type="radio" id="mmo" name="gameFilters" />
+				MMO
+			</label>
+			<label for="open-world">
+				<input type="radio" id="open-world" name="gameFilters" />
+				Open World
+			</label>
+			<label for="platform">
+				<input type="radio" id="platform" name="gameFilters" />
+				Platform
+			</label>
+			<label for="rts">
+				<input type="radio" id="rts" name="gameFilters" />
+				Real Time Strategy
+			</label>
+			<label for="rpg">
+				<input type="radio" id="rpg" name="gameFilters" />
+				Role Playing Game
+			</label>
+			<label for="sports">
+				<input type="radio" id="sports" name="gameFilters" />
+				Sports
+			</label>
+			<label for="shooter">
+				<input type="radio" id="shooter" name="gameFilters" />
+				Shooter
+			</label>
+		</div>
+		<div class="filter-list">
+			<label for="completed-2024">
+				<input type="radio" id="completed-2024" name="gameFilters" />
+				Completed in 2024
+			</label>
+			<label for="completed-2023">
+				<input type="radio" id="completed-2023" name="gameFilters" />
+				Completed Prior to 2024
+			</label>
+			<label for="completed">
+				<input type="radio" id="completed" name="gameFilters" />
+				Completed
+			</label>
+		</div>
+	</section>
 
-		{% if status.status == "Played" %}
-		<p>
-			✅ - indicates that I finished the game<br />
-			🟥 - indicates that I did not finish the game
-		</p>
-		{% endif %}
+	<div class="grid-section">
+		<h2>Currently Playing ({{ videoGames.inProgress | length }})</h2>
 
-		<div class='items padded-top {% if status.status == "Currently Playing" %}current-status{% endif %}'>
-			{% for game in status.games %}
+
+		<div class="media-grid current-status">
+			{% for game in videoGames.inProgress %}
 			{% videoGameListing game %}
 			{% endfor %}
 		</div>
 	</div>
-	{% endfor %}
-</div>
+
+	<div class="grid-section">
+		<h2>Have Played (<span id="have-played">{{ videoGames.completed | length }}</span>)</h2>
+
+		<div class="game-legend">
+			<div>✅ - indicates that I finished the game</div>
+			<div>🟥 - indicates that I did not finish the game</div>
+		</div>
+
+		<div class="media-grid have-played-grid">
+			{% for game in videoGames.completed %}
+			{% videoGameListing game %}
+			{% endfor %}
+		</div>
+	</div>
+</main>

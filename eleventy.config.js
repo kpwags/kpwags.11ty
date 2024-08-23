@@ -36,6 +36,7 @@ import progressBarShortcode from './src/shortcodes/progressBar-shortcode.js';
 import blogPostShortcode from './src/shortcodes/blogPost-shortcode.js';
 import bookNoteShortcode from './src/shortcodes/bookNote-shortcode.js';
 import noteListingShortcode from './src/shortcodes/noteListing-shortcode.js';
+import replyLinksShortcode from './src/shortcodes/replyLinks-shortcode.js';
 
 export default function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy({
@@ -98,6 +99,7 @@ export default function (eleventyConfig) {
     eleventyConfig.addShortcode('blogPost', blogPostShortcode);
     eleventyConfig.addShortcode('bookNote', bookNoteShortcode);
     eleventyConfig.addShortcode('noteListing', noteListingShortcode);
+    eleventyConfig.addShortcode('replyLinks', replyLinksShortcode);
 
     return {
         templateFormats: [

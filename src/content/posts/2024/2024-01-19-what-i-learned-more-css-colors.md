@@ -16,7 +16,7 @@ I’d highly recommend listening to the podcast as Adam is better able to articu
 
 There are several new options, Display P3, LCH, and OKLCH. OKLCH is the recommended color space to use. LCH stands for Lightness (the perception human eyes can see), Chroma, & Hue. They provide access to a much larger range of colors that older monitors can’t display, but newer monitors and mobile devices can. And the best part is that it’s fully backwards compatible. So if you convert all your colors to OKLCH and someone on an old device comes and views your site, they’ll see the closest color that their device can render.
 
-The other awesome feature of this is that you can use JavaScript functions on the color to lighten, darken, or do other calculations on them and manipulate the colors as you see fit.
+The other awesome feature of this is that you can use JavaScript functions on the color to lighten, darken, or do other calculations on them and manipulate the colors as you see fit.
 
 I’ve played around with some of the various links mentioned in the podcast and have an [issue logged](https://github.com/kpwags/kpwags.11ty/issues/102) for my site to convert the colors to OKLCH. I’ll probably tweak them as well to hopefully make them “pop” a little more.
 

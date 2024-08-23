@@ -1,4 +1,8 @@
 const starRatingShortcode = (rating, size = "md") => {
+	if (rating === 0) {
+		return '';
+	}
+
 	const stars = [];
 
 	for (let i = 0; i < rating; i++) {

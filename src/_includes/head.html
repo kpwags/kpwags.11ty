@@ -3,6 +3,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <meta name="generator" content="{{ eleventy.generator }}">
 <meta property="og:image" content="https://kpwags.com/img/featureimage.jpg" />
+<meta property="fediverse:creator" content="@kpwags@hachyderm.io" />
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
@@ -26,11 +27,15 @@
 <link rel="alternate" href="/rss/booknotes_feed.json" type="application/activitystream+json"
 	title="Book Notes (JSON)" />
 <noscript>
-	<style>
-		.open-settings-btn {
-			display: none;
-		}
-	</style>
+	<noscript>
+		<style type="text/css">
+			.view-thoughts,
+			.theme-control,
+			section.filters {
+				display: none;
+			}
+		</style>
+	</noscript>
 </noscript>
 <script>
 	function getStorageItem(key, defaultValue = null) {
@@ -64,9 +69,8 @@
 	function getCurrentTheme() {
 		const mode = getStorageItem('theme_mode', 'system');
 		const color = getStorageItem('theme_color', 'green');
-		const width = getStorageItem('theme_width', 'normal');
 
-		return [mode, color, width];
+		return [mode, color];
 	}
 
 	function getColorHexCode(color) {
@@ -86,7 +90,7 @@
 	}
 
 	addEventListener('DOMContentLoaded', (event) => {
-		const [mode, color, width] = getCurrentTheme();
+		const [mode, color] = getCurrentTheme();
 
 		if (mode !== 'system') {
 			document.documentElement.setAttribute('data-theme', mode);
@@ -95,12 +99,14 @@
 		}
 
 		document.documentElement.setAttribute('data-color-theme', color);
-		document.documentElement.setAttribute('data-width', width);
 
 		const themeElement = document.querySelector('meta[name="theme-color"]');
 		if (themeElement) {
 			themeElement.setAttribute('content', getColorHexCode(color));
 		}
+
+		document.colorsForm.colorTheme.value = color;
+		document.modeForm.selectedMode.value = mode;
 	});
 </script>
 <script src="/scripts/theming.js" defer></script>

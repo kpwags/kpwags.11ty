@@ -1,7 +1,7 @@
 import starRating from './starRating-shortcode.js';
 
 const getThoughts = (book) => {
-	if (book.thoughts === null) {
+	if (book.thoughts === null || book.thoughts === '') {
 		return '';
 	}
 
@@ -9,51 +9,60 @@ const getThoughts = (book) => {
 <div class="view-thoughts">
 	<button
 		class="toggle-thoughts"
-		id="toggle-btn-${book.id}"
+		data-id="${book.bookId}"
+		data-type="book"
 		type="button"
 	>View Thoughts</button>
-	<div class="thoughts hidden" id="thoughts-${book.id}">${book.thoughts}</div>
+	<div class="thoughts hidden">${book.thoughts}</div>
 </div>
 	`;
 };
 
-const getProgress = (book) => {
-	if (book.progress <= 0 || book.progress >= 100) {
+const getProgress = ({ percentComplete }) => {
+	if (percentComplete <= 0 || percentComplete >= 100) {
 		return '';
 	}
 
 	return `
-<div class="book-progress-bar" title="${book.progress}% complete">
+<div class="media-progress-bar" title="${percentComplete}% complete">
 	<div class="bar">
-		<div class="inner-bar" style="width: ${book.progress}%"></div>
+		<div class="inner-bar" style="width: ${percentComplete}%"></div>
 	</div>
 </div>`;
-}
+};
 
 const getBookNotesLink = (book) => {
-	if (book.reviewUrlSlug === null || book.reviewUrlSlug === '') {
+	if (book.bookNotesUrl === null || book.bookNotesUrl === '') {
 		return '';
 	}
 
-	return `<div class="book-notes-link"><a href="/books/${book.reviewUrlSlug}">View Book Notes</a></div>`
+	return `<div class="book-notes-link"><a href="/books/${book.bookNotesUrl}">View Book Notes</a></div>`;
+};
+
+const getBookGenres = (book) => {
+	const genres = book.genres.map((g) => g.name.replaceAll(' ', '-').toLowerCase());
+
+	return genres.join(',');
 };
 
 const bookListingShortcode = (book) => `
-<div class="item">
-	<div class="book-cover">
-		<img src="${book.coverUrl}" alt="The cover for ${book.title}" class="cover" height="225" width="150" />
+<div class="item" data-book-id="${book.bookId}" data-booktype="${book.type.name.toLowerCase()}" data-genre="${getBookGenres(book)}">
+	<div class="cover">
+		<img src="${book.coverImageUrl}" alt="The cover for ${book.title}" height="225" width="150" />
 		${getProgress(book)}
 	</div>
-	<div>
+	<div class="info">
 		<a href="${book.link}" target="_blank" rel="noreferrer">
 			${book.title}
 		</a>
 
-		${book.subtitle ? `<div class="subtitle">${book.subtitle}</div>` : ''}
+		<div class="full-title hidden">${book.fullTitle}</div>
+
+		${book.subTitle ? `<div class="subtitle">${book.subTitle}</div>` : ''}
 
 		<div class="meta">${book.author}</div>
 
-		${book.rating !== null ? starRating(book.rating, "sm") : ''}
+		${book.rating !== null ? starRating(book.rating, 'sm') : ''}
 
 		${getBookNotesLink(book)}
 

@@ -3,6 +3,9 @@ title: 'IndieWeb Principles'
 date: '2024-06-20'
 link: https://paulrobertlloyd.com/2024/136/a1/indieweb_principles/
 permalink: /notes/indieweb-principles/index.html
+tags:
+  - Web Development
+  - Personal Sites
 ---
 
 I love this. Ever since the death of X/Twitter I’ve been much more focused on making sure that I control the data and content I post that means the most to me.

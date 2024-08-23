@@ -7,13 +7,17 @@ pagination:
   reverse: true
 ---
 
-<h1>Book Notes</h1>
+<main>
+  <h1>Book Notes</h1>
 
-{% for bookNote in pagination.items %}
-{% bookNote bookNote %}
-{% endfor %}
+  <p class="large">This page goes along with my <a href="/bookshelf">bookshelf</a> to provide more in depth notes and reviews of books I've read.</p>
 
-<section class="pagination">
-    {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Posts</a>{% endif %}
-    {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Posts &rightarrow;</a>{% endif %}
-</section>
+  {% for bookNote in pagination.items %}
+  {% bookNote bookNote %}
+  {% endfor %}
+
+  <section class="pagination">
+      {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Posts</a>{% endif %}
+      {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Posts &rightarrow;</a>{% endif %}
+  </section>
+</main>

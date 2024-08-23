@@ -1,0 +1,9 @@
+<article class="project site-card">
+	<h2 @html="title"></h2>
+	<div class="status">Status: <span @html="status"></span></div>
+	<div class="image">
+		<img :src="image" :alt="'A screenshot of ' + title" />
+	</div>
+	<slot></slot>
+	<div class="github-repo"><a :href="github">View on GitHub</a></div>
+</article>

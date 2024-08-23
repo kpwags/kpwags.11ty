@@ -3,6 +3,10 @@ title: "Once More With Feeling: Banning TikTok Doesn't Do Much If We Don’t Reg
 date: '2024-03-11'
 link: 'https://www.techdirt.com/2024/03/11/once-more-with-feeling-banning-tiktok-doesnt-do-much-if-we-dont-regulate-data-brokers-and-pass-a-privacy-law/'
 permalink: /notes/banning-tiktok-doesnt-do-much/index.html
+tags:
+  - Politics
+  - Tik Tok
+  - Social Media
 ---
 
 > But banning TikTok, while refusing to pass a privacy law or regulate data brokers (which traffic in significantly greater volumes of sensitive data at much greater collective scale), winds up mostly being a performative endeavor driven more by anti-competitive intent (and a desire to control the flow and scope of modern news, information and propaganda) than any desire for serious reform.

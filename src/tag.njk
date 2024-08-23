@@ -8,12 +8,15 @@ permalink: /tag/{{ tag | tagUrlSlug }}/
 eleventyComputed:
   title: Posts Tagged “{{ tag }}”
 ---
-<h1 class="tag-page-header"><span>Posts Tagged</span>{{ tag }}</h1>
 
-{% set taglist = collections[ tag ] %}
+<main>
+  <h1 class="tag-page-header"><span>Posts Tagged</span>{{ tag }}</h1>
 
-{% for post in taglist | reverse %}
-  {% if post.data.rss_only != true %}
-    {% blogPost post %}
-  {% endif %}
-{% endfor %}
+  {% set taglist = collections[ tag ] %}
+
+  {% for post in taglist | reverse %}
+    {% if post.data.rss_only != true %}
+      {% blogPost post %}
+    {% endif %}
+  {% endfor %}
+</main>

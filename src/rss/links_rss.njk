@@ -26,11 +26,11 @@
     {%- for item in links %}
     <item>
       <title>{{ item.title }}</title>
-      <link>{{ item.link }}</link>
+      <link>{{ item.url }}</link>
       <description>{{ item | linkContent }}</description>
-      <pubDate>{{ item.jsDate | dateToRfc822 }}</pubDate>
+      <pubDate>{{ item.linkDate }}</pubDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
-      <guid>{{ item.link }}</guid>
+      <guid>{{ item.url }}</guid>
     </item>
     {%- endfor %}
   </channel>

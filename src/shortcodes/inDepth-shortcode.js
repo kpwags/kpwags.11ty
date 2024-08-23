@@ -5,11 +5,9 @@ const inDepthShortcode = (children, author, title, link) => {
 
 	return `
 <div class="in-depth-notes">
-	<h3>
-		<span class="source">${author}:</span>
-		<a href="${link}">${title}</a>
-	</h3>
-	<div class="thoughts">
+	<a href="${link}">${title}</a>
+	<div class="in-depth-meta">${author}</div>
+	<div class="in-depth-text">
 		${content}
 	</div>
 </div>

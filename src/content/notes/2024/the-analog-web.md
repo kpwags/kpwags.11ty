@@ -3,6 +3,8 @@ title: 'The Analog Web'
 date: '2024-06-09'
 link: 'https://thehistoryoftheweb.com/the-analog-web/'
 permalink: /notes/the-analog-web/index.html
+tags:
+  - Web Development
 ---
 
 > People create these sites simply so that they exist. They are not fed to an algorithm, or informed by any trends. It is quieter and slower, meant to tether us to a more mechanical framework of the web.
