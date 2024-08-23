@@ -3,6 +3,11 @@ title: "A Rant about Front-end Development"
 date: '2024-08-23T20:26:48.282Z'
 link: https://blog.frankmtaylor.com/2024/06/20/a-rant-about-front-end-development/
 permalink: /notes/a-rant-about-front-end-development/index.html
+tags:
+  - Web Development
+  - CSS
+  - Development
+  - JavaScript
 ---
 
 > Chances are, the things you don’t like about CSS are the things you haven’t bothered to understand about it.
