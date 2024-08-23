@@ -901,166 +901,6 @@
   ],
   "toPlay": [
     {
-      "videoGameId": 5,
-      "title": "Super Mario RPG",
-      "link": "https://www.nintendo.com/us/store/products/super-mario-rpg-switch/",
-      "dateStarted": "2023-11-19T00:00:00",
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/L8Z0qdSY/mario-rpg.jpg",
-      "sortOrder": null,
-      "status": 1,
-      "completionStatus": 1,
-      "genres": [],
-      "systems": [
-        {
-          "name": "Nintendo Switch",
-          "colorCode": "#8e0b24"
-        }
-      ]
-    },
-    {
-      "videoGameId": 6,
-      "title": "Tears of the Kingdom",
-      "link": "",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "sortOrder": null,
-      "status": 1,
-      "completionStatus": 1,
-      "genres": [],
-      "systems": [
-        {
-          "name": "Nintendo Switch",
-          "colorCode": "#8e0b24"
-        }
-      ]
-    },
-    {
-      "videoGameId": 7,
-      "title": "Breath of the Wild",
-      "link": "",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "sortOrder": null,
-      "status": 1,
-      "completionStatus": 1,
-      "genres": [],
-      "systems": [
-        {
-          "name": "Nintendo Switch",
-          "colorCode": "#8e0b24"
-        }
-      ]
-    },
-    {
-      "videoGameId": 19,
-      "title": "Witcher 3",
-      "link": "",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "sortOrder": null,
-      "status": 1,
-      "completionStatus": 1,
-      "genres": [],
-      "systems": [
-        {
-          "name": "PC",
-          "colorCode": "#4f1e57"
-        }
-      ]
-    },
-    {
-      "videoGameId": 20,
-      "title": "Farcry 5",
-      "link": "",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "sortOrder": null,
-      "status": 1,
-      "completionStatus": 1,
-      "genres": [],
-      "systems": [
-        {
-          "name": "PC",
-          "colorCode": "#4f1e57"
-        }
-      ]
-    },
-    {
-      "videoGameId": 23,
-      "title": "Bioshock Infinite",
-      "link": "",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "sortOrder": null,
-      "status": 1,
-      "completionStatus": 1,
-      "genres": [],
-      "systems": [
-        {
-          "name": "PC",
-          "colorCode": "#4f1e57"
-        }
-      ]
-    },
-    {
-      "videoGameId": 24,
-      "title": "Bioshock",
-      "link": "",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "sortOrder": null,
-      "status": 1,
-      "completionStatus": 1,
-      "genres": [],
-      "systems": [
-        {
-          "name": "PC",
-          "colorCode": "#4f1e57"
-        }
-      ]
-    },
-    {
-      "videoGameId": 25,
-      "title": "Bioshock 2",
-      "link": "",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "sortOrder": null,
-      "status": 1,
-      "completionStatus": 1,
-      "genres": [],
-      "systems": [
-        {
-          "name": "PC",
-          "colorCode": "#4f1e57"
-        }
-      ]
-    },
-    {
       "videoGameId": 26,
       "title": "Fallout 4",
       "link": "",
@@ -1121,66 +961,6 @@
       ]
     },
     {
-      "videoGameId": 29,
-      "title": "God of War: Ragnarok",
-      "link": "",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "sortOrder": null,
-      "status": 1,
-      "completionStatus": 1,
-      "genres": [],
-      "systems": [
-        {
-          "name": "PC",
-          "colorCode": "#4f1e57"
-        }
-      ]
-    },
-    {
-      "videoGameId": 32,
-      "title": "Lego Star Wars",
-      "link": "",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "sortOrder": null,
-      "status": 1,
-      "completionStatus": 1,
-      "genres": [],
-      "systems": [
-        {
-          "name": "PC",
-          "colorCode": "#4f1e57"
-        }
-      ]
-    },
-    {
-      "videoGameId": 33,
-      "title": "Super Mario Oddyssey",
-      "link": "",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "sortOrder": null,
-      "status": 1,
-      "completionStatus": 1,
-      "genres": [],
-      "systems": [
-        {
-          "name": "PC",
-          "colorCode": "#4f1e57"
-        }
-      ]
-    },
-    {
       "videoGameId": 34,
       "title": "Destiny 2",
       "link": "",
@@ -1201,88 +981,8 @@
       ]
     },
     {
-      "videoGameId": 35,
-      "title": "Elden Ring",
-      "link": "https://en.bandainamcoent.eu/elden-ring/elden-ring",
-      "dateStarted": null,
-      "dateCompleted": "2023-05-27T00:00:00",
-      "rating": 0,
-      "thoughts": "I\u0027m not sure I was the targeted audience for this game. I didn\u0027t enjoy this game at all.",
-      "coverImageUrl": "https://i.postimg.cc/yxK45j3L/elden-ring.jpg",
-      "sortOrder": null,
-      "status": 1,
-      "completionStatus": 3,
-      "genres": [],
-      "systems": [
-        {
-          "name": "PlayStation",
-          "colorCode": "#191f77"
-        }
-      ]
-    },
-    {
-      "videoGameId": 36,
-      "title": "God of War",
-      "link": "https://www.playstation.com/en-us/god-of-war/",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/wTFG8Zxs/god-of-war.jpg",
-      "sortOrder": null,
-      "status": 1,
-      "completionStatus": 1,
-      "genres": [],
-      "systems": [
-        {
-          "name": "PlayStation",
-          "colorCode": "#191f77"
-        }
-      ]
-    },
-    {
-      "videoGameId": 37,
-      "title": "Spiderman: Miles Morales",
-      "link": "",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "sortOrder": null,
-      "status": 1,
-      "completionStatus": 1,
-      "genres": [],
-      "systems": [
-        {
-          "name": "PC",
-          "colorCode": "#4f1e57"
-        }
-      ]
-    },
-    {
       "videoGameId": 39,
       "title": "Returnal",
-      "link": "",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "sortOrder": null,
-      "status": 1,
-      "completionStatus": 1,
-      "genres": [],
-      "systems": [
-        {
-          "name": "PC",
-          "colorCode": "#4f1e57"
-        }
-      ]
-    },
-    {
-      "videoGameId": 40,
-      "title": "Spiderman",
       "link": "",
       "dateStarted": null,
       "dateCompleted": null,
@@ -1357,6 +1057,482 @@
         {
           "name": "PC",
           "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 56,
+      "title": "The Last of Us, Part II",
+      "link": "https://www.playstation.com/en-us/games/the-last-of-us-part-ii-remastered/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 1,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 5,
+      "title": "Super Mario RPG",
+      "link": "https://www.nintendo.com/us/store/products/super-mario-rpg-switch/",
+      "dateStarted": "2023-11-19T00:00:00",
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/L8Z0qdSY/mario-rpg.jpg",
+      "sortOrder": 2,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Nintendo Switch",
+          "colorCode": "#8e0b24"
+        }
+      ]
+    },
+    {
+      "videoGameId": 7,
+      "title": "Breath of the Wild",
+      "link": "https://zelda.nintendo.com/breath-of-the-wild/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 3,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Nintendo Switch",
+          "colorCode": "#8e0b24"
+        }
+      ]
+    },
+    {
+      "videoGameId": 6,
+      "title": "Tears of the Kingdom",
+      "link": "https://zelda.nintendo.com/tears-of-the-kingdom/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 4,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Nintendo Switch",
+          "colorCode": "#8e0b24"
+        }
+      ]
+    },
+    {
+      "videoGameId": 36,
+      "title": "God of War",
+      "link": "https://www.playstation.com/en-us/god-of-war/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/wTFG8Zxs/god-of-war.jpg",
+      "sortOrder": 5,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 29,
+      "title": "God of War: Ragnarok",
+      "link": "https://www.playstation.com/en-us/games/god-of-war-ragnarok/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 6,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 19,
+      "title": "Witcher 3",
+      "link": "https://www.thewitcher.com/us/en/witcher3",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 7,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        },
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        },
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 20,
+      "title": "Farcry 5",
+      "link": "https://www.ubisoft.com/en-us/game/far-cry/far-cry-5",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 8,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 57,
+      "title": "FarCry New Dawn",
+      "link": "https://store.ubisoft.com/us/far-cry-new-dawn/5bf319696b54a4ddc91e8843.html?lang=en_US",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 9,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
+      "systems": []
+    },
+    {
+      "videoGameId": 33,
+      "title": "Super Mario Oddyssey",
+      "link": "https://supermario.nintendo.com/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 10,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Platform",
+          "colorCode": "#585e00"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Nintendo Switch",
+          "colorCode": "#8e0b24"
+        }
+      ]
+    },
+    {
+      "videoGameId": 40,
+      "title": "Spiderman",
+      "link": "https://www.playstation.com/en-us/explore-marvels-spider-man/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 11,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 37,
+      "title": "Spiderman: Miles Morales",
+      "link": "https://www.playstation.com/en-us/games/marvels-spider-man-miles-morales/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 12,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 35,
+      "title": "Elden Ring",
+      "link": "https://en.bandainamcoent.eu/elden-ring/elden-ring",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-27T00:00:00",
+      "rating": 0,
+      "thoughts": "I\u0027m not sure I was the targeted audience for this game. I didn\u0027t enjoy this game at all.",
+      "coverImageUrl": "https://i.postimg.cc/yxK45j3L/elden-ring.jpg",
+      "sortOrder": 13,
+      "status": 1,
+      "completionStatus": 3,
+      "genres": [
+        {
+          "name": "Hack and Slash",
+          "colorCode": "#a30d42"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        },
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 24,
+      "title": "Bioshock",
+      "link": "https://store.steampowered.com/app/7670/BioShock/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 14,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 25,
+      "title": "Bioshock 2",
+      "link": "https://store.steampowered.com/app/409720/BioShock_2_Remastered/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 15,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 23,
+      "title": "Bioshock Infinite",
+      "link": "https://store.steampowered.com/app/8870/BioShock_Infinite/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 16,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 32,
+      "title": "Lego Star Wars",
+      "link": "https://www.playstation.com/en-us/games/lego-star-wars-the-skywalker-saga/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 17,
+      "status": 1,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
         }
       ]
     }

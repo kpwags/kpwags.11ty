@@ -1,5 +1,309 @@
 [
   {
+    "linkId": 315,
+    "title": "15 page speed optimizations that sites ignore (at their own risk)",
+    "url": "https://www.speedcurve.com/blog/15-neglected-page-speed-optimizations/",
+    "author": "Tammy Everts",
+    "linkDate": "2024-08-22T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 311,
+    "title": "Here\u2019s why the debate over open source AI matters for us humans",
+    "url": "https://www.marketplace.org/2024/08/20/heres-why-the-debate-over-open-source-ai-matters-for-us-humans/",
+    "author": "Matt Levin",
+    "linkDate": "2024-08-21T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 312,
+    "title": "The new wave of private school vouchers",
+    "url": "https://www.marketplace.org/shows/make-me-smart/the-new-wave-of-private-school-vouchers/",
+    "author": "Make Me Smart",
+    "linkDate": "2024-08-21T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 313,
+    "title": "New online age-verification tools could exclude lots of adults",
+    "url": "https://www.marketplace.org/shows/marketplace-tech/new-online-age-verification-tools-could-exclude-lots-of-adults/",
+    "author": "Marketplace Tech",
+    "linkDate": "2024-08-21T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 314,
+    "title": "Why Your Team Sucks 2024: Philadelphia Eagles",
+    "url": "https://defector.com/why-your-team-sucks-2024-philadelphia-eagles",
+    "author": "Drew Magary",
+    "linkDate": "2024-08-21T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 299,
+    "title": "Unit Testing vs Integration Testing: What is Best for You",
+    "url": "https://www.travis-ci.com/blog/unit-testing-vs-integration-testing/",
+    "author": "Amr Essam",
+    "linkDate": "2024-08-20T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 300,
+    "title": "Primary constructors - class vs record",
+    "url": "https://www.poppastring.com/blog/primary-constructors-class-vs-record",
+    "author": "Mark Downie",
+    "linkDate": "2024-08-20T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 301,
+    "title": "No Web Without Women",
+    "url": "https://nowebwithoutwomen.com/",
+    "author": "A Selman Project",
+    "linkDate": "2024-08-20T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 302,
+    "title": "A Brief Introduction to Keyboard Accessibility",
+    "url": "https://afixt.com/a-brief-introduction-to-keyboard-accessibility/",
+    "author": "Karl Groves",
+    "linkDate": "2024-08-20T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 303,
+    "title": "A Rant about Front-end Development",
+    "url": "https://blog.frankmtaylor.com/2024/06/20/a-rant-about-front-end-development/",
+    "author": "Frank M Taylor",
+    "linkDate": "2024-08-20T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 304,
+    "title": "How I Learned To Stop Worrying And Love Multimedia Writing",
+    "url": "https://www.smashingmagazine.com/2024/06/mdx-or-how-i-learned-love-multimedia-writing/",
+    "author": "Frederick O\u2019Brien",
+    "linkDate": "2024-08-20T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 305,
+    "title": "ASP.NET Core Basics: Documenting APIs",
+    "url": "https://www.telerik.com/blogs/aspnet-core-basics-documenting-apis",
+    "author": "Assis Zang",
+    "linkDate": "2024-08-20T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 306,
+    "title": "Theme Machine",
+    "url": "https://tools.keithjgrant.com/theme-machine/",
+    "author": "Keith J. Grant",
+    "linkDate": "2024-08-20T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Design",
+      "colorCode": "#0b545e"
+    }
+  },
+  {
+    "linkId": 307,
+    "title": "New JavaScript Set methods",
+    "url": "https://developer.mozilla.org/en-US/blog/javascript-set-methods/",
+    "author": "Brian Smith",
+    "linkDate": "2024-08-20T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 308,
+    "title": "Why Your Team Sucks 2024: Miami Dolphins",
+    "url": "https://defector.com/why-your-team-sucks-2024-miami-dolphins",
+    "author": "Drew Magary",
+    "linkDate": "2024-08-20T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 309,
+    "title": "Web content, the social contract and copyrights",
+    "url": "https://www.stefanjudis.com/blog/web-content-and-copyrights/",
+    "author": "Stefan Judis",
+    "linkDate": "2024-08-20T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 310,
+    "title": "The React useDebugValue Hook",
+    "url": "https://www.telerik.com/blogs/react-usedebugvalue-hook",
+    "author": "Hassan Djirdeh",
+    "linkDate": "2024-08-20T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 297,
+    "title": "Why Your Team Sucks 2024: Los Angeles Rams",
+    "url": "https://defector.com/why-your-team-sucks-2024-los-angeles-rams",
+    "author": "Drew Magary",
+    "linkDate": "2024-08-19T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 298,
+    "title": "Why Your Team Sucks 2024: Pittsburgh Steelers",
+    "url": "https://defector.com/why-your-team-sucks-2024-pittsburgh-steelers",
+    "author": "Drew Magary",
+    "linkDate": "2024-08-19T00:00:00",
+    "readingLogIssueNumber": 90,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
     "linkId": 296,
     "title": "The Dying Web",
     "url": "https://endler.dev/2024/the-dying-web/",

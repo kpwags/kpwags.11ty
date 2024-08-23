@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 205,
-      "title": "The Internet Con",
-      "subTitle": "How to Seize the Means of Computation",
-      "fullTitle": "The Internet Con: How to Seize the Means of Computation",
-      "author": "Cory Doctorow",
-      "link": "https://bookshop.org/p/books/the-internet-con-how-to-seize-the-means-of-computation-cory-doctorow/18771891?ean=9781804291245",
-      "dateStarted": "2024-08-16T00:00:00",
+      "bookId": 33,
+      "title": "Gentle Writing Advice",
+      "subTitle": "How to Be a Writer Without Destroying Yourself",
+      "fullTitle": "Gentle Writing Advice: How to Be a Writer Without Destroying Yourself",
+      "author": "Chuck Wendig",
+      "link": "https://bookshop.org/p/books/gentle-writing-advice-how-to-be-a-writer-without-destroying-yourself-chuck-wendig/18825636?ean=9781440301209",
+      "dateStarted": "2024-08-21T00:00:00",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/6Q5g6ZRH/the-internet-con.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 56,
-      "pageCount": 173,
-      "percentComplete": 32,
-      "sortOrder": 70,
+      "coverImageUrl": "https://i.postimg.cc/dt5MPrLG/chuck-wendig-gentle-writing-advice.jpg",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 25,
+      "pageCount": 230,
+      "percentComplete": 11,
+      "sortOrder": 90,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -30,14 +30,18 @@
       "series": null,
       "genres": [
         {
-          "name": "Technology",
-          "colorCode": "rgb(55, 78, 146)"
+          "name": "Self Help",
+          "colorCode": "rgb(75, 61, 190)"
+        },
+        {
+          "name": "Writing",
+          "colorCode": "rgb(93, 84, 84)"
         }
       ],
       "formats": [
         {
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
         }
       ]
     }
@@ -46,6 +50,47 @@
     {
       "year": "2024",
       "books": [
+        {
+          "bookId": 205,
+          "title": "The Internet Con",
+          "subTitle": "How to Seize the Means of Computation",
+          "fullTitle": "The Internet Con: How to Seize the Means of Computation",
+          "author": "Cory Doctorow",
+          "link": "https://bookshop.org/p/books/the-internet-con-how-to-seize-the-means-of-computation-cory-doctorow/18771891?ean=9781804291245",
+          "dateStarted": "2024-08-16T00:00:00",
+          "dateCompleted": "2024-08-21T00:00:00",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "I appreciate Cory Doctorow\u2019s writing about tech and this is no different. He does a good job explaining the issues with the tech giants and how they got so large and powerful, as well as some ways to limit their power and give us more power in the process.",
+          "coverImageUrl": "https://i.postimg.cc/6Q5g6ZRH/the-internet-con.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 173,
+          "pageCount": 173,
+          "percentComplete": 100,
+          "sortOrder": 70,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Technology",
+              "colorCode": "rgb(55, 78, 146)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
+        },
         {
           "bookId": 133,
           "title": "The Firm",
@@ -10935,37 +10980,6 @@
       "formats": []
     },
     {
-      "bookId": 33,
-      "title": "Gentle Writing Advice",
-      "subTitle": "How to Be a Writer Without Destroying Yourself",
-      "fullTitle": "Gentle Writing Advice: How to Be a Writer Without Destroying Yourself",
-      "author": "Chuck Wendig",
-      "link": "https://bookshop.org/p/books/gentle-writing-advice-how-to-be-a-writer-without-destroying-yourself-chuck-wendig/18825636?ean=9781440301209",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 0,
-      "percentComplete": 0,
-      "sortOrder": 90,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
       "bookId": 189,
       "title": "All Systems Red",
       "subTitle": "",
@@ -19291,6 +19305,118 @@
         {
           "name": "Thriller",
           "colorCode": "rgb(54, 31, 112)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 518,
+      "title": "Frostbite",
+      "subTitle": "How Refrigeration Changed Our Food, Our Planet, and Ourselves",
+      "fullTitle": "Frostbite: How Refrigeration Changed Our Food, Our Planet, and Ourselves",
+      "author": "Nicola Twilley",
+      "link": "https://bookshop.org/p/books/frostbite-how-refrigeration-changed-our-food-our-planet-and-ourselves-nicola-twilley/20644494?ean=9780735223288",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 0,
+      "percentComplete": 0,
+      "sortOrder": 2800,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science",
+          "colorCode": "rgb(24, 90, 80)"
+        },
+        {
+          "name": "Food",
+          "colorCode": "rgb(92, 66, 0)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 519,
+      "title": "The Pirate Coast",
+      "subTitle": "Thomas Jefferson, the First Marines, and the Secret Mission of 1805",
+      "fullTitle": "The Pirate Coast: Thomas Jefferson, the First Marines, and the Secret Mission of 1805",
+      "author": "Richard Zaks",
+      "link": "https://bookshop.org/p/books/the-pirate-coast-thomas-jefferson-the-first-marines-and-the-secret-mission-of-1805-richard-zacks/15562683?ean=9781401308490",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 0,
+      "percentComplete": 0,
+      "sortOrder": 2810,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 520,
+      "title": "Piranesi",
+      "subTitle": "",
+      "fullTitle": "Piranesi",
+      "author": "Susanna Clarke",
+      "link": "https://bookshop.org/p/books/piranesi-susanna-clarke/15861178",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 0,
+      "percentComplete": 0,
+      "sortOrder": 2820,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Fantasy",
+          "colorCode": "rgb(172, 152, 5)"
         }
       ],
       "formats": []

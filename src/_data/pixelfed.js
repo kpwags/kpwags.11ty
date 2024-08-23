@@ -20,8 +20,6 @@ const pixelfed = () => {
 			const parser = new XMLParser(options);
 			const data = parser.parse(response);
 
-			console.log({ image: data.feed.entry[0] });
-
 			data.feed.entry.forEach((i) => {
 				images.push({
 					link: i.id,

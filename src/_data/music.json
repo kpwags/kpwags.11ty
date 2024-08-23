@@ -2049,7 +2049,7 @@
   },
   {
     "musicAlbumId": 175,
-    "title": "Feast of Famine",
+    "title": "Feast or Famine",
     "artist": "Chuck Ragan",
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/kgF1jhFb/chuck-ragan-feast-or-famine.jpg",
@@ -3155,13 +3155,62 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Pretty Good Year"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Chicken"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Inquirer"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Brittle Heart"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Drastic"
+      },
+      {
+        "trackNumber": 6,
+        "title": "3rd Shift"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Over 50 Club"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Dear Laura"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Louisiana"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Benson and Hedges"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Last Call"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Player Hater Anthem"
+      }
+    ]
   },
   {
     "musicAlbumId": 5,
-    "title": "Star Trek: Generations Soundtrack",
+    "title": "Star Trek Generations Film Score",
     "artist": "Dennis McCarthy",
-    "thoughts": "",
+    "thoughts": "I love this soundtrack. The melancholy really hits the theme of the movie. I definitely hear some Next Generation and Deep Space Nine themes.",
     "coverImageUrl": "https://i.postimg.cc/y6FcRf5t/star-trek-generations.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
@@ -3177,7 +3226,108 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Main Title"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Past Glory"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Enterprise B"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Distress Call / Harriman and the Ribbon"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Kirk Saves the Day / Deck 15 / HMS Enterprise"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Picard\u0027s Message / Raid Post Mortem"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Data and the Emotions"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Time is Running Out"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Data Malfunctions"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Soran Kidnaps Geordi"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Guinan and the Nexus"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Torture"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Soran\u0027s Plan Revealed"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Prisoner Exchange"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Outgunned"
+      },
+      {
+        "trackNumber": 16,
+        "title": "The Gap / Coolant Leak / Appointment with Eternity / Out of Control / The Crash"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Coming to Rest"
+      },
+      {
+        "trackNumber": 18,
+        "title": "The Nexus"
+      },
+      {
+        "trackNumber": 19,
+        "title": "A Christmas Hug / The Kitchen Debate"
+      },
+      {
+        "trackNumber": 20,
+        "title": "Jumping the Ravine"
+      },
+      {
+        "trackNumber": 21,
+        "title": "Two Captains / Crash Recap"
+      },
+      {
+        "trackNumber": 22,
+        "title": "The Final Fight"
+      },
+      {
+        "trackNumber": 23,
+        "title": "The Captain of the Enterprise (Kirk\u0027s Death)"
+      },
+      {
+        "trackNumber": 24,
+        "title": "To Live Forever"
+      },
+      {
+        "trackNumber": 25,
+        "title": "Star Trek: Generations Overture"
+      }
+    ]
   },
   {
     "musicAlbumId": 125,
@@ -3199,7 +3349,56 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Voices"
+      },
+      {
+        "trackNumber": 2,
+        "title": "The Game"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Stupify"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Down With the Sickness"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Violence Fetish"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Fear"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Numb"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Want"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Conflict"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Shout 2000"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Droppin\u0027 Plates"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Meaning of Life"
+      }
+    ]
   },
   {
     "musicAlbumId": 104,
@@ -3221,7 +3420,52 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Sinner"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Bodies"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Tear Away"
+      },
+      {
+        "trackNumber": 4,
+        "title": "All Over Me"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Reminded"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Pity"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Mute"
+      },
+      {
+        "trackNumber": 8,
+        "title": "I Am"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Follow"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Told You So"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Sermon"
+      }
+    ]
   },
   {
     "musicAlbumId": 145,
@@ -3231,14 +3475,64 @@
     "coverImageUrl": "https://i.postimg.cc/kMLFtVGS/fingereleven-greyestofblueskies.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "First Time"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Drag You Down"
+      },
+      {
+        "trackNumber": 3,
+        "title": "My Carousel"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Sick of it All"
+      },
+      {
+        "trackNumber": 5,
+        "title": "For the Ocean"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Broken Words"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Suffocate"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Bones \u002B Joints"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Famous"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Walking in My Shoes"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Stay and Drown"
+      }
+    ]
   },
   {
     "musicAlbumId": 144,
@@ -3248,37 +3542,153 @@
     "coverImageUrl": "https://i.postimg.cc/P5jW2Bmr/fireworks-gospel.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Pop Punk",
+        "colorCode": "rgb(32, 92, 9)"
+      }
+    ],
     "formats": [
       {
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Arrows"
+      },
+      {
+        "trackNumber": 2,
+        "title": "I Was Born in the Dark"
+      },
+      {
+        "trackNumber": 3,
+        "title": "X\u0027s on Trees"
+      },
+      {
+        "trackNumber": 4,
+        "title": "We\u0027re Still Pioneers"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Teeth"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Oh, Why Can\u0027t We Start Old \u0026 Get Younger"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Summer"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Life is Killing Me"
+      },
+      {
+        "trackNumber": 9,
+        "title": "I Am the Challenger"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Paintings of Paul Revere"
+      },
+      {
+        "trackNumber": 11,
+        "title": "I Locked My Time Capsule"
+      },
+      {
+        "trackNumber": 12,
+        "title": "The Wild Bunch"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Gloom"
+      },
+      {
+        "trackNumber": 14,
+        "title": "The Weekend Before Halloween"
+      }
+    ]
   },
   {
     "musicAlbumId": 143,
     "title": "There is Nothing Left to Lose",
     "artist": "Foo Fighters",
-    "thoughts": "",
+    "thoughts": "This is still by far my favorite Foo Fighters album.",
     "coverImageUrl": "https://i.postimg.cc/cLBQjXm7/foofighters-thereisnothinglefttolose.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Stacked Actors"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Breakout"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Learn to Fly"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Gimme Stitches"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Generator"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Aurora"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Live-In Skin"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Next Year"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Headwires"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Ain\u0027t It the Life"
+      },
+      {
+        "trackNumber": 11,
+        "title": "M.I.A."
+      }
+    ]
   },
   {
     "musicAlbumId": 136,
     "title": "Be More Kind",
     "artist": "Frank Turner",
-    "thoughts": "",
+    "thoughts": "After Trump was elected, this album spoke to me.",
     "coverImageUrl": "https://i.postimg.cc/5t9wML7h/frankturner-bemorekind.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
@@ -3298,13 +3708,66 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Don\u0027t Worry"
+      },
+      {
+        "trackNumber": 2,
+        "title": "1933"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Little Changes"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Be More Kind"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Make America Great Again"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Going Nowhere"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Brave Face"
+      },
+      {
+        "trackNumber": 8,
+        "title": "There She Is"
+      },
+      {
+        "trackNumber": 9,
+        "title": "21st Century Survival Blues"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Blackout"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Common Ground"
+      },
+      {
+        "trackNumber": 12,
+        "title": "The Lifeboat"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Get It Right"
+      }
+    ]
   },
   {
     "musicAlbumId": 142,
     "title": "England Keep My Bones",
     "artist": "Frank Turner",
-    "thoughts": "",
+    "thoughts": "This was the album that introduced me to Frank Turner and it still holds a special place in my heart.",
     "coverImageUrl": "https://i.postimg.cc/FKP0Fzw7/frankturner-englandkeepmybones.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
@@ -3328,7 +3791,96 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Eulogy"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Peggy Sang the Blues"
+      },
+      {
+        "trackNumber": 3,
+        "title": "I Still Believe"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Rivers"
+      },
+      {
+        "trackNumber": 5,
+        "title": "I Am Disappeared"
+      },
+      {
+        "trackNumber": 6,
+        "title": "English Curse"
+      },
+      {
+        "trackNumber": 7,
+        "title": "One Foot Before the Other"
+      },
+      {
+        "trackNumber": 8,
+        "title": "If I Ever Stray"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Wessex Boy"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Nights Become Days"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Redemption"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Glory Hallelujah"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Eulogy (Demo)"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Peggy Sang the Blues (Demo)"
+      },
+      {
+        "trackNumber": 15,
+        "title": "I Am Disappeared (Demo)"
+      },
+      {
+        "trackNumber": 16,
+        "title": "English Curse (Demo)"
+      },
+      {
+        "trackNumber": 17,
+        "title": "One Foot Before the Other (Demo)"
+      },
+      {
+        "trackNumber": 18,
+        "title": "If I Ever Stray (Demo)"
+      },
+      {
+        "trackNumber": 19,
+        "title": "Redemption (Demo)"
+      },
+      {
+        "trackNumber": 20,
+        "title": "Song for Eva Mae"
+      },
+      {
+        "trackNumber": 21,
+        "title": "Wanderlust"
+      },
+      {
+        "trackNumber": 22,
+        "title": "Balthazar, Impresario"
+      }
+    ]
   },
   {
     "musicAlbumId": 133,
@@ -3342,6 +3894,10 @@
       {
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
+      },
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
       }
     ],
     "formats": [
@@ -3350,7 +3906,64 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Non Serviam"
+      },
+      {
+        "trackNumber": 2,
+        "title": "The Gathering"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Haven\u0027t Been Doing So Well"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Untainted Love"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Fatherless"
+      },
+      {
+        "trackNumber": 6,
+        "title": "My Bad"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Miranda"
+      },
+      {
+        "trackNumber": 8,
+        "title": "A Wave Across A Bay"
+      },
+      {
+        "trackNumber": 9,
+        "title": "The Resurrectionists"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Punches"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Perfect Score"
+      },
+      {
+        "trackNumber": 12,
+        "title": "The Work"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Little Life"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Farewell to My City"
+      }
+    ]
   },
   {
     "musicAlbumId": 141,
@@ -3376,13 +3989,62 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "I Knew Prufrock Before He Got Famous"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Reasons Not To Be An Idiot"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Photosynthesis"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Substitute"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Better Half"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Love Ire \u0026 Song"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Imperfect Tense"
+      },
+      {
+        "trackNumber": 8,
+        "title": "To Take You Home"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Long Live the Queen"
+      },
+      {
+        "trackNumber": 10,
+        "title": "A Love Worth Keeping"
+      },
+      {
+        "trackNumber": 11,
+        "title": "St. Christopher is Coming Home"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Jet Lag"
+      }
+    ]
   },
   {
     "musicAlbumId": 134,
     "title": "No Man\u0027s Land",
     "artist": "Frank Turner",
-    "thoughts": "",
+    "thoughts": "I\u0027d also recommend the podcast that talks about the inspiration and origin of each of the songs.",
     "coverImageUrl": "https://i.postimg.cc/DZHssDvh/frankturner-nomansland.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
@@ -3402,7 +4064,60 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Jinny Bingham\u0027s Ghost"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Sister Rosetta"
+      },
+      {
+        "trackNumber": 3,
+        "title": "I Believed You, William Blake"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Nica"
+      },
+      {
+        "trackNumber": 5,
+        "title": "A Perfect Wife"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Silent Key"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Eye of the Day"
+      },
+      {
+        "trackNumber": 8,
+        "title": "The Death of Dora Hand"
+      },
+      {
+        "trackNumber": 9,
+        "title": "The Graveyard of the Outcast Dead"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The Lioness"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The Hymm of Kassiani"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Rescue Annie"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Rosemary Jane"
+      }
+    ]
   },
   {
     "musicAlbumId": 137,
@@ -3428,7 +4143,80 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Live Fast Die Old"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Try This at Home"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Dan\u0027s Song"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Poetry of the Deed"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Isabel"
+      },
+      {
+        "trackNumber": 6,
+        "title": "The Fastest Way Back Home"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Sons of Liberty"
+      },
+      {
+        "trackNumber": 8,
+        "title": "The Road"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Faithful Son"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Richard Divine"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Sunday Nights"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Our Lady of the Campfire"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Journey of the Magi"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Isabel (Acoustic)"
+      },
+      {
+        "trackNumber": 15,
+        "title": "The Road (Acoustic)"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Mr. Richards"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Poetry of the Deed (Acoustic)"
+      },
+      {
+        "trackNumber": 18,
+        "title": "Try This at Home (Acoustic)"
+      }
+    ]
   },
   {
     "musicAlbumId": 138,
@@ -3454,7 +4242,96 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "The Angel Islington"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Get Better"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Next Storm"
+      },
+      {
+        "trackNumber": 4,
+        "title": "The Opening Act of Spring"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Glorious You"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Mittens"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Out of Breath"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Demons"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Josephine"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Love Forty Down"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Silent Key"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Song for Josh"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Get Better (Acoustic)"
+      },
+      {
+        "trackNumber": 14,
+        "title": "The Next Storm (Acoustic)"
+      },
+      {
+        "trackNumber": 15,
+        "title": "The Opening Act of Spring (Acoustic)"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Glorious You (Acoustic)"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Mittens (Acoustic)"
+      },
+      {
+        "trackNumber": 18,
+        "title": "Out of Breath (Acoustic)"
+      },
+      {
+        "trackNumber": 19,
+        "title": "Demons (Acoustic)"
+      },
+      {
+        "trackNumber": 20,
+        "title": "Josephine (Acoustic)"
+      },
+      {
+        "trackNumber": 21,
+        "title": "Love Forty Down (Acoustic)"
+      },
+      {
+        "trackNumber": 22,
+        "title": "Silent Key (Acoustic)"
+      }
+    ]
   },
   {
     "musicAlbumId": 140,
@@ -3480,13 +4357,66 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "The Real Damage"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Vital Signs"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Romantic Fatigue"
+      },
+      {
+        "trackNumber": 4,
+        "title": "A Decent Cup of Tea"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Father\u0027s Day"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Worse Things Happen at Sea"
+      },
+      {
+        "trackNumber": 7,
+        "title": "My Kingdom for a Horse"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Back in the Day"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Once We Were Anarchists"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Wisdom Teeth"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The Ladies of London Town"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Must Try Harder"
+      },
+      {
+        "trackNumber": 13,
+        "title": "The Ballad of Me and My Friends"
+      }
+    ]
   },
   {
     "musicAlbumId": 135,
     "title": "Songbook",
     "artist": "Frank Turner",
-    "thoughts": "",
+    "thoughts": "Once We Were Anarchists is a great song.",
     "coverImageUrl": "https://i.postimg.cc/3Jgp4nPM/frankturner-songbook.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
@@ -3506,7 +4436,124 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Four Simple Words"
+      },
+      {
+        "trackNumber": 2,
+        "title": "I Still Believe"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Next Storm"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Recovery"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The Road"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Long Live the Queen"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Glorious You"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Plain Sailing Weather"
+      },
+      {
+        "trackNumber": 9,
+        "title": "I Knew Prufrock Before He Got Famous"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Wessex Boy"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The Opening Act of Spring"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Polaroid Picture"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Mittens"
+      },
+      {
+        "trackNumber": 14,
+        "title": "If I Ever Stray"
+      },
+      {
+        "trackNumber": 15,
+        "title": "The Way I Tend to Be"
+      },
+      {
+        "trackNumber": 16,
+        "title": "The Ballad of Me and My Friends"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Photosynthesis"
+      },
+      {
+        "trackNumber": 18,
+        "title": "Get Better"
+      },
+      {
+        "trackNumber": 19,
+        "title": "There She Is"
+      },
+      {
+        "trackNumber": 20,
+        "title": "Photosynthesis (Songbook Version)"
+      },
+      {
+        "trackNumber": 21,
+        "title": "The Way I Tend to Be (Songbook Version)"
+      },
+      {
+        "trackNumber": 22,
+        "title": "Glorious You (Songbook Version)"
+      },
+      {
+        "trackNumber": 23,
+        "title": "Josephine (Songbook Version)"
+      },
+      {
+        "trackNumber": 24,
+        "title": "Polaroid Picture (Songbook Version)"
+      },
+      {
+        "trackNumber": 25,
+        "title": "Love 40 Down (Songbook Version)"
+      },
+      {
+        "trackNumber": 26,
+        "title": "I Am Disappeared (Songbook Version)"
+      },
+      {
+        "trackNumber": 27,
+        "title": "Broken Piano (Songbook Version)"
+      },
+      {
+        "trackNumber": 28,
+        "title": "Long Live the Queen (Songbook Version)"
+      },
+      {
+        "trackNumber": 29,
+        "title": "The Ballad of Me and My Friends (Songbook Version)"
+      }
+    ]
   },
   {
     "musicAlbumId": 139,
@@ -3532,7 +4579,64 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Recovery"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Losing Days"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Thw Way I Tend to Be"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Plain Sailing Weather"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Good \u0026 Gone"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Tell Tale Signs"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Four Simple Words"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Polaroid Picture"
+      },
+      {
+        "trackNumber": 9,
+        "title": "The Fisher King Blues"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Anymore"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Oh Brother"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Broken Piano"
+      },
+      {
+        "trackNumber": 13,
+        "title": "We Shall Not Overcome"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Wherefore Art Thou Gene Simmons"
+      }
+    ]
   },
   {
     "musicAlbumId": 7,
@@ -3558,7 +4662,64 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Do One"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Never Mind the Back Problems"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Ceasefire"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Girl from the Record Shop"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Pandemic PTSD"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Letters"
+      },
+      {
+        "trackNumber": 7,
+        "title": "East Finchley"
+      },
+      {
+        "trackNumber": 8,
+        "title": "No Thank You for the Music"
+      },
+      {
+        "trackNumber": 9,
+        "title": "The Leaders"
+      },
+      {
+        "trackNumber": 10,
+        "title": "International Hide and Seek Champions"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Show People"
+      },
+      {
+        "trackNumber": 12,
+        "title": "On My Way"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Somewhere Inbetween"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Undefeated"
+      }
+    ]
   },
   {
     "musicAlbumId": 129,
@@ -3568,14 +4729,68 @@
     "coverImageUrl": "https://i.postimg.cc/W18kStNX/gaslightanthem-59sound.jpg",
     "isTopTen": false,
     "showOnNowPage": true,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
     "formats": [
       {
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Great Expectations"
+      },
+      {
+        "trackNumber": 2,
+        "title": "The \u002759 Sound"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Old White Lincoln"
+      },
+      {
+        "trackNumber": 4,
+        "title": "High Lonesome"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Film Noir"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Miles Davis \u0026 the Cool"
+      },
+      {
+        "trackNumber": 7,
+        "title": "The Patient Ferris Wheel"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Cassanova, Baby!"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Even Cowgirls Get the Blues"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Meet Me By the River\u0027s Edge"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Here\u0027s Looking At You, Kid"
+      },
+      {
+        "trackNumber": 12,
+        "title": "The Backseat"
+      }
+    ]
   },
   {
     "musicAlbumId": 132,
@@ -3585,14 +4800,60 @@
     "coverImageUrl": "https://i.postimg.cc/cJJ8zZ6Z/gaslightanthem-americanslang.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
     "formats": [
       {
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "American Slang"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Stay Lucky"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Bring it On"
+      },
+      {
+        "trackNumber": 4,
+        "title": "The Diamond Church Street Choir"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The Queen of Lower Chelsea"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Orphans"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Boxer"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Old Haunts"
+      },
+      {
+        "trackNumber": 9,
+        "title": "The Spirit of Jazz"
+      },
+      {
+        "trackNumber": 10,
+        "title": "We Did It When We Were Young"
+      }
+    ]
   },
   {
     "musicAlbumId": 131,
@@ -3602,14 +4863,64 @@
     "coverImageUrl": "https://i.postimg.cc/NM92g41z/gaslightanthem-bsides.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
     "formats": [
       {
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "She Loves You"
+      },
+      {
+        "trackNumber": 2,
+        "title": "The \u002759 Sound (Acoustic)"
+      },
+      {
+        "trackNumber": 3,
+        "title": "State of Love and Trust (Live)"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Tumbling Dice"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The Queen of Lower Chelsea (Acoustic)"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Songs for Teenagers"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Great Expectations (Acoustic)"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Antonia Jane (Acoustic)"
+      },
+      {
+        "trackNumber": 9,
+        "title": "American Slang (Acoustic)"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Boxer (Acoustic)"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Once Upon a Time"
+      }
+    ]
   },
   {
     "musicAlbumId": 130,
@@ -3619,31 +4930,159 @@
     "coverImageUrl": "https://i.postimg.cc/Kz6k4Mfv/gaslightanthem-gethurt.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
     "formats": [
       {
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Stay Vicious"
+      },
+      {
+        "trackNumber": 2,
+        "title": "1,000 Years"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Get Hurt"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Stray Paper"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Helter Skeleton"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Underneath the Ground"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Rollin\u0027 and Tumblin\u0027"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Red Violins"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Selected Poems"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Ain\u0027t That a Shame"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Break Your Heart"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Dark Places"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Sweet Morphine"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Mama\u0027s Boys"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Halloween"
+      }
+    ]
   },
   {
     "musicAlbumId": 173,
     "title": "Handwritten",
     "artist": "The Gaslight Anthem",
-    "thoughts": "",
+    "thoughts": "This is by far my favorite album by Gaslight. Every song is amazing.",
     "coverImageUrl": "https://i.postimg.cc/yx0JR8ph/gaslightanthem-handwritten.jpg",
     "isTopTen": true,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
     "formats": [
       {
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "\u002245\u0022"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Handwritten"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Here Comes My Man"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Muholland Drive"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Keepsake"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Too Much Blood"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Howl"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Biloxi Parish"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Desire"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Mae"
+      },
+      {
+        "trackNumber": 11,
+        "title": "National Anthem"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Blue Dahlia"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Silver"
+      },
+      {
+        "trackNumber": 14,
+        "title": "You Got Lucky"
+      }
+    ]
   },
   {
     "musicAlbumId": 26,
@@ -3665,7 +5104,48 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Spider Bites"
+      },
+      {
+        "trackNumber": 2,
+        "title": "History Books"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Autumn"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Positive Charge"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Michigan, 1975"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Little Fires"
+      },
+      {
+        "trackNumber": 7,
+        "title": "The Weatherman"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Empires"
+      },
+      {
+        "trackNumber": 9,
+        "title": "I Live in the Room Above Her"
+      },
+      {
+        "trackNumber": 10,
+        "title": "A Lifetime of Preludes"
+      }
+    ]
   },
   {
     "musicAlbumId": 128,
@@ -3675,14 +5155,68 @@
     "coverImageUrl": "https://i.postimg.cc/mZ91JmZc/gaslightanthem-sinkorswim.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
     "formats": [
       {
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Boomboxes and Dictionaries"
+      },
+      {
+        "trackNumber": 2,
+        "title": "I Coul\u0027da Been a Contender"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Wooderson"
+      },
+      {
+        "trackNumber": 4,
+        "title": "We Came to Dance"
+      },
+      {
+        "trackNumber": 5,
+        "title": "1930"
+      },
+      {
+        "trackNumber": 6,
+        "title": "The Navesink Banks"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Red in the Morning"
+      },
+      {
+        "trackNumber": 8,
+        "title": "I\u0027da Called You Woody, Joe"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Angry Johnny and the Radio"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Drive"
+      },
+      {
+        "trackNumber": 11,
+        "title": "We\u0027re Getting a Divorce, You Keep the Diner"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Red at Night"
+      }
+    ]
   },
   {
     "musicAlbumId": 126,
@@ -3704,7 +5238,52 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Sick of Life"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Awake"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Greed"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Bad Magick"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Goin\u0027 Down"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Mistakes"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Trippin\u0027"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Forgive Me"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Vampires"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The Journey"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Spiral"
+      }
+    ]
   },
   {
     "musicAlbumId": 127,
@@ -3726,7 +5305,131 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Moon Baby"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Whatever"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Keep Away"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Time Bomb"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Bad Religion"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Immune"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Someone in London"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Get Up, Get Out!"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Now or Never"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Stress"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Situation"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Voodoo"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 178,
+    "title": "Dizzy Up the Girl",
+    "artist": "Goo Goo Dolls",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/nLYPKHFk/goo-goo-dolls-dizzy-up-the-girl.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "CD",
+        "colorCode": "#106869"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Dizzy"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Slide"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Broadway"
+      },
+      {
+        "trackNumber": 4,
+        "title": "January Friend"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Black Balloon"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Bullet Proof"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Amigone"
+      },
+      {
+        "trackNumber": 8,
+        "title": "All Eyes on Me"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Full Forever"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Acoustic #3"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Iris"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Extra Pale"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Hate This Place"
+      }
+    ]
   },
   {
     "musicAlbumId": 9,
@@ -3740,6 +5443,10 @@
       {
         "name": "Folk",
         "colorCode": "rgb(202, 122, 5)"
+      },
+      {
+        "name": "Classic Rock",
+        "colorCode": "rgb(182, 11, 105)"
       }
     ],
     "formats": [
@@ -3748,7 +5455,48 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Race Among the Ruins"
+      },
+      {
+        "trackNumber": 2,
+        "title": "The Wreck of the Edmund Fitzgerald"
+      },
+      {
+        "trackNumber": 3,
+        "title": "I\u0027m Not Supposed to Care"
+      },
+      {
+        "trackNumber": 4,
+        "title": "I\u0027d Do It Again"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Never Too Close"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Protocol"
+      },
+      {
+        "trackNumber": 7,
+        "title": "The House You Live In"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Summertime Dream"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Spanish Moss"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Too Many Clues in this Room"
+      }
+    ]
   },
   {
     "musicAlbumId": 124,
@@ -3770,7 +5518,84 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "At the Library"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Don\u0027t Leave Me"
+      },
+      {
+        "trackNumber": 3,
+        "title": "I Was There"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Disappearing Boy"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Green Day"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Going to Pasalacqua"
+      },
+      {
+        "trackNumber": 7,
+        "title": "16"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Road to Acceptance"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Rest"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The Judge\u0027s Daughter"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Paper Lanterns"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Why Do You Want Him?"
+      },
+      {
+        "trackNumber": 13,
+        "title": "409 In Your Coffeemaker"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Knowledge"
+      },
+      {
+        "trackNumber": 15,
+        "title": "1,000 Hours"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Dry Ice"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Only of You"
+      },
+      {
+        "trackNumber": 18,
+        "title": "The One I Want"
+      },
+      {
+        "trackNumber": 19,
+        "title": "I Want to Be Alone"
+      }
+    ]
   },
   {
     "musicAlbumId": 123,
@@ -3792,7 +5617,64 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Burnout"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Having a Blast"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Chump"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Longview"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Welcome to Paradise"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Pulling Teeth"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Basket Case"
+      },
+      {
+        "trackNumber": 8,
+        "title": "She"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Sassafrass Roots"
+      },
+      {
+        "trackNumber": 10,
+        "title": "When I Come Around"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Coming Clean"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Enemius Sleepus"
+      },
+      {
+        "trackNumber": 13,
+        "title": "In the End"
+      },
+      {
+        "trackNumber": 14,
+        "title": "F.O.D."
+      }
+    ]
   },
   {
     "musicAlbumId": 120,
@@ -3814,7 +5696,92 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Maria"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Poprocks \u0026 Coke"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Longview"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Welcome to Paradise"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Basket Case"
+      },
+      {
+        "trackNumber": 6,
+        "title": "When I Come Around"
+      },
+      {
+        "trackNumber": 7,
+        "title": "She"
+      },
+      {
+        "trackNumber": 8,
+        "title": "J.A.R. (Jason Andrew Relva)"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Geek Stink Breath"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Brain Stew"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Jaded"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Walking Contradiction"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Stuck With Me"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Hitchin\u0027 a Ride"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Good Riddance (Time of Your Life)"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Redundant"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Nice Guys Finish Last"
+      },
+      {
+        "trackNumber": 18,
+        "title": "Minority"
+      },
+      {
+        "trackNumber": 19,
+        "title": "Warning"
+      },
+      {
+        "trackNumber": 20,
+        "title": "Waiting"
+      },
+      {
+        "trackNumber": 21,
+        "title": "Macy\u0027s Day Parade"
+      }
+    ]
   },
   {
     "musicAlbumId": 122,
@@ -3836,7 +5803,96 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Nice Guys Finish Last"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Hitchin\u0027 a Ride"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Grouch"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Redundant"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Scattered"
+      },
+      {
+        "trackNumber": 6,
+        "title": "All the Time"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Worry Rock"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Platypus (I Hate You)"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Uptight"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Last Ride In"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Jinx"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Haushinka"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Walking Alone"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Reject"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Take Back"
+      },
+      {
+        "trackNumber": 16,
+        "title": "King for a Day"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Good Riddance (Time of Your Life)"
+      },
+      {
+        "trackNumber": 18,
+        "title": "Prosthetic Head"
+      },
+      {
+        "trackNumber": 19,
+        "title": "Suffocate"
+      },
+      {
+        "trackNumber": 20,
+        "title": "Do Da Da"
+      },
+      {
+        "trackNumber": 21,
+        "title": "Desensitized"
+      },
+      {
+        "trackNumber": 22,
+        "title": "You Lied"
+      }
+    ]
   },
   {
     "musicAlbumId": 121,
@@ -3858,7 +5914,56 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Warning"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Blood, Sex and Booze"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Church on Sunday"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Fashion Victim"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Castaway"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Misery"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Deadbeat Holiday"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Hold On"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Jackass"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Waiting"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Minority"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Macy\u0027s Day Parade"
+      }
+    ]
   },
   {
     "musicAlbumId": 35,
@@ -3884,24 +5989,119 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Oh Lord, What Do You Know?"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Driving Through the Night"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The First Dead Body I Ever Saw"
+      },
+      {
+        "trackNumber": 4,
+        "title": "No Peace of Mind to Rest"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Talking to Your Tombstone"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Don\u0027t Go Throwing Roses in my Grave"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Hurry Me Down to Hades"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Anthem for the One I Love"
+      },
+      {
+        "trackNumber": 9,
+        "title": "At the Greyhound Station, Desperate"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Guest in Your House"
+      }
+    ]
   },
   {
     "musicAlbumId": 119,
     "title": "Elsie",
     "artist": "The Horrible Crowes",
-    "thoughts": "",
+    "thoughts": "A side project of Brian Fallon (Gaslight Anthem) and Ian Perkins. This album is one of my absolute favorite. Each song is amazing.",
     "coverImageUrl": "https://i.postimg.cc/bwVvsnNc/horriblecrowes-elsie.jpg",
     "isTopTen": true,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
     "formats": [
       {
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Last Rites"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Sugar"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Behold the Hurricane"
+      },
+      {
+        "trackNumber": 4,
+        "title": "I Witnessed A Crime"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Go Tell Everybody"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Cherry Blossoms"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Ladykiller"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Crush"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Mary Ann"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Black Betty \u0026 the Moon"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Blood Loss"
+      },
+      {
+        "trackNumber": 12,
+        "title": "I Believe Jesus Brought Us Together"
+      }
+    ]
   },
   {
     "musicAlbumId": 6,
@@ -3923,7 +6123,56 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Menace"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Searching for Light"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Burn Forever"
+      },
+      {
+        "trackNumber": 4,
+        "title": "After the Impossible"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Remnants"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Chewing on Broken Glass"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Fences"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Side of the Road"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Wildfire"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Bury Us All"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Touch the Sun"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Much Love"
+      }
+    ]
   },
   {
     "musicAlbumId": 114,
@@ -3945,7 +6194,136 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "My Dear Frodo"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Old Friends"
+      },
+      {
+        "trackNumber": 3,
+        "title": "An Unexpected Party"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Blunt the Knives"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Axe or Sword?"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Misty Mountains"
+      },
+      {
+        "trackNumber": 7,
+        "title": "The Adventure Begins"
+      },
+      {
+        "trackNumber": 8,
+        "title": "The World is Ahead"
+      },
+      {
+        "trackNumber": 9,
+        "title": "An Ancient Enemy"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Radagast the Brown"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The Trollshaws"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Roast Mutton"
+      },
+      {
+        "trackNumber": 13,
+        "title": "A Troll-hoard"
+      },
+      {
+        "trackNumber": 14,
+        "title": "The Hill of Sorcery"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Warg-scouts"
+      },
+      {
+        "trackNumber": 16,
+        "title": "The Hidden Valley"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Moon Runes"
+      },
+      {
+        "trackNumber": 18,
+        "title": "The Defiler"
+      },
+      {
+        "trackNumber": 19,
+        "title": "The White Council"
+      },
+      {
+        "trackNumber": 20,
+        "title": "Over Hill"
+      },
+      {
+        "trackNumber": 21,
+        "title": "A Thunder Battle"
+      },
+      {
+        "trackNumber": 22,
+        "title": "Under Hill"
+      },
+      {
+        "trackNumber": 23,
+        "title": "Riddles in the Dark"
+      },
+      {
+        "trackNumber": 24,
+        "title": "Brass Buttons"
+      },
+      {
+        "trackNumber": 25,
+        "title": "Out of the Frying-Pan"
+      },
+      {
+        "trackNumber": 26,
+        "title": "A Good Omen"
+      },
+      {
+        "trackNumber": 27,
+        "title": "Song of the Lonely Mountain"
+      },
+      {
+        "trackNumber": 28,
+        "title": "Dreaming of Bag End"
+      },
+      {
+        "trackNumber": 29,
+        "title": "A Very Respectable Hobbit"
+      },
+      {
+        "trackNumber": 30,
+        "title": "Erebor"
+      },
+      {
+        "trackNumber": 31,
+        "title": "The Dwarf Lords"
+      },
+      {
+        "trackNumber": 32,
+        "title": "The Edge of the Wild"
+      }
+    ]
   },
   {
     "musicAlbumId": 112,
@@ -3967,7 +6345,100 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Fire and Water"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Shores of the Long Lake"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Beyond Sorrow and Grief"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Guardians of the Three"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The Ruins of Dale"
+      },
+      {
+        "trackNumber": 6,
+        "title": "The Gathering of the Clouds"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Mithril"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Bred for War"
+      },
+      {
+        "trackNumber": 9,
+        "title": "A Thief in the Night"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The Clouds Burst"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Battle for the Mountain"
+      },
+      {
+        "trackNumber": 12,
+        "title": "The Darkest Hour"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Sons of Durin"
+      },
+      {
+        "trackNumber": 14,
+        "title": "The Fallen"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Ravenhill"
+      },
+      {
+        "trackNumber": 16,
+        "title": "To the Death"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Courage and Wisdom"
+      },
+      {
+        "trackNumber": 18,
+        "title": "The Return Journey"
+      },
+      {
+        "trackNumber": 19,
+        "title": "There and Back Again"
+      },
+      {
+        "trackNumber": 20,
+        "title": "The Last Goodbye"
+      },
+      {
+        "trackNumber": 21,
+        "title": "Ironfoot"
+      },
+      {
+        "trackNumber": 22,
+        "title": "Dragon-sickness"
+      },
+      {
+        "trackNumber": 23,
+        "title": "Thrain"
+      }
+    ]
   },
   {
     "musicAlbumId": 113,
@@ -3989,7 +6460,124 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "The Quest for Erebor"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Wilderland"
+      },
+      {
+        "trackNumber": 3,
+        "title": "A Necromancer"
+      },
+      {
+        "trackNumber": 4,
+        "title": "The House of Beorn"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Mirkwood"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Flies and Spiders"
+      },
+      {
+        "trackNumber": 7,
+        "title": "The Woodland Realm"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Feast of Starlight"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Barrels Out of Bond"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The Forest River"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Bard, a Man of Lake-town"
+      },
+      {
+        "trackNumber": 12,
+        "title": "The High Fells"
+      },
+      {
+        "trackNumber": 13,
+        "title": "The Nature of Evil"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Protector of Common Folk"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Thrice Welcome"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Girion, Lord of Dale"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Durin\u0027s Folk"
+      },
+      {
+        "trackNumber": 18,
+        "title": "In the Shadow of the Mountain"
+      },
+      {
+        "trackNumber": 19,
+        "title": "A Spell of Concealment"
+      },
+      {
+        "trackNumber": 20,
+        "title": "On the Doorstep"
+      },
+      {
+        "trackNumber": 21,
+        "title": "The Courage of Hobbits"
+      },
+      {
+        "trackNumber": 22,
+        "title": "Inside Information"
+      },
+      {
+        "trackNumber": 23,
+        "title": "Kingsfoil"
+      },
+      {
+        "trackNumber": 24,
+        "title": "A Liar and a Thief"
+      },
+      {
+        "trackNumber": 25,
+        "title": "The Hunters"
+      },
+      {
+        "trackNumber": 26,
+        "title": "Smaug"
+      },
+      {
+        "trackNumber": 27,
+        "title": "My Armor is Iron"
+      },
+      {
+        "trackNumber": 28,
+        "title": "I See Fire"
+      },
+      {
+        "trackNumber": 29,
+        "title": "Beyond the Forest"
+      }
+    ]
   },
   {
     "musicAlbumId": 117,
@@ -4011,7 +6599,80 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "The Prophecy"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Concerning Hobbits"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Shadow of the Past"
+      },
+      {
+        "trackNumber": 4,
+        "title": "The Treason of Isengard"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The Black Rider"
+      },
+      {
+        "trackNumber": 6,
+        "title": "At the Sign of the Prancing Pony"
+      },
+      {
+        "trackNumber": 7,
+        "title": "A Knife in the Dark"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Fight to the Ford"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Many Meetings"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The Council Of Elrond (Theme For Aragorn And Arwen)"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The Ring Goes South"
+      },
+      {
+        "trackNumber": 12,
+        "title": "A Journey in the Dark"
+      },
+      {
+        "trackNumber": 13,
+        "title": "The Bridge of Khazad Dum"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Lothlorien (\u0022Lament For Gandalf\u0022)"
+      },
+      {
+        "trackNumber": 15,
+        "title": "The Great River"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Amon Hen"
+      },
+      {
+        "trackNumber": 17,
+        "title": "The Breaking of the Fellowship"
+      },
+      {
+        "trackNumber": 18,
+        "title": "May It Be"
+      }
+    ]
   },
   {
     "musicAlbumId": 115,
@@ -4033,7 +6694,220 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Roots and Beginnings"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Journey to the Cross-Roads"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Road to Isengard"
+      },
+      {
+        "trackNumber": 4,
+        "title": "The Foot of the Orthanc"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Return to Edoras"
+      },
+      {
+        "trackNumber": 6,
+        "title": "The Chalice Passed"
+      },
+      {
+        "trackNumber": 7,
+        "title": "The Green Dragon"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Gollum\u0027s Villany"
+      },
+      {
+        "trackNumber": 9,
+        "title": "\u00C9owyn\u0027s Dream"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The Palant\u00EDr"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Flight From Edoras"
+      },
+      {
+        "trackNumber": 12,
+        "title": "The Palant\u00EDr"
+      },
+      {
+        "trackNumber": 13,
+        "title": "The Eyes of the White Tower"
+      },
+      {
+        "trackNumber": 14,
+        "title": "A Coronal of Silver and Gold"
+      },
+      {
+        "trackNumber": 15,
+        "title": "The Lighting of the Beacons"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Osgiliath Invaded"
+      },
+      {
+        "trackNumber": 17,
+        "title": "The Stairs of Cirith Ungol"
+      },
+      {
+        "trackNumber": 18,
+        "title": "Allegiance to Denethor"
+      },
+      {
+        "trackNumber": 19,
+        "title": "The Sacrifice of Faramir"
+      },
+      {
+        "trackNumber": 20,
+        "title": "The Parting of Sam and Frodo"
+      },
+      {
+        "trackNumber": 21,
+        "title": "Marshalling at Dunharrow"
+      },
+      {
+        "trackNumber": 22,
+        "title": "And\u00FAril - Flame of the West"
+      },
+      {
+        "trackNumber": 23,
+        "title": "The Passing of the Grey Company"
+      },
+      {
+        "trackNumber": 24,
+        "title": "Dwimorberg - The Haunted Mountain"
+      },
+      {
+        "trackNumber": 25,
+        "title": "Master Meriadoc, Swordthain"
+      },
+      {
+        "trackNumber": 26,
+        "title": "The Paths of the Dead"
+      },
+      {
+        "trackNumber": 27,
+        "title": "The Siege of Gondor"
+      },
+      {
+        "trackNumber": 28,
+        "title": "Shelob\u0027s Lair"
+      },
+      {
+        "trackNumber": 29,
+        "title": "Merry\u0027s Simple Courage"
+      },
+      {
+        "trackNumber": 30,
+        "title": "Grond - The Hammer of the Underworld"
+      },
+      {
+        "trackNumber": 31,
+        "title": "Shelob the Great"
+      },
+      {
+        "trackNumber": 32,
+        "title": "The Tomb of the Stewards"
+      },
+      {
+        "trackNumber": 33,
+        "title": "The Battle of the Pelennor Fields"
+      },
+      {
+        "trackNumber": 34,
+        "title": "The Pyre of Denethor"
+      },
+      {
+        "trackNumber": 35,
+        "title": "The M\u00FBmakil"
+      },
+      {
+        "trackNumber": 36,
+        "title": "Dernhelm In Battle"
+      },
+      {
+        "trackNumber": 37,
+        "title": "A Far Green Country"
+      },
+      {
+        "trackNumber": 38,
+        "title": "Shieldmaiden of Rohan"
+      },
+      {
+        "trackNumber": 39,
+        "title": "The Passing of Th\u00E9oden"
+      },
+      {
+        "trackNumber": 40,
+        "title": "The Houses of Healing"
+      },
+      {
+        "trackNumber": 41,
+        "title": "The Tower of Cirith Ungol"
+      },
+      {
+        "trackNumber": 42,
+        "title": "The Last Debate"
+      },
+      {
+        "trackNumber": 43,
+        "title": "The Land of Shadow"
+      },
+      {
+        "trackNumber": 44,
+        "title": "The Mouth of Sauron"
+      },
+      {
+        "trackNumber": 45,
+        "title": "\u0022For Frodo\u0022"
+      },
+      {
+        "trackNumber": 46,
+        "title": "Mount Doom"
+      },
+      {
+        "trackNumber": 47,
+        "title": "The Crack of Doom"
+      },
+      {
+        "trackNumber": 48,
+        "title": "The Eagles"
+      },
+      {
+        "trackNumber": 49,
+        "title": "The Fellowship Reunited"
+      },
+      {
+        "trackNumber": 50,
+        "title": "The Journey to the Grey Havens"
+      },
+      {
+        "trackNumber": 51,
+        "title": "Elanor"
+      },
+      {
+        "trackNumber": 52,
+        "title": "Days of the Ring"
+      },
+      {
+        "trackNumber": 53,
+        "title": "Bilbo\u0027s Song"
+      }
+    ]
   },
   {
     "musicAlbumId": 116,
@@ -4055,7 +6929,88 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Foundations of Stone"
+      },
+      {
+        "trackNumber": 2,
+        "title": "The Taming of Smeagol"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Riders of Rohan"
+      },
+      {
+        "trackNumber": 4,
+        "title": "The Passage of the Marshes"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The Uruk-hai"
+      },
+      {
+        "trackNumber": 6,
+        "title": "The King of the Golden Hall"
+      },
+      {
+        "trackNumber": 7,
+        "title": "The Black Gate is Closed"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Evenstar"
+      },
+      {
+        "trackNumber": 9,
+        "title": "The White Rider"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Treebeard"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The Leave Taking"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Helm\u0027s Deep"
+      },
+      {
+        "trackNumber": 13,
+        "title": "The Forbidden Pool"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Breath of Life"
+      },
+      {
+        "trackNumber": 15,
+        "title": "The Hornburg"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Forth Eorlingas"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Isengard Unleashed"
+      },
+      {
+        "trackNumber": 18,
+        "title": "Samwise the Brave"
+      },
+      {
+        "trackNumber": 19,
+        "title": "Gollum\u0027s Song"
+      },
+      {
+        "trackNumber": 20,
+        "title": "Farewell to Lorien"
+      }
+    ]
   },
   {
     "musicAlbumId": 118,
@@ -4065,14 +7020,72 @@
     "coverImageUrl": "https://i.postimg.cc/BnzqqGMJ/incubus-makeyourself.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Privilege"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Nowhere Fast"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Consequence"
+      },
+      {
+        "trackNumber": 4,
+        "title": "The Warmth"
+      },
+      {
+        "trackNumber": 5,
+        "title": "When it Comes"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Stellar"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Make Yourself"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Drive"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Clean"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Battlestar Scralatchtica"
+      },
+      {
+        "trackNumber": 11,
+        "title": "I Miss You"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Pardon Me"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Out From Under"
+      }
+    ]
   },
   {
     "musicAlbumId": 42,
@@ -4094,7 +7107,48 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Black Dresses"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Running Scared"
+      },
+      {
+        "trackNumber": 3,
+        "title": "I\u0027m Sorry, Too"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Rain in Miami"
+      },
+      {
+        "trackNumber": 5,
+        "title": "I Don\u0027t Love You"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Kiss Me on the Mouth"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Keep Fighting"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Until the Killers Come"
+      },
+      {
+        "trackNumber": 9,
+        "title": "When You Did"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Sing From Your Heart"
+      }
+    ]
   },
   {
     "musicAlbumId": 32,
@@ -4108,6 +7162,10 @@
       {
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
       }
     ],
     "formats": [
@@ -4116,7 +7174,48 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "The Guillotine"
+      },
+      {
+        "trackNumber": 2,
+        "title": "The Leo"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Deacon Ain\u0027t Dead Yet"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Totem"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The Runaround"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Interlude"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Heads or Tails"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Ditch Digger"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Basements"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Trenton Makes"
+      }
+    ]
   },
   {
     "musicAlbumId": 44,
@@ -4138,7 +7237,48 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Last of My Kind"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Cumberland Gap"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Tupelo"
+      },
+      {
+        "trackNumber": 4,
+        "title": "White Man\u0027s World"
+      },
+      {
+        "trackNumber": 5,
+        "title": "If We Were Vampires"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Anxiety"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Molotov"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Chaos and Clothes"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Hope the High Road"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Something to Love"
+      }
+    ]
   },
   {
     "musicAlbumId": 43,
@@ -4152,6 +7292,10 @@
       {
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Country",
+        "colorCode": "rgb(120, 74, 0)"
       }
     ],
     "formats": [
@@ -4160,7 +7304,60 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Death Wish"
+      },
+      {
+        "trackNumber": 2,
+        "title": "King of Oklahoma"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Strawberry Woman"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Middle of the Morning"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Save the World"
+      },
+      {
+        "trackNumber": 6,
+        "title": "If You Insist"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Cast Iron Skillet"
+      },
+      {
+        "trackNumber": 8,
+        "title": "When We Were Close"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Volunteer"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Vestavia Hills"
+      },
+      {
+        "trackNumber": 11,
+        "title": "White Beretta"
+      },
+      {
+        "trackNumber": 12,
+        "title": "This Ain\u0027t It"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Miles"
+      }
+    ]
   },
   {
     "musicAlbumId": 110,
@@ -4182,7 +7379,52 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Main Title / Locutus"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Red Alert"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Temporal Wake"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Welcome Aboard"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Fully Functional"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Retreat"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Evacuate"
+      },
+      {
+        "trackNumber": 8,
+        "title": "39.1 Degrees Celsius"
+      },
+      {
+        "trackNumber": 9,
+        "title": "The Dish"
+      },
+      {
+        "trackNumber": 10,
+        "title": "First Contact"
+      },
+      {
+        "trackNumber": 11,
+        "title": "End Credits"
+      }
+    ]
   },
   {
     "musicAlbumId": 25,
@@ -4204,7 +7446,52 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Ba\u0027Ku Village"
+      },
+      {
+        "trackNumber": 2,
+        "title": "In Custody"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Children\u0027s Story"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Not Functioning"
+      },
+      {
+        "trackNumber": 5,
+        "title": "New Sight"
+      },
+      {
+        "trackNumber": 6,
+        "title": "The Drones Attack"
+      },
+      {
+        "trackNumber": 7,
+        "title": "The Riker Maneuver"
+      },
+      {
+        "trackNumber": 8,
+        "title": "The Same Race"
+      },
+      {
+        "trackNumber": 9,
+        "title": "No Threat"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The Healing Process"
+      },
+      {
+        "trackNumber": 11,
+        "title": "End Credits"
+      }
+    ]
   },
   {
     "musicAlbumId": 108,
@@ -4214,14 +7501,68 @@
     "coverImageUrl": "https://i.postimg.cc/Hn3gFGrD/jimmyeatworld-chasethislight.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Pop Punk",
+        "colorCode": "rgb(32, 92, 9)"
+      }
+    ],
     "formats": [
       {
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Big Casino"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Let it Happen"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Always Be"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Carry You"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Electable (Give it Up)"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Gotta Be Somebody\u0027s Blues"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Feeling Lucky"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Here it Goes"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Chase This Light"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Firefight"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Dizzy"
+      }
+    ]
   },
   {
     "musicAlbumId": 109,
@@ -4231,14 +7572,68 @@
     "coverImageUrl": "https://i.postimg.cc/441sYcBL/jimmyeatworld-futures.jpg",
     "isTopTen": true,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Pop Punk",
+        "colorCode": "rgb(32, 92, 9)"
+      }
+    ],
     "formats": [
       {
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Futures"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Just Tonight..."
+      },
+      {
+        "trackNumber": 3,
+        "title": "Work"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Kill"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The World You Love"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Pain"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Drugs or Me"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Polaris"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Nothingwrong"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Night Drive"
+      },
+      {
+        "trackNumber": 11,
+        "title": "23"
+      }
+    ]
   },
   {
     "musicAlbumId": 107,
@@ -4248,14 +7643,68 @@
     "coverImageUrl": "https://i.postimg.cc/CLLYkK2F/jimmyeatworld-integrityblues.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Pop Punk",
+        "colorCode": "rgb(32, 92, 9)"
+      }
+    ],
     "formats": [
       {
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "You With Me"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Sure and Certain"
+      },
+      {
+        "trackNumber": 3,
+        "title": "It Matters"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Pretty Girls"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Pass the Baby"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Get Right"
+      },
+      {
+        "trackNumber": 7,
+        "title": "You are Free"
+      },
+      {
+        "trackNumber": 8,
+        "title": "The End is Beautiful"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Through"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Integrity Blues"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Pol Roger"
+      }
+    ]
   },
   {
     "musicAlbumId": 102,
@@ -4265,14 +7714,76 @@
     "coverImageUrl": "https://i.postimg.cc/yYQKPHq0/korn-followtheleader.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Hard Rock",
+        "colorCode": "rgb(13, 158, 154)"
+      },
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 13,
+        "title": "It\u0027s On"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Freak on a Leash"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Got the Life"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Dead Bodies Everywhere"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Children of the Korn"
+      },
+      {
+        "trackNumber": 18,
+        "title": "B.B.K."
+      },
+      {
+        "trackNumber": 19,
+        "title": "Pretty"
+      },
+      {
+        "trackNumber": 20,
+        "title": "All in the Family"
+      },
+      {
+        "trackNumber": 21,
+        "title": "Reclaim My Place"
+      },
+      {
+        "trackNumber": 22,
+        "title": "Justin"
+      },
+      {
+        "trackNumber": 23,
+        "title": "Seed"
+      },
+      {
+        "trackNumber": 24,
+        "title": "Cameltosis"
+      },
+      {
+        "trackNumber": 25,
+        "title": "My Gift to You"
+      }
+    ]
   },
   {
     "musicAlbumId": 101,
@@ -4282,14 +7793,88 @@
     "coverImageUrl": "https://i.postimg.cc/mgPsp5RJ/korn-issues.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Hard Rock",
+        "colorCode": "rgb(13, 158, 154)"
+      },
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Dead"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Falling Away From Me"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Trash"
+      },
+      {
+        "trackNumber": 4,
+        "title": "4 U"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Beg for Me"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Make Me Bad"
+      },
+      {
+        "trackNumber": 7,
+        "title": "It\u0027s Gonna Go Away"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Wake Up"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Am I Going Crazy"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Hey Daddy"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Somebody Someone"
+      },
+      {
+        "trackNumber": 12,
+        "title": "No Way"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Let\u0027s Get This Party Started"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Wish You Could Be Me"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Counting"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Dirty"
+      }
+    ]
   },
   {
     "musicAlbumId": 99,
@@ -4299,14 +7884,88 @@
     "coverImageUrl": "https://i.postimg.cc/kgLd0vg4/limpbizkit-significantother.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      },
+      {
+        "name": "Hard Rock",
+        "colorCode": "rgb(13, 158, 154)"
+      },
+      {
+        "name": "Nu Metal",
+        "colorCode": "rgb(16, 2, 55)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Intro"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Just Like This"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Nookie"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Break Stuff"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Re-Arranged"
+      },
+      {
+        "trackNumber": 6,
+        "title": "I\u0027m Broke"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Nobody Like You"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Don\u0027t Go Off Wandering"
+      },
+      {
+        "trackNumber": 9,
+        "title": "9 Teen 90 Nine"
+      },
+      {
+        "trackNumber": 10,
+        "title": "N 2 Gether Now"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Trust?"
+      },
+      {
+        "trackNumber": 12,
+        "title": "No Sex"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Show Me What You Got"
+      },
+      {
+        "trackNumber": 14,
+        "title": "A Lesson Learned"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Outro"
+      }
+    ]
   },
   {
     "musicAlbumId": 100,
@@ -4316,14 +7975,80 @@
     "coverImageUrl": "https://i.postimg.cc/Zq3h4vWL/limpbizkit-threedollarbillyall.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Hard Rock",
+        "colorCode": "rgb(13, 158, 154)"
+      },
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      },
+      {
+        "name": "Nu Metal",
+        "colorCode": "rgb(16, 2, 55)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Intro"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Pollution"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Counterfeit"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Stuck"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Nobody Loves Me"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Sour"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Stalemate"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Clunk"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Faith"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Stink Finger"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Indigo Flow"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Leech [Demo Version]"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Everything"
+      }
+    ]
   },
   {
     "musicAlbumId": 98,
@@ -4333,14 +8058,72 @@
     "coverImageUrl": "https://i.postimg.cc/85mQr8BJ/linkinpark-hybridtheory.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      },
+      {
+        "name": "Nu Metal",
+        "colorCode": "rgb(16, 2, 55)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Papercut"
+      },
+      {
+        "trackNumber": 2,
+        "title": "One Step Closer"
+      },
+      {
+        "trackNumber": 3,
+        "title": "With You"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Points of Authority"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Crawling"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Runaway"
+      },
+      {
+        "trackNumber": 7,
+        "title": "By Myself"
+      },
+      {
+        "trackNumber": 8,
+        "title": "In the End"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Place for My Head"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Forgotten"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Cure for the Itch"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Pushing Me Away"
+      }
+    ]
   },
   {
     "musicAlbumId": 96,
@@ -4350,31 +8133,183 @@
     "coverImageUrl": "https://i.postimg.cc/NMcvMGTv/linkinpark-meteora.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Nu Metal",
+        "colorCode": "rgb(16, 2, 55)"
+      },
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Foreword"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Don\u0027t Stay"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Somewhere I Belong"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Lying From You"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Hit the Floor"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Easier to Run"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Faint"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Figure.09"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Breaking the Habit"
+      },
+      {
+        "trackNumber": 10,
+        "title": "From the Inside"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Nobody\u0027s Listening"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Session"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Numb"
+      }
+    ]
   },
   {
     "musicAlbumId": 97,
     "title": "Reanimation",
     "artist": "Linkin Park",
-    "thoughts": "",
+    "thoughts": "I love so much about this album. The remixes of the songs, the guest vocals. It\u0027s just an amazing album.",
     "coverImageUrl": "https://i.postimg.cc/HnWGwSBS/linkinpark-reanimation.jpg",
     "isTopTen": true,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      },
+      {
+        "name": "Nu Metal",
+        "colorCode": "rgb(16, 2, 55)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Opening"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Pts. Of. Athrty"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Ente E ND"
+      },
+      {
+        "trackNumber": 4,
+        "title": "[Chali]"
+      },
+      {
+        "trackNumber": 5,
+        "title": "FRGT/10"
+      },
+      {
+        "trackNumber": 6,
+        "title": "P5hng Me A*wy"
+      },
+      {
+        "trackNumber": 7,
+        "title": "PLC. 4 Mie H\u00E6d"
+      },
+      {
+        "trackNumber": 8,
+        "title": "X-Ecutioner Style"
+      },
+      {
+        "trackNumber": 9,
+        "title": "H! Vltg3"
+      },
+      {
+        "trackNumber": 10,
+        "title": "[Riff Raff]"
+      },
+      {
+        "trackNumber": 11,
+        "title": "WTH\u003EYou"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Ntr\\Mssion"
+      },
+      {
+        "trackNumber": 13,
+        "title": "PPR: Kut"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Rnw@Y"
+      },
+      {
+        "trackNumber": 15,
+        "title": "My\u003CDSMBR"
+      },
+      {
+        "trackNumber": 16,
+        "title": "[Stef]"
+      },
+      {
+        "trackNumber": 17,
+        "title": "By_Myslf"
+      },
+      {
+        "trackNumber": 18,
+        "title": "Kyur4 TH Ich"
+      },
+      {
+        "trackNumber": 19,
+        "title": "1stp Klosr"
+      },
+      {
+        "trackNumber": 20,
+        "title": "KRWLNG"
+      }
+    ]
   },
   {
     "musicAlbumId": 95,
@@ -4384,14 +8319,68 @@
     "coverImageUrl": "https://i.postimg.cc/PJSg2m7d/lit-aplaceinthesun.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Four"
+      },
+      {
+        "trackNumber": 2,
+        "title": "My Own Worst Enemy"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Down"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Miserable"
+      },
+      {
+        "trackNumber": 5,
+        "title": "No Big Thing"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Zip-Lock"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Lovely Day"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Perfect One"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Quicksand"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Happy"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The Best is Yet to Come Undone"
+      },
+      {
+        "trackNumber": 12,
+        "title": "A Place in the Sun"
+      }
+    ]
   },
   {
     "musicAlbumId": 47,
@@ -4413,7 +8402,48 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Pretty Good Year"
+      },
+      {
+        "trackNumber": 2,
+        "title": "The Inquirer"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Bridge"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Sarah\u0027s Game"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Brittle Heart"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Selfish Masquerade"
+      },
+      {
+        "trackNumber": 7,
+        "title": "3rd Shift"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Louisana"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Dear Laura"
+      },
+      {
+        "trackNumber": 10,
+        "title": "I Swear"
+      }
+    ]
   },
   {
     "musicAlbumId": 40,
@@ -4435,7 +8465,32 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Distracted"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Last Call"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Spy Diddley"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Johnny 99"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Lovers Town Revisited"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Coma Girl"
+      }
+    ]
   },
   {
     "musicAlbumId": 46,
@@ -4457,7 +8512,60 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Suture Self"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Breathe In"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Jane"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Over 50 Club"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Please Be Here"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Hurry Up \u0026 Wait"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Sickening"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Living Will (Get You Dead)"
+      },
+      {
+        "trackNumber": 9,
+        "title": "The Odds"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Benson \u0026 Hedges"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Arsenic"
+      },
+      {
+        "trackNumber": 12,
+        "title": "100K"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Player Hater Anthem"
+      }
+    ]
   },
   {
     "musicAlbumId": 41,
@@ -4479,7 +8587,28 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "100K"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Chicken"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Massive"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Drastic"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Candy Cane"
+      }
+    ]
   },
   {
     "musicAlbumId": 94,
@@ -4489,14 +8618,64 @@
     "coverImageUrl": "https://i.postimg.cc/pLwgGVs5/lucero-amongtheghosts.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      },
+      {
+        "name": "Country",
+        "colorCode": "rgb(120, 74, 0)"
+      }
+    ],
     "formats": [
       {
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Among the Ghosts"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Bottom of the Sea"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Everything Has Changed"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Always Been You"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Cover Me"
+      },
+      {
+        "trackNumber": 6,
+        "title": "To My Dearest Wife"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Long Way Back Home"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Loving"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Back to the Night"
+      },
+      {
+        "trackNumber": 10,
+        "title": "For the Lonely Ones"
+      }
+    ]
   },
   {
     "musicAlbumId": 93,
@@ -4506,14 +8685,64 @@
     "coverImageUrl": "https://i.postimg.cc/YSQTJcPn/lucero-shouldvelearnedbynow.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Country",
+        "colorCode": "rgb(120, 74, 0)"
+      },
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
     "formats": [
       {
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "One Last F.U."
+      },
+      {
+        "trackNumber": 2,
+        "title": "Macon if We Make It"
+      },
+      {
+        "trackNumber": 3,
+        "title": "She Leads Me"
+      },
+      {
+        "trackNumber": 4,
+        "title": "At the Show"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Nothing\u0027s Alright"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Raining for Weeks"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Buy a Little Time"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Should\u0027ve Learned By Now"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Drunken Moon"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Time to Go Home"
+      }
+    ]
   },
   {
     "musicAlbumId": 92,
@@ -4523,14 +8752,68 @@
     "coverImageUrl": "https://i.postimg.cc/V6RpkqmX/matchbox20-yourselforsomeonelikeyou.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Real World"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Long Day"
+      },
+      {
+        "trackNumber": 3,
+        "title": "3 A.M."
+      },
+      {
+        "trackNumber": 4,
+        "title": "Push"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Girl Like That"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Back 2 Good"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Damn"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Argue"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Kody"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Busted"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Shame"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Hang"
+      }
+    ]
   },
   {
     "musicAlbumId": 91,
@@ -4540,14 +8823,68 @@
     "coverImageUrl": "https://i.postimg.cc/xT778TDp/meatloaf-batoutofhell2.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Classic Rock",
+        "colorCode": "rgb(182, 11, 105)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "I\u0027d Do Anything for Love (But I Won\u0027t Do That)"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Life is a Lemon and I Want My Money Back"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Rock \u0026 Roll Dreams Come Through"
+      },
+      {
+        "trackNumber": 4,
+        "title": "It Just Won\u0027t Quit"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Out of the Frying Pan (And Into the Fire)"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Objects in the Rear View Mirror May Appear Closer Than They Are"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Wasted Youth"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Everything Louder than Everything Else"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Good Girls Go To Heaven (Bad Girls Go Everywhere)"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Back into Hell"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Lost Boys and Golden Girls"
+      }
+    ]
   },
   {
     "musicAlbumId": 88,
@@ -4569,7 +8906,60 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Tellin\u0027 Lies"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Thick as Thieves"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Lookers"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Midwestern States"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Charlie\u0027s Army"
+      },
+      {
+        "trackNumber": 6,
+        "title": "House on Fire"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Black Mass"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Boy Blue"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Bad Catholics"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Your Wild Years"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The Bars"
+      },
+      {
+        "trackNumber": 12,
+        "title": "After the Party"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Livin\u0027 Ain\u0027t Easy"
+      }
+    ]
   },
   {
     "musicAlbumId": 21,
@@ -4591,7 +8981,56 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Who\u0027s Your Partner"
+      },
+      {
+        "trackNumber": 2,
+        "title": "I Was Born"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Home Outgrown"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Deep Sleep"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Time Tables"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Male Call"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Tasker-Morris Station"
+      },
+      {
+        "trackNumber": 8,
+        "title": "So It Goes"
+      },
+      {
+        "trackNumber": 9,
+        "title": "No We Didn\u0027t"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Rivalries"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Come Here Often"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Chamberlain Waits"
+      }
+    ]
   },
   {
     "musicAlbumId": 86,
@@ -4613,7 +9052,56 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "America (You\u0027re Freaking Me Out)"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Anna"
+      },
+      {
+        "trackNumber": 3,
+        "title": "High School Friend"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Last to Know"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Strangers Forever"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Hello Exile"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Portland"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Strain Your Memory"
+      },
+      {
+        "trackNumber": 9,
+        "title": "I Can\u0027t Stop Drinking"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Strawberry Mansion"
+      },
+      {
+        "trackNumber": 11,
+        "title": "London Drugs"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Farewell Youth"
+      }
+    ]
   },
   {
     "musicAlbumId": 87,
@@ -4635,7 +9123,56 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "America (You\u0027re Freaking Me Out)"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Anna"
+      },
+      {
+        "trackNumber": 3,
+        "title": "High School Friend"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Last to Know"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Strangers Forever"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Hello Exile"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Portland"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Strain Your Memory"
+      },
+      {
+        "trackNumber": 9,
+        "title": "I Can\u0027t Stop Drinking"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Strawberry Mansion"
+      },
+      {
+        "trackNumber": 11,
+        "title": "London Drugs"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Farewell Youth"
+      }
+    ]
   },
   {
     "musicAlbumId": 90,
@@ -4657,7 +9194,115 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Good Things"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Burn After Writing"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Obituaries"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Gates"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Ava House"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Sun Hotel"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Sculptors and Vandals"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Mexican Guitars"
+      },
+      {
+        "trackNumber": 9,
+        "title": "On the Impossible Past"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Nice Things"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Casey"
+      },
+      {
+        "trackNumber": 12,
+        "title": "I Can\u0027t Seem to Tell"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Freedom Bridge"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 179,
+    "title": "On the Possible Past",
+    "artist": "The Menzingers",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/26KjShKb/menzingers-on-the-possible-past.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Good Things (Demo)"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Burn (Demo)"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Ava (Demo)"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Sun Hotel #2 (Demo)"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Sculptors and Vandals (Demo)"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Casey (Demo)"
+      },
+      {
+        "trackNumber": 7,
+        "title": "I Can\u0027t Seem to Tell (Demo)"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Freedom Bridge (Demo)"
+      }
+    ]
   },
   {
     "musicAlbumId": 89,
@@ -4679,7 +9324,56 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "I Don\u0027t Wanna Be An Asshole Anymore"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Bad Things"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Rodent"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Where Your Heartache Exists"
+      },
+      {
+        "trackNumber": 5,
+        "title": "My Friend Kyle"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Transient Love"
+      },
+      {
+        "trackNumber": 7,
+        "title": "The Talk"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Nothing Feels Good Anymore"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Hearts Unknown"
+      },
+      {
+        "trackNumber": 10,
+        "title": "In Remission"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Sentimental Physics"
+      },
+      {
+        "trackNumber": 12,
+        "title": "When You Died"
+      }
+    ]
   },
   {
     "musicAlbumId": 18,
@@ -4705,7 +9399,68 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Hope is a Dangerous Little Thing"
+      },
+      {
+        "trackNumber": 2,
+        "title": "There\u0027s No Place in this World for Me"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Nobody Stays"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Some of it was True"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Try"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Come on Heartache"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Ultraviolet"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Take it to Heart"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Love at the End"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Alone in Dublin"
+      },
+      {
+        "trackNumber": 11,
+        "title": "High Low"
+      },
+      {
+        "trackNumber": 12,
+        "title": "I Didn\u0027t Miss You (Until You Were Gone)"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Running in the Roar of the Wind"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Gone West"
+      },
+      {
+        "trackNumber": 15,
+        "title": "The Last One Killed Me"
+      }
+    ]
   },
   {
     "musicAlbumId": 34,
@@ -4731,7 +9486,56 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Young Dionysians"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Fever Dreams"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Chips and Vics"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Baggy"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Silver Dollars"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Layovers"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Reverse"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Accessory"
+      },
+      {
+        "trackNumber": 9,
+        "title": "A Lot From Me"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Twenty Seven"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The Quarry"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Remember When"
+      }
+    ]
   },
   {
     "musicAlbumId": 33,
@@ -4757,7 +9561,52 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "1998"
+      },
+      {
+        "trackNumber": 2,
+        "title": "The Void"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Prussian Blue"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Selective Memory"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Evergreen"
+      },
+      {
+        "trackNumber": 6,
+        "title": "The Weekend"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Redeye (EWR_SNA)"
+      },
+      {
+        "trackNumber": 8,
+        "title": "So Long Siberia"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Jacob\u0027s Corporate Ladder"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Jane Way"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Basements"
+      }
+    ]
   },
   {
     "musicAlbumId": 82,
@@ -4779,7 +9628,116 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Free Speech for the Dumb"
+      },
+      {
+        "trackNumber": 2,
+        "title": "It\u0027s Electric"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Sabbra Cadabra"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Turn the Page"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Die, Die My Darling"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Loverman"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Mercyful Fate"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Astronomy"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Whiskey in the Jar"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Tuesday\u0027s Gone"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The More I See"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Helpless"
+      },
+      {
+        "trackNumber": 13,
+        "title": "The Small Hours"
+      },
+      {
+        "trackNumber": 14,
+        "title": "The Wait"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Crash Course in Brain Surgery"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Last Caress/Green Hell"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Am I Evil?"
+      },
+      {
+        "trackNumber": 18,
+        "title": "Blitzkrieg"
+      },
+      {
+        "trackNumber": 19,
+        "title": "Breadfan"
+      },
+      {
+        "trackNumber": 20,
+        "title": "The Prince"
+      },
+      {
+        "trackNumber": 21,
+        "title": "Stone Cold Crazy"
+      },
+      {
+        "trackNumber": 22,
+        "title": "So What"
+      },
+      {
+        "trackNumber": 23,
+        "title": "Killing Time"
+      },
+      {
+        "trackNumber": 24,
+        "title": "Overkill"
+      },
+      {
+        "trackNumber": 25,
+        "title": "Damage Case"
+      },
+      {
+        "trackNumber": 26,
+        "title": "Stone Dead Forever"
+      },
+      {
+        "trackNumber": 27,
+        "title": "Too Late Too Late"
+      }
+    ]
   },
   {
     "musicAlbumId": 84,
@@ -4801,7 +9759,64 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Ain\u0027t My Bitch"
+      },
+      {
+        "trackNumber": 2,
+        "title": "2 X 4"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The House Jack Built"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Until It Sleeps"
+      },
+      {
+        "trackNumber": 5,
+        "title": "King Nothing"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Hero of the Day"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Bleeding Me"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Cure"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Poor Twisted Me"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Wasting My Hate"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Mama Said"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Thorn Within"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Ronnie"
+      },
+      {
+        "trackNumber": 14,
+        "title": "The Outlaw Torn"
+      }
+    ]
   },
   {
     "musicAlbumId": 85,
@@ -4823,7 +9838,56 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Enter Sandman"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Sad But True"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Holier Than Thou"
+      },
+      {
+        "trackNumber": 4,
+        "title": "The Unforgiven"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Wherever I May Roam"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Don\u0027t Tread On Me"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Through the Never"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Nothing Else Matters"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Of Wolf and Man"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The God that Failed"
+      },
+      {
+        "trackNumber": 11,
+        "title": "My Friend of Misery"
+      },
+      {
+        "trackNumber": 12,
+        "title": "The Struggle Within"
+      }
+    ]
   },
   {
     "musicAlbumId": 83,
@@ -4845,13 +9909,66 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Fuel"
+      },
+      {
+        "trackNumber": 2,
+        "title": "The Memory Remains"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Devil\u0027s Dance"
+      },
+      {
+        "trackNumber": 4,
+        "title": "The Unforgiven II"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Better Than You"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Slither"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Carpe Diem Baby"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Bad Seed"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Where the Wild Things Are"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Prince Charming"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Low Man\u0027s Lyric"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Attitude"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Fixxxer"
+      }
+    ]
   },
   {
     "musicAlbumId": 81,
     "title": "S\u0026M",
     "artist": "Metallica",
-    "thoughts": "",
+    "thoughts": "This album is a fantastic mix of metal and classical music. Metallica and a symphony go amazingly well together.",
     "coverImageUrl": "https://i.postimg.cc/bvR3xqWh/metallica-sm.jpg",
     "isTopTen": true,
     "showOnNowPage": false,
@@ -4859,6 +9976,10 @@
       {
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
+      },
+      {
+        "name": "Live Albums",
+        "colorCode": "rgb(92, 19, 162)"
       }
     ],
     "formats": [
@@ -4871,7 +9992,92 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "The Ecstasy of Gold"
+      },
+      {
+        "trackNumber": 2,
+        "title": "The Call of Ktulu"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Master of Puppets"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Of Wolf and Man"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The Thing That Should Not Be"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Fuel"
+      },
+      {
+        "trackNumber": 7,
+        "title": "The Memory Remains"
+      },
+      {
+        "trackNumber": 8,
+        "title": "No Leaf Clover"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Hero of the Day"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Devil\u0027s Dance"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Bleeding Me"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Nothing Else Matters"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Until It Sleeps"
+      },
+      {
+        "trackNumber": 14,
+        "title": "For Whom the Bell Tolls"
+      },
+      {
+        "trackNumber": 15,
+        "title": "- Human"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Wherever I May Roam"
+      },
+      {
+        "trackNumber": 17,
+        "title": "The Outlaw Torn"
+      },
+      {
+        "trackNumber": 18,
+        "title": "Sad But True"
+      },
+      {
+        "trackNumber": 19,
+        "title": "One"
+      },
+      {
+        "trackNumber": 20,
+        "title": "Enter Sandman"
+      },
+      {
+        "trackNumber": 21,
+        "title": "Battery"
+      }
+    ]
   },
   {
     "musicAlbumId": 80,
@@ -4893,7 +10099,52 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Frantic"
+      },
+      {
+        "trackNumber": 2,
+        "title": "St. Anger"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Some Kind of Monster"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Dirty Window"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Invisible Kid"
+      },
+      {
+        "trackNumber": 6,
+        "title": "My World"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Shoot Me Again"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Sweet Amber"
+      },
+      {
+        "trackNumber": 9,
+        "title": "The Unnamed Feeling"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Purify"
+      },
+      {
+        "trackNumber": 11,
+        "title": "All Within My Hands"
+      }
+    ]
   },
   {
     "musicAlbumId": 78,
@@ -4915,7 +10166,68 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Star Trek"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Nailin\u0027 the Kelvin"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Labor of Love"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Hella Bar Talk"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Enterprising Young Men"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Nero Sighted"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Nice to Meld You"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Run and Shoot Offense"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Does it Still McFly"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Nero Death Experience"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Nero Fiddles, Narada Burns"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Back from Black"
+      },
+      {
+        "trackNumber": 13,
+        "title": "That New Car Smell"
+      },
+      {
+        "trackNumber": 14,
+        "title": "To Boldly Go"
+      },
+      {
+        "trackNumber": 15,
+        "title": "End Credits"
+      }
+    ]
   },
   {
     "musicAlbumId": 77,
@@ -4937,7 +10249,68 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Logos / Pranking the Natives"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Spock Drops, Kirk Jumps"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Sub Prime Directive"
+      },
+      {
+        "trackNumber": 4,
+        "title": "London Calling"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Mind-merized"
+      },
+      {
+        "trackNumber": 6,
+        "title": "The Kronos Wartet"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Brigadoom"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Ship to Ship"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Earthbound and Down"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Warp Core Values"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Buying the Space Farm"
+      },
+      {
+        "trackNumber": 12,
+        "title": "The San Fran Hustle"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Kirk Enterprises"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Star Trek Main Theme"
+      },
+      {
+        "trackNumber": 15,
+        "title": "The Growl"
+      }
+    ]
   },
   {
     "musicAlbumId": 76,
@@ -4947,14 +10320,72 @@
     "coverImageUrl": "https://i.postimg.cc/5yD34yYw/mindinabox-crossroads.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Electronic",
+        "colorCode": "rgb(127, 149, 0)"
+      }
+    ],
     "formats": [
       {
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Introspection"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Amnesia"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Into the Night"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Identity"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Lucid Dreams 1"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Fear"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Stalkers"
+      },
+      {
+        "trackNumber": 8,
+        "title": "What Used to Be"
+      },
+      {
+        "trackNumber": 9,
+        "title": "The Place"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Redefined"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Lucid Dreams 2"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Crossroads"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Run for Your Life"
+      }
+    ]
   },
   {
     "musicAlbumId": 79,
@@ -4964,14 +10395,64 @@
     "coverImageUrl": "https://i.postimg.cc/Vsh4BGGd/muse-resistance.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
     "formats": [
       {
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Uprising"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Resistance"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Undisclosed Desires"
+      },
+      {
+        "trackNumber": 4,
+        "title": "United States of Eurasia (\u002BCollateral Damage)"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Guiding Light"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Unnatural Selection"
+      },
+      {
+        "trackNumber": 7,
+        "title": "MK Ultra"
+      },
+      {
+        "trackNumber": 8,
+        "title": "I Belong to You (\u002BMon Coeur S\u0027Ouvre a Ta Voix)"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Exogenesis: Symphony, Pt. 1 (Overture)"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Exogenesis: Symphony, Pt. 2 (Cross-pollination)"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Exogenesis: Symphony, Pt. 3 (Redemption)"
+      }
+    ]
   },
   {
     "musicAlbumId": 75,
@@ -4981,14 +10462,72 @@
     "coverImageUrl": "https://i.postimg.cc/pXnC0f4k/natalieimbruglia-leftofthemiddle.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Pop",
+        "colorCode": "rgb(35, 96, 43)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Torn"
+      },
+      {
+        "trackNumber": 2,
+        "title": "One More Addiction"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Big Mistake"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Leave Me Alone"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Wishing I Was There"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Smoke"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Pigeons and Crumbs"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Don\u0027t You Think"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Impressed"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Intuition"
+      },
+      {
+        "trackNumber": 11,
+        "title": "City"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Left of the Middle"
+      }
+    ]
   },
   {
     "musicAlbumId": 48,
@@ -4998,14 +10537,64 @@
     "coverImageUrl": "https://i.postimg.cc/YCK3T4w7/nothington-intheend.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
     "formats": [
       {
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Already There"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Cobblestones"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Lies I Need"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Burn After Reading"
+      },
+      {
+        "trackNumber": 5,
+        "title": "End Transmission"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Things We Used to Say"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Nothing But Beaches"
+      },
+      {
+        "trackNumber": 8,
+        "title": "The Hard Way"
+      },
+      {
+        "trackNumber": 9,
+        "title": "It Comes and Goes"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Capture"
+      },
+      {
+        "trackNumber": 11,
+        "title": "In the End"
+      }
+    ]
   },
   {
     "musicAlbumId": 74,
@@ -5015,14 +10604,72 @@
     "coverImageUrl": "https://i.postimg.cc/zGCjNJJg/orgy-candyass.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Nu Metal",
+        "colorCode": "rgb(16, 2, 55)"
+      },
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Social Enemies"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Stitches"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Dissention"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Platinum"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Fetisha"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Fiend"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Blue Monday"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Gender"
+      },
+      {
+        "trackNumber": 9,
+        "title": "All the Same"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Pantomime"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Revival"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Dizzy"
+      }
+    ]
   },
   {
     "musicAlbumId": 73,
@@ -5032,14 +10679,76 @@
     "coverImageUrl": "https://i.postimg.cc/CKw4LW16/orgy-vaportransmission.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Nu Metal",
+        "colorCode": "rgb(16, 2, 55)"
+      },
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Vapor Transmission"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Suckerface"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Odyssey"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Opticon"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Fiction (Dreams in Digital)"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Eva"
+      },
+      {
+        "trackNumber": 7,
+        "title": "107"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Dramatica"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Eyes-Radio-Lies"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Saving Faces"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Re-Creation"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Chasing Sirens"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Where\u0027s Gerroid"
+      }
+    ]
   },
   {
     "musicAlbumId": 72,
@@ -5053,6 +10762,10 @@
       {
         "name": "Metal",
         "colorCode": "rgb(68, 56, 155)"
+      },
+      {
+        "name": "Nu Metal",
+        "colorCode": "rgb(16, 2, 55)"
       }
     ],
     "formats": [
@@ -5061,7 +10774,60 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "An Eyeis Upon You"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Super Nova Goes Pop"
+      },
+      {
+        "trackNumber": 3,
+        "title": "When Worlds Collide"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Nobody\u0027s Real"
+      },
+      {
+        "trackNumber": 5,
+        "title": "System 11:11"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Tonight the Stars Revolt!"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Automatic"
+      },
+      {
+        "trackNumber": 8,
+        "title": "The Son of X-51"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Operate, Annihillate"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Blast Off to Nowhere"
+      },
+      {
+        "trackNumber": 11,
+        "title": "They Know Who You Are"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Good Times Roll"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Watch the Sky for Me"
+      }
+    ]
   },
   {
     "musicAlbumId": 71,
@@ -5071,14 +10837,68 @@
     "coverImageUrl": "https://i.postimg.cc/LXbkD5Vr/rem-collapseintonow.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
     "formats": [
       {
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Discoverer"
+      },
+      {
+        "trackNumber": 2,
+        "title": "All the Best"
+      },
+      {
+        "trackNumber": 3,
+        "title": "\u00DCBerlin"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Oh My Heart"
+      },
+      {
+        "trackNumber": 5,
+        "title": "It Happened Today"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Every Day is Yours to Win"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Mine Smell Like Honey"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Walk it Back"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Alligator_Aviator_Autopilot_Antimatter"
+      },
+      {
+        "trackNumber": 10,
+        "title": "That Someone is You"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Me, Marlon Brando, Marlon Brando and I"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Blue"
+      }
+    ]
   },
   {
     "musicAlbumId": 70,
@@ -5100,7 +10920,56 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Testify"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Guerilla Radio"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Calm Like a Bomb"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Mic Check"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Sleep Now in the Fire"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Born of a Broken Man"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Born as Ghosts"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Maria"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Voice of the Voiceless"
+      },
+      {
+        "trackNumber": 10,
+        "title": "New Millenium Homes"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Ashes in the Fall"
+      },
+      {
+        "trackNumber": 12,
+        "title": "War Within a Breath"
+      }
+    ]
   },
   {
     "musicAlbumId": 22,
@@ -5122,7 +10991,56 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Where Does the Time Go"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Baby of the Year"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Did You Know"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Love a Liar"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Young, Beautiful \u0026 Broke"
+      },
+      {
+        "trackNumber": 6,
+        "title": "100,000 Candles"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Paradise"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Edmond Girls"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Doin\u0027 it for Love"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Apocalypse, Please!"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Fremont Casino"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Gutterland"
+      }
+    ]
   },
   {
     "musicAlbumId": 28,
@@ -5134,8 +11052,8 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "name": "Alternative",
-        "colorCode": "rgb(11, 148, 129)"
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
@@ -5144,7 +11062,48 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Two Notes Shy of an Octave"
+      },
+      {
+        "trackNumber": 2,
+        "title": "A Version of Events"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Show Me on the Doll Where the Music Touched You"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Joy Comes with the Morning"
+      },
+      {
+        "trackNumber": 5,
+        "title": "A Joke with No Words"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Don\u0027t Be a Hero, Find a Friend"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Purple Heart Paperweight"
+      },
+      {
+        "trackNumber": 8,
+        "title": "I\u0027ll Take a Mile"
+      },
+      {
+        "trackNumber": 9,
+        "title": "We Know Who We Are"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The Silence Betweeen"
+      }
+    ]
   },
   {
     "musicAlbumId": 69,
@@ -5154,14 +11113,80 @@
     "coverImageUrl": "https://i.postimg.cc/Znv8Mm70/rhcp-californication.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Around the World"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Parallel Universe"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Scar Tissue"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Otherside"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Get on Top"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Californication"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Easily"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Porcelain"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Emit Remmus"
+      },
+      {
+        "trackNumber": 10,
+        "title": "I Like Dirt"
+      },
+      {
+        "trackNumber": 11,
+        "title": "This Velvet Glove"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Savior"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Purple Stain"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Right on Time"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Road Trippin\u0027"
+      }
+    ]
   },
   {
     "musicAlbumId": 67,
@@ -5183,7 +11208,56 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "The Great Die-Off"
+      },
+      {
+        "trackNumber": 2,
+        "title": "I Don\u0027t Want to Be Here Anymore"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Tragedy \u002B Time"
+      },
+      {
+        "trackNumber": 4,
+        "title": "The Black Market"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The Eco-Terrorist in Me"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Sudden Life"
+      },
+      {
+        "trackNumber": 7,
+        "title": "A Beautiful Indifference"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Methadone"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Zero Visibility"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Awake Too Long"
+      },
+      {
+        "trackNumber": 11,
+        "title": "People Live Here"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Bridges"
+      }
+    ]
   },
   {
     "musicAlbumId": 68,
@@ -5205,7 +11279,56 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Architects"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Help is on the Way"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Make It Stop (September\u0027s Children)"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Disparity By Design"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Satellite"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Midnight Hands"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Survivor Guilt"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Broken Mirrors"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Wait For Me"
+      },
+      {
+        "trackNumber": 10,
+        "title": "A Gentlemen\u0027s Coup"
+      },
+      {
+        "trackNumber": 11,
+        "title": "This is Letting Go"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Endgame"
+      }
+    ]
   },
   {
     "musicAlbumId": 10,
@@ -5231,7 +11354,68 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Evergreen"
+      },
+      {
+        "trackNumber": 2,
+        "title": "23 Stitches"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Glory (Broken Dove)"
+      },
+      {
+        "trackNumber": 4,
+        "title": "There is a Light"
+      },
+      {
+        "trackNumber": 5,
+        "title": "x1998x"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Becoming Human"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Breakwater"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Little Black Diamond"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Arcangels of Tornados"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The Great Pontificator"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The Wildest Horses"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Little Lupine"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Bella Rose"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Southpaw"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Texas Scorpion (The Outlaw Blues)"
+      }
+    ]
   },
   {
     "musicAlbumId": 66,
@@ -5253,7 +11437,32 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Sparks of Recovery"
+      },
+      {
+        "trackNumber": 2,
+        "title": "St. Louis"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Let Go"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Justice and Fair Shake"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Vagabond"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Before Dust"
+      }
+    ]
   },
   {
     "musicAlbumId": 64,
@@ -5263,14 +11472,84 @@
     "coverImageUrl": "https://i.postimg.cc/7ZkR0thS/smashmouth-astrolounge.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Pop",
+        "colorCode": "rgb(35, 96, 43)"
+      },
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Who\u0027s There"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Diggin\u0027 Your Scene"
+      },
+      {
+        "trackNumber": 3,
+        "title": "I Just Wanna See"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Waste"
+      },
+      {
+        "trackNumber": 5,
+        "title": "All Star"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Satellite"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Radio"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Stoned"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Then the Morning Comes"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Road Man"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Fallen Horses"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Defeat You"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Come on, Come on"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Home"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Can\u0027t Get Enough of You Baby"
+      }
+    ]
   },
   {
     "musicAlbumId": 65,
@@ -5280,14 +11559,72 @@
     "coverImageUrl": "https://i.postimg.cc/3wrbbygR/smashmouth-fushyumang.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Pop",
+        "colorCode": "rgb(35, 96, 43)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Flo"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Beer Goggles"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Walkin\u0027 on the Sun"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Let\u0027s Rock"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Heave-Ho"
+      },
+      {
+        "trackNumber": 6,
+        "title": "The Fonz"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Pet Names"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Padrino"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Nervous in the Alley"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Disconnect the Dots"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Push"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Why Can\u0027t We Be Friends"
+      }
+    ]
   },
   {
     "musicAlbumId": 63,
@@ -5297,14 +11634,64 @@
     "coverImageUrl": "https://i.postimg.cc/TPkH8R9c/spanishlovesongs-bravefaceseveryone.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      },
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
     "formats": [
       {
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Routinepain"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Self-Destruction (As a Sensible Career Choice)"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Generation Loss"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Kick"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Beachfront Property"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Losers"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Optimism (As a Radical Life Choice)"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Loser 2"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Dolores"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Brave Faces, Everyone"
+      }
+    ]
   },
   {
     "musicAlbumId": 31,
@@ -5314,14 +11701,72 @@
     "coverImageUrl": "https://i.postimg.cc/q7CdNZKW/spanishlovesongs-nojoy.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
     "formats": [
       {
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Lifers"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Pendelum"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Haunted"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Clean-Up Crew"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Middle of Nine"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Marvel"
+      },
+      {
+        "trackNumber": 7,
+        "title": "I\u0027m Gonna Miss Everything"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Rapture Chaser"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Mutable"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Here You Are"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Exit Bags"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Re-Emerging Signs of the Apocalypse"
+      }
+    ]
   },
   {
     "musicAlbumId": 20,
@@ -5347,7 +11792,52 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Nuevo"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Sequels, Remakes, \u0026 Adaptations"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Bellyache"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Buffalo Buffalo"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Otis / Carl"
+      },
+      {
+        "trackNumber": 6,
+        "title": "The Boy Considers His Haircut"
+      },
+      {
+        "trackNumber": 7,
+        "title": "El Ni\u00F1o Considers His Failures"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Joana, In Five Acts"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Beer \u0026 NyQuil (Hold it Together)"
+      },
+      {
+        "trackNumber": 10,
+        "title": "It\u0027s Not Interesting"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Aloha to No One"
+      }
+    ]
   },
   {
     "musicAlbumId": 62,
@@ -5357,14 +11847,68 @@
     "coverImageUrl": "https://i.postimg.cc/gJntmftb/sr71-nowyouseeinside.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Pop",
+        "colorCode": "rgb(35, 96, 43)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Politcally Correct"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Right Now"
+      },
+      {
+        "trackNumber": 3,
+        "title": "What a Mess"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Last Man on the Moon"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Empty Spaces"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Another Night Alone"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Alive"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Fame (What She\u0027s Wanting)"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Go Away"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Non-Toxic"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Paul McCartney"
+      }
+    ]
   },
   {
     "musicAlbumId": 61,
@@ -5386,7 +11930,52 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Gone Sovereign"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Absolute Zero"
+      },
+      {
+        "trackNumber": 3,
+        "title": "A Rumor of Skin"
+      },
+      {
+        "trackNumber": 4,
+        "title": "The Travelers (Pt. 1)"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Tired"
+      },
+      {
+        "trackNumber": 6,
+        "title": "RU486"
+      },
+      {
+        "trackNumber": 7,
+        "title": "My Name is Allen"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Taciturn"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Influence of a Drowsy God"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The Travelers (Pt. 2)"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Last of the Real"
+      }
+    ]
   },
   {
     "musicAlbumId": 60,
@@ -5408,7 +11997,56 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Red City"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Black John"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Sadist"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Peckinpah"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Stalemate"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Gravesend"
+      },
+      {
+        "trackNumber": 7,
+        "title": "\u002782"
+      },
+      {
+        "trackNumber": 8,
+        "title": "The Uncanny Valley"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Blue Smoke"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Do Me a Favor"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The Conflaguration"
+      },
+      {
+        "trackNumber": 12,
+        "title": "The House of Gold \u0026 Bones"
+      }
+    ]
   },
   {
     "musicAlbumId": 59,
@@ -5430,7 +12068,76 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Garden Grove"
+      },
+      {
+        "trackNumber": 2,
+        "title": "What I Got"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Wrong Way"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Same in the End"
+      },
+      {
+        "trackNumber": 5,
+        "title": "April 29, 1992 (Miami)"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Santeria"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Seed"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Jailhouse"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Pawn Shop"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Paddle Out"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The Ballad of Johnny Butt"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Burritos"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Under My Voodoo"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Get Ready"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Caress Me Down"
+      },
+      {
+        "trackNumber": 16,
+        "title": "What I Got (Reprise)"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Doin\u0027 Time"
+      }
+    ]
   },
   {
     "musicAlbumId": 58,
@@ -5440,14 +12147,68 @@
     "coverImageUrl": "https://i.postimg.cc/BQW7f7xR/sugarray-sugarray.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Pop",
+        "colorCode": "rgb(35, 96, 43)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Answer the Phone"
+      },
+      {
+        "trackNumber": 2,
+        "title": "When It\u0027s Over"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Under the Sun"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Satellites"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Waiting"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Ours"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Sorry Now"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Stay On"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Words To Me"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Just a Little"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Disasterpiece"
+      }
+    ]
   },
   {
     "musicAlbumId": 171,
@@ -5469,7 +12230,48 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Trash Inspirations"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Avoiding Catatonic Surrender"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Dog Bumped"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Church of the Level Track"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Exit Wounds"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Cardinal in Red Bed"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Shoulda Oughta"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Steel Road"
+      },
+      {
+        "trackNumber": 9,
+        "title": "C\u0027Mon Quinn"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Wait at Milano"
+      }
+    ]
   },
   {
     "musicAlbumId": 170,
@@ -5491,7 +12293,60 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Ain\u0027t Much for Talking"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Free as the Wild"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Glorious"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Cab 13"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Grace"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Swann Street"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Bella \u0026 Charlie"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Dad\u0027s iPad"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Camile"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The Breeze"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Cherry Isle"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Corner Store"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Switch Key"
+      }
+    ]
   },
   {
     "musicAlbumId": 24,
@@ -5517,7 +12372,48 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "All Yours"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Crawling"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Fit to be Tied"
+      },
+      {
+        "trackNumber": 4,
+        "title": "High Hopes"
+      },
+      {
+        "trackNumber": 5,
+        "title": "4000 Days"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Tentacle"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Three Wishes"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Loons"
+      },
+      {
+        "trackNumber": 9,
+        "title": "They Know"
+      },
+      {
+        "trackNumber": 10,
+        "title": "When All of This is Over"
+      }
+    ]
   },
   {
     "musicAlbumId": 111,
@@ -5539,7 +12435,84 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Star Trek Main Title"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Suite from the Trouble With Tribbles: Bartender Bit/They Quibble Over"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Suite from the Trouble With Tribbles: Muzak Maker, the/Scherzo Maker,"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Suite from the Trouble With Tribbles: Matter of Pride, A/No Tribble a"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Star Trek: The Next Generation Main Title"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Suite from Heart of Glory: Moment of Decesion/Battle Signs/Geordi Vis"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Suite from Heart of Glory: A Klingon\u0027s Feelings/Let\u0027s Make a Phaser/H"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Orchestral Suite from the Inner Light"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Star Trek: Deep Space Nine Main Title"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Suite from the Visitor: Rainy Night"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Suite from the Visitor: Steve O\u0027s Cue/Freaked Out"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Suite from the Visitor: Dad Admonishes"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Suite from the Visitor: One Last Visit"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Second Chance"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Start Trek: Voyager Main Title"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Suite from Heroes and Demons: Last Hope"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Suite from the Visitor: Dr. Scweitzer"
+      },
+      {
+        "trackNumber": 18,
+        "title": "Suite from the Visitor: Armagonnen"
+      },
+      {
+        "trackNumber": 19,
+        "title": "Suite from the Visitor: Where\u0027s Freya/To the Rescue"
+      }
+    ]
   },
   {
     "musicAlbumId": 57,
@@ -5549,14 +12522,68 @@
     "coverImageUrl": "https://i.postimg.cc/DzzBP9T4/wallflowers-bringingdownthehorse.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Pop",
+        "colorCode": "rgb(35, 96, 43)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "One Headlight"
+      },
+      {
+        "trackNumber": 2,
+        "title": "6th Avenue Heartache"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Bleeders"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Three Marlenas"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The Difference"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Invisible City"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Laughing Out Loud"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Josephine"
+      },
+      {
+        "trackNumber": 9,
+        "title": "God Don\u0027t Make Lonely Girls"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Angel on My Bike"
+      },
+      {
+        "trackNumber": 11,
+        "title": "I Wish I Felt Nothing"
+      }
+    ]
   },
   {
     "musicAlbumId": 56,
@@ -5566,14 +12593,72 @@
     "coverImageUrl": "https://i.postimg.cc/YSy8ndrn/weezer-maladroit.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Pop Punk",
+        "colorCode": "rgb(32, 92, 9)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "American Gigolo"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Dope Nose"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Keep Fishin\u0027"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Take Control"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Death and Destruction"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Slob"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Burndt Jamb"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Space Rock"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Slave"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Fall Together"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Possibilities"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Love Explosion"
+      },
+      {
+        "trackNumber": 13,
+        "title": "December"
+      }
+    ]
   },
   {
     "musicAlbumId": 55,
@@ -5583,14 +12668,68 @@
     "coverImageUrl": "https://i.postimg.cc/rm0jv5z8/weirdal-badhairday.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Pop",
+        "colorCode": "rgb(35, 96, 43)"
+      }
+    ],
     "formats": [
       {
         "name": "CD",
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Amish Paradise"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Everything You Know is Wrong"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Cavity Search"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Callin\u0027 in Sick"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Alternative Polka"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Since You\u0027ve Been Gone"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Gump"
+      },
+      {
+        "trackNumber": 8,
+        "title": "I\u0027m So Sick of You"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Syndicated Inc."
+      },
+      {
+        "trackNumber": 10,
+        "title": "I Remember Larry"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Phoney Calls"
+      },
+      {
+        "trackNumber": 12,
+        "title": "The Night Santa Went Crazy"
+      }
+    ]
   },
   {
     "musicAlbumId": 54,
@@ -5600,14 +12739,68 @@
     "coverImageUrl": "https://i.postimg.cc/NM3DYLrR/weirdal-mandatoryfun.jpg",
     "isTopTen": false,
     "showOnNowPage": false,
-    "genres": [],
+    "genres": [
+      {
+        "name": "Pop",
+        "colorCode": "rgb(35, 96, 43)"
+      }
+    ],
     "formats": [
       {
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Handy"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Lame Claim to Fame"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Foil"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Sports Song"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Word Crimes"
+      },
+      {
+        "trackNumber": 6,
+        "title": "My Own Eyes"
+      },
+      {
+        "trackNumber": 7,
+        "title": "NOW That\u0027s What I Call Polka!"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Mission Statement"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Inactive"
+      },
+      {
+        "trackNumber": 10,
+        "title": "First World Problems"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Tacky"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Jackson Park Express"
+      }
+    ]
   },
   {
     "musicAlbumId": 15,
@@ -5629,7 +12822,44 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Sounds of the Market Crashing"
+      },
+      {
+        "trackNumber": 2,
+        "title": "King for a King"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Advert Soundtrack"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Newborn"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Lost My Mind in Soho"
+      },
+      {
+        "trackNumber": 6,
+        "title": "I Think of You Sometimes"
+      },
+      {
+        "trackNumber": 7,
+        "title": "A Monkey on a Rock"
+      },
+      {
+        "trackNumber": 8,
+        "title": "The Flood"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Zetlands"
+      }
+    ]
   },
   {
     "musicAlbumId": 53,
@@ -5651,7 +12881,52 @@
         "colorCode": "#106869"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Where the Wild Wind Blows"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Blood and Bone"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Weddings and Wars"
+      },
+      {
+        "trackNumber": 4,
+        "title": "As the Crow Flies"
+      },
+      {
+        "trackNumber": 5,
+        "title": "I Got This E-Mail"
+      },
+      {
+        "trackNumber": 6,
+        "title": "She\u0027s Been Drinking"
+      },
+      {
+        "trackNumber": 7,
+        "title": "When You\u0027re Gone"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Until the Grass Gets Greener"
+      },
+      {
+        "trackNumber": 9,
+        "title": "The Self Checkout Shuffle"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Down the Well"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Soldiers on the Wall"
+      }
+    ]
   },
   {
     "musicAlbumId": 16,
@@ -5673,7 +12948,52 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "To Build a Wall"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Something is Breaking"
+      },
+      {
+        "trackNumber": 3,
+        "title": "When She Wakes Up"
+      },
+      {
+        "trackNumber": 4,
+        "title": "February Snow"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Let Your Guard Down"
+      },
+      {
+        "trackNumber": 6,
+        "title": "We Want Our Planet Back"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Too Late Too Soon"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Wild Bird"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Back to Hell"
+      },
+      {
+        "trackNumber": 10,
+        "title": "One Last Look at the View"
+      },
+      {
+        "trackNumber": 11,
+        "title": "We\u0027ll Keep Making Plans"
+      }
+    ]
   },
   {
     "musicAlbumId": 17,
@@ -5695,7 +13015,60 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "As for My Soul"
+      },
+      {
+        "trackNumber": 2,
+        "title": "The Man Who Fell to Earth"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Seize the Night"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Outside Over There"
+      },
+      {
+        "trackNumber": 5,
+        "title": "This House"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Talking Cat Blues"
+      },
+      {
+        "trackNumber": 7,
+        "title": "From Halcyon"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Dark Days Away"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Send My Love to the System"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The Endlessness and the Space Between"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Concept of Freedom"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Is Anyone Out There?"
+      },
+      {
+        "trackNumber": 13,
+        "title": "The Question of Passing Time"
+      }
+    ]
   },
   {
     "musicAlbumId": 14,
@@ -5717,7 +13090,44 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "All Those Stars"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Seven Days"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Screenplays"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Breaking the Bread"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Statues"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Spirit of Minnie"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Let it Slide"
+      },
+      {
+        "trackNumber": 8,
+        "title": "The Postman"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Insect"
+      }
+    ]
   },
   {
     "musicAlbumId": 37,
@@ -5739,7 +13149,36 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "A Song for Ernest Hemingway"
+      },
+      {
+        "trackNumber": 2,
+        "title": "There, There"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Coffee Eyes"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Cardinals"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Don\u0027t Let Me Cave In"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Dismantling Summer"
+      },
+      {
+        "trackNumber": 7,
+        "title": "You in January"
+      }
+    ]
   },
   {
     "musicAlbumId": 8,
@@ -5753,6 +13192,10 @@
       {
         "name": "Punk",
         "colorCode": "rgb(191, 0, 188)"
+      },
+      {
+        "name": "Live Albums",
+        "colorCode": "rgb(92, 19, 162)"
       }
     ],
     "formats": [
@@ -5761,7 +13204,36 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Thanks for the Ride"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Passing Through a Screen Door"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Hey Julie"
+      },
+      {
+        "trackNumber": 4,
+        "title": "The Devil in My Bloodstream"
+      },
+      {
+        "trackNumber": 5,
+        "title": "A Song for Ernest Hemingway"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Cardinals"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Cigarettes \u0026 Saints"
+      }
+    ]
   },
   {
     "musicAlbumId": 36,
@@ -5783,13 +13255,46 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Washington Square Park"
+      },
+      {
+        "trackNumber": 2,
+        "title": "We Look Like Lightning"
+      },
+      {
+        "trackNumber": 3,
+        "title": "I Wanted So Badly to Be Brave"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Passing Through a Screen Door"
+      },
+      {
+        "trackNumber": 5,
+        "title": "It Must Get Lonely"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Cul-de-sac"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Hoodie Weather"
+      },
+      {
+        "trackNumber": 8,
+        "title": "The Ghosts of Right Now"
+      }
+    ]
   },
   {
     "musicAlbumId": 51,
     "title": "The Greatest Generation",
     "artist": "The Wonder Years",
-    "thoughts": "",
+    "thoughts": "This album is amazing and really has to be just listened to from start to end. I can\u0027t say enough good things about it.",
     "coverImageUrl": "https://i.postimg.cc/m2NjfLZF/wonderyears-greatestgeneration.jpg",
     "isTopTen": true,
     "showOnNowPage": false,
@@ -5805,7 +13310,60 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "There, There"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Passing Through a Screen Door"
+      },
+      {
+        "trackNumber": 3,
+        "title": "We Could Die Like This"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Dismantling Summer"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The Bastards, The Vultures, The Wolves"
+      },
+      {
+        "trackNumber": 6,
+        "title": "The Devil in My Bloodstream"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Teenage Parents"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Chaser"
+      },
+      {
+        "trackNumber": 9,
+        "title": "An American Religion (FSF)"
+      },
+      {
+        "trackNumber": 10,
+        "title": "A Raindance in Traffic"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Madelyn"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Cul-de-sac"
+      },
+      {
+        "trackNumber": 13,
+        "title": "I Just Want to Sell Out My Funeral"
+      }
+    ]
   },
   {
     "musicAlbumId": 49,
@@ -5827,7 +13385,56 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Doors I Painted Shut"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Wyatt\u0027s Song (Your Name)"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Oldest Daughter"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Cardinals II"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The Paris of Nowhere"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Summer Clothes"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Lost it in the Lights"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Songs About Death"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Low Tide"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Laura \u0026 the Beehive"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Old Friends Like Lost Teeth"
+      },
+      {
+        "trackNumber": 12,
+        "title": "You\u0027re the Reason I Don\u0027t Want the World to End"
+      }
+    ]
   },
   {
     "musicAlbumId": 38,
@@ -5853,7 +13460,68 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Brothers \u0026"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Cardinals"
+      },
+      {
+        "trackNumber": 3,
+        "title": "A Song for Patsy Cline"
+      },
+      {
+        "trackNumber": 4,
+        "title": "I Don\u0027t Like Who I Was Then"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Cigarettes \u0026 Saints"
+      },
+      {
+        "trackNumber": 6,
+        "title": "The Bluest Things on Earth"
+      },
+      {
+        "trackNumber": 7,
+        "title": "A Song for Ernest Hemingway"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Thanks for the Ride"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Stained Glass Ceilings"
+      },
+      {
+        "trackNumber": 10,
+        "title": "I Wanted So Badly to Be Brave"
+      },
+      {
+        "trackNumber": 11,
+        "title": "You in January"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Palm Reader"
+      },
+      {
+        "trackNumber": 13,
+        "title": "No Closer to Heaven"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Slow Dancing with San Andreas"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Palm Reader (Alternate Version)"
+      }
+    ]
   },
   {
     "musicAlbumId": 50,
@@ -5875,7 +13543,52 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Raining in Kyoto"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Pyramids of Salt"
+      },
+      {
+        "trackNumber": 3,
+        "title": "It Must Get Lonely"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Sister Cities"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Flowers Where Your Face Should Be"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Heaven\u0027s Gate (Sad \u0026 Sober)"
+      },
+      {
+        "trackNumber": 7,
+        "title": "We Look Like Lightning"
+      },
+      {
+        "trackNumber": 8,
+        "title": "The Ghosts of Right Now"
+      },
+      {
+        "trackNumber": 9,
+        "title": "When the Blue Finally Came"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The Orange Grove"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The Ocean Grew Hands to Hold Me"
+      }
+    ]
   },
   {
     "musicAlbumId": 52,
@@ -5897,7 +13610,60 @@
         "colorCode": "#a51643"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Came Out Swinging"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Woke Up Older"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Local Man Ruins Everything"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Suburbia"
+      },
+      {
+        "trackNumber": 5,
+        "title": "My Life as a Pigeon"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Summers in PA"
+      },
+      {
+        "trackNumber": 7,
+        "title": "I Won\u0027t Say the Lord\u0027s Prayer"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Coffee Eyes"
+      },
+      {
+        "trackNumber": 9,
+        "title": "I\u0027ve Given You All"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Don\u0027t Let Me Cave In"
+      },
+      {
+        "trackNumber": 11,
+        "title": "You Made Me Want to Be a Saint"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Hoodie Weather"
+      },
+      {
+        "trackNumber": 13,
+        "title": "And Now I\u0027m Nothing"
+      }
+    ]
   },
   {
     "musicAlbumId": 39,
@@ -5919,6 +13685,71 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "My Last Semester"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Logan Circle"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Everything I Own Fits in This Backpack"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Dynamite Shovel"
+      },
+      {
+        "trackNumber": 5,
+        "title": "New Years Eve with Carl Weathers"
+      },
+      {
+        "trackNumber": 6,
+        "title": "It\u0027s Never Sunny in South Philadelphia"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Hostels \u0026 Brothels"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Melrose Diner"
+      },
+      {
+        "trackNumber": 9,
+        "title": "This Party Sucks"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Hey Thanks"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Washington Square Park"
+      },
+      {
+        "trackNumber": 12,
+        "title": "All My Friends are in Bar Bands"
+      },
+      {
+        "trackNumber": 13,
+        "title": "I Was Scared and I\u0027m Sorry"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Dynamite Shovel (Campfire Version)"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Logan Circle: A New Hope"
+      },
+      {
+        "trackNumber": 16,
+        "title": "We Won\u0027t Bury You"
+      }
+    ]
   }
 ]

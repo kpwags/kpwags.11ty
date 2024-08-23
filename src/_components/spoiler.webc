@@ -1,57 +1,45 @@
-<div class="spoiler secret">
-	<div class="warning">
-		<h2>Warning</h2>
-		<p>This may contain spoilers. Reader beware.</p>
-		<p><button type="button" class="show-content">Show Content</button></p>
-	</div>
-	<div class="content">
-		<slot></slot>
-	</div>
+<div class="spoiler-warning">
+	<h2>Warning</h2>
+	<p>This may contain spoilers. Reader beware.</p>
 </div>
 
+<details>
+	<summary><span>View Content</span></summary>
+	<slot></slot>
+</details>
+
+
 <style webc:keep>
-	.spoiler .warning {
-		border: 1px solid var(--primary-color-3);
-		background: var(--shaded-background);
-		padding: 48px 0;
+	.spoiler-warning {
+		border: 1px solid var(--red-2);
+		padding: 12px;
 		text-align: center;
-		border-radius: 10px;
+		border-radius: 4px;
 	}
 
-	.spoiler .warning h2 {
+	.spoiler-warning h2 {
 		font-size: 2rem;
+		color: var(--red-2);
+		margin: 0;
+		padding: 0;
 	}
 
-	.spoiler .warning button {
-		padding: 4px 20px;
-		cursor: pointer;
+	.spoiler-warning p {
+		font-size: 1.1rem;
+		margin: 0;
+		padding: 0;
 	}
 
-	.spoiler.secret .content,
-	.spoiler.shown .warning {
-		display: none;
+	details {
+		margin: 24px 0;
 	}
 
-	.spoiler.shown .content {
-		display: block;
+	details summary {
+		font-size: 1.2rem;
+		margin-bottom: 16px;
 	}
 
-	.spoiler.secret {
-		display: block;	
-		width: 100%;
+	details summary span {
+		padding-left: 16px;
 	}
 </style>
-
-<script webc:keep>
-	window.addEventListener('load', () => {
-		const showButton = document.querySelector('button.show-content');
-
-		if (showButton) {
-			showButton.addEventListener('click', () => {
-				const spoilerDiv = document.querySelector('div.spoiler');
-				spoilerDiv.classList.remove('secret');
-				spoilerDiv.classList.add('shown');
-			});
-		}
-	});
-</script>

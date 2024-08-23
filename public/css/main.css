@@ -132,6 +132,21 @@ a img {
     border: none;
 }
 
+button.text-button {
+    color: var(--primary-color-1);
+    cursor: pointer;
+    text-decoration: underline;
+    padding: 0;
+    border: none;
+    background: transparent;
+}
+
+button.text-buttonhover {
+    color: var(--primary-color-2);
+    text-decoration: underline;
+}
+
+
 /* utility classes */
 
 .hidden {
@@ -2142,44 +2157,122 @@ fit-vids {
     font-weight: 600;
 }
 
-.latest-pixelfed-photos {
-    margin: 32px 0;
+/* Music Dialog */
+dialog.music-dialog {
+    width: 600px;
+    text-align: center;
+    border-color: var(--primary-color-1);
+    border-radius: 10px;
+    background: var(--background);
+    color: var(--text);
 }
 
-.latest-pixelfed-photos .pixelfed-photos {
+dialog.music-dialog button {
+    padding: 8px 16px;
+    border-style: solid;
+    border-color: var(--primary-color-1);
+    background: transparent;
+    color: var(--text);
+    cursor: pointer;
+    appearance: none;
+    border-radius: 5px;
+}
+
+
+dialog.music-dialog button:hover {
+    color: var(--primary-color-1);
+    border-color: var(--primary-color-1);
+}
+
+dialog.music-dialog .dialog-content .info {
     display: flex;
-    justify-content: space-between;
-    gap: 16px;
-    margin: 16px 0;
+    column-gap: 24px;
+    text-align: left;
 }
 
-.latest-pixelfed-photos .pixelfed-photos a {
-    border: 8px solid var(--photo-frame-color);
-    width: 200px;
-    height: 200px;
+dialog.music-dialog img {
+    width: 150px;
+    height: 150px;
 }
 
-.latest-pixelfed-photos .pixelfed-photos a:hover {
-    border-color: var(--primary-color-3);
+dialog.music-dialog .details {
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+    margin-bottom: 24px;
 }
 
-@media (max-width: 700px) {
-    .latest-pixelfed-photos {
-        margin: 32px 0 0;
+dialog.music-dialog .details .title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--primary-color-1);
+    text-wrap: balance;
+}
+
+dialog.music-dialog .details .artist {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+dialog.music-dialog .details .tag-list-title {
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+dialog.music-dialog .details .tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+dialog.music-dialog .details .tag-list span.tag {
+    white-space: nowrap;
+    color: var(--white-1);
+    background: var(--primary-color-1);
+    padding: 2px 8px;
+    border-radius: 8px;
+    font-size: 0.8rem;
+}
+
+dialog.music-dialog .track-list-title {
+    text-align: left;
+    color: var(--primary-color-1);
+    font-size: 1.2rem;
+}
+
+dialog.music-dialog .thoughts {
+    text-align: left;
+}
+
+dialog.music-dialog .track-list-title {
+    margin-top: 24px;
+}
+
+dialog.music-dialog .track-list {
+    text-align: left;
+}
+
+@media (max-width: 650px) {
+    dialog.music-dialog {
+        width: 300px;
     }
 
-    .latest-pixelfed-photos .pixelfed-photos {
-        display: flex;
-        justify-content: initial;
+    dialog.music-dialog .dialog-content .info {
         flex-direction: column;
+        row-gap: 8px;
+        margin-bottom: 0;
     }
 
-    .latest-pixelfed-photos .pixelfed-photos a {
-        border: 8px solid var(--photo-frame-color);
-        width: 100%;
-        height: auto;
+    dialog.music-dialog .details {
+        margin-bottom: 0px;
+    }
+
+    dialog.music-dialog .thoughts {
+        margin-top: 24px;
     }
 }
+
+/* End Music Dialog */
 
 .rainbow-bar {
     width: 100%;

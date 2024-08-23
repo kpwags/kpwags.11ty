@@ -157,19 +157,6 @@
       "services": []
     },
     {
-      "movieId": 8,
-      "title": "Starship Troopers",
-      "imdbLink": "",
-      "dateWatched": null,
-      "sortOrder": null,
-      "rating": 0,
-      "thoughts": "",
-      "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [],
-      "services": []
-    },
-    {
       "movieId": 126,
       "title": "Dune: Part One",
       "imdbLink": "https://www.imdb.com/title/tt1160419/",
@@ -648,6 +635,29 @@
         {
           "name": "Paramount\u002B",
           "colorCode": "#20506a"
+        }
+      ]
+    },
+    {
+      "movieId": 8,
+      "title": "Starship Troopers",
+      "imdbLink": "https://www.imdb.com/title/tt0120201/",
+      "dateWatched": null,
+      "sortOrder": 22,
+      "rating": 0,
+      "thoughts": "",
+      "posterImageUrl": "",
+      "status": "Personal To Watch",
+      "genres": [
+        {
+          "name": "Comedy",
+          "colorCode": "#174b1f"
+        }
+      ],
+      "services": [
+        {
+          "name": "Netflix",
+          "colorCode": "#832532"
         }
       ]
     }
