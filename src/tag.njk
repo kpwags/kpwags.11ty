@@ -14,9 +14,18 @@ eleventyComputed:
 
   {% set taglist = collections[ tag ] %}
 
-  {% for post in taglist | reverse %}
-    {% if post.data.rss_only != true %}
-      {% blogPost post %}
-    {% endif %}
-  {% endfor %}
+  <section class="archives-list">
+    <ul>
+      {% for post in taglist | reverse %}
+        {% if post.data.rss_only != true %}
+          <li>
+            <a href="{{ post.url }}">
+                <span class="text">{{ post.data.title }}</span>
+                <span class="meta">{{ post.data.dateString }}</span>
+            </a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </section>
 </main>
