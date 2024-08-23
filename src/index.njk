@@ -11,6 +11,7 @@ layout: 'layouts/layout.html'
 	</div>
 </section>
 
+{% if collections.pinnedPosts.length > 0 %}
 <section class="homepage-section">
 	<div class="title">
 		<h2>Pinned Posts</h2>
@@ -30,6 +31,7 @@ layout: 'layouts/layout.html'
 		{% endfor %}
 	</ul>
 </section>
+{% endif %}
 
 <section class="homepage-section">
 	<div class="title">
