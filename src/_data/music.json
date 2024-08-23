@@ -7229,6 +7229,10 @@
       {
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Country",
+        "colorCode": "rgb(120, 74, 0)"
       }
     ],
     "formats": [
