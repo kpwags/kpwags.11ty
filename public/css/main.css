@@ -1425,6 +1425,15 @@ article.book-note blockquote p {
     font-size: 1.1rem;
 }
 
+article.note blockquote ul,
+article.post blockquote ul,
+article.book-note blockquote ul,
+article.note blockquote ol,
+article.post blockquote ol,
+article.book-note blockquote ol {
+    padding-left: 16px;
+}
+
 article.note img,
 article.post img,
 article.book-note img,
