@@ -1,17 +1,48 @@
 {
   "inProgress": [
     {
+      "videoGameId": 56,
+      "title": "The Last of Us, Part II",
+      "link": "https://www.playstation.com/en-us/games/the-last-of-us-part-ii-remastered/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/4y1kTScR/last-of-us-2.jpg",
+      "sortOrder": 1,
+      "status": 2,
+      "completionStatus": 1,
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    }
+  ],
+  "completed": [
+    {
       "videoGameId": 22,
       "title": "The Last of Us",
       "link": "https://www.playstation.com/en-us/games/the-last-of-us-remastered/",
       "dateStarted": "2024-08-02T00:00:00",
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
+      "dateCompleted": "2024-08-24T00:00:00",
+      "rating": 4,
+      "thoughts": "The story was phenomenal. Gameplay was mostly fun, but sometimes incredibly frustrating.",
       "coverImageUrl": "https://i.postimg.cc/X7NtCpfB/last-of-us.jpg",
       "sortOrder": null,
-      "status": 2,
-      "completionStatus": 1,
+      "status": 3,
+      "completionStatus": 2,
       "genres": [
         {
           "name": "Adventure",
@@ -24,9 +55,7 @@
           "colorCode": "#191f77"
         }
       ]
-    }
-  ],
-  "completed": [
+    },
     {
       "videoGameId": 2,
       "title": "Ratchet \u0026 Clank: A Rift Apart",
@@ -1057,35 +1086,6 @@
         {
           "name": "PC",
           "colorCode": "#4f1e57"
-        }
-      ]
-    },
-    {
-      "videoGameId": 56,
-      "title": "The Last of Us, Part II",
-      "link": "https://www.playstation.com/en-us/games/the-last-of-us-part-ii-remastered/",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "sortOrder": 1,
-      "status": 1,
-      "completionStatus": 1,
-      "genres": [
-        {
-          "name": "Adventure",
-          "colorCode": "#50518b"
-        },
-        {
-          "name": "Third Person Shooter",
-          "colorCode": "#8c1e8b"
-        }
-      ],
-      "systems": [
-        {
-          "name": "PlayStation",
-          "colorCode": "#191f77"
         }
       ]
     },

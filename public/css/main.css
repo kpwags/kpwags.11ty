@@ -1251,7 +1251,6 @@ article.post h1,
 article.post h2 {
     padding: 0;
     margin: 0;
-    font-size: 1.75rem;
 }
 
 article.post h2 a {
@@ -1459,6 +1458,12 @@ article.note p:has(picture):has(+ div.image-credit),
 article.post p:has(picture):has(+ div.image-credit),
 article.book-note p:has(picture):has(+ div.image-credit) {
     margin-bottom: 4px;
+}
+
+article.post h2+h3,
+article.note h2+h3,
+article.book-note h2+h3 {
+    margin-top: 16px;
 }
 
 .titled-horizontal-list {
@@ -1921,7 +1926,10 @@ article.book-note .book-note-content p:first-child {
 .aspiration-status {
     font-size: 4rem;
     margin-top: 12px;
-    margin-left: 32px;
+}
+
+.aspiration p:last-child {
+    margin-bottom: 0;
 }
 
 @media (max-width: 500px) {

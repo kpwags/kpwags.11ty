@@ -667,6 +667,29 @@
       "year": "2024",
       "movies": [
         {
+          "movieId": 151,
+          "title": "Being the Ricardos",
+          "imdbLink": "https://www.imdb.com/title/tt4995540/",
+          "dateWatched": "2024-08-24T00:00:00",
+          "sortOrder": null,
+          "rating": 3,
+          "thoughts": "This ended up being something completely different than what I anticipated, but not in a bad way. It just showed a different side of the show than I expected.",
+          "posterImageUrl": "https://i.postimg.cc/XJ9nb5pd/being-the-ricardos.jpg",
+          "status": "Watched",
+          "genres": [
+            {
+              "name": "Drama",
+              "colorCode": "#54286b"
+            }
+          ],
+          "services": [
+            {
+              "name": "Amazon Prime",
+              "colorCode": "#215260"
+            }
+          ]
+        },
+        {
           "movieId": 150,
           "title": "Sicario",
           "imdbLink": "https://m.imdb.com/title/tt3397884/",
