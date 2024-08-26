@@ -667,6 +667,29 @@
       "year": "2024",
       "movies": [
         {
+          "movieId": 152,
+          "title": "The Accountant",
+          "imdbLink": "https://www.imdb.com/title/tt2140479/",
+          "dateWatched": "2024-08-25T00:00:00",
+          "sortOrder": null,
+          "rating": 2,
+          "thoughts": "There were some decent action scenes, but some characters and roles seemed kind of superfluous, like the movie would have been just fine without them.",
+          "posterImageUrl": "https://i.postimg.cc/brVw05X1/the-accountant.jpg",
+          "status": "Watched",
+          "genres": [
+            {
+              "name": "Action",
+              "colorCode": "#2254ab"
+            }
+          ],
+          "services": [
+            {
+              "name": "Netflix",
+              "colorCode": "#832532"
+            }
+          ]
+        },
+        {
           "movieId": 151,
           "title": "Being the Ricardos",
           "imdbLink": "https://www.imdb.com/title/tt4995540/",

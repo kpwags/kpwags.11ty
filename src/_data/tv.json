@@ -256,6 +256,33 @@
       "services": []
     },
     {
+      "televisionShowId": 101,
+      "title": "Industry",
+      "imdbLink": "https://www.imdb.com/title/tt7671070/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "currentSeason": 0,
+      "numberOfSeasons": 3,
+      "sortOrder": null,
+      "status": {
+        "name": "Personal To-Watch",
+        "colorCode": "#5a5611"
+      },
+      "genres": [
+        {
+          "name": "Drama",
+          "colorCode": "rgb(121, 167, 12)"
+        }
+      ],
+      "services": [
+        {
+          "name": "HBO",
+          "colorCode": "rgb(104, 5, 167)"
+        }
+      ]
+    },
+    {
       "televisionShowId": 67,
       "title": "Ken Burns: Baseball",
       "imdbLink": "",
