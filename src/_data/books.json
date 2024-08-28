@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 33,
-      "title": "Gentle Writing Advice",
-      "subTitle": "How to Be a Writer Without Destroying Yourself",
-      "fullTitle": "Gentle Writing Advice: How to Be a Writer Without Destroying Yourself",
-      "author": "Chuck Wendig",
-      "link": "https://bookshop.org/p/books/gentle-writing-advice-how-to-be-a-writer-without-destroying-yourself-chuck-wendig/18825636?ean=9781440301209",
-      "dateStarted": "2024-08-21T00:00:00",
+      "bookId": 206,
+      "title": "Liar in a Crowded Theater",
+      "subTitle": "Freedom of Speech in a World of Misinformation",
+      "fullTitle": "Liar in a Crowded Theater: Freedom of Speech in a World of Misinformation",
+      "author": "Jeff Kosseff",
+      "link": "https://bookshop.org/p/books/liar-in-a-crowded-theater-freedom-of-speech-in-a-world-of-misinformation-jeff-kosseff/19780472?ean=9781421447322",
+      "dateStarted": "2024-08-26T00:00:00",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/dt5MPrLG/chuck-wendig-gentle-writing-advice.jpg",
+      "coverImageUrl": "https://i.postimg.cc/RZT2zd36/liar-in-a-crowded-theater.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 201,
-      "pageCount": 230,
-      "percentComplete": 87,
-      "sortOrder": 90,
+      "currentPage": 18,
+      "pageCount": 306,
+      "percentComplete": 6,
+      "sortOrder": 80,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -30,22 +30,14 @@
       "series": null,
       "genres": [
         {
-          "name": "Self Help",
-          "colorCode": "rgb(75, 61, 190)"
-        },
-        {
-          "name": "Writing",
-          "colorCode": "rgb(93, 84, 84)"
-        },
-        {
-          "name": "Creativity",
-          "colorCode": "rgb(0, 146, 118)"
+          "name": "Technology",
+          "colorCode": "rgb(55, 78, 146)"
         }
       ],
       "formats": [
         {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
         }
       ]
     }
@@ -54,6 +46,55 @@
     {
       "year": "2024",
       "books": [
+        {
+          "bookId": 33,
+          "title": "Gentle Writing Advice",
+          "subTitle": "How to Be a Writer Without Destroying Yourself",
+          "fullTitle": "Gentle Writing Advice: How to Be a Writer Without Destroying Yourself",
+          "author": "Chuck Wendig",
+          "link": "https://bookshop.org/p/books/gentle-writing-advice-how-to-be-a-writer-without-destroying-yourself-chuck-wendig/18825636?ean=9781440301209",
+          "dateStarted": "2024-08-21T00:00:00",
+          "dateCompleted": "2024-08-26T00:00:00",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "A lot of insight into his thoughts as a writer and some tips to help me figure out what my process should be. It was helpful to read about his thoughts on the craft.",
+          "coverImageUrl": "https://i.postimg.cc/dt5MPrLG/chuck-wendig-gentle-writing-advice.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 230,
+          "pageCount": 230,
+          "percentComplete": 100,
+          "sortOrder": 90,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Self Help",
+              "colorCode": "rgb(75, 61, 190)"
+            },
+            {
+              "name": "Writing",
+              "colorCode": "rgb(93, 84, 84)"
+            },
+            {
+              "name": "Creativity",
+              "colorCode": "rgb(0, 146, 118)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
+        },
         {
           "bookId": 205,
           "title": "The Internet Con",
@@ -10952,47 +10993,6 @@
     }
   ],
   "toRead": [
-    {
-      "bookId": 206,
-      "title": "Liar in a Crowded Theater",
-      "subTitle": "Freedom of Speech in a World of Misinformation",
-      "fullTitle": "Liar in a Crowded Theater: Freedom of Speech in a World of Misinformation",
-      "author": "Jeff Kosseff",
-      "link": "https://bookshop.org/p/books/liar-in-a-crowded-theater-freedom-of-speech-in-a-world-of-misinformation-jeff-kosseff/19780472?ean=9781421447322",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/RZT2zd36/liar-in-a-crowded-theater.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 0,
-      "percentComplete": 0,
-      "sortOrder": 80,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Technology",
-          "colorCode": "rgb(55, 78, 146)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
-        }
-      ]
-    },
     {
       "bookId": 14,
       "title": "The Demon of Unrest",

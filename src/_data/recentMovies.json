@@ -90,28 +90,5 @@
         "colorCode": "#215260"
       }
     ]
-  },
-  {
-    "movieId": 146,
-    "title": "The Many Saints of Newark",
-    "imdbLink": "https://www.imdb.com/title/tt8110232/",
-    "dateWatched": "2024-07-28T00:00:00",
-    "sortOrder": null,
-    "rating": 2,
-    "thoughts": "Not really sure I liked it\u2026felt disjointed and with some storylines just never finished or flushed out.",
-    "posterImageUrl": "https://i.postimg.cc/wx2sTN7K/many-saints-of-newark.jpg",
-    "status": "Watched",
-    "genres": [
-      {
-        "name": "Drama",
-        "colorCode": "#54286b"
-      }
-    ],
-    "services": [
-      {
-        "name": "HBO",
-        "colorCode": "#47155b"
-      }
-    ]
   }
 ]
