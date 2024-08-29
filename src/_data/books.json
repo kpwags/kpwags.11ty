@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/RZT2zd36/liar-in-a-crowded-theater.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 18,
+      "currentPage": 83,
       "pageCount": 306,
-      "percentComplete": 6,
+      "percentComplete": 27,
       "sortOrder": 80,
       "status": {
         "name": "Reading",
@@ -19451,6 +19451,42 @@
         {
           "name": "Fantasy",
           "colorCode": "rgb(172, 152, 5)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 521,
+      "title": "The Stranger in the Woods",
+      "subTitle": "The Extraordinary Story of the Last True Hermit",
+      "fullTitle": "The Stranger in the Woods: The Extraordinary Story of the Last True Hermit",
+      "author": "Michael Finkel",
+      "link": "https://bookshop.org/p/books/the-stranger-in-the-woods-the-extraordinary-story-of-the-last-true-hermit-michael-finkel/7381267?ean=9781101911532",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 0,
+      "percentComplete": 0,
+      "sortOrder": 2830,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Biography / Memoir",
+          "colorCode": "rgb(68, 0, 214)"
         }
       ],
       "formats": []
