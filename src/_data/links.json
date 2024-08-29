@@ -1,5 +1,53 @@
 [
   {
+    "linkId": 316,
+    "title": "Script Integrity",
+    "url": "https://frontendmasters.com/blog/script-integrity/",
+    "author": "Chris Coyier",
+    "linkDate": "2024-08-28T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 317,
+    "title": "NASA has to be trolling with the latest cost estimate of its SLS launch tower",
+    "url": "https://arstechnica.com/space/2024/08/nasas-second-large-launch-tower-has-gotten-stupidly-expensive/",
+    "author": "Eric Berger",
+    "linkDate": "2024-08-28T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 318,
+    "title": "\u2018Injured\u2019 Missouri bald eagle actually \u2018too fat to fly\u2019 after gorging on raccoon",
+    "url": "https://www.theguardian.com/world/article/2024/aug/28/bald-eagle-injured-raccoon",
+    "author": "Richard Luscombe",
+    "linkDate": "2024-08-28T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
     "linkId": 315,
     "title": "15 page speed optimizations that sites ignore (at their own risk)",
     "url": "https://www.speedcurve.com/blog/15-neglected-page-speed-optimizations/",
