@@ -811,7 +811,7 @@ main.media-container {
 }
 
 .media-grid .item .media-progress-bar {
-    width: 150px;
+    width: 100%;
     margin: 4px auto 16px;
 }
 

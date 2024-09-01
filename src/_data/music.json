@@ -4728,7 +4728,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/W18kStNX/gaslightanthem-59sound.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Alternative",
@@ -13376,7 +13376,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/Dwvg79mp/wonderyears-humgoesonforever.jpg",
     "isTopTen": false,
-    "showOnNowPage": false,
+    "showOnNowPage": true,
     "genres": [
       {
         "name": "Punk",
