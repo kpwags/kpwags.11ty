@@ -1,5 +1,197 @@
 [
   {
+    "linkId": 319,
+    "title": "Making Visual Studio a bit more visual",
+    "url": "https://devblogs.microsoft.com/visualstudio/making-visual-studio-a-bit-more-visual/",
+    "author": "Mads Kristensen",
+    "linkDate": "2024-09-03T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 320,
+    "title": "Styling Tables the Modern CSS Way",
+    "url": "https://piccalil.li/blog/styling-tables-the-modern-css-way/",
+    "author": "Michelle Barker",
+    "linkDate": "2024-09-03T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 321,
+    "title": "The trade fraud detective",
+    "url": "https://www.npr.org/2024/08/23/1197961495/the-trade-fraud-detective",
+    "author": "Planet Money",
+    "linkDate": "2024-09-03T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 322,
+    "title": "CSS Grid Generator",
+    "url": "https://cssgridgenerator.io/",
+    "author": "Kristjan Retter",
+    "linkDate": "2024-09-03T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 323,
+    "title": "NaNoWriMo is in disarray after organizers defend AI writing tools",
+    "url": "https://www.theverge.com/2024/9/3/24234811/nanowrimo-ai-stance-classist-ableist-criticism",
+    "author": "Jess Weatherbed",
+    "linkDate": "2024-09-03T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 324,
+    "title": "ChatGPT Told Us Not to Say This, but YOLO",
+    "url": "https://podcast.ctrlaltspeech.com/2315966/15632153-chatgpt-told-us-not-to-say-this-but-yolo",
+    "author": "Ctrl-Alt-Speech",
+    "linkDate": "2024-09-03T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 325,
+    "title": "The ghost jobs haunting your career search",
+    "url": "https://stackoverflow.blog/2024/07/15/the-ghost-jobs-haunting-your-career-search/",
+    "author": "Eira May",
+    "linkDate": "2024-09-03T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 326,
+    "title": "@property: Next-gen CSS variables now with universal browser support",
+    "url": "https://web.dev/blog/at-property-baseline?hl=en",
+    "author": "Una Kravets",
+    "linkDate": "2024-09-03T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 327,
+    "title": "The Platform to Prison Pipeline",
+    "url": "https://podcast.ctrlaltspeech.com/2315966/15671677-the-platform-to-prison-pipeline",
+    "author": "Ctrl-Alt-Speech",
+    "linkDate": "2024-09-03T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 328,
+    "title": "How Fact Checking Fails",
+    "url": "https://www.techdirt.com/2024/08/27/techdirt-podcast-episode-401-how-fact-checking-fails/",
+    "author": "Techdirt Podcast",
+    "linkDate": "2024-09-03T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 329,
+    "title": "CSS Selectors",
+    "url": "https://css-tricks.com/css-selectors/",
+    "author": "Geoff Graham",
+    "linkDate": "2024-09-03T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 330,
+    "title": "Use A Work Journal To Recover Focus Faster And Clarify Your Thoughts",
+    "url": "https://fev.al/posts/work-journal/",
+    "author": "Charles F\u00E9val",
+    "linkDate": "2024-09-03T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
     "linkId": 316,
     "title": "Script Integrity",
     "url": "https://frontendmasters.com/blog/script-integrity/",
