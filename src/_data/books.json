@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 206,
-      "title": "Liar in a Crowded Theater",
-      "subTitle": "Freedom of Speech in a World of Misinformation",
-      "fullTitle": "Liar in a Crowded Theater: Freedom of Speech in a World of Misinformation",
-      "author": "Jeff Kosseff",
-      "link": "https://bookshop.org/p/books/liar-in-a-crowded-theater-freedom-of-speech-in-a-world-of-misinformation-jeff-kosseff/19780472?ean=9781421447322",
-      "dateStarted": "2024-08-26T00:00:00",
+      "bookId": 14,
+      "title": "The Demon of Unrest",
+      "subTitle": "A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War",
+      "fullTitle": "The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War",
+      "author": "Erik Larson",
+      "link": "https://bookshop.org/p/books/the-demon-of-unrest-a-saga-of-hubris-heartbreak-and-heroism-at-the-dawn-of-the-civil-war-erik-larson/20335359",
+      "dateStarted": "2024-09-07T00:00:00",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/RZT2zd36/liar-in-a-crowded-theater.jpg",
+      "coverImageUrl": "https://i.postimg.cc/DzzqQJ6r/demon-of-unrest.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 245,
-      "pageCount": 306,
-      "percentComplete": 80,
-      "sortOrder": 80,
+      "currentPage": 31,
+      "pageCount": 491,
+      "percentComplete": 6,
+      "sortOrder": 81,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -30,8 +30,8 @@
       "series": null,
       "genres": [
         {
-          "name": "Technology",
-          "colorCode": "rgb(55, 78, 146)"
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
         }
       ],
       "formats": [
@@ -46,6 +46,47 @@
     {
       "year": "2024",
       "books": [
+        {
+          "bookId": 206,
+          "title": "Liar in a Crowded Theater",
+          "subTitle": "Freedom of Speech in a World of Misinformation",
+          "fullTitle": "Liar in a Crowded Theater: Freedom of Speech in a World of Misinformation",
+          "author": "Jeff Kosseff",
+          "link": "https://bookshop.org/p/books/liar-in-a-crowded-theater-freedom-of-speech-in-a-world-of-misinformation-jeff-kosseff/19780472?ean=9781421447322",
+          "dateStarted": "2024-08-26T00:00:00",
+          "dateCompleted": "2024-09-06T00:00:00",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "This was an interesting look at how strong our first amendment protections are and why, despite the constant threats of mis and disinformation, is such a good thing. It might be easy to want the government to step in, but Jeff Kosseff does a good job explaining why that\u2019s not such a good thing and offers some better alternatives.",
+          "coverImageUrl": "https://i.postimg.cc/RZT2zd36/liar-in-a-crowded-theater.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 306,
+          "pageCount": 306,
+          "percentComplete": 100,
+          "sortOrder": 80,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Technology",
+              "colorCode": "rgb(55, 78, 146)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
+        },
         {
           "bookId": 33,
           "title": "Gentle Writing Advice",
@@ -10993,47 +11034,6 @@
     }
   ],
   "toRead": [
-    {
-      "bookId": 14,
-      "title": "The Demon of Unrest",
-      "subTitle": "A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War",
-      "fullTitle": "The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War",
-      "author": "Erik Larson",
-      "link": "https://bookshop.org/p/books/the-demon-of-unrest-a-saga-of-hubris-heartbreak-and-heroism-at-the-dawn-of-the-civil-war-erik-larson/20335359",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/DzzqQJ6r/demon-of-unrest.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 0,
-      "percentComplete": 0,
-      "sortOrder": 81,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "History",
-          "colorCode": "rgb(4, 38, 142)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
-        }
-      ]
-    },
     {
       "bookId": 8,
       "title": "The Mercy of Gods",

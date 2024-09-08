@@ -1,5 +1,149 @@
 [
   {
+    "linkId": 342,
+    "title": "Davide\u0027s Code and Architecture Notes - Web APIs vs REST APIs vs pseudo-REST APIs",
+    "url": "https://www.code4it.dev/architecture-notes/webapi-vs-rest-vs-pseudo-rest/#wrapping-up",
+    "author": "Davide Bellone",
+    "linkDate": "2024-09-08T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 343,
+    "title": "Capability makes your life simpler",
+    "url": "https://www.bryanbraun.com/2024/07/31/capability-makes-your-life-simpler/",
+    "author": "Bryan Braun",
+    "linkDate": "2024-09-08T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 344,
+    "title": "No No-JavaScript",
+    "url": "https://dbushell.com/2024/06/22/no-no-javascript/",
+    "author": "David Bushell",
+    "linkDate": "2024-09-08T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 345,
+    "title": "Code Isn\u0027t Magical, It\u0027s Just A Series Of Commands",
+    "url": "https://www.bennadel.com/blog/4693-code-isnt-magical-its-just-a-series-of-commands.htm",
+    "author": "Ben Nadel",
+    "linkDate": "2024-09-08T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 346,
+    "title": "5 JavaScript Security Best Practices for 2024",
+    "url": "https://thenewstack.io/5-javascript-security-best-practices-for-2024/",
+    "author": "Alexander T. Williams",
+    "linkDate": "2024-09-08T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 347,
+    "title": "HTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier!",
+    "url": "https://css-tricks.com/html-web-components-make-progressive-enhancement-and-css-encapsulation-easier/",
+    "author": "Kev Bonett",
+    "linkDate": "2024-09-08T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 340,
+    "title": "What Are CSS Container Style Queries Good For?",
+    "url": "https://www.smashingmagazine.com/2024/06/what-are-css-container-style-queries-good-for/",
+    "author": "Juan Diego Rodr\u00EDguez",
+    "linkDate": "2024-09-07T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 341,
+    "title": "CSS Functions and Mixins Module Notes",
+    "url": "https://css-tricks.com/css-functions-and-mixins-module-notes/",
+    "author": "Geoff Graham",
+    "linkDate": "2024-09-07T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 339,
+    "title": "The Big Build Bool Bonanaza II",
+    "url": "https://offthemainthread.tech/episode/big-build-bool-bonanza/",
+    "author": "Off the Main Thread",
+    "linkDate": "2024-09-06T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 335,
     "title": "YubiKeys are vulnerable to cloning attacks thanks to newly discovered side channel",
     "url": "https://arstechnica.com/security/2024/09/yubikeys-are-vulnerable-to-cloning-attacks-thanks-to-newly-discovered-side-channel/",
