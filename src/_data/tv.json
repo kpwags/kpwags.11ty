@@ -514,14 +514,14 @@
       ]
     },
     {
-      "televisionShowId": 4,
-      "title": "Under the Dome",
-      "imdbLink": "https://www.imdb.com/title/tt1553656/",
+      "televisionShowId": 9,
+      "title": "Mr.  Robot",
+      "imdbLink": "https://www.imdb.com/title/tt4158110/",
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
       "currentSeason": 1,
-      "numberOfSeasons": 3,
+      "numberOfSeasons": 4,
       "sortOrder": 1,
       "status": {
         "name": "Personal To-Watch",
@@ -539,8 +539,8 @@
       ],
       "services": [
         {
-          "name": "Paramount\u002B",
-          "colorCode": "rgb(14, 58, 236)"
+          "name": "Amazon Prime",
+          "colorCode": "rgb(6, 104, 148)"
         }
       ]
     },
@@ -580,6 +580,37 @@
       ]
     },
     {
+      "televisionShowId": 4,
+      "title": "Under the Dome",
+      "imdbLink": "https://www.imdb.com/title/tt1553656/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "currentSeason": 1,
+      "numberOfSeasons": 3,
+      "sortOrder": 2,
+      "status": {
+        "name": "Personal To-Watch",
+        "colorCode": "#5a5611"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "#5f3194"
+        },
+        {
+          "name": "Drama",
+          "colorCode": "rgb(121, 167, 12)"
+        }
+      ],
+      "services": [
+        {
+          "name": "Paramount\u002B",
+          "colorCode": "rgb(14, 58, 236)"
+        }
+      ]
+    },
+    {
       "televisionShowId": 2,
       "title": "The Bear",
       "imdbLink": "https://www.imdb.com/title/tt14452776/",
@@ -603,37 +634,6 @@
         {
           "name": "Hulu",
           "colorCode": "rgb(1, 168, 44)"
-        }
-      ]
-    },
-    {
-      "televisionShowId": 9,
-      "title": "Mr.  Robot",
-      "imdbLink": "https://www.imdb.com/title/tt4158110/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 4,
-      "sortOrder": 3,
-      "status": {
-        "name": "Personal To-Watch",
-        "colorCode": "#5a5611"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#5f3194"
-        },
-        {
-          "name": "Drama",
-          "colorCode": "rgb(121, 167, 12)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Amazon Prime",
-          "colorCode": "rgb(6, 104, 148)"
         }
       ]
     },
@@ -1121,8 +1121,8 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/2ypsjtLd/only-murderers-in-the-building.jpg",
-      "currentSeason": 3,
-      "numberOfSeasons": 4,
+      "currentSeason": 4,
+      "numberOfSeasons": 5,
       "sortOrder": null,
       "status": {
         "name": "Watching",

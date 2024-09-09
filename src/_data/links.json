@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 348,
+    "title": "Find Exercise You Enjoy",
+    "url": "https://primecuts.philpearlman.com/p/find-exercise-enjoy",
+    "author": "Philip Pearlman",
+    "linkDate": "2024-09-09T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Health \u0026 Fitness",
+      "colorCode": "#871c4a"
+    }
+  },
+  {
+    "linkId": 349,
+    "title": "Incredible shots of Mercury as BepiColumbo steals some of its energy",
+    "url": "https://badastronomy.beehiiv.com/p/incredible-shots-mercury-bepicolumbo-steals-energy",
+    "author": "Philip Plait",
+    "linkDate": "2024-09-09T00:00:00",
+    "readingLogIssueNumber": 91,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
     "linkId": 342,
     "title": "Davide\u0027s Code and Architecture Notes - Web APIs vs REST APIs vs pseudo-REST APIs",
     "url": "https://www.code4it.dev/architecture-notes/webapi-vs-rest-vs-pseudo-rest/#wrapping-up",

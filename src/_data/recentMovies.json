@@ -113,28 +113,5 @@
         "colorCode": "#215260"
       }
     ]
-  },
-  {
-    "movieId": 147,
-    "title": "Asteroid City",
-    "imdbLink": "https://www.imdb.com/title/tt14230388/",
-    "dateWatched": "2024-08-10T00:00:00",
-    "sortOrder": null,
-    "rating": 2,
-    "thoughts": "This was just weird. I guess I\u2019m not really surprised since it\u2019s a Wes Anderson film, but I really don\u2019t know what to make of it.",
-    "posterImageUrl": "https://i.postimg.cc/k5KJVJd1/asteroid-city.jpg",
-    "status": "Watched",
-    "genres": [
-      {
-        "name": "Comedy",
-        "colorCode": "#174b1f"
-      }
-    ],
-    "services": [
-      {
-        "name": "Amazon Prime",
-        "colorCode": "#215260"
-      }
-    ]
   }
 ]

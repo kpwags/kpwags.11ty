@@ -3073,6 +3073,28 @@
     ]
   },
   {
+    "musicAlbumId": 180,
+    "title": "Nurses",
+    "artist": "Dave Hause",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/3xqgkvW2/dave-hause-nurses.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": []
+  },
+  {
     "musicAlbumId": 146,
     "title": "Patty/Paddy",
     "artist": "Dave Hause",
