@@ -1,5 +1,293 @@
 [
   {
+    "linkId": 366,
+    "title": "Big publishers think libraries are the enemy",
+    "url": "https://www.citationneeded.news/hachette-v-internet-archive/",
+    "author": "Molly White",
+    "linkDate": "2024-09-15T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 367,
+    "title": "Second Circuit Says Libraries Disincentivize Authors To Write Books By Lending Them For Free",
+    "url": "https://www.techdirt.com/2024/09/05/second-circuit-says-libraries-disincentivize-authors-to-write-books-by-lending-them-for-free/",
+    "author": "Mike Masnick",
+    "linkDate": "2024-09-15T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 357,
+    "title": "After Starliner, NASA has another big human spaceflight decision to make",
+    "url": "https://arstechnica.com/space/2024/09/after-starliner-nasa-has-another-big-human-spaceflight-decision-to-make/",
+    "author": "Eric Berger",
+    "linkDate": "2024-09-12T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 358,
+    "title": "10 years later, Apple Pay is amazing \u2014 and about to change",
+    "url": "https://www.theverge.com/2024/9/5/24235874/apple-pay-10-years-open-nfc-ios",
+    "author": "David Pierce",
+    "linkDate": "2024-09-12T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 359,
+    "title": "Why NASA is sticking with Boeing",
+    "url": "https://www.theverge.com/2024/9/12/24241904/boeing-starliner-nasa-iss-spacex-crew-dragon",
+    "author": "Georgina Torbet",
+    "linkDate": "2024-09-12T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 360,
+    "title": "Nike\u2019s $25B blunder shows us the limits of \u201Cdata-driven\u201D",
+    "url": "https://uxdesign.cc/nikes-25b-blunder-shows-us-the-limits-of-data-driven-ad30b6e3d938",
+    "author": "Pavel Samsonov",
+    "linkDate": "2024-09-12T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Design",
+      "colorCode": "#0b545e"
+    }
+  },
+  {
+    "linkId": 361,
+    "title": "The hidden cost of speed",
+    "url": "https://stackoverflow.blog/2024/09/05/the-hidden-cost-of-speed/",
+    "author": "Brayden A. Hord",
+    "linkDate": "2024-09-12T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 362,
+    "title": "Project 2025 and the fate of the federal workforce",
+    "url": "https://www.marketplace.org/shows/make-me-smart/project-2025-and-the-fate-of-the-federal-workforce/",
+    "author": "Make Me Smart",
+    "linkDate": "2024-09-12T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 363,
+    "title": "Not an Internet Error: How 404 Media Aims to Shake Up Online Journalism",
+    "url": "https://www.wnycstudios.org/podcasts/otm/articles/not-an-internet-error-how-404-media-aims-to-shake-up-online-journalism",
+    "author": "On the Media",
+    "linkDate": "2024-09-12T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 364,
+    "title": "End this Farce",
+    "url": "https://defector.com/end-this-farce",
+    "author": "Drew Magary",
+    "linkDate": "2024-09-12T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 365,
+    "title": ".NET Aspire with David Fowler",
+    "url": "https://www.dotnetrocks.com/details/1881",
+    "author": ".NET Rocks",
+    "linkDate": "2024-09-12T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 356,
+    "title": "Neither Elon Musk Nor Anybody Else Will Ever Colonize Mars",
+    "url": "https://defector.com/neither-elon-musk-nor-anybody-else-will-ever-colonize-mars",
+    "author": "Albert Burneko",
+    "linkDate": "2024-09-11T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 350,
+    "title": "How Medicare fraud became Miami\u0027s vice",
+    "url": "https://www.npr.org/2024/09/09/1198642620/miami-medicare-fraud-malcolm-gladwell",
+    "author": "The Indicator",
+    "linkDate": "2024-09-10T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 351,
+    "title": "Angie Jones",
+    "url": "https://www.coffeeandopensource.com/guest/angie-jones.html",
+    "author": "Coffee \u0026 Open Source",
+    "linkDate": "2024-09-10T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 352,
+    "title": ".NET 8 Migration with Jimmy Bogard",
+    "url": "https://www.dotnetrocks.com/details/1880",
+    "author": ".NET Rocks",
+    "linkDate": "2024-09-10T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 353,
+    "title": "GitKraken - with Justin Roberts and Eric Amodio",
+    "url": "https://unhandledexceptionpodcast.com/posts/0064-gitkraken/",
+    "author": "Unhandled Exception",
+    "linkDate": "2024-09-10T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 354,
+    "title": "Jen Simmons on Interop, WebKit Releases, and New CSS Features in Safari",
+    "url": "https://shoptalkshow.com/598/",
+    "author": "ShopTalk Show",
+    "linkDate": "2024-09-10T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 355,
+    "title": "Billie Joe Armstrong",
+    "url": "https://www.wtfpod.com/podcast/episode-1503-billie-joe-armstrong",
+    "author": "WTF Podcast",
+    "linkDate": "2024-09-10T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 348,
     "title": "Find Exercise You Enjoy",
     "url": "https://primecuts.philpearlman.com/p/find-exercise-enjoy",
@@ -171,8 +459,8 @@
       "colorCode": "#5725a0"
     },
     "category": {
-      "name": "Web Development",
-      "colorCode": "#27681b"
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
     }
   },
   {

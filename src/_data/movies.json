@@ -644,6 +644,29 @@
       "year": "2024",
       "movies": [
         {
+          "movieId": 154,
+          "title": "The Holdovers",
+          "imdbLink": "https://www.imdb.com/title/tt14849194/",
+          "dateWatched": "2024-09-14T00:00:00",
+          "sortOrder": null,
+          "rating": 3,
+          "thoughts": "I enjoyed it. I liked the characters and while the story was somewhat predictable, it was still a good watch.",
+          "posterImageUrl": "https://i.postimg.cc/pXGscpSK/the-holdovers.jpg",
+          "status": "Watched",
+          "genres": [
+            {
+              "name": "Comedy",
+              "colorCode": "#174b1f"
+            }
+          ],
+          "services": [
+            {
+              "name": "Amazon Prime",
+              "colorCode": "#215260"
+            }
+          ]
+        },
+        {
           "movieId": 34,
           "title": "Won\u2019t You Be My Neighbor",
           "imdbLink": "https://www.imdb.com/title/tt7681902",

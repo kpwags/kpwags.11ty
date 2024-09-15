@@ -1,5 +1,28 @@
 [
   {
+    "movieId": 154,
+    "title": "The Holdovers",
+    "imdbLink": "https://www.imdb.com/title/tt14849194/",
+    "dateWatched": "2024-09-14T00:00:00",
+    "sortOrder": null,
+    "rating": 3,
+    "thoughts": "I enjoyed it. I liked the characters and while the story was somewhat predictable, it was still a good watch.",
+    "posterImageUrl": "https://i.postimg.cc/pXGscpSK/the-holdovers.jpg",
+    "status": "Watched",
+    "genres": [
+      {
+        "name": "Comedy",
+        "colorCode": "#174b1f"
+      }
+    ],
+    "services": [
+      {
+        "name": "Amazon Prime",
+        "colorCode": "#215260"
+      }
+    ]
+  },
+  {
     "movieId": 34,
     "title": "Won\u2019t You Be My Neighbor",
     "imdbLink": "https://www.imdb.com/title/tt7681902",
@@ -82,29 +105,6 @@
       {
         "name": "Drama",
         "colorCode": "#54286b"
-      }
-    ],
-    "services": [
-      {
-        "name": "Amazon Prime",
-        "colorCode": "#215260"
-      }
-    ]
-  },
-  {
-    "movieId": 150,
-    "title": "Sicario",
-    "imdbLink": "https://m.imdb.com/title/tt3397884/",
-    "dateWatched": "2024-08-16T00:00:00",
-    "sortOrder": null,
-    "rating": 2,
-    "thoughts": "I thought this would be better given the cast. In the end, I felt like several of the characters were superfluous and the story disjointed.",
-    "posterImageUrl": "https://i.postimg.cc/cL4XCTQR/sicario.jpg",
-    "status": "Watched",
-    "genres": [
-      {
-        "name": "Action",
-        "colorCode": "#2254ab"
       }
     ],
     "services": [
