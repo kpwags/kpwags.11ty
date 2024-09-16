@@ -3,6 +3,7 @@ body {
     background-color: var(--grey-3);
     color: var(--text);
     font-size: 1.25rem;
+    line-height: 1.5;
     font-family: var(--font);
     padding: 0;
     margin: 0;
@@ -30,9 +31,9 @@ hr {
 
 h1 {
     font-weight: 500;
-    font-size: 2.6rem;
+    font-size: 2.5rem;
     color: var(--primary-color-1);
-    margin: 0 0 2rem 0;
+    margin: 0 0 32px 0;
     padding: 0;
 }
 
@@ -40,30 +41,35 @@ h2 {
     font-weight: 400;
     font-size: 2rem;
     color: var(--primary-color-1);
-    margin: 0;
+    margin: 0 0 24px 0;
     padding: 0;
 }
 
 h3 {
-    font-size: 1.8rem;
+    font-size: 1.7rem;
     color: var(--primary-color-1);
     font-weight: 500;
-    margin: 0;
+    margin: 0 0 16px 0;
+    padding: 0;
 }
 
 h4 {
     font-size: 1.6rem;
+    font-weight: 400;
     color: var(--primary-color-3);
+    margin: 0 0 12px 0;
 }
 
 h5 {
     font-size: 1.4rem;
     font-weight: 400;
+    margin: 0 0 12px 0;
 }
 
 h6 {
-    font-size: 1.2rem;
+    font-size: 1.25rem;
     font-weight: 400;
+    margin: 0 0 12px 0;
 }
 
 @media (max-width: 450px) {
@@ -89,7 +95,7 @@ h6 {
     }
 
     h6 {
-        font-size: 12.rem;
+        font-size: 1.25rem;
     }
 }
 
@@ -109,11 +115,13 @@ h3.text {
 p {
     line-height: 32px;
     margin-bottom: 32px;
+    font-size: 1rem;
 }
 
-p.large {
-    font-size: 1.25rem;
-    line-height: 28px;
+ul li,
+ol li {
+    font-size: 1rem;
+    margin-bottom: 8px;
 }
 
 a,
@@ -210,6 +218,7 @@ header nav ul {
 header nav ul li {
     list-style-type: none;
     display: inline;
+    margin: 0;
 }
 
 header a {
@@ -308,6 +317,7 @@ footer nav ul li {
     list-style-type: '';
     display: inline;
     padding: 0 6px;
+    margin: 0;
 }
 
 footer nav ul li a {
@@ -1273,6 +1283,7 @@ article.post .metadata {
 
 article.post .excerpt {
     margin: 24px 0;
+    font-size: 1rem;
 }
 
 article.post .body {
@@ -1343,7 +1354,7 @@ article.blog-post-page pre {
 }
 
 article.blog-post-page pre code {
-    font-size: 1rem;
+    font-size: 0.75rem;
 }
 
 article.blog-post-page div.code-block-filename {
@@ -1479,6 +1490,7 @@ article.book-note h2+h3 {
 .titled-horizontal-list .lead {
     min-width: 100px;
     line-height: 1.6;
+    font-size: 1rem;
 }
 
 .titled-horizontal-list ul {
