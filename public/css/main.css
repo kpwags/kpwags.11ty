@@ -2,7 +2,7 @@ html,
 body {
     background-color: var(--grey-3);
     color: var(--text);
-    font-size: 100%;
+    font-size: 1.25rem;
     font-family: var(--font);
     padding: 0;
     margin: 0;
@@ -210,7 +210,6 @@ header nav ul {
 header nav ul li {
     list-style-type: none;
     display: inline;
-    font-size: 1.25rem;
 }
 
 header a {
@@ -260,7 +259,7 @@ header button:hover svg {
     }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 769px) {
     header {
         flex-direction: column;
     }
@@ -330,6 +329,7 @@ footer nav.contact ul li a:hover svg {
 
 footer nav.site-info {
     margin-bottom: 40px;
+    font-size: 1rem;
 }
 
 footer nav.site-info span {
@@ -372,6 +372,7 @@ footer .theme-control .color-controls button {
 
 footer .theme-control .color-controls legend {
     font-weight: 600;
+    font-size: 1rem;
 }
 
 footer .color-controls .controls-block {
@@ -477,6 +478,7 @@ footer .mode-controls {
 
 footer .mode-controls legend {
     font-weight: 600;
+    font-size: 1rem;
 }
 
 footer .mode-controls .controls-block {
@@ -535,7 +537,11 @@ footer .mode-controls .controls-block {
 }
 
 .homepage-section .title h2 {
-    font-size: 1.4rem;
+    font-size: 1.6rem;
+}
+
+.homepage-section .title a {
+    font-size: 1rem;
 }
 
 .homepage-section ul {
@@ -616,6 +622,11 @@ footer .mode-controls .controls-block {
 
     .intro .image {
         width: 164px;
+    }
+
+    .homepage-section .title {
+        flex-direction: column;
+        row-gap: 8px;
     }
 }
 
@@ -768,6 +779,11 @@ main.media-container {
 
 .media-grid .item a {
     display: block;
+    font-size: 1rem;
+}
+
+.media-grid .item .subtitle {
+    font-size: 0.85rem;
 }
 
 .media-grid .item .meta {
@@ -784,6 +800,7 @@ main.media-container {
     cursor: pointer;
     color: var(--primary-color-1);
     border-radius: 6px;
+    font-size: 1rem;
 }
 
 .media-grid .item .toggle-thoughts:hover {
@@ -887,24 +904,6 @@ main.media-container {
     font-weight: 500;
 }
 
-@media (max-width: 810px) {
-    .media-with-columns {
-        display: block;
-        margin-top: 32px;
-    }
-
-    .media-with-columns .sidebar {
-        width: 100%;
-        margin-bottom: 32px;
-        text-align: center;
-    }
-
-    .media-with-columns .sidebar ul li {
-        display: inline-block;
-        margin: 0 16px 16px;
-    }
-}
-
 .filters {
     margin-bottom: 32px;
 }
@@ -937,6 +936,7 @@ main.media-container {
     border-radius: 10px;
     padding: 4px 8px;
     cursor: pointer;
+    font-size: 1rem;
 }
 
 .filters .filter-list label:has(input:checked) {
@@ -1097,13 +1097,13 @@ ul.links li a {
 
 ul.links li a span.text {
     display: block;
-    font-size: 1.2rem;
     text-decoration: underline;
 }
 
 ul.links li a span.meta {
     color: var(--meta);
     text-decoration: none;
+    font-size: 1rem;
 }
 
 ul.links li:last-child a {
@@ -1192,6 +1192,7 @@ article.note .metadata {
     gap: 8px;
     color: var(--meta);
     text-transform: uppercase;
+    font-size: 1rem;
 }
 
 article.note .content {
@@ -1267,6 +1268,7 @@ article.post .metadata {
     gap: 8px;
     color: var(--meta);
     text-transform: uppercase;
+    font-size: 1rem;
 }
 
 article.post .excerpt {
@@ -1548,6 +1550,7 @@ section.archives a {
     width: 175px;
     border-radius: 8px;
     border: 1px solid var(--border-color);
+    font-size: 1rem;
 }
 
 section.archives a:hover {
@@ -1796,11 +1799,6 @@ article.book-note .book-note-content p:first-child {
     margin: 16px 0;
 }
 
-.wip-section article h3 {
-    font-weight: 700;
-    font-size: 1.9rem;
-}
-
 .wip-section article p {
     margin-bottom: 24px;
 }
@@ -2029,7 +2027,7 @@ article.uses .uses-section ul {
 }
 
 .stat-name {
-    min-width: 200px;
+    min-width: 215px;
     font-weight: 600;
 }
 
@@ -2131,7 +2129,11 @@ form {
 }
 
 .blog-roll .site-card .url {
-    margin: 4px 0;
+    margin: 8px 0;
+    font-size: 0.9rem;
+    display: flex;
+    gap: 4px;
+    flex-direction: column;
 }
 
 .blog-roll .site-card .tags {
