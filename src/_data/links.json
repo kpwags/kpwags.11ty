@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 371,
+    "title": "The Double Kick",
+    "url": "https://99percentinvisible.org/episode/the-double-kick/",
+    "author": "99% Invisible",
+    "linkDate": "2024-09-16T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 372,
+    "title": "CSS One-Liners to Improve (Almost) Every Project",
+    "url": "https://alvaromontoro.com/blog/68055/ten-css-one-liners-for-almost-every-project",
+    "author": "Alvaro Montoro",
+    "linkDate": "2024-09-16T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 366,
     "title": "Big publishers think libraries are the enemy",
     "url": "https://www.citationneeded.news/hachette-v-internet-archive/",
@@ -29,6 +61,54 @@
     "category": {
       "name": "The Internet",
       "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 368,
+    "title": "Blunder from Down Under",
+    "url": "https://podcast.ctrlaltspeech.com/2315966/episodes/15750024-blunder-from-down-under",
+    "author": "Ctrl-Alt-Speech",
+    "linkDate": "2024-09-15T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 369,
+    "title": "Study suggests SEC visits as tracked by following mobile location data may be tipping off insiders",
+    "url": "https://www.techspot.com/news/104722-study-suggests-sec-visits-may-tipping-off-insiders.html",
+    "author": "Zo Ahmed",
+    "linkDate": "2024-09-15T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 370,
+    "title": "Brian Ketelsen",
+    "url": "https://www.coffeeandopensource.com/guest/brian-ketelsen.html",
+    "author": "Coffee \u0026 Open Source",
+    "linkDate": "2024-09-15T00:00:00",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
     }
   },
   {
