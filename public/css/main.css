@@ -1490,6 +1490,7 @@ article.book-note h2+h3 {
 .titled-horizontal-list .lead {
     min-width: 100px;
     line-height: 1.6;
+    font-size: 1rem;
 }
 
 .titled-horizontal-list ul {
