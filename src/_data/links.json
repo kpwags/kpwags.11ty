@@ -1,5 +1,101 @@
 [
   {
+    "linkId": 378,
+    "title": "Bad economics, smart politics",
+    "url": "https://www.npr.org/2024/09/16/1199975711/bad-economics-smart-politics",
+    "author": "The Indicator",
+    "linkDate": "2024-09-17T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 379,
+    "title": "Supersonic Nazi Vengeance: V2 Rocket (Part 1)",
+    "url": "https://timharford.com/2024/02/cautionary-tales-supersonic-nazi-vengeance-v2-rocket-part-1/",
+    "author": "Cautionary Tales",
+    "linkDate": "2024-09-17T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 380,
+    "title": "Into the Black Lair: V2 Rocket (Part 2)",
+    "url": "https://timharford.com/2024/02/cautionary-tales-into-the-black-lair-v2-rocket-part-2/",
+    "author": "Cautionary Tales",
+    "linkDate": "2024-09-17T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 381,
+    "title": "Buried Evil: V2 Rocket (Part 3)",
+    "url": "https://timharford.com/2024/03/cautionary-tales-buried-evil-v2-rocket-part-3/",
+    "author": "Cautionary Tales",
+    "linkDate": "2024-09-17T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 382,
+    "title": "Open Source Needs to be Financially Symbiotic",
+    "url": "https://www.zachleat.com/web/symbiotic-open-source/",
+    "author": "Zach Leatherman",
+    "linkDate": "2024-09-17T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 383,
+    "title": "Axact",
+    "url": "https://darknetdiaries.com/episode/142/",
+    "author": "Darknet Diaries",
+    "linkDate": "2024-09-17T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 371,
     "title": "The Double Kick",
     "url": "https://99percentinvisible.org/episode/the-double-kick/",
@@ -29,6 +125,86 @@
     "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 373,
+    "title": "People who exercise have healthier belly fat, new study finds",
+    "url": "https://www.npr.org/2024/09/14/nx-s1-5108843/exercise-fat-healthy-weight-obesity",
+    "author": "Maria Godoy",
+    "linkDate": "2024-09-16T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Health \u0026 Fitness",
+      "colorCode": "#871c4a"
+    }
+  },
+  {
+    "linkId": 374,
+    "title": "Going Buildless",
+    "url": "https://mxb.dev/blog/buildless/",
+    "author": "Max B\u00F6ck",
+    "linkDate": "2024-09-16T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 375,
+    "title": "Improving Code Quality in C# With Static Code Analysis",
+    "url": "https://www.milanjovanovic.tech/blog/improving-code-quality-in-csharp-with-static-code-analysis",
+    "author": "Milan Jovanovic",
+    "linkDate": "2024-09-16T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 376,
+    "title": "Simplifying [Theory] test data with Xunit.Combinatorial",
+    "url": "https://andrewlock.net/simplifying-theory-test-data-with-xunit-combinatorial/",
+    "author": "Andrew Lock",
+    "linkDate": "2024-09-16T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 377,
+    "title": "Friendly Google and Enemy Remedies",
+    "url": "https://stratechery.com/2024/friendly-google-and-enemy-remedies/",
+    "author": "Ben Thompson",
+    "linkDate": "2024-09-16T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
     }
   },
   {

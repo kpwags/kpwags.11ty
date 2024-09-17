@@ -1,7 +1,7 @@
 :root {
     --font: Inconsolata, monospace;
     --font-handwritten: caveat, cursive;
-    --width: min(100ch, 100vw - 2rem);
+    --width: min(80ch, 100vw - 2rem);
     --display-light-mode: inline;
     --display-dark-mode: none;
     --box-shadow: 0 12px 24px 0 oklch(0% 0 0 / 20%);
