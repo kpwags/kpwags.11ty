@@ -1205,6 +1205,16 @@ article.note .metadata {
     font-size: 1rem;
 }
 
+@media (max-width: 450px) {
+    article.note .metadata {
+        flex-direction: column;
+    }
+
+    article.note .metadata .separator {
+        display: none;
+    }
+}
+
 article.note .content {
     padding: 0 24px;
     margin: 24px 0;
@@ -1717,10 +1727,6 @@ section.archives-list ul li a:hover span.meta {
 
 .book-note-card div.book-links span.lead {
     font-weight: 600;
-}
-
-.book-note-card div.book-links a {
-    white-space: nowrap;
 }
 
 .book-note-card div.book-links span.separator:last-child {

@@ -1,43 +1,43 @@
 {
   "inProgress": [
     {
-      "bookId": 14,
-      "title": "The Demon of Unrest",
-      "subTitle": "A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War",
-      "fullTitle": "The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War",
-      "author": "Erik Larson",
-      "link": "https://bookshop.org/p/books/the-demon-of-unrest-a-saga-of-hubris-heartbreak-and-heroism-at-the-dawn-of-the-civil-war-erik-larson/20335359",
-      "dateStarted": "2024-09-07T00:00:00",
+      "bookId": 522,
+      "title": "Station Eleven",
+      "subTitle": "",
+      "fullTitle": "Station Eleven",
+      "author": "Emily St. John Mandel",
+      "link": "https://bookshop.org/p/books/station-eleven-emily-st-john-mandel/586327?ean=9780804172448",
+      "dateStarted": "2024-09-17T00:00:00",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/DzzqQJ6r/demon-of-unrest.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 415,
-      "pageCount": 491,
-      "percentComplete": 85,
-      "sortOrder": 81,
+      "coverImageUrl": "https://i.postimg.cc/pTDHxysT/station-eleven.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 507,
+      "pageCount": 4584,
+      "percentComplete": 11,
+      "sortOrder": 83,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
       },
       "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
       },
       "series": null,
       "genres": [
         {
-          "name": "History",
-          "colorCode": "rgb(4, 38, 142)"
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
         }
       ],
       "formats": [
         {
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
+          "name": "eBook",
+          "colorCode": "#2c5813"
         }
       ]
     }
@@ -46,6 +46,47 @@
     {
       "year": "2024",
       "books": [
+        {
+          "bookId": 14,
+          "title": "The Demon of Unrest",
+          "subTitle": "A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War",
+          "fullTitle": "The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War",
+          "author": "Erik Larson",
+          "link": "https://bookshop.org/p/books/the-demon-of-unrest-a-saga-of-hubris-heartbreak-and-heroism-at-the-dawn-of-the-civil-war-erik-larson/20335359",
+          "dateStarted": "2024-09-07T00:00:00",
+          "dateCompleted": "2024-09-17T00:00:00",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "This was an interesting read describing the run up to the Civil War and the fall of Fort Sumter. It provides interesting insights into the characters involved and some of their motivations.",
+          "coverImageUrl": "https://i.postimg.cc/DzzqQJ6r/demon-of-unrest.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 491,
+          "pageCount": 491,
+          "percentComplete": 100,
+          "sortOrder": 81,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
+        },
         {
           "bookId": 206,
           "title": "Liar in a Crowded Theater",
@@ -11035,24 +11076,65 @@
   ],
   "toRead": [
     {
-      "bookId": 522,
-      "title": "Station Eleven",
+      "bookId": 476,
+      "title": "The Good Neighbor: The Life and Work of Fred Rogers",
       "subTitle": "",
-      "fullTitle": "Station Eleven",
-      "author": "Emily St. John Mandel",
-      "link": "https://bookshop.org/p/books/station-eleven-emily-st-john-mandel/586327?ean=9780804172448",
+      "fullTitle": "The Good Neighbor: The Life and Work of Fred Rogers",
+      "author": "Maxwell King",
+      "link": "https://bookshop.org/books/the-good-neighbor-the-life-and-work-of-fred-rogers-9781419735165/9781419735165",
       "dateStarted": null,
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/pTDHxysT/station-eleven.jpg",
+      "coverImageUrl": "https://i.postimg.cc/8k0qg1Hv/the-good-neighbor.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
       "currentPage": 1,
       "pageCount": 0,
       "percentComplete": 0,
-      "sortOrder": 83,
+      "sortOrder": 84,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Biography / Memoir",
+          "colorCode": "rgb(68, 0, 214)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 179,
+      "title": "Zero Days",
+      "subTitle": "",
+      "fullTitle": "Zero Days",
+      "author": "Ruth Ware",
+      "link": "https://bookshop.org/p/books/zero-days/18899219",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/L5w7tTXD/zero-days.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 0,
+      "percentComplete": 0,
+      "sortOrder": 85,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"
@@ -11064,8 +11146,49 @@
       "series": null,
       "genres": [
         {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
+          "name": "Thriller",
+          "colorCode": "rgb(54, 31, 112)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 407,
+      "title": "The Candy House",
+      "subTitle": "",
+      "fullTitle": "The Candy House",
+      "author": "Jennifer Egan",
+      "link": "https://bookshop.org/p/books/the-candy-house-jennifer-egan/19580001?ean=9781476716763",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/GhT6cZ75/the-candy-house.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 0,
+      "percentComplete": 0,
+      "sortOrder": 86,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "General Fiction",
+          "colorCode": "rgb(145, 104, 104)"
         }
       ],
       "formats": [
@@ -11093,7 +11216,7 @@
       "currentPage": 1,
       "pageCount": 0,
       "percentComplete": 0,
-      "sortOrder": 84,
+      "sortOrder": 87,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"
@@ -11115,6 +11238,37 @@
           "colorCode": "#a0175f"
         }
       ]
+    },
+    {
+      "bookId": 195,
+      "title": "Battle Cry of Freedom: The Civil War Era",
+      "subTitle": "",
+      "fullTitle": "Battle Cry of Freedom: The Civil War Era",
+      "author": "James M. McPherson",
+      "link": "https://bookshop.org/p/books/battle-cry-of-freedom-the-civil-war-era-james-m-mcpherson/7413205?ean=9780195168952",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 0,
+      "percentComplete": 0,
+      "sortOrder": 88,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [],
+      "formats": []
     },
     {
       "bookId": 189,
@@ -11383,37 +11537,6 @@
       "pageCount": 0,
       "percentComplete": 0,
       "sortOrder": 180,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
-      "bookId": 476,
-      "title": "The Good Neighbor: The Life and Work of Fred Rogers",
-      "subTitle": "",
-      "fullTitle": "The Good Neighbor: The Life and Work of Fred Rogers",
-      "author": "Maxwell King",
-      "link": "https://bookshop.org/books/the-good-neighbor-the-life-and-work-of-fred-rogers-9781419735165/9781419735165",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "percentComplete": 0,
-      "sortOrder": 190,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"
@@ -12543,37 +12666,6 @@
       "formats": []
     },
     {
-      "bookId": 179,
-      "title": "Zero Days",
-      "subTitle": "",
-      "fullTitle": "Zero Days",
-      "author": "Ruth Ware",
-      "link": "https://bookshop.org/p/books/zero-days/18899219",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "percentComplete": 0,
-      "sortOrder": 560,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
       "bookId": 181,
       "title": "Outland",
       "subTitle": "",
@@ -12623,37 +12715,6 @@
       "pageCount": 0,
       "percentComplete": 0,
       "sortOrder": 600,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
-      "bookId": 407,
-      "title": "The Candy House",
-      "subTitle": "",
-      "fullTitle": "The Candy House",
-      "author": "Jennifer Egan",
-      "link": "https://bookshop.org/p/books/the-candy-house-jennifer-egan/19580001?ean=9781476716763",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "percentComplete": 0,
-      "sortOrder": 610,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"
@@ -12729,37 +12790,6 @@
       "formats": []
     },
     {
-      "bookId": 72,
-      "title": "Station Eleven",
-      "subTitle": "",
-      "fullTitle": "Station Eleven",
-      "author": "Emily St John Mandel",
-      "link": "https://bookshop.org/p/books/station-eleven-emily-st-john-mandel/586327?ean=9780804172448",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "percentComplete": 0,
-      "sortOrder": 640,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
       "bookId": 194,
       "title": "When McKinsey Comes to Town: The Hidden Influence of the World\u0027s Most Powerful Consulting Firm",
       "subTitle": "",
@@ -12778,37 +12808,6 @@
       "pageCount": 0,
       "percentComplete": 0,
       "sortOrder": 650,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
-      "bookId": 195,
-      "title": "Battle Cry of Freedom: The Civil War Era",
-      "subTitle": "",
-      "fullTitle": "Battle Cry of Freedom: The Civil War Era",
-      "author": "James M. McPherson",
-      "link": "https://bookshop.org/p/books/battle-cry-of-freedom-the-civil-war-era-james-m-mcpherson/7413205?ean=9780195168952",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 0,
-      "percentComplete": 0,
-      "sortOrder": 660,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"
