@@ -3092,7 +3092,48 @@
         "colorCode": "rgb(102, 59, 177)"
       }
     ],
-    "tracks": []
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Spy Diddley"
+      },
+      {
+        "trackNumber": 2,
+        "title": "100k"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Distracted"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Please Be Here"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Selfish Masquerade"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Jane"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Sarah\u0027s Game"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Candy Cane"
+      },
+      {
+        "trackNumber": 9,
+        "title": "The Bridge"
+      },
+      {
+        "trackNumber": 10,
+        "title": "I Swear"
+      }
+    ]
   },
   {
     "musicAlbumId": 146,
