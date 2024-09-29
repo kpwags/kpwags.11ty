@@ -82,6 +82,31 @@
   ],
   "completed": [
     {
+      "videoGameId": 5,
+      "title": "Super Mario RPG",
+      "link": "https://www.nintendo.com/us/store/products/super-mario-rpg-switch/",
+      "dateStarted": "2023-11-19T00:00:00",
+      "dateCompleted": "2024-09-26T00:00:00",
+      "rating": 4,
+      "thoughts": "I remember playing this game as a kid. They did a fantastic job on the remake keeping all the good parts. The gameplay is fun as it was before and a different kind of Mario story.",
+      "coverImageUrl": "https://i.postimg.cc/L8Z0qdSY/mario-rpg.jpg",
+      "sortOrder": 2,
+      "status": 3,
+      "completionStatus": 2,
+      "genres": [
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Nintendo Switch",
+          "colorCode": "#8e0b24"
+        }
+      ]
+    },
+    {
       "videoGameId": 22,
       "title": "The Last of Us",
       "link": "https://www.playstation.com/en-us/games/the-last-of-us-remastered/",
@@ -1136,31 +1161,6 @@
         {
           "name": "PC",
           "colorCode": "#4f1e57"
-        }
-      ]
-    },
-    {
-      "videoGameId": 5,
-      "title": "Super Mario RPG",
-      "link": "https://www.nintendo.com/us/store/products/super-mario-rpg-switch/",
-      "dateStarted": "2023-11-19T00:00:00",
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/L8Z0qdSY/mario-rpg.jpg",
-      "sortOrder": 2,
-      "status": 1,
-      "completionStatus": 1,
-      "genres": [
-        {
-          "name": "Role Playing Game",
-          "colorCode": "#a83ece"
-        }
-      ],
-      "systems": [
-        {
-          "name": "Nintendo Switch",
-          "colorCode": "#8e0b24"
         }
       ]
     },

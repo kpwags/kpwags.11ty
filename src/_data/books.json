@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 522,
-      "title": "Station Eleven",
+      "bookId": 179,
+      "title": "Zero Days",
       "subTitle": "",
-      "fullTitle": "Station Eleven",
-      "author": "Emily St. John Mandel",
-      "link": "https://bookshop.org/p/books/station-eleven-emily-st-john-mandel/586327?ean=9780804172448",
-      "dateStarted": "2024-09-17T00:00:00",
+      "fullTitle": "Zero Days",
+      "author": "Ruth Ware",
+      "link": "https://bookshop.org/p/books/zero-days/18899219",
+      "dateStarted": "2024-09-28T00:00:00",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/pTDHxysT/station-eleven.jpg",
+      "coverImageUrl": "https://i.postimg.cc/L5w7tTXD/zero-days.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 1548,
-      "pageCount": 4584,
-      "percentComplete": 34,
-      "sortOrder": 83,
+      "currentPage": 1186,
+      "pageCount": 4721,
+      "percentComplete": 25,
+      "sortOrder": 85,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -30,8 +30,8 @@
       "series": null,
       "genres": [
         {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
+          "name": "Thriller",
+          "colorCode": "rgb(54, 31, 112)"
         }
       ],
       "formats": [
@@ -46,6 +46,88 @@
     {
       "year": "2024",
       "books": [
+        {
+          "bookId": 476,
+          "title": "The Good Neighbor: The Life and Work of Fred Rogers",
+          "subTitle": "",
+          "fullTitle": "The Good Neighbor: The Life and Work of Fred Rogers",
+          "author": "Maxwell King",
+          "link": "https://bookshop.org/books/the-good-neighbor-the-life-and-work-of-fred-rogers-9781419735165/9781419735165",
+          "dateStarted": "2024-09-22T00:00:00",
+          "dateCompleted": "2024-09-27T00:00:00",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "I idolized Mr. Rogers as a child and I thought this was a very fitting biography of him. I\u2019ve heard so much about him growing up and this was a nice look into who he was as a person.",
+          "coverImageUrl": "https://i.postimg.cc/8k0qg1Hv/the-good-neighbor.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 5858,
+          "pageCount": 5858,
+          "percentComplete": 100,
+          "sortOrder": 84,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Biography / Memoir",
+              "colorCode": "rgb(68, 0, 214)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
+        },
+        {
+          "bookId": 522,
+          "title": "Station Eleven",
+          "subTitle": "",
+          "fullTitle": "Station Eleven",
+          "author": "Emily St. John Mandel",
+          "link": "https://bookshop.org/p/books/station-eleven-emily-st-john-mandel/586327?ean=9780804172448",
+          "dateStarted": "2024-09-17T00:00:00",
+          "dateCompleted": "2024-09-21T00:00:00",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "An interesting story that in some cases felt like it hit a little too close to 2020, but was still enjoyable with a good amount of suspense to want to know what happens next.",
+          "coverImageUrl": "https://i.postimg.cc/pTDHxysT/station-eleven.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 4584,
+          "pageCount": 4584,
+          "percentComplete": 100,
+          "sortOrder": 83,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
+        },
         {
           "bookId": 14,
           "title": "The Demon of Unrest",
@@ -11075,88 +11157,6 @@
     }
   ],
   "toRead": [
-    {
-      "bookId": 476,
-      "title": "The Good Neighbor: The Life and Work of Fred Rogers",
-      "subTitle": "",
-      "fullTitle": "The Good Neighbor: The Life and Work of Fred Rogers",
-      "author": "Maxwell King",
-      "link": "https://bookshop.org/books/the-good-neighbor-the-life-and-work-of-fred-rogers-9781419735165/9781419735165",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/8k0qg1Hv/the-good-neighbor.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "percentComplete": 0,
-      "sortOrder": 84,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Biography / Memoir",
-          "colorCode": "rgb(68, 0, 214)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "eBook",
-          "colorCode": "#2c5813"
-        }
-      ]
-    },
-    {
-      "bookId": 179,
-      "title": "Zero Days",
-      "subTitle": "",
-      "fullTitle": "Zero Days",
-      "author": "Ruth Ware",
-      "link": "https://bookshop.org/p/books/zero-days/18899219",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/L5w7tTXD/zero-days.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "percentComplete": 0,
-      "sortOrder": 85,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Thriller",
-          "colorCode": "rgb(54, 31, 112)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "eBook",
-          "colorCode": "#2c5813"
-        }
-      ]
-    },
     {
       "bookId": 407,
       "title": "The Candy House",
