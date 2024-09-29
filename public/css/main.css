@@ -1429,6 +1429,19 @@ article.blog-post-page .related-posts a {
     margin: 8px 0;
 }
 
+article.blog-post-page .shared-link {
+    margin-bottom: 24px;
+}
+
+article.blog-post-page .shared-link h3 {
+    font-size: 1.4rem;
+}
+
+article.blog-post-page .shared-link .posted-by {
+    font-style: italic;
+    font-size: 1rem;
+}
+
 /* end blog & reading-logs */
 
 /* blog post, book note, note shared */

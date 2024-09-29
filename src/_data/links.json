@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 389,
+    "title": "Microsoft wants Three Mile Island to fuel its AI power needs",
+    "url": "https://www.theverge.com/2024/9/20/24249770/microsoft-three-mile-island-nuclear-power-plant-deal-ai-data-centers",
+    "author": "Tom Warren",
+    "linkDate": "2024-09-20T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 390,
+    "title": "Interest rates, inflation and the American consumer",
+    "url": "https://www.marketplace.org/shows/make-me-smart/interest-rates-inflation-and-the-american-consumer/",
+    "author": "Make Me Smart",
+    "linkDate": "2024-09-20T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
     "linkId": 387,
     "title": "Inside the Texas Crime Lab That\u2019s Cracked Hundreds of Cold Cases",
     "url": "https://www.texasmonthly.com/news-politics/othram-forensic-genetic-genealogy-catherine-edwards-murder/?src=longreads",
@@ -13,6 +45,22 @@
     "category": {
       "name": "Science",
       "colorCode": "#732a45"
+    }
+  },
+  {
+    "linkId": 388,
+    "title": "How I build a button component",
+    "url": "https://piccalil.li/blog/how-i-build-a-button-component/",
+    "author": "Andy Bell",
+    "linkDate": "2024-09-19T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
     }
   },
   {

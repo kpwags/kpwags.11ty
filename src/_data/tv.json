@@ -86,23 +86,6 @@
       "services": []
     },
     {
-      "televisionShowId": 81,
-      "title": "Challenger: Final Flight",
-      "imdbLink": "https://www.imdb.com/title/tt12930534/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/gk6MByXp/challengerfinalflight.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
       "televisionShowId": 29,
       "title": "Cosmos",
       "imdbLink": "https://www.imdb.com/title/tt2395695/",
@@ -1087,6 +1070,33 @@
     }
   ],
   "inProgress": [
+    {
+      "televisionShowId": 81,
+      "title": "Challenger: Final Flight",
+      "imdbLink": "https://www.imdb.com/title/tt12930534/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/gk6MByXp/challengerfinalflight.jpg",
+      "currentSeason": 1,
+      "numberOfSeasons": 4,
+      "sortOrder": null,
+      "status": {
+        "name": "Watching",
+        "colorCode": "#005c78"
+      },
+      "genres": [
+        {
+          "name": "Documentary",
+          "colorCode": "rgb(126, 13, 85)"
+        }
+      ],
+      "services": [
+        {
+          "name": "Netflix",
+          "colorCode": "rgb(190, 4, 4)"
+        }
+      ]
+    },
     {
       "televisionShowId": 16,
       "title": "Good Eats",
