@@ -1,5 +1,421 @@
 [
   {
+    "linkId": 416,
+    "title": "Never Forget What Killed The Oakland A\u2019s",
+    "url": "https://defector.com/ode-on-an-ass-hat-oakland-athletics-last-game",
+    "author": "Ray Ratto",
+    "linkDate": "2024-09-26T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 409,
+    "title": "\u201CSmart\u201D Layouts With Container Queries",
+    "url": "https://css-tricks.com/smart-layouts-with-container-queries/",
+    "author": "Kevin Powell",
+    "linkDate": "2024-09-24T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 410,
+    "title": "C# and Blazor - with Mads Torgersen, Dan Roth, and Scott Hunter!",
+    "url": "https://unhandledexceptionpodcast.com/posts/0065-madst-danr-scotth/",
+    "author": "The Unhandled Exception",
+    "linkDate": "2024-09-24T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 411,
+    "title": "There are two kinds of advertising",
+    "url": "https://chriscoyier.net/2024/08/14/there-are-two-kinds-of-advertising/",
+    "author": "Chris Coyier",
+    "linkDate": "2024-09-24T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 412,
+    "title": "What if you used Container Units for\u2026 everything?",
+    "url": "https://frontendmasters.com/blog/what-if-you-used-container-units-for-everything/",
+    "author": "Chris Coyier",
+    "linkDate": "2024-09-24T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 413,
+    "title": "Fediverse Governance Drop",
+    "url": "https://erinkissane.com/fediverse-governance-drop",
+    "author": "Erin Kissane",
+    "linkDate": "2024-09-24T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 414,
+    "title": "REST is Messy Just Like Us Humans",
+    "url": "https://apievangelist.com/2024/08/27/rest-is-mess-just-like-us-humans/",
+    "author": "Kin Lane",
+    "linkDate": "2024-09-24T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 415,
+    "title": "Semi-Annual Reminder to Learn and Hire for Web Standards",
+    "url": "https://adrianroselli.com/2024/09/semi-annual-reminder-to-learn-and-hire-for-web-standards.html",
+    "author": "Adrian Roselli",
+    "linkDate": "2024-09-24T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 407,
+    "title": "Ideas are Vulnerable",
+    "url": "https://robinrendle.com/notes/ideas-are-vulnerable/",
+    "author": "Robin Rendle",
+    "linkDate": "2024-09-23T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Design",
+      "colorCode": "#0b545e"
+    }
+  },
+  {
+    "linkId": 408,
+    "title": "Could you live without GPS? It\u0027s OK, the economy can\u0027t, either",
+    "url": "https://www.npr.org/2024/09/23/1201324613/gps-america-outside-in-russia-ukraine-china-europe",
+    "author": "The Indicator",
+    "linkDate": "2024-09-23T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 399,
+    "title": "Choose your fighte\u2026billionaire!",
+    "url": "https://birchtree.me/blog/choose-your-fightebillionaire/",
+    "author": "Matt Birchler",
+    "linkDate": "2024-09-22T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 400,
+    "title": "Comparing design systems to find the best qualities",
+    "url": "https://hidde.blog/re-global-design-system/",
+    "author": "Hidde de Vries",
+    "linkDate": "2024-09-22T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 401,
+    "title": "Make kin not nets",
+    "url": "https://everythingchanges.us/blog/make-kin-not-nets/",
+    "author": "Mandy Brown",
+    "linkDate": "2024-09-22T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 402,
+    "title": "Let\u2019s bring back browsing",
+    "url": "https://christianheilmann.com/2024/09/15/lets-bring-back-browsing/",
+    "author": "Christian Heilmann",
+    "linkDate": "2024-09-22T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 403,
+    "title": "Permissions Pollution",
+    "url": "https://pxlnv.com/blog/permissions-pollution/",
+    "author": "Nick Heer",
+    "linkDate": "2024-09-22T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 404,
+    "title": "We don\u2019t need a boss, we need a process",
+    "url": "https://robinrendle.com/notes/we-dont-need-a-boss-we-need-a-process/",
+    "author": "Robin Rendle",
+    "linkDate": "2024-09-22T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Design",
+      "colorCode": "#0b545e"
+    }
+  },
+  {
+    "linkId": 405,
+    "title": "The Mac Is a Power Tool",
+    "url": "https://daringfireball.net/2024/08/the_mac_is_a_power_tool",
+    "author": "John Gruber",
+    "linkDate": "2024-09-22T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 406,
+    "title": "The Final Penalty",
+    "url": "https://www.inquirer.com/eagles/a/philadelphia-eagles-nfl-concussions-settlement-compensation-20240909.html",
+    "author": "David Gambacorta",
+    "linkDate": "2024-09-22T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 391,
+    "title": "Patterns for Memory Efficient DOM Manipulation with Modern Vanilla JavaScript",
+    "url": "https://frontendmasters.com/blog/patterns-for-memory-efficient-dom-manipulation/",
+    "author": "Frontend Masters",
+    "linkDate": "2024-09-21T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 392,
+    "title": "Tips for Using React Testing Library to Write Unit Tests",
+    "url": "https://spin.atomicobject.com/react-testing-library-unit-tests/",
+    "author": "Pavan Policherla",
+    "linkDate": "2024-09-21T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 393,
+    "title": "Toasts are Bad UX",
+    "url": "https://maxschmitt.me/posts/toasts-bad-ux",
+    "author": "Max Schmitt",
+    "linkDate": "2024-09-21T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Design",
+      "colorCode": "#0b545e"
+    }
+  },
+  {
+    "linkId": 394,
+    "title": "How to make your web page faster before it even loads",
+    "url": "https://blog.sentry.io/how-to-make-your-web-page-faster-before-it-even-loads/",
+    "author": "Salma Alam-Naylor",
+    "linkDate": "2024-09-21T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 395,
+    "title": "Build-time Components",
+    "url": "https://codehike.org/blog/build-time-components",
+    "author": "Rodrigo Pombo",
+    "linkDate": "2024-09-21T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 396,
+    "title": "This life-size Lego McLaren P1 can hit almost 40mph",
+    "url": "https://www.theverge.com/2024/9/12/24242802/lego-mclaren-p1-hypercar-full-size",
+    "author": "Andrew Liszewski",
+    "linkDate": "2024-09-21T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 397,
+    "title": "WebKit Features in Safari 18.0",
+    "url": "https://webkit.org/blog/15865/webkit-features-in-safari-18-0/",
+    "author": "Jen Simmons",
+    "linkDate": "2024-09-21T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 398,
+    "title": "11ty is Joining Font Awesome",
+    "url": "https://www.11ty.dev/blog/eleventy-font-awesome/",
+    "author": "Zach Leatherman",
+    "linkDate": "2024-09-21T00:00:00",
+    "readingLogIssueNumber": 93,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 389,
     "title": "Microsoft wants Three Mile Island to fuel its AI power needs",
     "url": "https://www.theverge.com/2024/9/20/24249770/microsoft-three-mile-island-nuclear-power-plant-deal-ai-data-centers",
