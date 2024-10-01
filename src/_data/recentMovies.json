@@ -44,28 +44,5 @@
         "colorCode": "#832532"
       }
     ]
-  },
-  {
-    "movieId": 153,
-    "title": "Identity Thief",
-    "imdbLink": "https://www.imdb.com/title/tt2024432/",
-    "dateWatched": "2024-09-01T00:00:00",
-    "sortOrder": null,
-    "rating": 3,
-    "thoughts": "It was dumb, but still enjoyable.",
-    "posterImageUrl": "https://i.postimg.cc/VNc2tD23/identity-thief.jpg",
-    "status": "Watched",
-    "genres": [
-      {
-        "name": "Comedy",
-        "colorCode": "#174b1f"
-      }
-    ],
-    "services": [
-      {
-        "name": "Netflix",
-        "colorCode": "#832532"
-      }
-    ]
   }
 ]
