@@ -1,28 +1,18 @@
 {
   "toWatch": [
     {
-      "movieId": 100,
-      "title": "Aliens Abducted My Parents and Now I Feel Kinda Left Out",
-      "imdbLink": "https://m.imdb.com/title/tt16531614/",
+      "movieId": 1,
+      "title": "Michael Clayton",
+      "imdbLink": "",
       "dateWatched": null,
       "sortOrder": null,
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [],
-      "services": []
-    },
-    {
-      "movieId": 99,
-      "title": "Birth/Rebirth",
-      "imdbLink": "https://m.imdb.com/title/tt9048804/",
-      "dateWatched": null,
-      "sortOrder": null,
-      "rating": 0,
-      "thoughts": "",
-      "posterImageUrl": "",
-      "status": "Personal To Watch",
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
       "genres": [],
       "services": []
     },
@@ -35,72 +25,10 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [],
-      "services": []
-    },
-    {
-      "movieId": 142,
-      "title": "The Dark Tower",
-      "imdbLink": "",
-      "dateWatched": null,
-      "sortOrder": null,
-      "rating": 0,
-      "thoughts": "",
-      "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [],
-      "services": []
-    },
-    {
-      "movieId": 122,
-      "title": "High Flying Bird",
-      "imdbLink": "",
-      "dateWatched": null,
-      "sortOrder": null,
-      "rating": 0,
-      "thoughts": "",
-      "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [],
-      "services": []
-    },
-    {
-      "movieId": 98,
-      "title": "Landscape With Invisible Hand",
-      "imdbLink": "https://m.imdb.com/title/tt7645334",
-      "dateWatched": null,
-      "sortOrder": null,
-      "rating": 0,
-      "thoughts": "",
-      "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [],
-      "services": []
-    },
-    {
-      "movieId": 97,
-      "title": "Magazine Dreams",
-      "imdbLink": "https://m.imdb.com/title/tt13652142",
-      "dateWatched": null,
-      "sortOrder": null,
-      "rating": 0,
-      "thoughts": "",
-      "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [],
-      "services": []
-    },
-    {
-      "movieId": 1,
-      "title": "Michael Clayton",
-      "imdbLink": "",
-      "dateWatched": null,
-      "sortOrder": null,
-      "rating": 0,
-      "thoughts": "",
-      "posterImageUrl": "",
-      "status": "Personal To Watch",
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
       "genres": [],
       "services": []
     },
@@ -113,33 +41,10 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [],
-      "services": []
-    },
-    {
-      "movieId": 96,
-      "title": "The Pod Generation",
-      "imdbLink": "https://m.imdb.com/title/tt15768848/",
-      "dateWatched": null,
-      "sortOrder": null,
-      "rating": 0,
-      "thoughts": "",
-      "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [],
-      "services": []
-    },
-    {
-      "movieId": 95,
-      "title": "Polite Society",
-      "imdbLink": "https://m.imdb.com/title/tt18257464/",
-      "dateWatched": null,
-      "sortOrder": null,
-      "rating": 0,
-      "thoughts": "",
-      "posterImageUrl": "",
-      "status": "Personal To Watch",
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
       "genres": [],
       "services": []
     },
@@ -152,7 +57,138 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "movieId": 95,
+      "title": "Polite Society",
+      "imdbLink": "https://m.imdb.com/title/tt18257464/",
+      "dateWatched": null,
+      "sortOrder": null,
+      "rating": 0,
+      "thoughts": "",
+      "posterImageUrl": "",
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "movieId": 96,
+      "title": "The Pod Generation",
+      "imdbLink": "https://m.imdb.com/title/tt15768848/",
+      "dateWatched": null,
+      "sortOrder": null,
+      "rating": 0,
+      "thoughts": "",
+      "posterImageUrl": "",
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "movieId": 97,
+      "title": "Magazine Dreams",
+      "imdbLink": "https://m.imdb.com/title/tt13652142",
+      "dateWatched": null,
+      "sortOrder": null,
+      "rating": 0,
+      "thoughts": "",
+      "posterImageUrl": "",
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "movieId": 98,
+      "title": "Landscape With Invisible Hand",
+      "imdbLink": "https://m.imdb.com/title/tt7645334",
+      "dateWatched": null,
+      "sortOrder": null,
+      "rating": 0,
+      "thoughts": "",
+      "posterImageUrl": "",
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "movieId": 99,
+      "title": "Birth/Rebirth",
+      "imdbLink": "https://m.imdb.com/title/tt9048804/",
+      "dateWatched": null,
+      "sortOrder": null,
+      "rating": 0,
+      "thoughts": "",
+      "posterImageUrl": "",
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "movieId": 100,
+      "title": "Aliens Abducted My Parents and Now I Feel Kinda Left Out",
+      "imdbLink": "https://m.imdb.com/title/tt16531614/",
+      "dateWatched": null,
+      "sortOrder": null,
+      "rating": 0,
+      "thoughts": "",
+      "posterImageUrl": "",
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "movieId": 122,
+      "title": "High Flying Bird",
+      "imdbLink": "",
+      "dateWatched": null,
+      "sortOrder": null,
+      "rating": 0,
+      "thoughts": "",
+      "posterImageUrl": "",
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "movieId": 142,
+      "title": "The Dark Tower",
+      "imdbLink": "",
+      "dateWatched": null,
+      "sortOrder": null,
+      "rating": 0,
+      "thoughts": "",
+      "posterImageUrl": "",
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
       "genres": [],
       "services": []
     },
@@ -165,19 +201,12 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#53602a"
-        }
-      ],
-      "services": [
-        {
-          "name": "HBO",
-          "colorCode": "#47155b"
-        }
-      ]
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
     },
     {
       "movieId": 148,
@@ -188,19 +217,12 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#53602a"
-        }
-      ],
-      "services": [
-        {
-          "name": "HBO",
-          "colorCode": "#47155b"
-        }
-      ]
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
     },
     {
       "movieId": 140,
@@ -211,19 +233,12 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Documentary",
-          "colorCode": "#583712"
-        }
-      ],
-      "services": [
-        {
-          "name": "Hulu",
-          "colorCode": "#195b21"
-        }
-      ]
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
     },
     {
       "movieId": 118,
@@ -234,19 +249,12 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Drama",
-          "colorCode": "#54286b"
-        }
-      ],
-      "services": [
-        {
-          "name": "Netflix",
-          "colorCode": "#832532"
-        }
-      ]
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
     },
     {
       "movieId": 14,
@@ -257,13 +265,11 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Action",
-          "colorCode": "#2254ab"
-        }
-      ],
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
       "services": []
     },
     {
@@ -275,23 +281,12 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Action",
-          "colorCode": "#2254ab"
-        },
-        {
-          "name": "Science Fiction",
-          "colorCode": "#53602a"
-        }
-      ],
-      "services": [
-        {
-          "name": "Hulu",
-          "colorCode": "#195b21"
-        }
-      ]
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
     },
     {
       "movieId": 26,
@@ -302,19 +297,12 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#53602a"
-        }
-      ],
-      "services": [
-        {
-          "name": "Hulu",
-          "colorCode": "#195b21"
-        }
-      ]
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
     },
     {
       "movieId": 25,
@@ -325,23 +313,12 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Action",
-          "colorCode": "#2254ab"
-        },
-        {
-          "name": "Science Fiction",
-          "colorCode": "#53602a"
-        }
-      ],
-      "services": [
-        {
-          "name": "Hulu",
-          "colorCode": "#195b21"
-        }
-      ]
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
     },
     {
       "movieId": 134,
@@ -352,23 +329,12 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Action",
-          "colorCode": "#2254ab"
-        },
-        {
-          "name": "Science Fiction",
-          "colorCode": "#53602a"
-        }
-      ],
-      "services": [
-        {
-          "name": "Hulu",
-          "colorCode": "#195b21"
-        }
-      ]
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
     },
     {
       "movieId": 128,
@@ -379,23 +345,12 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Action",
-          "colorCode": "#2254ab"
-        },
-        {
-          "name": "Science Fiction",
-          "colorCode": "#53602a"
-        }
-      ],
-      "services": [
-        {
-          "name": "Hulu",
-          "colorCode": "#195b21"
-        }
-      ]
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
     },
     {
       "movieId": 24,
@@ -406,23 +361,12 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#53602a"
-        }
-      ],
-      "services": [
-        {
-          "name": "HBO",
-          "colorCode": "#47155b"
-        },
-        {
-          "name": "Hulu",
-          "colorCode": "#195b21"
-        }
-      ]
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
     },
     {
       "movieId": 129,
@@ -433,19 +377,12 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#53602a"
-        }
-      ],
-      "services": [
-        {
-          "name": "Hulu",
-          "colorCode": "#195b21"
-        }
-      ]
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
     },
     {
       "movieId": 127,
@@ -456,19 +393,12 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#53602a"
-        }
-      ],
-      "services": [
-        {
-          "name": "Hulu",
-          "colorCode": "#195b21"
-        }
-      ]
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
     },
     {
       "movieId": 27,
@@ -479,19 +409,12 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#53602a"
-        }
-      ],
-      "services": [
-        {
-          "name": "Hulu",
-          "colorCode": "#195b21"
-        }
-      ]
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
     },
     {
       "movieId": 5,
@@ -502,19 +425,12 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Documentary",
-          "colorCode": "#583712"
-        }
-      ],
-      "services": [
-        {
-          "name": "Hulu",
-          "colorCode": "#195b21"
-        }
-      ]
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
     },
     {
       "movieId": 117,
@@ -525,13 +441,11 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#53602a"
-        }
-      ],
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
       "services": []
     },
     {
@@ -543,13 +457,11 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Action",
-          "colorCode": "#2254ab"
-        }
-      ],
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
       "services": []
     },
     {
@@ -561,13 +473,11 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Action",
-          "colorCode": "#2254ab"
-        }
-      ],
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
       "services": []
     },
     {
@@ -579,13 +489,11 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Action",
-          "colorCode": "#2254ab"
-        }
-      ],
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
       "services": []
     },
     {
@@ -597,23 +505,12 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Horror",
-          "colorCode": "#1b3756"
-        },
-        {
-          "name": "Science Fiction",
-          "colorCode": "#53602a"
-        }
-      ],
-      "services": [
-        {
-          "name": "Paramount\u002B",
-          "colorCode": "#20506a"
-        }
-      ]
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
     },
     {
       "movieId": 8,
@@ -624,19 +521,12 @@
       "rating": 0,
       "thoughts": "",
       "posterImageUrl": "",
-      "status": "Personal To Watch",
-      "genres": [
-        {
-          "name": "Comedy",
-          "colorCode": "#174b1f"
-        }
-      ],
-      "services": [
-        {
-          "name": "Netflix",
-          "colorCode": "#832532"
-        }
-      ]
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [],
+      "services": []
     }
   ],
   "watched": [
@@ -647,196 +537,143 @@
           "movieId": 154,
           "title": "The Holdovers",
           "imdbLink": "https://www.imdb.com/title/tt14849194/",
-          "dateWatched": "2024-09-14T00:00:00",
+          "dateWatched": "2024-09-14T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "I enjoyed it. I liked the characters and while the story was somewhat predictable, it was still a good watch.",
           "posterImageUrl": "https://i.postimg.cc/pXGscpSK/the-holdovers.jpg",
-          "status": "Watched",
-          "genres": [
-            {
-              "name": "Comedy",
-              "colorCode": "#174b1f"
-            }
-          ],
-          "services": [
-            {
-              "name": "Amazon Prime",
-              "colorCode": "#215260"
-            }
-          ]
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
+          "genres": [],
+          "services": []
         },
         {
           "movieId": 34,
           "title": "Won\u2019t You Be My Neighbor",
           "imdbLink": "https://www.imdb.com/title/tt7681902",
-          "dateWatched": "2024-09-02T00:00:00",
+          "dateWatched": "2024-09-02T05:00:00Z",
           "sortOrder": 20,
           "rating": 3,
           "thoughts": "This was as interesting look back at Mr. Rogers and while not as in-depth as I had anticipated, it was nostalgic and showed how amazing Fred Rogers really was.",
           "posterImageUrl": "https://i.postimg.cc/c15N45YT/wont-you-be-my-neighbor.jpg",
-          "status": "Watched",
-          "genres": [
-            {
-              "name": "Documentary",
-              "colorCode": "#583712"
-            }
-          ],
-          "services": [
-            {
-              "name": "Netflix",
-              "colorCode": "#832532"
-            }
-          ]
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
+          "genres": [],
+          "services": []
         },
         {
           "movieId": 153,
           "title": "Identity Thief",
           "imdbLink": "https://www.imdb.com/title/tt2024432/",
-          "dateWatched": "2024-09-01T00:00:00",
+          "dateWatched": "2024-09-01T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "It was dumb, but still enjoyable.",
           "posterImageUrl": "https://i.postimg.cc/VNc2tD23/identity-thief.jpg",
-          "status": "Watched",
-          "genres": [
-            {
-              "name": "Comedy",
-              "colorCode": "#174b1f"
-            }
-          ],
-          "services": [
-            {
-              "name": "Netflix",
-              "colorCode": "#832532"
-            }
-          ]
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
+          "genres": [],
+          "services": []
         },
         {
           "movieId": 152,
           "title": "The Accountant",
           "imdbLink": "https://www.imdb.com/title/tt2140479/",
-          "dateWatched": "2024-08-25T00:00:00",
+          "dateWatched": "2024-08-25T05:00:00Z",
           "sortOrder": null,
           "rating": 2,
           "thoughts": "There were some decent action scenes, but some characters and roles seemed kind of superfluous, like the movie would have been just fine without them.",
           "posterImageUrl": "https://i.postimg.cc/brVw05X1/the-accountant.jpg",
-          "status": "Watched",
-          "genres": [
-            {
-              "name": "Action",
-              "colorCode": "#2254ab"
-            }
-          ],
-          "services": [
-            {
-              "name": "Netflix",
-              "colorCode": "#832532"
-            }
-          ]
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
+          "genres": [],
+          "services": []
         },
         {
           "movieId": 151,
           "title": "Being the Ricardos",
           "imdbLink": "https://www.imdb.com/title/tt4995540/",
-          "dateWatched": "2024-08-24T00:00:00",
+          "dateWatched": "2024-08-24T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "This ended up being something completely different than what I anticipated, but not in a bad way. It just showed a different side of the show than I expected.",
           "posterImageUrl": "https://i.postimg.cc/XJ9nb5pd/being-the-ricardos.jpg",
-          "status": "Watched",
-          "genres": [
-            {
-              "name": "Drama",
-              "colorCode": "#54286b"
-            }
-          ],
-          "services": [
-            {
-              "name": "Amazon Prime",
-              "colorCode": "#215260"
-            }
-          ]
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
+          "genres": [],
+          "services": []
         },
         {
           "movieId": 150,
           "title": "Sicario",
           "imdbLink": "https://m.imdb.com/title/tt3397884/",
-          "dateWatched": "2024-08-16T00:00:00",
+          "dateWatched": "2024-08-16T05:00:00Z",
           "sortOrder": null,
           "rating": 2,
           "thoughts": "I thought this would be better given the cast. In the end, I felt like several of the characters were superfluous and the story disjointed.",
           "posterImageUrl": "https://i.postimg.cc/cL4XCTQR/sicario.jpg",
-          "status": "Watched",
-          "genres": [
-            {
-              "name": "Action",
-              "colorCode": "#2254ab"
-            }
-          ],
-          "services": [
-            {
-              "name": "Amazon Prime",
-              "colorCode": "#215260"
-            }
-          ]
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
+          "genres": [],
+          "services": []
         },
         {
           "movieId": 147,
           "title": "Asteroid City",
           "imdbLink": "https://www.imdb.com/title/tt14230388/",
-          "dateWatched": "2024-08-10T00:00:00",
+          "dateWatched": "2024-08-10T05:00:00Z",
           "sortOrder": null,
           "rating": 2,
           "thoughts": "This was just weird. I guess I\u2019m not really surprised since it\u2019s a Wes Anderson film, but I really don\u2019t know what to make of it.",
           "posterImageUrl": "https://i.postimg.cc/k5KJVJd1/asteroid-city.jpg",
-          "status": "Watched",
-          "genres": [
-            {
-              "name": "Comedy",
-              "colorCode": "#174b1f"
-            }
-          ],
-          "services": [
-            {
-              "name": "Amazon Prime",
-              "colorCode": "#215260"
-            }
-          ]
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
+          "genres": [],
+          "services": []
         },
         {
           "movieId": 146,
           "title": "The Many Saints of Newark",
           "imdbLink": "https://www.imdb.com/title/tt8110232/",
-          "dateWatched": "2024-07-28T00:00:00",
+          "dateWatched": "2024-07-28T05:00:00Z",
           "sortOrder": null,
           "rating": 2,
           "thoughts": "Not really sure I liked it\u2026felt disjointed and with some storylines just never finished or flushed out.",
           "posterImageUrl": "https://i.postimg.cc/wx2sTN7K/many-saints-of-newark.jpg",
-          "status": "Watched",
-          "genres": [
-            {
-              "name": "Drama",
-              "colorCode": "#54286b"
-            }
-          ],
-          "services": [
-            {
-              "name": "HBO",
-              "colorCode": "#47155b"
-            }
-          ]
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
+          "genres": [],
+          "services": []
         },
         {
           "movieId": 2,
           "title": "The Foreigner",
           "imdbLink": "https://m.imdb.com/title/tt1615160",
-          "dateWatched": "2024-07-04T00:00:00",
+          "dateWatched": "2024-07-04T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "This wasn\u2019t quite what I expected. It was still a decent action flick with some intrigue.",
           "posterImageUrl": "https://i.postimg.cc/Z5DgfLNd/the-foreigner.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -844,12 +681,15 @@
           "movieId": 3,
           "title": "Anyone But You",
           "imdbLink": "https://www.imdb.com/title/tt26047818/",
-          "dateWatched": "2024-06-23T00:00:00",
+          "dateWatched": "2024-06-23T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "This was a typical romantic comedy. It was mostly predictable but still enjoyable.",
           "posterImageUrl": "https://i.postimg.cc/NMB084ST/anyone-but-you.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -857,12 +697,15 @@
           "movieId": 4,
           "title": "Patriot Games",
           "imdbLink": "https://www.imdb.com/title/tt0105112/",
-          "dateWatched": "2024-06-01T00:00:00",
+          "dateWatched": "2024-06-01T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "A Clancy film with Harrison Ford as Jack Ryan. Definitely shows its age and might be slightly predictable, but still enjoyable.",
           "posterImageUrl": "https://i.postimg.cc/brqLv4Z9/patriot-games.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -870,12 +713,15 @@
           "movieId": 6,
           "title": "Ghostbusters: Frozen Empire",
           "imdbLink": "https://www.imdb.com/title/tt21235248",
-          "dateWatched": "2024-04-09T00:00:00",
+          "dateWatched": "2024-04-09T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "This was slightly predictable, but still an enjoyable follow-up to Afterlife.",
           "posterImageUrl": "https://i.postimg.cc/hvbH6qQg/ghostbusters-frozen-empire.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -883,12 +729,15 @@
           "movieId": 7,
           "title": "Ghostbusters: Afterlife",
           "imdbLink": "https://www.imdb.com/title/tt4513678/",
-          "dateWatched": "2024-04-06T00:00:00",
+          "dateWatched": "2024-04-06T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "I really enjoyed this. I thought they did a good job of telling a new story while still paying homage to the past.",
           "posterImageUrl": "https://i.postimg.cc/L4bQ5206/ghostbustersafterlife.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -896,12 +745,15 @@
           "movieId": 9,
           "title": "The Hateful Eight",
           "imdbLink": "https://www.imdb.com/title/tt3460252/",
-          "dateWatched": "2024-03-03T00:00:00",
+          "dateWatched": "2024-03-03T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "This was definitely a Tarantino movie. I thought the story was somewhat predictable, but was still enjoyable.",
           "posterImageUrl": "https://i.postimg.cc/ry7ZxXpC/hateful-eight.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -909,12 +761,15 @@
           "movieId": 137,
           "title": "John Wick",
           "imdbLink": "https://www.imdb.com/title/tt2911666/",
-          "dateWatched": "2024-02-18T00:00:00",
+          "dateWatched": "2024-02-18T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "A pretty prototypical action flick. Still enjoyable.",
           "posterImageUrl": "https://i.postimg.cc/zBfHB77p/john-wick.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -922,12 +777,15 @@
           "movieId": 11,
           "title": "My Cousin Vinny",
           "imdbLink": "https://www.imdb.com/title/tt0104952",
-          "dateWatched": "2024-02-11T00:00:00",
+          "dateWatched": "2024-02-11T05:00:00Z",
           "sortOrder": null,
           "rating": 2,
           "thoughts": "This had some good points, not sure why it\u2019s considered such a classic though.",
           "posterImageUrl": "https://i.postimg.cc/fyMyhFGC/my-cousin-vinny.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -935,12 +793,15 @@
           "movieId": 13,
           "title": "Dark Shadows",
           "imdbLink": "https://www.imdb.com/title/tt1077368/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_dark%2520sha",
-          "dateWatched": "2024-02-04T00:00:00",
+          "dateWatched": "2024-02-04T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "This was strange. Not awful, but strange.",
           "posterImageUrl": "https://i.postimg.cc/SKd7LmBh/dark-shadows.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -948,12 +809,15 @@
           "movieId": 15,
           "title": "Heat",
           "imdbLink": "https://www.imdb.com/title/tt0113277/?ref_=fn_al_tt_1",
-          "dateWatched": "2024-01-14T00:00:00",
+          "dateWatched": "2024-01-14T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "De Niro vs. Pacino. They don\u2019t make heist movies like this anymore.",
           "posterImageUrl": "https://i.postimg.cc/kGkFdTpY/temp-Imagezbw7-ZR.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         }
@@ -963,28 +827,34 @@
       "year": "2023",
       "movies": [
         {
-          "movieId": 17,
-          "title": "Once Upon a Time in Hollywood",
-          "imdbLink": "https://www.imdb.com/title/tt7131622/",
-          "dateWatched": "2023-12-31T00:00:00",
-          "sortOrder": null,
-          "rating": 2,
-          "thoughts": "I found the movie to be dragged out far longer than it needed to be.",
-          "posterImageUrl": "https://i.postimg.cc/X758ZMW9/once-upon-a-time-in-hollywood.jpg",
-          "status": "Watched",
-          "genres": [],
-          "services": []
-        },
-        {
           "movieId": 16,
           "title": "This is the End",
           "imdbLink": "https://www.imdb.com/title/tt1245492/",
-          "dateWatched": "2023-12-31T00:00:00",
+          "dateWatched": "2023-12-31T05:00:00Z",
           "sortOrder": null,
           "rating": 2,
           "thoughts": "I didn\u2019t go into this with high expectations. I was not disappointed, dumb, but did have its moments.",
           "posterImageUrl": "https://i.postimg.cc/2SfxhHjM/this-is-the-end.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
+          "genres": [],
+          "services": []
+        },
+        {
+          "movieId": 17,
+          "title": "Once Upon a Time in Hollywood",
+          "imdbLink": "https://www.imdb.com/title/tt7131622/",
+          "dateWatched": "2023-12-31T05:00:00Z",
+          "sortOrder": null,
+          "rating": 2,
+          "thoughts": "I found the movie to be dragged out far longer than it needed to be.",
+          "posterImageUrl": "https://i.postimg.cc/X758ZMW9/once-upon-a-time-in-hollywood.jpg",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -992,12 +862,15 @@
           "movieId": 18,
           "title": "Quiz Lady",
           "imdbLink": "https://www.imdb.com/title/tt13405810/",
-          "dateWatched": "2023-12-29T00:00:00",
+          "dateWatched": "2023-12-29T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "A somewhat predictable comedy, but still enjoyable with some good laughs.",
           "posterImageUrl": "https://i.postimg.cc/YSMLV1Tp/quiz-lady.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1005,12 +878,15 @@
           "movieId": 133,
           "title": "Alien: Resurrection",
           "imdbLink": "https://www.imdb.com/title/tt0118583/",
-          "dateWatched": "2023-12-28T00:00:00",
+          "dateWatched": "2023-12-28T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "It was okay. Definitely felt like the series was drawn out 1 sequel too many.",
           "posterImageUrl": "https://i.postimg.cc/GpSt4gDt/alien-resurrection.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1018,12 +894,15 @@
           "movieId": 19,
           "title": "The Menu",
           "imdbLink": "https://www.imdb.com/title/tt9764362/",
-          "dateWatched": "2023-12-27T00:00:00",
+          "dateWatched": "2023-12-27T05:00:00Z",
           "sortOrder": null,
           "rating": 2,
           "thoughts": "Another weird one. I\u2019m really not sure how I feel about it.",
           "posterImageUrl": "https://i.postimg.cc/X7z7cTXV/the-menu.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1031,12 +910,15 @@
           "movieId": 20,
           "title": "Snowpiercer",
           "imdbLink": "https://www.imdb.com/title/tt1706620/",
-          "dateWatched": "2023-12-26T00:00:00",
+          "dateWatched": "2023-12-26T05:00:00Z",
           "sortOrder": null,
           "rating": 2,
           "thoughts": "This movie was kind of weird for my tastes. Some good action scenes, but the ending seemed a little lackluster.",
           "posterImageUrl": "https://i.postimg.cc/Kc55z5j7/snowpiercer.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1044,12 +926,15 @@
           "movieId": 21,
           "title": "U-571",
           "imdbLink": "https://www.imdb.com/title/tt0141926/",
-          "dateWatched": "2023-12-15T00:00:00",
+          "dateWatched": "2023-12-15T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "This was a typical war movie that was enjoyable, albeit  a little predictable.",
           "posterImageUrl": "https://i.postimg.cc/vTnj9MMJ/u571.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1057,12 +942,15 @@
           "movieId": 22,
           "title": "Father Christmas is Back",
           "imdbLink": "https://www.imdb.com/title/tt13103340/",
-          "dateWatched": "2023-12-10T00:00:00",
+          "dateWatched": "2023-12-10T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "Had some good humor to it with your typical Christmas tropes. Somewhat predictable but still watchable.",
           "posterImageUrl": "https://i.postimg.cc/wvZZ73K5/fatherchristmasisback.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1070,12 +958,15 @@
           "movieId": 132,
           "title": "Alien3",
           "imdbLink": "https://www.imdb.com/title/tt0103644/",
-          "dateWatched": "2023-11-26T00:00:00",
+          "dateWatched": "2023-11-26T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "I think I liked the first 2 movies better, but this was still an enjoyable sci-fi thriller. The ending was a little too predictable.",
           "posterImageUrl": "https://i.postimg.cc/yN8sNGg6/alien3.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1083,25 +974,15 @@
           "movieId": 28,
           "title": "A Haunting in Venice",
           "imdbLink": "https://www.imdb.com/title/tt22687790/",
-          "dateWatched": "2023-11-24T00:00:00",
+          "dateWatched": "2023-11-24T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "Always love a good mystery movie.",
           "posterImageUrl": "https://i.postimg.cc/qRcnK8SH/haunting-in-venice.jpg",
-          "status": "Watched",
-          "genres": [],
-          "services": []
-        },
-        {
-          "movieId": 131,
-          "title": "Aliens",
-          "imdbLink": "https://www.imdb.com/title/tt0090605/",
-          "dateWatched": "2023-11-23T00:00:00",
-          "sortOrder": null,
-          "rating": 4,
-          "thoughts": "I enjoyed this one. It holds up well enough too after over 30 years.",
-          "posterImageUrl": "https://i.postimg.cc/V6z9DGjk/aliens.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1109,12 +990,31 @@
           "movieId": 125,
           "title": "Interstellar",
           "imdbLink": "https://www.imdb.com/title/tt0816692/",
-          "dateWatched": "2023-11-23T00:00:00",
+          "dateWatched": "2023-11-23T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "The visuals for the movie were phenomenal. The story was solid and was interesting.",
           "posterImageUrl": "https://i.postimg.cc/XvC9jMgJ/interstellar.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
+          "genres": [],
+          "services": []
+        },
+        {
+          "movieId": 131,
+          "title": "Aliens",
+          "imdbLink": "https://www.imdb.com/title/tt0090605/",
+          "dateWatched": "2023-11-23T05:00:00Z",
+          "sortOrder": null,
+          "rating": 4,
+          "thoughts": "I enjoyed this one. It holds up well enough too after over 30 years.",
+          "posterImageUrl": "https://i.postimg.cc/V6z9DGjk/aliens.jpg",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1122,12 +1022,15 @@
           "movieId": 29,
           "title": "BlackBerry",
           "imdbLink": "https://www.imdb.com/title/tt21867434/",
-          "dateWatched": "2023-10-16T00:00:00",
+          "dateWatched": "2023-10-16T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "I thought this was ok. Glenn Howerton reminded me of his Dennis character from Sunny.",
           "posterImageUrl": "https://i.postimg.cc/dQBNPd1f/blackberry.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1135,12 +1038,15 @@
           "movieId": 31,
           "title": "Star Trek: Nemesis",
           "imdbLink": "https://www.imdb.com/title/tt0253754/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_star%2520trek%2520neme",
-          "dateWatched": "2023-09-25T00:00:00",
+          "dateWatched": "2023-09-25T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "I know this movie gets a bad rap and it does have its issues, but I still enjoy it. Last time seeing the Enterprise E in action.",
           "posterImageUrl": "https://i.postimg.cc/K8D51F70/startrek-nemesis.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1148,12 +1054,15 @@
           "movieId": 30,
           "title": "Young Frankenstein",
           "imdbLink": "https://www.imdb.com/title/tt0072431/?ref_=nv_sr_srsg_0_tt_4_nm_4_q_young%2520fra",
-          "dateWatched": "2023-09-23T00:00:00",
+          "dateWatched": "2023-09-23T05:00:00Z",
           "sortOrder": null,
           "rating": 2,
           "thoughts": "I know this is considered a classic, but I can\u2019t say I liked it all that much. It had its lines, but I\u2019m a \u201Cmeh\u201D at best on it.",
           "posterImageUrl": "https://i.postimg.cc/xdj3H7tn/young-frankenstein.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1161,12 +1070,15 @@
           "movieId": 32,
           "title": "Mad Max: Fury Road",
           "imdbLink": "https://www.imdb.com/title/tt1392190/",
-          "dateWatched": "2023-09-17T00:00:00",
+          "dateWatched": "2023-09-17T05:00:00Z",
           "sortOrder": null,
           "rating": 2,
           "thoughts": "Maybe I\u2019m not the target audience but I found this movie to be weird and incredibly predictable.",
           "posterImageUrl": "https://i.postimg.cc/DwTgfmGW/mad-max.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1174,12 +1086,15 @@
           "movieId": 35,
           "title": "Oppenheimer",
           "imdbLink": "https://www.imdb.com/title/tt15398776/",
-          "dateWatched": "2023-08-15T00:00:00",
+          "dateWatched": "2023-08-15T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "I enjoyed this. I\u2019m not 100% sure how much was dramatized, but it provided a good look at both the interest in the science and the post-WWII realization of what they did.",
           "posterImageUrl": "https://i.postimg.cc/RCTdWdjP/oppenheimer.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1187,12 +1102,15 @@
           "movieId": 36,
           "title": "Bull Durham",
           "imdbLink": "https://www.imdb.com/title/tt0094812/",
-          "dateWatched": "2023-08-13T00:00:00",
+          "dateWatched": "2023-08-13T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "Typical \u201880s movie, but enjoyable. Some good bits of humor and baseball.",
           "posterImageUrl": "https://i.postimg.cc/kMTx03Q4/bull-durham.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1200,12 +1118,15 @@
           "movieId": 130,
           "title": "Alien",
           "imdbLink": "https://imdb.com/title/tt0078748/",
-          "dateWatched": "2023-08-05T00:00:00",
+          "dateWatched": "2023-08-05T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "Even 40 years later the sci fi \u0026 horror aspects hold up. The movie was and is fantastic!",
           "posterImageUrl": "https://i.postimg.cc/0QtKBYcn/alien.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1213,12 +1134,15 @@
           "movieId": 37,
           "title": "Bros",
           "imdbLink": "https://www.imdb.com/title/tt9731598/",
-          "dateWatched": "2023-08-04T00:00:00",
+          "dateWatched": "2023-08-04T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "This was a typical romantic comedy. It had some good scenes and a positive message.",
           "posterImageUrl": "https://i.postimg.cc/XvHkr74T/bros.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1226,12 +1150,15 @@
           "movieId": 38,
           "title": "Barbie",
           "imdbLink": "https://www.imdb.com/title/tt1517268/",
-          "dateWatched": "2023-08-01T00:00:00",
+          "dateWatched": "2023-08-01T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "I enjoyed this. It had a good mix of humor with a positive message.",
           "posterImageUrl": "https://i.postimg.cc/vHvJBwcN/barbie.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1239,12 +1166,15 @@
           "movieId": 39,
           "title": "Star Trek: Beyond",
           "imdbLink": "https://m.imdb.com/title/tt2660888/",
-          "dateWatched": "2023-07-29T00:00:00",
+          "dateWatched": "2023-07-29T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "I\u2019m not entirely sure I enjoyed this as much of the others, but it was definitely Star Trek and a good Trek action film.",
           "posterImageUrl": "https://i.postimg.cc/jSF1vyS1/startrek-beyond.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1252,12 +1182,15 @@
           "movieId": 40,
           "title": "Star Trek: Into Darkness",
           "imdbLink": "https://m.imdb.com/title/tt1408101/",
-          "dateWatched": "2023-07-28T00:00:00",
+          "dateWatched": "2023-07-28T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "I know there\u2019s a bunch of hate over the Khan reveal, but I actually enjoyed this movie. It even brings in some of the moral commentary Star Trek is known for.",
           "posterImageUrl": "https://i.postimg.cc/xdN4Zqk1/startrek-intodarkness.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1265,12 +1198,15 @@
           "movieId": 41,
           "title": "Star Trek",
           "imdbLink": "https://m.imdb.com/title/tt0796366/",
-          "dateWatched": "2023-07-23T00:00:00",
+          "dateWatched": "2023-07-23T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "I enjoyed the reintroduction to the Star Trek series. The replacements for Kirk \u0026 crew do a great job reprising the roles and there\u2019s a good mix of humor and action.",
           "posterImageUrl": "https://i.postimg.cc/zBmcY5WS/startrek2009.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1278,12 +1214,15 @@
           "movieId": 139,
           "title": "For the Love of Spock",
           "imdbLink": "https://www.imdb.com/title/tt4572820/",
-          "dateWatched": "2023-07-22T00:00:00",
+          "dateWatched": "2023-07-22T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "This was a nice look back into Leonard Nimoy and what he brought to Star Trek and science fiction in general. It was through the eyes of his son Adam and had actors from all walks of Trek and other shows on it. It wasn\u2019t afraid to talk about the more-grim side either.",
           "posterImageUrl": "https://i.postimg.cc/B6hYx0Sp/for-the-love-of-spock.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1291,12 +1230,15 @@
           "movieId": 82,
           "title": "The Out-Laws",
           "imdbLink": "https://www.imdb.com/title/tt11274492/",
-          "dateWatched": "2023-07-09T00:00:00",
+          "dateWatched": "2023-07-09T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "This was particularly dumb, but it still had some good humor. It wasn\u2019t the best movie ever, but I enjoyed it.",
           "posterImageUrl": "https://i.postimg.cc/qRYFPTPR/outlaws.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1304,12 +1246,15 @@
           "movieId": 83,
           "title": "Dungeons \u0026 Dragons: Among Thieves",
           "imdbLink": "https://www.imdb.com/title/tt2906216/",
-          "dateWatched": "2023-07-01T00:00:00",
+          "dateWatched": "2023-07-01T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "I enjoyed this movie. It was a good fantasy flick with a good mix of humor. Chris Pine was funny, Michelle Rodriguez brought the action and the supporting cast were likeable.",
           "posterImageUrl": "https://i.postimg.cc/t4PM8wkR/dungeons-and-dragons.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1317,12 +1262,15 @@
           "movieId": 85,
           "title": "Charlie Wilson\u2019s War",
           "imdbLink": "https://www.imdb.com/title/tt0472062/",
-          "dateWatched": "2023-05-05T00:00:00",
+          "dateWatched": "2023-05-05T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "I\u2019m not entirely sure what I was expecting when I started this. It wasn\u2019t a bad movie and Tom Hanks did a great job, it just felt kinda \u201Cmeh\u201D.",
           "posterImageUrl": "https://i.postimg.cc/RhskVtJM/charlie-wilsons-war.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1330,12 +1278,15 @@
           "movieId": 86,
           "title": "Inside Man",
           "imdbLink": "https://www.imdb.com/title/tt0454848/",
-          "dateWatched": "2023-04-29T00:00:00",
+          "dateWatched": "2023-04-29T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "I enjoyed this with its twists and turns.",
           "posterImageUrl": "https://i.postimg.cc/3rzM6XhB/inside-man.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1343,12 +1294,15 @@
           "movieId": 87,
           "title": "The Gray Man",
           "imdbLink": "https://www.imdb.com/title/tt1649418/",
-          "dateWatched": "2023-04-15T00:00:00",
+          "dateWatched": "2023-04-15T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "This was definitely a good action flick. Ryan Gosling and Chris Evans both did a great job.",
           "posterImageUrl": "https://i.postimg.cc/vZW0098c/gray-man.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1356,12 +1310,15 @@
           "movieId": 88,
           "title": "The Shawshank Redemption",
           "imdbLink": "https://www.imdb.com/title/tt0111161/",
-          "dateWatched": "2023-04-08T00:00:00",
+          "dateWatched": "2023-04-08T05:00:00Z",
           "sortOrder": null,
           "rating": 5,
           "thoughts": "I don\u2019t know if I ever saw this all the way through, but the movie was fantastic. Tim Robbins \u0026 Morgan Freeman were great in it.",
           "posterImageUrl": "https://i.postimg.cc/c4WhrCBW/the-shawshank-redemption.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1369,12 +1326,15 @@
           "movieId": 89,
           "title": "Gatsby",
           "imdbLink": "https://www.imdb.com/title/tt1343092/",
-          "dateWatched": "2023-04-02T00:00:00",
+          "dateWatched": "2023-04-02T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "Some things I remembered from the book\u2026some things I didn\u2019t. I didn\u2019t hate the adaptation.",
           "posterImageUrl": "https://i.postimg.cc/nrg3PGQQ/gatsby.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1382,12 +1342,15 @@
           "movieId": 90,
           "title": "Raiders of the Lost Ark",
           "imdbLink": "https://www.imdb.com/title/tt0082971/",
-          "dateWatched": "2023-03-26T00:00:00",
+          "dateWatched": "2023-03-26T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "40 some years later, this still holds up.",
           "posterImageUrl": "https://i.postimg.cc/kM6zx2St/raiders-of-the-lost-ark.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1395,12 +1358,15 @@
           "movieId": 91,
           "title": "This is Where I Leave You",
           "imdbLink": "https://www.imdb.com/title/tt1371150",
-          "dateWatched": "2023-03-19T00:00:00",
+          "dateWatched": "2023-03-19T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "Wasn\u2019t a bad movie. It had a good mix of humor and drama. It was a little predictable though.",
           "posterImageUrl": "https://i.postimg.cc/DZsQz3Wm/this-is-where-i-leave-you.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1408,12 +1374,15 @@
           "movieId": 92,
           "title": "Sorry to Bother You",
           "imdbLink": "https://www.imdb.com/title/tt5688932/",
-          "dateWatched": "2023-02-11T00:00:00",
+          "dateWatched": "2023-02-11T05:00:00Z",
           "sortOrder": null,
           "rating": 2,
           "thoughts": "This movie started off good\u2026then jumped the shark.",
           "posterImageUrl": "https://i.postimg.cc/N0CCXtf4/sorry-to-bother-you.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1421,12 +1390,15 @@
           "movieId": 93,
           "title": "Margin Call",
           "imdbLink": "https://www.imdb.com/title/tt1615147/",
-          "dateWatched": "2023-02-08T00:00:00",
+          "dateWatched": "2023-02-08T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "I\u2019m not sure how to feel about this other than it feels very much like Wall Street.",
           "posterImageUrl": "https://i.postimg.cc/bNbXjZNj/margin-call.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1434,12 +1406,15 @@
           "movieId": 101,
           "title": "Death on the Nile",
           "imdbLink": "https://m.imdb.com/title/tt7657566/",
-          "dateWatched": "2023-02-05T00:00:00",
+          "dateWatched": "2023-02-05T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "Had some nice twist and turns. While the ending made sense, not entirely sure how we got there.",
           "posterImageUrl": "https://i.postimg.cc/wMvrPBfn/death-on-the-nile.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1447,12 +1422,15 @@
           "movieId": 135,
           "title": "The Harder they Fall",
           "imdbLink": "https://www.imdb.com/title/tt10696784/",
-          "dateWatched": "2023-02-04T00:00:00",
+          "dateWatched": "2023-02-04T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "I enjoyed the movie. It had good action sequences and the cast was fantastic.",
           "posterImageUrl": "https://i.postimg.cc/1tNBNNdm/the-harder-they-fall.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1460,12 +1438,15 @@
           "movieId": 102,
           "title": "You People",
           "imdbLink": "https://www.imdb.com/title/tt14826022/",
-          "dateWatched": "2023-01-28T00:00:00",
+          "dateWatched": "2023-01-28T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "Had a lot of good laughs from this. Jonah Hill and Lauren London had good performances.",
           "posterImageUrl": "https://i.postimg.cc/MTkRN3sw/you-people.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1473,12 +1454,15 @@
           "movieId": 103,
           "title": "Clerks",
           "imdbLink": "https://www.imdb.com/title/tt0109445/",
-          "dateWatched": "2023-01-22T00:00:00",
+          "dateWatched": "2023-01-22T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "The movie was not as good as I remember it being.",
           "posterImageUrl": "https://i.postimg.cc/bvx4SWSV/clerks.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1486,12 +1470,15 @@
           "movieId": 104,
           "title": "The Irishman",
           "imdbLink": "https://www.imdb.com/title/tt1302006/",
-          "dateWatched": "2023-01-21T00:00:00",
+          "dateWatched": "2023-01-21T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "I\u2019m not sure what the hype was around this. De Niro, Pesci \u0026 Pacino were good, but the movie dragged on way too long.",
           "posterImageUrl": "https://i.postimg.cc/j20X6SVz/the-irishman.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1499,12 +1486,15 @@
           "movieId": 105,
           "title": "Amsterdam",
           "imdbLink": "https://www.imdb.com/title/tt10304142/",
-          "dateWatched": "2023-01-15T00:00:00",
+          "dateWatched": "2023-01-15T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "This was a weird movie. Felt kind of weird given the way the story was told versus the true parts of the story",
           "posterImageUrl": "https://i.postimg.cc/Tw98FFR5/amsterdam.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1512,12 +1502,15 @@
           "movieId": 106,
           "title": "Jurassic World: Dominon",
           "imdbLink": "https://www.imdb.com/title/tt8041270/",
-          "dateWatched": "2023-01-07T00:00:00",
+          "dateWatched": "2023-01-07T05:00:00Z",
           "sortOrder": null,
           "rating": 2,
           "thoughts": "Definitely glad I didn\u2019t see this in the theaters. Nothing compares to the first Jurassic Park movie.",
           "posterImageUrl": "https://i.postimg.cc/fytKmSgW/jurassicworlddominion.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1525,12 +1518,15 @@
           "movieId": 107,
           "title": "Glass Onion",
           "imdbLink": "https://www.imdb.com/title/tt11564570/",
-          "dateWatched": "2023-01-01T00:00:00",
+          "dateWatched": "2023-01-01T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "This had a good cast and Daniel Craig was fantastic. Definitely some good twists.",
           "posterImageUrl": "https://i.postimg.cc/FskWJ82b/glassonion.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         }
@@ -1543,12 +1539,15 @@
           "movieId": 108,
           "title": "Elysium",
           "imdbLink": "https://www.imdb.com/title/tt1535108/",
-          "dateWatched": "2022-12-31T00:00:00",
+          "dateWatched": "2022-12-31T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "It wasn\u2019t quite as good as I expected and kind of predictable, but I still enjoyed it.",
           "posterImageUrl": "https://i.postimg.cc/rF7HnMSY/elysium.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1556,12 +1555,15 @@
           "movieId": 109,
           "title": "Star Trek: Generations",
           "imdbLink": "https://www.imdb.com/title/tt0111280/",
-          "dateWatched": "2022-12-26T00:00:00",
+          "dateWatched": "2022-12-26T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "I feel like this is an underrated Trek film. Outside of an annoying plot hole (that I see), it\u2019s actually a solid Star Trek movie.",
           "posterImageUrl": "https://i.postimg.cc/LsWvXVNQ/startrekgenerations.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1569,12 +1571,15 @@
           "movieId": 110,
           "title": "National Lampoon\u2019s Christmas Vacation",
           "imdbLink": "https://www.imdb.com/title/tt0097958/",
-          "dateWatched": "2022-12-18T00:00:00",
+          "dateWatched": "2022-12-18T05:00:00Z",
           "sortOrder": null,
           "rating": 5,
           "thoughts": "Definitely by far my favorite Christmas Movie. Great cast with plenty of good jokes.",
           "posterImageUrl": "https://i.postimg.cc/vHKJJWdh/christmasvacation.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1582,12 +1587,15 @@
           "movieId": 111,
           "title": "Whiskey Tango Foxtrot",
           "imdbLink": "https://www.imdb.com/title/tt3553442/",
-          "dateWatched": "2022-12-16T00:00:00",
+          "dateWatched": "2022-12-16T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "Tina Fey did a good job in her role here. Ending wasn\u2019t quite as satisfying as I was hoping for but it was still good.",
           "posterImageUrl": "https://i.postimg.cc/zGcTSGKV/whiskeytangofoxtrot.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1595,12 +1603,15 @@
           "movieId": 112,
           "title": "A Christmas Story",
           "imdbLink": "https://www.imdb.com/title/tt0085334/",
-          "dateWatched": "2022-12-11T00:00:00",
+          "dateWatched": "2022-12-11T05:00:00Z",
           "sortOrder": null,
           "rating": 2,
           "thoughts": "Finally saw this classic Christmas movie all the way through. I know it might be sacrilege, but my thoughts were \u201Cmeh\u201D",
           "posterImageUrl": "https://i.postimg.cc/pLnwRpWH/christmasstory.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1608,12 +1619,15 @@
           "movieId": 113,
           "title": "Free Guy",
           "imdbLink": "https://www.imdb.com/title/tt6264654/",
-          "dateWatched": "2022-12-10T00:00:00",
+          "dateWatched": "2022-12-10T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "It was a good mix of dumb and fun, I really enjoyed it.",
           "posterImageUrl": "https://i.postimg.cc/V6sZr685/freeguy.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1621,12 +1635,15 @@
           "movieId": 114,
           "title": "Don\u2019t Worry, Darling",
           "imdbLink": "https://www.imdb.com/title/tt10731256/",
-          "dateWatched": "2022-12-04T00:00:00",
+          "dateWatched": "2022-12-04T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "This movie was creepy.",
           "posterImageUrl": "https://i.postimg.cc/YqvVzhmW/dontworrydarling.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1634,12 +1651,15 @@
           "movieId": 115,
           "title": "Uncharted",
           "imdbLink": "https://www.imdb.com/title/tt1464335/",
-          "dateWatched": "2022-12-03T00:00:00",
+          "dateWatched": "2022-12-03T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "I didn\u2019t hate this. I don\u2019t want to give much away, but they didn\u2019t do a horrible job of adapting the characters.",
           "posterImageUrl": "https://i.postimg.cc/TYTjTSTY/uncharted.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1647,12 +1667,15 @@
           "movieId": 116,
           "title": "The Munsters (2022)",
           "imdbLink": "https://www.imdb.com/title/tt14813212/",
-          "dateWatched": "2022-11-27T00:00:00",
+          "dateWatched": "2022-11-27T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "Was dumb...but not necessarily in a bad way",
           "posterImageUrl": "https://i.postimg.cc/BbTCmfsR/the-munsters.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1660,12 +1683,15 @@
           "movieId": 43,
           "title": "Clear and Present Danger",
           "imdbLink": "https://www.imdb.com/title/tt0109444/",
-          "dateWatched": "2022-11-12T00:00:00",
+          "dateWatched": "2022-11-12T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "It\u0027s been a while since I had seen this, and even longer since I had read the book. It wasn\u0027t bad, but I\u0027m not sure how well it\u0027s held up.",
           "posterImageUrl": "https://i.postimg.cc/6QJD3tqG/clearandpresentdanger.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1673,12 +1699,15 @@
           "movieId": 44,
           "title": "Vengeance",
           "imdbLink": "https://www.imdb.com/title/tt0120844/",
-          "dateWatched": "2022-08-20T00:00:00",
+          "dateWatched": "2022-08-20T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "Some of it was predictable, other parts weren\u0027t. Didn\u0027t draw me in as much as I\u0027d hoped but was still worth watching.",
           "posterImageUrl": "https://i.postimg.cc/02ZYjfNG/vengeance.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1686,12 +1715,15 @@
           "movieId": 45,
           "title": "Star Trek: Insurrection",
           "imdbLink": "https://www.imdb.com/title/tt0120844/",
-          "dateWatched": "2022-08-19T00:00:00",
+          "dateWatched": "2022-08-19T05:00:00Z",
           "sortOrder": null,
           "rating": 5,
           "thoughts": "I know this isn\u0027t one of the favorites of most Trekkies, but I actually really enjoyed it. It does feel a bit like a 2 part episode but that\u0027s certainly not a bad thing.",
           "posterImageUrl": "https://i.postimg.cc/tgJ2pctV/startrek-insurrection.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1699,12 +1731,15 @@
           "movieId": 46,
           "title": "Star Trek: First Contact",
           "imdbLink": "https://www.imdb.com/title/tt0117731/",
-          "dateWatched": "2022-08-17T00:00:00",
+          "dateWatched": "2022-08-17T05:00:00Z",
           "sortOrder": null,
           "rating": 5,
           "thoughts": "Arguably the best Star Trek TNG movie. Brings in philosophy with a nice mix of horror and action. Patrick Stewart was fantastic.",
           "posterImageUrl": "https://i.postimg.cc/nLGwhmN6/firstcontact.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1712,12 +1747,15 @@
           "movieId": 47,
           "title": "The Bob\u2019s Burgers Movie",
           "imdbLink": "https://www.imdb.com/title/tt7466442/",
-          "dateWatched": "2022-08-13T00:00:00",
+          "dateWatched": "2022-08-13T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "It was your typical Bob\u0027s Burgers episode...only movie length. I did enjoy it.",
           "posterImageUrl": "https://i.postimg.cc/xdLVyqhR/bobsburgers.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1725,12 +1763,15 @@
           "movieId": 141,
           "title": "42",
           "imdbLink": "https://www.imdb.com/title/tt0453562/",
-          "dateWatched": "2022-05-24T00:00:00",
+          "dateWatched": "2022-05-24T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "I had been meaning to watch this for a long time. I enjoyed it tremendously. Chadwick Boseman does a fantastic job as Jackie Robinson",
           "posterImageUrl": "https://i.postimg.cc/J4twYpSt/42.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1738,12 +1779,15 @@
           "movieId": 119,
           "title": "Don\u2019t Look Up",
           "imdbLink": "https://www.imdb.com/title/tt11286314/",
-          "dateWatched": "2022-03-12T00:00:00",
+          "dateWatched": "2022-03-12T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "I think the scariest part of this movie was how much I could totally see this happen today given the state of politics in America.",
           "posterImageUrl": "https://i.postimg.cc/8kK9vhsG/dontlookup.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1751,12 +1795,15 @@
           "movieId": 120,
           "title": "No Time to Die",
           "imdbLink": "https://www.imdb.com/title/tt2382320/",
-          "dateWatched": "2022-01-01T00:00:00",
+          "dateWatched": "2022-01-01T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "Some good action scenes, but the main villain didn\u2019t make much sense to me which definitely put the movie on a down note.",
           "posterImageUrl": "https://i.postimg.cc/rmzbZmY3/notimetodie.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         }
@@ -1769,12 +1816,15 @@
           "movieId": 121,
           "title": "Scrooged",
           "imdbLink": "https://www.imdb.com/title/tt0096061/",
-          "dateWatched": "2021-12-18T00:00:00",
+          "dateWatched": "2021-12-18T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "Was an enjoyable twist on Charles Dickens\u2019",
           "posterImageUrl": "https://i.postimg.cc/SxqPFVvW/scrooged.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1782,12 +1832,15 @@
           "movieId": 123,
           "title": "Ghostbusters: Afterlife",
           "imdbLink": "https://www.imdb.com/title/tt4513678/",
-          "dateWatched": "2021-11-28T00:00:00",
+          "dateWatched": "2021-11-28T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "I really enjoyed this. I thought they did a good job of telling a new story while still paying homage to the past.",
           "posterImageUrl": "https://i.postimg.cc/L4bQ5206/ghostbustersafterlife.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1795,12 +1848,15 @@
           "movieId": 124,
           "title": "Mars Attacks",
           "imdbLink": "https://www.imdb.com/title/tt0116996/",
-          "dateWatched": "2021-11-25T00:00:00",
+          "dateWatched": "2021-11-25T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "A dumb but funny movie with a great cast.",
           "posterImageUrl": "https://i.postimg.cc/sgRkf3vG/marsattacks.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1808,12 +1864,15 @@
           "movieId": 136,
           "title": "Muppets Haunted Mansion",
           "imdbLink": "https://www.imdb.com/title/tt14602326/",
-          "dateWatched": "2021-10-29T00:00:00",
+          "dateWatched": "2021-10-29T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "This was basically what I expected.",
           "posterImageUrl": "https://i.postimg.cc/QMfwq5Sc/muppetshauntedmansion.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1821,12 +1880,15 @@
           "movieId": 144,
           "title": "Spectre",
           "imdbLink": "https://www.imdb.com/title/tt2379713/",
-          "dateWatched": "2021-10-28T00:00:00",
+          "dateWatched": "2021-10-28T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "Not one of Craig\u0027s best Bond films, but still a good Bond film nonetheless.",
           "posterImageUrl": "https://i.postimg.cc/3RySCqkH/spectre.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1834,12 +1896,15 @@
           "movieId": 145,
           "title": "War Machine",
           "imdbLink": "https://www.imdb.com/title/tt4758646/",
-          "dateWatched": "2021-08-28T00:00:00",
+          "dateWatched": "2021-08-28T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "Not sure how I feel about it. Somehow, despite it being satire, it felt rather accurate to what happened in Afghanistan.",
           "posterImageUrl": "https://i.postimg.cc/HkxQyyJq/warmachine.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1847,12 +1912,15 @@
           "movieId": 48,
           "title": "The Hunt for Red October",
           "imdbLink": "https://www.imdb.com/title/tt0099810/",
-          "dateWatched": "2021-04-03T00:00:00",
+          "dateWatched": "2021-04-03T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "I\u0027ve generally enjoyed Tom Clancy novels, and this movie was done well. Connery \u0026 Baldwin do a great job.",
           "posterImageUrl": "https://i.postimg.cc/VvxFRs3q/huntforredoctober.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1860,12 +1928,15 @@
           "movieId": 49,
           "title": "Breach",
           "imdbLink": "https://www.imdb.com/title/tt0401997/",
-          "dateWatched": "2021-03-28T00:00:00",
+          "dateWatched": "2021-03-28T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "I had only heard of Robert Hanssen, while dramatized, this did fill in some of the gaps. Great acting by Cooper and Ryan Phillipe.",
           "posterImageUrl": "https://i.postimg.cc/x1wSzLx8/breach.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1873,12 +1944,15 @@
           "movieId": 50,
           "title": "The Highwaymen",
           "imdbLink": "https://www.imdb.com/title/tt1860242/",
-          "dateWatched": "2021-03-21T00:00:00",
+          "dateWatched": "2021-03-21T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "I enjoyed this telling of the end of Bonnie \u0026 Clyde. Costner \u0026 Harrelson did a fantastic job.",
           "posterImageUrl": "https://i.postimg.cc/MpKYmLLr/thehighwaymen.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1886,12 +1960,15 @@
           "movieId": 51,
           "title": "The Departed",
           "imdbLink": "https://www.imdb.com/title/tt0407887/",
-          "dateWatched": "2021-03-20T00:00:00",
+          "dateWatched": "2021-03-20T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "This had been on my list to watch for a while. It was a good movie, but I guess I didn\u0027t feel like the ending was as satisfying as I hoped it would be.",
           "posterImageUrl": "https://i.postimg.cc/nc1k7x3D/thedeparted.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1899,12 +1976,15 @@
           "movieId": 52,
           "title": "Gordon Lightfoot: If You Could Read My Mind",
           "imdbLink": "https://www.imdb.com/title/tt10237902/",
-          "dateWatched": "2021-03-18T00:00:00",
+          "dateWatched": "2021-03-18T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "My Dad often listened to Gordon Lightfoot while I was growing up, so needless to say, I\u0027ve grown an appreciation for his music. This was an interesting documentary about his life and history with folk music.",
           "posterImageUrl": "https://i.postimg.cc/6QtYg3Tz/gordonlightfoot.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1912,12 +1992,15 @@
           "movieId": 53,
           "title": "Moneyball",
           "imdbLink": "https://www.imdb.com/title/tt1210166/",
-          "dateWatched": "2021-02-28T00:00:00",
+          "dateWatched": "2021-02-28T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "As a baseball fan, and a fan of Michael Lewis\u0027 writing, I loved the story of how baseball has probably seen its biggest change in the last 50 years with how teams are built and players evaluated.",
           "posterImageUrl": "https://i.postimg.cc/CKh9DJCF/moneyball.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1925,12 +2008,15 @@
           "movieId": 54,
           "title": "9to5: The Story of a Movement",
           "imdbLink": "https://www.imdb.com/title/tt11753730/",
-          "dateWatched": "2021-02-21T00:00:00",
+          "dateWatched": "2021-02-21T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "I always knew that women have had it tough in the workplace. This documentary gave me a much better understanding of the fight they\u0027ve undertaken.",
           "posterImageUrl": "https://i.postimg.cc/HW6DtqZf/9to5.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1938,12 +2024,15 @@
           "movieId": 55,
           "title": "The Current War",
           "imdbLink": "https://www.imdb.com/title/tt2140507/",
-          "dateWatched": "2021-02-20T00:00:00",
+          "dateWatched": "2021-02-20T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "I went into this thinking this was an Edison vs. Tesla movie and was pleasantly surprised that it was far more than that.",
           "posterImageUrl": "https://i.postimg.cc/vBGkrhWY/currentwar.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1951,12 +2040,15 @@
           "movieId": 56,
           "title": "Sherlock Holmes",
           "imdbLink": "https://www.imdb.com/title/tt0988045/",
-          "dateWatched": "2021-02-14T00:00:00",
+          "dateWatched": "2021-02-14T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "Wasn\u2019t a horrible adaptation of Sherlock Holmes, but I still prefer Sherlock \u0026 Elementary.",
           "posterImageUrl": "https://i.postimg.cc/8zH01W2x/sherlockholmes.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1964,12 +2056,15 @@
           "movieId": 57,
           "title": "Hotel Artemis",
           "imdbLink": "https://www.imdb.com/title/tt5834262/",
-          "dateWatched": "2021-02-13T00:00:00",
+          "dateWatched": "2021-02-13T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "I\u0027m still not sure how I feel about the movie, but it has a fantastic cast.",
           "posterImageUrl": "https://i.postimg.cc/V6HgJWgH/hotelartemis.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1977,12 +2072,15 @@
           "movieId": 58,
           "title": "Star Trek VI: The Undiscovered Country",
           "imdbLink": "https://www.imdb.com/title/tt0102975/",
-          "dateWatched": "2021-02-06T00:00:00",
+          "dateWatched": "2021-02-06T05:00:00Z",
           "sortOrder": null,
           "rating": 5,
           "thoughts": "This is my second favorite original Trek movie. Coming out right around the end of the Cold War, this does a good job relating to that time in history.",
           "posterImageUrl": "https://i.postimg.cc/Qd0fLD53/star-trek-vi.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -1990,12 +2088,15 @@
           "movieId": 42,
           "title": "Skyfall",
           "imdbLink": "https://www.imdb.com/title/tt1074638/",
-          "dateWatched": "2021-01-31T00:00:00",
+          "dateWatched": "2021-01-31T05:00:00Z",
           "sortOrder": null,
           "rating": 5,
           "thoughts": "Definitely my favorite Daniel Craig Bond film. The interaction between Judi Dench as \u0027M\u0027 and Craig really shines here.",
           "posterImageUrl": "https://i.postimg.cc/FKHn1zmz/skyfall.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2003,12 +2104,15 @@
           "movieId": 59,
           "title": "Star Trek V: The Final Frontier",
           "imdbLink": "https://www.imdb.com/title/tt0098382/",
-          "dateWatched": "2021-01-30T00:00:00",
+          "dateWatched": "2021-01-30T05:00:00Z",
           "sortOrder": null,
           "rating": 2,
           "thoughts": "As much as I love Star Trek, the only redeeming part of this movie is probably Kirk\u0027s \u0022What does God need with a starship?\u0022 line",
           "posterImageUrl": "https://i.postimg.cc/Dw2xY0S6/star-trek-v.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2016,12 +2120,15 @@
           "movieId": 60,
           "title": "Capital in the 21st Century",
           "imdbLink": "https://www.imdb.com/title/tt5723056/",
-          "dateWatched": "2021-01-25T00:00:00",
+          "dateWatched": "2021-01-25T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "Informative and disheartening at the same time. This documentary does a good job of looking back at what led to the current economic inequality and the rigged system.",
           "posterImageUrl": "https://i.postimg.cc/RhZrBdFs/capital21stcentury.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2029,12 +2136,15 @@
           "movieId": 61,
           "title": "Star Trek IV: The Voyage Home",
           "imdbLink": "https://www.imdb.com/title/tt0092007/",
-          "dateWatched": "2021-01-24T00:00:00",
+          "dateWatched": "2021-01-24T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "Star Trek \u0026 time travel...often a fun mix.",
           "posterImageUrl": "https://i.postimg.cc/7Y1BV0Zb/star-trek-iv.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2042,12 +2152,15 @@
           "movieId": 62,
           "title": "Star Trek III: The Search for Spock",
           "imdbLink": "https://www.imdb.com/title/tt0088170/",
-          "dateWatched": "2021-01-23T00:00:00",
+          "dateWatched": "2021-01-23T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "Being an odd-numbered Trek film, this one often gets overlooked. It\u2019s still one of my favorites.",
           "posterImageUrl": "https://i.postimg.cc/2jZ91PpQ/star-trek-iii.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2055,12 +2168,15 @@
           "movieId": 63,
           "title": "Star Trek II: The Wrath of Khan",
           "imdbLink": "https://www.imdb.com/title/tt0084726/",
-          "dateWatched": "2021-01-17T00:00:00",
+          "dateWatched": "2021-01-17T05:00:00Z",
           "sortOrder": null,
           "rating": 5,
           "thoughts": "The quintessential Star Trek film. Definitely one of the best, if not the best Trek film.",
           "posterImageUrl": "https://i.postimg.cc/VvnK2b9G/star-trek-ii.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2068,12 +2184,15 @@
           "movieId": 64,
           "title": "Star Trek: The Motion Picture",
           "imdbLink": "https://www.imdb.com/title/tt0079945/",
-          "dateWatched": "2021-01-16T00:00:00",
+          "dateWatched": "2021-01-16T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "Better than I remember it, but awfully slow.",
           "posterImageUrl": "https://i.postimg.cc/qR9mmGK6/star-trek-i.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2081,12 +2200,15 @@
           "movieId": 65,
           "title": "Quantum of Solace",
           "imdbLink": "https://www.imdb.com/title/tt0830515/",
-          "dateWatched": "2021-01-10T00:00:00",
+          "dateWatched": "2021-01-10T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "Not one of the better Bond films. Still a decent action flick.",
           "posterImageUrl": "https://i.postimg.cc/hvdYgYn0/quantumofsolace.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2094,12 +2216,15 @@
           "movieId": 66,
           "title": "The Game Changers",
           "imdbLink": "https://www.imdb.com/title/tt7455754/",
-          "dateWatched": "2021-01-04T00:00:00",
+          "dateWatched": "2021-01-04T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "This was an interesting documentary about plant based diets. Part of me felt it was trying to sell me on the idea of going more plant based, but it does follow other things I\u2019ve read. Worth a watch.",
           "posterImageUrl": "https://i.postimg.cc/kGBjspDm/gamechangers.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2107,12 +2232,15 @@
           "movieId": 67,
           "title": "The Prestige",
           "imdbLink": "https://www.imdb.com/title/tt0482571/",
-          "dateWatched": "2021-01-02T00:00:00",
+          "dateWatched": "2021-01-02T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "The twists and turns of this movie were enjoyable. Christian Bale and Hugh Jackman did phenomenal jobs.",
           "posterImageUrl": "https://i.postimg.cc/bvZHKtpx/theprestige.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         }
@@ -2125,12 +2253,15 @@
           "movieId": 68,
           "title": "Casino Royale",
           "imdbLink": "https://www.imdb.com/title/tt0381061/",
-          "dateWatched": "2020-12-31T00:00:00",
+          "dateWatched": "2020-12-31T05:00:00Z",
           "sortOrder": null,
           "rating": 5,
           "thoughts": "Daniel Craig does a fantastic job stepping into the role of 007 in this. The casting all around is fantastic.",
           "posterImageUrl": "https://i.postimg.cc/cHZyD0NN/casinoroyale.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2138,12 +2269,15 @@
           "movieId": 69,
           "title": "Die Another Day",
           "imdbLink": "https://www.imdb.com/title/tt0246460/",
-          "dateWatched": "2020-12-27T00:00:00",
+          "dateWatched": "2020-12-27T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "Brosnan\u0027s final film as Bond is another good one.",
           "posterImageUrl": "https://i.postimg.cc/7hWRyyjh/dieanotherday.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2151,12 +2285,15 @@
           "movieId": 70,
           "title": "Tinker Tailor Soldier Spy",
           "imdbLink": "https://www.imdb.com/title/tt1340800/",
-          "dateWatched": "2020-12-06T00:00:00",
+          "dateWatched": "2020-12-06T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "I really enjoyed the intrigue in this one. It did take me a little to pick out the characters though.",
           "posterImageUrl": "https://i.postimg.cc/nrJ4jS72/tinkertailorsoldierspy.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2164,12 +2301,15 @@
           "movieId": 71,
           "title": "Hail, Caesar!",
           "imdbLink": "https://www.imdb.com/title/tt3799694/",
-          "dateWatched": "2020-11-29T00:00:00",
+          "dateWatched": "2020-11-29T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "This was definitely a Coen Brothers film. It was solid, not as funny as I expected, but still good.",
           "posterImageUrl": "https://i.postimg.cc/d10nQx2y/hailcaesar.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2177,12 +2317,15 @@
           "movieId": 72,
           "title": "The Nice Guys",
           "imdbLink": "https://www.imdb.com/title/tt3799694/",
-          "dateWatched": "2020-11-26T00:00:00",
+          "dateWatched": "2020-11-26T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "I enjoyed this one. Russell Crowe and Ryan Gosling play well off each other.",
           "posterImageUrl": "https://i.postimg.cc/d0gmvVVz/theniceguys.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2190,12 +2333,15 @@
           "movieId": 73,
           "title": "The Death of Stalin",
           "imdbLink": "https://www.imdb.com/title/tt4686844/",
-          "dateWatched": "2020-11-22T00:00:00",
+          "dateWatched": "2020-11-22T05:00:00Z",
           "sortOrder": null,
           "rating": 2,
           "thoughts": "Can\u0027t say I really understood this one.",
           "posterImageUrl": "https://i.postimg.cc/FRGqDSZj/deathofstalin.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2203,12 +2349,15 @@
           "movieId": 74,
           "title": "The World is Not Enough",
           "imdbLink": "https://www.imdb.com/title/tt0143145/",
-          "dateWatched": "2020-11-20T00:00:00",
+          "dateWatched": "2020-11-20T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "Definitely better than I remembered it. Still the weakest of the Brosnan Bond films.",
           "posterImageUrl": "https://i.postimg.cc/Zqvpfzxj/worldisnotenough.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2216,12 +2365,15 @@
           "movieId": 75,
           "title": "The Royal Tenenbaums",
           "imdbLink": "https://www.imdb.com/title/tt0265666/",
-          "dateWatched": "2020-11-15T00:00:00",
+          "dateWatched": "2020-11-15T05:00:00Z",
           "sortOrder": null,
           "rating": 2,
           "thoughts": "I wasn\u0027t a huge fan of this one. It had a few moments here and there, but overall I didn\u0027t really get it.",
           "posterImageUrl": "https://i.postimg.cc/zDsMpqw2/royaltenenbaums.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2229,12 +2381,15 @@
           "movieId": 76,
           "title": "Tomorrow Never Dies",
           "imdbLink": "https://www.imdb.com/title/tt0120347/",
-          "dateWatched": "2020-11-08T00:00:00",
+          "dateWatched": "2020-11-08T05:00:00Z",
           "sortOrder": null,
           "rating": 4,
           "thoughts": "Another good Bond film.",
           "posterImageUrl": "https://i.postimg.cc/8kRBQDQ0/tomorrowneverdies.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2242,12 +2397,15 @@
           "movieId": 77,
           "title": "Man of the Year",
           "imdbLink": "https://www.imdb.com/title/tt0483726/",
-          "dateWatched": "2020-11-07T00:00:00",
+          "dateWatched": "2020-11-07T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "I seem to remember liking this movie a lot more when I first saw it. Still not bad.",
           "posterImageUrl": "https://i.postimg.cc/NGKqpN3F/manoftheyear.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2255,12 +2413,15 @@
           "movieId": 78,
           "title": "Rushmore",
           "imdbLink": "https://www.imdb.com/title/tt0128445/",
-          "dateWatched": "2020-11-01T00:00:00",
+          "dateWatched": "2020-11-01T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "",
           "posterImageUrl": "https://i.postimg.cc/9FyknsJm/rushmore.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2268,12 +2429,15 @@
           "movieId": 79,
           "title": "Goldeneye",
           "imdbLink": "https://www.imdb.com/title/tt0113189/",
-          "dateWatched": "2020-10-25T00:00:00",
+          "dateWatched": "2020-10-25T05:00:00Z",
           "sortOrder": null,
           "rating": 5,
           "thoughts": "Still one of the best Bond films out there. A great intro to Pierce Brosnan as 007.",
           "posterImageUrl": "https://i.postimg.cc/NjhN8bc3/goldeneye.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2281,12 +2445,15 @@
           "movieId": 80,
           "title": "Fargo",
           "imdbLink": "https://www.imdb.com/title/tt0116282/",
-          "dateWatched": "2020-10-11T00:00:00",
+          "dateWatched": "2020-10-11T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "",
           "posterImageUrl": "https://i.postimg.cc/bvhBPgVx/fargo.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         },
@@ -2294,12 +2461,15 @@
           "movieId": 81,
           "title": "The Hunt",
           "imdbLink": "https://www.imdb.com/title/tt8244784/",
-          "dateWatched": "2020-08-01T00:00:00",
+          "dateWatched": "2020-08-01T05:00:00Z",
           "sortOrder": null,
           "rating": 3,
           "thoughts": "",
           "posterImageUrl": "https://i.postimg.cc/0yW0WfR5/thehunt2020.jpg",
-          "status": "Watched",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
           "genres": [],
           "services": []
         }
@@ -2311,19 +2481,17 @@
       "movieId": 12,
       "title": "Saltburn",
       "imdbLink": "https://www.imdb.com/title/tt17351924/",
-      "dateWatched": "2024-02-10T00:00:00",
+      "dateWatched": "2024-02-10T05:00:00Z",
       "sortOrder": null,
       "rating": 0,
       "thoughts": "I tried to finish this, but I just couldn\u0027t. It was just getting too creepy for me, and not even a good creepy.",
       "posterImageUrl": "https://i.postimg.cc/RCDqnZz0/saltburn.jpg",
-      "status": "Couldn\u0027t Finish",
+      "status": {
+        "name": "Couldn\u0027t Finish",
+        "colorCode": "#ee152f"
+      },
       "genres": [],
-      "services": [
-        {
-          "name": "Amazon Prime",
-          "colorCode": "#215260"
-        }
-      ]
+      "services": []
     }
   ]
 }

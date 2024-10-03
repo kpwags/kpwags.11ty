@@ -3,46 +3,16 @@
     "movieId": 154,
     "title": "The Holdovers",
     "imdbLink": "https://www.imdb.com/title/tt14849194/",
-    "dateWatched": "2024-09-14T00:00:00",
+    "dateWatched": "2024-09-14T05:00:00Z",
     "sortOrder": null,
     "rating": 3,
     "thoughts": "I enjoyed it. I liked the characters and while the story was somewhat predictable, it was still a good watch.",
     "posterImageUrl": "https://i.postimg.cc/pXGscpSK/the-holdovers.jpg",
-    "status": "Watched",
-    "genres": [
-      {
-        "name": "Comedy",
-        "colorCode": "#174b1f"
-      }
-    ],
-    "services": [
-      {
-        "name": "Amazon Prime",
-        "colorCode": "#215260"
-      }
-    ]
-  },
-  {
-    "movieId": 34,
-    "title": "Won\u2019t You Be My Neighbor",
-    "imdbLink": "https://www.imdb.com/title/tt7681902",
-    "dateWatched": "2024-09-02T00:00:00",
-    "sortOrder": 20,
-    "rating": 3,
-    "thoughts": "This was as interesting look back at Mr. Rogers and while not as in-depth as I had anticipated, it was nostalgic and showed how amazing Fred Rogers really was.",
-    "posterImageUrl": "https://i.postimg.cc/c15N45YT/wont-you-be-my-neighbor.jpg",
-    "status": "Watched",
-    "genres": [
-      {
-        "name": "Documentary",
-        "colorCode": "#583712"
-      }
-    ],
-    "services": [
-      {
-        "name": "Netflix",
-        "colorCode": "#832532"
-      }
-    ]
+    "status": {
+      "name": "Watched",
+      "colorCode": "#2a9a39"
+    },
+    "genres": [],
+    "services": []
   }
 ]

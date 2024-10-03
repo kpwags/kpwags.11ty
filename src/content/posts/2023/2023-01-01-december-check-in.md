@@ -1,7 +1,7 @@
 ---
 title: 'December Check-In'
 date: '2023-01-01'
-permalink: /posts/2023/01/01/december-check-in/index/html
+permalink: /posts/2023/01/01/december-check-in/index.html
 tags:
   - Monthly Check-In
   - Life
