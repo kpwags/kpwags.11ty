@@ -4,6 +4,7 @@
     "podcasts": [
       {
         "podcastId": 8,
+        "podcastCategoryId": 1,
         "name": "Acquired",
         "link": "https://podcasts.apple.com/us/podcast/acquired/id1050462261",
         "coverImageUrl": "https://i.postimg.cc/7YZdVkn1/acquired.jpg",
@@ -14,6 +15,7 @@
       },
       {
         "podcastId": 3,
+        "podcastCategoryId": 1,
         "name": "The Big Take",
         "link": "https://www.bloomberg.com/bigtake",
         "coverImageUrl": "https://i.postimg.cc/T3m944Xd/the-big-take.jpg",
@@ -24,6 +26,7 @@
       },
       {
         "podcastId": 152,
+        "podcastCategoryId": 1,
         "name": "Business Matters",
         "link": "https://www.bbc.co.uk/programmes/p016tl04",
         "coverImageUrl": "https://i.postimg.cc/g0fQmmmT/business-matters.jpg",
@@ -34,6 +37,7 @@
       },
       {
         "podcastId": 153,
+        "podcastCategoryId": 1,
         "name": "Capitalisn\u0027t",
         "link": "https://www.capitalisnt.com/",
         "coverImageUrl": "https://i.postimg.cc/ZKYhnYz9/capitalisnt.jpg",
@@ -44,6 +48,7 @@
       },
       {
         "podcastId": 151,
+        "podcastCategoryId": 1,
         "name": "Crash Course",
         "link": "https://www.bloomberg.com/podcasts/series/crash-course",
         "coverImageUrl": "https://i.postimg.cc/h4228T50/crash-course.jpg",
@@ -54,6 +59,7 @@
       },
       {
         "podcastId": 150,
+        "podcastCategoryId": 1,
         "name": "EconTalk",
         "link": "https://www.econtalk.org/",
         "coverImageUrl": "https://i.postimg.cc/05ZnCPh1/econtalk.jpg",
@@ -64,6 +70,7 @@
       },
       {
         "podcastId": 149,
+        "podcastCategoryId": 1,
         "name": "Freakonomics",
         "link": "https://freakonomics.com/",
         "coverImageUrl": "https://i.postimg.cc/k5rv54RK/freakonomics.jpg",
@@ -74,6 +81,7 @@
       },
       {
         "podcastId": 49,
+        "podcastCategoryId": 1,
         "name": "How I Built This",
         "link": "https://wondery.com/shows/how-i-built-this/",
         "coverImageUrl": "https://i.postimg.cc/Gp3JdxVP/how-i-built-this.jpg",
@@ -84,6 +92,7 @@
       },
       {
         "podcastId": 147,
+        "podcastCategoryId": 1,
         "name": "The Indicator",
         "link": "https://www.npr.org/podcasts/510325/the-indicator-from-planet-money",
         "coverImageUrl": "https://i.postimg.cc/43H5bMYs/the-indicator.jpg",
@@ -94,6 +103,7 @@
       },
       {
         "podcastId": 17,
+        "podcastCategoryId": 1,
         "name": "Make Me Smart",
         "link": "https://www.marketplace.org/shows/make-me-smart/",
         "coverImageUrl": "https://i.postimg.cc/7hC573p6/make_me_smart.jpg",
@@ -104,6 +114,7 @@
       },
       {
         "podcastId": 146,
+        "podcastCategoryId": 1,
         "name": "Marketplace",
         "link": "https://www.marketplace.org",
         "coverImageUrl": "https://i.postimg.cc/52WXYFp4/marketplace.jpg",
@@ -114,6 +125,7 @@
       },
       {
         "podcastId": 145,
+        "podcastCategoryId": 1,
         "name": "Marketplace Morning Report",
         "link": "https://www.marketplace.org/shows/marketplace-morning-report/",
         "coverImageUrl": "https://i.postimg.cc/L47YSW1Z/marketplace_morning_report.jpg",
@@ -124,6 +136,7 @@
       },
       {
         "podcastId": 144,
+        "podcastCategoryId": 1,
         "name": "Money Talks",
         "link": "https://podcasts.apple.com/us/podcast/money-talks-from-economist-radio/id420929545",
         "coverImageUrl": "https://i.postimg.cc/0NcjBXvj/money_talks.jpg",
@@ -134,6 +147,7 @@
       },
       {
         "podcastId": 143,
+        "podcastCategoryId": 1,
         "name": "The New Bazaar",
         "link": "https://shows.acast.com/the-new-bazaar",
         "coverImageUrl": "https://i.postimg.cc/z3ZGg9Ct/newbazaar.jpg",
@@ -144,6 +158,7 @@
       },
       {
         "podcastId": 142,
+        "podcastCategoryId": 1,
         "name": "Ones and Tooze",
         "link": "https://foreignpolicy.com/podcasts/ones-and-tooze/",
         "coverImageUrl": "https://i.postimg.cc/0yvpg4T0/onesandtooze.jpg",
@@ -154,6 +169,7 @@
       },
       {
         "podcastId": 141,
+        "podcastCategoryId": 1,
         "name": "Pitchfork Economics",
         "link": "https://pitchforkeconomics.com/",
         "coverImageUrl": "https://i.postimg.cc/765zMrzw/pitchfork_economics.jpg",
@@ -164,6 +180,7 @@
       },
       {
         "podcastId": 140,
+        "podcastCategoryId": 1,
         "name": "Planet Money",
         "link": "https://www.npr.org/sections/money/",
         "coverImageUrl": "https://i.postimg.cc/xCrPsRmH/planet-money.jpg",
@@ -174,6 +191,7 @@
       },
       {
         "podcastId": 139,
+        "podcastCategoryId": 1,
         "name": "Think Like an Economist",
         "link": "https://art19.com/shows/think-like-an-economist",
         "coverImageUrl": "https://i.postimg.cc/nLBbsCRJ/think_like_an_economist.jpg",
@@ -184,6 +202,7 @@
       },
       {
         "podcastId": 138,
+        "podcastCategoryId": 1,
         "name": "What\u0027s Your Problem",
         "link": "https://www.pushkin.fm/podcasts/whats-your-problem",
         "coverImageUrl": "https://i.postimg.cc/gjBBtWSs/whats_your_problem.jpg",
@@ -199,6 +218,7 @@
     "podcasts": [
       {
         "podcastId": 93,
+        "podcastCategoryId": 7,
         "name": "Chat with Traders",
         "link": "https://chatwithtraders.com/",
         "coverImageUrl": "https://i.postimg.cc/D0cMrGs9/chat-with-traders.jpg",
@@ -209,6 +229,7 @@
       },
       {
         "podcastId": 92,
+        "podcastCategoryId": 7,
         "name": "Masters in Business",
         "link": "https://www.bloomberg.com/podcasts/masters_in_business",
         "coverImageUrl": "https://i.postimg.cc/T3jprYHr/masters_in_business.jpg",
@@ -219,6 +240,7 @@
       },
       {
         "podcastId": 91,
+        "podcastCategoryId": 7,
         "name": "The Meb Faber Show",
         "link": "https://themebfabershow.com/",
         "coverImageUrl": "https://i.postimg.cc/FK91G52w/meb_faber_show.jpg",
@@ -229,6 +251,7 @@
       },
       {
         "podcastId": 90,
+        "podcastCategoryId": 7,
         "name": "Motley Fool Money",
         "link": "https://www.fool.com/podcasts/motley-fool-money/",
         "coverImageUrl": "https://i.postimg.cc/50r0xH6M/motley_fool_money.jpg",
@@ -239,6 +262,7 @@
       },
       {
         "podcastId": 89,
+        "podcastCategoryId": 7,
         "name": "The Stacking Benjamins Show",
         "link": "https://www.stackingbenjamins.com/",
         "coverImageUrl": "https://i.postimg.cc/sg8sGF3p/stacking_benjamins.jpg",
@@ -249,6 +273,7 @@
       },
       {
         "podcastId": 88,
+        "podcastCategoryId": 7,
         "name": "Trillions",
         "link": "https://www.bloomberg.com/podcasts/decrypted1",
         "coverImageUrl": "https://i.postimg.cc/NfM36NJb/trillions.jpg",
@@ -259,6 +284,7 @@
       },
       {
         "podcastId": 45,
+        "podcastCategoryId": 7,
         "name": "The Uncertain Hour",
         "link": "https://www.marketplace.org/shows/the-uncertain-hour/",
         "coverImageUrl": "https://i.postimg.cc/15jLJpbS/uncertain_hour.jpg",
@@ -269,6 +295,7 @@
       },
       {
         "podcastId": 44,
+        "podcastCategoryId": 7,
         "name": "Unhedged",
         "link": "https://www.ft.com/unhedged-podcast",
         "coverImageUrl": "https://i.postimg.cc/nct7GtZS/unhedged.jpg",
@@ -279,6 +306,7 @@
       },
       {
         "podcastId": 87,
+        "podcastCategoryId": 7,
         "name": "Wealthtrack",
         "link": "https://wealthtrack.com/",
         "coverImageUrl": "https://i.postimg.cc/zX55FdNR/wealthtrack.jpg",
@@ -289,6 +317,7 @@
       },
       {
         "podcastId": 137,
+        "podcastCategoryId": 7,
         "name": "WSJ: Your Money Briefing",
         "link": "https://www.wsj.com/podcasts/your-money-matters",
         "coverImageUrl": "https://i.postimg.cc/25F9Rv9V/yourmoneybriefing.jpg",
@@ -304,6 +333,7 @@
     "podcasts": [
       {
         "podcastId": 111,
+        "podcastCategoryId": 2,
         "name": "Gastropod",
         "link": "https://gastropod.com/",
         "coverImageUrl": "https://i.postimg.cc/G2dPk5Qp/gastropod.jpg",
@@ -314,6 +344,7 @@
       },
       {
         "podcastId": 110,
+        "podcastCategoryId": 2,
         "name": "The Splendid Table",
         "link": "https://www.splendidtable.org/",
         "coverImageUrl": "https://i.postimg.cc/bNyzKH62/splendid_table.jpg",
@@ -324,6 +355,7 @@
       },
       {
         "podcastId": 109,
+        "podcastCategoryId": 2,
         "name": "The Sporkful",
         "link": "http://www.sporkful.com/",
         "coverImageUrl": "https://i.postimg.cc/280zmbJ9/sporkful.jpg",
@@ -339,6 +371,7 @@
     "podcasts": [
       {
         "podcastId": 108,
+        "podcastCategoryId": 3,
         "name": "(ASIDE) Quest",
         "link": "https://asidequest.simplecast.com/",
         "coverImageUrl": "https://i.postimg.cc/Hn0f6RGP/asidequest.jpg",
@@ -349,6 +382,7 @@
       },
       {
         "podcastId": 107,
+        "podcastCategoryId": 3,
         "name": "Official Xbox Podcast",
         "link": "https://podcasts.apple.com/us/podcast/the-official-xbox-podcast/id74848525",
         "coverImageUrl": "https://i.postimg.cc/VktHg2j9/xbox_podcast.jpg",
@@ -359,6 +393,7 @@
       },
       {
         "podcastId": 106,
+        "podcastCategoryId": 3,
         "name": "Spawn on Me",
         "link": "https://campsite.bio/spawnonme",
         "coverImageUrl": "https://i.postimg.cc/PJ4dCPqx/spawn_on_me.jpg",
@@ -374,6 +409,7 @@
     "podcasts": [
       {
         "podcastId": 103,
+        "podcastCategoryId": 4,
         "name": "Barbell Shrugged",
         "link": "https://barbellshrugged.com/",
         "coverImageUrl": "https://i.postimg.cc/MGqGcsF5/barbell-shrugged.jpg",
@@ -384,6 +420,7 @@
       },
       {
         "podcastId": 105,
+        "podcastCategoryId": 4,
         "name": "Freakonomics M.D.",
         "link": "https://freakonomics.com/series/bapu/",
         "coverImageUrl": "https://i.postimg.cc/gJj0YxxH/freakonomics-md.jpg",
@@ -394,6 +431,7 @@
       },
       {
         "podcastId": 104,
+        "podcastCategoryId": 4,
         "name": "Iron Radio",
         "link": "http://www.ironradio.org/",
         "coverImageUrl": "https://i.postimg.cc/Gh8DsRCQ/iron_radio.jpg",
@@ -404,6 +442,7 @@
       },
       {
         "podcastId": 102,
+        "podcastCategoryId": 4,
         "name": "Maintenance Phase",
         "link": "https://www.maintenancephase.com/",
         "coverImageUrl": "https://i.postimg.cc/zB2LVt26/maintenancephase.jpg",
@@ -414,6 +453,7 @@
       },
       {
         "podcastId": 101,
+        "podcastCategoryId": 4,
         "name": "Stronger By Science",
         "link": "https://www.strongerbyscience.com/",
         "coverImageUrl": "https://i.postimg.cc/j56b1LPX/stronger_by_science.jpg",
@@ -429,6 +469,7 @@
     "podcasts": [
       {
         "podcastId": 100,
+        "podcastCategoryId": 5,
         "name": "The Bowery Boys",
         "link": "https://www.boweryboyshistory.com/bowery-boys-first/bowery-boys-podcast",
         "coverImageUrl": "https://i.postimg.cc/YCMcQj1N/bowery_boys.jpg",
@@ -439,6 +480,7 @@
       },
       {
         "podcastId": 99,
+        "podcastCategoryId": 5,
         "name": "Hardcore History",
         "link": "https://www.dancarlin.com/hardcore-history-series/",
         "coverImageUrl": "https://i.postimg.cc/m2tYNMQ7/hardcore-history.jpg",
@@ -449,6 +491,7 @@
       },
       {
         "podcastId": 98,
+        "podcastCategoryId": 5,
         "name": "Hardcore History: Addendum",
         "link": "https://www.dancarlin.com/addendum/",
         "coverImageUrl": "https://i.postimg.cc/05tGwZJ8/hardcore_history_addendum.jpg",
@@ -459,6 +502,7 @@
       },
       {
         "podcastId": 97,
+        "podcastCategoryId": 5,
         "name": "More Perfect",
         "link": "https://www.wnycstudios.org/podcasts/radiolabmoreperfect",
         "coverImageUrl": "https://i.postimg.cc/26yyRdjw/more_perfect.jpg",
@@ -469,6 +513,7 @@
       },
       {
         "podcastId": 96,
+        "podcastCategoryId": 5,
         "name": "The Rest is History",
         "link": "https://play.acast.com/s/the-rest-is-history-podcast",
         "coverImageUrl": "https://i.postimg.cc/9FHsjzN3/rest_is_history.jpg",
@@ -479,6 +524,7 @@
       },
       {
         "podcastId": 95,
+        "podcastCategoryId": 5,
         "name": "Revisionist History",
         "link": "http://revisionisthistory.com/",
         "coverImageUrl": "https://i.postimg.cc/m2yP9gn7/revisionist_history.jpg",
@@ -489,6 +535,7 @@
       },
       {
         "podcastId": 94,
+        "podcastCategoryId": 5,
         "name": "Throughline",
         "link": "https://www.npr.org/podcasts/510333/throughline",
         "coverImageUrl": "https://i.postimg.cc/J0T9wJnb/throughline.jpg",
@@ -504,6 +551,7 @@
     "podcasts": [
       {
         "podcastId": 83,
+        "podcastCategoryId": 6,
         "name": "The Daily",
         "link": "https://www.nytimes.com/column/the-daily",
         "coverImageUrl": "https://i.postimg.cc/HsvCFGcf/the_daily.jpg",
@@ -514,6 +562,7 @@
       },
       {
         "podcastId": 82,
+        "podcastCategoryId": 6,
         "name": "The Intelligence",
         "link": "https://theintelligence.economist.com/",
         "coverImageUrl": "https://i.postimg.cc/x8qz5Db9/intelligence.jpg",
@@ -524,6 +573,7 @@
       },
       {
         "podcastId": 42,
+        "podcastCategoryId": 6,
         "name": "The New Abnormal",
         "link": "https://shows.acast.com/the-new-abnormal",
         "coverImageUrl": "https://i.postimg.cc/vBrnpPtt/new-abnormal.jpg",
@@ -534,6 +584,7 @@
       },
       {
         "podcastId": 81,
+        "podcastCategoryId": 6,
         "name": "On the Media",
         "link": "https://www.wnycstudios.org/podcasts/otm",
         "coverImageUrl": "https://i.postimg.cc/tCWhMbMg/on_the_media.jpg",
@@ -544,6 +595,7 @@
       },
       {
         "podcastId": 80,
+        "podcastCategoryId": 6,
         "name": "Up First",
         "link": "https://www.npr.org/podcasts/510318/up-first",
         "coverImageUrl": "https://i.postimg.cc/N0hZwQgP/up_first.jpg",
@@ -554,6 +606,7 @@
       },
       {
         "podcastId": 79,
+        "podcastCategoryId": 6,
         "name": "Wait Wait...Don\u0027t Tell Me!",
         "link": "https://www.npr.org/programs/wait-wait-dont-tell-me/",
         "coverImageUrl": "https://i.postimg.cc/wMBGkvV3/wait_wait.jpg",
@@ -569,6 +622,7 @@
     "podcasts": [
       {
         "podcastId": 86,
+        "podcastCategoryId": 8,
         "name": "Checks and Balance",
         "link": "https://www.economist.com/checks-and-balance-our-weekly-podcast-on-american-politics",
         "coverImageUrl": "https://i.postimg.cc/rFQHzSqW/checks-and-balances.jpg",
@@ -579,6 +633,7 @@
       },
       {
         "podcastId": 43,
+        "podcastCategoryId": 8,
         "name": "Dan Carlin\u2019s Common Sense",
         "link": "https://www.dancarlin.com/product-category/common-sense-with-dan-carlin/",
         "coverImageUrl": "https://i.postimg.cc/26QcYWH1/common-sense.jpg",
@@ -589,6 +644,7 @@
       },
       {
         "podcastId": 85,
+        "podcastCategoryId": 8,
         "name": "Ken Rudin\u0027s Political Junkie",
         "link": "https://www.krpoliticaljunkie.com/",
         "coverImageUrl": "https://i.postimg.cc/Xv3BhyyH/kenrudin.jpg",
@@ -599,6 +655,7 @@
       },
       {
         "podcastId": 24,
+        "podcastCategoryId": 8,
         "name": "The New Liberal Podcast",
         "link": "https://cnliberalism.org/posts/category/Podcasts",
         "coverImageUrl": "https://i.postimg.cc/T3V57PcL/new-liberal.jpg",
@@ -609,6 +666,7 @@
       },
       {
         "podcastId": 84,
+        "podcastCategoryId": 8,
         "name": "NPR Politics",
         "link": "https://www.npr.org/podcasts/510310/npr-politics-podcast",
         "coverImageUrl": "https://i.postimg.cc/1Rg0Dw0w/npr_politics.jpg",
@@ -619,6 +677,7 @@
       },
       {
         "podcastId": 2,
+        "podcastCategoryId": 8,
         "name": "The Rachel Maddow Show",
         "link": "https://podcasts.apple.com/us/podcast/the-rachel-maddow-show/id294055449",
         "coverImageUrl": "https://i.postimg.cc/9Fv0LW2k/rachel-maddow.jpg",
@@ -634,6 +693,7 @@
     "podcasts": [
       {
         "podcastId": 41,
+        "podcastCategoryId": 9,
         "name": "Babbage",
         "link": "https://www.economist.com/audio/podcasts/babbage",
         "coverImageUrl": "https://i.postimg.cc/0Q4g1f5r/babbage.jpg",
@@ -644,6 +704,7 @@
       },
       {
         "podcastId": 78,
+        "podcastCategoryId": 9,
         "name": "Hidden Brain",
         "link": "https://www.npr.org/series/423302056/hidden-brain",
         "coverImageUrl": "https://i.postimg.cc/NfS1NM4S/hidden_brain.jpg",
@@ -654,6 +715,7 @@
       },
       {
         "podcastId": 148,
+        "podcastCategoryId": 9,
         "name": "How We Survive",
         "link": "https://www.marketplace.org/shows/how-we-survive/",
         "coverImageUrl": "https://i.postimg.cc/d0mrt9Yc/how_we_survive.jpg",
@@ -664,6 +726,7 @@
       },
       {
         "podcastId": 77,
+        "podcastCategoryId": 9,
         "name": "Radiolab",
         "link": "https://radiolab.org",
         "coverImageUrl": "https://i.postimg.cc/SR0n62qf/radiolab.jpg",
@@ -674,6 +737,7 @@
       },
       {
         "podcastId": 76,
+        "podcastCategoryId": 9,
         "name": "Science Friday",
         "link": "https://www.sciencefriday.com",
         "coverImageUrl": "https://i.postimg.cc/qqd7tPXm/science_friday.jpg",
@@ -684,6 +748,7 @@
       },
       {
         "podcastId": 75,
+        "podcastCategoryId": 9,
         "name": "Science Vs.",
         "link": "https://gimletmedia.com/shows/science-vs",
         "coverImageUrl": "https://i.postimg.cc/wMcjDww9/science_vs.jpg",
@@ -694,6 +759,7 @@
       },
       {
         "podcastId": 74,
+        "podcastCategoryId": 9,
         "name": "Short Wave",
         "link": "https://www.npr.org/podcasts/510351/short-wave",
         "coverImageUrl": "https://i.postimg.cc/QxmMtnBb/shortwave.jpg",
@@ -704,6 +770,7 @@
       },
       {
         "podcastId": 73,
+        "podcastCategoryId": 9,
         "name": "Star Talk",
         "link": "https://www.startalkradio.net/",
         "coverImageUrl": "https://i.postimg.cc/RFxmGc6h/startalk.jpg",
@@ -714,6 +781,7 @@
       },
       {
         "podcastId": 40,
+        "podcastCategoryId": 9,
         "name": "TED Radio Hour",
         "link": "https://www.npr.org/programs/ted-radio-hour/",
         "coverImageUrl": "https://i.postimg.cc/nchJdVz4/ted_radio_hour.jpg",
@@ -729,6 +797,7 @@
     "podcasts": [
       {
         "podcastId": 135,
+        "podcastCategoryId": 10,
         "name": "The .NET Core Podcast",
         "link": "https://dotnetcore.show/",
         "coverImageUrl": "https://i.postimg.cc/7hPVyWGR/dotnet-core-podcast.jpg",
@@ -739,6 +808,7 @@
       },
       {
         "podcastId": 134,
+        "podcastCategoryId": 10,
         "name": ".NET Rocks!",
         "link": "https://www.dotnetrocks.com/",
         "coverImageUrl": "https://i.postimg.cc/90xBXYyQ/dotnet-rocks.jpg",
@@ -749,6 +819,7 @@
       },
       {
         "podcastId": 4,
+        "podcastCategoryId": 10,
         "name": "The Breakpoint Show",
         "link": "https://www.breakpoint.show/",
         "coverImageUrl": "https://i.postimg.cc/WbdSM4WJ/breakpoint-show.jpg",
@@ -759,6 +830,7 @@
       },
       {
         "podcastId": 133,
+        "podcastCategoryId": 10,
         "name": "The Changelog",
         "link": "https://changelog.com/",
         "coverImageUrl": "https://i.postimg.cc/Vs9pQxTK/changelog.jpg",
@@ -769,6 +841,7 @@
       },
       {
         "podcastId": 48,
+        "podcastCategoryId": 10,
         "name": "Code Rush",
         "link": "https://coderush.dev/",
         "coverImageUrl": "https://i.postimg.cc/J7d1q7RR/code-rush.jpg",
@@ -779,6 +852,7 @@
       },
       {
         "podcastId": 132,
+        "podcastCategoryId": 10,
         "name": "CodeNewbie",
         "link": "https://www.codenewbie.org/podcast",
         "coverImageUrl": "https://i.postimg.cc/Cx5Q8zK2/code-newbie.jpg",
@@ -789,6 +863,7 @@
       },
       {
         "podcastId": 131,
+        "podcastCategoryId": 10,
         "name": "CodePen Radio",
         "link": "https://podcasts.apple.com/us/podcast/codepen-radio/id824437159",
         "coverImageUrl": "https://i.postimg.cc/3wDfLVmC/codepen-radio.jpg",
@@ -799,6 +874,7 @@
       },
       {
         "podcastId": 130,
+        "podcastCategoryId": 10,
         "name": "Coding Blocks",
         "link": "https://www.codingblocks.net/",
         "coverImageUrl": "https://i.postimg.cc/MT2Pg5Yk/codingblocks.jpg",
@@ -809,6 +885,7 @@
       },
       {
         "podcastId": 129,
+        "podcastCategoryId": 10,
         "name": "Coffee \u0026 Open Source",
         "link": "https://coffeeandopensource.com",
         "coverImageUrl": "https://i.postimg.cc/JhtWspdT/coffee-open-source.jpg",
@@ -819,6 +896,7 @@
       },
       {
         "podcastId": 128,
+        "podcastCategoryId": 10,
         "name": "The CSS Podcast",
         "link": "https://thecsspodcast.libsyn.com/",
         "coverImageUrl": "https://i.postimg.cc/qqQ1hTH0/csspodcast.jpg",
@@ -829,6 +907,7 @@
       },
       {
         "podcastId": 127,
+        "podcastCategoryId": 10,
         "name": "Developer Tea",
         "link": "https://developertea.com/",
         "coverImageUrl": "https://i.postimg.cc/bJhgmJzp/developer-tea.jpg",
@@ -839,6 +918,7 @@
       },
       {
         "podcastId": 1,
+        "podcastCategoryId": 10,
         "name": "Dive Club (Deep Dives)",
         "link": "https://www.dive.club/",
         "coverImageUrl": "https://i.postimg.cc/7hgDrJwQ/deep-dives.jpg",
@@ -849,6 +929,7 @@
       },
       {
         "podcastId": 126,
+        "podcastCategoryId": 10,
         "name": "Hanselminutes",
         "link": "https://hanselminutes.com/",
         "coverImageUrl": "https://i.postimg.cc/7hQgrYyC/hanselminutes.jpg",
@@ -859,6 +940,7 @@
       },
       {
         "podcastId": 125,
+        "podcastCategoryId": 10,
         "name": "JS Party",
         "link": "https://changelog.com/jsparty",
         "coverImageUrl": "https://i.postimg.cc/x1LbtPqN/js_party.jpg",
@@ -869,6 +951,7 @@
       },
       {
         "podcastId": 124,
+        "podcastCategoryId": 10,
         "name": "Merge Conflict",
         "link": "https://www.mergeconflict.fm/",
         "coverImageUrl": "https://i.postimg.cc/sD42C0hq/merge-conflict.jpg",
@@ -879,6 +962,7 @@
       },
       {
         "podcastId": 123,
+        "podcastCategoryId": 10,
         "name": "No Dogma",
         "link": "https://nodogmapodcast.bryanhogan.net/",
         "coverImageUrl": "https://i.postimg.cc/VvbN5YC0/nodogma.jpg",
@@ -889,6 +973,7 @@
       },
       {
         "podcastId": 46,
+        "podcastCategoryId": 10,
         "name": "Off the Main Thread",
         "link": "https://offthemainthread.tech/",
         "coverImageUrl": "https://i.postimg.cc/2SfkMHM6/off-the-main-thread.jpg",
@@ -899,6 +984,7 @@
       },
       {
         "podcastId": 122,
+        "podcastCategoryId": 10,
         "name": "PodRocket",
         "link": "https://podrocket.logrocket.com/",
         "coverImageUrl": "https://i.postimg.cc/bNcRBdxL/podrocket.jpg",
@@ -909,6 +995,7 @@
       },
       {
         "podcastId": 121,
+        "podcastCategoryId": 10,
         "name": "Practical AI",
         "link": "https://changelog.com/practicalai",
         "coverImageUrl": "https://i.postimg.cc/02kzjsPP/practical-ai.jpg",
@@ -919,6 +1006,7 @@
       },
       {
         "podcastId": 120,
+        "podcastCategoryId": 10,
         "name": "Programming Throwdown",
         "link": "https://www.programmingthrowdown.com/",
         "coverImageUrl": "https://i.postimg.cc/g2G6tZhM/programming_throwdown.jpg",
@@ -929,6 +1017,7 @@
       },
       {
         "podcastId": 119,
+        "podcastCategoryId": 10,
         "name": "The ReadME Podcast",
         "link": "https://github.com/readme/podcast",
         "coverImageUrl": "https://i.postimg.cc/44t7J5bL/readmepodcast.jpg",
@@ -939,6 +1028,7 @@
       },
       {
         "podcastId": 118,
+        "podcastCategoryId": 10,
         "name": "Remotely Interesting",
         "link": "https://podcasts.apple.com/us/podcast/remotely-interesting/id1530314876",
         "coverImageUrl": "https://i.postimg.cc/GmgYpcbm/remotely-interesting.jpg",
@@ -949,6 +1039,7 @@
       },
       {
         "podcastId": 117,
+        "podcastCategoryId": 10,
         "name": "ShopTalk",
         "link": "https://shoptalkshow.com/",
         "coverImageUrl": "https://i.postimg.cc/MKqTz8GH/shoptalk.jpg",
@@ -959,6 +1050,7 @@
       },
       {
         "podcastId": 116,
+        "podcastCategoryId": 10,
         "name": "Software Engineering Daily",
         "link": "https://softwareengineeringdaily.com/",
         "coverImageUrl": "https://i.postimg.cc/HnHpWQdR/software_engineering_daily.jpg",
@@ -969,6 +1061,7 @@
       },
       {
         "podcastId": 115,
+        "podcastCategoryId": 10,
         "name": "The Stack Overflow Podcast",
         "link": "https://stackoverflow.blog/podcast/",
         "coverImageUrl": "https://i.postimg.cc/MGQxysGg/stackoverflow.jpg",
@@ -979,6 +1072,7 @@
       },
       {
         "podcastId": 114,
+        "podcastCategoryId": 10,
         "name": "Syntax",
         "link": "https://syntax.fm/",
         "coverImageUrl": "https://i.postimg.cc/90JjWKxw/syntaxfm.jpg",
@@ -989,6 +1083,7 @@
       },
       {
         "podcastId": 113,
+        "podcastCategoryId": 10,
         "name": "The Unhandled Exception",
         "link": "https://unhandledexceptionpodcast.com/",
         "coverImageUrl": "https://i.postimg.cc/YCLTVvwW/unhandled_exception.jpg",
@@ -999,6 +1094,7 @@
       },
       {
         "podcastId": 47,
+        "podcastCategoryId": 10,
         "name": "The Vanilla JS Podcast",
         "link": "https://vanillajspodcast.com/",
         "coverImageUrl": "https://i.postimg.cc/JnyCGJvv/vanilla-js-podcast.jpg",
@@ -1009,6 +1105,7 @@
       },
       {
         "podcastId": 112,
+        "podcastCategoryId": 10,
         "name": "Working Code",
         "link": "https://redcircle.com/shows/workingcode",
         "coverImageUrl": "https://i.postimg.cc/05t3yYkS/workingcode.jpg",
@@ -1024,6 +1121,7 @@
     "podcasts": [
       {
         "podcastId": 72,
+        "podcastCategoryId": 11,
         "name": "30 for 30",
         "link": "https://30for30podcasts.com/",
         "coverImageUrl": "https://i.postimg.cc/zGD1czGw/30for30.jpg",
@@ -1034,6 +1132,7 @@
       },
       {
         "podcastId": 71,
+        "podcastCategoryId": 11,
         "name": "The Athletic Baseball Show",
         "link": "https://theathletic.com/podcast/243-the-athletic-baseball-show/",
         "coverImageUrl": "https://i.postimg.cc/L5FcBRW1/athletic-baseball-show.jpg",
@@ -1044,6 +1143,7 @@
       },
       {
         "podcastId": 70,
+        "podcastCategoryId": 11,
         "name": "The Athletic Football Show",
         "link": "https://theathletic.com/podcast/211-the-athletic-football-show/",
         "coverImageUrl": "https://i.postimg.cc/rm46rzfT/athletic-football-show.jpg",
@@ -1054,6 +1154,7 @@
       },
       {
         "podcastId": 69,
+        "podcastCategoryId": 11,
         "name": "The Athletic Hockey Show",
         "link": "https://theathletic.com/podcast/211-the-athletic-football-show/",
         "coverImageUrl": "https://i.postimg.cc/sDsFMj7F/athletic-hockey-show.jpg",
@@ -1064,6 +1165,7 @@
       },
       {
         "podcastId": 68,
+        "podcastCategoryId": 11,
         "name": "The Athletic NBA Show",
         "link": "https://theathletic.com/podcast/8-the-nba-show/",
         "coverImageUrl": "https://i.postimg.cc/bNT7b79Z/athletic-nba-show.jpg",
@@ -1074,6 +1176,7 @@
       },
       {
         "podcastId": 67,
+        "podcastCategoryId": 11,
         "name": "The Bill Simmons Podcast",
         "link": "https://www.theringer.com/the-bill-simmons-podcast",
         "coverImageUrl": "https://i.postimg.cc/d39dpx88/bill-simmons.jpg",
@@ -1084,6 +1187,7 @@
       },
       {
         "podcastId": 66,
+        "podcastCategoryId": 11,
         "name": "Effectively Wild",
         "link": "https://blogs.fangraphs.com/category/effectively-wild/",
         "coverImageUrl": "https://i.postimg.cc/RVFRs2z6/effectively-wild.jpg",
@@ -1094,6 +1198,7 @@
       },
       {
         "podcastId": 65,
+        "podcastCategoryId": 11,
         "name": "FanGraphs Baseball",
         "link": "https://blogs.fangraphs.com/category/podcast/",
         "coverImageUrl": "https://i.postimg.cc/y83TB9x7/fangraphs.jpg",
@@ -1104,6 +1209,7 @@
       },
       {
         "podcastId": 63,
+        "podcastCategoryId": 11,
         "name": "High Hopes",
         "link": "https://podcasts.apple.com/us/podcast/high-hopes-a-phillies-podcast/id1304311183",
         "coverImageUrl": "https://i.postimg.cc/vZn5Cs2B/high_hopes.jpg",
@@ -1114,6 +1220,7 @@
       },
       {
         "podcastId": 64,
+        "podcastCategoryId": 11,
         "name": "Hittin\u2019 Season",
         "link": "https://billypenn.com/hittinseason/",
         "coverImageUrl": "https://i.postimg.cc/L5HGKbLt/hittin-season.jpg",
@@ -1124,6 +1231,7 @@
       },
       {
         "podcastId": 62,
+        "podcastCategoryId": 11,
         "name": "Infinite Inning",
         "link": "https://www.baseballprospectus.com/show/the-infinite-inning/",
         "coverImageUrl": "https://i.postimg.cc/vB0n5HTP/infinite_inning.jpg",
@@ -1134,6 +1242,7 @@
       },
       {
         "podcastId": 61,
+        "podcastCategoryId": 11,
         "name": "The Mismatch",
         "link": "https://www.theringer.com/the-mismatch-nba-show",
         "coverImageUrl": "https://i.postimg.cc/Jnrr7rvH/mismatch.jpg",
@@ -1144,6 +1253,7 @@
       },
       {
         "podcastId": 60,
+        "podcastCategoryId": 11,
         "name": "New Heights",
         "link": "https://podcasts.apple.com/us/podcast/new-heights-with-jason-and-travis-kelce/id1643745036",
         "coverImageUrl": "https://i.postimg.cc/ZRWdYx1d/new-heights.jpg",
@@ -1154,6 +1264,7 @@
       },
       {
         "podcastId": 59,
+        "podcastCategoryId": 11,
         "name": "Pardon the Interruption",
         "link": "https://www.espn.com/espnradio/podcast/archive/_/id/2406595",
         "coverImageUrl": "https://i.postimg.cc/HW2gs19b/pti.jpg",
@@ -1164,6 +1275,7 @@
       },
       {
         "podcastId": 58,
+        "podcastCategoryId": 11,
         "name": "Phillies Talk",
         "link": "https://www.nbcsports.com/philadelphia/phillies-talk",
         "coverImageUrl": "https://i.postimg.cc/bvCbtwsm/phillies_talk.jpg",
@@ -1174,6 +1286,7 @@
       },
       {
         "podcastId": 39,
+        "podcastCategoryId": 11,
         "name": "PHLY Philadelphia Eagles Podcast",
         "link": "https://allphly.com/category/eagles-podcast/",
         "coverImageUrl": "https://i.postimg.cc/fyDJ9m0z/phly-eagles.jpg",
@@ -1184,6 +1297,7 @@
       },
       {
         "podcastId": 37,
+        "podcastCategoryId": 11,
         "name": "PHLY Philadelphia Flyers Podcast",
         "link": "https://allphly.com/category/flyers-podcast/",
         "coverImageUrl": "https://i.postimg.cc/RF9Ms9CG/phly-flyers.jpg",
@@ -1194,6 +1308,7 @@
       },
       {
         "podcastId": 38,
+        "podcastCategoryId": 11,
         "name": "PHLY Philadelphia Phillies Podcast",
         "link": "https://allphly.com/category/phillies-podcast/",
         "coverImageUrl": "https://i.postimg.cc/QdHV1XVT/phly-phillies.jpg",
@@ -1204,6 +1319,7 @@
       },
       {
         "podcastId": 50,
+        "podcastCategoryId": 11,
         "name": "PHLY Philadelphia Sixers Podcast",
         "link": "https://allphly.com/category/sixers-podcast/",
         "coverImageUrl": "https://i.postimg.cc/rpZkJcrB/phly-sixers.jpg",
@@ -1214,6 +1330,7 @@
       },
       {
         "podcastId": 57,
+        "podcastCategoryId": 11,
         "name": "The PosCast",
         "link": "https://theathletic.com/podcast/174-the-poscast/",
         "coverImageUrl": "https://i.postimg.cc/3J5Gp6xQ/poscast.jpg",
@@ -1224,6 +1341,7 @@
       },
       {
         "podcastId": 56,
+        "podcastCategoryId": 11,
         "name": "Puck Podcast",
         "link": "https://puckpodcast.com/",
         "coverImageUrl": "https://i.postimg.cc/cLTtpLMd/puck_podcast.jpg",
@@ -1234,6 +1352,7 @@
       },
       {
         "podcastId": 55,
+        "podcastCategoryId": 11,
         "name": "Puck Soup",
         "link": "https://www.pucksoup.com/",
         "coverImageUrl": "https://i.postimg.cc/5t0QbWnL/puck_soup.jpg",
@@ -1244,6 +1363,7 @@
       },
       {
         "podcastId": 54,
+        "podcastCategoryId": 11,
         "name": "The Right Time with Bomani Jones",
         "link": "http://www.espn.com/espnradio/podcast/archive?id=12563086",
         "coverImageUrl": "https://i.postimg.cc/pdMxkwbT/right-time.jpg",
@@ -1254,6 +1374,7 @@
       },
       {
         "podcastId": 53,
+        "podcastCategoryId": 11,
         "name": "The Ringer NBA Show",
         "link": "https://www.theringer.com/the-nba-show",
         "coverImageUrl": "https://i.postimg.cc/K8949sxz/ringer_nba_show.jpg",
@@ -1264,6 +1385,7 @@
       },
       {
         "podcastId": 52,
+        "podcastCategoryId": 11,
         "name": "The Ringer NFL Show",
         "link": "https://www.theringer.com/the-nfl-show",
         "coverImageUrl": "https://i.postimg.cc/9fr0stQB/ringer_nfl_show.jpg",
@@ -1274,6 +1396,7 @@
       },
       {
         "podcastId": 51,
+        "podcastCategoryId": 11,
         "name": "The Ryen Russillo Padcast",
         "link": "https://www.theringer.com/ryen-russillo-podcast",
         "coverImageUrl": "https://i.postimg.cc/MTBTp6RM/ryenrussillo.jpg",
@@ -1289,6 +1412,7 @@
     "podcasts": [
       {
         "podcastId": 35,
+        "podcastCategoryId": 12,
         "name": "Cautionary Tales",
         "link": "https://www.pushkin.fm/podcasts/cautionary-tales",
         "coverImageUrl": "https://i.postimg.cc/zvNQH7Lw/cautionary-tales.jpg",
@@ -1299,6 +1423,7 @@
       },
       {
         "podcastId": 32,
+        "podcastCategoryId": 12,
         "name": "Death, Sex \u0026 Money",
         "link": "https://www.npr.org/podcasts/458929318/death-sex-money",
         "coverImageUrl": "https://i.postimg.cc/nhX3zgRb/death-sex-and-money.jpg",
@@ -1309,6 +1434,7 @@
       },
       {
         "podcastId": 30,
+        "podcastCategoryId": 12,
         "name": "Serial",
         "link": "https://serialpodcast.org/",
         "coverImageUrl": "https://i.postimg.cc/VsjvyNm2/serial.jpg",
@@ -1319,6 +1445,7 @@
       },
       {
         "podcastId": 33,
+        "podcastCategoryId": 12,
         "name": "Slow Burn",
         "link": "https://slate.com/podcasts/slow-burn/s1/watergate",
         "coverImageUrl": "https://i.postimg.cc/LsY4x9xC/slow_burn.jpg",
@@ -1329,6 +1456,7 @@
       },
       {
         "podcastId": 34,
+        "podcastCategoryId": 12,
         "name": "Snap Judgement",
         "link": "https://snapjudgment.org/",
         "coverImageUrl": "https://i.postimg.cc/G2vL1Mwv/snap_judgement.jpg",
@@ -1339,6 +1467,7 @@
       },
       {
         "podcastId": 36,
+        "podcastCategoryId": 12,
         "name": "This American Life",
         "link": "https://www.thisamericanlife.org/",
         "coverImageUrl": "https://i.postimg.cc/C10ybSXf/this_american_life.jpg",
@@ -1349,6 +1478,7 @@
       },
       {
         "podcastId": 31,
+        "podcastCategoryId": 12,
         "name": "You\u2019re Wrong About",
         "link": "https://yourewrongabout.com/",
         "coverImageUrl": "https://i.postimg.cc/1zZ7jMHk/youre_wrong_about.jpg",
@@ -1364,6 +1494,7 @@
     "podcasts": [
       {
         "podcastId": 136,
+        "podcastCategoryId": 13,
         "name": "99% Invisible",
         "link": "https://www.99pi.org",
         "coverImageUrl": "https://i.postimg.cc/Dz837xs8/99pi.jpg",
@@ -1374,6 +1505,7 @@
       },
       {
         "podcastId": 7,
+        "podcastCategoryId": 13,
         "name": "Ctrl-Alt-Speech",
         "link": "https://www.ctrlaltspeech.com/",
         "coverImageUrl": "https://i.postimg.cc/vTBnQhwx/ctrl-alt-speech.jpg",
@@ -1384,6 +1516,7 @@
       },
       {
         "podcastId": 9,
+        "podcastCategoryId": 13,
         "name": "Darknet Diaries",
         "link": "https://darknetdiaries.com/",
         "coverImageUrl": "https://i.postimg.cc/HsZSTdt9/darknet-diaries.jpg",
@@ -1394,6 +1527,7 @@
       },
       {
         "podcastId": 14,
+        "podcastCategoryId": 13,
         "name": "Decoder with Nilay Patel",
         "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel",
         "coverImageUrl": "https://i.postimg.cc/tCFDGWd2/decoder.jpg",
@@ -1404,6 +1538,7 @@
       },
       {
         "podcastId": 12,
+        "podcastCategoryId": 13,
         "name": "Dot Social",
         "link": "https://dot-social.simplecast.com/",
         "coverImageUrl": "https://i.postimg.cc/B6X9mMKh/dot-social.jpg",
@@ -1414,6 +1549,7 @@
       },
       {
         "podcastId": 5,
+        "podcastCategoryId": 13,
         "name": "Endless Thread",
         "link": "https://www.wbur.org/podcasts/endlessthread",
         "coverImageUrl": "https://i.postimg.cc/m2KjVGJp/endless-thread.jpg",
@@ -1424,6 +1560,7 @@
       },
       {
         "podcastId": 15,
+        "podcastCategoryId": 13,
         "name": "Hard Fork",
         "link": "https://www.nytimes.com/2022/10/04/podcasts/hard-fork-technology.html",
         "coverImageUrl": "https://i.postimg.cc/kGvmbkmH/hard-fork.jpg",
@@ -1434,6 +1571,7 @@
       },
       {
         "podcastId": 18,
+        "podcastCategoryId": 13,
         "name": "Marketplace Tech",
         "link": "https://www.marketplace.org/shows/marketplace-tech/",
         "coverImageUrl": "https://i.postimg.cc/DyXWwcrp/marketplace_tech.jpg",
@@ -1444,6 +1582,7 @@
       },
       {
         "podcastId": 6,
+        "podcastCategoryId": 13,
         "name": "Search Engine",
         "link": "https://podcasts.apple.com/us/podcast/search-engine/id1614253637",
         "coverImageUrl": "https://i.postimg.cc/Jzt44XXD/search-engine.jpg",
@@ -1454,6 +1593,7 @@
       },
       {
         "podcastId": 13,
+        "podcastCategoryId": 13,
         "name": "Smashing Security",
         "link": "https://www.smashingsecurity.com/",
         "coverImageUrl": "https://i.postimg.cc/vmJYjJjQ/smashing_security.jpg",
@@ -1464,6 +1604,7 @@
       },
       {
         "podcastId": 10,
+        "podcastCategoryId": 13,
         "name": "Tech Policy Podcast",
         "link": "https://podcast.techfreedom.org/",
         "coverImageUrl": "https://i.postimg.cc/yY5Jjb3G/tech-policy-podcast.jpg",
@@ -1474,6 +1615,7 @@
       },
       {
         "podcastId": 11,
+        "podcastCategoryId": 13,
         "name": "Techdirt",
         "link": "https://www.techdirt.com/blog/podcast/",
         "coverImageUrl": "https://i.postimg.cc/2jwYFLzj/techdirt.jpg",
@@ -1484,6 +1626,7 @@
       },
       {
         "podcastId": 16,
+        "podcastCategoryId": 13,
         "name": "The Vergecast",
         "link": "https://www.theverge.com/the-vergecast",
         "coverImageUrl": "https://i.postimg.cc/6QdgWFq6/vergecast.jpg",
@@ -1499,6 +1642,7 @@
     "podcasts": [
       {
         "podcastId": 29,
+        "podcastCategoryId": 14,
         "name": "Code Switch",
         "link": "https://www.npr.org/sections/codeswitch/",
         "coverImageUrl": "https://i.postimg.cc/6pP1ft2p/code-switch.jpg",
@@ -1509,6 +1653,7 @@
       },
       {
         "podcastId": 28,
+        "podcastCategoryId": 14,
         "name": "The Distraction",
         "link": "https://www.stitcher.com/show/the-distraction-a-defector-podcast",
         "coverImageUrl": "https://i.postimg.cc/zBFj6rBW/distraction.jpg",
@@ -1519,6 +1664,7 @@
       },
       {
         "podcastId": 27,
+        "podcastCategoryId": 14,
         "name": "Fresh Air",
         "link": "https://www.npr.org/podcasts/381444908/fresh-air",
         "coverImageUrl": "https://i.postimg.cc/254FLDnJ/fresh-air.jpg",
@@ -1529,6 +1675,7 @@
       },
       {
         "podcastId": 26,
+        "podcastCategoryId": 14,
         "name": "The Jordan Harbinger Show",
         "link": "https://www.jordanharbinger.com/",
         "coverImageUrl": "https://i.postimg.cc/8P26RYkV/jordan_harbinger_show.jpg",
@@ -1539,6 +1686,7 @@
       },
       {
         "podcastId": 25,
+        "podcastCategoryId": 14,
         "name": "Longform",
         "link": "https://longform.org/",
         "coverImageUrl": "https://i.postimg.cc/NMj9GqDR/longform.jpg",
@@ -1549,6 +1697,7 @@
       },
       {
         "podcastId": 23,
+        "podcastCategoryId": 14,
         "name": "Plain English",
         "link": "https://www.theringer.com/plain-english-with-derek-thompson-podcast",
         "coverImageUrl": "https://i.postimg.cc/VsJxj0YR/plain-english.jpg",
@@ -1559,6 +1708,7 @@
       },
       {
         "podcastId": 22,
+        "podcastCategoryId": 14,
         "name": "Tetragrammaton",
         "link": "https://www.tetragrammaton.com/",
         "coverImageUrl": "https://i.postimg.cc/d38Prg8C/tetragrammaton.jpg",
@@ -1569,6 +1719,7 @@
       },
       {
         "podcastId": 21,
+        "podcastCategoryId": 14,
         "name": "The Tim Ferriss Show",
         "link": "https://tim.blog/podcast/",
         "coverImageUrl": "https://i.postimg.cc/QN0LWLbH/tim_ferriss_show.jpg",
@@ -1579,6 +1730,7 @@
       },
       {
         "podcastId": 20,
+        "podcastCategoryId": 14,
         "name": "WorkLife with Adam Grant",
         "link": "https://www.ted.com/podcasts/worklife",
         "coverImageUrl": "https://i.postimg.cc/65yP28qm/worklife_adam_grant.jpg",
@@ -1589,6 +1741,7 @@
       },
       {
         "podcastId": 19,
+        "podcastCategoryId": 14,
         "name": "WTF with Marc Maron",
         "link": "https://www.wtfpod.com/",
         "coverImageUrl": "https://i.postimg.cc/gkQTvG6k/wtf_podcast.jpg",

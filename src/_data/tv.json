@@ -1,415 +1,15 @@
 {
   "toWatch": [
     {
-      "televisionShowId": 46,
-      "title": "1883",
-      "imdbLink": "https://www.imdb.com/title/tt13991232/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/sxGJqy2m/1883.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 24,
-      "title": "1923",
+      "televisionShowId": 57,
+      "title": "Yellowjackets",
       "imdbLink": "",
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 44,
-      "title": "Anthony Bourdain: Parts Unknown",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 69,
-      "title": "Arrested Development",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 64,
-      "title": "The Book of Boba Fett",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 29,
-      "title": "Cosmos",
-      "imdbLink": "https://www.imdb.com/title/tt2395695/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/9fcJMvxX/cosmos.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 59,
-      "title": "CSI: Vegas",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Personal To-Watch",
-        "colorCode": "#5a5611"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 71,
-      "title": "Dark",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 22,
-      "title": "Dead Loch",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Personal To-Watch",
-        "colorCode": "#5a5611"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 21,
-      "title": "The Defiant Ones",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Personal To-Watch",
-        "colorCode": "#5a5611"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 7,
-      "title": "Evil",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 95,
-      "title": "Foundation",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 76,
-      "title": "House of Cards",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Personal To-Watch",
-        "colorCode": "#5a5611"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 51,
-      "title": "Industry",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Personal To-Watch",
-        "colorCode": "#5a5611"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 101,
-      "title": "Industry",
-      "imdbLink": "https://www.imdb.com/title/tt7671070/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 3,
-      "sortOrder": null,
-      "status": {
-        "name": "Personal To-Watch",
-        "colorCode": "#5a5611"
-      },
-      "genres": [
-        {
-          "name": "Drama",
-          "colorCode": "rgb(121, 167, 12)"
-        }
-      ],
-      "services": [
-        {
-          "name": "HBO",
-          "colorCode": "rgb(104, 5, 167)"
-        }
-      ]
-    },
-    {
-      "televisionShowId": 67,
-      "title": "Ken Burns: Baseball",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 68,
-      "title": "Ken Burns: Vietnam",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 49,
-      "title": "The Last of Us",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Personal To-Watch",
-        "colorCode": "#5a5611"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 41,
-      "title": "The Last Ship",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 18,
-      "title": "Lawmen: Bass Reeves",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Personal To-Watch",
-        "colorCode": "#5a5611"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 96,
-      "title": "Loki",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 63,
-      "title": "The Outsider",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 65,
-      "title": "Queen\u2019s Gambit",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 66,
-      "title": "Succession",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Joint To-Watch",
@@ -425,8 +25,9 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/VN39tpgb/wandavision.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Joint To-Watch",
@@ -442,8 +43,9 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Joint To-Watch",
@@ -453,18 +55,451 @@
       "services": []
     },
     {
-      "televisionShowId": 57,
-      "title": "Yellowjackets",
+      "televisionShowId": 63,
+      "title": "The Outsider",
       "imdbLink": "",
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 49,
+      "title": "The Last of Us",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Personal To-Watch",
+        "colorCode": "#5a5611"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 41,
+      "title": "The Last Ship",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Joint To-Watch",
+        "colorCode": "#803e13"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 21,
+      "title": "The Defiant Ones",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Personal To-Watch",
+        "colorCode": "#5a5611"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 64,
+      "title": "The Book of Boba Fett",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Joint To-Watch",
+        "colorCode": "#803e13"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 66,
+      "title": "Succession",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Joint To-Watch",
+        "colorCode": "#803e13"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 65,
+      "title": "Queen\u2019s Gambit",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Joint To-Watch",
+        "colorCode": "#803e13"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 96,
+      "title": "Loki",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Joint To-Watch",
+        "colorCode": "#803e13"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 18,
+      "title": "Lawmen: Bass Reeves",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Personal To-Watch",
+        "colorCode": "#5a5611"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 68,
+      "title": "Ken Burns: Vietnam",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Joint To-Watch",
+        "colorCode": "#803e13"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 67,
+      "title": "Ken Burns: Baseball",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Joint To-Watch",
+        "colorCode": "#803e13"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 51,
+      "title": "Industry",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Personal To-Watch",
+        "colorCode": "#5a5611"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 101,
+      "title": "Industry",
+      "imdbLink": "https://www.imdb.com/title/tt7671070/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 3,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Personal To-Watch",
+        "colorCode": "#5a5611"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 76,
+      "title": "House of Cards",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Personal To-Watch",
+        "colorCode": "#5a5611"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 95,
+      "title": "Foundation",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Joint To-Watch",
+        "colorCode": "#803e13"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 7,
+      "title": "Evil",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Joint To-Watch",
+        "colorCode": "#803e13"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 22,
+      "title": "Dead Loch",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Personal To-Watch",
+        "colorCode": "#5a5611"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 71,
+      "title": "Dark",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Joint To-Watch",
+        "colorCode": "#803e13"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 29,
+      "title": "Cosmos",
+      "imdbLink": "https://www.imdb.com/title/tt2395695/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/9fcJMvxX/cosmos.jpg",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Joint To-Watch",
+        "colorCode": "#803e13"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 59,
+      "title": "CSI: Vegas",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Personal To-Watch",
+        "colorCode": "#5a5611"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 69,
+      "title": "Arrested Development",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Joint To-Watch",
+        "colorCode": "#803e13"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 44,
+      "title": "Anthony Bourdain: Parts Unknown",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Joint To-Watch",
+        "colorCode": "#803e13"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 24,
+      "title": "1923",
+      "imdbLink": "",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Joint To-Watch",
+        "colorCode": "#803e13"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 46,
+      "title": "1883",
+      "imdbLink": "https://www.imdb.com/title/tt13991232/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/sxGJqy2m/1883.jpg",
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "Joint To-Watch",
+        "colorCode": "#803e13"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 9,
+      "title": "Mr.  Robot",
+      "imdbLink": "https://www.imdb.com/title/tt4158110/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 4,
+      "currentSeasonEpisode": 1,
+      "progress": 25,
+      "sortOrder": 1,
+      "status": {
+        "name": "Personal To-Watch",
+        "colorCode": "#5a5611"
       },
       "genres": [],
       "services": []
@@ -476,91 +511,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 1,
+      "seasonEpisodeCount": 1,
+      "currentSeasonEpisode": 1,
+      "progress": 100,
       "sortOrder": 1,
       "status": {
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
-      "genres": [
-        {
-          "name": "Drama",
-          "colorCode": "rgb(121, 167, 12)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Amazon Prime",
-          "colorCode": "rgb(6, 104, 148)"
-        }
-      ]
-    },
-    {
-      "televisionShowId": 9,
-      "title": "Mr.  Robot",
-      "imdbLink": "https://www.imdb.com/title/tt4158110/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 4,
-      "sortOrder": 1,
-      "status": {
-        "name": "Personal To-Watch",
-        "colorCode": "#5a5611"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#5f3194"
-        },
-        {
-          "name": "Drama",
-          "colorCode": "rgb(121, 167, 12)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Amazon Prime",
-          "colorCode": "rgb(6, 104, 148)"
-        }
-      ]
-    },
-    {
-      "televisionShowId": 28,
-      "title": "Star Trek: Prodigy",
-      "imdbLink": "https://www.imdb.com/title/tt9795876/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/DfSdfzv1/star-trek-prodigy.jpg",
-      "currentSeason": 1,
-      "numberOfSeasons": 2,
-      "sortOrder": 2,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#5f3194"
-        },
-        {
-          "name": "Star Trek",
-          "colorCode": "rgb(149, 145, 6)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Netflix",
-          "colorCode": "rgb(190, 4, 4)"
-        },
-        {
-          "name": "Physical Media",
-          "colorCode": "rgb(88, 88, 88)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 4,
@@ -569,29 +529,34 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 3,
+      "seasonEpisodeCount": 3,
+      "currentSeasonEpisode": 1,
+      "progress": 33,
       "sortOrder": 2,
       "status": {
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#5f3194"
-        },
-        {
-          "name": "Drama",
-          "colorCode": "rgb(121, 167, 12)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Paramount\u002B",
-          "colorCode": "rgb(14, 58, 236)"
-        }
-      ]
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 28,
+      "title": "Star Trek: Prodigy",
+      "imdbLink": "https://www.imdb.com/title/tt9795876/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/DfSdfzv1/star-trek-prodigy.jpg",
+      "seasonEpisodeCount": 2,
+      "currentSeasonEpisode": 1,
+      "progress": 50,
+      "sortOrder": 2,
+      "status": {
+        "name": "Joint To-Watch",
+        "colorCode": "#803e13"
+      },
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 2,
@@ -600,52 +565,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 3,
+      "seasonEpisodeCount": 3,
+      "currentSeasonEpisode": 1,
+      "progress": 33,
       "sortOrder": 3,
       "status": {
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
-      "genres": [
-        {
-          "name": "Drama",
-          "colorCode": "rgb(121, 167, 12)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Hulu",
-          "colorCode": "rgb(1, 168, 44)"
-        }
-      ]
-    },
-    {
-      "televisionShowId": 75,
-      "title": "Arrested Development",
-      "imdbLink": "https://www.imdb.com/title/tt0367279/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 5,
-      "sortOrder": 4,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [
-        {
-          "name": "Comedy",
-          "colorCode": "rgb(1, 113, 82)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Netflix",
-          "colorCode": "rgb(190, 4, 4)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 85,
@@ -654,29 +583,34 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 5,
+      "seasonEpisodeCount": 5,
+      "currentSeasonEpisode": 1,
+      "progress": 20,
       "sortOrder": 4,
       "status": {
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
-      "genres": [
-        {
-          "name": "Drama",
-          "colorCode": "rgb(121, 167, 12)"
-        },
-        {
-          "name": "Crime Drama",
-          "colorCode": "rgb(136, 0, 0)"
-        }
-      ],
-      "services": [
-        {
-          "name": "HBO",
-          "colorCode": "rgb(104, 5, 167)"
-        }
-      ]
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 75,
+      "title": "Arrested Development",
+      "imdbLink": "https://www.imdb.com/title/tt0367279/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 5,
+      "currentSeasonEpisode": 1,
+      "progress": 20,
+      "sortOrder": 4,
+      "status": {
+        "name": "Joint To-Watch",
+        "colorCode": "#803e13"
+      },
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 19,
@@ -685,25 +619,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 1,
+      "seasonEpisodeCount": 1,
+      "currentSeasonEpisode": 1,
+      "progress": 100,
       "sortOrder": 5,
       "status": {
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
-      "genres": [
-        {
-          "name": "Drama",
-          "colorCode": "rgb(121, 167, 12)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Paramount\u002B",
-          "colorCode": "rgb(14, 58, 236)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 6,
@@ -712,25 +637,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 1,
+      "seasonEpisodeCount": 1,
+      "currentSeasonEpisode": 1,
+      "progress": 100,
       "sortOrder": 6,
       "status": {
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
-      "genres": [
-        {
-          "name": "Drama",
-          "colorCode": "rgb(121, 167, 12)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Hulu",
-          "colorCode": "rgb(1, 168, 44)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 13,
@@ -739,29 +655,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 5,
+      "seasonEpisodeCount": 5,
+      "currentSeasonEpisode": 1,
+      "progress": 20,
       "sortOrder": 7,
       "status": {
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#5f3194"
-        }
-      ],
-      "services": [
-        {
-          "name": "Roku",
-          "colorCode": "rgb(144, 68, 190)"
-        },
-        {
-          "name": "Tubi",
-          "colorCode": "rgb(193, 7, 224)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 52,
@@ -770,29 +673,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 18,
-      "numberOfSeasons": 3,
+      "seasonEpisodeCount": 3,
+      "currentSeasonEpisode": 18,
+      "progress": 600,
       "sortOrder": 8,
       "status": {
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#5f3194"
-        }
-      ],
-      "services": [
-        {
-          "name": "Amazon Prime",
-          "colorCode": "rgb(6, 104, 148)"
-        },
-        {
-          "name": "Hulu",
-          "colorCode": "rgb(1, 168, 44)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 14,
@@ -801,25 +691,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 4,
+      "seasonEpisodeCount": 4,
+      "currentSeasonEpisode": 1,
+      "progress": 25,
       "sortOrder": 9,
       "status": {
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#5f3194"
-        }
-      ],
-      "services": [
-        {
-          "name": "Crackle",
-          "colorCode": "rgb(243, 132, 7)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 79,
@@ -828,25 +709,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 13,
+      "seasonEpisodeCount": 13,
+      "currentSeasonEpisode": 1,
+      "progress": 8,
       "sortOrder": 10,
       "status": {
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#5f3194"
-        }
-      ],
-      "services": [
-        {
-          "name": "HBO",
-          "colorCode": "rgb(104, 5, 167)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 48,
@@ -855,25 +727,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 3,
+      "seasonEpisodeCount": 3,
+      "currentSeasonEpisode": 1,
+      "progress": 33,
       "sortOrder": 11,
       "status": {
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
-      "genres": [
-        {
-          "name": "Drama",
-          "colorCode": "rgb(121, 167, 12)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Tubi",
-          "colorCode": "rgb(193, 7, 224)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 80,
@@ -882,25 +745,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 3,
+      "seasonEpisodeCount": 3,
+      "currentSeasonEpisode": 1,
+      "progress": 33,
       "sortOrder": 12,
       "status": {
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
-      "genres": [
-        {
-          "name": "Drama",
-          "colorCode": "rgb(121, 167, 12)"
-        }
-      ],
-      "services": [
-        {
-          "name": "HBO",
-          "colorCode": "rgb(104, 5, 167)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 78,
@@ -909,25 +763,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 10,
+      "seasonEpisodeCount": 10,
+      "currentSeasonEpisode": 1,
+      "progress": 10,
       "sortOrder": 13,
       "status": {
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#5f3194"
-        }
-      ],
-      "services": [
-        {
-          "name": "Amazon Prime",
-          "colorCode": "rgb(6, 104, 148)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 72,
@@ -936,25 +781,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 6,
+      "seasonEpisodeCount": 6,
+      "currentSeasonEpisode": 1,
+      "progress": 17,
       "sortOrder": 14,
       "status": {
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
-      "genres": [
-        {
-          "name": "Comedy",
-          "colorCode": "rgb(1, 113, 82)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Hulu",
-          "colorCode": "rgb(1, 168, 44)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 77,
@@ -963,25 +799,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 5,
+      "seasonEpisodeCount": 5,
+      "currentSeasonEpisode": 1,
+      "progress": 20,
       "sortOrder": 15,
       "status": {
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
-      "genres": [
-        {
-          "name": "Drama",
-          "colorCode": "rgb(121, 167, 12)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Amazon Prime",
-          "colorCode": "rgb(6, 104, 148)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 84,
@@ -990,25 +817,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 6,
+      "seasonEpisodeCount": 6,
+      "currentSeasonEpisode": 1,
+      "progress": 17,
       "sortOrder": 16,
       "status": {
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
-      "genres": [
-        {
-          "name": "Drama",
-          "colorCode": "rgb(121, 167, 12)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Netflix",
-          "colorCode": "rgb(190, 4, 4)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 74,
@@ -1017,29 +835,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 4,
+      "seasonEpisodeCount": 4,
+      "currentSeasonEpisode": 1,
+      "progress": 25,
       "sortOrder": 17,
       "status": {
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
-      "genres": [
-        {
-          "name": "Comedy",
-          "colorCode": "rgb(1, 113, 82)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Netflix",
-          "colorCode": "rgb(190, 4, 4)"
-        },
-        {
-          "name": "Amazon Prime",
-          "colorCode": "rgb(6, 104, 148)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 5,
@@ -1048,25 +853,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "currentSeason": 1,
-      "numberOfSeasons": 1,
+      "seasonEpisodeCount": 1,
+      "currentSeasonEpisode": 1,
+      "progress": 100,
       "sortOrder": 25,
       "status": {
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
-      "genres": [
-        {
-          "name": "Drama",
-          "colorCode": "rgb(121, 167, 12)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Netflix",
-          "colorCode": "rgb(190, 4, 4)"
-        }
-      ]
+      "genres": [],
+      "services": []
     }
   ],
   "inProgress": [
@@ -1077,25 +873,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/gk6MByXp/challengerfinalflight.jpg",
-      "currentSeason": 3,
-      "numberOfSeasons": 4,
+      "seasonEpisodeCount": 4,
+      "currentSeasonEpisode": 3,
+      "progress": 75,
       "sortOrder": null,
       "status": {
         "name": "Watching",
         "colorCode": "#005c78"
       },
-      "genres": [
-        {
-          "name": "Documentary",
-          "colorCode": "rgb(126, 13, 85)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Netflix",
-          "colorCode": "rgb(190, 4, 4)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 16,
@@ -1104,25 +891,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/jj33JDQr/goodeats.jpg",
-      "currentSeason": 7,
-      "numberOfSeasons": 14,
+      "seasonEpisodeCount": 14,
+      "currentSeasonEpisode": 7,
+      "progress": 50,
       "sortOrder": 3,
       "status": {
         "name": "Watching",
         "colorCode": "#005c78"
       },
-      "genres": [
-        {
-          "name": "Food",
-          "colorCode": "rgb(164, 108, 2)"
-        }
-      ],
-      "services": [
-        {
-          "name": "HBO",
-          "colorCode": "rgb(104, 5, 167)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 1,
@@ -1131,25 +909,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/2ypsjtLd/only-murderers-in-the-building.jpg",
-      "currentSeason": 4,
-      "numberOfSeasons": 5,
+      "seasonEpisodeCount": 5,
+      "currentSeasonEpisode": 4,
+      "progress": 80,
       "sortOrder": null,
       "status": {
         "name": "Watching",
         "colorCode": "#005c78"
       },
-      "genres": [
-        {
-          "name": "Comedy",
-          "colorCode": "rgb(1, 113, 82)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Hulu",
-          "colorCode": "rgb(1, 168, 44)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 10,
@@ -1158,25 +927,16 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/dtb27Hw1/the-stand.jpg",
-      "currentSeason": 3,
-      "numberOfSeasons": 9,
+      "seasonEpisodeCount": 9,
+      "currentSeasonEpisode": 3,
+      "progress": 33,
       "sortOrder": 2,
       "status": {
         "name": "Watching",
         "colorCode": "#005c78"
       },
-      "genres": [
-        {
-          "name": "Drama",
-          "colorCode": "rgb(121, 167, 12)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Paramount\u002B",
-          "colorCode": "rgb(14, 58, 236)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 39,
@@ -1185,33 +945,16 @@
       "rating": 5,
       "thoughts": "The quintessential Star Trek. It was an amazing series that I constantly get more out of everytime I re-watch it",
       "coverImageUrl": "https://i.postimg.cc/fb3jJDcN/tng.jpg",
-      "currentSeason": 2,
-      "numberOfSeasons": 7,
+      "seasonEpisodeCount": 7,
+      "currentSeasonEpisode": 2,
+      "progress": 29,
       "sortOrder": null,
       "status": {
         "name": "Watching",
         "colorCode": "#005c78"
       },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#5f3194"
-        },
-        {
-          "name": "Star Trek",
-          "colorCode": "rgb(149, 145, 6)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Paramount\u002B",
-          "colorCode": "rgb(14, 58, 236)"
-        },
-        {
-          "name": "Physical Media",
-          "colorCode": "rgb(88, 88, 88)"
-        }
-      ]
+      "genres": [],
+      "services": []
     }
   ],
   "betweenSeasons": [
@@ -1222,8 +965,9 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/tgzBZXq8/death-and-other-details.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "In Between Seasons",
@@ -1239,8 +983,9 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/MHbQygDP/fallout.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "In Between Seasons",
@@ -1256,8 +1001,9 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/mDJntmzd/forallmankind.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "In Between Seasons",
@@ -1273,8 +1019,9 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/MHkwh71N/frasier2023.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "In Between Seasons",
@@ -1290,8 +1037,9 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/yddjh04w/always-sunny.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "In Between Seasons",
@@ -1307,8 +1055,9 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/x8N55L4F/mythic-quest.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "In Between Seasons",
@@ -1324,8 +1073,9 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/KzkqStqt/lowerdecks.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "In Between Seasons",
@@ -1341,8 +1091,9 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/d3c9bpTK/strangenewworlds.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "In Between Seasons",
@@ -1358,8 +1109,9 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/brPQCnKy/yellowstone.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "In Between Seasons",
@@ -1377,8 +1129,9 @@
       "rating": 4,
       "thoughts": "Alec Baldwin and Tina Fey were amazing in this.",
       "coverImageUrl": "https://i.postimg.cc/GmFXbcxS/30rock.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1394,8 +1147,9 @@
       "rating": 3,
       "thoughts": "I enjoyed the series. Good action and intrigue.",
       "coverImageUrl": "https://i.postimg.cc/TYs0BRGK/alteredcarbon.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1411,8 +1165,9 @@
       "rating": 3,
       "thoughts": "I\u2019m really not happy how this ended up in terms of the book versus the series. It was doing so well, but unfortunately it did not end well.",
       "coverImageUrl": "https://i.postimg.cc/mgfdxcCH/american-gods.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1428,8 +1183,9 @@
       "rating": 5,
       "thoughts": "Fantastic series. Really makes you respect what the soldiers had to sacrifice to beat Nazi Germany.",
       "coverImageUrl": "https://i.postimg.cc/BQ2qxfnc/band-of-brothers.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1445,25 +1201,16 @@
       "rating": 2,
       "thoughts": "Both seasons were kind of weird. Definitely Stephen King inspired, but not sure how much I liked it.",
       "coverImageUrl": "https://i.postimg.cc/SxGx2Jzp/castle-rock.jpg",
-      "currentSeason": 2,
-      "numberOfSeasons": 2,
+      "seasonEpisodeCount": 2,
+      "currentSeasonEpisode": 2,
+      "progress": 100,
       "sortOrder": 1,
       "status": {
         "name": "Watched",
         "colorCode": "#343aa8"
       },
-      "genres": [
-        {
-          "name": "Horror",
-          "colorCode": "rgb(4, 77, 67)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Hulu",
-          "colorCode": "rgb(1, 168, 44)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 12,
@@ -1472,8 +1219,9 @@
       "rating": 4,
       "thoughts": "Not a bad adaptation of the book. Ridiculous in all the right parts.",
       "coverImageUrl": "https://i.postimg.cc/PJw7WDxL/catch-22.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1489,8 +1237,9 @@
       "rating": 3,
       "thoughts": "It\u2019s an older show, but parts of it still hold up.",
       "coverImageUrl": "https://i.postimg.cc/MGttjd47/daria.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1506,25 +1255,16 @@
       "rating": 2,
       "thoughts": "Some parts were interesting, but sometimes the show felt like it just dragged on unnecessarily.",
       "coverImageUrl": "https://i.postimg.cc/k4pcTD7D/designatedsurvivor.jpg",
-      "currentSeason": 3,
-      "numberOfSeasons": 3,
+      "seasonEpisodeCount": 3,
+      "currentSeasonEpisode": 3,
+      "progress": 100,
       "sortOrder": 2,
       "status": {
         "name": "Watched",
         "colorCode": "#343aa8"
       },
-      "genres": [
-        {
-          "name": "Drama",
-          "colorCode": "rgb(121, 167, 12)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Netflix",
-          "colorCode": "rgb(190, 4, 4)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 40,
@@ -1533,8 +1273,9 @@
       "rating": 5,
       "thoughts": "I loved the way the show\u0027s creators brought about Sherlock Holmes meets New York City.",
       "coverImageUrl": "https://i.postimg.cc/Pqf9cpnM/elementary.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1550,8 +1291,9 @@
       "rating": 5,
       "thoughts": "This was a fantastic series. Did a pretty good job with matching the books, but sadly it ended too soon.",
       "coverImageUrl": "https://i.postimg.cc/Y9hVr59G/expanse.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1567,8 +1309,9 @@
       "rating": 4,
       "thoughts": "Enjoyed the character interaction between everyone.",
       "coverImageUrl": "https://i.postimg.cc/G3TNZnV6/frasier.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1584,8 +1327,9 @@
       "rating": 4,
       "thoughts": "I really wish I could separate this between what was written and what was made up. The first several seasons were amazing. The last few...not so much.",
       "coverImageUrl": "https://i.postimg.cc/gjhTR33G/gameofthrones.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1601,25 +1345,16 @@
       "rating": 2,
       "thoughts": "I love Halo, but this never really came close to the lowest of my expectations. It\u2019s a shame it missed the mark, there is so much lore that they just constantly bungled.",
       "coverImageUrl": "https://i.postimg.cc/zfq7tSvT/halo.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
         "colorCode": "#343aa8"
       },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#5f3194"
-        }
-      ],
-      "services": [
-        {
-          "name": "Paramount\u002B",
-          "colorCode": "rgb(14, 58, 236)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 92,
@@ -1628,8 +1363,9 @@
       "rating": 4,
       "thoughts": "I enjoyed the show. John Krasinski, Wendell Pierce, \u0026 Michael Kelly were a great trio. Ryan\u2019s character felt a bit more action-y than the books, but it still hit a lot of the intrigue you expect from Clancy writing and adaptations.",
       "coverImageUrl": "https://i.postimg.cc/BnpwxSPP/jackryan.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1645,8 +1381,9 @@
       "rating": 4,
       "thoughts": "While I\u0027m not quite sure I understood the ending, this was a fun series to watch.",
       "coverImageUrl": "https://i.postimg.cc/d00N6bGH/lost.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1662,8 +1399,9 @@
       "rating": 5,
       "thoughts": "I really enjoyed each season of this. Some good characters and some interesting storylines.",
       "coverImageUrl": "https://i.postimg.cc/j2yMCtr5/mandalorian.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1679,8 +1417,9 @@
       "rating": 2,
       "thoughts": "While I\u0027m sure there\u0027s truth to parts of this, it sometimes felt a little bit more on the conspiracy theory side.",
       "coverImageUrl": "https://i.postimg.cc/50hPxjTT/meltdown.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1696,8 +1435,9 @@
       "rating": 4,
       "thoughts": "A great mix of humanity and humor with a good cast.",
       "coverImageUrl": "https://i.postimg.cc/0jGCPnpK/themiddle.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1713,8 +1453,9 @@
       "rating": 5,
       "thoughts": "This was a great way to bridge Revenge of the Sith with A New Hope. It was nice to see Ewan McGregor back as Obi-Wan.",
       "coverImageUrl": "https://i.postimg.cc/k5h1pTcn/kenobi.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1730,8 +1471,9 @@
       "rating": 5,
       "thoughts": "The first seasons were definitely the best, but it was a fantastic series with a great mix of humor.",
       "coverImageUrl": "https://i.postimg.cc/fyvY6LNx/theoffice.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1747,8 +1489,9 @@
       "rating": 4,
       "thoughts": "I enjoyed this. Showed how awful was was and what hell the Pacific Theater was.",
       "coverImageUrl": "https://i.postimg.cc/Z0kF5MMN/the-pacific.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1764,8 +1507,9 @@
       "rating": 4,
       "thoughts": "Nick Offerman and Amy Poehler really made this. Would highly recommend as it\u0027s a great mix of humor and good story telling",
       "coverImageUrl": "https://i.postimg.cc/zDhtxSRr/parksandrec.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1781,8 +1525,9 @@
       "rating": 5,
       "thoughts": "The cast for this was amazing and the story was always keeping things interesting.",
       "coverImageUrl": "https://i.postimg.cc/DyKCHJqb/personofinterest.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1798,8 +1543,9 @@
       "rating": 5,
       "thoughts": "This was a phenomenal documentary series on Teddy, FDR \u0026 Eleanor. I learned quite a bit about their lives, what they went through, and some of the \u201Cwhy\u201D they did what they did.",
       "coverImageUrl": "https://i.postimg.cc/mZJ3G99y/roosevelts.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1815,8 +1561,9 @@
       "rating": 3,
       "thoughts": "This was an interesting documentary on some of the foundations of cooking. I wish there was a little more info on the recipes she cooked for the show, but that might be related towards buying the book.",
       "coverImageUrl": "https://i.postimg.cc/FsGNGjS0/saltfatacidheat.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1832,8 +1579,9 @@
       "rating": 4,
       "thoughts": "I enjoyed this, good humor and some good characters.",
       "coverImageUrl": "https://i.postimg.cc/ZnRXfLpQ/schitts-creek.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1849,8 +1597,9 @@
       "rating": 5,
       "thoughts": "I loved this show. Was funny and probably gave a better idea of how the health system works.",
       "coverImageUrl": "https://i.postimg.cc/K8G0c6pG/scrubs.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1866,8 +1615,9 @@
       "rating": 5,
       "thoughts": "This was a fantastic interpretation of Sherlock Holmes. Benedict Cumberbatch as Holmes and Martin Freeman are amazing.",
       "coverImageUrl": "https://i.postimg.cc/cLFXvFPQ/sherlock.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1883,8 +1633,9 @@
       "rating": 4,
       "thoughts": "There were some stories I enjoyed more than others, but these were enjoyable additions to the franchise. My favorite was definitely \u201CThe Trouble with Edward\u201D.",
       "coverImageUrl": "https://i.postimg.cc/85YSBcBd/short-treks.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1900,29 +1651,16 @@
       "rating": 4,
       "thoughts": "I enjoyed the series but was disappointed by the ending.",
       "coverImageUrl": "https://i.postimg.cc/HsgFhCQ2/sopranos.jpg",
-      "currentSeason": 6,
-      "numberOfSeasons": 6,
+      "seasonEpisodeCount": 6,
+      "currentSeasonEpisode": 6,
+      "progress": 100,
       "sortOrder": 4,
       "status": {
         "name": "Watched",
         "colorCode": "#343aa8"
       },
-      "genres": [
-        {
-          "name": "Crime Drama",
-          "colorCode": "rgb(136, 0, 0)"
-        },
-        {
-          "name": "Drama",
-          "colorCode": "rgb(121, 167, 12)"
-        }
-      ],
-      "services": [
-        {
-          "name": "HBO",
-          "colorCode": "rgb(104, 5, 167)"
-        }
-      ]
+      "genres": [],
+      "services": []
     },
     {
       "televisionShowId": 38,
@@ -1931,8 +1669,9 @@
       "rating": 5,
       "thoughts": "The series where it all began and what got me into Star Trek. Some of the effects are corny for today\u0027s standards, but the series still holds up",
       "coverImageUrl": "https://i.postimg.cc/SKjVCWpH/startrek.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1948,8 +1687,9 @@
       "rating": 5,
       "thoughts": "This by far is my favorite Star Trek series. The way the characters are developed is amazing and there are so many great stories within the series. It was also the first Star Trek series to have a full storyline.",
       "coverImageUrl": "https://i.postimg.cc/Mpmgd0NT/ds9.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1965,8 +1705,9 @@
       "rating": 4,
       "thoughts": "The show had its ups and downs. I enjoyed most of the stories and its characters. It\u2019s a shame it had to end so soon.",
       "coverImageUrl": "https://i.postimg.cc/k4Lwdryf/star-trek-discovery.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1982,8 +1723,9 @@
       "rating": 5,
       "thoughts": "I recently watched this again with my wife. It reminded me how much it sucked that it was cancelled after only 4 seasons. They could\u0027ve done so much more. The first two seasons were shaky, but it finished strong and was still a good series.",
       "coverImageUrl": "https://i.postimg.cc/s28mcvjx/startrekenterprise.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -1999,8 +1741,9 @@
       "rating": 5,
       "thoughts": "The 3rd season was definitely the best. So much nostalgia with a good story. I enjoyed the first 2 seasons, but they didn\u0027t match what season 3 brought to the screen.",
       "coverImageUrl": "https://i.postimg.cc/sD9nrjcH/picard.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -2016,8 +1759,9 @@
       "rating": 5,
       "thoughts": "The quintessential Star Trek. It was an amazing series that I constantly get more out of everytime I re-watch it",
       "coverImageUrl": "https://i.postimg.cc/fb3jJDcN/tng.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -2033,8 +1777,9 @@
       "rating": 5,
       "thoughts": "I enjoyed this series. They could have done more with the stranded part making it a little more rough, but the cast and series worked well.",
       "coverImageUrl": "https://i.postimg.cc/gJ8VHstt/voyager.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -2050,8 +1795,9 @@
       "rating": 5,
       "thoughts": "I really enjoyed this. Had some great characters, good humor, and was down to earth. Kind of want to get into soccer now.",
       "coverImageUrl": "https://i.postimg.cc/1tqHYsXH/tedlasso.jpg",
-      "currentSeason": 0,
-      "numberOfSeasons": 0,
+      "seasonEpisodeCount": 0,
+      "currentSeasonEpisode": 0,
+      "progress": 0,
       "sortOrder": null,
       "status": {
         "name": "Watched",
@@ -2067,25 +1813,16 @@
       "rating": 5,
       "thoughts": "This was an incredibly interesting documentary about the Cold War, Nuclear Weapons, and the current state of the world with regards to Russia.",
       "coverImageUrl": "https://i.postimg.cc/MpRmKYN6/turning-point.jpg",
-      "currentSeason": 1,
-      "numberOfSeasons": 1,
+      "seasonEpisodeCount": 1,
+      "currentSeasonEpisode": 1,
+      "progress": 100,
       "sortOrder": null,
       "status": {
         "name": "Watched",
         "colorCode": "#343aa8"
       },
-      "genres": [
-        {
-          "name": "Documentary",
-          "colorCode": "rgb(126, 13, 85)"
-        }
-      ],
-      "services": [
-        {
-          "name": "Netflix",
-          "colorCode": "rgb(190, 4, 4)"
-        }
-      ]
+      "genres": [],
+      "services": []
     }
   ],
   "abandoned": []

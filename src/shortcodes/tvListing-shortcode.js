@@ -1,16 +1,14 @@
 import starRating from './starRating-shortcode.js';
 
-const getProgress = ({ currentSeason, numberOfSeasons }) => {
-	if (numberOfSeasons <= 1 || currentSeason === numberOfSeasons) {
+const getProgress = ({ progress }) => {
+	if (progress === 0 || progress === 100) {
 		return '';
 	}
 
-	const percentComplete = (currentSeason / numberOfSeasons) * 100;
-
 	return `
-<div class="media-progress-bar" title="${percentComplete}% complete">
+<div class="media-progress-bar" title="${progress}% complete">
 	<div class="bar">
-		<div class="inner-bar" style="width: ${percentComplete}%"></div>
+		<div class="inner-bar" style="width: ${progress}%"></div>
 	</div>
 </div>`;
 };

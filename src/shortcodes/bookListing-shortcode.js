@@ -18,15 +18,15 @@ const getThoughts = (book) => {
 	`;
 };
 
-const getProgress = ({ percentComplete }) => {
-	if (percentComplete <= 0 || percentComplete >= 100) {
+const getProgress = ({ progress }) => {
+	if (progress <= 0 || progress >= 100) {
 		return '';
 	}
 
 	return `
-<div class="media-progress-bar" title="${percentComplete}% complete">
+<div class="media-progress-bar" title="${progress}% complete">
 	<div class="bar">
-		<div class="inner-bar" style="width: ${percentComplete}%"></div>
+		<div class="inner-bar" style="width: ${progress}%"></div>
 	</div>
 </div>`;
 };
