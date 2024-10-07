@@ -1,5 +1,69 @@
 [
   {
+    "linkId": 424,
+    "title": "What price?",
+    "url": "https://adactio.com/journal/21405",
+    "author": "Jeremy Keith",
+    "linkDate": "2024-10-06T23:20:01.893Z",
+    "readingLogIssueNumber": 94,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 423,
+    "title": "Web Components are Bad, Good, and OK",
+    "url": "https://frontendmasters.com/blog/web-components-are-bad-good-and-ok/",
+    "author": "Chris Coyier",
+    "linkDate": "2024-10-05T04:00:00Z",
+    "readingLogIssueNumber": 94,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 422,
+    "title": "Improving Your CSS Game with Martine Dowden",
+    "url": "https://www.dotnetrocks.com/details/1885",
+    "author": ".NET Rocks",
+    "linkDate": "2024-10-04T19:00:01.386Z",
+    "readingLogIssueNumber": 94,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 421,
+    "title": "American\u2019s Love Affair with Big Cars is Killing Them",
+    "url": "https://www.economist.com/interactive/united-states/2024/08/31/americans-love-affair-with-big-cars-is-killing-them",
+    "author": "The Economist",
+    "linkDate": "2024-10-04T01:32:41.407Z",
+    "readingLogIssueNumber": 94,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
     "linkId": 420,
     "title": "Personal Websites Are As Vulnerable As Us",
     "url": "https://blog.jim-nielsen.com/2024/personal-website-vulnerability/",

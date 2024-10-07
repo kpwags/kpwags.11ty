@@ -379,24 +379,6 @@
       "services": []
     },
     {
-      "televisionShowId": 29,
-      "title": "Cosmos",
-      "imdbLink": "https://www.imdb.com/title/tt2395695/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/9fcJMvxX/cosmos.jpg",
-      "seasonEpisodeCount": 0,
-      "currentSeasonEpisode": 0,
-      "progress": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
       "televisionShowId": 59,
       "title": "CSI: Vegas",
       "imdbLink": "",
@@ -867,15 +849,15 @@
   ],
   "inProgress": [
     {
-      "televisionShowId": 81,
-      "title": "Challenger: Final Flight",
-      "imdbLink": "https://www.imdb.com/title/tt12930534/",
+      "televisionShowId": 29,
+      "title": "Cosmos",
+      "imdbLink": "https://www.imdb.com/title/tt2395695/",
       "rating": 0,
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/gk6MByXp/challengerfinalflight.jpg",
-      "seasonEpisodeCount": 4,
-      "currentSeasonEpisode": 3,
-      "progress": 75,
+      "coverImageUrl": "https://i.postimg.cc/9fcJMvxX/cosmos.jpg",
+      "seasonEpisodeCount": 13,
+      "currentSeasonEpisode": 1,
+      "progress": 8,
       "sortOrder": null,
       "status": {
         "name": "Watching",
@@ -928,8 +910,8 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/dtb27Hw1/the-stand.jpg",
       "seasonEpisodeCount": 9,
-      "currentSeasonEpisode": 3,
-      "progress": 33,
+      "currentSeasonEpisode": 4,
+      "progress": 44,
       "sortOrder": 2,
       "status": {
         "name": "Watching",
@@ -1229,6 +1211,34 @@
       },
       "genres": [],
       "services": []
+    },
+    {
+      "televisionShowId": 81,
+      "title": "Challenger: Final Flight",
+      "imdbLink": "https://www.imdb.com/title/tt12930534/",
+      "rating": 4,
+      "thoughts": "It was a good look at what happened with Challenger. I maintains the focus of the human side while also looking at the warnings NASA received and its lack of action that caused the tragedy.",
+      "coverImageUrl": "https://i.postimg.cc/gk6MByXp/challengerfinalflight.jpg",
+      "seasonEpisodeCount": 4,
+      "currentSeasonEpisode": 4,
+      "progress": 100,
+      "sortOrder": null,
+      "status": {
+        "name": "Watched",
+        "colorCode": "#343aa8"
+      },
+      "genres": [
+        {
+          "name": "Documentary",
+          "colorCode": "#11659c"
+        }
+      ],
+      "services": [
+        {
+          "name": "Netflix",
+          "colorCode": "#c71212"
+        }
+      ]
     },
     {
       "televisionShowId": 50,
