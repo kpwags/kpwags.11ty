@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 407,
-      "title": "The Candy House",
+      "bookId": 8,
+      "title": "The Mercy of Gods",
       "subTitle": "",
-      "fullTitle": "The Candy House",
-      "author": "Jennifer Egan",
-      "link": "https://bookshop.org/p/books/the-candy-house-jennifer-egan/19580001?ean=9781476716763",
-      "dateStarted": "2024-10-02T04:00:00Z",
+      "fullTitle": "The Mercy of Gods",
+      "author": "James S.A. Corey",
+      "link": "https://bookshop.org/p/books/the-mercy-of-gods-james-s-a-corey/20886313?ean=9780316525572",
+      "dateStarted": null,
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/GhT6cZ75/the-candy-house.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 670,
-      "pageCount": 4807,
-      "progress": 14,
-      "sortOrder": 86,
+      "coverImageUrl": "https://i.postimg.cc/YChy5wPw/the-mercy-of-gods.jpg",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 42,
+      "pageCount": 422,
+      "progress": 10,
+      "sortOrder": 87,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -30,14 +30,14 @@
       "series": null,
       "genres": [
         {
-          "name": "General Fiction",
-          "colorCode": "rgb(145, 104, 104)"
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
         }
       ],
       "formats": [
         {
-          "name": "eBook",
-          "colorCode": "#2c5813"
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
         }
       ]
     }
@@ -11199,47 +11199,6 @@
   ],
   "toRead": [
     {
-      "bookId": 8,
-      "title": "The Mercy of Gods",
-      "subTitle": "",
-      "fullTitle": "The Mercy of Gods",
-      "author": "James S.A. Corey",
-      "link": "https://bookshop.org/p/books/the-mercy-of-gods-james-s-a-corey/20886313?ean=9780316525572",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/YChy5wPw/the-mercy-of-gods.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 87,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
-        }
-      ]
-    },
-    {
       "bookId": 195,
       "title": "Battle Cry of Freedom: The Civil War Era",
       "subTitle": "",
@@ -11486,6 +11445,83 @@
       "series": null,
       "genres": [],
       "formats": []
+    },
+    {
+      "bookId": 524,
+      "title": "A Visit from the Goon Squad",
+      "subTitle": "",
+      "fullTitle": "A Visit from the Goon Squad",
+      "author": "Jennifer Egan",
+      "link": "https://bookshop.org/p/books/a-visit-from-the-goon-squad-jennifer-egan/229047?ean=9780307477477",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 161,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "General Fiction",
+          "colorCode": "rgb(145, 104, 104)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 407,
+      "title": "The Candy House",
+      "subTitle": "",
+      "fullTitle": "The Candy House",
+      "author": "Jennifer Egan",
+      "link": "https://bookshop.org/p/books/the-candy-house-jennifer-egan/19580001?ean=9781476716763",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/GhT6cZ75/the-candy-house.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 0,
+      "pageCount": 4807,
+      "progress": 0,
+      "sortOrder": 162,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "General Fiction",
+          "colorCode": "rgb(145, 104, 104)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
     },
     {
       "bookId": 397,
