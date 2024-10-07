@@ -1,5 +1,53 @@
 [
   {
+    "linkId": 427,
+    "title": "Moderation has a Well-Known Reality Bias",
+    "url": "https://podcast.ctrlaltspeech.com/2315966/episodes/15871215-moderation-has-a-well-known-reality-bias",
+    "author": "Ctrl-Alt-Speech Podcast",
+    "linkDate": "2024-10-07T15:55:15.259Z",
+    "readingLogIssueNumber": 94,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 426,
+    "title": "Deno, React Alternatives, and Copilot Concerns with Triple Threat Josh Collinsworth",
+    "url": "https://shoptalkshow.com/603/",
+    "author": "ShopTalk Show",
+    "linkDate": "2024-10-07T13:07:08.281Z",
+    "readingLogIssueNumber": 94,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 425,
+    "title": "The future of Halo is being built with Unreal Engine 5",
+    "url": "https://www.theverge.com/2024/10/7/24264129/halo-unreal-engine-5-halo-studios-announcement",
+    "author": "Tom Warren",
+    "linkDate": "2024-10-07T12:53:50.319Z",
+    "readingLogIssueNumber": 94,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Gaming",
+      "colorCode": "#275576"
+    }
+  },
+  {
     "linkId": 424,
     "title": "What price?",
     "url": "https://adactio.com/journal/21405",
