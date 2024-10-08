@@ -7,7 +7,7 @@
       "fullTitle": "The Mercy of Gods",
       "author": "James S.A. Corey",
       "link": "https://bookshop.org/p/books/the-mercy-of-gods-james-s-a-corey/20886313?ean=9780316525572",
-      "dateStarted": null,
+      "dateStarted": "2024-10-06T04:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/YChy5wPw/the-mercy-of-gods.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 42,
+      "currentPage": 118,
       "pageCount": 422,
-      "progress": 10,
+      "progress": 28,
       "sortOrder": 87,
       "status": {
         "name": "Reading",
@@ -19599,6 +19599,42 @@
         {
           "name": "Business \u0026 Economics",
           "colorCode": "rgb(23, 126, 0)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 525,
+      "title": "Carrying the Fire",
+      "subTitle": "An Astronaut\u2019s Journeys",
+      "fullTitle": "Carrying the Fire: An Astronaut\u2019s Journeys",
+      "author": "Michael Collins",
+      "link": "https://bookshop.org/p/books/carrying-the-fire-an-astronaut-s-journeys-michael-collins/17980335?ean=9780374537760",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 0,
+      "pageCount": 1,
+      "progress": 0,
+      "sortOrder": 2850,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Biography / Memoir",
+          "colorCode": "rgb(68, 0, 214)"
         }
       ],
       "formats": []
