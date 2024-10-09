@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/YChy5wPw/the-mercy-of-gods.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 118,
+      "currentPage": 184,
       "pageCount": 422,
-      "progress": 28,
+      "progress": 44,
       "sortOrder": 87,
       "status": {
         "name": "Reading",
@@ -19637,6 +19637,37 @@
           "colorCode": "rgb(68, 0, 214)"
         }
       ],
+      "formats": []
+    },
+    {
+      "bookId": 526,
+      "title": "Stolen Focus",
+      "subTitle": "Why You Can\u0027t Pay Attention--And How to Think Deeply Again",
+      "fullTitle": "Stolen Focus: Why You Can\u0027t Pay Attention--And How to Think Deeply Again",
+      "author": "Johann Hari",
+      "link": "https://bookshop.org/p/books/stolen-focus-why-you-can-t-pay-attention-and-how-to-think-deeply-again-johann-hari/16895371?ean=9780593138533",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 2860,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [],
       "formats": []
     }
   ]

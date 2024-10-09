@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 430,
+    "title": "The world we\u0027re designing",
+    "url": "https://gomakethings.com/the-world-were-designing/",
+    "author": "Chris Ferdinandi",
+    "linkDate": "2024-10-09T14:13:15.477Z",
+    "readingLogIssueNumber": 95,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 429,
+    "title": "How To Manage Dangerous Actions In User Interfaces",
+    "url": "https://www.smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/",
+    "author": "Victor Ponamariov",
+    "linkDate": "2024-10-08T18:46:51.171Z",
+    "readingLogIssueNumber": 95,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
     "linkId": 428,
     "title": "How a Robot Is Grabbing Fuel From a Fukushima Reactor",
     "url": "https://spectrum.ieee.org/fukushima-reactor",
