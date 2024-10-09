@@ -142,7 +142,7 @@ layout: 'layouts/layout.html'
 	<ul>
 		{% for link in recentLinks %}
 			<li>
-				<a href="{{ link.link }}">
+				<a href="{{ link.url }}">
 					<span class="text">{{ link.title }}</span>
 					<span class="meta">{{ link.linkDate | readableDate }} &bull; {{ link.author }}</span>
 				</a>
