@@ -1,5 +1,69 @@
 [
   {
+    "linkId": 434,
+    "title": "The Neverending Story",
+    "url": "https://garrettdimon.com/journal/posts/the-neverending-story",
+    "author": "Garrett Dimon",
+    "linkDate": "2024-10-10T01:32:11.918Z",
+    "readingLogIssueNumber": 95,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 433,
+    "title": "Web Components are not Framework Components \u2014 and That\u2019s Okay",
+    "url": "https://lea.verou.me/blog/2024/wcs-vs-frameworks/",
+    "author": "Lea Verou",
+    "linkDate": "2024-10-10T01:22:58.122Z",
+    "readingLogIssueNumber": 95,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 432,
+    "title": "The Popover API: Your New Best Friend for Tooltips",
+    "url": "https://www.voorhoede.nl/en/blog/the-popover-api-your-new-best-friend-for-tooltips/",
+    "author": "Sjoerd Beentjes",
+    "linkDate": "2024-10-10T01:22:11.526Z",
+    "readingLogIssueNumber": 95,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 431,
+    "title": "Clever Polypane Debugging Features I\u2019m Loving",
+    "url": "https://css-tricks.com/clever-polypane-debugging-features-im-loving/",
+    "author": "Ryan Trimble",
+    "linkDate": "2024-10-10T01:19:26.612Z",
+    "readingLogIssueNumber": 95,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 430,
     "title": "The world we\u0027re designing",
     "url": "https://gomakethings.com/the-world-were-designing/",
