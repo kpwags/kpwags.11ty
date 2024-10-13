@@ -1430,12 +1430,18 @@ article.blog-post-page .related-posts a {
     margin: 8px 0;
 }
 
+article.blog-post-page .shared-link:first-of-type {
+    margin-top: 32px;
+}
+
 article.blog-post-page .shared-link {
     margin-bottom: 24px;
+    padding: 0 16px;
 }
 
 article.blog-post-page .shared-link h3 {
     font-size: 1.4rem;
+    margin-bottom: 8px;
 }
 
 article.blog-post-page .shared-link .posted-by {
@@ -1500,7 +1506,7 @@ article.book-note p:has(picture):has(+ div.image-credit) {
 article.post h2+h3,
 article.note h2+h3,
 article.book-note h2+h3 {
-    margin-top: 16px;
+    margin-top: 32px;
 }
 
 .titled-horizontal-list {
