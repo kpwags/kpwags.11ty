@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 8,
-      "title": "The Mercy of Gods",
+      "bookId": 189,
+      "title": "All Systems Red",
       "subTitle": "",
-      "fullTitle": "The Mercy of Gods",
-      "author": "James S.A. Corey",
-      "link": "https://bookshop.org/p/books/the-mercy-of-gods-james-s-a-corey/20886313?ean=9780316525572",
-      "dateStarted": "2024-10-06T04:00:00Z",
+      "fullTitle": "All Systems Red",
+      "author": "Martha Wells",
+      "link": "https://bookshop.org/p/books/all-systems-red-martha-wells/7104100",
+      "dateStarted": "2024-10-13T15:24:50Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/YChy5wPw/the-mercy-of-gods.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 280,
-      "pageCount": 422,
-      "progress": 66,
-      "sortOrder": 87,
+      "coverImageUrl": "https://i.postimg.cc/YCd5PBQT/all-systems-red.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1432,
+      "progress": 0,
+      "sortOrder": 100,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -27,7 +27,10 @@
         "name": "Fiction",
         "colorCode": "#1d3c8c"
       },
-      "series": null,
+      "series": {
+        "name": "Murderbot Diaries",
+        "colorCode": "#07197c"
+      },
       "genres": [
         {
           "name": "Science Fiction",
@@ -36,8 +39,8 @@
       ],
       "formats": [
         {
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
+          "name": "eBook",
+          "colorCode": "#2c5813"
         }
       ]
     }
@@ -46,6 +49,47 @@
     {
       "year": "2024",
       "books": [
+        {
+          "bookId": 8,
+          "title": "The Mercy of Gods",
+          "subTitle": "",
+          "fullTitle": "The Mercy of Gods",
+          "author": "James S.A. Corey",
+          "link": "https://bookshop.org/p/books/the-mercy-of-gods-james-s-a-corey/20886313?ean=9780316525572",
+          "dateStarted": "2024-10-06T04:00:00Z",
+          "dateCompleted": "2024-10-11T04:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "Had a hard time making sure I didn\u2019t pre-judge this based on The Expanse series but this was definitely a solid sci fi story. Interesting premise and characters that left me wanting to read more.",
+          "coverImageUrl": "https://i.postimg.cc/YChy5wPw/the-mercy-of-gods.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 422,
+          "pageCount": 422,
+          "progress": 100,
+          "sortOrder": 87,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
+        },
         {
           "bookId": 179,
           "title": "Zero Days",
@@ -11199,68 +11243,6 @@
   ],
   "toRead": [
     {
-      "bookId": 195,
-      "title": "Battle Cry of Freedom: The Civil War Era",
-      "subTitle": "",
-      "fullTitle": "Battle Cry of Freedom: The Civil War Era",
-      "author": "James M. McPherson",
-      "link": "https://bookshop.org/p/books/battle-cry-of-freedom-the-civil-war-era-james-m-mcpherson/7413205?ean=9780195168952",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 88,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
-      "bookId": 189,
-      "title": "All Systems Red",
-      "subTitle": "",
-      "fullTitle": "All Systems Red",
-      "author": "Martha Wells",
-      "link": "https://bookshop.org/p/books/all-systems-red-martha-wells/7104100",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 100,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
       "bookId": 188,
       "title": "Artificial Condition",
       "subTitle": "",
@@ -11272,8 +11254,8 @@
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
+      "coverImageUrl": "https://i.postimg.cc/bJWFYg3T/artificial-condition.jpg",
+      "isAtLibrary": true,
       "isPurchased": false,
       "currentPage": 1,
       "pageCount": 0,
@@ -11287,9 +11269,22 @@
         "name": "Fiction",
         "colorCode": "#1d3c8c"
       },
-      "series": null,
-      "genres": [],
-      "formats": []
+      "series": {
+        "name": "Murderbot Diaries",
+        "colorCode": "#07197c"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
     },
     {
       "bookId": 187,
@@ -11303,8 +11298,8 @@
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
+      "coverImageUrl": "https://i.postimg.cc/0yPXNbdL/rogue-protocol.jpg",
+      "isAtLibrary": true,
       "isPurchased": false,
       "currentPage": 1,
       "pageCount": 0,
@@ -11318,9 +11313,22 @@
         "name": "Fiction",
         "colorCode": "#1d3c8c"
       },
-      "series": null,
-      "genres": [],
-      "formats": []
+      "series": {
+        "name": "Murderbot Diaries",
+        "colorCode": "#07197c"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
     },
     {
       "bookId": 186,
@@ -11334,8 +11342,8 @@
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
+      "coverImageUrl": "https://i.postimg.cc/c1tbkqL5/exit-strategy.jpg",
+      "isAtLibrary": true,
       "isPurchased": false,
       "currentPage": 1,
       "pageCount": 0,
@@ -11349,9 +11357,22 @@
         "name": "Fiction",
         "colorCode": "#1d3c8c"
       },
-      "series": null,
-      "genres": [],
-      "formats": []
+      "series": {
+        "name": "Murderbot Diaries",
+        "colorCode": "#07197c"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
     },
     {
       "bookId": 185,
@@ -11365,8 +11386,8 @@
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
+      "coverImageUrl": "https://i.postimg.cc/PJDVCD7k/network-effect.jpg",
+      "isAtLibrary": true,
       "isPurchased": false,
       "currentPage": 1,
       "pageCount": 0,
@@ -11380,9 +11401,22 @@
         "name": "Fiction",
         "colorCode": "#1d3c8c"
       },
-      "series": null,
-      "genres": [],
-      "formats": []
+      "series": {
+        "name": "Murderbot Diaries",
+        "colorCode": "#07197c"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
     },
     {
       "bookId": 184,
@@ -11396,8 +11430,8 @@
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
+      "coverImageUrl": "https://i.postimg.cc/vHWSMW9r/fugitive-telemetry.jpg",
+      "isAtLibrary": true,
       "isPurchased": false,
       "currentPage": 1,
       "pageCount": 0,
@@ -11411,9 +11445,22 @@
         "name": "Fiction",
         "colorCode": "#1d3c8c"
       },
-      "series": null,
-      "genres": [],
-      "formats": []
+      "series": {
+        "name": "Murderbot Diaries",
+        "colorCode": "#07197c"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
     },
     {
       "bookId": 183,
@@ -11427,8 +11474,8 @@
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
+      "coverImageUrl": "https://i.postimg.cc/g2sSLmgr/system-collapse.jpg",
+      "isAtLibrary": true,
       "isPurchased": false,
       "currentPage": 1,
       "pageCount": 0,
@@ -11442,9 +11489,22 @@
         "name": "Fiction",
         "colorCode": "#1d3c8c"
       },
-      "series": null,
-      "genres": [],
-      "formats": []
+      "series": {
+        "name": "Murderbot Diaries",
+        "colorCode": "#07197c"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
     },
     {
       "bookId": 524,
@@ -11522,6 +11582,37 @@
           "colorCode": "#2c5813"
         }
       ]
+    },
+    {
+      "bookId": 195,
+      "title": "Battle Cry of Freedom: The Civil War Era",
+      "subTitle": "",
+      "fullTitle": "Battle Cry of Freedom: The Civil War Era",
+      "author": "James M. McPherson",
+      "link": "https://bookshop.org/p/books/battle-cry-of-freedom-the-civil-war-era-james-m-mcpherson/7413205?ean=9780195168952",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/TPQzxnz7/battlecry-of-freedom.jpg",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 0,
+      "progress": 0,
+      "sortOrder": 163,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [],
+      "formats": []
     },
     {
       "bookId": 397,
