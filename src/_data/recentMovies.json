@@ -1,18 +1,1 @@
-[
-  {
-    "movieId": 154,
-    "title": "The Holdovers",
-    "imdbLink": "https://www.imdb.com/title/tt14849194/",
-    "dateWatched": "2024-09-14T05:00:00Z",
-    "sortOrder": null,
-    "rating": 3,
-    "thoughts": "I enjoyed it. I liked the characters and while the story was somewhat predictable, it was still a good watch.",
-    "posterImageUrl": "https://i.postimg.cc/pXGscpSK/the-holdovers.jpg",
-    "status": {
-      "name": "Watched",
-      "colorCode": "#2a9a39"
-    },
-    "genres": [],
-    "services": []
-  }
-]
+[]
