@@ -1,5 +1,101 @@
 [
   {
+    "linkId": 440,
+    "title": "Cars bricked by bankrupt EV company will stay bricked",
+    "url": "https://pluralistic.net/2024/10/10/software-based-car/#based",
+    "author": "Cory Doctorow",
+    "linkDate": "2024-10-14T14:56:12.224Z",
+    "readingLogIssueNumber": 95,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 439,
+    "title": "The Static Site Paradox",
+    "url": "https://kristoff.it/blog/static-site-paradox/",
+    "author": "Loris Cro",
+    "linkDate": "2024-10-14T14:55:20.66Z",
+    "readingLogIssueNumber": 95,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 438,
+    "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
+    "url": "https://www.smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
+    "author": "Karin Hendrikse",
+    "linkDate": "2024-10-14T13:41:19.28Z",
+    "readingLogIssueNumber": 95,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 436,
+    "title": "SpaceX catches returning rocket in mid-air, turning a fanciful idea into reality",
+    "url": "https://arstechnica.com/space/2024/10/spacex-catches-returning-rocket-in-mid-air-turning-a-fanciful-idea-into-reality/",
+    "author": "Stephen Clark",
+    "linkDate": "2024-10-14T12:06:27.134Z",
+    "readingLogIssueNumber": 95,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 435,
+    "title": "The Things They Carried",
+    "url": "https://daringfireball.net/2024/09/the_things_they_carried",
+    "author": "John Gruber",
+    "linkDate": "2024-10-14T04:00:00Z",
+    "readingLogIssueNumber": 95,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 437,
+    "title": "Do paid data-removal services pay off?",
+    "url": "https://www.marketplace.org/shows/marketplace-tech/do-paid-data-removal-services-pay-off/",
+    "author": "Marketplace Tech",
+    "linkDate": "2024-10-14T04:00:00Z",
+    "readingLogIssueNumber": 95,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 434,
     "title": "The Neverending Story",
     "url": "https://garrettdimon.com/journal/posts/the-neverending-story",
