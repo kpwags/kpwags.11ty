@@ -1,40 +1,37 @@
 {
   "inProgress": [
     {
-      "bookId": 189,
-      "title": "All Systems Red",
+      "bookId": 195,
+      "title": "Battle Cry of Freedom: The Civil War Era",
       "subTitle": "",
-      "fullTitle": "All Systems Red",
-      "author": "Martha Wells",
-      "link": "https://bookshop.org/p/books/all-systems-red-martha-wells/7104100",
-      "dateStarted": "2024-10-13T15:24:50Z",
+      "fullTitle": "Battle Cry of Freedom: The Civil War Era",
+      "author": "James M. McPherson",
+      "link": "https://bookshop.org/p/books/battle-cry-of-freedom-the-civil-war-era-james-m-mcpherson/7413205?ean=9780195168952",
+      "dateStarted": "2024-10-15T04:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/YCd5PBQT/all-systems-red.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 687,
-      "pageCount": 1432,
-      "progress": 48,
-      "sortOrder": 100,
+      "coverImageUrl": "https://i.postimg.cc/TPQzxnz7/battlecry-of-freedom.jpg",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 14436,
+      "progress": 0,
+      "sortOrder": 163,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
       },
       "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
       },
-      "series": {
-        "name": "Murderbot Diaries",
-        "colorCode": "#07197c"
-      },
+      "series": null,
       "genres": [
         {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
         }
       ],
       "formats": [
@@ -49,6 +46,50 @@
     {
       "year": "2024",
       "books": [
+        {
+          "bookId": 189,
+          "title": "All Systems Red",
+          "subTitle": "",
+          "fullTitle": "All Systems Red",
+          "author": "Martha Wells",
+          "link": "https://bookshop.org/p/books/all-systems-red-martha-wells/7104100",
+          "dateStarted": "2024-10-13T15:24:50Z",
+          "dateCompleted": "2024-10-14T04:00:00Z",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "This was a much faster read than I anticipated. It was still a fun little sci fi story I\u2019d recommend.",
+          "coverImageUrl": "https://i.postimg.cc/YCd5PBQT/all-systems-red.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 1432,
+          "pageCount": 1432,
+          "progress": 100,
+          "sortOrder": 100,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": {
+            "name": "Murderbot Diaries",
+            "colorCode": "#07197c"
+          },
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
+        },
         {
           "bookId": 8,
           "title": "The Mercy of Gods",
@@ -11582,37 +11623,6 @@
           "colorCode": "#2c5813"
         }
       ]
-    },
-    {
-      "bookId": 195,
-      "title": "Battle Cry of Freedom: The Civil War Era",
-      "subTitle": "",
-      "fullTitle": "Battle Cry of Freedom: The Civil War Era",
-      "author": "James M. McPherson",
-      "link": "https://bookshop.org/p/books/battle-cry-of-freedom-the-civil-war-era-james-m-mcpherson/7413205?ean=9780195168952",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/TPQzxnz7/battlecry-of-freedom.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 163,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
     },
     {
       "bookId": 397,

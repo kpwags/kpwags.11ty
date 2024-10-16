@@ -646,6 +646,7 @@ footer .mode-controls .controls-block {
     justify-content: space-evenly;
     gap: 16px;
     padding: 24px;
+    flex-wrap: wrap;
 }
 
 .latest-pixelfed-photos .pixelfed-photos a {
@@ -677,15 +678,16 @@ footer .mode-controls .controls-block {
 
     .latest-pixelfed-photos .pixelfed-photos a {
         border: 8px solid var(--photo-frame-color);
-        width: 200px;
+        width: 100%;
         height: auto;
+        aspect-ratio: 1/1;
         display: block;
         margin: 0 auto;
     }
 
     .latest-pixelfed-photos .pixelfed-photos a div.image {
-        width: 184px;
-        height: 184px;
+        width: 100%;
+        height: 100%;
         display: block;
     }
 }
