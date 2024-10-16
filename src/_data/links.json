@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 442,
+    "title": "The unspoken rules of React hooks",
+    "url": "https://macwright.com/2024/09/19/the-extra-rules-of-hooks.html",
+    "author": "Tom MacWright",
+    "linkDate": "2024-10-15T21:26:27.664Z",
+    "readingLogIssueNumber": 96,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 441,
+    "title": "Poker bots have invaded online gambling",
+    "url": "https://www.marketplace.org/2024/10/14/poker-bots-russia-online-game-gambling-ai/",
+    "author": "Aleezeh Hasan \u0026 Sean McHenry",
+    "linkDate": "2024-10-15T04:00:00Z",
+    "readingLogIssueNumber": 96,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
     "linkId": 440,
     "title": "Cars bricked by bankrupt EV company will stay bricked",
     "url": "https://pluralistic.net/2024/10/10/software-based-car/#based",

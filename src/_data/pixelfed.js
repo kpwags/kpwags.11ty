@@ -28,7 +28,7 @@ const pixelfed = () => {
 				});
 			});
 
-			resolve(images.slice(0, 3));
+			resolve(images.slice(0, 4));
 		} catch (error) {
 			reject(error);
 		}
