@@ -1,0 +1,44 @@
+---
+title: "Week Notes for October 13 - 19"
+date: '2024-10-20T23:44:17.097Z'
+permalink: /posts/2024/10/20/week-notes/index.html
+description: "My week notes for the week of October 13 through 19, 2024."
+tags:
+  - Week Notes
+  - Accessibility
+  - Hockey
+  - Podcasts
+---
+
+My week notes for the week of October 13 through 19, 2024.
+<!-- excerpt -->
+
+## Notes
+
+### Accessibility Work
+
+My week at work consisted of continuing to go through the accessibility audit of the project I’ve been working on. I was able to take care of most of the low hanging easy stuff, and am now working on cleaning up the custom controls I had to build. Some of it has been tough, but I’m learning and I feel like that’s the important part.
+
+### Second Hockey League Starts Back Up
+
+Monday night, my second hockey league started back up. The team I play on started off well winning 4-1. Wish I could say I helped, but I let in one of the only few shots I faced...whomp, whomp. Either way, back to multiple games a week!
+
+### Trying to Make a Dent in my Podcast Queue
+
+My podcast queue right now is over 600 episodes long. I’m not sure I’ll ever get through it all with more episodes being added. I was able to listen to a bunch this past week, hoping to make some progress.
+
+### Celebrating 11 Years
+
+Saturday Lauren and I celebrated our 11th wedding anniversary. We spent the day in Phoenixville walking around and enjoying the local distilleries and breweries. It was gorgeous weather and a beautiful day for a nice occasion.
+
+## Interesting Links
+
+{% renderTemplate "webc" %}
+<shared-link title="Where Should the Rays Play" url="https://defector.com/where-should-the-rays-play" author="Ray Ratto">
+*Hurricane Milton* ripped the roof of the Tampa Bay Rays’ stadium, *Tropicana Field*. Since the repair will cost a lot of money combined with the owner trying to swindle Florida residents out of tax income for a new stadium, there’s question as to whether it will even be repaired. So that leaves a fun thought experiment as to where the Rays will play? Will they take over Oakland after the A’s left? Will they swoop in with a deal with Vegas to keep the A’s out?
+</shared-link>
+
+<shared-link title="Fighting for Our Web" url="https://m.youtube.com/watch?v=MTaeVVAvk-c" author="Molly White">
+This is a great talk by Molly talking about the wonder that the early web was and how we can hopefully re-claim it. 
+</shared-link>
+{% endrenderTemplate %}

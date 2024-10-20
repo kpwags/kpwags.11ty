@@ -1,5 +1,197 @@
 [
   {
+    "linkId": 454,
+    "title": "Working With Legacy Code",
+    "url": "https://www.simplethread.com/legacy-code/",
+    "author": "Quintus Flannagan",
+    "linkDate": "2024-10-19T00:07:22.301Z",
+    "readingLogIssueNumber": 96,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 453,
+    "title": "Web Components for Password Input Enhancements",
+    "url": "https://ryanmulligan.dev/blog/password-input-components/",
+    "author": "Ryan Mulligan",
+    "linkDate": "2024-10-18T23:47:59.319Z",
+    "readingLogIssueNumber": 96,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 452,
+    "title": "The blockquote element",
+    "url": "https://heydonworks.com/article/the-blockquote-element/",
+    "author": "Heydon Pickering",
+    "linkDate": "2024-10-18T23:46:28.673Z",
+    "readingLogIssueNumber": 96,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 451,
+    "title": "Practical Accessibility Tips You Can Apply Today",
+    "url": "https://piccalil.li/blog/practical-accessibility-tips-you-can-apply-today/",
+    "author": "Kevin Andrews",
+    "linkDate": "2024-10-18T23:39:29.315Z",
+    "readingLogIssueNumber": 96,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 450,
+    "title": "Toyetic",
+    "url": "https://99percentinvisible.org/episode/toyetic/",
+    "author": "99% Invisible",
+    "linkDate": "2024-10-17T20:54:05.762Z",
+    "readingLogIssueNumber": 96,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 449,
+    "title": "Immigration and the border: the real story",
+    "url": "https://shows.acast.com/the-new-bazaar/episodes/immigration-and-the-border-the-real-story",
+    "author": "The New Bazaar",
+    "linkDate": "2024-10-17T20:53:37.368Z",
+    "readingLogIssueNumber": 96,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 448,
+    "title": "FTC \u201Cclick to cancel\u201D rule seeks to end free trial traps, sneaky auto-enrollments",
+    "url": "https://arstechnica.com/tech-policy/2024/10/ftc-click-to-cancel-rule-seeks-to-end-free-trial-traps-sneaky-auto-enrollments/",
+    "author": "Ashley Belanger",
+    "linkDate": "2024-10-17T17:29:02.496Z",
+    "readingLogIssueNumber": 96,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 447,
+    "title": "Confessions of a Spotify Vandal",
+    "url": "https://www.hearingthings.co/confessions-of-a-spotify-vandal/",
+    "author": "Andy Crush",
+    "linkDate": "2024-10-17T17:28:27.214Z",
+    "readingLogIssueNumber": 96,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Media \u0026 Entertainment",
+      "colorCode": "#7949a8"
+    }
+  },
+  {
+    "linkId": 446,
+    "title": "How to Monetize a Blog",
+    "url": "https://modem.io/blog/blog-monetization/",
+    "author": "Tyler",
+    "linkDate": "2024-10-17T14:06:31.586Z",
+    "readingLogIssueNumber": 96,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 445,
+    "title": "Fighting for Our Web",
+    "url": "https://m.youtube.com/watch?v=MTaeVVAvk-c\u0026feature=youtu.be",
+    "author": "Molly White",
+    "linkDate": "2024-10-17T14:05:45.395Z",
+    "readingLogIssueNumber": 96,
+    "type": {
+      "name": "Video",
+      "colorCode": "#a53621"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 444,
+    "title": "You should be using an RSS reader",
+    "url": "https://pluralistic.net/2024/10/16/keep-it-really-simple-stupid/#read-receipts-are-you-kidding-me-seriously-fuck-that-noise",
+    "author": "Cory Doctorow",
+    "linkDate": "2024-10-17T13:28:13.654Z",
+    "readingLogIssueNumber": 96,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 443,
+    "title": "20 uncomfortable messages that I would tell my younger self about working within Digital Accessibility",
+    "url": "https://chrisyoong.com/blog/20-uncomfortable-messages-to-tell-younger-self-about-accessibility",
+    "author": "Chris Yoong",
+    "linkDate": "2024-10-16T19:06:21.894Z",
+    "readingLogIssueNumber": 96,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 442,
     "title": "The unspoken rules of React hooks",
     "url": "https://macwright.com/2024/09/19/the-extra-rules-of-hooks.html",
