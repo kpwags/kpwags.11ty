@@ -1,5 +1,69 @@
 [
   {
+    "linkId": 458,
+    "title": "The Anatomy of a Bad Idea",
+    "url": "https://paulitaylor.com/2024/10/20/the-anatomy-of-a-bad-idea/",
+    "author": "Paul Taylor",
+    "linkDate": "2024-10-21T15:16:05.763Z",
+    "readingLogIssueNumber": 96,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 457,
+    "title": "You Might Not Recover from Burnout. Ever.",
+    "url": "https://drdevonprice.substack.com/p/you-might-not-recover-from-burnout?fbclid=IwZXh0bgNhZW0CMTEAAR0ZtSlqNT-I_Hl7iVE11vhby4uBh-3cJvG1lkymFsjIqeca7OywMuG6xyA_aem_9gd_MbOoACi42NcCwUY7WQ",
+    "author": "Devon Price",
+    "linkDate": "2024-10-21T15:15:27.282Z",
+    "readingLogIssueNumber": 96,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Health \u0026 Fitness",
+      "colorCode": "#871c4a"
+    }
+  },
+  {
+    "linkId": 456,
+    "title": "You Might Not Recover from Burnout. Ever.",
+    "url": "https://geoffgraham.me/you-might-not-recover-from-burnout-ever/",
+    "author": "Geoff Graham",
+    "linkDate": "2024-10-21T15:12:09.055Z",
+    "readingLogIssueNumber": 96,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Health \u0026 Fitness",
+      "colorCode": "#871c4a"
+    }
+  },
+  {
+    "linkId": 455,
+    "title": "Critter Stack 2025",
+    "url": "https://jeremydmiller.com/2024/09/25/critter-stack-2025/",
+    "author": "Jeremy Miller",
+    "linkDate": "2024-10-21T04:00:00Z",
+    "readingLogIssueNumber": 96,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
     "linkId": 454,
     "title": "Working With Legacy Code",
     "url": "https://www.simplethread.com/legacy-code/",
