@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/TPQzxnz7/battlecry-of-freedom.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 1400,
+      "currentPage": 1610,
       "pageCount": 14436,
-      "progress": 10,
+      "progress": 11,
       "sortOrder": 163,
       "status": {
         "name": "Reading",
@@ -11625,6 +11625,88 @@
       ]
     },
     {
+      "bookId": 527,
+      "title": "The Book of Accidents",
+      "subTitle": "",
+      "fullTitle": "The Book of Accidents",
+      "author": "Chuck Wendig",
+      "link": "https://bookshop.org/p/books/the-book-of-accidents-chuck-wendig/15648326?ean=9780399182150",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 163,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Horror",
+          "colorCode": "rgb(146, 4, 4)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
+        }
+      ]
+    },
+    {
+      "bookId": 528,
+      "title": "Challenger",
+      "subTitle": "A True Story of Heroism and Disaster on the Edge of Space",
+      "fullTitle": "Challenger: A True Story of Heroism and Disaster on the Edge of Space",
+      "author": "Adam Higginbotham",
+      "link": "https://bookshop.org/p/books/challenger-an-american-tragedy-adam-higginbotham/20712668?ean=9781982176617",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 164,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
+        }
+      ]
+    },
+    {
       "bookId": 397,
       "title": "The Gates of Europe: A History of Ukraine",
       "subTitle": "",
@@ -11653,6 +11735,46 @@
       },
       "series": null,
       "genres": [],
+      "formats": []
+    },
+    {
+      "bookId": 514,
+      "title": "The Power Broker",
+      "subTitle": "Robert Moses and the Fall of New York",
+      "fullTitle": "The Power Broker: Robert Moses and the Fall of New York",
+      "author": "Robert A. Caro",
+      "link": "https://bookshop.org/p/books/the-power-broker-robert-moses-and-the-fall-of-new-york-robert-a-caro/11251293?ean=9780394720241",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 0,
+      "progress": 0,
+      "sortOrder": 171,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        },
+        {
+          "name": "Politics",
+          "colorCode": "rgb(130, 40, 40)"
+        }
+      ],
       "formats": []
     },
     {
@@ -19360,46 +19482,6 @@
         {
           "name": "History",
           "colorCode": "rgb(4, 38, 142)"
-        }
-      ],
-      "formats": []
-    },
-    {
-      "bookId": 514,
-      "title": "The Power Broker",
-      "subTitle": "Robert Moses and the Fall of New York",
-      "fullTitle": "The Power Broker: Robert Moses and the Fall of New York",
-      "author": "Robert A. Caro",
-      "link": "https://bookshop.org/p/books/the-power-broker-robert-moses-and-the-fall-of-new-york-robert-a-caro/11251293?ean=9780394720241",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 2760,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "History",
-          "colorCode": "rgb(4, 38, 142)"
-        },
-        {
-          "name": "Politics",
-          "colorCode": "rgb(130, 40, 40)"
         }
       ],
       "formats": []
