@@ -921,6 +921,34 @@
       "services": []
     },
     {
+      "televisionShowId": 89,
+      "title": "Star Trek: Lower Decks",
+      "imdbLink": "https://www.imdb.com/title/tt9184820/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/KzkqStqt/lowerdecks.jpg",
+      "seasonEpisodeCount": 5,
+      "currentSeasonEpisode": 4,
+      "progress": 80,
+      "sortOrder": null,
+      "status": {
+        "name": "Watching",
+        "colorCode": "#005c78"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "#1b7016"
+        }
+      ],
+      "services": [
+        {
+          "name": "Paramount\u002B",
+          "colorCode": "#037fb4"
+        }
+      ]
+    },
+    {
       "televisionShowId": 39,
       "title": "Star Trek: The Next Generation",
       "imdbLink": "https://www.imdb.com/title/tt0092455/",
@@ -1037,24 +1065,6 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/x8N55L4F/mythic-quest.jpg",
-      "seasonEpisodeCount": 0,
-      "currentSeasonEpisode": 0,
-      "progress": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "In Between Seasons",
-        "colorCode": "#901960"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 89,
-      "title": "Star Trek: Lower Decks",
-      "imdbLink": "https://www.imdb.com/title/tt9184820/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/KzkqStqt/lowerdecks.jpg",
       "seasonEpisodeCount": 0,
       "currentSeasonEpisode": 0,
       "progress": 0,

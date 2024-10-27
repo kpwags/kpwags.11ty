@@ -2,6 +2,7 @@
 title: 'Start with Simple Tools'
 date: '2024-05-16'
 link: 'https://mikegrindle.com/posts/start-simple'
+author: 'Mike Grindle'
 permalink: /notes/start-with-simple-tools/index.html
 tags:
   - Development

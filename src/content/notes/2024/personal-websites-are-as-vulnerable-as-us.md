@@ -2,6 +2,7 @@
 title: "Personal Websites Are As Vulnerable As Us"
 date: '2024-10-03T23:07:20.927Z'
 link: https://blog.jim-nielsen.com/2024/personal-website-vulnerability/
+author: 'Jim Nielsen'
 permalink: /notes/personal-websites-are-as-vulnerable-as-us/index.html
 tags:
   - Personal Sites

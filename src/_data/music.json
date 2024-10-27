@@ -12401,6 +12401,89 @@
     ]
   },
   {
+    "musicAlbumId": 183,
+    "title": "28th \u0026 Stonewall",
+    "artist": "Tim Barry",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/CKx41VYv/tim-barry-28-stone-wall.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      },
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Thing of the Past"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Bozeman"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Gabriel Intro"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Prosser\u0027s Gabriel"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Walk 500 Miles"
+      },
+      {
+        "trackNumber": 6,
+        "title": "No BS Warm Up"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Will Travel"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Moving On Blue"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Downtown VCU"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Short G\u0027Bye"
+      },
+      {
+        "trackNumber": 11,
+        "title": "11 7"
+      },
+      {
+        "trackNumber": 12,
+        "title": "With Ease I Leave"
+      },
+      {
+        "trackNumber": 13,
+        "title": "(Memento Mori)"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Bus Driver"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 171,
     "title": "Rivanna Junction",
     "artist": "Tim Barry",
@@ -12460,6 +12543,81 @@
       {
         "trackNumber": 10,
         "title": "Wait at Milano"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 182,
+    "title": "The Roads to Richmond",
+    "artist": "Tim Barry",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/Bv7BPwnJ/tim-barry-the-roads-to-richmond.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      },
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Big Ships"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Oklahoma City"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Giving Up"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Bent Creek"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Raised and Grown"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Fussin\u0027 Over Fate"
+      },
+      {
+        "trackNumber": 7,
+        "title": "April\u0027s Fool"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Oh My Darling"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Birmingham"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Boxwine \u0026 Xanax"
+      },
+      {
+        "trackNumber": 11,
+        "title": "East Texas Red"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Coralee"
       }
     ]
   },

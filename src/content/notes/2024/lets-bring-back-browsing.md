@@ -2,6 +2,7 @@
 title: "Let's Bring Back Browsing"
 date: '2024-09-30T22:36:04.024Z'
 link: https://christianheilmann.com/2024/09/15/lets-bring-back-browsing/
+author: 'Christian Heilmann'
 permalink: /notes/lets-bring-back-browsing/index.html
 tags:
   - Internet

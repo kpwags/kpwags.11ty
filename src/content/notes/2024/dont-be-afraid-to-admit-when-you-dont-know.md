@@ -2,6 +2,7 @@
 title: Don’t be afraid to admit when you don’t know something
 date: '2024-05-22'
 link: 'https://coryd.dev/posts/2024/dont-be-afraid-to-admin-when-you-dont-know-something/'
+author: 'Cory Dransfeldt'
 permalink: /notes/dont-be-afraid-to-admit-when-you-dont-know/index.html
 tags:
   - Life Lessons

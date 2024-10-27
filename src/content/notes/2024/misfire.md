@@ -2,6 +2,7 @@
 title: "Misfire"
 date: '2024-09-08T18:32:12.194Z'
 link: https://infrequently.org/2024/07/misfire/
+author: 'Alex Russell'
 permalink: /notes/misfire/index.html
 tags:
   - Email

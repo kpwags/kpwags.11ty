@@ -2,6 +2,7 @@
 title: 'Content Moderation is Impossible'
 date: '2024-01-02'
 link: 'https://www.infinitescroll.us/p/content-moderation-is-impossible'
+author: 'Jeremiah Johnson'
 permalink: /notes/content-moderation-is-impossible/index.html
 tags:
   - Social Media

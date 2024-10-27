@@ -2,6 +2,7 @@
 title: 'Never Underestimate HTML'
 date: '2024-01-12'
 link: 'https://www.htmhell.dev/adventcalendar/2023/24/'
+author: 'Lara Aigmüller'
 permalink: /notes/never-underestimate-html/index.html
 tags:
   - Web Development

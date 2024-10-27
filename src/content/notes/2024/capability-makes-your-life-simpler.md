@@ -2,6 +2,7 @@
 title: "Capability Makes Your Life Simpler"
 date: '2024-09-08T18:36:05.084Z'
 link: https://www.bryanbraun.com/2024/07/31/capability-makes-your-life-simpler/
+author: 'Bryan Braun'
 permalink: /notes/capability-makes-your-life-simpler/index.html
 tags:
   - Life

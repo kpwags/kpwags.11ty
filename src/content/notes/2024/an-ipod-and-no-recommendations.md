@@ -2,6 +2,7 @@
 title: "An iPod and no recommendations are all I have wanted for my listening habits in 2024"
 date: '2024-09-08T18:34:10.199Z'
 link: https://tomklaver.me/an-ipod-and-no-recommendations-are-all-i-have-wanted-for-my-listening-habits-in-2024
+author: Tom Klaver
 permalink: /notes/an-ipod-and-no-recommendations/index.html
 tags:
   - iPod

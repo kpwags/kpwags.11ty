@@ -2,6 +2,7 @@
 title: 'Emojis as a Common Language'
 date: '2024-06-20'
 link: https://www.marketplace.org/shows/make-me-smart/the-push-to-wipe-medical-debt-from-credit-reports/
+author: 'Make Me Smart Podcast'
 permalink: /notes/emojis-as-a-common-language/index.html
 tags:
   - Emojis

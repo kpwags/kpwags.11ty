@@ -1,5 +1,213 @@
 [
   {
+    "linkId": 471,
+    "title": "I am my own legal department: the promise and peril of \u201Cjust go independent\u201D",
+    "url": "https://www.citationneeded.news/i-am-my-own-legal-department/",
+    "author": "Molly White",
+    "linkDate": "2024-10-27T19:56:21.507Z",
+    "readingLogIssueNumber": 97,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 470,
+    "title": "Why I\u2019m skeptical of rewriting JavaScript tools in \u201Cfaster\u201D languages",
+    "url": "https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/",
+    "author": "Nolan Lawson",
+    "linkDate": "2024-10-24T12:13:01.231Z",
+    "readingLogIssueNumber": 97,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 469,
+    "title": "Web Components vs. State-Based UI",
+    "url": "https://gomakethings.com/web-components-vs.-state-based-ui/",
+    "author": "Chris Ferdinandi",
+    "linkDate": "2024-10-24T12:10:33.025Z",
+    "readingLogIssueNumber": 97,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 468,
+    "title": "The role of Web Components in your site or app",
+    "url": "https://gomakethings.com/the-role-of-web-components-in-your-site-or-app/",
+    "author": "Chris Ferdinandi",
+    "linkDate": "2024-10-24T12:05:13.798Z",
+    "readingLogIssueNumber": 97,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 467,
+    "title": "It\u2019s Time to Build the Exoplanet Telescope",
+    "url": "https://www.palladiummag.com/2024/10/18/its-time-to-build-the-exoplanet-telescope/",
+    "author": "Casey Handmer",
+    "linkDate": "2024-10-24T12:01:32.165Z",
+    "readingLogIssueNumber": 97,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 466,
+    "title": "Aggregating my distributed self",
+    "url": "https://css-tricks.com/aggregating-my-distributed-self/",
+    "author": "Geoff Graham",
+    "linkDate": "2024-10-24T12:01:29.4Z",
+    "readingLogIssueNumber": 97,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 465,
+    "title": "A guide to destructuring in JavaScript",
+    "url": "https://piccalil.li/blog/a-guide-to-destructuring-in-javascript/",
+    "author": "Mat \u201CWilto\u201D Marquis",
+    "linkDate": "2024-10-23T19:57:08.825Z",
+    "readingLogIssueNumber": 97,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 464,
+    "title": "Hire HTML and CSS People",
+    "url": "https://robinrendle.com/notes/hire-html-people/",
+    "author": "Robin Rendle",
+    "linkDate": "2024-10-23T19:56:27.974Z",
+    "readingLogIssueNumber": 97,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 463,
+    "title": "How Hard Should Your Employer Work to Retain You?",
+    "url": "https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you/",
+    "author": "Charity Majors",
+    "linkDate": "2024-10-23T17:06:04.4Z",
+    "readingLogIssueNumber": 97,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 462,
+    "title": "C# Compiler and Language Design at Microsoft with Jared Parsons",
+    "url": "https://softwareengineeringdaily.com/2024/03/26/c-compiler-and-language-design-at-microsoft-with-jared-parsons/",
+    "author": "Software Engineering Daily",
+    "linkDate": "2024-10-22T22:04:20.481Z",
+    "readingLogIssueNumber": 97,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 461,
+    "title": "CSS min() All The Things",
+    "url": "https://www.smashingmagazine.com/2024/10/css-min-all-the-things/",
+    "author": "Victor Ayomipo",
+    "linkDate": "2024-10-22T15:13:57.113Z",
+    "readingLogIssueNumber": 97,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 460,
+    "title": "Your Writing",
+    "url": "https://randsinrepose.com/archives/your-writing/",
+    "author": "Michael Lopp",
+    "linkDate": "2024-10-22T12:54:29.126Z",
+    "readingLogIssueNumber": 97,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 459,
+    "title": "50 years ago, it was legal to deny a woman credit without a male co-signer",
+    "url": "https://www.marketplace.org/2024/10/21/ecoa-equal-credit-opportunity-act-legacy-impact-women-credit-lending-mortgage/",
+    "author": "Savannah Peters",
+    "linkDate": "2024-10-22T12:53:46.439Z",
+    "readingLogIssueNumber": 97,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
     "linkId": 458,
     "title": "The Anatomy of a Bad Idea",
     "url": "https://paulitaylor.com/2024/10/20/the-anatomy-of-a-bad-idea/",

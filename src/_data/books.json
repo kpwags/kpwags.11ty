@@ -1,6 +1,50 @@
 {
   "inProgress": [
     {
+      "bookId": 188,
+      "title": "Artificial Condition",
+      "subTitle": "",
+      "fullTitle": "Artificial Condition",
+      "author": "Martha Wells",
+      "link": "https://bookshop.org/p/books/artificial-condition-martha-wells/9858231",
+      "dateStarted": "2024-10-26T04:00:00Z",
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/bJWFYg3T/artificial-condition.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 701,
+      "pageCount": 1565,
+      "progress": 45,
+      "sortOrder": 110,
+      "status": {
+        "name": "Reading",
+        "colorCode": "#6a208f"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "Murderbot Diaries",
+        "colorCode": "#07197c"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
       "bookId": 195,
       "title": "Battle Cry of Freedom: The Civil War Era",
       "subTitle": "",
@@ -15,9 +59,9 @@
       "coverImageUrl": "https://i.postimg.cc/TPQzxnz7/battlecry-of-freedom.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 1610,
+      "currentPage": 3425,
       "pageCount": 14436,
-      "progress": 11,
+      "progress": 24,
       "sortOrder": 163,
       "status": {
         "name": "Reading",
@@ -11284,50 +11328,6 @@
   ],
   "toRead": [
     {
-      "bookId": 188,
-      "title": "Artificial Condition",
-      "subTitle": "",
-      "fullTitle": "Artificial Condition",
-      "author": "Martha Wells",
-      "link": "https://bookshop.org/p/books/artificial-condition-martha-wells/9858231",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/bJWFYg3T/artificial-condition.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 110,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "Murderbot Diaries",
-        "colorCode": "#07197c"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "eBook",
-          "colorCode": "#2c5813"
-        }
-      ]
-    },
-    {
       "bookId": 187,
       "title": "Rogue Protocol",
       "subTitle": "",
@@ -11707,6 +11707,215 @@
       ]
     },
     {
+      "bookId": 529,
+      "title": "In the Garden of Beasts",
+      "subTitle": "Love, Terror, and an American Family in Hitler\u0027s Berlin",
+      "fullTitle": "In the Garden of Beasts: Love, Terror, and an American Family in Hitler\u0027s Berlin",
+      "author": "Erik Larson",
+      "link": "https://bookshop.org/p/books/in-the-garden-of-beasts-love-terror-and-an-american-family-in-hitler-s-berlin-erik-larson/944016?ean=9780307408853",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 365,
+      "progress": 0,
+      "sortOrder": 165,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
+        }
+      ]
+    },
+    {
+      "bookId": 530,
+      "title": "The Splendid and the Vile",
+      "subTitle": "A Saga of Churchill, Family and Defiance During the Blitz",
+      "fullTitle": "The Splendid and the Vile: A Saga of Churchill, Family and Defiance During the Blitz",
+      "author": "Erik Larson",
+      "link": "https://bookshop.org/p/books/the-splendid-and-the-vile-a-saga-of-churchill-family-and-defiance-during-the-blitz-erik-larson/8630726?ean=9780385348737",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 503,
+      "progress": 0,
+      "sortOrder": 166,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
+        }
+      ]
+    },
+    {
+      "bookId": 531,
+      "title": "The Blighted Stars",
+      "subTitle": "",
+      "fullTitle": "The Blighted Stars",
+      "author": "Megan E. O\u0027Keefe",
+      "link": "https://bookshop.org/p/books/the-blighted-stars-megan-e-o-keefe/17405812?ean=9780316290791",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 483,
+      "progress": 0,
+      "sortOrder": 167,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "The Devoured Worlds",
+        "colorCode": "#142f81"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
+        }
+      ]
+    },
+    {
+      "bookId": 532,
+      "title": "The Fractured Dark",
+      "subTitle": "",
+      "fullTitle": "The Fractured Dark",
+      "author": "Megan E. O\u0027Keefe",
+      "link": "https://bookshop.org/p/books/the-fractured-dark-megan-e-o-keefe/19623182?ean=9780316291132",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 504,
+      "progress": 0,
+      "sortOrder": 168,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "The Devoured Worlds",
+        "colorCode": "#142f81"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
+        }
+      ]
+    },
+    {
+      "bookId": 533,
+      "title": "The Bound Worlds",
+      "subTitle": "",
+      "fullTitle": "The Bound Worlds",
+      "author": "Megan E. O\u0027Keefe",
+      "link": "https://bookshop.org/p/books/the-bound-worlds-megan-e-o-keefe/20589383?ean=9780316291576",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 169,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "The Devoured Worlds",
+        "colorCode": "#142f81"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": []
+    },
+    {
       "bookId": 397,
       "title": "The Gates of Europe: A History of Ukraine",
       "subTitle": "",
@@ -11773,6 +11982,133 @@
         {
           "name": "Politics",
           "colorCode": "rgb(130, 40, 40)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 534,
+      "title": "Ancillary Justice",
+      "subTitle": "",
+      "fullTitle": "Ancillary Justice",
+      "author": "Ann Leckie",
+      "link": "https://bookshop.org/p/books/ancillary-justice-ann-leckie/110863?ean=9780316565172",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 384,
+      "progress": 0,
+      "sortOrder": 172,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "Ancillary",
+        "colorCode": "#c74646"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
+        }
+      ]
+    },
+    {
+      "bookId": 535,
+      "title": "Ancillary Sword",
+      "subTitle": "",
+      "fullTitle": "Ancillary Sword",
+      "author": "Ann Leckie",
+      "link": "https://bookshop.org/p/books/ancillary-sword-ann-leckie/110869?ean=9780316565196",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 354,
+      "progress": 0,
+      "sortOrder": 173,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "Ancillary",
+        "colorCode": "#c74646"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
+        }
+      ]
+    },
+    {
+      "bookId": 536,
+      "title": "Ancillary Mercy",
+      "subTitle": "",
+      "fullTitle": "Ancillary Mercy",
+      "author": "Ann Leckie",
+      "link": "https://bookshop.org/p/books/ancillary-mercy-ann-leckie/110894?ean=9780316565189",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 174,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "Ancillary",
+        "colorCode": "#c74646"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
         }
       ],
       "formats": []

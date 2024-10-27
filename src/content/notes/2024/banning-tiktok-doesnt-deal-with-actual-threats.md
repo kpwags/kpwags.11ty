@@ -2,6 +2,7 @@
 title: 'Once More With Feeling: Banning TikTok Is Unconstitutional & Won’t Do Shit To Deal With Any Actual Threats'
 date: '2024-03-15'
 link: 'https://www.techdirt.com/2024/03/14/once-more-with-feeling-banning-tiktok-is-unconstitutional-wont-do-shit-to-deal-with-any-actual-threats/'
+author: 'Mike Masnick'
 permalink: /notes/banning-tiktok-doesnt-deal-with-actual-threats/index.html
 tags:
   - Politics

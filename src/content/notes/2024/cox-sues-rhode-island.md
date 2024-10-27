@@ -2,6 +2,7 @@
 title: "Cox Sues Rhode Island Because It Dared To Use Infrastructure Bill Money To Fund Broadband Competition"
 date: '2024-10-03T23:06:08.765Z'
 link: https://www.techdirt.com/2024/09/30/cox-sues-rhode-island-because-it-dared-to-use-infrastructure-bill-money-to-fund-broadband-competition/
+author: 'Karl Bode'
 permalink: /notes/cox-sues-rhode-island/index.html
 tags:
   - Internet

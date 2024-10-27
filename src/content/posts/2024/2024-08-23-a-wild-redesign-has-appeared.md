@@ -3,7 +3,6 @@ title: "A Wild Redesign has Appeared!"
 date: '2024-08-23T20:20:34.631Z'
 permalink: /posts/2024/08/23/a-wild-redesign-has-appeared/index.html
 description: "You might have noticed some design changes. Sure enough I have redesigned my site."
-pinned: true
 tags:
   - Site Updates
   - Personal Sites
