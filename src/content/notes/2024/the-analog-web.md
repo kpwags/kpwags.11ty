@@ -2,6 +2,7 @@
 title: 'The Analog Web'
 date: '2024-06-09'
 link: 'https://thehistoryoftheweb.com/the-analog-web/'
+author: 'Jay Hoffman'
 permalink: /notes/the-analog-web/index.html
 tags:
   - Web Development

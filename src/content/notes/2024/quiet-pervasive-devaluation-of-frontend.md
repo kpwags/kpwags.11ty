@@ -2,6 +2,7 @@
 title: 'The Quiet, Pervasive Devaluation of Frontend'
 date: '2024-03-15'
 link: 'https://joshcollinsworth.com/blog/devaluing-frontend'
+author: 'Josh Collinsworth'
 permalink: /notes/quiet-pervasive-devaluation-of-frontend/index.html
 tags:
   - Web Development

@@ -2,6 +2,7 @@
 title: "Once More With Feeling: Banning TikTok Doesn't Do Much If We Don’t Regulate Data Brokers And Pass A Privacy Law"
 date: '2024-03-11'
 link: 'https://www.techdirt.com/2024/03/11/once-more-with-feeling-banning-tiktok-doesnt-do-much-if-we-dont-regulate-data-brokers-and-pass-a-privacy-law/'
+author: 'Karl Bode'
 permalink: /notes/banning-tiktok-doesnt-do-much/index.html
 tags:
   - Politics

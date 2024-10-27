@@ -2,6 +2,7 @@
 title: 'How to Report on Trump: Tell the Truth'
 date: '2024-04-03T00:02:09Z'
 link: 'https://www.cleveland.com/news/2024/03/our-trump-reporting-upsets-some-readers-but-there-arent-two-sides-to-facts-letter-from-the-editor.html'
+author: 'Chris Quinn'
 permalink: /notes/how-to-report-on-trump/index.html
 tags:
   - Politics

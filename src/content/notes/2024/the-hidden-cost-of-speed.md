@@ -2,6 +2,7 @@
 title: "The Hidden Cost of Speed"
 date: '2024-09-15T20:06:14.714Z'
 link: https://stackoverflow.blog/2024/09/05/the-hidden-cost-of-speed/
+author: 'Brayden A. Hord'
 permalink: /notes/the-hidden-cost-of-speed/index.html
 tags:
   - Development

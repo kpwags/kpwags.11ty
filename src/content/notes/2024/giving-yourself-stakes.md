@@ -2,6 +2,7 @@
 title: 'Giving Yourself Stakes'
 date: '2024-01-12'
 link: 'https://chriscoyier.net/2024/01/10/giving-yourself-stakes/'
+author: 'Chris Coyier'
 permalink: /notes/giving-yourself-stakes/index.html
 tags:
   - Development

@@ -2,6 +2,7 @@
 title: "Code Isn’t Magical, It’s Just a Series of Commands"
 date: '2024-09-08T18:37:45.055Z'
 link: https://www.bennadel.com/blog/4693-code-isnt-magical-its-just-a-series-of-commands.htm
+author: 'Ben Nadel'
 permalink: /notes/code-isnt-magical/index.html
 tags:
   - Development

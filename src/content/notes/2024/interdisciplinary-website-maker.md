@@ -2,6 +2,7 @@
 title: 'Interdisciplinary Website Maker'
 date: '2024-06-06T16:59:35Z'
 link: 'https://blog.jim-nielsen.com/2024/interdisciplinary-website-maker/'
+author: 'Jim Nielsen'
 permalink: /notes/interdisciplinary-website-maker/index.html
 tags:
   - Web Development

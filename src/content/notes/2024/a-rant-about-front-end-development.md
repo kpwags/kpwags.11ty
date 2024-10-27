@@ -2,6 +2,7 @@
 title: "A Rant about Front-end Development"
 date: '2024-08-23T20:26:48.282Z'
 link: https://blog.frankmtaylor.com/2024/06/20/a-rant-about-front-end-development/
+author: 'Frank M Taylor'
 permalink: /notes/a-rant-about-front-end-development/index.html
 tags:
   - Web Development

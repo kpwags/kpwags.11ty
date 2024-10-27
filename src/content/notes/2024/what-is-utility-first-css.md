@@ -2,6 +2,7 @@
 title: 'What is Utility-First CSS?'
 date: '2024-03-05'
 link: 'https://heydonworks.com/article/what-is-utility-first-css/'
+author: 'Heydon Pickering'
 permalink: /notes/what-is-utility-first-css/index.html
 tags:
   - CSS

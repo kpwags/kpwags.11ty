@@ -2,6 +2,7 @@
 title: "Someone Put Facial Recognition Tech onto Meta's Smart Glasses to Instantly Dox Strangers"
 date: '2024-10-08T17:52:58.75Z'
 link: https://www.404media.co/someone-put-facial-recognition-tech-onto-metas-smart-glasses-to-instantly-dox-strangers/
+author: 'Joseph Cox'
 permalink: /notes/facial-recognition-meta-smart-glasses/index.html
 tags:
   - Privacy

@@ -2,6 +2,7 @@
 title: 'Josh Collinsworth on CSS Gatekeeping'
 date: '2024-05-16'
 link: 'https://hachyderm.io/@collinsworth/112354515948667896'
+author: 'Josh Collinsworth'
 permalink: /notes/josh-collinsworth-on-css-gatekeeping/index.html
 tags:
   - Development

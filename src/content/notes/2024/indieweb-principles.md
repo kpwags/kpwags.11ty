@@ -2,6 +2,7 @@
 title: 'IndieWeb Principles'
 date: '2024-06-20'
 link: https://paulrobertlloyd.com/2024/136/a1/indieweb_principles/
+author: 'Paul Robert Lloyd'
 permalink: /notes/indieweb-principles/index.html
 tags:
   - Web Development

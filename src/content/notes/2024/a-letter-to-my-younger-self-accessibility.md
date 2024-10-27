@@ -2,6 +2,7 @@
 title: 'A letter to my younger self, as an accessibility advocate'
 date: '2024-03-15'
 link: 'https://heather-buchel.com/blog/2024/03/letters-to-an-accessibility-advocate/'
+author: 'Heather Buchel'
 permalink: /notes/a-letter-to-my-younger-self-accessibility/index.html
 tags:
   - Accessibility

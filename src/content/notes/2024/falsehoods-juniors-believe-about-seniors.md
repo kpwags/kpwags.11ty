@@ -2,6 +2,7 @@
 title: 'Falsehoods Junior Developers believe about becoming Senior'
 date: '2024-03-05'
 link: 'https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/'
+author: 'Vadim Kravcenko'
 permalink: /notes/falsehoods-juniors-believe-about-seniors/index.html
 tags:
   - Development

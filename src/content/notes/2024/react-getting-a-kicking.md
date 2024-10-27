@@ -2,6 +2,7 @@
 title: 'It feels like React is getting a bit of a kicking recently'
 date: '2024-03-03'
 link: 'https://piccalil.li/blog/react-is-getting-a-bit-of-a-kicking-recently/'
+author: 'Andy Bell'
 permalink: /notes/react-getting-a-kicking/index.html
 tags:
   - Web Development

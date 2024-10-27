@@ -2,6 +2,7 @@
 title: Half-Ass It
 date: '2024-05-23'
 link: https://everythingchanges.us/blog/half-ass-it/
+author: 'Mandy Brown'
 permalink: /notes/half-ass-it/index.html
 tags:
   - Life Lessons

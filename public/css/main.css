@@ -156,7 +156,6 @@ button.text-buttonhover {
 
 
 /* utility classes */
-
 .hidden {
     display: none;
 }
@@ -184,6 +183,16 @@ button.text-buttonhover {
     border-width: 0;
 }
 
+.padded-image {
+    max-width: 80%;
+    margin: 32px auto;
+}
+
+@media (max-width:500px) {
+    .padded-image {
+        max-width: 100%;
+    }
+}
 /* end utility classes */
 
 /* header */

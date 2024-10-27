@@ -2,6 +2,7 @@
 title: "The Neverending Story"
 date: '2024-10-10T15:48:28.524Z'
 link: https://garrettdimon.com/journal/posts/the-neverending-story
+author: 'Garrett Dimon'
 permalink: /notes/the-neverending-story/index.html
 tags:
   - Web Development

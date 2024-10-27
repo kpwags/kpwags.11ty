@@ -2,6 +2,7 @@
 title: "Cars Are Rolling Computers Now. So What Happens When They Stop Getting Updates?"
 date: '2024-09-04T22:14:13.405Z'
 link: https://www.wired.com/story/cars-are-now-rolling-computers-so-how-long-will-they-get-updates-automakers-cant-say/
+author: 'Aarian Marshall'
 permalink: /notes/cars-are-rolling-computers/index.html
 tags:
   - Cars

@@ -2,6 +2,7 @@
 title: 'Piracy is Surging Again Because Streaming Execs Ignored the Lessons of the Past'
 date: '2024-01-19'
 link: 'https://www.techdirt.com/2024/01/10/piracy-is-surging-again-because-streaming-execs-ignored-the-lessons-of-the-past/'
+author: 'Karl Bode'
 permalink: /notes/piracy-is-surging-again/index.html
 tags:
   - Piracy

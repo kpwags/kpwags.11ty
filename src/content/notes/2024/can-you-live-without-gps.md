@@ -2,6 +2,7 @@
 title: "Can You Live Without GPS?"
 date: '2024-09-30T22:35:07.613Z'
 link: https://www.npr.org/2024/09/23/1201324613/gps-america-outside-in-russia-ukraine-china-europe
+author: 'The Indicator Podcast'
 permalink: /notes/can-you-live-without-gps/index.html
 tags:
   - GPS

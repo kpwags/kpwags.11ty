@@ -2,6 +2,7 @@
 title: "Web Components are not Framework Components — and That’s Okay"
 date: '2024-10-10T15:47:24.851Z'
 link: https://lea.verou.me/blog/2024/wcs-vs-frameworks/
+author: 'Lea Verou'
 permalink: /notes/web-components-are-not-framework-components-and-thats-okay/index.html
 tags:
   - Web Components

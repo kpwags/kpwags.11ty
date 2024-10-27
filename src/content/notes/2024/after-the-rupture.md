@@ -2,6 +2,7 @@
 title: "After the Rupture"
 date: '2024-09-04T22:17:51.741Z'
 link: https://everythingchanges.us/blog/after-the-rupture/
+author: 'Mandy Brown'
 permalink: /notes/after-the-rupture/index.html
 tags:
   - Tough Times

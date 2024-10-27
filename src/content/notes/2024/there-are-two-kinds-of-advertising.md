@@ -2,6 +2,7 @@
 title: "There are two kinds of advertising"
 date: '2024-09-30T22:36:49.483Z'
 link: https://chriscoyier.net/2024/08/14/there-are-two-kinds-of-advertising/
+author: 'Chris Coyier'
 permalink: /notes/there-are-two-kinds-of-advertising/index.html
 tags:
   - Ads
