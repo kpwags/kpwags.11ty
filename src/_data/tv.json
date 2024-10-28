@@ -849,24 +849,6 @@
   ],
   "inProgress": [
     {
-      "televisionShowId": 29,
-      "title": "Cosmos",
-      "imdbLink": "https://www.imdb.com/title/tt2395695/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/9fcJMvxX/cosmos.jpg",
-      "seasonEpisodeCount": 13,
-      "currentSeasonEpisode": 11,
-      "progress": 85,
-      "sortOrder": null,
-      "status": {
-        "name": "Watching",
-        "colorCode": "#005c78"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
       "televisionShowId": 16,
       "title": "Good Eats",
       "imdbLink": "https://www.imdb.com/title/tt0344651/",
@@ -1247,6 +1229,34 @@
         {
           "name": "Netflix",
           "colorCode": "#c71212"
+        }
+      ]
+    },
+    {
+      "televisionShowId": 29,
+      "title": "Cosmos",
+      "imdbLink": "https://www.imdb.com/title/tt2395695/",
+      "rating": 4,
+      "thoughts": "I thought this was an excellent look into the history of humanity, Earth, the Solar System, the Milky Way and more. Neil deGrasse Tyson did a fantastic job as host. I\u2019d highly recommend this.",
+      "coverImageUrl": "https://i.postimg.cc/9fcJMvxX/cosmos.jpg",
+      "seasonEpisodeCount": 13,
+      "currentSeasonEpisode": 13,
+      "progress": 100,
+      "sortOrder": null,
+      "status": {
+        "name": "Watched",
+        "colorCode": "#343aa8"
+      },
+      "genres": [
+        {
+          "name": "Documentary",
+          "colorCode": "#11659c"
+        }
+      ],
+      "services": [
+        {
+          "name": "Physical Media",
+          "colorCode": "#696262"
         }
       ]
     },
