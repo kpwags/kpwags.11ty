@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 478,
+    "title": "On being a \u0022JavaScript framework developer\u0022...",
+    "url": "https://www.stefanjudis.com/blog/on-being-a-javascript-framework-developer/",
+    "author": "Stefan Judis",
+    "linkDate": "2024-10-29T04:00:00Z",
+    "readingLogIssueNumber": 98,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 477,
     "title": "Where web components shine",
     "url": "https://daverupert.com/2024/10/super-web-components-sunshine/",

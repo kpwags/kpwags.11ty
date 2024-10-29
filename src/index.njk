@@ -89,7 +89,7 @@ layout: 'layouts/layout.html'
 			<li>
 				<a href="{{ note.url }}">
 					<span class="text">{{ note.data.title }}</span>
-					<span class="meta">{{ note.data.dateString }} &bull; {{ note.data.link | domainFromUrl }}</span>
+					<span class="meta">{{ note.data.dateString }} &bull; {{ note.data.author }}</span>
 				</a>
 			</li>
 		{% endfor %}
