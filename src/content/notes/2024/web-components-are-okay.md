@@ -2,6 +2,7 @@
 title: "Web Components are Okay"
 date: '2024-10-28T23:16:06.599Z'
 link: https://nolanlawson.com/2024/09/28/web-components-are-okay/
+author: 'Nolan Lawson'
 permalink: /notes/web-components-are-okay/index.html
 tags:
   - Code

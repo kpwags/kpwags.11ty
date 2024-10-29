@@ -1,50 +1,6 @@
 {
   "inProgress": [
     {
-      "bookId": 188,
-      "title": "Artificial Condition",
-      "subTitle": "",
-      "fullTitle": "Artificial Condition",
-      "author": "Martha Wells",
-      "link": "https://bookshop.org/p/books/artificial-condition-martha-wells/9858231",
-      "dateStarted": "2024-10-26T04:00:00Z",
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/bJWFYg3T/artificial-condition.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1144,
-      "pageCount": 1565,
-      "progress": 73,
-      "sortOrder": 110,
-      "status": {
-        "name": "Reading",
-        "colorCode": "#6a208f"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "Murderbot Diaries",
-        "colorCode": "#07197c"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "eBook",
-          "colorCode": "#2c5813"
-        }
-      ]
-    },
-    {
       "bookId": 195,
       "title": "Battle Cry of Freedom: The Civil War Era",
       "subTitle": "",
@@ -59,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/TPQzxnz7/battlecry-of-freedom.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 3425,
+      "currentPage": 3620,
       "pageCount": 14436,
-      "progress": 24,
+      "progress": 25,
       "sortOrder": 163,
       "status": {
         "name": "Reading",
@@ -90,6 +46,50 @@
     {
       "year": "2024",
       "books": [
+        {
+          "bookId": 188,
+          "title": "Artificial Condition",
+          "subTitle": "",
+          "fullTitle": "Artificial Condition",
+          "author": "Martha Wells",
+          "link": "https://bookshop.org/p/books/artificial-condition-martha-wells/9858231",
+          "dateStarted": "2024-10-26T04:00:00Z",
+          "dateCompleted": "2024-10-28T04:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "Another good short story set in the Murderbot universe. Fast read and enjoyable.",
+          "coverImageUrl": "https://i.postimg.cc/bJWFYg3T/artificial-condition.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 1565,
+          "pageCount": 1565,
+          "progress": 100,
+          "sortOrder": 110,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": {
+            "name": "Murderbot Diaries",
+            "colorCode": "#07197c"
+          },
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
+        },
         {
           "bookId": 189,
           "title": "All Systems Red",
