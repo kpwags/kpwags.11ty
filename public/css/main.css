@@ -203,6 +203,7 @@ button.text-buttonhover {
         max-width: 100%;
     }
 }
+
 /* end utility classes */
 
 /* header */
@@ -572,6 +573,14 @@ footer .mode-controls .controls-block {
 
 .homepage-section .title a {
     font-size: 1rem;
+}
+
+.homepage-section .content {
+    padding: 8px 12px;
+}
+
+.homepage-section .progress-bar .inner-bar {
+    background-color: var(--primary-color-1) !important;
 }
 
 .homepage-section ul {
@@ -2367,4 +2376,36 @@ dialog.music-dialog .track-list {
             rgba(186, 12, 248, 1) 80%,
             rgba(251, 7, 217, 1) 90%,
             rgba(255, 0, 0, 1) 100%);
+}
+
+figure.quote {
+    margin: 24px 0;
+    border-left: 4px solid var(--primary-color-3);
+    background: var(--shaded-background);
+    border-radius: 6px;
+    padding: 24px 32px;
+}
+
+figure.quote blockquote {
+    padding: 0;
+    border-left: 0;
+    margin: 0;
+}
+
+figure.quote figcaption {
+    font-size: 1rem;
+}
+
+figure.quote blockquote p {
+    margin: 0 0 24px 0;
+    font-size: 1rem;
+}
+
+figure.quote figcaption+p {
+    display: none;
+}
+
+figure.quote blockquote ul,
+figure.quote blockquote ol {
+    padding-left: 16px;
 }
