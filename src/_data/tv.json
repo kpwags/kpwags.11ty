@@ -541,6 +541,34 @@
       "services": []
     },
     {
+      "televisionShowId": 102,
+      "title": "The Diplomat",
+      "imdbLink": "https://www.imdb.com/title/tt17491088/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/qMJHSj56/the-diplomat.jpg",
+      "seasonEpisodeCount": 2,
+      "currentSeasonEpisode": 1,
+      "progress": 50,
+      "sortOrder": 3,
+      "status": {
+        "name": "Personal To-Watch",
+        "colorCode": "#5a5611"
+      },
+      "genres": [
+        {
+          "name": "Drama",
+          "colorCode": "#481180"
+        }
+      ],
+      "services": [
+        {
+          "name": "Netflix",
+          "colorCode": "#c71212"
+        }
+      ]
+    },
+    {
       "televisionShowId": 2,
       "title": "The Bear",
       "imdbLink": "https://www.imdb.com/title/tt14452776/",

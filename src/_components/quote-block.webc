@@ -1,0 +1,6 @@
+<figure class="quote">
+	<blockquote>
+		<slot></slot>
+	</blockquote>
+	<figcaption>- <cite @html="source"></cite></figcaption>
+</figure>

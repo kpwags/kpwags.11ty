@@ -19,10 +19,19 @@ const progressBarShortcode = (color, currentValue, fullValue, mode = 'percentage
 		maximumFractionDigits: 0,
 	});
 
+	const largeNumberFormatter = new Intl.NumberFormat('en-US', {
+		maximumSignificantDigits: 3,
+	});
+
 	switch (format) {
 		case 'money':
 			formattedCurrentValue = moneyFormatter.format(formattedCurrentValue);
 			formattedFullValue = moneyFormatter.format(formattedFullValue);
+			break;
+
+		case 'large-number':
+			formattedCurrentValue = largeNumberFormatter.format(formattedCurrentValue);
+			formattedFullValue = largeNumberFormatter.format(formattedFullValue);
 			break;
 
 		default:
