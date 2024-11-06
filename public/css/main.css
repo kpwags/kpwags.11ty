@@ -1260,14 +1260,16 @@ article.note.note-page .view-link {
     padding-bottom: 0;
 }
 
-article.note .view-link a {
+article.note .view-link a,
+article.post .view-link a {
     border: 1px solid var(--primary-color-1);
     padding: 8px 16px;
     border-radius: 6px;
     text-decoration: none;
 }
 
-article.note .view-link a:hover {
+article.note .view-link a:hover,
+article.post .view-link a:hover {
     border: 1px solid var(--primary-color-3);
     color: var(--primary-color-3);
     text-decoration: underline;
@@ -1487,15 +1489,24 @@ article.post blockquote,
 article.book-note blockquote {
     margin-left: 0;
     border-left: 4px solid var(--primary-color-3);
-    padding-left: 24px;
+    padding: 24px 32px;
+    border-left: 4px solid var(--primary-color-3);
+    background: var(--shaded-background);
+    border-radius: 6px;
 }
 
 article.note blockquote p,
 article.post blockquote p,
 article.book-note blockquote p {
     margin: 0 0 24px 0;
-    font-size: 1.1rem;
 }
+
+article.note blockquote p:last-child,
+article.post blockquote p:last-child,
+article.book-note blockquote p:last-child {
+    margin-bottom: 0;
+}
+
 
 article.note blockquote ul,
 article.post blockquote ul,

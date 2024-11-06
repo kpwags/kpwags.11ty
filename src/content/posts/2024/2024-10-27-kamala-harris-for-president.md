@@ -3,7 +3,6 @@ title: "🇺🇸 Kamala Harris for President 🇺🇸"
 date: '2024-10-27T22:18:33.805Z'
 permalink: /posts/2024/10/27/kamala-harris-for-president/index.html
 description: "I hereby endorse Kamala Harris for President of the United States."
-pinned: true
 tags:
   - Kamala Harris
   - Politics
