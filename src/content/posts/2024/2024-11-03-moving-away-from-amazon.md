@@ -8,7 +8,7 @@ tags:
   - Journalism
 ---
 
-Two weeks ago, Jeff Bezos personally stepped in and stopped the Washington Post Editorial Board from endorsing Kamala Harris. That raised some issues for me, and apparently over [2,000 subscribers](https://www.npr.org/2024/10/28/nx-s1-5168416/washington-post-bezos-endorsement-president-cancellations-resignations). I can pretty easily guess why Bezos did it, but I’m not sure how much thought he really put into it.
+Two weeks ago, Jeff Bezos personally stepped in and stopped the Washington Post Editorial Board from endorsing Kamala Harris. That raised some issues for me, and apparently over [200,000 subscribers](https://www.npr.org/2024/10/28/nx-s1-5168416/washington-post-bezos-endorsement-president-cancellations-resignations). I can pretty easily guess why Bezos did it, but I’m not sure how much thought he really put into it.
 <!-- excerpt -->
 
 Bezos probably remembers the spats between the Post and Trump for the last 8 years. He’s also clearly aware that Trump is vindictive as all hell and will use that vindictiveness against anyone who is perceived to be against him. Bezos also runs Blue Origin and already has some contracts with the federal government. Should Trump win, you’d have to figure he’d put the squeeze on Bezos because of his perception of the Post. Cancelling the the endorsement is one way to appease the wannabe dictator.
@@ -72,3 +72,5 @@ Too often I buy something on a whim from Amazon because, hey, free shipping. If 
 ## Conclusion
 
 At the end of the day, cancelling my Prime subscription it probably the best move for me. The only item that still has open questions is my Kindle and the ability for me to maintain access to my books as well as access to my public library. And even with those open questions, cancelling my subscription doesn’t really affect that. In the end I’d save some money and give Bezos the finger, even if it doesn’t move the needle all that much. Sounds like a win to me.
+
+*Edit 11/6/2024: It was 200,000 subscribers, not 2,000*

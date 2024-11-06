@@ -895,24 +895,6 @@
       "services": []
     },
     {
-      "televisionShowId": 1,
-      "title": "Only Murderers in the Building",
-      "imdbLink": "https://www.imdb.com/title/tt11691774/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/2ypsjtLd/only-murderers-in-the-building.jpg",
-      "seasonEpisodeCount": 5,
-      "currentSeasonEpisode": 4,
-      "progress": 80,
-      "sortOrder": null,
-      "status": {
-        "name": "Watching",
-        "colorCode": "#005c78"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
       "televisionShowId": 10,
       "title": "The Stand",
       "imdbLink": "https://www.imdb.com/title/tt1831804/",
@@ -937,9 +919,9 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/KzkqStqt/lowerdecks.jpg",
-      "seasonEpisodeCount": 5,
-      "currentSeasonEpisode": 4,
-      "progress": 80,
+      "seasonEpisodeCount": 50,
+      "currentSeasonEpisode": 43,
+      "progress": 86,
       "sortOrder": null,
       "status": {
         "name": "Watching",
@@ -1078,6 +1060,24 @@
       "seasonEpisodeCount": 0,
       "currentSeasonEpisode": 0,
       "progress": 0,
+      "sortOrder": null,
+      "status": {
+        "name": "In Between Seasons",
+        "colorCode": "#901960"
+      },
+      "genres": [],
+      "services": []
+    },
+    {
+      "televisionShowId": 1,
+      "title": "Only Murderers in the Building",
+      "imdbLink": "https://www.imdb.com/title/tt11691774/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/2ypsjtLd/only-murderers-in-the-building.jpg",
+      "seasonEpisodeCount": 5,
+      "currentSeasonEpisode": 4,
+      "progress": 80,
       "sortOrder": null,
       "status": {
         "name": "In Between Seasons",
