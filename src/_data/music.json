@@ -6,7 +6,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/d3hyp0B7/aaron-west-in-lieu-of-flowers.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Punk",
@@ -456,7 +456,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/FshN106h/american-aquarium-fear-of-standing-still.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Country",
@@ -2439,6 +2439,77 @@
     ]
   },
   {
+    "musicAlbumId": 184,
+    "title": "Love and Lore",
+    "artist": "Chuck Wendig",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/kMSHy0Dh/chuck-ragan-love-and-lore.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "CD",
+        "colorCode": "#106869"
+      },
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      },
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "All In"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Wild In Our Ways"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Northern World"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Echo the Halls"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Winter"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Aching Hour"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Waiting Out the Storm"
+      },
+      {
+        "trackNumber": 8,
+        "title": "One More Shot"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Reel My Heart"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Hanging On"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 29,
     "title": "Season One, Episodes 1-6",
     "artist": "Clear Eyes Fanzine",
@@ -2594,7 +2665,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/gJFb8qqj/dancampbell-otherpeopleslives.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Punk",
@@ -2919,6 +2990,65 @@
       {
         "trackNumber": 10,
         "title": "The Vulture"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 185,
+    "title": "Hearses",
+    "artist": "Dave Hause",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/L8czch8M/dave-hause-hearses.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      },
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Living (Will Get You Dead)"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Arsenic"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Suture Self"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Hurry Up and Wait"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Massive"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Sickening"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Breathe In"
+      },
+      {
+        "trackNumber": 8,
+        "title": "The Odds"
       }
     ]
   },
@@ -8689,7 +8819,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/VLVytWMR/lovedones-keepyourheart.jpg",
     "isTopTen": false,
-    "showOnNowPage": false,
+    "showOnNowPage": true,
     "genres": [
       {
         "name": "Punk",
