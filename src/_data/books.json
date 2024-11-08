@@ -1,6 +1,50 @@
 {
   "inProgress": [
     {
+      "bookId": 187,
+      "title": "Rogue Protocol",
+      "subTitle": "",
+      "fullTitle": "Rogue Protocol",
+      "author": "Martha Wells",
+      "link": "https://bookshop.org/p/books/rogue-protocol-martha-wells/9861886",
+      "dateStarted": "2024-11-07T05:00:00Z",
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/0yPXNbdL/rogue-protocol.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 819,
+      "pageCount": 1654,
+      "progress": 50,
+      "sortOrder": 120,
+      "status": {
+        "name": "Reading",
+        "colorCode": "#6a208f"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "Murderbot Diaries",
+        "colorCode": "#07197c"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
       "bookId": 195,
       "title": "Battle Cry of Freedom: The Civil War Era",
       "subTitle": "",
@@ -11327,50 +11371,6 @@
     }
   ],
   "toRead": [
-    {
-      "bookId": 187,
-      "title": "Rogue Protocol",
-      "subTitle": "",
-      "fullTitle": "Rogue Protocol",
-      "author": "Martha Wells",
-      "link": "https://bookshop.org/p/books/rogue-protocol-martha-wells/9861886",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/0yPXNbdL/rogue-protocol.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 120,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "Murderbot Diaries",
-        "colorCode": "#07197c"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "eBook",
-          "colorCode": "#2c5813"
-        }
-      ]
-    },
     {
       "bookId": 186,
       "title": "Exit Strategy",
