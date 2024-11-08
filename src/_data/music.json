@@ -2376,72 +2376,9 @@
     ]
   },
   {
-    "musicAlbumId": 177,
-    "title": "Till Midnight",
-    "artist": "Chuck Ragan",
-    "thoughts": "",
-    "coverImageUrl": "https://i.postimg.cc/qMtSJLct/chuck-ragan-till-midnight.jpg",
-    "isTopTen": false,
-    "showOnNowPage": false,
-    "genres": [
-      {
-        "name": "Folk",
-        "colorCode": "rgb(202, 122, 5)"
-      }
-    ],
-    "formats": [
-      {
-        "name": "Digital",
-        "colorCode": "rgb(102, 59, 177)"
-      }
-    ],
-    "tracks": [
-      {
-        "trackNumber": 1,
-        "title": "Something May Catch Fire"
-      },
-      {
-        "trackNumber": 2,
-        "title": "Vagabond"
-      },
-      {
-        "trackNumber": 3,
-        "title": "Non Typical"
-      },
-      {
-        "trackNumber": 4,
-        "title": "Revved"
-      },
-      {
-        "trackNumber": 5,
-        "title": "Bedroll Lullaby"
-      },
-      {
-        "trackNumber": 6,
-        "title": "Gave My Heart Out"
-      },
-      {
-        "trackNumber": 7,
-        "title": "Wake With You"
-      },
-      {
-        "trackNumber": 8,
-        "title": "You And I Alone"
-      },
-      {
-        "trackNumber": 9,
-        "title": "Whistleblowers Song"
-      },
-      {
-        "trackNumber": 10,
-        "title": "For All We Care"
-      }
-    ]
-  },
-  {
     "musicAlbumId": 184,
     "title": "Love and Lore",
-    "artist": "Chuck Wendig",
+    "artist": "Chuck Ragan",
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/kMSHy0Dh/chuck-ragan-love-and-lore.jpg",
     "isTopTen": false,
@@ -2506,6 +2443,69 @@
       {
         "trackNumber": 10,
         "title": "Hanging On"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 177,
+    "title": "Till Midnight",
+    "artist": "Chuck Ragan",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/qMtSJLct/chuck-ragan-till-midnight.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Something May Catch Fire"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Vagabond"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Non Typical"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Revved"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Bedroll Lullaby"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Gave My Heart Out"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Wake With You"
+      },
+      {
+        "trackNumber": 8,
+        "title": "You And I Alone"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Whistleblowers Song"
+      },
+      {
+        "trackNumber": 10,
+        "title": "For All We Care"
       }
     ]
   },
