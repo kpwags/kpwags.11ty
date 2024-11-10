@@ -1,50 +1,6 @@
 {
   "inProgress": [
     {
-      "bookId": 187,
-      "title": "Rogue Protocol",
-      "subTitle": "",
-      "fullTitle": "Rogue Protocol",
-      "author": "Martha Wells",
-      "link": "https://bookshop.org/p/books/rogue-protocol-martha-wells/9861886",
-      "dateStarted": "2024-11-07T05:00:00Z",
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/0yPXNbdL/rogue-protocol.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 819,
-      "pageCount": 1654,
-      "progress": 50,
-      "sortOrder": 120,
-      "status": {
-        "name": "Reading",
-        "colorCode": "#6a208f"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "Murderbot Diaries",
-        "colorCode": "#07197c"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "eBook",
-          "colorCode": "#2c5813"
-        }
-      ]
-    },
-    {
       "bookId": 195,
       "title": "Battle Cry of Freedom: The Civil War Era",
       "subTitle": "",
@@ -59,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/TPQzxnz7/battlecry-of-freedom.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 6608,
+      "currentPage": 6967,
       "pageCount": 14436,
-      "progress": 46,
+      "progress": 48,
       "sortOrder": 163,
       "status": {
         "name": "Reading",
@@ -90,6 +46,45 @@
     {
       "year": "2024",
       "books": [
+        {
+          "bookId": 187,
+          "title": "Rogue Protocol",
+          "subTitle": "",
+          "fullTitle": "Rogue Protocol",
+          "author": "Martha Wells",
+          "link": "https://bookshop.org/p/books/rogue-protocol-martha-wells/9861886",
+          "dateStarted": "2024-11-07T05:00:00Z",
+          "dateCompleted": "2024-11-08T05:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "This is the third book in the Murderbot series and the best one I\u2019ve read so far. Good story and a fast, enjoyable read.",
+          "coverImageUrl": "https://i.postimg.cc/0yPXNbdL/rogue-protocol.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 1654,
+          "pageCount": 1654,
+          "progress": 100,
+          "sortOrder": 120,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": {
+            "name": "Murderbot Diaries",
+            "colorCode": "#07197c"
+          },
+          "genres": [],
+          "formats": [
+            {
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
+        },
         {
           "bookId": 188,
           "title": "Artificial Condition",
