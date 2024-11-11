@@ -15,6 +15,7 @@ tags:
 ---
 
 My week notes for the week of October 27 through November 9, 2024. A double issue due to my trip last weekend
+<!-- excerpt -->
 
 ## Notes
 
