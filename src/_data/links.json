@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 485,
+    "title": "Grateful: Colors in console.log()",
+    "url": "https://blog.jim-nielsen.com/2024/color-console-log/",
+    "author": "Jim Nielsen",
+    "linkDate": "2024-11-11T02:31:57.285Z",
+    "readingLogIssueNumber": 98,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 484,
     "title": "The most effective ways to improve Core Web Vitals",
     "url": "https://web.dev/articles/top-cwv",
