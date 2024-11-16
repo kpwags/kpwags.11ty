@@ -877,6 +877,38 @@
   ],
   "inProgress": [
     {
+      "televisionShowId": 103,
+      "title": "Elsbeth",
+      "imdbLink": "https://www.imdb.com/title/tt26591110/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/sg4Dv2Mx/ellsbeth.jpg",
+      "seasonEpisodeCount": 16,
+      "currentSeasonEpisode": 7,
+      "progress": 44,
+      "sortOrder": null,
+      "status": {
+        "name": "Watching",
+        "colorCode": "#005c78"
+      },
+      "genres": [
+        {
+          "name": "Comedy",
+          "colorCode": "#a60483"
+        },
+        {
+          "name": "Crime Procedural",
+          "colorCode": "#0f760a"
+        }
+      ],
+      "services": [
+        {
+          "name": "Paramount\u002B",
+          "colorCode": "#037fb4"
+        }
+      ]
+    },
+    {
       "televisionShowId": 16,
       "title": "Good Eats",
       "imdbLink": "https://www.imdb.com/title/tt0344651/",
@@ -895,24 +927,6 @@
       "services": []
     },
     {
-      "televisionShowId": 10,
-      "title": "The Stand",
-      "imdbLink": "https://www.imdb.com/title/tt1831804/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/dtb27Hw1/the-stand.jpg",
-      "seasonEpisodeCount": 9,
-      "currentSeasonEpisode": 6,
-      "progress": 67,
-      "sortOrder": 2,
-      "status": {
-        "name": "Watching",
-        "colorCode": "#005c78"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
       "televisionShowId": 89,
       "title": "Star Trek: Lower Decks",
       "imdbLink": "https://www.imdb.com/title/tt9184820/",
@@ -920,8 +934,8 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/KzkqStqt/lowerdecks.jpg",
       "seasonEpisodeCount": 50,
-      "currentSeasonEpisode": 44,
-      "progress": 88,
+      "currentSeasonEpisode": 45,
+      "progress": 90,
       "sortOrder": null,
       "status": {
         "name": "Watching",
@@ -1719,6 +1733,34 @@
       },
       "genres": [],
       "services": []
+    },
+    {
+      "televisionShowId": 10,
+      "title": "The Stand",
+      "imdbLink": "https://www.imdb.com/title/tt1831804/",
+      "rating": 4,
+      "thoughts": "I thought this was a pretty good adaptation of the book. The characters felt right and it felt mostly true to the story.",
+      "coverImageUrl": "https://i.postimg.cc/dtb27Hw1/the-stand.jpg",
+      "seasonEpisodeCount": 9,
+      "currentSeasonEpisode": 9,
+      "progress": 100,
+      "sortOrder": 2,
+      "status": {
+        "name": "Watched",
+        "colorCode": "#343aa8"
+      },
+      "genres": [
+        {
+          "name": "Drama",
+          "colorCode": "#481180"
+        }
+      ],
+      "services": [
+        {
+          "name": "Paramount\u002B",
+          "colorCode": "#037fb4"
+        }
+      ]
     },
     {
       "televisionShowId": 38,

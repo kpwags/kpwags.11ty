@@ -1,5 +1,181 @@
 [
   {
+    "linkId": 496,
+    "title": "Saquon Barkley Is Saving Jobs",
+    "url": "https://defector.com/saquon-barkley-is-saving-jobs",
+    "author": "Ray Ratto",
+    "linkDate": "2024-11-16T15:27:42.679Z",
+    "readingLogIssueNumber": 99,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 494,
+    "title": "Refuge In Kakistocracy",
+    "url": "https://www.popehat.com/p/refuge-in-kakistocracy",
+    "author": "Ken White",
+    "linkDate": "2024-11-14T20:13:18.95Z",
+    "readingLogIssueNumber": 99,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 495,
+    "title": "Announcing .NET 9",
+    "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/",
+    "author": "The .NET Team",
+    "linkDate": "2024-11-14T16:30:31.311Z",
+    "readingLogIssueNumber": 99,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 493,
+    "title": "Why the government\u0027s flood insurance program is underwater",
+    "url": "https://www.npr.org/2024/11/13/1212604199/indicator-problems-with-national-flood-insurance-program",
+    "author": "The Indicator",
+    "linkDate": "2024-11-14T05:00:00Z",
+    "readingLogIssueNumber": 99,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 492,
+    "title": "HTML For People",
+    "url": "https://htmlforpeople.com/",
+    "author": "Blake Watson",
+    "linkDate": "2024-11-13T16:15:16.059Z",
+    "readingLogIssueNumber": 99,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 491,
+    "title": "You can use text-wrap: balance; on icons",
+    "url": "https://shkspr.mobi/blog/2024/10/you-can-use-text-wrap-balance-on-icons/",
+    "author": "Terence Eden",
+    "linkDate": "2024-11-13T05:00:00Z",
+    "readingLogIssueNumber": 99,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 490,
+    "title": "C# Records",
+    "url": "https://pmichaels.net/csharp-records/",
+    "author": "Paul Michaels",
+    "linkDate": "2024-11-13T02:01:17.61Z",
+    "readingLogIssueNumber": 99,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 489,
+    "title": "Why are there so many illegal weed stores in New York City? (Part 2)",
+    "url": "https://www.searchengine.show/listen/search-engine-1/why-are-there-so-many-illegal-weed-stores-in-new-york-city-part-2",
+    "author": "Search Engine Podcast",
+    "linkDate": "2024-11-12T15:43:39.554Z",
+    "readingLogIssueNumber": 99,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 488,
+    "title": "Why are there so many illegal weed stores in New York City? (Part 1)",
+    "url": "https://www.searchengine.show/listen/search-engine-1/why-are-there-so-many-illegal-weed-stores-in-new-york-city-part-1",
+    "author": "Search Engine Podcast",
+    "linkDate": "2024-11-12T15:03:27.58Z",
+    "readingLogIssueNumber": 99,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 487,
+    "title": "Is the Introvert Economy here to stay?",
+    "url": "https://www.bazaaraudio.com/the-new-bazaar/is-the-introvert-economy-here-to-stay",
+    "author": "The New Bazaar",
+    "linkDate": "2024-11-12T14:36:39.803Z",
+    "readingLogIssueNumber": 99,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 486,
+    "title": "Death from the Skies! (featuring Phil Plait)",
+    "url": "https://www.iheart.com/podcast/105-daniel-and-kellys-extraord-29862087/episode/death-from-the-skies-featuring-phil-228121126/",
+    "author": "Daniel and Kelly\u2019s Extraordinary Universe",
+    "linkDate": "2024-11-12T05:00:00Z",
+    "readingLogIssueNumber": 99,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 485,
     "title": "Grateful: Colors in console.log()",
     "url": "https://blog.jim-nielsen.com/2024/color-console-log/",

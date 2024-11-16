@@ -20,7 +20,9 @@ const progressBarShortcode = (color, currentValue, fullValue, mode = 'percentage
 	});
 
 	const largeNumberFormatter = new Intl.NumberFormat('en-US', {
-		maximumSignificantDigits: 3,
+		minimumSignificantDigits: 1,
+	    maximumSignificantDigits: 5,
+	    roundingMode: 'floor',
 	});
 
 	switch (format) {
