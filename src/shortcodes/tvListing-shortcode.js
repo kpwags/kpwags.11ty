@@ -31,14 +31,14 @@ const getThoughts = (tvShow) => {
 	`;
 };
 
-const tvListingShortcode = (tvShow) => {
+const tvListingShortcode = (tvShow, showProgress = false) => {
 	const getRating = tvShow.rating !== null ? starRating(tvShow.rating, 'sm') : '';
 
 	return `
 <div class="item" data-tv-id="${tvShow.televisionShowId}">
 	<div class="cover">
 		<img src="${tvShow.coverImageUrl}" alt="${tvShow.title}" height="225" width="150" />
-		${getProgress(tvShow)}
+		${showProgress ? getProgress(tvShow) : ''}
 	</div>
 	<div class="info">
 		<a href="${tvShow.imdbLink}" target="_blank" rel="noreferrer">
