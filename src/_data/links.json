@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 498,
+    "title": "Gabe Newell says Half-Life 2: Episode 3 didn\u2019t happen because he was \u2018stumped\u2019",
+    "url": "https://www.theverge.com/2024/11/16/24298091/gabe-newell-half-life-2-documentary-why-hl-3-never-happened",
+    "author": "Wes Davis",
+    "linkDate": "2024-11-17T01:43:08.082Z",
+    "readingLogIssueNumber": 99,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Gaming",
+      "colorCode": "#275576"
+    }
+  },
+  {
+    "linkId": 497,
+    "title": "New Tech Tries to Catastrophe-Proof Your Home",
+    "url": "https://www.wsj.com/business/energy-oil/new-tech-tries-to-catastrophe-proof-your-home-6a32b6c4",
+    "author": "Christopher Mims",
+    "linkDate": "2024-11-16T23:00:29.994Z",
+    "readingLogIssueNumber": 99,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Climate",
+      "colorCode": "#9a702d"
+    }
+  },
+  {
     "linkId": 496,
     "title": "Saquon Barkley Is Saving Jobs",
     "url": "https://defector.com/saquon-barkley-is-saving-jobs",
