@@ -59,9 +59,9 @@
       "coverImageUrl": "https://i.postimg.cc/TPQzxnz7/battlecry-of-freedom.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 9798,
+      "currentPage": 10217,
       "pageCount": 14436,
-      "progress": 68,
+      "progress": 71,
       "sortOrder": 163,
       "status": {
         "name": "Reading",
@@ -11410,6 +11410,50 @@
     }
   ],
   "toRead": [
+    {
+      "bookId": 537,
+      "title": "Home",
+      "subTitle": "Habitat, Range, Niche, Territory",
+      "fullTitle": "Home: Habitat, Range, Niche, Territory",
+      "author": "Martha Wells",
+      "link": "https://us.macmillan.com/books/9781250838865/homehabitatrangenicheterritory",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/mDxMxMq2/martha-wells-home.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 197,
+      "progress": 1,
+      "sortOrder": 131,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "Murderbot Diaries",
+        "colorCode": "#07197c"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
     {
       "bookId": 185,
       "title": "Network Effect",

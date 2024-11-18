@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 499,
+    "title": "The C# \u0022field\u0022 Keyword and Visual Studio Tooling",
+    "url": "https://jeremybytes.blogspot.com/2024/11/the-c-field-keyword-and-visual-studio.html",
+    "author": "Jeremy Clark",
+    "linkDate": "2024-11-18T16:40:36.765Z",
+    "readingLogIssueNumber": 99,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
     "linkId": 498,
     "title": "Gabe Newell says Half-Life 2: Episode 3 didn\u2019t happen because he was \u2018stumped\u2019",
     "url": "https://www.theverge.com/2024/11/16/24298091/gabe-newell-half-life-2-documentary-why-hl-3-never-happened",
