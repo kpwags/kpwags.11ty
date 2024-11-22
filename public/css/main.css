@@ -1,8 +1,8 @@
 html,
 body {
-    background-color: var(--grey-3);
+    background: var(--background);
     color: var(--text);
-    font-size: 1.25rem;
+    font-size: var(--font-size-base);
     line-height: 1.5;
     font-family: var(--font);
     padding: 0;
@@ -31,7 +31,7 @@ hr {
 
 h1 {
     font-weight: 500;
-    font-size: 2.5rem;
+    font-size: 3rem;
     color: var(--primary-color-1);
     margin: 0 0 32px 0;
     padding: 0;
@@ -39,14 +39,14 @@ h1 {
 
 h2 {
     font-weight: 400;
-    font-size: 2rem;
+    font-size: 2.4rem;
     color: var(--primary-color-1);
     margin: 0 0 24px 0;
     padding: 0;
 }
 
 h3 {
-    font-size: 1.7rem;
+    font-size: 2rem;
     color: var(--primary-color-1);
     font-weight: 500;
     margin: 0 0 16px 0;
@@ -70,6 +70,43 @@ h6 {
     font-size: 1.25rem;
     font-weight: 400;
     margin: 0 0 12px 0;
+}
+
+:is(h1,h2,h3,h4,h5,h6) {
+    display: flex;
+    gap: 1ch;
+}
+
+@media (min-width: 768px) {
+    h1:before {
+        content: "#";
+        margin-inline-start: -2ch;
+    }
+
+    h2:before {
+        content: "##";
+        margin-inline-start: -3ch;
+    }
+
+    h3:before {
+        content: "###";
+        margin-inline-start: -4ch;
+    }
+
+    h4:before {
+        content: "####";
+        margin-inline-start: -5ch;
+    }
+
+    h5:before {
+        content: "#####";
+        margin-inline-start: -6ch;
+    }
+
+    h6:before {
+        content: "######";
+        margin-inline-start: -7ch;
+    }
 }
 
 @media (max-width: 450px) {
@@ -119,12 +156,10 @@ h3.text {
 p {
     line-height: 32px;
     margin-bottom: 32px;
-    font-size: 1rem;
 }
 
 ul li,
 ol li {
-    font-size: 1rem;
     margin-bottom: 8px;
 }
 
@@ -213,7 +248,7 @@ header {
     padding: 8px 16px;
     border-bottom: 1px solid var(--grey-2);
     align-items: center;
-    background: var(--background);
+    background-color: var(--grey-3);
 }
 
 header .title {
@@ -546,41 +581,43 @@ footer .mode-controls .controls-block {
 /* end footer */
 
 /* homepage */
+.intro {
+    display: flex;
+    column-gap: 36px;
+    align-items: center;
+    padding: 12px;
+    width: var(--width);
+    margin: 48px auto;
+}
+
+.intro .image {
+    width: 200px;
+}
+
+.intro .image img {
+    width: 100%;
+}
+
+.intro .text h1 {
+    color: var(--primary-color-1);
+    line-height: 1;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.intro .text h1::before {
+    content: '';
+    margin-inline-start: 0;
+}
+
 .homepage-section {
     width: var(--width);
-    margin: 0 auto 32px;
-    border-radius: 6px;
-    background: var(--background);
-    border: 1px solid var(--border-color);
+    margin: 0 auto 48px;
 }
 
-.homepage-section:hover {
-    border-color: var(--primary-color-1);
-}
-
-.homepage-section .title {
-    display: flex;
-    justify-content: space-between;
-    padding: 12px;
-    align-items: center;
-    border-bottom: 1px solid var(--border-color);
-}
-
-.homepage-section .title h2 {
-    font-size: 1.6rem;
-    margin: 0;
-}
-
-.homepage-section .title a {
-    font-size: 1rem;
-}
-
-.homepage-section .content {
-    padding: 8px 12px;
-}
-
-.homepage-section .progress-bar .inner-bar {
-    background-color: var(--primary-color-1) !important;
+.homepage-section .view-more {
+    margin-top:24px;
+    text-align: center;
 }
 
 .homepage-section ul {
@@ -589,67 +626,22 @@ footer .mode-controls .controls-block {
 }
 
 .homepage-section ul li {
-    margin: 0;
-    border-bottom: 1px solid var(--border-color);
-    list-style-type: none;
+    margin: 16px 0;
 }
 
-.homepage-section ul li:last-child {
-    border-bottom: none;
+.homepage-section ul li::marker {
+    content: "- ";
+    font-weight: 700;
 }
 
-.homepage-section ul li a {
-    padding: 8px 12px;
-    display: block;
-    text-decoration: none;
+.homepage-section a {
+    color: var(--text);
+    text-decoration-color: var(--primary-color-1);
+    text-underline-offset: 3px;
 }
 
-.homepage-section ul li a span.text {
-    display: block;
-    font-size: 1.2rem;
-    text-decoration: underline;
-}
-
-.homepage-section ul li a span.meta {
-    color: var(--meta);
-    text-decoration: none;
-}
-
-.homepage-section ul li:last-child a {
-    border-bottom-right-radius: 6px;
-    border-bottom-left-radius: 6px;
-}
-
-.homepage-section ul li a:hover {
-    background-color: var(--grey-4);
-}
-
-.homepage-section ul li a:hover span.meta {
-    text-decoration: none;
-}
-
-.intro {
-    display: flex;
-    column-gap: 36px;
-    align-items: center;
-    margin-top: 32px;
-    padding: 12px;
-}
-
-.intro .image {
-    width: 136px;
-}
-
-.intro .image img {
-    width: 100%;
-}
-
-.intro .text .hi-there {
-    font-size: 2.25rem;
+.homepage-section a:hover {
     color: var(--primary-color-1);
-    line-height: 1;
-    font-family: var(--font-handwritten);
-    margin-bottom: 8px;
 }
 
 @media (max-width: 450px) {
@@ -663,9 +655,8 @@ footer .mode-controls .controls-block {
         width: 164px;
     }
 
-    .homepage-section .title {
-        flex-direction: column;
-        row-gap: 8px;
+    .homepage-section ul {
+        margin-left: 24px;
     }
 }
 
@@ -673,7 +664,6 @@ footer .mode-controls .controls-block {
     display: flex;
     justify-content: space-evenly;
     gap: 16px;
-    padding: 24px;
     flex-wrap: wrap;
 }
 
@@ -1197,14 +1187,9 @@ ul.links li a:hover span.meta {
 
 /* notes */
 article.note {
-    background: var(--background);
-    border: 1px solid var(--border-color);
     margin-bottom: 32px;
-    border-radius: 6px;
-}
-
-article.note:hover {
-    border-color: var(--primary-color-1);
+    padding-bottom: 32px;
+    border-bottom: 1px solid var(--border-color);
 }
 
 article.note:last-child {
@@ -1213,9 +1198,7 @@ article.note:last-child {
 
 article.note h1,
 article.note h2 {
-    padding: 12px 24px 0;
     margin: 0;
-    font-size: 1.75rem;
 }
 
 article.note h2 a {
@@ -1229,7 +1212,6 @@ article.note h2 a:hover {
 article.note .metadata {
     display: flex;
     margin: 8px 0;
-    padding: 0 24px;
     gap: 8px;
     color: var(--meta);
     text-transform: uppercase;
@@ -1247,7 +1229,6 @@ article.note .metadata {
 }
 
 article.note .content {
-    padding: 0 24px;
     margin: 24px 0;
 }
 
@@ -1283,14 +1264,8 @@ article.note .footer {
 
 /* blog & reading logs */
 article.post {
-    background: var(--background);
-    border: 1px solid var(--border-color);
     margin-bottom: 32px;
-    border-radius: 6px;
-}
-
-article.post:hover {
-    border-color: var(--primary-color-1);
+    border-bottom: 1px solid var(--border-color);
 }
 
 article.post:last-child {
@@ -1298,7 +1273,7 @@ article.post:last-child {
 }
 
 article.post .content {
-    padding: 24px;
+    padding: 24px 0;
 }
 
 article.post h1,
@@ -1316,12 +1291,8 @@ article.post h2 a:hover {
 }
 
 article.post .metadata {
-    display: flex;
-    margin: 8px 0;
-    gap: 8px;
     color: var(--meta);
     text-transform: uppercase;
-    font-size: 1rem;
 }
 
 article.post .excerpt {
@@ -1468,8 +1439,9 @@ article.blog-post-page .shared-link:first-of-type {
 
 article.blog-post-page .shared-link {
     margin-bottom: 24px;
-    padding: 0 16px;
 }
+
+
 
 article.blog-post-page .shared-link h3 {
     font-size: 1.4rem;
@@ -1487,7 +1459,7 @@ article.blog-post-page .shared-link .posted-by {
 article.note blockquote,
 article.post blockquote,
 article.book-note blockquote {
-    margin-left: 0;
+    margin: 0;
     border-left: 4px solid var(--primary-color-3);
     padding: 24px 32px;
     border-left: 4px solid var(--primary-color-3);
@@ -1719,17 +1691,16 @@ section.archives-list ul li a:hover span.meta {
 /* end archives */
 
 /* book notes */
-.book-note-card {
-    margin: 0 0 32px 0;
-    border: 1px solid var(--border-color);
-    padding: 24px;
-    border-radius: 6px;
-    container-type: inline-size;
-    background: var(--background);
+.book-note .book-note-card {
+    margin-top: 32px;
+    border-top: 1px solid var(--border-color);
 }
 
-.book-note-card:hover {
-    border-color: var(--primary-color-1);
+.book-note-card {
+    margin: 0 0 32px 0;
+    border-bottom: 1px solid var(--border-color);
+    padding: 24px 0;
+    container-type: inline-size;
 }
 
 .book-note-card .content {
@@ -1764,6 +1735,7 @@ section.archives-list ul li a:hover span.meta {
 .book-note-card .author {
     color: var(--text);
     font-size: 1.5rem;
+    font-style: italic;
 }
 
 .book-note-card .categories {
@@ -1792,17 +1764,6 @@ section.archives-list ul li a:hover span.meta {
 
 .book-note-card div.book-links span.separator:last-child {
     display: none;
-}
-
-article.book-note .book-note-content {
-    background: var(--background);
-    border: 1px solid var(--border-color);
-    border-radius: 6px;
-    padding: 24px;
-}
-
-article.book-note .book-note-content:hover {
-    border-color: var(--primary-color-1);
 }
 
 article.book-note .book-note-content p:first-child {

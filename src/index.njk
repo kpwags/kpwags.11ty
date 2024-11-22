@@ -3,27 +3,17 @@ title: ''
 layout: 'layouts/layout.html'
 ---
 
-<section class="intro homepage-section ">
+<section class="intro">
 	<div class="image"><img src="/img/logo.png" alt="A picture of me in a Phillies shirt and hat holding a beer" width="128" height="128" /></div>
 	<div class="text">
-		<div class="hi-there">Hi, I'm Keith!</div>
+		<h1>Hi, I'm Keith!</h1>
 		<div class="basic-info">I'm a software developer, gamer, geek, beer league hockey player, Philadelphia sports fan and a whole lot more.</div>
-	</div>
-</section>
-
-<section class="homepage-section">
-	<div class="title"><h2>Writing Progress</h2></div>
-	<div class="content">
-		<p>NaNoWriMo might have dove in to the A.I. slop, but I still want to focus this month to write. I want nothing to do with that organization but I'm going to focus on my aspiration of finishing that novel this year. My goal this month is to hit 30,000 words, which averages 1,000 a day.</p>
-		{% progressBar "hsl(208, 95%,45%)", 10248, 30000, 'percentage', 'large-number' %}
 	</div>
 </section>
 
 {% if collections.pinnedPosts.length > 0 %}
 <section class="homepage-section">
-	<div class="title">
-		<h2>Pinned Posts</h2>
-	</div>
+	<h2>Pinned Posts</h2>
 
 	{% set pinnedPostsSorted = collections.pinnedPosts | reverse %}
 	{% set pinnedPosts = pinnedPostsSorted.slice(0, 5) %}
@@ -31,10 +21,7 @@ layout: 'layouts/layout.html'
 	<ul>
 		{% for post in pinnedPosts %}
 			<li>
-				<a href="{{ post.url }}">
-					<span class="text">{{ post.data.title }}</span>
-					<span class="meta">{{ post.data.dateString }}</span>
-				</a>
+				<a href="{{ post.url }}">{{ post.data.title }}</a>
 			</li>
 		{% endfor %}
 	</ul>
@@ -42,10 +29,7 @@ layout: 'layouts/layout.html'
 {% endif %}
 
 <section class="homepage-section">
-	<div class="title">
-		<h2>Latest Posts</h2>
-		<a href="/blog">View More</a>
-	</div>
+	<h2>Latest Blog Posts</h2>
 
 	{% set recentPostsSorted = collections.publicPosts | reverse %}
 	{% set recentPosts = recentPostsSorted.slice(0, 5) %}
@@ -53,20 +37,14 @@ layout: 'layouts/layout.html'
 	<ul>
 		{% for post in recentPosts %}
 			<li>
-				<a href="{{ post.url }}">
-					<span class="text">{{ post.data.title }}</span>
-					<span class="meta">{{ post.data.dateString }}</span>
-				</a>
+				<a href="{{ post.url }}">{{ post.data.title }}</a>
 			</li>
 		{% endfor %}
 	</ul>
 </section>
 
 <section class="homepage-section">
-	<div class="title">
-		<h2>Latest Reading Logs</h2>
-		<a href="/reading-logs">View More</a>
-	</div>
+	<h2>Latest Reading Logs</h2>
 
 	{% set recentLogsSorted = collections.readinglog | reverse %}
 	{% set recentLogs = recentLogsSorted.slice(0, 3) %}
@@ -74,20 +52,14 @@ layout: 'layouts/layout.html'
 	<ul>
 		{% for post in recentLogs %}
 			<li>
-				<a href="{{ post.url }}">
-					<span class="text">{{ post.data.title }}</span>
-					<span class="meta">{{ post.data.dateString }}</span>
-				</a>
+				<a href="{{ post.url }}">{{ post.data.title }}</a>
 			</li>
 		{% endfor %}
 	</ul>
 </section>
 
 <section class="homepage-section">
-	<div class="title">
-		<h2>Latest Notes</h2>
-		<a href="/notes">View More</a>
-	</div>
+	<h2>Latest Notes</h2>
 
 	{% set recentNotesSorted = collections.shortnotes | reverse %}
 	{% set recentNotes = recentNotesSorted.slice(0, 5) %}
@@ -95,39 +67,27 @@ layout: 'layouts/layout.html'
 	<ul>
 		{% for note in recentNotes %}
 			<li>
-				<a href="{{ note.url }}">
-					<span class="text">{{ note.data.title }}</span>
-					<span class="meta">{{ note.data.dateString }} &bull; {{ note.data.author }}</span>
-				</a>
+				<a href="{{ note.url }}">{{ note.data.title }}</a>
 			</li>
 		{% endfor %}
 	</ul>
 </section>
 
 <section class="homepage-section">
-	<div class="title">
-		<h2>Latest Book Note</h2>
-		<a href="/book-notes">View More</a>
-	</div>
+	<h2>Latest Book Note</h2>
 
 	{% set recentBookNotesSorted = collections.booknotes | reverse %}
 	{% set bookNote = recentBookNotesSorted[0] %}
 
 	<ul>
 		<li>
-			<a href="{{ bookNote.url }}">
-				<span class="text">{{ bookNote.data.title }}</span>
-				<span class="meta">{{ bookNote.data.dateString }} &bull; {{ bookNote.data.author }}</span>
-			</a>
+			<a href="{{ bookNote.url }}">{{ bookNote.data.title }} by {{ bookNote.data.author }}</a>
 		</li>
 	</ul>
 </section>
 
 <section class="homepage-section latest-pixelfed-photos">
-	<div class="title">
-		<h2>Latest from pixelfed</h2>
-		<a href="https://pixelfed.social/users/kpwags">View More</a>
-	</div>
+	<h2>Latest from pixelfed</h2>
 
 	<div class="pixelfed-photos">
 		{% for img in pixelfed %}
@@ -136,13 +96,12 @@ layout: 'layouts/layout.html'
 			</a>
 		{% endfor %}
 	</div>
+
+	<div class="view-more"><a href="https://pixelfed.social/users/kpwags">View More</a></div>
 </section>
 
 <section class="homepage-section">
-	<div class="title">
-		<h2>Latest Links</h2>
-		<a href="/links">View More</a>
-	</div>
+	<h2>Latest Links</h2>
 
 	{% set recentLinksSorted = links %}
 	{% set recentLinks = recentLinksSorted.slice(0, 5) %}
@@ -150,10 +109,7 @@ layout: 'layouts/layout.html'
 	<ul>
 		{% for link in recentLinks %}
 			<li>
-				<a href="{{ link.url }}">
-					<span class="text">{{ link.title }}</span>
-					<span class="meta">{{ link.linkDate | readableDate }} &bull; {{ link.author }}</span>
-				</a>
+				<a href="{{ link.url }}">{{ link.title }} via {{ link.author }}</a>
 			</li>
 		{% endfor %}
 	</ul>
