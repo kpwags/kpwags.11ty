@@ -1,6 +1,6 @@
 :root {
     --font: Inconsolata, monospace;
-    --font-handwritten: caveat, cursive;
+    --font-size-base: clamp(1rem,0.96rem + 0.22vw,1.125rem);
     --width: min(80ch, 100vw - 2rem);
     --display-light-mode: inline;
     --display-dark-mode: none;

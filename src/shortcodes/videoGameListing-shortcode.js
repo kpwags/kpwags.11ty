@@ -60,7 +60,7 @@ const videoGameListingShortcode = (game) => {
 	data-completed="${getPlayedStatus(game)}"
 	data-year-completed="${game.dateCompleted ? dayjs(game.dateCompleted).format('YYYY') : '0'}"
 >
-	<div class="cover"><img src="${game.coverImageUrl}" alt="${game.title}" height="225" width="150" />${getPlayedIcon(game)}</div>
+	<div class="cover"><img src="${game.coverImageUrl}" alt="${game.title}" height="300" width="200" />${getPlayedIcon(game)}</div>
 	<div class="info">
 		<a href="${game.link}" target="_blank" rel="noreferrer">
 			${game.title}

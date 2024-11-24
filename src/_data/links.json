@@ -1,5 +1,277 @@
 [
   {
+    "linkId": 516,
+    "title": "Elon Musk has pledged to settle Mars. This book offers a reality check",
+    "url": "https://www.cnn.com/2024/11/21/science/mars-human-settlement-elon-musk/index.html",
+    "author": "Katie Hunt",
+    "linkDate": "2024-11-22T13:07:50.334Z",
+    "readingLogIssueNumber": 100,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 515,
+    "title": "Microsoft: Volume I",
+    "url": "https://www.acquired.fm/episodes/microsoft",
+    "author": "Acquired Podcast",
+    "linkDate": "2024-11-21T18:44:32.047Z",
+    "readingLogIssueNumber": 100,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 514,
+    "title": "Building Secure Software: Unveiling the Hidden Dependencies with Niels Tanis",
+    "url": "https://dotnetcore.show/season-6/building-secure-software-unveiling-the-hidden-dependencies-with-niels-tanis/",
+    "author": "The Modern .NET Show",
+    "linkDate": "2024-11-21T18:21:50.271Z",
+    "readingLogIssueNumber": 100,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 513,
+    "title": "Foundations of Design for Developers with Kathryn Grayson Nanz",
+    "url": "https://hanselminutes.com/941/foundations-of-design-for-developers-with-kathryn-grayson-nanz",
+    "author": "Hanselminutes Podcast",
+    "linkDate": "2024-11-21T18:08:25.774Z",
+    "readingLogIssueNumber": 100,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 512,
+    "title": "The promise of a miracle cure",
+    "url": "https://www.marketplace.org/shows/this-is-uncomfortable-reema-khrais/promise-of-a-miracle-cure/",
+    "author": "This is Uncomfortable",
+    "linkDate": "2024-11-21T18:07:45.614Z",
+    "readingLogIssueNumber": 100,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 510,
+    "title": "Is your master\u2019s degree useless?",
+    "url": "https://www.economist.com/international/2024/11/18/is-your-masters-degree-useless",
+    "author": "The Economist",
+    "linkDate": "2024-11-21T16:51:46.537Z",
+    "readingLogIssueNumber": 100,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 511,
+    "title": "Regulating Speech In An Age Of Fake News",
+    "url": "https://www.techdirt.com/2024/11/20/techdirt-podcast-episode-405-regulating-speech-in-an-age-of-fake-news/",
+    "author": "Techdirt Podcast",
+    "linkDate": "2024-11-21T15:19:26.934Z",
+    "readingLogIssueNumber": 100,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 509,
+    "title": "As NASA increasingly relies on commercial space, there are some troubling signs",
+    "url": "https://arstechnica.com/space/2024/11/as-nasa-increasingly-relies-on-commercial-space-there-are-some-troubling-signs/",
+    "author": "Eric Berger",
+    "linkDate": "2024-11-21T15:14:18.51Z",
+    "readingLogIssueNumber": 100,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 508,
+    "title": "DOJ says Google must sell Chrome to crack open its search monopoly",
+    "url": "https://www.theverge.com/2024/11/20/24300617/doj-google-search-antitrust-chrome-breakup",
+    "author": "Lauren Feiner",
+    "linkDate": "2024-11-21T15:01:50.18Z",
+    "readingLogIssueNumber": 100,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 507,
+    "title": "Harpercollins wants authors to sign away AI training rights",
+    "url": "https://pluralistic.net/2024/11/18/rights-without-power/#careful-what-you-wish-for",
+    "author": "Cory Doctorow",
+    "linkDate": "2024-11-21T15:01:16.406Z",
+    "readingLogIssueNumber": 100,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 506,
+    "title": "Why Responsive Design is Failing Modern Users",
+    "url": "https://webdesignerdepot.com/why-responsive-design-is-failing-modern-users/",
+    "author": "Louise North",
+    "linkDate": "2024-11-21T14:54:35.345Z",
+    "readingLogIssueNumber": 100,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 505,
+    "title": "Do Not Accept An Unscientific American",
+    "url": "https://defector.com/do-not-accept-an-unscientific-american",
+    "author": "Sabrina Imbler",
+    "linkDate": "2024-11-21T02:07:33.219Z",
+    "readingLogIssueNumber": 100,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Journalism",
+      "colorCode": "#131519"
+    }
+  },
+  {
+    "linkId": 504,
+    "title": "The Tragedy of Running an Old Node Project",
+    "url": "https://abdisalan.com/posts/tragedy-running-old-node-project/",
+    "author": "Abdisalan Mohamud",
+    "linkDate": "2024-11-20T13:58:33.143Z",
+    "readingLogIssueNumber": 100,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 503,
+    "title": "Device makers turned off buttons, but now they\u2019re back",
+    "url": "https://www.marketplace.org/2024/11/19/device-makers-turned-off-buttons-but-now-theyre-back/",
+    "author": "Sarah Leeson",
+    "linkDate": "2024-11-20T13:58:00.92Z",
+    "readingLogIssueNumber": 100,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Design",
+      "colorCode": "#0b545e"
+    }
+  },
+  {
+    "linkId": 502,
+    "title": "Don\u0027t call it a Substack.",
+    "url": "https://www.anildash.com/2024/11/19/dont-call-it-a-substack/",
+    "author": "Anil Dash",
+    "linkDate": "2024-11-20T01:43:44.918Z",
+    "readingLogIssueNumber": 100,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 501,
+    "title": "The Handmaidens of the Apocalypse",
+    "url": "https://www.dancarlin.com/product/ep-29-the-handmaidens-of-the-apocalypse/",
+    "author": "Hardcore History Addendum",
+    "linkDate": "2024-11-19T15:13:15.116Z",
+    "readingLogIssueNumber": 100,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 500,
+    "title": "An Easy Guide To BlueSky Verification",
+    "url": "https://shkspr.mobi/blog/2024/11/an-easy-guide-to-bluesky-verification/",
+    "author": "Terence Eden",
+    "linkDate": "2024-11-19T05:00:00Z",
+    "readingLogIssueNumber": 100,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
     "linkId": 499,
     "title": "The C# \u0022field\u0022 Keyword and Visual Studio Tooling",
     "url": "https://jeremybytes.blogspot.com/2024/11/the-c-field-keyword-and-visual-studio.html",

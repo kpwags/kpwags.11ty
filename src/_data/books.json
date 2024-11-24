@@ -1,50 +1,6 @@
 {
   "inProgress": [
     {
-      "bookId": 186,
-      "title": "Exit Strategy",
-      "subTitle": "",
-      "fullTitle": "Exit Strategy",
-      "author": "Martha Wells",
-      "link": "https://bookshop.org/p/books/exit-strategy-martha-wells/9861961",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/c1tbkqL5/exit-strategy.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 1727,
-      "progress": 0,
-      "sortOrder": 130,
-      "status": {
-        "name": "Reading",
-        "colorCode": "#6a208f"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "Murderbot Diaries",
-        "colorCode": "#07197c"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "eBook",
-          "colorCode": "#2c5813"
-        }
-      ]
-    },
-    {
       "bookId": 195,
       "title": "Battle Cry of Freedom: The Civil War Era",
       "subTitle": "",
@@ -59,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/TPQzxnz7/battlecry-of-freedom.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 10217,
+      "currentPage": 11560,
       "pageCount": 14436,
-      "progress": 71,
+      "progress": 80,
       "sortOrder": 163,
       "status": {
         "name": "Reading",
@@ -84,12 +40,141 @@
           "colorCode": "#2c5813"
         }
       ]
+    },
+    {
+      "bookId": 538,
+      "title": "Nuclear War",
+      "subTitle": "A Scenario",
+      "fullTitle": "Nuclear War: A Scenario",
+      "author": "Annie Jacobsen",
+      "link": "https://bookshop.org/p/books/nuclear-war-a-scenario-annie-jacobsen/20335598?ean=9780593476093",
+      "dateStarted": "2024-11-22T05:00:00Z",
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/kG7B69nz/nuclear-war-a-scenario.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 236,
+      "pageCount": 679,
+      "progress": 35,
+      "sortOrder": 175,
+      "status": {
+        "name": "Reading",
+        "colorCode": "#6a208f"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Audiobook",
+          "colorCode": "#b300b3"
+        }
+      ]
     }
   ],
   "completed": [
     {
       "year": "2024",
       "books": [
+        {
+          "bookId": 537,
+          "title": "Home",
+          "subTitle": "Habitat, Range, Niche, Territory",
+          "fullTitle": "Home: Habitat, Range, Niche, Territory",
+          "author": "Martha Wells",
+          "link": "https://us.macmillan.com/books/9781250838865/homehabitatrangenicheterritory",
+          "dateStarted": "2024-11-22T05:00:00Z",
+          "dateCompleted": "2024-11-22T05:00:00Z",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "I\u2019m not entirely sure I understand this short story. It\u2019s possible future books might provide some light on it though.",
+          "coverImageUrl": "https://i.postimg.cc/mDxMxMq2/martha-wells-home.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 197,
+          "pageCount": 197,
+          "progress": 100,
+          "sortOrder": 131,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": {
+            "name": "Murderbot Diaries",
+            "colorCode": "#07197c"
+          },
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
+        },
+        {
+          "bookId": 186,
+          "title": "Exit Strategy",
+          "subTitle": "",
+          "fullTitle": "Exit Strategy",
+          "author": "Martha Wells",
+          "link": "https://bookshop.org/p/books/exit-strategy-martha-wells/9861961",
+          "dateStarted": "2024-11-20T14:46:37.3Z",
+          "dateCompleted": "2024-11-21T05:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "Another solid book in the Murderbot series.",
+          "coverImageUrl": "https://i.postimg.cc/c1tbkqL5/exit-strategy.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 1727,
+          "pageCount": 1727,
+          "progress": 100,
+          "sortOrder": 130,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": {
+            "name": "Murderbot Diaries",
+            "colorCode": "#07197c"
+          },
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
+        },
         {
           "bookId": 187,
           "title": "Rogue Protocol",
@@ -11410,50 +11495,6 @@
     }
   ],
   "toRead": [
-    {
-      "bookId": 537,
-      "title": "Home",
-      "subTitle": "Habitat, Range, Niche, Territory",
-      "fullTitle": "Home: Habitat, Range, Niche, Territory",
-      "author": "Martha Wells",
-      "link": "https://us.macmillan.com/books/9781250838865/homehabitatrangenicheterritory",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/mDxMxMq2/martha-wells-home.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 197,
-      "progress": 1,
-      "sortOrder": 131,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "Murderbot Diaries",
-        "colorCode": "#07197c"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "eBook",
-          "colorCode": "#2c5813"
-        }
-      ]
-    },
     {
       "bookId": 185,
       "title": "Network Effect",

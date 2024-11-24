@@ -15,6 +15,7 @@ tags:
 ---
 
 My week notes for the week of October 6 through 12, 2024.
+<!-- excerpt -->
 
 ## Notes
 

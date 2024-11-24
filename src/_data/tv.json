@@ -601,8 +601,22 @@
         "name": "Personal To-Watch",
         "colorCode": "#5a5611"
       },
-      "genres": [],
-      "services": []
+      "genres": [
+        {
+          "name": "Drama",
+          "colorCode": "#481180"
+        }
+      ],
+      "services": [
+        {
+          "name": "HBO",
+          "colorCode": "#6a4bc9"
+        },
+        {
+          "name": "Hulu",
+          "colorCode": "#1cb153"
+        }
+      ]
     },
     {
       "televisionShowId": 75,
@@ -884,8 +898,8 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/sg4Dv2Mx/ellsbeth.jpg",
       "seasonEpisodeCount": 16,
-      "currentSeasonEpisode": 10,
-      "progress": 63,
+      "currentSeasonEpisode": 14,
+      "progress": 88,
       "sortOrder": null,
       "status": {
         "name": "Watching",
@@ -934,8 +948,8 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/KzkqStqt/lowerdecks.jpg",
       "seasonEpisodeCount": 50,
-      "currentSeasonEpisode": 45,
-      "progress": 90,
+      "currentSeasonEpisode": 46,
+      "progress": 92,
       "sortOrder": null,
       "status": {
         "name": "Watching",

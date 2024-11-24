@@ -15,24 +15,25 @@
 	{% include "header.html" %}
 	<main>
 		<article class="book-note">
+			{% if subtitle.length > 0 %}
+			<h1>{{ title }}: {{ subtitle }}</h1>
+			{% else %}
+			<h1>{{ title }}</h1>
+			{% endif %}
+				
+			<div class="author">by {{ author }}</div>
+
 			<div class="book-note-card">
 				<div class="content">
 					<div class="image">
 						<img src="{{ coverImage }}" alt="{{ author }} - {{ title }}" />
 					</div>
 					<div class="info">
-						{% if subtitle.length > 0 %}
-						<h2>{{ title }}: {{ subtitle }}</h2>
-						{% else %}
-						<h2>{{ title }}</h2>
-						{% endif %}
-						<div class="author">by {{ author }}</div>
-
-						<div class="finished-reading"><strong>Finished</strong>: {{ dateString }}</div>
-
 						<div class="book-rating">
 							{% starRating rating "lg" %}
 						</div>
+
+						<div class="finished-reading"><strong>Finished</strong>: {{ dateString }}</div>
 
 						<div class="categories">
 							{% for category in categories %}
