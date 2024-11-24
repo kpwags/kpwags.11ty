@@ -3,14 +3,8 @@ layout: "layouts/wide-layout.html"
 title: "Music Collection"
 ---
 
-<main class="media-container">
-	<h1>Music Collection</h1>
-
-	<p class="large">I've amassed a fairly large music collection of various tastes over the years.</p>
-
-	<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
-
-	<section class="filters site-card">
+<main class="media-page with-sidebar">
+	<aside class="filters">
 		<legend>Filters</legend>
 		<div class="filter-list">
 			<label for="all">
@@ -21,6 +15,9 @@ title: "Music Collection"
 				<input type="radio" id="top10" name="musicFilters" />
 				My Top 10
 			</label>
+		</div>
+		<div class="filter-list">
+			<div class="filter-type">Format</div>
 			<label for="vinyl">
 				<input type="radio" id="vinyl" name="musicFilters" />
 				Vinyl
@@ -33,6 +30,9 @@ title: "Music Collection"
 				<input type="radio" id="digital" name="musicFilters" />
 				Digital
 			</label>
+		</div>
+		<div class="filter-list">
+			<div class="filter-type">Genre</div>
 			<label for="alternative">
 				<input type="radio" id="alternative" name="musicFilters" />
 				Alternative
@@ -70,13 +70,20 @@ title: "Music Collection"
 				Soundtrack
 			</label>
 		</div>
-	</section>
+	</aside>
+	<div class="grid-container">
+		<h1>Music Collection</h1>
 
-	<div class="grid-section music">
-		<div class="media-grid">
-			{% for album in music %}
-			{% musicListing album %}
-			{% endfor %}
+		<p class="large">I've amassed a fairly large music collection of various tastes over the years.</p>
+
+		<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
+
+		<div class="grid-section music">
+			<div class="media-grid">
+				{% for album in music %}
+				{% musicListing album %}
+				{% endfor %}
+			</div>
 		</div>
 	</div>
 </main>

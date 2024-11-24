@@ -1,4 +1,4 @@
-<article class="project site-card">
+<article class="project">
 	<h2 @html="title"></h2>
 	<div class="status">Status: <span @html="status"></span></div>
 	<div class="image">

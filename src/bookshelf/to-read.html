@@ -10,15 +10,13 @@ title: "Bookshelf - To Read"
 
 	<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
 
-	<div class="site-card">
-		<ul class="books-to-read">
-			{% for book in books.toRead %}
-			<li>
-				<a href="{{ book.link }}">{{ book.fullTitle }}</a> by {{ book.author }}
-			</li>
-			{% endfor %}
-		</ul>
+	<ul class="books-to-read">
+		{% for book in books.toRead %}
+		<li>
+			<a href="{{ book.link }}">{{ book.fullTitle }}</a> by {{ book.author }}
+		</li>
+		{% endfor %}
+	</ul>
 
-		<div class="books-to-read-count"><span>Books To Read Count:</span> {{ books.toRead.length }}</div>
-	</div>
+	<div class="books-to-read-count"><span>Books To Read Count:</span> {{ books.toRead.length }}</div>
 </main>

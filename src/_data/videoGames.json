@@ -1,14 +1,14 @@
 {
   "inProgress": [
     {
-      "videoGameId": 56,
-      "title": "The Last of Us, Part II",
-      "link": "https://www.playstation.com/en-us/games/the-last-of-us-part-ii-remastered/",
-      "dateStarted": "2024-11-08T05:00:00Z",
+      "videoGameId": 36,
+      "title": "God of War",
+      "link": "https://www.playstation.com/en-us/god-of-war/",
+      "dateStarted": null,
       "dateCompleted": null,
       "rating": 0,
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/4y1kTScR/last-of-us-2.jpg",
+      "coverImageUrl": "https://i.postimg.cc/wTFG8Zxs/god-of-war.jpg",
       "sortOrder": 1,
       "status": {
         "name": "In Progress",
@@ -18,10 +18,6 @@
         {
           "name": "Adventure",
           "colorCode": "#50518b"
-        },
-        {
-          "name": "Third Person Shooter",
-          "colorCode": "#8c1e8b"
         }
       ],
       "systems": [
@@ -87,6 +83,37 @@
     }
   ],
   "completed": [
+    {
+      "videoGameId": 56,
+      "title": "The Last of Us, Part II",
+      "link": "https://www.playstation.com/en-us/games/the-last-of-us-part-ii-remastered/",
+      "dateStarted": "2024-11-08T05:00:00Z",
+      "dateCompleted": "2024-11-23T05:00:00Z",
+      "rating": 5,
+      "thoughts": "I liked the gameplay a little better in this game compared to the first. The story continued to be captivating as well.",
+      "coverImageUrl": "https://i.postimg.cc/4y1kTScR/last-of-us-2.jpg",
+      "sortOrder": 1,
+      "status": {
+        "name": "Completed",
+        "colorCode": "#08824e"
+      },
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
     {
       "videoGameId": 5,
       "title": "Super Mario RPG",
@@ -1253,6 +1280,33 @@
       ]
     },
     {
+      "videoGameId": 29,
+      "title": "God of War: Ragnarok",
+      "link": "https://www.playstation.com/en-us/games/god-of-war-ragnarok/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 2,
+      "status": {
+        "name": "To Play",
+        "colorCode": "#243391"
+      },
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
       "videoGameId": 7,
       "title": "Breath of the Wild",
       "link": "https://zelda.nintendo.com/breath-of-the-wild/",
@@ -1315,14 +1369,14 @@
       ]
     },
     {
-      "videoGameId": 36,
-      "title": "God of War",
-      "link": "https://www.playstation.com/en-us/god-of-war/",
+      "videoGameId": 20,
+      "title": "Farcry 5",
+      "link": "https://www.ubisoft.com/en-us/game/far-cry/far-cry-5",
       "dateStarted": null,
       "dateCompleted": null,
       "rating": 0,
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/wTFG8Zxs/god-of-war.jpg",
+      "coverImageUrl": "",
       "sortOrder": 5,
       "status": {
         "name": "To Play",
@@ -1330,21 +1384,25 @@
       },
       "genres": [
         {
-          "name": "Adventure",
-          "colorCode": "#50518b"
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
         }
       ],
       "systems": [
         {
-          "name": "PlayStation",
-          "colorCode": "#191f77"
+          "name": "Xbox",
+          "colorCode": "#1b903f"
         }
       ]
     },
     {
-      "videoGameId": 29,
-      "title": "God of War: Ragnarok",
-      "link": "https://www.playstation.com/en-us/games/god-of-war-ragnarok/",
+      "videoGameId": 60,
+      "title": "Dragon Age: Origins",
+      "link": "https://www.ea.com/games/dragon-age/dragon-age-origins",
       "dateStarted": null,
       "dateCompleted": null,
       "rating": 0,
@@ -1357,14 +1415,14 @@
       },
       "genres": [
         {
-          "name": "Adventure",
-          "colorCode": "#50518b"
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
         }
       ],
       "systems": [
         {
-          "name": "PlayStation",
-          "colorCode": "#191f77"
+          "name": "PC",
+          "colorCode": "#4f1e57"
         }
       ]
     },
@@ -1397,37 +1455,6 @@
           "name": "PC",
           "colorCode": "#4f1e57"
         },
-        {
-          "name": "Xbox",
-          "colorCode": "#1b903f"
-        }
-      ]
-    },
-    {
-      "videoGameId": 20,
-      "title": "Farcry 5",
-      "link": "https://www.ubisoft.com/en-us/game/far-cry/far-cry-5",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "sortOrder": 8,
-      "status": {
-        "name": "To Play",
-        "colorCode": "#243391"
-      },
-      "genres": [
-        {
-          "name": "First Person Shooter",
-          "colorCode": "#158a87"
-        },
-        {
-          "name": "Open World",
-          "colorCode": "#cf394d"
-        }
-      ],
-      "systems": [
         {
           "name": "Xbox",
           "colorCode": "#1b903f"

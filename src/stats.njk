@@ -13,7 +13,7 @@ eleventyImport: {
 
 	{% set stats = collections.stats %}
 
-	<section class="site-card chart">
+	<section class="chart">
 		<h2>Overall Stats</h2>
 		<div class="stats-table">
 			<div class="stat-row">
@@ -39,7 +39,9 @@ eleventyImport: {
 		</div>
 	</section>
 
-	<section class="site-card chart">
+	<hr />
+
+	<section class="chart">
 		<h2>Posts Per Year</h2>
 		{% for year in stats.postsByYear %}
 			<div class="stats-chart">
@@ -54,7 +56,7 @@ eleventyImport: {
 
 	<hr />
 
-	<section class="site-card chart">
+	<section class="chart">
 		<h2>Most Popular Tags</h2>
 		{% for tag in stats.popularTags %}
 			<div class="stats-chart tags">

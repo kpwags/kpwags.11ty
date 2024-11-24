@@ -11,7 +11,7 @@ pagination:
     <h1>Blog</h1>
 
     {% for post in pagination.items %}
-    {% blogPost post %}
+    {% blogPost post "blogpost" %}
     {% endfor %}
 
     <section class="pagination">
