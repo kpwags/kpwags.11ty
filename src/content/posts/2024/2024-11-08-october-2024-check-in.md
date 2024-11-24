@@ -3,7 +3,6 @@ title: "October 2024 Check-In"
 date: '2024-11-08T00:27:43.215Z'
 permalink: /posts/2024/11/08/october-2024-check-in/index.html
 description: "Looking back at this past October."
-pinned: true
 tags:
   - Monthly Check-In
   - Travel

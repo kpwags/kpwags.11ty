@@ -1,0 +1,58 @@
+---
+title: "Week Notes for November 17 - 23"
+date: '2024-11-24T20:48:49.717Z'
+permalink: /posts/2024/11/24/week-notes/index.html
+description: "My week notes for the week of November 17 - November 23."
+tags:
+  - Week Notes
+  - Hockey
+  - Audiobooks
+  - Video Games
+  - The Last of Us
+  - Personal Sites
+---
+
+My week notes for the week of November 17 - November 23.
+<!-- excerpt -->
+
+## Notes
+
+### Back-to-Back Hockey Nights
+
+Sunday and Monday I had hockey games. One for the team I captain. We played hard and walked away with a 3-3 tie. The second game Monday was another goalie battle that I unfortunately was on the losing side, losing 2-1. Team played well, just couldn't manage to squeak one more by to tie it up.
+
+Oddly enough, I was invited to sub for another team I occasionally play on Tuesday night as well. I really wanted to, but I was gassed. I ended up going to bed an hour early. Back-to-back late nights are getting harder as I get older.
+
+### Started an Audiobook, for the First Time in Forever
+
+Back in high school and early college, I tried audiobooks and they just never took. I much preferred paper books and now eBooks as well. There's something about being able to page back and easily re-read lines or paragraphs as needed.
+
+Cut to this week and I've stuck with that preference. But after listening to a Hardcore History Addendum podcast, I found a book by the author being interviewed as one to add to my reading list. Sure enough my local library had it via Libby. The library had it as both an audiobook and as an eBook. Both were already loaned and I decided to place holds on both. As it turns out, the audiobook became quickly available to borrow, so guess what, I'm giving the audiobook version a try.
+
+I'm now about 35% through it and I don't hate it. I have to be selective as to when I listen because I really need to focus on it, so I've been listening to it while lifting, walking, and running. I definitely prefer reading books over listening to them, but it's nice to know that I can do audiobooks if that's how I can get them from the library.
+
+For reference, the book is called [*Nuclear War: A Scenario*](https://bookshop.org/p/books/nuclear-war-a-scenario-annie-jacobsen/20335598?ean=9780593476093) by Annie Jacobsen. It provides an interesting, and scary look at how a Nuclear War might start and the machinations behind the US Government's war plans.
+
+### Finished The Last of Us, Part II
+
+Saturday I finished *The Last of Us, Part II*. I think I liked it better than the first in terms of gameplay. The story for both were phenomenal and am planning on starting the TV show soon. I'd highly recommend the games to anyone.
+
+### Tweaking My Site Design
+
+Over the week, I've been tweaking the look and feel of my site again, because of course I am.
+
+## Interesting Links
+
+{% renderTemplate "webc" %}
+<shared-link title="Microsoft Volume I" url="https://www.acquired.fm/episodes/microsoft" author="Acquired Podcast">
+This was a great podcast episode talking about the founding and creation of Microsoft up through the mid-1990s. It's incredible how much history I just didn't know.
+</shared-link>
+
+<shared-link title="The Handmaidens of the Apocalypse" url="https://www.dancarlin.com/product/ep-29-the-handmaidens-of-the-apocalypse/" author="Hardcore History Addendum">
+This was a fascinating interview with Annie Jacobsen about her book *Nuclear War: A Scenario*.
+</shared-link>
+
+<shared-link title="Don't Call it a Substack" url="https://www.anildash.com/2024/11/19/dont-call-it-a-substack/" author="Anil Dash">
+Some good insight about the troublesome platform.
+</shared-link>
+{% endrenderTemplate %}

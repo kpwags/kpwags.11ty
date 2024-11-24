@@ -109,7 +109,7 @@ layout: 'layouts/layout.html'
 	<ul>
 		{% for link in recentLinks %}
 			<li>
-				<a href="{{ link.url }}">{{ link.title }} via {{ link.author }}</a>
+				<a href="{{ link.url }}">{{ link.title }} ({{ link.author }})</a>
 			</li>
 		{% endfor %}
 	</ul>
