@@ -25,7 +25,7 @@ main {
 hr {
     width: 250px;
     margin: 40px auto;
-    border-bottom: 1px solid var(border-color);
+    border-bottom: 1px solid var(--border-color);
     background-color: transparent;
 }
 
@@ -1350,23 +1350,32 @@ article.post .excerpt {
     line-height: 2;
 }
 
-article.post.reading-log-page h2,
-article.post.reading-log-page h3 {
-    color: var(--text);
-}
-
 article.post.reading-log-page h2.old {
     font-size: 2rem;
     margin: 20px 0 40px 0;
     color: var(--primary-color-1);
 }
 
+article.post.reading-log-page ul {
+    margin-top: 32px;
+}
+
 article.post.reading-log-page h3.music,
 article.post.reading-log-page h4 {
     color: var(--primary-color-1);
     margin: 32px 0 8px;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     font-weight: 400;
+}
+
+article.post.reading-log-page .body a {
+color: var(--text);
+    text-decoration-color: var(--primary-color-1);
+    text-underline-offset: 3px;
+}
+
+article.post.reading-log-page .body a:hover {
+    color: var(--primary-color-1);
 }
 
 article.post.reading-log-page .in-depth-notes {
@@ -1481,8 +1490,6 @@ article.blog-post-page .shared-link:first-of-type {
 article.blog-post-page .shared-link {
     margin-bottom: 24px;
 }
-
-
 
 article.blog-post-page .shared-link h3 {
     font-size: 1.4rem;
