@@ -1,0 +1,45 @@
+---
+title: "Week Notes for November 24 - 30"
+date: '2024-12-01T19:13:41.265Z'
+permalink: /posts/2024/12/01/week-notes/index.html
+description: "My week notes for the week of November 24 - November 30."
+tags:
+  - Week Notes
+  - Wags Media Repository
+  - Web Components
+  - Thanksgiving
+  - Whiskey
+---
+
+My week notes for the week of November 24 - November 30.
+<!-- excerpt -->
+
+## Notes
+
+### Progress on my Media Repository Rewrite
+
+I finally was able to break through a few of my hurdles with my repository rewrite.
+
+One hurdle was how to handle a multiselect control. The `<select>` control supports multiple selection but I can't say I'm a fan of the look and feel of it. It feels clunky. I was looking for a good alternative and couldn't find one that fit what I was looking for. So many of them were built for jQuery and React, neither of which I have or want in this next version. In the meantime, I just kicked the can down the road and stuck with the built-in control for the time being. It works and I should be able to put something in later.
+
+The other hurdle was getting my star rating input control working cleanly in actual form. My star rating control is one of the first real web components I'm trying out, so there was definitely a bit of a learning curve for it.
+
+### Short Work Week
+
+With Thanksgiving this week, it was a short three day work week. We're finally on the final stretch of the project I've been working on and we're still finding small pieces we need to account for. I'm looking forward to seeing it out and getting it out and deployed.
+
+### Thanksgiving
+
+My wife and I hosted Thanksgiving this year having her immediate family over. I think it went well. We had some delicious food and I was able to make sure there was something other than turkey for myself. I'm just not a turkey fan, so I made a slow cooker brisket. It turned out amazing.
+
+### Black Friday Tradition Continues
+
+For the last several years, my wife and I have had the tradition of going to [Bluebird Distilling](https://www.bluebirddistilling.com) in Phoenixville every Black Friday. For reference, they have a whiskey release every year on Black Friday. This year it was a new variation of their Sportsman Bourbon Whiskey and two other new whiskeys. We bought a few bottles and stayed for a special cocktail.
+
+## Interesting Links
+
+{% renderTemplate "webc" %}
+<shared-link title="Why Is It So Hard to Go Back to the Moon?" url="https://www.scientificamerican.com/article/why-is-it-so-much-harder-for-nasa-to-send-people-to-the-moon-now-than-it-was-during-the-apollo-era/" author="Sarah Scoles">
+This is an interesting look at some of the challenges NASA is facing with the Artemis lunar program. Some of it is self-inflicted, some is caused by congress, and others is just a change in public perception and tolerances. It's worth a read.
+</shared-link>
+{% endrenderTemplate %}

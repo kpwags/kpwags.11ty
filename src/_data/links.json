@@ -1,5 +1,133 @@
 [
   {
+    "linkId": 525,
+    "title": "Why Is It So Hard to Go Back to the Moon?",
+    "url": "https://www.scientificamerican.com/article/why-is-it-so-much-harder-for-nasa-to-send-people-to-the-moon-now-than-it-was-during-the-apollo-era/",
+    "author": "Sarah Scoles",
+    "linkDate": "2024-11-28T21:02:23.899Z",
+    "readingLogIssueNumber": 101,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 524,
+    "title": "Alpine.js for home-cooked apps",
+    "url": "https://blakewatson.com/journal/alpinejs-for-home-cooked-apps/",
+    "author": "Blake Watson",
+    "linkDate": "2024-11-28T13:25:21.285Z",
+    "readingLogIssueNumber": 101,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 523,
+    "title": "Murderbot, She Wrote",
+    "url": "https://www.wired.com/story/murderbot-she-wrote-martha-wells/",
+    "author": "Meghan Herbst",
+    "linkDate": "2024-11-27T02:17:05.628Z",
+    "readingLogIssueNumber": 101,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Media \u0026 Entertainment",
+      "colorCode": "#7949a8"
+    }
+  },
+  {
+    "linkId": 522,
+    "title": "NASA is stacking the Artemis II rocket, implying a simple heat shield fix",
+    "url": "https://arstechnica.com/space/2024/11/nasa-begins-assembling-rocket-to-send-astronauts-around-far-side-of-the-moon/",
+    "author": "Stephen Clark",
+    "linkDate": "2024-11-26T20:28:12.902Z",
+    "readingLogIssueNumber": 101,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 521,
+    "title": "Antifragility in Software with Barry O\u0027Reilly",
+    "url": "https://www.dotnetrocks.com/details/1896",
+    "author": ".NET Rocks",
+    "linkDate": "2024-11-26T18:39:33.465Z",
+    "readingLogIssueNumber": 101,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 520,
+    "title": "Musk Says He Wants to Save the Planet. Tesla\u2019s Factories Are Making It Dirtier.",
+    "url": "https://www.wsj.com/business/autos/elon-musk-tesla-environment-1263cd60",
+    "author": "Susan Pulliam, Emily Glazer \u0026 Becky Peterson",
+    "linkDate": "2024-11-26T14:56:10.69Z",
+    "readingLogIssueNumber": 101,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 519,
+    "title": "Innovation in Accessibility with Fable\u0027s Kate Kalcevich",
+    "url": "https://hanselminutes.com/942/innovation-in-accessibility-with-fables-kate-kalcevich",
+    "author": "Hanselminutes Podcast",
+    "linkDate": "2024-11-26T12:59:00.615Z",
+    "readingLogIssueNumber": 101,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 518,
+    "title": "Print magazines are having a moment, but who\u2019s buying them?",
+    "url": "https://www.marketplace.org/2024/11/25/print-magazines-editorial-advertisments-mail-printing/",
+    "author": "Amy Scott \u0026 Sofia Terenzio",
+    "linkDate": "2024-11-26T05:00:00Z",
+    "readingLogIssueNumber": 101,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
     "linkId": 517,
     "title": "Title insurance, title pirates, and a house built on someone else\u0027s land.",
     "url": "https://www.npr.org/2024/11/22/1214662577/title-pirate-insurance-kenigsberg-leto-fairfield",
