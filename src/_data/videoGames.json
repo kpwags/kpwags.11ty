@@ -4,7 +4,7 @@
       "videoGameId": 36,
       "title": "God of War",
       "link": "https://www.playstation.com/en-us/god-of-war/",
-      "dateStarted": null,
+      "dateStarted": "2024-11-28T18:49:16.5Z",
       "dateCompleted": null,
       "rating": 0,
       "thoughts": "",
@@ -18,6 +18,10 @@
         {
           "name": "Adventure",
           "colorCode": "#50518b"
+        },
+        {
+          "name": "Hack and Slash",
+          "colorCode": "#a30d42"
         }
       ],
       "systems": [
