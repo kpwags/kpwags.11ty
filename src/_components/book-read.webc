@@ -1,62 +1,53 @@
 <div class="book-read">
-	<div class="book-image">
-		<img :src="src" :alt="title + ' by ' + author" />
-	</div>
-	<div class="description">
-		<h2 slot="title">
-			<a :href="link" target="_blank" rel="noreferrer" title="Buy on bookshop.org" @html="title"></a>
-		</h2>
-		<h3 @html="subtitle"></h3>
-		<p class="meta">by <span @html="author"></span></p>
-		<div class="thoughts">
-			<slot name="content"></slot>
+	<h3 slot="title">
+		<a :href="link" target="_blank" rel="noreferrer" title="Buy on bookshop.org" @html="title"></a>
+	</h3>
+	<p class="meta">by <span @html="author"></span></p>
+	<div class="details">
+		<div class="book-image">
+			<img :src="src" :alt="title + ' by ' + author" />
+		</div>
+		<div class="description">
+			<div class="thoughts">
+				<slot name="content"></slot>
+			</div>
 		</div>
 	</div>
 </div>
 
 <style webc:keep>
 	.book-read {
+		margin: 32px 0;
+	}
+
+	.book-read .details {
 		display: grid;
-		margin: 25px 0;
 		grid-template-columns: 1fr 3fr;
 		grid-column-gap: 48px;
 	}
 
-	.book-read .description h2 {
-		font-size: 2rem;
-		margin-top: 0;
+	.book-read h3 {
+		margin: 0;
 		padding-top: 0;
 	}
 
-	.book-read .description h2 a {
+	.book-read h3 a {
 		color: var(--primary-color-1);
 		text-decoration: none;
 	}
 
-	.book-read .description h2 a:hover {
+	.book-read h3 a:hover {
 		color: var(--primary-color-2);
 		text-decoration: underline;
 	}
 
-	.book-read .description h3 {
+	.book-read p.meta {
 		font-weight: 500;
-		margin: 8px 0;
-		font-size: 1.5rem;
-		color: var(--meta);
-	}
-
-	.book-read .description h3:empty {
-		margin: 0;
-		height: 0;
-	}
-
-	.book-read .description p.meta {
-		font-weight: 500;
-		margin-bottom: 8px;
+		margin: 0 0 16px 0;
 	}
 
 	@media all and (max-width: 767px) {
-		.book-read {
+		.book-read .details {
 			display: block;
 		}
 

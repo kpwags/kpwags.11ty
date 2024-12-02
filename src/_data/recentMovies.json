@@ -1,5 +1,31 @@
 [
   {
+    "movieId": 158,
+    "title": "American Gangster",
+    "imdbLink": "https://www.imdb.com/title/tt0765429/",
+    "dateWatched": "2024-12-01T22:58:35.7Z",
+    "sortOrder": null,
+    "rating": 3,
+    "thoughts": "It was an enjoyable movie. Good characters and a good plot. Felt a little dragged out at times though.",
+    "posterImageUrl": "https://i.postimg.cc/K8jYfRDW/american-gangster.jpg",
+    "status": {
+      "name": "Watched",
+      "colorCode": "#2a9a39"
+    },
+    "genres": [
+      {
+        "name": "Drama",
+        "colorCode": "#481180"
+      }
+    ],
+    "services": [
+      {
+        "name": "Netflix",
+        "colorCode": "#c71212"
+      }
+    ]
+  },
+  {
     "movieId": 126,
     "title": "Dune: Part One",
     "imdbLink": "https://www.imdb.com/title/tt1160419/",
