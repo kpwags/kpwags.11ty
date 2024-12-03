@@ -40,7 +40,7 @@ h2 {
     font-weight: 400;
     font-size: 2.4rem;
     color: var(--primary-color-1);
-    margin: 0 0 24px 0;
+    margin: 24px 0;
     padding: 0;
 }
 
@@ -48,7 +48,7 @@ h3 {
     font-size: 2rem;
     color: var(--primary-color-1);
     font-weight: 500;
-    margin: 0 0 16px 0;
+    margin: 20px 0;
     padding: 0;
 }
 
@@ -56,19 +56,19 @@ h4 {
     font-size: 1.6rem;
     font-weight: 400;
     color: var(--primary-color-3);
-    margin: 0 0 12px 0;
+    margin: 12px 0;
 }
 
 h5 {
     font-size: 1.4rem;
     font-weight: 400;
-    margin: 0 0 12px 0;
+    margin: 12px 0;
 }
 
 h6 {
     font-size: 1.25rem;
     font-weight: 400;
-    margin: 0 0 12px 0;
+    margin: 12px 0;
 }
 
 :is(h1,h2,h3,h4,h5,h6) {
@@ -1532,6 +1532,7 @@ article.note blockquote ol,
 article.post blockquote ol,
 article.book-note blockquote ol {
     padding-left: 16px;
+    margin: 16px 0;
 }
 
 article.note img,
@@ -1565,6 +1566,15 @@ article.post h2+h3,
 article.note h2+h3,
 article.book-note h2+h3 {
     margin-top: 32px;
+}
+
+article.note ul,
+article.post ul,
+article.book-note ul,
+article.note ol,
+article.post ol,
+article.book-note ol {
+    margin: 16px 0;
 }
 
 .titled-horizontal-list {
