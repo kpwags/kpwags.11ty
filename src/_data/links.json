@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 526,
+    "title": "Company claims 1,000 percent price hike drove it from VMware to open source rival",
+    "url": "https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/",
+    "author": "Scharon Harding",
+    "linkDate": "2024-12-03T13:00:53.866Z",
+    "readingLogIssueNumber": 102,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
     "linkId": 525,
     "title": "Why Is It So Hard to Go Back to the Moon?",
     "url": "https://www.scientificamerican.com/article/why-is-it-so-much-harder-for-nasa-to-send-people-to-the-moon-now-than-it-was-during-the-apollo-era/",

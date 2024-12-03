@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/RVCx23nM/the-book-of-accidents.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 92,
+      "currentPage": 145,
       "pageCount": 525,
-      "progress": 18,
+      "progress": 28,
       "sortOrder": 163,
       "status": {
         "name": "Reading",
@@ -89,8 +89,8 @@
       "books": [
         {
           "bookId": 195,
-          "title": "Battle Cry of Freedom: The Civil War Era",
-          "subTitle": "",
+          "title": "Battle Cry of Freedom",
+          "subTitle": "The Civil War Era",
           "fullTitle": "Battle Cry of Freedom: The Civil War Era",
           "author": "James M. McPherson",
           "link": "https://bookshop.org/p/books/battle-cry-of-freedom-the-civil-war-era-james-m-mcpherson/7413205?ean=9780195168952",
@@ -422,8 +422,8 @@
         },
         {
           "bookId": 476,
-          "title": "The Good Neighbor: The Life and Work of Fred Rogers",
-          "subTitle": "",
+          "title": "The Good Neighbor",
+          "subTitle": "The Life and Work of Fred Rogers",
           "fullTitle": "The Good Neighbor: The Life and Work of Fred Rogers",
           "author": "Maxwell King",
           "link": "https://bookshop.org/books/the-good-neighbor-the-life-and-work-of-fred-rogers-9781419735165/9781419735165",
