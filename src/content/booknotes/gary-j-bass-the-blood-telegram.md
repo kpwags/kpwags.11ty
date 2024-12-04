@@ -1,10 +1,12 @@
 ---
 title: "The Blood Telegram"
 subtitle: "Nixon, Kissinger, and a Forgotten Genocide"
+fullTitle: "The Blood Telegram: Nixon, Kissinger, and a Forgotten Genocide"
 author: "Gary J. Bass"
 coverImage: https://i.postimg.cc/zGN4M6fY/the-blood-telegram.jpg
 rating: 3
 date: '2024-08-06'
+format: 'Hardcover'
 permalink: /books/gary-j-bass-the-blood-telegram/index.html
 categories:
   - History

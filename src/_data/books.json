@@ -1,6 +1,50 @@
 {
   "inProgress": [
     {
+      "bookId": 185,
+      "title": "Network Effect",
+      "subTitle": "",
+      "fullTitle": "Network Effect",
+      "author": "Martha Wells",
+      "link": "https://bookshop.org/p/books/network-effect-a-murderbot-novel-martha-wells/13296841",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/PJDVCD7k/network-effect.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 5426,
+      "progress": 0,
+      "sortOrder": 140,
+      "status": {
+        "name": "Reading",
+        "colorCode": "#6a208f"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "Murderbot Diaries",
+        "colorCode": "#07197c"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
       "bookId": 527,
       "title": "The Book of Accidents",
       "subTitle": "",
@@ -15,9 +59,9 @@
       "coverImageUrl": "https://i.postimg.cc/RVCx23nM/the-book-of-accidents.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 145,
+      "currentPage": 205,
       "pageCount": 525,
-      "progress": 28,
+      "progress": 39,
       "sortOrder": 163,
       "status": {
         "name": "Reading",
@@ -40,53 +84,57 @@
           "colorCode": "#cd6a29"
         }
       ]
-    },
-    {
-      "bookId": 538,
-      "title": "Nuclear War",
-      "subTitle": "A Scenario",
-      "fullTitle": "Nuclear War: A Scenario",
-      "author": "Annie Jacobsen",
-      "link": "https://bookshop.org/p/books/nuclear-war-a-scenario-annie-jacobsen/20335598?ean=9780593476093",
-      "dateStarted": "2024-11-22T05:00:00Z",
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/kG7B69nz/nuclear-war-a-scenario.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 589,
-      "pageCount": 679,
-      "progress": 87,
-      "sortOrder": 175,
-      "status": {
-        "name": "Reading",
-        "colorCode": "#6a208f"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "History",
-          "colorCode": "rgb(4, 38, 142)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Audiobook",
-          "colorCode": "#b300b3"
-        }
-      ]
     }
   ],
   "completed": [
     {
       "year": "2024",
       "books": [
+        {
+          "bookId": 538,
+          "title": "Nuclear War",
+          "subTitle": "A Scenario",
+          "fullTitle": "Nuclear War: A Scenario",
+          "author": "Annie Jacobsen",
+          "link": "https://bookshop.org/p/books/nuclear-war-a-scenario-annie-jacobsen/20335598?ean=9780593476093",
+          "dateStarted": "2024-11-22T05:00:00Z",
+          "dateCompleted": "2024-12-03T05:00:00Z",
+          "rating": 5,
+          "bookNotesUrl": "",
+          "thoughts": "This was a scary read. It was incredibly fascinating to see how nuclear war might play out in the real world and how awful it is and how you just can\u0027t win. I\u0027d recommend it.",
+          "coverImageUrl": "https://i.postimg.cc/kG7B69nz/nuclear-war-a-scenario.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 679,
+          "pageCount": 679,
+          "progress": 100,
+          "sortOrder": 175,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            },
+            {
+              "name": "Speculative Fiction",
+              "colorCode": "rgb(182, 112, 112)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Audiobook",
+              "colorCode": "#b300b3"
+            }
+          ]
+        },
         {
           "bookId": 195,
           "title": "Battle Cry of Freedom",
@@ -11531,50 +11579,6 @@
     }
   ],
   "toRead": [
-    {
-      "bookId": 185,
-      "title": "Network Effect",
-      "subTitle": "",
-      "fullTitle": "Network Effect",
-      "author": "Martha Wells",
-      "link": "https://bookshop.org/p/books/network-effect-a-murderbot-novel-martha-wells/13296841",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/PJDVCD7k/network-effect.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 140,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "Murderbot Diaries",
-        "colorCode": "#07197c"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "eBook",
-          "colorCode": "#2c5813"
-        }
-      ]
-    },
     {
       "bookId": 184,
       "title": "Fugitive Telemetry",

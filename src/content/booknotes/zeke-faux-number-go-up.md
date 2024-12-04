@@ -1,6 +1,7 @@
 ---
 title: "Number Go Up"
 subtitle: "Inside Crypto's Wild Rise and Staggering Fall"
+fullTitle: "Number Go Up: Inside Crypto's Wild Rise and Staggering Fall"
 author: 'Zeke Faux'
 categories:
   - Technology
@@ -12,6 +13,7 @@ purchaseLinks: [
 ]
 coverImage: 'https://i.postimg.cc/43hVfhMb/number-go-up.jpg'
 date: '2023-10-24'
+format: 'eBook'
 rating: 4
 permalink: /books/zeke-faux-number-go-up/index.html
 ---

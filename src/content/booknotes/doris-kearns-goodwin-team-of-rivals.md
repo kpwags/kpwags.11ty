@@ -1,6 +1,7 @@
 ---
 title: 'Team of Rivals'
 subtitle: 'The Political Genius of Abraham Lincoln'
+fullTitle: 'Team of Rivals: The Political Genius of Abraham Lincoln'
 author: 'Doris Kearns Goodwin'
 categories:
   - History
@@ -8,6 +9,7 @@ categories:
 purchaseLinks: [
     { title: 'Bookshop.org', url: 'https://bookshop.org/p/books/team-of-rivals-the-political-genius-of-abraham-lincoln-doris-kearns-goodwin/586230?ean=9780743270755' }
 ]
+format: 'Hardcover'
 coverImage: 'https://i.postimg.cc/xTsF7bDf/team-of-rivals.jpg'
 date: '2023-10-13'
 rating: 5

@@ -15,11 +15,7 @@
 	{% include "header.html" %}
 	<main>
 		<article class="book-note">
-			{% if subtitle.length > 0 %}
-			<h1>{{ title }}: {{ subtitle }}</h1>
-			{% else %}
-			<h1>{{ title }}</h1>
-			{% endif %}
+			<h1>{{ fullTitle }}</h1>
 				
 			<div class="author">by {{ author }}</div>
 
@@ -32,6 +28,8 @@
 						<div class="book-rating">
 							{% starRating rating "lg" %}
 						</div>
+
+						<div class="finished-reading"><strong>Format</strong>: {{ format }}</div>
 
 						<div class="finished-reading"><strong>Finished</strong>: {{ dateString }}</div>
 

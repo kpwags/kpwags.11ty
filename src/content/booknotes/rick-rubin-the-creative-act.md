@@ -1,6 +1,7 @@
 ---
 title: 'The Creative ACT'
 subtitle: 'A Way of Being'
+fullTitle: 'The Creative ACT: A Way of Being'
 author: 'Rick Rubin'
 categories:
   - Creativity
@@ -11,6 +12,7 @@ purchaseLinks: [
 ]
 coverImage: 'https://i.postimg.cc/14xF3Q0H/the-creative-act.jpg'
 date: '2023-11-16'
+format: 'Hardcover'
 rating: 4
 permalink: /books/rick-rubin-the-creative-act/index.html
 ---
