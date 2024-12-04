@@ -1,6 +1,7 @@
 ---
 title: 'A City on Mars'
 subtitle: 'Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?'
+fullTitle: 'A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?'
 author: 'Kelly and Zach Weinersmith'
 categories:
   - Science
@@ -11,6 +12,7 @@ purchaseLinks: [
 ]
 coverImage: 'https://i.postimg.cc/L5g9MfZP/city-on-mars.jpg'
 date: '2023-11-27'
+format: 'Hardcover'
 rating: 5
 permalink: /books/kelly-zach-weinersmith-a-city-on-mars/index.html
 ---

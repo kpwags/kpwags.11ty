@@ -1,10 +1,12 @@
 ---
 title: "The Demon of Unrest"
 subtitle: "A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War"
+fullTitle: "The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War"
 author: "Erik Larson"
 coverImage: https://i.postimg.cc/DzzqQJ6r/demon-of-unrest.jpg
 rating: 4
 date: '2024-09-17'
+format: 'Harcover'
 permalink: /books/erik-larson-the-demon-of-unrest/index.html
 categories:
   - History

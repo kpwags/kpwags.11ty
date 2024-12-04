@@ -1,10 +1,12 @@
 ---
 title: "Liar in a Crowded Theater"
 subtitle: "Freedom of Speech in a World of Misinformation"
+fullTitle: "Liar in a Crowded Theater: Freedom of Speech in a World of Misinformation"
 author: "Jeff Kosseff"
 coverImage: https://i.postimg.cc/RZT2zd36/liar-in-a-crowded-theater.jpg
 rating: 4
 date: '2024-09-06'
+format: 'Hardcover'
 permalink: /books/jeff-kosseff-liar-in-a-crowded-theater/index.html
 categories:
   - Technology

@@ -1,6 +1,7 @@
 ---
 title: 'The Storm Before the Storm'
 subtitle: 'The Beginning of the End of the Roman Republic'
+fullTitle: 'The Storm Before the Storm: The Beginning of the End of the Roman Republic'
 author: 'Mike Duncan'
 categories:
   - History
@@ -11,6 +12,7 @@ purchaseLinks: [
 ]
 coverImage: 'https://i.postimg.cc/TwWvJMC3/storm-before-the-storm.jpg'
 date: '2024-01-04'
+format: 'Paperback'
 rating: 4
 permalink: /books/mike-duncan-the-storm-before-the-storm/index.html
 ---

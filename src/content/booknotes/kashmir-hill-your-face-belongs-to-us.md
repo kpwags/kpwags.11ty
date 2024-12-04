@@ -1,6 +1,7 @@
 ---
 title: "Your Face Belongs to Us"
 subtitle: "A Secretive Startup's Quest to End Privacy as We Know It"
+fullTitle: "Your Face Belongs to Us: A Secretive Startup's Quest to End Privacy as We Know It"
 author: 'Kashmir Hill'
 categories:
   - Technology
@@ -11,6 +12,7 @@ purchaseLinks: [
 ]
 coverImage: 'https://i.postimg.cc/DyyGWNHz/your-face-belongs-to-us.jpg'
 date: '2023-10-21'
+format: 'eBook'
 rating: 4
 permalink: /books/kashmir-hill-your-face-belongs-to-us/index.html
 ---

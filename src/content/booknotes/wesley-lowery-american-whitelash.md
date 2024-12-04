@@ -1,6 +1,7 @@
 ---
 title: 'American Whitelash'
 subtitle: 'A Changing Nation and the Cost of Progress'
+fullTitle: 'American Whitelash: A Changing Nation and the Cost of Progress'
 author: 'Wesley Lowery'
 categories:
   - History
@@ -11,6 +12,7 @@ purchaseLinks: [
 ]
 coverImage: 'https://i.postimg.cc/FzbsPnL9/american-whitelash.jpg'
 date: '2023-12-05'
+format: 'Hardcover'
 rating: 3
 permalink: /books/wesley-lowery-american-whitelash/index.html
 ---

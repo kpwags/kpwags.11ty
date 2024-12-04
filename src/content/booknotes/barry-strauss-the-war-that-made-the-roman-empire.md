@@ -1,6 +1,7 @@
 ---
 title: 'The War that Made the Roman Empire'
 subtitle: 'Antony, Cleopatra, and Octavian at Actium'
+fullTitle: 'The War that Made the Roman Empire: Antony, Cleopatra, and Octavian at Actium'
 author: 'Barry Strauss'
 categories:
   - History
@@ -10,6 +11,7 @@ purchaseLinks: [
     { title: 'Bookshop.org', url: 'https://bookshop.org/p/books/the-war-that-made-the-roman-empire-antony-cleopatra-and-octavian-at-actium-barry-strauss/18576030?ean=9781982116682' },
     { title: 'Simon & Schuster', url: 'https://www.simonandschuster.com/books/The-War-That-Made-the-Roman-Empire/Barry-Strauss/9781982116682' }
 ]
+format: 'Paperback'
 coverImage: 'https://i.postimg.cc/NFqqNJz7/war-made-roman-empire.jpg'
 date: '2024-01-12'
 rating: 4

@@ -1353,7 +1353,10 @@ article.post.reading-log-page ul {
     margin-top: 32px;
 }
 
-article.post.reading-log-page .titled-horizontal-list ul {
+article.post.blog-post-page .titled-horizontal-list ul,
+article.note.note-page .titled-horizontal-list ul,
+article.post.reading-log-page .titled-horizontal-list ul,
+article.book-note .titled-horizontal-list ul {
     margin-top: 0;
 }
 
@@ -1992,6 +1995,16 @@ article.uses .uses-section {
 
 article.uses .uses-section ul {
     margin-bottom: 0;
+}
+
+article.uses .uses-section a {
+    color: var(--text);
+    text-decoration-color: var(--primary-color-1);
+    text-underline-offset: 3px;
+}
+
+article.uses .uses-section a:hover {
+    color: var(--primary-color-1);
 }
 
 /* Stats Page */

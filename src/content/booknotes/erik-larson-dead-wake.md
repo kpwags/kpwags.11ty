@@ -1,6 +1,7 @@
 ---
 title: 'Dead Wake'
 subtitle: 'The Last Crossing of the Lusitania'
+fullTitle: 'Dead Wake: The Last Crossing of the Lusitania'
 author: 'Erik Larson'
 categories:
   - History
@@ -8,6 +9,7 @@ categories:
 purchaseLinks: [
     { title: 'Bookshop.org', url: 'https://bookshop.org/p/books/dead-wake-the-last-crossing-of-the-lusitania-erik-larson/7296476?ean=9780307408877' }
 ]
+format: 'Paperback'
 coverImage: 'https://i.postimg.cc/yN2RYVhj/dead-wake.jpg'
 date: '2023-09-01'
 rating: 4
