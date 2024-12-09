@@ -1,0 +1,43 @@
+---
+title: "Week Notes for December 1 - 7"
+date: '2024-12-08T23:24:31.51Z'
+permalink: /posts/2024/12/08/week-notes/index.html
+description: "My week notes for the week of December 1 - December 7."
+tags:
+  - Week Notes
+  - Hockey
+  - Furniture
+---
+
+My week notes for the week of December 1 - December 7.
+<!-- excerpt -->
+
+## Notes
+
+### Work Laptop Dying
+
+Monday after I was done for the day, the IT department at the company I work for asked me to update my laptop to Windows 11. The update ended up bricking my computer and I had to get a new one overnight shipped to me. It's both annoying and satisfying to have a new machine starting over from scratch. The bad news is that it put me in a position where I'll now have to piece together all of the pull requests that I've been documenting over the last year for the big feature I'm working on.
+
+### Couch Shopping
+
+My wife and I are in the process of revamping our living room, and the first big piece will be to replace our couch. We got this couch 12+ years ago second hand off Craigslist and it's served us well. But now it's time to find something new. It's our first time buying a piece of furniture too as all our furniture was hand me downs or craigslist finds. It's been an adventure so far.
+
+### Phantoms - Bears Game
+
+Saturday night was the Lehigh Valley Phantoms Teddy Bear Toss game. If you're not aware, many minor league hockey teams have a teddy bear and stuffed animal drive in an ingenious way. Everyone brings stuffed animals and when the Phantoms score their first goal everyone throws the stuffed animals onto the ice. It's fun and for a good cause.
+
+{% image "./images/teddy-bear-toss-2.jpg", "Teddy bears litter the ice at a hockey game" %}
+
+Sadly the Phantoms lost the game 3-2 in overtime.
+
+## Interesting Links
+
+{% renderTemplate "webc" %}
+<shared-link title="From Classroom to Calling: How College Students Are Jumpstarting Their Careers" url="https://reasonstobecheerful.world/work-based-learning-drexel-university/" author="Olivia Sanchez">
+I went to Drexel and did 3 co-ops or internships during my five years there. They were incredibly helpful getting me acclimated to the jobs I've had throughout my career and helped getting my foot in the door with some real experience.
+</shared-link>
+
+<shared-link title="Your Bluesky Posts Are Probably In A Bunch of Datasets Now" url="https://www.404media.co/bluesky-posts-machine-learning-ai-datasets-hugging-face/" author="Samantha Cole">
+Can't say I'm terribly surprised by this.
+</shared-link>
+{% endrenderTemplate %}
