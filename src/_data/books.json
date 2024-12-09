@@ -43,53 +43,53 @@
           "colorCode": "#2c5813"
         }
       ]
-    },
-    {
-      "bookId": 527,
-      "title": "The Book of Accidents",
-      "subTitle": "",
-      "fullTitle": "The Book of Accidents",
-      "author": "Chuck Wendig",
-      "link": "https://bookshop.org/p/books/the-book-of-accidents-chuck-wendig/15648326?ean=9780399182150",
-      "dateStarted": "2024-12-01T05:00:00Z",
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/RVCx23nM/the-book-of-accidents.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 465,
-      "pageCount": 525,
-      "progress": 89,
-      "sortOrder": 163,
-      "status": {
-        "name": "Reading",
-        "colorCode": "#6a208f"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Horror",
-          "colorCode": "rgb(146, 4, 4)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
-        }
-      ]
     }
   ],
   "completed": [
     {
       "year": "2024",
       "books": [
+        {
+          "bookId": 527,
+          "title": "The Book of Accidents",
+          "subTitle": "",
+          "fullTitle": "The Book of Accidents",
+          "author": "Chuck Wendig",
+          "link": "https://bookshop.org/p/books/the-book-of-accidents-chuck-wendig/15648326?ean=9780399182150",
+          "dateStarted": "2024-12-01T05:00:00Z",
+          "dateCompleted": "2024-12-08T05:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "I enjoyed this. It had some good twists and turns with the right amount of creepiness I would expect from Wendig. Also, if you\u2019re a Stephen King fan, you\u2019d really enjoy this.",
+          "coverImageUrl": "https://i.postimg.cc/RVCx23nM/the-book-of-accidents.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 525,
+          "pageCount": 525,
+          "progress": 100,
+          "sortOrder": 163,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Horror",
+              "colorCode": "rgb(146, 4, 4)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
+        },
         {
           "bookId": 538,
           "title": "Nuclear War",

@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 534,
+    "title": "Moderators Across Social Media Struggle to Contain Celebrations of UnitedHealthcare CEO\u2019s Assassination",
+    "url": "https://www.404media.co/brian-thompson-social-media-reactions-reddit-facebook-twitter/",
+    "author": "Samantha Cole",
+    "linkDate": "2024-12-09T02:29:53.659Z",
+    "readingLogIssueNumber": 102,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 533,
+    "title": "Elon Musk Should Be Shouting About The Florida And Texas Social Media Laws (But Are You Surprised That He\u2019s Not?)",
+    "url": "https://www.techdirt.com/2024/12/04/elon-musk-should-be-shouting-about-the-florida-and-texas-social-media-laws-but-are-you-surprised-that-hes-not/",
+    "author": "Corbin Barthold",
+    "linkDate": "2024-12-09T02:29:03.437Z",
+    "readingLogIssueNumber": 102,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
     "linkId": 532,
     "title": "Your Bluesky Posts Are Probably In A Bunch of Datasets Now",
     "url": "https://www.404media.co/bluesky-posts-machine-learning-ai-datasets-hugging-face/",
