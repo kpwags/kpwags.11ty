@@ -76,31 +76,5 @@
         "colorCode": "#037fb4"
       }
     ]
-  },
-  {
-    "movieId": 155,
-    "title": "Apollo 13 Survival",
-    "imdbLink": "https://m.imdb.com/title/tt31852716",
-    "dateWatched": "2024-11-09T05:00:00Z",
-    "sortOrder": null,
-    "rating": 3,
-    "thoughts": "I thought it was an interesting documentary. I\u0027m still kind of surprised they didn\u0027t really talk about the cause of the disaster any though.",
-    "posterImageUrl": "https://i.postimg.cc/YqKLY18Z/apollo-13-survival.jpg",
-    "status": {
-      "name": "Watched",
-      "colorCode": "#2a9a39"
-    },
-    "genres": [
-      {
-        "name": "Documentary",
-        "colorCode": "#11659c"
-      }
-    ],
-    "services": [
-      {
-        "name": "Netflix",
-        "colorCode": "#c71212"
-      }
-    ]
   }
 ]
