@@ -1,5 +1,101 @@
 [
   {
+    "linkId": 532,
+    "title": "Your Bluesky Posts Are Probably In A Bunch of Datasets Now",
+    "url": "https://www.404media.co/bluesky-posts-machine-learning-ai-datasets-hugging-face/",
+    "author": "Samantha Cole",
+    "linkDate": "2024-12-04T15:36:09.755Z",
+    "readingLogIssueNumber": 102,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 531,
+    "title": "What\u0027s new in C# 13",
+    "url": "https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-13",
+    "author": "The .NET Team",
+    "linkDate": "2024-12-04T15:29:52.255Z",
+    "readingLogIssueNumber": 102,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 530,
+    "title": "Walmart bought Vizio",
+    "url": "https://www.theverge.com/2024/12/3/24312508/walmart-vizio-acquisition-complete",
+    "author": "Emma Roth",
+    "linkDate": "2024-12-04T15:29:01.793Z",
+    "readingLogIssueNumber": 102,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 529,
+    "title": "Today\u2019s sports-betting boom may be tomorrow\u2019s investment issue",
+    "url": "https://sherwood.news/markets/sports-gambling-long-term-economic-investment-impacts/",
+    "author": "Matt Phillips",
+    "linkDate": "2024-12-04T15:24:18.936Z",
+    "readingLogIssueNumber": 102,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 528,
+    "title": "From Classroom to Calling: How College Students Are Jumpstarting Their Careers",
+    "url": "https://reasonstobecheerful.world/work-based-learning-drexel-university/",
+    "author": "Olivia Sanchez",
+    "linkDate": "2024-12-04T15:19:58.567Z",
+    "readingLogIssueNumber": 102,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 527,
+    "title": "\u2018A Total Meltdown\u2019: Black Friday Zipcar Outage Strands Customers in Random Places",
+    "url": "https://www.404media.co/a-total-meltdown-black-friday-zipcar-outage-strands-customers-in-random-places/",
+    "author": "Jason Koebler",
+    "linkDate": "2024-12-04T15:19:25.252Z",
+    "readingLogIssueNumber": 102,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
     "linkId": 526,
     "title": "Company claims 1,000 percent price hike drove it from VMware to open source rival",
     "url": "https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/",
