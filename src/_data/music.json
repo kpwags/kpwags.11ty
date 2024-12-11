@@ -3000,7 +3000,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/L8czch8M/dave-hause-hearses.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Alternative",
@@ -12933,6 +12933,69 @@
     ]
   },
   {
+    "musicAlbumId": 188,
+    "title": "Pre-Existing Conditions",
+    "artist": "Tim Hause",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/tRwJwsfB/tim-hause-preexisting-conditions.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Here in the Bluelight"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Make It Take It"
+      },
+      {
+        "trackNumber": 3,
+        "title": "No Call No Show"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Tyrannosaurus Rx"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Summerkiss"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Hole in the Fence"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Who Let the Dog Out?"
+      },
+      {
+        "trackNumber": 8,
+        "title": "A Wake"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Fear Ate My Faith"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Catacomb (Only in Dreams)"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 24,
     "title": "TIM",
     "artist": "Tim Hause",
@@ -13956,7 +14019,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/Dwvg79mp/wonderyears-humgoesonforever.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Punk",

@@ -1116,11 +1116,6 @@ dialog.thoughts-dialog .details .platform {
 
 /* Now Page */
 
-.now-everything-else {
-    width: var(--width);
-    margin: 0 auto;
-}
-
 .now-everything-else h2 {
     margin-bottom: 24px;
 }

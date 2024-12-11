@@ -1,5 +1,53 @@
 [
   {
+    "linkId": 537,
+    "title": "Should this creepy search engine exist?",
+    "url": "https://www.searchengine.show/listen/search-engine-1/should-this-creepy-search-engine-exist",
+    "author": "Search Engine Podcast",
+    "linkDate": "2024-12-10T21:01:08.562Z",
+    "readingLogIssueNumber": 103,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 536,
+    "title": "WW2: How Britain Ignored the Mother of All Secrets",
+    "url": "https://timharford.com/2024/05/cautionary-tales-ww2-how-britain-ignored-the-mother-of-all-secrets/",
+    "author": "Cautionary Tales",
+    "linkDate": "2024-12-10T16:51:07.073Z",
+    "readingLogIssueNumber": 103,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 535,
+    "title": "Arctic tundra once stored carbon. Now it emits climate-warming pollution",
+    "url": "https://www.npr.org/2024/12/10/nx-s1-5215967/arctic-tundra-contributes-climate-warming-pollution-report-finds",
+    "author": "Barbara Moran",
+    "linkDate": "2024-12-10T16:50:25.347Z",
+    "readingLogIssueNumber": 103,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Climate",
+      "colorCode": "#9a702d"
+    }
+  },
+  {
     "linkId": 534,
     "title": "Moderators Across Social Media Struggle to Contain Celebrations of UnitedHealthcare CEO\u2019s Assassination",
     "url": "https://www.404media.co/brian-thompson-social-media-reactions-reddit-facebook-twitter/",
