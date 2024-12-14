@@ -1,5 +1,181 @@
 [
   {
+    "linkId": 548,
+    "title": "On Slowing Down to Cook",
+    "url": "https://www.currentaffairs.org/news/2022/11/on-slowing-down-to-cook#fn2-24494",
+    "author": "Lily S\u00E1nchez",
+    "linkDate": "2024-12-13T00:00:00Z",
+    "readingLogIssueNumber": 103,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 538,
+    "title": "Where size comes from",
+    "url": "https://noahliebman.net/2024/12/where-size-comes-from/",
+    "author": "Noah Liebman",
+    "linkDate": "2024-12-12T00:00:00Z",
+    "readingLogIssueNumber": 103,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 539,
+    "title": "JWST: Yup, the Universe is expanding weirdly",
+    "url": "https://badastronomy.beehiiv.com/p/jwst-yup-the-universe-is-expanding-weirdly",
+    "author": "Philip Plait",
+    "linkDate": "2024-12-12T00:00:00Z",
+    "readingLogIssueNumber": 103,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 540,
+    "title": "Spotify Is Using You",
+    "url": "https://www.hearingthings.co/spotify-wrapped-2024/",
+    "author": "Jill Mapes",
+    "linkDate": "2024-12-12T00:00:00Z",
+    "readingLogIssueNumber": 103,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Media \u0026 Entertainment",
+      "colorCode": "#7949a8"
+    }
+  },
+  {
+    "linkId": 541,
+    "title": "Escalating child care costs force women out of the work force",
+    "url": "https://www.marketplace.org/2024/12/11/escalating-child-care-costs-force-women-out-of-the-work-force/",
+    "author": "Stacey Vanek Smith",
+    "linkDate": "2024-12-12T00:00:00Z",
+    "readingLogIssueNumber": 103,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 542,
+    "title": "Why every company wants a podcast now",
+    "url": "https://www.theverge.com/24318644/podcast-election-vc-marketing-business-decoder-interview",
+    "author": "Decoder",
+    "linkDate": "2024-12-12T00:00:00Z",
+    "readingLogIssueNumber": 103,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 543,
+    "title": "Old-ass Bill Belichick is going to suck as a college coach \u2014 and I cannot WAIT",
+    "url": "https://www.sfgate.com/collegesports/article/bill-belichick-north-carolina-coach-old-19975754.php",
+    "author": "Drew Magargal",
+    "linkDate": "2024-12-12T00:00:00Z",
+    "readingLogIssueNumber": 103,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 544,
+    "title": "Location Data Firm Offers to Help Cops Track Targets via Doctor Visits",
+    "url": "https://www.404media.co/location-data-firm-offers-to-help-cops-track-targets-via-doctor-visits/",
+    "author": "Joseph Cox",
+    "linkDate": "2024-12-12T00:00:00Z",
+    "readingLogIssueNumber": 103,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 545,
+    "title": "WordPress CEO Rage Quits Community Slack After Court Injunction",
+    "url": "https://www.404media.co/wordpress-wp-engine-preliminary-injunction/",
+    "author": "Samantha Cole",
+    "linkDate": "2024-12-12T00:00:00Z",
+    "readingLogIssueNumber": 103,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 546,
+    "title": "YouTube \u201CEnhances\u201D Comment Section With AI-Generated Nonsense",
+    "url": "https://www.404media.co/youtube-enhances-comment-section-with-ai-generated-nonsense/",
+    "author": "Emanuel Maiberg",
+    "linkDate": "2024-12-12T00:00:00Z",
+    "readingLogIssueNumber": 103,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 547,
+    "title": "The housing emergency and the second Trump term",
+    "url": "https://pluralistic.net/2024/12/11/nimby-yimby-fimby/#home-team-advantage",
+    "author": "Cory Doctorow",
+    "linkDate": "2024-12-12T00:00:00Z",
+    "readingLogIssueNumber": 103,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
     "linkId": 537,
     "title": "Should this creepy search engine exist?",
     "url": "https://www.searchengine.show/listen/search-engine-1/should-this-creepy-search-engine-exist",
@@ -2560,38 +2736,6 @@
     }
   },
   {
-    "linkId": 371,
-    "title": "The Double Kick",
-    "url": "https://99percentinvisible.org/episode/the-double-kick/",
-    "author": "99% Invisible",
-    "linkDate": "2024-09-16T05:00:00Z",
-    "readingLogIssueNumber": 92,
-    "type": {
-      "name": "Podcast",
-      "colorCode": "#5725a0"
-    },
-    "category": {
-      "name": "Podcasts",
-      "colorCode": "#239f5b"
-    }
-  },
-  {
-    "linkId": 372,
-    "title": "CSS One-Liners to Improve (Almost) Every Project",
-    "url": "https://alvaromontoro.com/blog/68055/ten-css-one-liners-for-almost-every-project",
-    "author": "Alvaro Montoro",
-    "linkDate": "2024-09-16T05:00:00Z",
-    "readingLogIssueNumber": 92,
-    "type": {
-      "name": "Link",
-      "colorCode": "#009b8f"
-    },
-    "category": {
-      "name": "Web Development",
-      "colorCode": "#27681b"
-    }
-  },
-  {
     "linkId": 373,
     "title": "People who exercise have healthier belly fat, new study finds",
     "url": "https://www.npr.org/2024/09/14/nx-s1-5108843/exercise-fat-healthy-weight-obesity",
@@ -2669,6 +2813,38 @@
     "category": {
       "name": "Business \u0026 Finance",
       "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 371,
+    "title": "The Double Kick",
+    "url": "https://99percentinvisible.org/episode/the-double-kick/",
+    "author": "99% Invisible",
+    "linkDate": "2024-09-16T05:00:00Z",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 372,
+    "title": "CSS One-Liners to Improve (Almost) Every Project",
+    "url": "https://alvaromontoro.com/blog/68055/ten-css-one-liners-for-almost-every-project",
+    "author": "Alvaro Montoro",
+    "linkDate": "2024-09-16T05:00:00Z",
+    "readingLogIssueNumber": 92,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
     }
   },
   {
