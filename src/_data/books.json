@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 185,
-      "title": "Network Effect",
+      "bookId": 184,
+      "title": "Fugitive Telemetry",
       "subTitle": "",
-      "fullTitle": "Network Effect",
+      "fullTitle": "Fugitive Telemetry",
       "author": "Martha Wells",
-      "link": "https://bookshop.org/p/books/network-effect-a-murderbot-novel-martha-wells/13296841",
-      "dateStarted": "2024-12-09T05:00:00Z",
+      "link": "https://bookshop.org/p/books/fugitive-telemetry-martha-wells/14596858",
+      "dateStarted": "2024-12-15T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/PJDVCD7k/network-effect.jpg",
+      "coverImageUrl": "https://i.postimg.cc/vHWSMW9r/fugitive-telemetry.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 3595,
-      "pageCount": 5426,
-      "progress": 66,
-      "sortOrder": 140,
+      "currentPage": 1,
+      "pageCount": 1866,
+      "progress": 0,
+      "sortOrder": 150,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -49,6 +49,50 @@
     {
       "year": "2024",
       "books": [
+        {
+          "bookId": 185,
+          "title": "Network Effect",
+          "subTitle": "",
+          "fullTitle": "Network Effect",
+          "author": "Martha Wells",
+          "link": "https://bookshop.org/p/books/network-effect-a-murderbot-novel-martha-wells/13296841",
+          "dateStarted": "2024-12-09T00:00:00Z",
+          "dateCompleted": "2024-12-14T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "Another good story in the series. Longer that the earlier books, but captivating and enjoyable.",
+          "coverImageUrl": "https://i.postimg.cc/PJDVCD7k/network-effect.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 5426,
+          "pageCount": 5426,
+          "progress": 100,
+          "sortOrder": 140,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": {
+            "name": "Murderbot Diaries",
+            "colorCode": "#07197c"
+          },
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
+        },
         {
           "bookId": 527,
           "title": "The Book of Accidents",
@@ -11580,50 +11624,6 @@
   ],
   "toRead": [
     {
-      "bookId": 184,
-      "title": "Fugitive Telemetry",
-      "subTitle": "",
-      "fullTitle": "Fugitive Telemetry",
-      "author": "Martha Wells",
-      "link": "https://bookshop.org/p/books/fugitive-telemetry-martha-wells/14596858",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/vHWSMW9r/fugitive-telemetry.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 150,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "Murderbot Diaries",
-        "colorCode": "#07197c"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "eBook",
-          "colorCode": "#2c5813"
-        }
-      ]
-    },
-    {
       "bookId": 183,
       "title": "System Collapse",
       "subTitle": "",
@@ -11639,7 +11639,7 @@
       "isAtLibrary": true,
       "isPurchased": false,
       "currentPage": 1,
-      "pageCount": 0,
+      "pageCount": 3044,
       "progress": 0,
       "sortOrder": 160,
       "status": {
@@ -20529,6 +20529,78 @@
         {
           "name": "Technology",
           "colorCode": "rgb(55, 78, 146)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 546,
+      "title": "What If We Get It Right?",
+      "subTitle": "Visions of Climate Futures",
+      "fullTitle": "What If We Get It Right?: Visions of Climate Futures",
+      "author": "Ayana Elizabeth Johnson",
+      "link": "https://bookshop.org/p/books/what-if-we-get-it-right-visions-of-climate-futurism-ayana-elizabeth-johnson/19507444?ean=9780593229361",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 2880,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science",
+          "colorCode": "rgb(24, 90, 80)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 547,
+      "title": "How to Kill an Asteroid",
+      "subTitle": "The Real Science of Planetary Defense",
+      "fullTitle": "How to Kill an Asteroid: The Real Science of Planetary Defense",
+      "author": "Robin George Andrews",
+      "link": "https://bookshop.org/p/books/how-to-kill-an-asteroid-the-real-science-of-planetary-defense-robin-george-andrews/21077088?ean=9781324050193",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 2890,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science",
+          "colorCode": "rgb(24, 90, 80)"
         }
       ],
       "formats": []

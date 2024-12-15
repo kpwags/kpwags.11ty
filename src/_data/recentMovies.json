@@ -1,5 +1,26 @@
 [
   {
+    "movieId": 160,
+    "title": "Office Christmas Party",
+    "imdbLink": "https://www.imdb.com/title/tt1711525/",
+    "dateWatched": "2024-12-12T00:00:00Z",
+    "sortOrder": null,
+    "rating": 3,
+    "thoughts": "This movie was predictable and dumb, but it was funny and enjoyable.",
+    "posterImageUrl": "https://i.postimg.cc/nLdW6W0P/office-christmas-party.jpg",
+    "status": {
+      "name": "Watched",
+      "colorCode": "#2a9a39"
+    },
+    "genres": [
+      {
+        "name": "Comedy",
+        "colorCode": "#a60483"
+      }
+    ],
+    "services": []
+  },
+  {
     "movieId": 158,
     "title": "American Gangster",
     "imdbLink": "https://www.imdb.com/title/tt0765429/",
