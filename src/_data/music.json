@@ -2311,7 +2311,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/NftP1cRc/chuck-ragan-gold-country.jpg",
     "isTopTen": false,
-    "showOnNowPage": false,
+    "showOnNowPage": true,
     "genres": [
       {
         "name": "Folk",
@@ -8925,7 +8925,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/VLVytWMR/lovedones-keepyourheart.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Punk",
