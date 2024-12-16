@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 551,
+    "title": "Placeholders in Form Fields Are Harmful",
+    "url": "https://www.nngroup.com/articles/form-design-placeholders/",
+    "author": "Katie Sherwin",
+    "linkDate": "2024-12-16T00:00:00Z",
+    "readingLogIssueNumber": 103,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 552,
+    "title": "No Fuss Light/Dark Modes",
+    "url": "https://frontendmasters.com/blog/no-fuss-light-dark-modes/",
+    "author": "Chris Coyier",
+    "linkDate": "2024-12-16T00:00:00Z",
+    "readingLogIssueNumber": 103,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 549,
     "title": "New study on moons of Uranus raises chance of life",
     "url": "https://www.bbc.com/news/articles/cgk1333k0ypo",
