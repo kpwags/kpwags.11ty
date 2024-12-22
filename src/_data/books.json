@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 184,
-      "title": "Fugitive Telemetry",
+      "bookId": 183,
+      "title": "System Collapse",
       "subTitle": "",
-      "fullTitle": "Fugitive Telemetry",
+      "fullTitle": "System Collapse",
       "author": "Martha Wells",
-      "link": "https://bookshop.org/p/books/fugitive-telemetry-martha-wells/14596858",
-      "dateStarted": "2024-12-15T00:00:00Z",
+      "link": "https://bookshop.org/p/books/system-collapse-martha-wells/19538545",
+      "dateStarted": "2024-12-18T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/vHWSMW9r/fugitive-telemetry.jpg",
+      "coverImageUrl": "https://i.postimg.cc/g2sSLmgr/system-collapse.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 752,
-      "pageCount": 1866,
-      "progress": 40,
-      "sortOrder": 150,
+      "currentPage": 1760,
+      "pageCount": 3044,
+      "progress": 58,
+      "sortOrder": 160,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -49,6 +49,50 @@
     {
       "year": "2024",
       "books": [
+        {
+          "bookId": 184,
+          "title": "Fugitive Telemetry",
+          "subTitle": "",
+          "fullTitle": "Fugitive Telemetry",
+          "author": "Martha Wells",
+          "link": "https://bookshop.org/p/books/fugitive-telemetry-martha-wells/14596858",
+          "dateStarted": "2024-12-15T00:00:00Z",
+          "dateCompleted": "2024-12-17T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "Another solid book in the series, this time with a true crime kind of vibe.",
+          "coverImageUrl": "https://i.postimg.cc/vHWSMW9r/fugitive-telemetry.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 1866,
+          "pageCount": 1866,
+          "progress": 100,
+          "sortOrder": 150,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": {
+            "name": "Murderbot Diaries",
+            "colorCode": "#07197c"
+          },
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
+        },
         {
           "bookId": 185,
           "title": "Network Effect",
@@ -11623,50 +11667,6 @@
     }
   ],
   "toRead": [
-    {
-      "bookId": 183,
-      "title": "System Collapse",
-      "subTitle": "",
-      "fullTitle": "System Collapse",
-      "author": "Martha Wells",
-      "link": "https://bookshop.org/p/books/system-collapse-martha-wells/19538545",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/g2sSLmgr/system-collapse.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 3044,
-      "progress": 0,
-      "sortOrder": 160,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "Murderbot Diaries",
-        "colorCode": "#07197c"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "eBook",
-          "colorCode": "#2c5813"
-        }
-      ]
-    },
     {
       "bookId": 524,
       "title": "A Visit from the Goon Squad",

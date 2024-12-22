@@ -1108,6 +1108,37 @@
   ],
   "toPlay": [
     {
+      "videoGameId": 20,
+      "title": "Farcry 5",
+      "link": "https://www.ubisoft.com/en-us/game/far-cry/far-cry-5",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": null,
+      "status": {
+        "name": "To Play",
+        "colorCode": "#243391"
+      },
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
       "videoGameId": 26,
       "title": "Fallout 4",
       "link": "",
@@ -1311,6 +1342,32 @@
       ]
     },
     {
+      "videoGameId": 61,
+      "title": "Jedi: Survivor",
+      "link": "https://www.ea.com/games/starwars/jedi/jedi-survivor",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": 3,
+      "status": {
+        "name": "To Play",
+        "colorCode": "#243391"
+      },
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Hack and Slash",
+          "colorCode": "#a30d42"
+        }
+      ],
+      "systems": []
+    },
+    {
       "videoGameId": 7,
       "title": "Breath of the Wild",
       "link": "https://zelda.nintendo.com/breath-of-the-wild/",
@@ -1319,7 +1376,7 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "sortOrder": 3,
+      "sortOrder": 4,
       "status": {
         "name": "To Play",
         "colorCode": "#243391"
@@ -1350,7 +1407,7 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "sortOrder": 4,
+      "sortOrder": 5,
       "status": {
         "name": "To Play",
         "colorCode": "#243391"
@@ -1369,37 +1426,6 @@
         {
           "name": "Nintendo Switch",
           "colorCode": "#8e0b24"
-        }
-      ]
-    },
-    {
-      "videoGameId": 20,
-      "title": "Farcry 5",
-      "link": "https://www.ubisoft.com/en-us/game/far-cry/far-cry-5",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "sortOrder": 5,
-      "status": {
-        "name": "To Play",
-        "colorCode": "#243391"
-      },
-      "genres": [
-        {
-          "name": "First Person Shooter",
-          "colorCode": "#158a87"
-        },
-        {
-          "name": "Open World",
-          "colorCode": "#cf394d"
-        }
-      ],
-      "systems": [
-        {
-          "name": "Xbox",
-          "colorCode": "#1b903f"
         }
       ]
     },
