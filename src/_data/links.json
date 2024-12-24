@@ -1,9 +1,57 @@
 [
   {
+    "linkId": 565,
+    "title": "Foundations: form validation and error messages",
+    "url": "https://tetralogical.com/blog/2024/10/21/foundations-form-validation-and-error-messages/",
+    "author": "Demelza Feltham",
+    "linkDate": "2024-12-23T00:00:00Z",
+    "readingLogIssueNumber": 104,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 566,
+    "title": "Quality Means The Flexibility to Change",
+    "url": "https://blog.jim-nielsen.com/2024/easy-changes/",
+    "author": "Jim Nielsen",
+    "linkDate": "2024-12-23T00:00:00Z",
+    "readingLogIssueNumber": 104,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
     "linkId": 563,
     "title": "Next-level frosted glass with backdrop-filter",
     "url": "https://www.joshwcomeau.com/css/backdrop-filter/",
     "author": "Josh W. Comeau",
+    "linkDate": "2024-12-22T00:00:00Z",
+    "readingLogIssueNumber": 104,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 564,
+    "title": "Making content-aware components using CSS :has(), grid, and quantity queries",
+    "url": "https://piccalil.li/blog/making-content-aware-components-using-css-has-grid-and-quantity-queries/?ref=main-rss-feed",
+    "author": "Eric Bailey",
     "linkDate": "2024-12-22T00:00:00Z",
     "readingLogIssueNumber": 104,
     "type": {

@@ -912,8 +912,8 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/jj33JDQr/goodeats.jpg",
       "seasonEpisodeCount": 252,
-      "currentSeasonEpisode": 112,
-      "progress": 44,
+      "currentSeasonEpisode": 113,
+      "progress": 45,
       "sortOrder": 3,
       "status": {
         "name": "Watching",
@@ -923,38 +923,6 @@
         {
           "name": "Food",
           "colorCode": "#058329"
-        }
-      ],
-      "services": [
-        {
-          "name": "HBO",
-          "colorCode": "#6a4bc9"
-        }
-      ]
-    },
-    {
-      "televisionShowId": 49,
-      "title": "The Last of Us",
-      "imdbLink": "https://m.imdb.com/title/tt3581920/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/J4NHSJqC/the-last-of-us.jpg",
-      "seasonEpisodeCount": 16,
-      "currentSeasonEpisode": 7,
-      "progress": 44,
-      "sortOrder": null,
-      "status": {
-        "name": "Watching",
-        "colorCode": "#005c78"
-      },
-      "genres": [
-        {
-          "name": "Drama",
-          "colorCode": "#481180"
-        },
-        {
-          "name": "Science Fiction",
-          "colorCode": "#1b7016"
         }
       ],
       "services": [
@@ -1109,6 +1077,38 @@
       },
       "genres": [],
       "services": []
+    },
+    {
+      "televisionShowId": 49,
+      "title": "The Last of Us",
+      "imdbLink": "https://m.imdb.com/title/tt3581920/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/J4NHSJqC/the-last-of-us.jpg",
+      "seasonEpisodeCount": 16,
+      "currentSeasonEpisode": 9,
+      "progress": 56,
+      "sortOrder": null,
+      "status": {
+        "name": "In Between Seasons",
+        "colorCode": "#901960"
+      },
+      "genres": [
+        {
+          "name": "Drama",
+          "colorCode": "#481180"
+        },
+        {
+          "name": "Science Fiction",
+          "colorCode": "#1b7016"
+        }
+      ],
+      "services": [
+        {
+          "name": "HBO",
+          "colorCode": "#6a4bc9"
+        }
+      ]
     },
     {
       "televisionShowId": 26,

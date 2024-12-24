@@ -1,46 +1,43 @@
 {
   "inProgress": [
     {
-      "bookId": 183,
-      "title": "System Collapse",
-      "subTitle": "",
-      "fullTitle": "System Collapse",
-      "author": "Martha Wells",
-      "link": "https://bookshop.org/p/books/system-collapse-martha-wells/19538545",
-      "dateStarted": "2024-12-18T00:00:00Z",
+      "bookId": 528,
+      "title": "Challenger",
+      "subTitle": "A True Story of Heroism and Disaster on the Edge of Space",
+      "fullTitle": "Challenger: A True Story of Heroism and Disaster on the Edge of Space",
+      "author": "Adam Higginbotham",
+      "link": "https://bookshop.org/p/books/challenger-an-american-tragedy-adam-higginbotham/20712668?ean=9781982176617",
+      "dateStarted": "2024-12-23T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/g2sSLmgr/system-collapse.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1760,
-      "pageCount": 3044,
-      "progress": 58,
-      "sortOrder": 160,
+      "coverImageUrl": "https://i.postimg.cc/3JLQhKg2/challenger-adam-higginbotham.jpg",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 5,
+      "pageCount": 457,
+      "progress": 1,
+      "sortOrder": 164,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
       },
       "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
       },
-      "series": {
-        "name": "Murderbot Diaries",
-        "colorCode": "#07197c"
-      },
+      "series": null,
       "genres": [
         {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
         }
       ],
       "formats": [
         {
-          "name": "eBook",
-          "colorCode": "#2c5813"
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
         }
       ]
     }
@@ -49,6 +46,50 @@
     {
       "year": "2024",
       "books": [
+        {
+          "bookId": 183,
+          "title": "System Collapse",
+          "subTitle": "",
+          "fullTitle": "System Collapse",
+          "author": "Martha Wells",
+          "link": "https://bookshop.org/p/books/system-collapse-martha-wells/19538545",
+          "dateStarted": "2024-12-18T00:00:00Z",
+          "dateCompleted": "2024-12-22T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "Another solid story in the series. Going to have to wait until the next, sadly.",
+          "coverImageUrl": "https://i.postimg.cc/g2sSLmgr/system-collapse.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 3044,
+          "pageCount": 3044,
+          "progress": 100,
+          "sortOrder": 160,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": {
+            "name": "Murderbot Diaries",
+            "colorCode": "#07197c"
+          },
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
+        },
         {
           "bookId": 184,
           "title": "Fugitive Telemetry",
@@ -11741,47 +11782,6 @@
         {
           "name": "eBook",
           "colorCode": "#2c5813"
-        }
-      ]
-    },
-    {
-      "bookId": 528,
-      "title": "Challenger",
-      "subTitle": "A True Story of Heroism and Disaster on the Edge of Space",
-      "fullTitle": "Challenger: A True Story of Heroism and Disaster on the Edge of Space",
-      "author": "Adam Higginbotham",
-      "link": "https://bookshop.org/p/books/challenger-an-american-tragedy-adam-higginbotham/20712668?ean=9781982176617",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/3JLQhKg2/challenger-adam-higginbotham.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 457,
-      "progress": 0,
-      "sortOrder": 164,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "History",
-          "colorCode": "rgb(4, 38, 142)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
         }
       ]
     },
