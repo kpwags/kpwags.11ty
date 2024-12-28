@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/3JLQhKg2/challenger-adam-higginbotham.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 47,
+      "currentPage": 289,
       "pageCount": 457,
-      "progress": 10,
+      "progress": 63,
       "sortOrder": 164,
       "status": {
         "name": "Reading",
@@ -11709,12 +11709,131 @@
   ],
   "toRead": [
     {
-      "bookId": 524,
-      "title": "A Visit from the Goon Squad",
+      "bookId": 204,
+      "title": "Digital Minimalism",
       "subTitle": "",
-      "fullTitle": "A Visit from the Goon Squad",
-      "author": "Jennifer Egan",
-      "link": "https://bookshop.org/p/books/a-visit-from-the-goon-squad-jennifer-egan/229047?ean=9780307477477",
+      "fullTitle": "Digital Minimalism",
+      "author": "Cal Newport",
+      "link": "https://bookshop.org/p/books/digital-minimalism-choosing-a-focused-life-in-a-noisy-world-cal-newport/12081448?ean=9780525536512",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 0,
+      "progress": 0,
+      "sortOrder": 161,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [],
+      "formats": []
+    },
+    {
+      "bookId": 531,
+      "title": "The Blighted Stars",
+      "subTitle": "",
+      "fullTitle": "The Blighted Stars",
+      "author": "Megan E. O\u0027Keefe",
+      "link": "https://bookshop.org/p/books/the-blighted-stars-megan-e-o-keefe/17405812?ean=9780316290791",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 483,
+      "progress": 0,
+      "sortOrder": 162,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "The Devoured Worlds",
+        "colorCode": "#142f81"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
+        }
+      ]
+    },
+    {
+      "bookId": 532,
+      "title": "The Fractured Dark",
+      "subTitle": "",
+      "fullTitle": "The Fractured Dark",
+      "author": "Megan E. O\u0027Keefe",
+      "link": "https://bookshop.org/p/books/the-fractured-dark-megan-e-o-keefe/19623182?ean=9780316291132",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 504,
+      "progress": 0,
+      "sortOrder": 163,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "The Devoured Worlds",
+        "colorCode": "#142f81"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
+        }
+      ]
+    },
+    {
+      "bookId": 533,
+      "title": "The Bound Worlds",
+      "subTitle": "",
+      "fullTitle": "The Bound Worlds",
+      "author": "Megan E. O\u0027Keefe",
+      "link": "https://bookshop.org/p/books/the-bound-worlds-megan-e-o-keefe/20589383?ean=9780316291576",
       "dateStarted": null,
       "dateCompleted": null,
       "rating": 0,
@@ -11726,7 +11845,7 @@
       "currentPage": 1,
       "pageCount": 1,
       "progress": 100,
-      "sortOrder": 161,
+      "sortOrder": 164,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"
@@ -11735,55 +11854,17 @@
         "name": "Fiction",
         "colorCode": "#1d3c8c"
       },
-      "series": null,
+      "series": {
+        "name": "The Devoured Worlds",
+        "colorCode": "#142f81"
+      },
       "genres": [
         {
-          "name": "General Fiction",
-          "colorCode": "rgb(145, 104, 104)"
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
         }
       ],
       "formats": []
-    },
-    {
-      "bookId": 407,
-      "title": "The Candy House",
-      "subTitle": "",
-      "fullTitle": "The Candy House",
-      "author": "Jennifer Egan",
-      "link": "https://bookshop.org/p/books/the-candy-house-jennifer-egan/19580001?ean=9781476716763",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/GhT6cZ75/the-candy-house.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 0,
-      "pageCount": 4807,
-      "progress": 0,
-      "sortOrder": 162,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "General Fiction",
-          "colorCode": "rgb(145, 104, 104)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "eBook",
-          "colorCode": "#2c5813"
-        }
-      ]
     },
     {
       "bookId": 529,
@@ -11868,12 +11949,12 @@
       ]
     },
     {
-      "bookId": 531,
-      "title": "The Blighted Stars",
+      "bookId": 96,
+      "title": "Last to Leave the Room",
       "subTitle": "",
-      "fullTitle": "The Blighted Stars",
-      "author": "Megan E. O\u0027Keefe",
-      "link": "https://bookshop.org/p/books/the-blighted-stars-megan-e-o-keefe/17405812?ean=9780316290791",
+      "fullTitle": "Last to Leave the Room",
+      "author": "Caitlin Starling",
+      "link": "https://bookshop.org/p/books/last-to-leave-the-room-caitlin-starling/19486410",
       "dateStarted": null,
       "dateCompleted": null,
       "rating": 0,
@@ -11881,9 +11962,9 @@
       "thoughts": "",
       "coverImageUrl": "",
       "isAtLibrary": false,
-      "isPurchased": true,
+      "isPurchased": false,
       "currentPage": 1,
-      "pageCount": 483,
+      "pageCount": 0,
       "progress": 0,
       "sortOrder": 167,
       "status": {
@@ -11894,74 +11975,17 @@
         "name": "Fiction",
         "colorCode": "#1d3c8c"
       },
-      "series": {
-        "name": "The Devoured Worlds",
-        "colorCode": "#142f81"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
-        }
-      ]
+      "series": null,
+      "genres": [],
+      "formats": []
     },
     {
-      "bookId": 532,
-      "title": "The Fractured Dark",
+      "bookId": 524,
+      "title": "A Visit from the Goon Squad",
       "subTitle": "",
-      "fullTitle": "The Fractured Dark",
-      "author": "Megan E. O\u0027Keefe",
-      "link": "https://bookshop.org/p/books/the-fractured-dark-megan-e-o-keefe/19623182?ean=9780316291132",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 504,
-      "progress": 0,
-      "sortOrder": 168,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "The Devoured Worlds",
-        "colorCode": "#142f81"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
-        }
-      ]
-    },
-    {
-      "bookId": 533,
-      "title": "The Bound Worlds",
-      "subTitle": "",
-      "fullTitle": "The Bound Worlds",
-      "author": "Megan E. O\u0027Keefe",
-      "link": "https://bookshop.org/p/books/the-bound-worlds-megan-e-o-keefe/20589383?ean=9780316291576",
+      "fullTitle": "A Visit from the Goon Squad",
+      "author": "Jennifer Egan",
+      "link": "https://bookshop.org/p/books/a-visit-from-the-goon-squad-jennifer-egan/229047?ean=9780307477477",
       "dateStarted": null,
       "dateCompleted": null,
       "rating": 0,
@@ -11973,6 +11997,42 @@
       "currentPage": 1,
       "pageCount": 1,
       "progress": 100,
+      "sortOrder": 168,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "General Fiction",
+          "colorCode": "rgb(145, 104, 104)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 407,
+      "title": "The Candy House",
+      "subTitle": "",
+      "fullTitle": "The Candy House",
+      "author": "Jennifer Egan",
+      "link": "https://bookshop.org/p/books/the-candy-house-jennifer-egan/19580001?ean=9781476716763",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/GhT6cZ75/the-candy-house.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 0,
+      "pageCount": 4807,
+      "progress": 0,
       "sortOrder": 169,
       "status": {
         "name": "To Read",
@@ -11982,17 +12042,19 @@
         "name": "Fiction",
         "colorCode": "#1d3c8c"
       },
-      "series": {
-        "name": "The Devoured Worlds",
-        "colorCode": "#142f81"
-      },
+      "series": null,
       "genres": [
         {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
+          "name": "General Fiction",
+          "colorCode": "rgb(145, 104, 104)"
         }
       ],
-      "formats": []
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
     },
     {
       "bookId": 397,
@@ -13749,68 +13811,6 @@
       "type": {
         "name": "Fiction",
         "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
-      "bookId": 96,
-      "title": "Last to Leave the Room",
-      "subTitle": "",
-      "fullTitle": "Last to Leave the Room",
-      "author": "Caitlin Starling",
-      "link": "https://bookshop.org/p/books/last-to-leave-the-room-caitlin-starling/19486410",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 680,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
-      "bookId": 204,
-      "title": "Digital Minimalism",
-      "subTitle": "",
-      "fullTitle": "Digital Minimalism",
-      "author": "Cal Newport",
-      "link": "https://bookshop.org/p/books/digital-minimalism-choosing-a-focused-life-in-a-noisy-world-cal-newport/12081448?ean=9780525536512",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 690,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
       },
       "series": null,
       "genres": [],
