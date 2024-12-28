@@ -905,6 +905,34 @@
       ]
     },
     {
+      "televisionShowId": 20,
+      "title": "Frasier (2023)",
+      "imdbLink": "https://www.imdb.com/title/tt14124236/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/MHkwh71N/frasier2023.jpg",
+      "seasonEpisodeCount": 20,
+      "currentSeasonEpisode": 15,
+      "progress": 75,
+      "sortOrder": null,
+      "status": {
+        "name": "Watching",
+        "colorCode": "#005c78"
+      },
+      "genres": [
+        {
+          "name": "Comedy",
+          "colorCode": "#a60483"
+        }
+      ],
+      "services": [
+        {
+          "name": "Paramount\u002B",
+          "colorCode": "#037fb4"
+        }
+      ]
+    },
+    {
       "televisionShowId": 16,
       "title": "Good Eats",
       "imdbLink": "https://www.imdb.com/title/tt0344651/",
@@ -1031,24 +1059,6 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/mDJntmzd/forallmankind.jpg",
-      "seasonEpisodeCount": 0,
-      "currentSeasonEpisode": 0,
-      "progress": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "In Between Seasons",
-        "colorCode": "#901960"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 20,
-      "title": "Frasier (2023)",
-      "imdbLink": "https://www.imdb.com/title/tt14124236/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/MHkwh71N/frasier2023.jpg",
       "seasonEpisodeCount": 0,
       "currentSeasonEpisode": 0,
       "progress": 0,

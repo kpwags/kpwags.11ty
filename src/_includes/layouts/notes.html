@@ -14,14 +14,20 @@
 
 <body>
 	{% include "header.html" %}
-	<main>
-		<article class="note note-page">
-			<h1>{{ title }}</h1>
+
+	<div class="heading-block">
+		<div class="content">
 			<div class="metadata">
 				<div>{{ dateString }}</div>
 				<div>&bull;</div>
 				<div>{{ author }}</div>
 			</div>
+			<h1>{{ title }}</h1>
+		</div>
+	</div>
+
+	<main>
+		<article class="note note-page">
 			<div class="content">{{ content }}</div>
 			<div class="view-link"><a href="{{ link }}">Read More</a></div>
 			<hr />
