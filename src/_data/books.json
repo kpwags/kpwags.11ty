@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/3JLQhKg2/challenger-adam-higginbotham.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 289,
+      "currentPage": 333,
       "pageCount": 457,
-      "progress": 63,
+      "progress": 73,
       "sortOrder": 164,
       "status": {
         "name": "Reading",
@@ -11722,7 +11722,7 @@
       "thoughts": "",
       "coverImageUrl": "",
       "isAtLibrary": false,
-      "isPurchased": false,
+      "isPurchased": true,
       "currentPage": 1,
       "pageCount": 0,
       "progress": 0,
@@ -11736,8 +11736,22 @@
         "colorCode": "#244c43"
       },
       "series": null,
-      "genres": [],
-      "formats": []
+      "genres": [
+        {
+          "name": "Creativity",
+          "colorCode": "rgb(0, 146, 118)"
+        },
+        {
+          "name": "Self Help",
+          "colorCode": "rgb(75, 61, 190)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
+        }
+      ]
     },
     {
       "bookId": 531,
@@ -12255,6 +12269,47 @@
       "formats": []
     },
     {
+      "bookId": 98,
+      "title": "The Alignment Problem: Machine Learning and Human Values",
+      "subTitle": "",
+      "fullTitle": "The Alignment Problem: Machine Learning and Human Values",
+      "author": "Brian Christian",
+      "link": "https://bookshop.org/p/books/the-alignment-problem-machine-learning-and-human-values-brian-christian/16099409",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 329,
+      "progress": 0,
+      "sortOrder": 175,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Technology",
+          "colorCode": "rgb(55, 78, 146)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
+        }
+      ]
+    },
+    {
       "bookId": 419,
       "title": "Conflicted Scars: An Average Player\u2019s Journey to the NHL",
       "subTitle": "",
@@ -12273,37 +12328,6 @@
       "pageCount": 0,
       "progress": 0,
       "sortOrder": 180,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
-      "bookId": 98,
-      "title": "The Alignment Problem: Machine Learning and Human Values",
-      "subTitle": "",
-      "fullTitle": "The Alignment Problem: Machine Learning and Human Values",
-      "author": "Brian Christian",
-      "link": "https://bookshop.org/p/books/the-alignment-problem-machine-learning-and-human-values-brian-christian/16099409",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 200,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"

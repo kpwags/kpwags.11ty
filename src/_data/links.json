@@ -1,5 +1,85 @@
 [
   {
+    "linkId": 568,
+    "title": "Your Customers Don\u2019t Care About JavaScript",
+    "url": "https://codeopinion.com/your-customers-dont-care-about-javascript/",
+    "author": "Derek Comartin",
+    "linkDate": "2024-12-29T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 569,
+    "title": "Unsaid",
+    "url": "https://adactio.com/journal/21525",
+    "author": "Jeremy Keith",
+    "linkDate": "2024-12-29T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 570,
+    "title": "How bloom filters made SQLite 10x faster",
+    "url": "https://avi.im/blag/2024/sqlite-past-present-future/",
+    "author": "Avinash Sajjanshetty",
+    "linkDate": "2024-12-29T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 571,
+    "title": "Tooltip Best Practices",
+    "url": "https://css-tricks.com/tooltip-best-practices/",
+    "author": "Zell Liew",
+    "linkDate": "2024-12-29T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 567,
+    "title": "The couple months of Linux on the desktop.",
+    "url": "https://wil.to/switching-to-a-framework-and-ubuntu/",
+    "author": "Mat Marquis",
+    "linkDate": "2024-12-28T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
     "linkId": 565,
     "title": "Foundations: form validation and error messages",
     "url": "https://tetralogical.com/blog/2024/10/21/foundations-form-validation-and-error-messages/",
