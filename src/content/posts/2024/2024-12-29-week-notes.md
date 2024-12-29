@@ -1,0 +1,47 @@
+---
+title: "Week Notes for December 22 - 28"
+date: '2024-12-29T22:22:39.674Z'
+permalink: /posts/2024/12/29/week-notes/index.html
+description: "My week notes for the week of December 22 - December 28."
+tags:
+  - Week Notes
+  - Concert
+  - Music
+  - Philadelphia
+  - Travel
+  - Christmas
+  - Holidays
+  - Family
+---
+My week notes for the week of December 22 - December 28.
+<!-- excerpt -->
+
+## Notes
+
+### Christmas Eve Dinner
+
+Christmas Eve, my wife and I had her family over for the Feast of the Seven Fishes. Neither of us are Italian, but we both love seafood and it was a good way to spend time with the family for the holidays. I ended up cooking 10 different types of seafood and they all turned out great. I was stuffed...and exhausted after it, but it was totally worth it.
+
+### Christmas with My Family
+
+Christmas day we went up to Allentown to spend time with my immediate family. Saw my brother who I hadn’t seen for two years and his little ones. It was hectic but we had a nice time.
+
+### Trip into Philly & Dave Hause Concert
+
+My wife and I got tickets to see Dave Hause play at the First Unitarian Church of Philadelphia on Friday and we decided to make a day of it. We took the train into Philly and got a hotel room for the night.
+
+Friday afternoon we walked around the city, went to the Christmas Village at Dilworth Park and enjoyed the nice, if not a bit chilly weather. We had dinner at a nice whiskey bar (Village Whiskey) and then set off for the concert.
+
+The concert was amazing. Dave Hause played in the chapel which was a small intimate venue. It was an acoustic show and they didn’t use any kind of sound system as the room had great acoustics. It was such a great experience and I wish I had been able to get tickets to his second night as well. Either way, it was fun and I’m so glad I was able to go.
+
+## Interesting Links
+
+{% renderTemplate "webc" %}
+<shared-link title="The couple months of Linux on the desktop." url="https://wil.to/switching-to-a-framework-and-ubuntu/" author="Mat Marquis">
+A good real-life look at the options one has for using Linux as a primary machine.
+</shared-link>
+
+<shared-link title="Unsaid" url="https://adactio.com/journal/21525" author="Jeremy Keith">
+Some good thoughts here by Jeremy after he attended a conference with guests talking about AI.
+</shared-link>
+{% endrenderTemplate %}

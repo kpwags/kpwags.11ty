@@ -97,31 +97,5 @@
         "colorCode": "#6a4bc9"
       }
     ]
-  },
-  {
-    "movieId": 156,
-    "title": "Clue",
-    "imdbLink": "https://www.imdb.com/title/tt0088930/",
-    "dateWatched": "2024-11-29T05:00:00Z",
-    "sortOrder": null,
-    "rating": 3,
-    "thoughts": "This was enjoyable. Got a bunch of good laughs and had a pretty good cast.",
-    "posterImageUrl": "https://i.postimg.cc/RZCGM6sb/clue.jpg",
-    "status": {
-      "name": "Watched",
-      "colorCode": "#2a9a39"
-    },
-    "genres": [
-      {
-        "name": "Comedy",
-        "colorCode": "#a60483"
-      }
-    ],
-    "services": [
-      {
-        "name": "Paramount\u002B",
-        "colorCode": "#037fb4"
-      }
-    ]
   }
 ]
