@@ -379,42 +379,6 @@
       "services": []
     },
     {
-      "televisionShowId": 69,
-      "title": "Arrested Development",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "seasonEpisodeCount": 0,
-      "currentSeasonEpisode": 0,
-      "progress": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 44,
-      "title": "Anthony Bourdain: Parts Unknown",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "seasonEpisodeCount": 0,
-      "currentSeasonEpisode": 0,
-      "progress": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
       "televisionShowId": 24,
       "title": "1923",
       "imdbLink": "",
@@ -873,6 +837,34 @@
   ],
   "inProgress": [
     {
+      "televisionShowId": 44,
+      "title": "Anthony Bourdain: Parts Unknown",
+      "imdbLink": "https://www.imdb.com/title/tt2845786/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/0yvvnFr1/anthony-bourdain-parts-unknown.jpg",
+      "seasonEpisodeCount": 107,
+      "currentSeasonEpisode": 2,
+      "progress": 2,
+      "sortOrder": null,
+      "status": {
+        "name": "Watching",
+        "colorCode": "#005c78"
+      },
+      "genres": [
+        {
+          "name": "Food",
+          "colorCode": "#058329"
+        }
+      ],
+      "services": [
+        {
+          "name": "HBO",
+          "colorCode": "#6a4bc9"
+        }
+      ]
+    },
+    {
       "televisionShowId": 103,
       "title": "Elsbeth",
       "imdbLink": "https://www.imdb.com/title/tt26591110/",
@@ -880,8 +872,8 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/sg4Dv2Mx/ellsbeth.jpg",
       "seasonEpisodeCount": 20,
-      "currentSeasonEpisode": 16,
-      "progress": 80,
+      "currentSeasonEpisode": 18,
+      "progress": 90,
       "sortOrder": null,
       "status": {
         "name": "Watching",
@@ -912,8 +904,8 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/jj33JDQr/goodeats.jpg",
       "seasonEpisodeCount": 252,
-      "currentSeasonEpisode": 111,
-      "progress": 44,
+      "currentSeasonEpisode": 116,
+      "progress": 46,
       "sortOrder": 3,
       "status": {
         "name": "Watching",
@@ -929,66 +921,6 @@
         {
           "name": "HBO",
           "colorCode": "#6a4bc9"
-        }
-      ]
-    },
-    {
-      "televisionShowId": 49,
-      "title": "The Last of Us",
-      "imdbLink": "https://m.imdb.com/title/tt3581920/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/J4NHSJqC/the-last-of-us.jpg",
-      "seasonEpisodeCount": 16,
-      "currentSeasonEpisode": 7,
-      "progress": 44,
-      "sortOrder": null,
-      "status": {
-        "name": "Watching",
-        "colorCode": "#005c78"
-      },
-      "genres": [
-        {
-          "name": "Drama",
-          "colorCode": "#481180"
-        },
-        {
-          "name": "Science Fiction",
-          "colorCode": "#1b7016"
-        }
-      ],
-      "services": [
-        {
-          "name": "HBO",
-          "colorCode": "#6a4bc9"
-        }
-      ]
-    },
-    {
-      "televisionShowId": 89,
-      "title": "Star Trek: Lower Decks",
-      "imdbLink": "https://www.imdb.com/title/tt9184820/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/KzkqStqt/lowerdecks.jpg",
-      "seasonEpisodeCount": 50,
-      "currentSeasonEpisode": 49,
-      "progress": 98,
-      "sortOrder": null,
-      "status": {
-        "name": "Watching",
-        "colorCode": "#005c78"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#1b7016"
-        }
-      ],
-      "services": [
-        {
-          "name": "Paramount\u002B",
-          "colorCode": "#037fb4"
         }
       ]
     },
@@ -1109,16 +1041,26 @@
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/MHkwh71N/frasier2023.jpg",
-      "seasonEpisodeCount": 0,
-      "currentSeasonEpisode": 0,
-      "progress": 0,
+      "seasonEpisodeCount": 20,
+      "currentSeasonEpisode": 20,
+      "progress": 100,
       "sortOrder": null,
       "status": {
         "name": "In Between Seasons",
         "colorCode": "#901960"
       },
-      "genres": [],
-      "services": []
+      "genres": [
+        {
+          "name": "Comedy",
+          "colorCode": "#a60483"
+        }
+      ],
+      "services": [
+        {
+          "name": "Paramount\u002B",
+          "colorCode": "#037fb4"
+        }
+      ]
     },
     {
       "televisionShowId": 47,
@@ -1137,6 +1079,38 @@
       },
       "genres": [],
       "services": []
+    },
+    {
+      "televisionShowId": 49,
+      "title": "The Last of Us",
+      "imdbLink": "https://m.imdb.com/title/tt3581920/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/J4NHSJqC/the-last-of-us.jpg",
+      "seasonEpisodeCount": 16,
+      "currentSeasonEpisode": 9,
+      "progress": 56,
+      "sortOrder": null,
+      "status": {
+        "name": "In Between Seasons",
+        "colorCode": "#901960"
+      },
+      "genres": [
+        {
+          "name": "Drama",
+          "colorCode": "#481180"
+        },
+        {
+          "name": "Science Fiction",
+          "colorCode": "#1b7016"
+        }
+      ],
+      "services": [
+        {
+          "name": "HBO",
+          "colorCode": "#6a4bc9"
+        }
+      ]
     },
     {
       "televisionShowId": 26,
@@ -1907,6 +1881,34 @@
       },
       "genres": [],
       "services": []
+    },
+    {
+      "televisionShowId": 89,
+      "title": "Star Trek: Lower Decks",
+      "imdbLink": "https://www.imdb.com/title/tt9184820/",
+      "rating": 5,
+      "thoughts": "I loved this series. It did such a fantastic job of mixing humor and the essence of Star Trek. So many great Easter eggs as well. It\u2019s such a shame that it was cancelled so soon.",
+      "coverImageUrl": "https://i.postimg.cc/KzkqStqt/lowerdecks.jpg",
+      "seasonEpisodeCount": 50,
+      "currentSeasonEpisode": 50,
+      "progress": 100,
+      "sortOrder": null,
+      "status": {
+        "name": "Watched",
+        "colorCode": "#343aa8"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "#1b7016"
+        }
+      ],
+      "services": [
+        {
+          "name": "Paramount\u002B",
+          "colorCode": "#037fb4"
+        }
+      ]
     },
     {
       "televisionShowId": 61,

@@ -1,0 +1,21 @@
+---
+layout: "layouts/layout.html"
+title: "2025 Archives"
+---
+
+<main>
+	<h1>2025 Archives</h1>
+
+	<section class="archives-list">
+		<ul>
+			{% for post in collections.postsByYear[2025] %}
+			<li>
+				<a href="{{ post.url }}">
+					<span class="text">{{ post.data.title }}</span>
+					<span class="meta">{{ post.data.dateString }}</span>
+				</a>
+			</li>
+			{% endfor %}
+		</ul>
+	</section>
+</main>

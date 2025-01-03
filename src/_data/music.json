@@ -2311,7 +2311,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/NftP1cRc/chuck-ragan-gold-country.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Folk",
@@ -2795,7 +2795,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/25xBcyC0/davehause-burymeinphilly.jpg",
     "isTopTen": false,
-    "showOnNowPage": false,
+    "showOnNowPage": true,
     "genres": [
       {
         "name": "Alternative",
@@ -3049,6 +3049,45 @@
       {
         "trackNumber": 8,
         "title": "The Odds"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 189,
+    "title": "Home Alone",
+    "artist": "Dave Hause",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/prv9JfQ0/dave-hause-home-alone.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Home Alone"
+      },
+      {
+        "trackNumber": 2,
+        "title": "We Could Be Kings"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Kinda Homeless"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Autism Vaccine Blues"
       }
     ]
   },

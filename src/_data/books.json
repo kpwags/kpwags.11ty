@@ -1,46 +1,88 @@
 {
   "inProgress": [
     {
-      "bookId": 184,
-      "title": "Fugitive Telemetry",
+      "bookId": 204,
+      "title": "Digital Minimalism",
       "subTitle": "",
-      "fullTitle": "Fugitive Telemetry",
-      "author": "Martha Wells",
-      "link": "https://bookshop.org/p/books/fugitive-telemetry-martha-wells/14596858",
-      "dateStarted": "2024-12-15T00:00:00Z",
+      "fullTitle": "Digital Minimalism",
+      "author": "Cal Newport",
+      "link": "https://bookshop.org/p/books/digital-minimalism-choosing-a-focused-life-in-a-noisy-world-cal-newport/12081448?ean=9780525536512",
+      "dateStarted": "2024-12-31T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/vHWSMW9r/fugitive-telemetry.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 752,
-      "pageCount": 1866,
-      "progress": 40,
-      "sortOrder": 150,
+      "coverImageUrl": "https://i.postimg.cc/bJXxWHbn/digital-minimalism.jpg",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 144,
+      "pageCount": 254,
+      "progress": 57,
+      "sortOrder": 161,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
       },
       "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
       },
-      "series": {
-        "name": "Murderbot Diaries",
-        "colorCode": "#07197c"
-      },
+      "series": null,
       "genres": [
         {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
+          "name": "Creativity",
+          "colorCode": "rgb(0, 146, 118)"
+        },
+        {
+          "name": "Self Help",
+          "colorCode": "rgb(75, 61, 190)"
         }
       ],
       "formats": [
         {
-          "name": "eBook",
-          "colorCode": "#2c5813"
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
+        }
+      ]
+    },
+    {
+      "bookId": 477,
+      "title": "The Death of Expertise",
+      "subTitle": "The Campaign Against Established Knowledge and Why It Matters",
+      "fullTitle": "The Death of Expertise: The Campaign Against Established Knowledge and Why It Matters",
+      "author": "Tom Nichols",
+      "link": "https://bookshop.org/books/the-death-of-expertise-the-campaign-against-established-knowledge-and-why-it-matters/9780190865979",
+      "dateStarted": "2025-01-02T00:00:00Z",
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/yx9JsnfF/death-of-expertise.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 68,
+      "pageCount": 520,
+      "progress": 13,
+      "sortOrder": 900,
+      "status": {
+        "name": "Reading",
+        "colorCode": "#6a208f"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Politics",
+          "colorCode": "rgb(130, 40, 40)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Audiobook",
+          "colorCode": "#b300b3"
         }
       ]
     }
@@ -49,6 +91,135 @@
     {
       "year": "2024",
       "books": [
+        {
+          "bookId": 528,
+          "title": "Challenger",
+          "subTitle": "A True Story of Heroism and Disaster on the Edge of Space",
+          "fullTitle": "Challenger: A True Story of Heroism and Disaster on the Edge of Space",
+          "author": "Adam Higginbotham",
+          "link": "https://bookshop.org/p/books/challenger-an-american-tragedy-adam-higginbotham/20712668?ean=9781982176617",
+          "dateStarted": "2024-12-23T00:00:00Z",
+          "dateCompleted": "2024-12-31T00:00:00Z",
+          "rating": 5,
+          "bookNotesUrl": "adam-higginbotham-challenger",
+          "thoughts": "I loved this. It was a great read talking about the development of the Space Shuttle as well as all the details that led to the Challenger disaster. It was in depth and even provided me with more details that I didn\u2019t realize.",
+          "coverImageUrl": "https://i.postimg.cc/3JLQhKg2/challenger-adam-higginbotham.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 457,
+          "pageCount": 457,
+          "progress": 100,
+          "sortOrder": 164,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
+        },
+        {
+          "bookId": 183,
+          "title": "System Collapse",
+          "subTitle": "",
+          "fullTitle": "System Collapse",
+          "author": "Martha Wells",
+          "link": "https://bookshop.org/p/books/system-collapse-martha-wells/19538545",
+          "dateStarted": "2024-12-18T00:00:00Z",
+          "dateCompleted": "2024-12-22T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "Another solid story in the series. Going to have to wait until the next, sadly.",
+          "coverImageUrl": "https://i.postimg.cc/g2sSLmgr/system-collapse.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 3044,
+          "pageCount": 3044,
+          "progress": 100,
+          "sortOrder": 160,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": {
+            "name": "Murderbot Diaries",
+            "colorCode": "#07197c"
+          },
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
+        },
+        {
+          "bookId": 184,
+          "title": "Fugitive Telemetry",
+          "subTitle": "",
+          "fullTitle": "Fugitive Telemetry",
+          "author": "Martha Wells",
+          "link": "https://bookshop.org/p/books/fugitive-telemetry-martha-wells/14596858",
+          "dateStarted": "2024-12-15T00:00:00Z",
+          "dateCompleted": "2024-12-17T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "Another solid book in the series, this time with a true crime kind of vibe.",
+          "coverImageUrl": "https://i.postimg.cc/vHWSMW9r/fugitive-telemetry.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 1866,
+          "pageCount": 1866,
+          "progress": 100,
+          "sortOrder": 150,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": {
+            "name": "Murderbot Diaries",
+            "colorCode": "#07197c"
+          },
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
+        },
         {
           "bookId": 185,
           "title": "Network Effect",
@@ -141,10 +312,10 @@
           "fullTitle": "Nuclear War: A Scenario",
           "author": "Annie Jacobsen",
           "link": "https://bookshop.org/p/books/nuclear-war-a-scenario-annie-jacobsen/20335598?ean=9780593476093",
-          "dateStarted": "2024-11-22T05:00:00Z",
-          "dateCompleted": "2024-12-03T05:00:00Z",
+          "dateStarted": "2024-11-22T00:00:00Z",
+          "dateCompleted": "2024-12-03T00:00:00Z",
           "rating": 5,
-          "bookNotesUrl": "",
+          "bookNotesUrl": "annie-jacobsen-nuclear-war",
           "thoughts": "This was a scary read. It was incredibly fascinating to see how nuclear war might play out in the real world and how awful it is and how you just can\u0027t win. I\u0027d recommend it.",
           "coverImageUrl": "https://i.postimg.cc/kG7B69nz/nuclear-war-a-scenario.jpg",
           "isAtLibrary": true,
@@ -186,10 +357,10 @@
           "fullTitle": "Battle Cry of Freedom: The Civil War Era",
           "author": "James M. McPherson",
           "link": "https://bookshop.org/p/books/battle-cry-of-freedom-the-civil-war-era-james-m-mcpherson/7413205?ean=9780195168952",
-          "dateStarted": "2024-10-15T04:00:00Z",
-          "dateCompleted": "2024-11-30T05:00:00Z",
+          "dateStarted": "2024-10-15T00:00:00Z",
+          "dateCompleted": "2024-11-30T00:00:00Z",
           "rating": 4,
-          "bookNotesUrl": "",
+          "bookNotesUrl": "james-m-mcpherson-battle-cry-of-freedom",
           "thoughts": "This was a fascinating, albeit long read into the history of the Civil War. It provided a lot of details that I had not fully known and I would recommend it to anyone interested in history.",
           "coverImageUrl": "https://i.postimg.cc/TPQzxnz7/battlecry-of-freedom.jpg",
           "isAtLibrary": false,
@@ -11624,24 +11795,24 @@
   ],
   "toRead": [
     {
-      "bookId": 183,
-      "title": "System Collapse",
+      "bookId": 531,
+      "title": "The Blighted Stars",
       "subTitle": "",
-      "fullTitle": "System Collapse",
-      "author": "Martha Wells",
-      "link": "https://bookshop.org/p/books/system-collapse-martha-wells/19538545",
+      "fullTitle": "The Blighted Stars",
+      "author": "Megan E. O\u0027Keefe",
+      "link": "https://bookshop.org/p/books/the-blighted-stars-megan-e-o-keefe/17405812?ean=9780316290791",
       "dateStarted": null,
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/g2sSLmgr/system-collapse.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
       "currentPage": 1,
-      "pageCount": 3044,
+      "pageCount": 483,
       "progress": 0,
-      "sortOrder": 160,
+      "sortOrder": 162,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"
@@ -11651,8 +11822,8 @@
         "colorCode": "#1d3c8c"
       },
       "series": {
-        "name": "Murderbot Diaries",
-        "colorCode": "#07197c"
+        "name": "The Devoured Worlds",
+        "colorCode": "#142f81"
       },
       "genres": [
         {
@@ -11662,18 +11833,62 @@
       ],
       "formats": [
         {
-          "name": "eBook",
-          "colorCode": "#2c5813"
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
         }
       ]
     },
     {
-      "bookId": 524,
-      "title": "A Visit from the Goon Squad",
+      "bookId": 532,
+      "title": "The Fractured Dark",
       "subTitle": "",
-      "fullTitle": "A Visit from the Goon Squad",
-      "author": "Jennifer Egan",
-      "link": "https://bookshop.org/p/books/a-visit-from-the-goon-squad-jennifer-egan/229047?ean=9780307477477",
+      "fullTitle": "The Fractured Dark",
+      "author": "Megan E. O\u0027Keefe",
+      "link": "https://bookshop.org/p/books/the-fractured-dark-megan-e-o-keefe/19623182?ean=9780316291132",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 504,
+      "progress": 0,
+      "sortOrder": 163,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "The Devoured Worlds",
+        "colorCode": "#142f81"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
+        }
+      ]
+    },
+    {
+      "bookId": 533,
+      "title": "The Bound Worlds",
+      "subTitle": "",
+      "fullTitle": "The Bound Worlds",
+      "author": "Megan E. O\u0027Keefe",
+      "link": "https://bookshop.org/p/books/the-bound-worlds-megan-e-o-keefe/20589383?ean=9780316291576",
       "dateStarted": null,
       "dateCompleted": null,
       "rating": 0,
@@ -11685,105 +11900,26 @@
       "currentPage": 1,
       "pageCount": 1,
       "progress": 100,
-      "sortOrder": 161,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "General Fiction",
-          "colorCode": "rgb(145, 104, 104)"
-        }
-      ],
-      "formats": []
-    },
-    {
-      "bookId": 407,
-      "title": "The Candy House",
-      "subTitle": "",
-      "fullTitle": "The Candy House",
-      "author": "Jennifer Egan",
-      "link": "https://bookshop.org/p/books/the-candy-house-jennifer-egan/19580001?ean=9781476716763",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/GhT6cZ75/the-candy-house.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 0,
-      "pageCount": 4807,
-      "progress": 0,
-      "sortOrder": 162,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "General Fiction",
-          "colorCode": "rgb(145, 104, 104)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "eBook",
-          "colorCode": "#2c5813"
-        }
-      ]
-    },
-    {
-      "bookId": 528,
-      "title": "Challenger",
-      "subTitle": "A True Story of Heroism and Disaster on the Edge of Space",
-      "fullTitle": "Challenger: A True Story of Heroism and Disaster on the Edge of Space",
-      "author": "Adam Higginbotham",
-      "link": "https://bookshop.org/p/books/challenger-an-american-tragedy-adam-higginbotham/20712668?ean=9781982176617",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/3JLQhKg2/challenger-adam-higginbotham.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 457,
-      "progress": 0,
       "sortOrder": 164,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"
       },
       "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
       },
-      "series": null,
+      "series": {
+        "name": "The Devoured Worlds",
+        "colorCode": "#142f81"
+      },
       "genres": [
         {
-          "name": "History",
-          "colorCode": "rgb(4, 38, 142)"
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
         }
       ],
-      "formats": [
-        {
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
-        }
-      ]
+      "formats": []
     },
     {
       "bookId": 529,
@@ -11868,12 +12004,12 @@
       ]
     },
     {
-      "bookId": 531,
-      "title": "The Blighted Stars",
+      "bookId": 96,
+      "title": "Last to Leave the Room",
       "subTitle": "",
-      "fullTitle": "The Blighted Stars",
-      "author": "Megan E. O\u0027Keefe",
-      "link": "https://bookshop.org/p/books/the-blighted-stars-megan-e-o-keefe/17405812?ean=9780316290791",
+      "fullTitle": "Last to Leave the Room",
+      "author": "Caitlin Starling",
+      "link": "https://bookshop.org/p/books/last-to-leave-the-room-caitlin-starling/19486410",
       "dateStarted": null,
       "dateCompleted": null,
       "rating": 0,
@@ -11881,9 +12017,9 @@
       "thoughts": "",
       "coverImageUrl": "",
       "isAtLibrary": false,
-      "isPurchased": true,
+      "isPurchased": false,
       "currentPage": 1,
-      "pageCount": 483,
+      "pageCount": 0,
       "progress": 0,
       "sortOrder": 167,
       "status": {
@@ -11894,74 +12030,17 @@
         "name": "Fiction",
         "colorCode": "#1d3c8c"
       },
-      "series": {
-        "name": "The Devoured Worlds",
-        "colorCode": "#142f81"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
-        }
-      ]
+      "series": null,
+      "genres": [],
+      "formats": []
     },
     {
-      "bookId": 532,
-      "title": "The Fractured Dark",
+      "bookId": 524,
+      "title": "A Visit from the Goon Squad",
       "subTitle": "",
-      "fullTitle": "The Fractured Dark",
-      "author": "Megan E. O\u0027Keefe",
-      "link": "https://bookshop.org/p/books/the-fractured-dark-megan-e-o-keefe/19623182?ean=9780316291132",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 504,
-      "progress": 0,
-      "sortOrder": 168,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "The Devoured Worlds",
-        "colorCode": "#142f81"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
-        }
-      ]
-    },
-    {
-      "bookId": 533,
-      "title": "The Bound Worlds",
-      "subTitle": "",
-      "fullTitle": "The Bound Worlds",
-      "author": "Megan E. O\u0027Keefe",
-      "link": "https://bookshop.org/p/books/the-bound-worlds-megan-e-o-keefe/20589383?ean=9780316291576",
+      "fullTitle": "A Visit from the Goon Squad",
+      "author": "Jennifer Egan",
+      "link": "https://bookshop.org/p/books/a-visit-from-the-goon-squad-jennifer-egan/229047?ean=9780307477477",
       "dateStarted": null,
       "dateCompleted": null,
       "rating": 0,
@@ -11973,6 +12052,42 @@
       "currentPage": 1,
       "pageCount": 1,
       "progress": 100,
+      "sortOrder": 168,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "General Fiction",
+          "colorCode": "rgb(145, 104, 104)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 407,
+      "title": "The Candy House",
+      "subTitle": "",
+      "fullTitle": "The Candy House",
+      "author": "Jennifer Egan",
+      "link": "https://bookshop.org/p/books/the-candy-house-jennifer-egan/19580001?ean=9781476716763",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/GhT6cZ75/the-candy-house.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 0,
+      "pageCount": 4807,
+      "progress": 0,
       "sortOrder": 169,
       "status": {
         "name": "To Read",
@@ -11982,17 +12097,19 @@
         "name": "Fiction",
         "colorCode": "#1d3c8c"
       },
-      "series": {
-        "name": "The Devoured Worlds",
-        "colorCode": "#142f81"
-      },
+      "series": null,
       "genres": [
         {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
+          "name": "General Fiction",
+          "colorCode": "rgb(145, 104, 104)"
         }
       ],
-      "formats": []
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
     },
     {
       "bookId": 397,
@@ -12193,6 +12310,47 @@
       "formats": []
     },
     {
+      "bookId": 98,
+      "title": "The Alignment Problem: Machine Learning and Human Values",
+      "subTitle": "",
+      "fullTitle": "The Alignment Problem: Machine Learning and Human Values",
+      "author": "Brian Christian",
+      "link": "https://bookshop.org/p/books/the-alignment-problem-machine-learning-and-human-values-brian-christian/16099409",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 329,
+      "progress": 0,
+      "sortOrder": 175,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Technology",
+          "colorCode": "rgb(55, 78, 146)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
+        }
+      ]
+    },
+    {
       "bookId": 419,
       "title": "Conflicted Scars: An Average Player\u2019s Journey to the NHL",
       "subTitle": "",
@@ -12211,37 +12369,6 @@
       "pageCount": 0,
       "progress": 0,
       "sortOrder": 180,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
-      "bookId": 98,
-      "title": "The Alignment Problem: Machine Learning and Human Values",
-      "subTitle": "",
-      "fullTitle": "The Alignment Problem: Machine Learning and Human Values",
-      "author": "Brian Christian",
-      "link": "https://bookshop.org/p/books/the-alignment-problem-machine-learning-and-human-values-brian-christian/16099409",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 200,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"
@@ -13755,68 +13882,6 @@
       "formats": []
     },
     {
-      "bookId": 96,
-      "title": "Last to Leave the Room",
-      "subTitle": "",
-      "fullTitle": "Last to Leave the Room",
-      "author": "Caitlin Starling",
-      "link": "https://bookshop.org/p/books/last-to-leave-the-room-caitlin-starling/19486410",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 680,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
-      "bookId": 204,
-      "title": "Digital Minimalism",
-      "subTitle": "",
-      "fullTitle": "Digital Minimalism",
-      "author": "Cal Newport",
-      "link": "https://bookshop.org/p/books/digital-minimalism-choosing-a-focused-life-in-a-noisy-world-cal-newport/12081448?ean=9780525536512",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 690,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
       "bookId": 374,
       "title": "To a Fungus Unknown",
       "subTitle": "",
@@ -14393,37 +14458,6 @@
       "pageCount": 0,
       "progress": 0,
       "sortOrder": 890,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
-      "bookId": 477,
-      "title": "The Death of Expertise: The Campaign Against Established Knowledge and Why It Matters",
-      "subTitle": "",
-      "fullTitle": "The Death of Expertise: The Campaign Against Established Knowledge and Why It Matters",
-      "author": "Tom Nichols",
-      "link": "https://bookshop.org/books/the-death-of-expertise-the-campaign-against-established-knowledge-and-why-it-matters/9780190865979",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 900,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"

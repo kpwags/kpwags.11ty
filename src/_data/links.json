@@ -1,5 +1,357 @@
 [
   {
+    "linkId": 573,
+    "title": "On Being a Senior Software Developer with Shawn Wildermuth",
+    "url": "https://www.dotnetrocks.com/details/1898",
+    "author": ".NET Rocks",
+    "linkDate": "2025-01-01T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 574,
+    "title": "Entering a New Phase of the Web, with Citation Needed\u2019s Molly White",
+    "url": "https://dot-social.simplecast.com/episodes/molly-white",
+    "author": "Dot Social",
+    "linkDate": "2025-01-01T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 568,
+    "title": "Your Customers Don\u2019t Care About JavaScript",
+    "url": "https://codeopinion.com/your-customers-dont-care-about-javascript/",
+    "author": "Derek Comartin",
+    "linkDate": "2024-12-29T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 569,
+    "title": "Unsaid",
+    "url": "https://adactio.com/journal/21525",
+    "author": "Jeremy Keith",
+    "linkDate": "2024-12-29T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 570,
+    "title": "How bloom filters made SQLite 10x faster",
+    "url": "https://avi.im/blag/2024/sqlite-past-present-future/",
+    "author": "Avinash Sajjanshetty",
+    "linkDate": "2024-12-29T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 571,
+    "title": "Tooltip Best Practices",
+    "url": "https://css-tricks.com/tooltip-best-practices/",
+    "author": "Zell Liew",
+    "linkDate": "2024-12-29T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 572,
+    "title": "Is there really a way to push back on the complexity of the web?",
+    "url": "https://macwright.com/2024/11/16/web-complexity.html",
+    "author": "Tom MacWright",
+    "linkDate": "2024-12-29T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 567,
+    "title": "The couple months of Linux on the desktop.",
+    "url": "https://wil.to/switching-to-a-framework-and-ubuntu/",
+    "author": "Mat Marquis",
+    "linkDate": "2024-12-28T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 565,
+    "title": "Foundations: form validation and error messages",
+    "url": "https://tetralogical.com/blog/2024/10/21/foundations-form-validation-and-error-messages/",
+    "author": "Demelza Feltham",
+    "linkDate": "2024-12-23T00:00:00Z",
+    "readingLogIssueNumber": 104,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 566,
+    "title": "Quality Means The Flexibility to Change",
+    "url": "https://blog.jim-nielsen.com/2024/easy-changes/",
+    "author": "Jim Nielsen",
+    "linkDate": "2024-12-23T00:00:00Z",
+    "readingLogIssueNumber": 104,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 563,
+    "title": "Next-level frosted glass with backdrop-filter",
+    "url": "https://www.joshwcomeau.com/css/backdrop-filter/",
+    "author": "Josh W. Comeau",
+    "linkDate": "2024-12-22T00:00:00Z",
+    "readingLogIssueNumber": 104,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 564,
+    "title": "Making content-aware components using CSS :has(), grid, and quantity queries",
+    "url": "https://piccalil.li/blog/making-content-aware-components-using-css-has-grid-and-quantity-queries/?ref=main-rss-feed",
+    "author": "Eric Bailey",
+    "linkDate": "2024-12-22T00:00:00Z",
+    "readingLogIssueNumber": 104,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 561,
+    "title": "The Lowest Common Denominator: www",
+    "url": "https://blog.jim-nielsen.com/2024/lowest-common-denominator/",
+    "author": "Jim Nielsen",
+    "linkDate": "2024-12-20T00:00:00Z",
+    "readingLogIssueNumber": 104,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 562,
+    "title": "\u2018Everything Is a Conspiracy Theory When You Don\u2019t Trust Anything\u2019",
+    "url": "https://pxlnv.com/linklog/everything-is-a-conspiracy-theory/",
+    "author": "Nick Heer",
+    "linkDate": "2024-12-20T00:00:00Z",
+    "readingLogIssueNumber": 104,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 557,
+    "title": "10 modern Node.js runtime features to start using in 2024",
+    "url": "https://snyk.io/blog/10-modern-node-js-runtime-features/",
+    "author": "Liran Tal",
+    "linkDate": "2024-12-19T00:00:00Z",
+    "readingLogIssueNumber": 104,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 558,
+    "title": "React v19",
+    "url": "https://react.dev/blog/2024/12/05/react-19",
+    "author": "The React Team",
+    "linkDate": "2024-12-19T00:00:00Z",
+    "readingLogIssueNumber": 104,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 559,
+    "title": "Understanding the main thread in the browser",
+    "url": "https://calendar.perfplanet.com/2024/understanding-the-main-thread-in-the-browser/",
+    "author": "Amrik Malhans",
+    "linkDate": "2024-12-19T00:00:00Z",
+    "readingLogIssueNumber": 104,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 560,
+    "title": "12 Modern CSS One-Line Upgrades",
+    "url": "https://moderncss.dev/12-modern-css-one-line-upgrades/",
+    "author": "Stephanie Eckles",
+    "linkDate": "2024-12-19T00:00:00Z",
+    "readingLogIssueNumber": 104,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 556,
+    "title": "Attacker Has Techdirt Reclassified As Phishing Site, Proving Masnick\u2019s Impossibility Law Once Again",
+    "url": "https://www.techdirt.com/2024/12/12/attacker-has-techdirt-reclassified-as-phishing-site-proving-masnicks-impossibility-law-once-again/",
+    "author": "Mike Masnick",
+    "linkDate": "2024-12-18T00:00:00Z",
+    "readingLogIssueNumber": 104,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 553,
+    "title": "Prompting the Wrong Question",
+    "url": "https://blog.jim-nielsen.com/2024/prompting-the-wrong-question/",
+    "author": "Jim Nielsen",
+    "linkDate": "2024-12-17T00:00:00Z",
+    "readingLogIssueNumber": 104,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 554,
+    "title": "I\u2019ve Been Doing Blockquotes Wrong",
+    "url": "https://css-irl.info/ive-been-doing-blockquotes-wrong/",
+    "author": "Michelle Barker",
+    "linkDate": "2024-12-17T00:00:00Z",
+    "readingLogIssueNumber": 104,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 555,
+    "title": "To Log Into WordPress, You Now Have To Agree Pineapple on Pizza Is Good",
+    "url": "https://www.404media.co/wordpress-login-pineapple-on-pizza/",
+    "author": "Samantha Cole",
+    "linkDate": "2024-12-17T00:00:00Z",
+    "readingLogIssueNumber": 104,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
     "linkId": 551,
     "title": "Placeholders in Form Fields Are Harmful",
     "url": "https://www.nngroup.com/articles/form-design-placeholders/",
