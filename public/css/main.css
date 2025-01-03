@@ -1184,12 +1184,8 @@ ul.links li a:hover span.meta {
 }
 /* end pagination */
 
-.heading-block {
-	border-bottom: 1px solid var(--border-color);
-}
-
 .heading-block .content {
-	width: var(--heading-block-width);
+	width: var(--width);
 	margin: 24px auto;
 }
 
