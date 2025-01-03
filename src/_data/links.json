@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 573,
+    "title": "On Being a Senior Software Developer with Shawn Wildermuth",
+    "url": "https://www.dotnetrocks.com/details/1898",
+    "author": ".NET Rocks",
+    "linkDate": "2025-01-01T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 574,
+    "title": "Entering a New Phase of the Web, with Citation Needed\u2019s Molly White",
+    "url": "https://dot-social.simplecast.com/episodes/molly-white",
+    "author": "Dot Social",
+    "linkDate": "2025-01-01T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 568,
     "title": "Your Customers Don\u2019t Care About JavaScript",
     "url": "https://codeopinion.com/your-customers-dont-care-about-javascript/",
@@ -52,6 +84,22 @@
     "title": "Tooltip Best Practices",
     "url": "https://css-tricks.com/tooltip-best-practices/",
     "author": "Zell Liew",
+    "linkDate": "2024-12-29T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 572,
+    "title": "Is there really a way to push back on the complexity of the web?",
+    "url": "https://macwright.com/2024/11/16/web-complexity.html",
+    "author": "Tom MacWright",
     "linkDate": "2024-12-29T00:00:00Z",
     "readingLogIssueNumber": 105,
     "type": {
