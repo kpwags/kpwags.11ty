@@ -1,14 +1,14 @@
 ---
 title: "Movies I Watched in 2024"
-date: '2024-12-16T23:56:18.376Z'
-permalink: /posts/2024/12/16/movies-i-watched-in-2024/index.html
+date: '2025-01-03T00:38:13Z'
+permalink: /posts/2025/01/03/movies-i-watched-in-2024/index.html
 description: "A look back at the movies I watched in 2024 as well as some quick thoughts on them."
 tags:
   - Movies
   - Media
 ---
 
-My wife and I have a system where we often have movie nights and take turns picking the movie. We continued it this year. We didn't quite hit the count we did last year, but 
+My wife and I have a system where we often have movie nights and take turns picking the movie. We continued it this year. We didn't quite hit the count we did last year, but we still tallied 26 this past year.
 <!-- excerpt -->
 
 ## My Favorite Movies Seen in 2024
@@ -100,6 +100,15 @@ My wife and I have a system where we often have movie nights and take turns pick
 >
 	I had never seen this before. It definitely had its dumb parts, but it was funny and the cast was good.
 </media-box>
+
+<media-box
+  title="Indiana Jones and the Temple of Doom"
+  image="https://i.postimg.cc/C1BVDywp/temple-of-doom.jpg"
+  link="https://www.imdb.com/title/tt0087469/"
+  rating="3"
+>
+	Definitely liked Raiders of the Lost Ark better. Not sure if it’s time or what, but this felt kind of corny.
+</media-box>
 {% endrenderTemplate %}
 
 ## Did Not Like and Could Not Finish
@@ -130,3 +139,5 @@ My wife and I have a system where we often have movie nights and take turns pick
 - [Apollo 13 Survival](https://www.imdb.com/title/tt31852716) - I thought it was an interesting documentary. I'm still kind of surprised they didn't really talk about the cause of the disaster any though.
 - [American Gangster](https://www.imdb.com/title/tt0765429/) - It was an enjoyable movie. Good characters and a good plot. Felt a little dragged out at times though.
 - [Office Christmas Party](https://www.imdb.com/title/tt1711525/) - This movie was predictable and dumb, but it was funny and enjoyable.
+- [The Dead Don't Die](https://www.imdb.com/title/tt8695030/) - What a strange movie, but the casting fit.
+- [The Man from Toronto](https://www.imdb.com/title/tt11671006/) - This was about as dumb as I expected it to be. Mostly predictable, but still enjoyable.
