@@ -1,0 +1,14 @@
+<div class="media-box">
+	<div class="container">
+		<img :src="image" :alt="title" width="200" height="300" />
+		<div class="details">
+			<div class="title-section">
+				<div class="title"><a :href="link" @html="title"></a></div>
+				<div class="author" webc:if="author != ''" @html="author"></div>
+			</div>
+			<platform-tag :platform="platform"></platform-tag>
+			<star-rating :rating="rating"></star-rating>
+			<p><slot></slot></p>
+		</div>
+	</div>
+</div>
