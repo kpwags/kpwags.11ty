@@ -379,42 +379,6 @@
       "services": []
     },
     {
-      "televisionShowId": 69,
-      "title": "Arrested Development",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "seasonEpisodeCount": 0,
-      "currentSeasonEpisode": 0,
-      "progress": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
-      "televisionShowId": 44,
-      "title": "Anthony Bourdain: Parts Unknown",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "seasonEpisodeCount": 0,
-      "currentSeasonEpisode": 0,
-      "progress": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
       "televisionShowId": 24,
       "title": "1923",
       "imdbLink": "",
@@ -873,6 +837,34 @@
   ],
   "inProgress": [
     {
+      "televisionShowId": 44,
+      "title": "Anthony Bourdain: Parts Unknown",
+      "imdbLink": "https://www.imdb.com/title/tt2845786/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/0yvvnFr1/anthony-bourdain-parts-unknown.jpg",
+      "seasonEpisodeCount": 107,
+      "currentSeasonEpisode": 2,
+      "progress": 2,
+      "sortOrder": null,
+      "status": {
+        "name": "Watching",
+        "colorCode": "#005c78"
+      },
+      "genres": [
+        {
+          "name": "Food",
+          "colorCode": "#058329"
+        }
+      ],
+      "services": [
+        {
+          "name": "HBO",
+          "colorCode": "#6a4bc9"
+        }
+      ]
+    },
+    {
       "televisionShowId": 103,
       "title": "Elsbeth",
       "imdbLink": "https://www.imdb.com/title/tt26591110/",
@@ -912,8 +904,8 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/jj33JDQr/goodeats.jpg",
       "seasonEpisodeCount": 252,
-      "currentSeasonEpisode": 113,
-      "progress": 45,
+      "currentSeasonEpisode": 116,
+      "progress": 46,
       "sortOrder": 3,
       "status": {
         "name": "Watching",

@@ -554,6 +554,58 @@
       "year": "2024",
       "movies": [
         {
+          "movieId": 163,
+          "title": "Indiana Jones and the Temple of Doom",
+          "imdbLink": "https://www.imdb.com/title/tt0087469/",
+          "dateWatched": "2024-12-31T00:00:00Z",
+          "sortOrder": null,
+          "rating": 3,
+          "thoughts": "Definitely liked Raiders of the Lost Ark better. Not sure if it\u2019s time or what, but this felt kind of corny.",
+          "posterImageUrl": "https://i.postimg.cc/C1BVDywp/temple-of-doom.jpg",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "#1b7016"
+            }
+          ],
+          "services": [
+            {
+              "name": "Paramount\u002B",
+              "colorCode": "#037fb4"
+            }
+          ]
+        },
+        {
+          "movieId": 162,
+          "title": "The Man from Toronto",
+          "imdbLink": "https://www.imdb.com/title/tt11671006/",
+          "dateWatched": "2024-12-27T00:00:00Z",
+          "sortOrder": null,
+          "rating": 3,
+          "thoughts": "This was about as dumb as I expected it to be. Mostly predictable, but still enjoyable.",
+          "posterImageUrl": "https://i.postimg.cc/rsJHvWhp/man-from-toronto.jpg",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
+          "genres": [
+            {
+              "name": "Comedy",
+              "colorCode": "#a60483"
+            }
+          ],
+          "services": [
+            {
+              "name": "Netflix",
+              "colorCode": "#c71212"
+            }
+          ]
+        },
+        {
           "movieId": 161,
           "title": "The Dead Don\u2019t Die",
           "imdbLink": "https://www.imdb.com/title/tt8695030/",
