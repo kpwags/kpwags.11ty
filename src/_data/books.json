@@ -1,41 +1,41 @@
 {
   "inProgress": [
     {
-      "bookId": 204,
-      "title": "Digital Minimalism",
+      "bookId": 96,
+      "title": "Last to Leave the Room",
       "subTitle": "",
-      "fullTitle": "Digital Minimalism",
-      "author": "Cal Newport",
-      "link": "https://bookshop.org/p/books/digital-minimalism-choosing-a-focused-life-in-a-noisy-world-cal-newport/12081448?ean=9780525536512",
-      "dateStarted": "2024-12-31T00:00:00Z",
+      "fullTitle": "Last to Leave the Room",
+      "author": "Caitlin Starling",
+      "link": "https://bookshop.org/p/books/last-to-leave-the-room-caitlin-starling/19486410",
+      "dateStarted": "2025-01-03T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/bJXxWHbn/digital-minimalism.jpg",
+      "coverImageUrl": "https://i.postimg.cc/2SZt4Zn8/last-to-leave-the-room.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 213,
-      "pageCount": 254,
-      "progress": 84,
-      "sortOrder": 161,
+      "currentPage": 50,
+      "pageCount": 310,
+      "progress": 16,
+      "sortOrder": 167,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
       },
       "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
       },
       "series": null,
       "genres": [
         {
-          "name": "Creativity",
-          "colorCode": "rgb(0, 146, 118)"
+          "name": "Horror",
+          "colorCode": "rgb(146, 4, 4)"
         },
         {
-          "name": "Self Help",
-          "colorCode": "rgb(75, 61, 190)"
+          "name": "Thriller",
+          "colorCode": "rgb(54, 31, 112)"
         }
       ],
       "formats": [
@@ -51,7 +51,7 @@
       "subTitle": "The Campaign Against Established Knowledge and Why It Matters",
       "fullTitle": "The Death of Expertise: The Campaign Against Established Knowledge and Why It Matters",
       "author": "Tom Nichols",
-      "link": "https://bookshop.org/books/the-death-of-expertise-the-campaign-against-established-knowledge-and-why-it-matters/9780190865979",
+      "link": "https://bookshop.org/p/books/the-death-of-expertise-second-edition-the-assault-on-establishment-knowledge-and-why-it-matters-tom-nichols/20688747?ean=9780197763834",
       "dateStarted": "2025-01-02T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
@@ -60,9 +60,9 @@
       "coverImageUrl": "https://i.postimg.cc/yx9JsnfF/death-of-expertise.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 231,
+      "currentPage": 292,
       "pageCount": 520,
-      "progress": 44,
+      "progress": 56,
       "sortOrder": 900,
       "status": {
         "name": "Reading",
@@ -88,6 +88,56 @@
     }
   ],
   "completed": [
+    {
+      "year": "2025",
+      "books": [
+        {
+          "bookId": 204,
+          "title": "Digital Minimalism",
+          "subTitle": "Choosing a Focused Life in a Noisy World",
+          "fullTitle": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
+          "author": "Cal Newport",
+          "link": "https://bookshop.org/p/books/digital-minimalism-choosing-a-focused-life-in-a-noisy-world-cal-newport/12081448?ean=9780525536512",
+          "dateStarted": "2024-12-31T00:00:00Z",
+          "dateCompleted": "2025-01-03T00:00:00Z",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "Cal Newport makes some good points in this book how technology and social media can overcrowd our lives. While I\u2019m not sure about everything, there\u2019s some helpful tips and advice for getting a better hold of our time and attention in this distracting digital world.",
+          "coverImageUrl": "https://i.postimg.cc/bJXxWHbn/digital-minimalism.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 254,
+          "pageCount": 254,
+          "progress": 100,
+          "sortOrder": 161,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Self Help",
+              "colorCode": "rgb(75, 61, 190)"
+            },
+            {
+              "name": "Creativity",
+              "colorCode": "rgb(0, 146, 118)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
+        }
+      ]
+    },
     {
       "year": "2024",
       "books": [
@@ -12002,37 +12052,6 @@
           "colorCode": "#a0175f"
         }
       ]
-    },
-    {
-      "bookId": 96,
-      "title": "Last to Leave the Room",
-      "subTitle": "",
-      "fullTitle": "Last to Leave the Room",
-      "author": "Caitlin Starling",
-      "link": "https://bookshop.org/p/books/last-to-leave-the-room-caitlin-starling/19486410",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 167,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
     },
     {
       "bookId": 524,
