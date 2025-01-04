@@ -30,60 +30,6 @@
           "colorCode": "#191f77"
         }
       ]
-    },
-    {
-      "videoGameId": 58,
-      "title": "Madden 25",
-      "link": "https://www.ea.com/games/madden-nfl/madden-nfl-25",
-      "dateStarted": "2024-08-31T05:00:00Z",
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/52wW4f0D/madden25.jpg",
-      "sortOrder": null,
-      "status": {
-        "name": "In Progress",
-        "colorCode": "#d76c28"
-      },
-      "genres": [
-        {
-          "name": "Sports",
-          "colorCode": "#298d5f"
-        }
-      ],
-      "systems": [
-        {
-          "name": "PlayStation",
-          "colorCode": "#191f77"
-        }
-      ]
-    },
-    {
-      "videoGameId": 59,
-      "title": "NHL 24",
-      "link": "https://www.ea.com/games/nhl/nhl-24",
-      "dateStarted": "2024-08-24T05:00:00Z",
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/RZrzxWMc/nhl24.jpg",
-      "sortOrder": null,
-      "status": {
-        "name": "In Progress",
-        "colorCode": "#d76c28"
-      },
-      "genres": [
-        {
-          "name": "Sports",
-          "colorCode": "#298d5f"
-        }
-      ],
-      "systems": [
-        {
-          "name": "PlayStation",
-          "colorCode": "#191f77"
-        }
-      ]
     }
   ],
   "completed": [
@@ -1102,6 +1048,60 @@
         {
           "name": "PC",
           "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
+      "videoGameId": 58,
+      "title": "Madden 25",
+      "link": "https://www.ea.com/games/madden-nfl/madden-nfl-25",
+      "dateStarted": "2024-08-31T00:00:00Z",
+      "dateCompleted": null,
+      "rating": 3,
+      "thoughts": "Eh, typical Madden game, but I felt like previous years were better.",
+      "coverImageUrl": "https://i.postimg.cc/52wW4f0D/madden25.jpg",
+      "sortOrder": null,
+      "status": {
+        "name": "Completed",
+        "colorCode": "#08824e"
+      },
+      "genres": [
+        {
+          "name": "Sports",
+          "colorCode": "#298d5f"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 59,
+      "title": "NHL 24",
+      "link": "https://www.ea.com/games/nhl/nhl-24",
+      "dateStarted": "2024-08-24T00:00:00Z",
+      "dateCompleted": null,
+      "rating": 3,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/RZrzxWMc/nhl24.jpg",
+      "sortOrder": null,
+      "status": {
+        "name": "Completed",
+        "colorCode": "#08824e"
+      },
+      "genres": [
+        {
+          "name": "Sports",
+          "colorCode": "#298d5f"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
         }
       ]
     }
