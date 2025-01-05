@@ -981,24 +981,6 @@
   ],
   "betweenSeasons": [
     {
-      "televisionShowId": 15,
-      "title": "Death and Other Details",
-      "imdbLink": "https://www.imdb.com/title/tt15439048/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/tgzBZXq8/death-and-other-details.jpg",
-      "seasonEpisodeCount": 0,
-      "currentSeasonEpisode": 0,
-      "progress": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "In Between Seasons",
-        "colorCode": "#901960"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
       "televisionShowId": 8,
       "title": "Fallout",
       "imdbLink": "https://www.imdb.com/title/tt12637874/",
@@ -1367,6 +1349,34 @@
       },
       "genres": [],
       "services": []
+    },
+    {
+      "televisionShowId": 15,
+      "title": "Death and Other Details",
+      "imdbLink": "https://www.imdb.com/title/tt15439048/",
+      "rating": 3,
+      "thoughts": "It wasn\u0027t too bad, characters weren\u0027t bad and a good mystery thriller.",
+      "coverImageUrl": "https://i.postimg.cc/tgzBZXq8/death-and-other-details.jpg",
+      "seasonEpisodeCount": 10,
+      "currentSeasonEpisode": 10,
+      "progress": 100,
+      "sortOrder": null,
+      "status": {
+        "name": "Watched",
+        "colorCode": "#343aa8"
+      },
+      "genres": [
+        {
+          "name": "Drama",
+          "colorCode": "#481180"
+        }
+      ],
+      "services": [
+        {
+          "name": "Hulu",
+          "colorCode": "#1cb153"
+        }
+      ]
     },
     {
       "televisionShowId": 83,
