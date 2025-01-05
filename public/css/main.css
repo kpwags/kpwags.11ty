@@ -2409,19 +2409,21 @@ figure.quote blockquote ol {
 
 .media-box .container {
 	display: flex;
-	column-gap: 32px;
+	gap: 32px;
 	padding: 16px;
 }
 
 .media-box .container img {
 	width: 150px;
 	height: 225px;
+	flex-grow: 0;
 }
 
 .media-box .container .details {
 	display: flex;
 	flex-direction: column;
 	row-gap: 16px;
+	flex-grow: 1;
 }
 
 .media-box .container .details .author {
@@ -2450,6 +2452,22 @@ figure.quote blockquote ol {
 
 .media-box p:empty {
 	display: none;
+}
+
+@media (max-width: 700px) {
+	.media-box {
+		width: 100%;
+		margin: 32px 0;
+		border: 3px solid var(--primary-color-1);
+		border-radius: 6px;
+		background: var(--shaded-background);
+	}
+}
+
+@media (max-width: 450px) {
+	.media-box .container {
+		flex-direction: column;
+	}
 }
 
 .platform-tag {
