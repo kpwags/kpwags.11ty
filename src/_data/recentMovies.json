@@ -1,5 +1,31 @@
 [
   {
+    "movieId": 164,
+    "title": "Despicable Me",
+    "imdbLink": "https://www.imdb.com/title/tt1323594/",
+    "dateWatched": "2025-01-05T00:00:00Z",
+    "sortOrder": null,
+    "rating": 3,
+    "thoughts": "Cute and enjoyable",
+    "posterImageUrl": "https://i.postimg.cc/3Nd7nMdg/despicable-me.jpg",
+    "status": {
+      "name": "Watched",
+      "colorCode": "#2a9a39"
+    },
+    "genres": [
+      {
+        "name": "Comedy",
+        "colorCode": "#a60483"
+      }
+    ],
+    "services": [
+      {
+        "name": "Netflix",
+        "colorCode": "#c71212"
+      }
+    ]
+  },
+  {
     "movieId": 163,
     "title": "Indiana Jones and the Temple of Doom",
     "imdbLink": "https://www.imdb.com/title/tt0087469/",

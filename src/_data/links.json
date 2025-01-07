@@ -1,5 +1,101 @@
 [
   {
+    "linkId": 575,
+    "title": "When is the right time to share our excitement about new web features?",
+    "url": "https://rachelandrew.co.uk/archives/2024/11/15/when-is-the-right-time-to-share-our-excitement-about-new-web-features/",
+    "author": "Rachel Andrew",
+    "linkDate": "2025-01-06T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 576,
+    "title": "Three MLB Teams Paid 84% of Record $311M Luxury Taxes This Year",
+    "url": "https://frontofficesports.com/three-mlb-teams-paid-84-of-record-311m-luxury-taxes-this-year/",
+    "author": "Eric Fisher",
+    "linkDate": "2025-01-06T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 577,
+    "title": "Make a More Flexible Cover Screen with CSS Grid",
+    "url": "https://bryanlrobinson.com/blog/and-cover-pages/",
+    "author": "Bryan Robinson",
+    "linkDate": "2025-01-06T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 578,
+    "title": "Creativity Cannot Be Computed",
+    "url": "https://talks.hiddedevries.nl/dFZf3b/slides",
+    "author": "Hidde de Vries",
+    "linkDate": "2025-01-06T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Design",
+      "colorCode": "#0b545e"
+    }
+  },
+  {
+    "linkId": 579,
+    "title": "Spectacular colliding galaxies from Hubble and JWST",
+    "url": "https://badastronomy.beehiiv.com/p/spectacular-colliding-galaxies-from-hubble-and-jwst?_bhlid=e071a43ede3e5620e300ba55caa0ebbf154ab435\u0026last_resource_guid=Post%3A5ea55e9c-7971-4d4d-87a2-b71466910e24\u0026utm_campaign=spectacular-colliding-galaxies-from-hubble-and-jwst",
+    "author": "Philip Plait",
+    "linkDate": "2025-01-06T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 580,
+    "title": "Violent Hackers Are Using U-Haul To Dox Targets",
+    "url": "https://www.404media.co/email/2994be06-d953-4a95-b1c5-59db01f633fb/?ref=daily-stories-newsletter\u0026attribution_id=677bf4658709d70001ad4c3a\u0026attribution_type=post",
+    "author": "Joseph Cox",
+    "linkDate": "2025-01-05T00:00:00Z",
+    "readingLogIssueNumber": 105,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Cybersecurity",
+      "colorCode": "#948000"
+    }
+  },
+  {
     "linkId": 573,
     "title": "On Being a Senior Software Developer with Shawn Wildermuth",
     "url": "https://www.dotnetrocks.com/details/1898",

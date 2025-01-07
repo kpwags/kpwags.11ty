@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/2SZt4Zn8/last-to-leave-the-room.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 146,
+      "currentPage": 244,
       "pageCount": 310,
-      "progress": 47,
+      "progress": 79,
       "sortOrder": 167,
       "status": {
         "name": "Reading",
@@ -60,9 +60,9 @@
       "coverImageUrl": "https://i.postimg.cc/yx9JsnfF/death-of-expertise.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 353,
+      "currentPage": 431,
       "pageCount": 520,
-      "progress": 68,
+      "progress": 83,
       "sortOrder": 900,
       "status": {
         "name": "Reading",
@@ -12370,6 +12370,47 @@
       ]
     },
     {
+      "bookId": 523,
+      "title": "Character Limit",
+      "subTitle": "How Elon Musk Destroyed Twitter",
+      "fullTitle": "Character Limit: How Elon Musk Destroyed Twitter",
+      "author": "Kate Conger \u0026 Ryan Mac",
+      "link": "https://www.penguinrandomhouse.com/books/737290/character-limit-by-kate-conger-and-ryan-mac/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 0,
+      "progress": 0,
+      "sortOrder": 176,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Business \u0026 Economics",
+          "colorCode": "rgb(23, 126, 0)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
+        }
+      ]
+    },
+    {
       "bookId": 419,
       "title": "Conflicted Scars: An Average Player\u2019s Journey to the NHL",
       "subTitle": "",
@@ -20443,42 +20484,6 @@
         {
           "name": "Biography / Memoir",
           "colorCode": "rgb(68, 0, 214)"
-        }
-      ],
-      "formats": []
-    },
-    {
-      "bookId": 523,
-      "title": "Character Limit",
-      "subTitle": "How Elon Musk Destroyed Twitter",
-      "fullTitle": "Character Limit: How Elon Musk Destroyed Twitter",
-      "author": "Kate Conger \u0026 Ryan Mac",
-      "link": "https://www.penguinrandomhouse.com/books/737290/character-limit-by-kate-conger-and-ryan-mac/",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 2840,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Business \u0026 Economics",
-          "colorCode": "rgb(23, 126, 0)"
         }
       ],
       "formats": []
