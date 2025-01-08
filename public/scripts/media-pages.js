@@ -94,14 +94,19 @@ function showThoughts(id, mediaType) {
         dialogImage.setAttribute('src', image.getAttribute('src'));
         dialogImage.setAttribute('alt', image.getAttribute('alt'));
 
-        if (mediaType === 'video-game') {
-            const platform = item.getAttribute('data-platform');
+		if (mediaType === 'video-game') {
+			const platform = item.getAttribute('data-platform');
 
-            dialog.querySelector('.platform').innerHTML = platform;
-            dialog.querySelector('.platform').classList.remove('hidden');
-        } else {
-            dialog.querySelector('.platform').classList.add('hidden');
-        }
+			dialog.querySelector('.platform').innerHTML = platform;
+			dialog.querySelector('.platform').classList.remove('hidden');
+		} else if (mediaType === 'book') {
+			const format = item.getAttribute('data-format');
+
+			dialog.querySelector('.platform').innerHTML = format;
+			dialog.querySelector('.platform').classList.remove('hidden');
+		} else {
+			dialog.querySelector('.platform').classList.add('hidden');
+		}
 
         dialog.showModal();
     }

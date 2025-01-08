@@ -45,8 +45,14 @@ const getBookGenres = (book) => {
 	return genres.join(',');
 };
 
+const getBookFormat = (book) => {
+	const formats = book.formats.map((g) => g.name.replaceAll(' ', '-'));
+
+	return formats.length > 0 ? formats[0] : '';
+};
+
 const bookListingShortcode = (book) => `
-<div class="item" data-book-id="${book.bookId}" data-booktype="${book.type.name.toLowerCase()}" data-genre="${getBookGenres(book)}">
+<div class="item" data-book-id="${book.bookId}" data-booktype="${book.type.name.toLowerCase()}" data-genre="${getBookGenres(book)}" data-format="${getBookFormat(book)}">
 	<div class="cover">
 		<img src="${book.coverImageUrl}" alt="The cover for ${book.title}" height="225" width="150" />
 		${getProgress(book)}
