@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 96,
-      "title": "Last to Leave the Room",
+      "bookId": 531,
+      "title": "The Blighted Stars",
       "subTitle": "",
-      "fullTitle": "Last to Leave the Room",
-      "author": "Caitlin Starling",
-      "link": "https://bookshop.org/p/books/last-to-leave-the-room-caitlin-starling/19486410",
-      "dateStarted": "2025-01-03T00:00:00Z",
+      "fullTitle": "The Blighted Stars",
+      "author": "Megan E. O\u0027Keefe",
+      "link": "https://bookshop.org/p/books/the-blighted-stars-megan-e-o-keefe/17405812?ean=9780316290791",
+      "dateStarted": "2025-01-06T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/2SZt4Zn8/last-to-leave-the-room.jpg",
+      "coverImageUrl": "https://i.postimg.cc/5N67Dysd/the-blighted-stars.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 244,
-      "pageCount": 310,
-      "progress": 79,
-      "sortOrder": 167,
+      "currentPage": 13,
+      "pageCount": 483,
+      "progress": 3,
+      "sortOrder": 162,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -27,21 +27,20 @@
         "name": "Fiction",
         "colorCode": "#1d3c8c"
       },
-      "series": null,
+      "series": {
+        "name": "The Devoured Worlds",
+        "colorCode": "#142f81"
+      },
       "genres": [
         {
-          "name": "Horror",
-          "colorCode": "rgb(146, 4, 4)"
-        },
-        {
-          "name": "Thriller",
-          "colorCode": "rgb(54, 31, 112)"
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
         }
       ],
       "formats": [
         {
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
         }
       ]
     },
@@ -91,6 +90,51 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 96,
+          "title": "Last to Leave the Room",
+          "subTitle": "",
+          "fullTitle": "Last to Leave the Room",
+          "author": "Caitlin Starling",
+          "link": "https://bookshop.org/p/books/last-to-leave-the-room-caitlin-starling/19486410",
+          "dateStarted": "2025-01-03T00:00:00Z",
+          "dateCompleted": "2025-01-06T00:00:00Z",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "I enjoyed this. It was an interesting story with some good twists.",
+          "coverImageUrl": "https://i.postimg.cc/2SZt4Zn8/last-to-leave-the-room.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 310,
+          "pageCount": 310,
+          "progress": 100,
+          "sortOrder": 167,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Horror",
+              "colorCode": "rgb(146, 4, 4)"
+            },
+            {
+              "name": "Thriller",
+              "colorCode": "rgb(54, 31, 112)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
+        },
         {
           "bookId": 204,
           "title": "Digital Minimalism",
@@ -11845,50 +11889,6 @@
   ],
   "toRead": [
     {
-      "bookId": 531,
-      "title": "The Blighted Stars",
-      "subTitle": "",
-      "fullTitle": "The Blighted Stars",
-      "author": "Megan E. O\u0027Keefe",
-      "link": "https://bookshop.org/p/books/the-blighted-stars-megan-e-o-keefe/17405812?ean=9780316290791",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 483,
-      "progress": 0,
-      "sortOrder": 162,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "The Devoured Worlds",
-        "colorCode": "#142f81"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
-        }
-      ]
-    },
-    {
       "bookId": 532,
       "title": "The Fractured Dark",
       "subTitle": "",
@@ -11900,7 +11900,7 @@
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "",
+      "coverImageUrl": "https://i.postimg.cc/Pr93HH7L/the-fractured-dark.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
       "currentPage": 1,
@@ -11944,12 +11944,12 @@
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": true,
-      "isPurchased": false,
+      "coverImageUrl": "https://i.postimg.cc/FFPCP3gV/the-bound-worlds.jpg",
+      "isAtLibrary": false,
+      "isPurchased": true,
       "currentPage": 1,
-      "pageCount": 1,
-      "progress": 100,
+      "pageCount": 454,
+      "progress": 0,
       "sortOrder": 164,
       "status": {
         "name": "To Read",
@@ -11969,7 +11969,12 @@
           "colorCode": "rgb(102, 119, 2)"
         }
       ],
-      "formats": []
+      "formats": [
+        {
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
+        }
+      ]
     },
     {
       "bookId": 529,
