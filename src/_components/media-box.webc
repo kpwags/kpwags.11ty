@@ -4,7 +4,7 @@
 		<div class="details">
 			<div class="title-section">
 				<div class="title"><a :href="link" @html="title"></a></div>
-				<div class="author" webc:if="author != ''" @html="author"></div>
+				<div class="author" webc:if="author" @html="author"></div>
 			</div>
 			<platform-tag :platform="platform"></platform-tag>
 			<star-rating :rating="rating"></star-rating>

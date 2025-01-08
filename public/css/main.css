@@ -1010,7 +1010,6 @@ dialog.thoughts-dialog button {
 	border-radius: 5px;
 }
 
-
 dialog.thoughts-dialog button:hover {
 	color: var(--primary-color-1);
 	border-color: var(--primary-color-1);
