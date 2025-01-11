@@ -3,7 +3,7 @@ title: "Challenger"
 subtitle: "A True Story of Heroism and Disaster on the Edge of Space"
 fullTitle: "Challenger: A True Story of Heroism and Disaster on the Edge of Space"
 author: "Adam Higginbotham"
-format: 'hardcover'
+format: 'Hardcover'
 coverImage: 'https://i.postimg.cc/3JLQhKg2/challenger-adam-higginbotham.jpg'
 rating: 5
 date: '2024-12-31'

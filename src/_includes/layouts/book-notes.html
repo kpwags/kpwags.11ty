@@ -29,7 +29,26 @@
 							{% starRating rating "lg" %}
 						</div>
 
-						<div class="finished-reading"><strong>Format</strong>: {{ format }}</div>
+						<div class="finished-reading">
+							{% if format == 'Audiobook' %}
+								{% renderTemplate "webc" %}
+									<platform-tag platform="audiobook"></platform-tag>
+								{% endrenderTemplate %}
+							{% elsif format == 'Hardcover' %}
+								{% renderTemplate "webc" %}
+									<platform-tag platform="hardcover"></platform-tag>
+								{% endrenderTemplate %}
+							{% elsif format == 'eBook' %}
+								{% renderTemplate "webc" %}
+									<platform-tag platform="ebook"></platform-tag>
+								{% endrenderTemplate %}
+							{% else %}
+								{% renderTemplate "webc" %}
+									<platform-tag platform="paperback"></platform-tag>
+								{% endrenderTemplate %}
+							{% endif %}
+
+						</div>
 
 						<div class="finished-reading"><strong>Finished</strong>: {{ dateString }}</div>
 
