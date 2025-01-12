@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/5N67Dysd/the-blighted-stars.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 123,
+      "currentPage": 272,
       "pageCount": 483,
-      "progress": 25,
+      "progress": 56,
       "sortOrder": 162,
       "status": {
         "name": "Reading",
@@ -20664,6 +20664,46 @@
         {
           "name": "Science",
           "colorCode": "rgb(24, 90, 80)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 548,
+      "title": "Turing\u0027s Vision",
+      "subTitle": "The Birth of Computer Science",
+      "fullTitle": "Turing\u0027s Vision: The Birth of Computer Science",
+      "author": "Chris Bernhardt",
+      "link": "https://bookshop.org/p/books/turing-s-vision-the-birth-of-computer-science-chris-bernhardt/8403239?ean=9780262533515",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 2900,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        },
+        {
+          "name": "Technology",
+          "colorCode": "rgb(55, 78, 146)"
         }
       ],
       "formats": []
