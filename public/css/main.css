@@ -1200,6 +1200,14 @@ ul.links li a:hover span.meta {
 	margin: 0;
 }
 
+.heading-block h1 span.prefix {
+	display: block;
+	font-size: 1.9rem;
+	margin: 16px 0 0 0;
+	text-transform: uppercase;
+}
+
+
 /* notes */
 article.note {
     margin-bottom: 32px;
@@ -1397,12 +1405,6 @@ article.blog-post-page p {
 	line-height: 2;
 }
 
-article.blog-post-page h1 span.prefix {
-	display: block;
-	font-size: 1.3rem;
-	margin: 0;
-}
-
 article.blog-post-page pre {
 	padding: 16px;
 	border-radius: 6px;
@@ -1576,6 +1578,22 @@ article.post ol,
 article.book-note ol {
     margin-top:16px;
     margin-bottom: 16px;
+}
+
+article.note code,
+article.post code,
+article.book-note code {
+	font-size: 1rem;
+	background: var(--shaded-background);
+	padding: 8px;
+}
+
+article.note pre code,
+article.post pre code,
+article.book-note pre code {
+	font-size: 0.75rem;
+	background: none;
+	padding: 0;
 }
 
 .titled-horizontal-list {
