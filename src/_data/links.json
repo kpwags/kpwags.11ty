@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 597,
+    "title": "Alt Text: Not Always Needed",
+    "url": "https://css-tricks.com/alt-text-not-always-needed/",
+    "author": "Geoff Graham",
+    "linkDate": "2025-01-13T00:00:00Z",
+    "readingLogIssueNumber": 106,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 596,
     "title": "Dox Glasses: Two Harvard students created an app turning smart glasses into on-the-go facial recognition",
     "url": "https://www.wbur.org/endlessthread/2025/01/10/dox-glasses",
