@@ -1,5 +1,31 @@
 [
   {
+    "movieId": 166,
+    "title": "Despicable Me 2",
+    "imdbLink": "https://www.imdb.com/title/tt1690953/",
+    "dateWatched": "2025-01-11T00:00:00Z",
+    "sortOrder": null,
+    "rating": 4,
+    "thoughts": "Cute and enjoyable. A little predictable, but glad we watched it.",
+    "posterImageUrl": "https://i.postimg.cc/P5dZT0kL/despicable-me-2.jpg",
+    "status": {
+      "name": "Watched",
+      "colorCode": "#2a9a39"
+    },
+    "genres": [
+      {
+        "name": "Comedy",
+        "colorCode": "#a60483"
+      }
+    ],
+    "services": [
+      {
+        "name": "Netflix",
+        "colorCode": "#c71212"
+      }
+    ]
+  },
+  {
     "movieId": 165,
     "title": "Wargames",
     "imdbLink": "https://www.imdb.com/title/tt0086567/?",
