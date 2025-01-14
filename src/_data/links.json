@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 598,
+    "title": "Lawsuit: Allstate used GasBuddy and other apps to quietly track driving behavior",
+    "url": "https://arstechnica.com/gadgets/2025/01/allstate-sued-for-allegedly-tracking-drivers-behavior-through-third-party-apps/",
+    "author": "Kevin Purdy",
+    "linkDate": "2025-01-14T00:00:00Z",
+    "readingLogIssueNumber": 107,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
     "linkId": 597,
     "title": "Alt Text: Not Always Needed",
     "url": "https://css-tricks.com/alt-text-not-always-needed/",

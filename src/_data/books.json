@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/5N67Dysd/the-blighted-stars.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 337,
+      "currentPage": 399,
       "pageCount": 483,
-      "progress": 70,
+      "progress": 83,
       "sortOrder": 162,
       "status": {
         "name": "Reading",
@@ -11929,6 +11929,47 @@
     }
   ],
   "toRead": [
+    {
+      "bookId": 551,
+      "title": "Slow Productivity",
+      "subTitle": "The Lost Art of Accomplishment Without Burnout",
+      "fullTitle": "Slow Productivity: The Lost Art of Accomplishment Without Burnout",
+      "author": "Cal Newport",
+      "link": "https://bookshop.org/p/books/slow-productivity-the-lost-art-of-accomplishment-without-burnout-cal-newport/20143790?ean=9780593544853",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/VkRCqzgj/slow-productivity.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 2670,
+      "progress": 0,
+      "sortOrder": 162,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Self Help",
+          "colorCode": "rgb(75, 61, 190)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
     {
       "bookId": 532,
       "title": "The Fractured Dark",
