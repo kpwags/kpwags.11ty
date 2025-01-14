@@ -1153,6 +1153,188 @@
     ]
   },
   {
+    "musicAlbumId": 190,
+    "title": "Can You Find a Way",
+    "artist": "Billy the Kid",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/tC3q0Ldm/can-you-find-a-way.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Hospital"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Aftermath"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Mr. Fix It"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Recover"
+      },
+      {
+        "trackNumber": 5,
+        "title": "So Far Gone"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Just Friends"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Up Til Now"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Good Enough"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Mixed Taps"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Calendar Page"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Take the Money"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Hospital (Demo)"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Aftermath (Demo)"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Mr. Fix It (Demo)"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Recovery (Demo)"
+      },
+      {
+        "trackNumber": 16,
+        "title": "So Far Gone (Demo)"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Just Friends (Demo)"
+      },
+      {
+        "trackNumber": 18,
+        "title": "Up Til Now (Demo)"
+      },
+      {
+        "trackNumber": 19,
+        "title": "Good Enough (Demo)"
+      },
+      {
+        "trackNumber": 20,
+        "title": "Mixed Tape (Demo)"
+      },
+      {
+        "trackNumber": 21,
+        "title": "Calendar Page (Demo)"
+      },
+      {
+        "trackNumber": 22,
+        "title": "Take the Money (Demo)"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 191,
+    "title": "I Have to Do This",
+    "artist": "Billy the Kid",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/YCtptbb2/i-have-to-do-this.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Fallout"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Architects"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Her Heart, Too"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Think About It"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Fall In Love With Me, Please"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Never See You"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Undone"
+      },
+      {
+        "trackNumber": 8,
+        "title": "True Romance"
+      },
+      {
+        "trackNumber": 9,
+        "title": "I\u0027m Ok, You\u0027re Ok"
+      },
+      {
+        "trackNumber": 10,
+        "title": "I\u0027m Still Here"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Vs."
+      },
+      {
+        "trackNumber": 12,
+        "title": "Overhaul"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 161,
     "title": "Blink-182",
     "artist": "Blink-182",
@@ -2795,7 +2977,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/25xBcyC0/davehause-burymeinphilly.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Alternative",
