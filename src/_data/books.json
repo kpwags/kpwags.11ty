@@ -1,46 +1,43 @@
 {
   "inProgress": [
     {
-      "bookId": 531,
-      "title": "The Blighted Stars",
-      "subTitle": "",
-      "fullTitle": "The Blighted Stars",
-      "author": "Megan E. O\u0027Keefe",
-      "link": "https://bookshop.org/p/books/the-blighted-stars-megan-e-o-keefe/17405812?ean=9780316290791",
-      "dateStarted": "2025-01-06T00:00:00Z",
+      "bookId": 551,
+      "title": "Slow Productivity",
+      "subTitle": "The Lost Art of Accomplishment Without Burnout",
+      "fullTitle": "Slow Productivity: The Lost Art of Accomplishment Without Burnout",
+      "author": "Cal Newport",
+      "link": "https://bookshop.org/p/books/slow-productivity-the-lost-art-of-accomplishment-without-burnout-cal-newport/20143790?ean=9780593544853",
+      "dateStarted": "2025-01-15T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/5N67Dysd/the-blighted-stars.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 399,
-      "pageCount": 483,
-      "progress": 83,
+      "coverImageUrl": "https://i.postimg.cc/VkRCqzgj/slow-productivity.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 381,
+      "pageCount": 2670,
+      "progress": 14,
       "sortOrder": 162,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
       },
       "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
       },
-      "series": {
-        "name": "The Devoured Worlds",
-        "colorCode": "#142f81"
-      },
+      "series": null,
       "genres": [
         {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
+          "name": "Self Help",
+          "colorCode": "rgb(75, 61, 190)"
         }
       ],
       "formats": [
         {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
+          "name": "eBook",
+          "colorCode": "#2c5813"
         }
       ]
     },
@@ -59,9 +56,9 @@
       "coverImageUrl": "https://i.postimg.cc/kMhZBVFC/gates-of-europe.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 132,
+      "currentPage": 192,
       "pageCount": 920,
-      "progress": 14,
+      "progress": 21,
       "sortOrder": 170,
       "status": {
         "name": "Reading",
@@ -90,6 +87,50 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 531,
+          "title": "The Blighted Stars",
+          "subTitle": "",
+          "fullTitle": "The Blighted Stars",
+          "author": "Megan E. O\u0027Keefe",
+          "link": "https://bookshop.org/p/books/the-blighted-stars-megan-e-o-keefe/17405812?ean=9780316290791",
+          "dateStarted": "2025-01-06T00:00:00Z",
+          "dateCompleted": "2025-01-15T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "I enjoyed this. It\u2019s a fascinating world with a good story set up for the trilogy.",
+          "coverImageUrl": "https://i.postimg.cc/5N67Dysd/the-blighted-stars.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 483,
+          "pageCount": 483,
+          "progress": 100,
+          "sortOrder": 162,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": {
+            "name": "The Devoured Worlds",
+            "colorCode": "#142f81"
+          },
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
+        },
         {
           "bookId": 477,
           "title": "The Death of Expertise",
@@ -11929,47 +11970,6 @@
     }
   ],
   "toRead": [
-    {
-      "bookId": 551,
-      "title": "Slow Productivity",
-      "subTitle": "The Lost Art of Accomplishment Without Burnout",
-      "fullTitle": "Slow Productivity: The Lost Art of Accomplishment Without Burnout",
-      "author": "Cal Newport",
-      "link": "https://bookshop.org/p/books/slow-productivity-the-lost-art-of-accomplishment-without-burnout-cal-newport/20143790?ean=9780593544853",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/VkRCqzgj/slow-productivity.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 2670,
-      "progress": 0,
-      "sortOrder": 162,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Self Help",
-          "colorCode": "rgb(75, 61, 190)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "eBook",
-          "colorCode": "#2c5813"
-        }
-      ]
-    },
     {
       "bookId": 532,
       "title": "The Fractured Dark",

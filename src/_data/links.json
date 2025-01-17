@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 599,
+    "title": "Learning HTML is the best investment I ever did",
+    "url": "https://christianheilmann.com/2025/01/15/learning-html-is-the-best-investment-i-ever-did/?ref=dailydev",
+    "author": "Christian Heilmann",
+    "linkDate": "2025-01-16T00:00:00Z",
+    "readingLogIssueNumber": 107,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 600,
+    "title": "Total Chaos at Meta",
+    "url": "https://www.404media.co/podcast-total-chaos-at-meta/",
+    "author": "404 Media Podcast",
+    "linkDate": "2025-01-16T00:00:00Z",
+    "readingLogIssueNumber": 107,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 598,
     "title": "Lawsuit: Allstate used GasBuddy and other apps to quietly track driving behavior",
     "url": "https://arstechnica.com/gadgets/2025/01/allstate-sued-for-allegedly-tracking-drivers-behavior-through-third-party-apps/",
