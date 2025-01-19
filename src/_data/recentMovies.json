@@ -128,31 +128,5 @@
         "colorCode": "#c71212"
       }
     ]
-  },
-  {
-    "movieId": 161,
-    "title": "The Dead Don\u2019t Die",
-    "imdbLink": "https://www.imdb.com/title/tt8695030/",
-    "dateWatched": "2024-12-18T00:00:00Z",
-    "sortOrder": null,
-    "rating": 3,
-    "thoughts": "What a strange movie.",
-    "posterImageUrl": "https://i.postimg.cc/SQ1M4KCb/dead-dont-die.jpg",
-    "status": {
-      "name": "Watched",
-      "colorCode": "#2a9a39"
-    },
-    "genres": [
-      {
-        "name": "Comedy",
-        "colorCode": "#a60483"
-      }
-    ],
-    "services": [
-      {
-        "name": "Netflix",
-        "colorCode": "#c71212"
-      }
-    ]
   }
 ]

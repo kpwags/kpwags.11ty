@@ -44,7 +44,7 @@ After Christmas, we went to a Dave Hause concert in Philadelphia and a Menzinger
 
 ### 📚 Reading
 
-- Finished [Nuclear War: A Scenario](https://bookshop.org/p/books/nuclear-war-a-scenario-annie-jacobsen/20335598?ean=9780593476093) by Annie Jacobsen
+- Finished [Nuclear War: A Scenario](https://bookshop.org/p/books/nuclear-war-a-scenario-annie-jacobsen/20335598?ean=9780593476093) by Annie Jacobsen
 - Finished [The Book of Accidents](https://bookshop.org/p/books/the-book-of-accidents-chuck-wendig/15648326?ean=9780399182150) by Chuck Wendig
 - Finished [Network Effect](https://bookshop.org/p/books/network-effect-a-murderbot-novel-martha-wells/13296841) by Martha Wells
 - Finished [Fugitive Telemetry](https://bookshop.org/p/books/fugitive-telemetry-martha-wells/14596858) by Martha Wells
@@ -80,11 +80,11 @@ After Christmas, we went to a Dave Hause concert in Philadelphia and a Menzinger
 ### 🎮 Gaming
 
 - Continued [God of War](https://www.playstation.com/en-us/god-of-war/)
-- Continued [Madden 25](https://www.ea.com/games/madden-nfl/madden-nfl-25)
+- Continued [Madden 25](https://www.playstation.com/en-us/god-of-war/)
 
 ---
 
-### 📺 TV
+### 📺 TV
 
 - Finished [Star Trek: Lower Decks](https://www.imdb.com/title/tt9184820/)
 - Finished season 1 of [The Last of Us](https://m.imdb.com/title/tt3581920/)

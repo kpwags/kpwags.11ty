@@ -1491,6 +1491,16 @@ article.blog-post-page .shared-link h3 {
 	margin-bottom: 8px;
 }
 
+article.blog-post-page .shared-link a {
+	color: var(--text);
+	text-decoration-color: var(--primary-color-1);
+	text-underline-offset: 3px;
+}
+
+article.blog-post-page .shared-link a:hover {
+	color: var(--primary-color-1);
+}
+
 article.blog-post-page .shared-link .posted-by {
     font-style: italic;
 }
@@ -2533,4 +2543,22 @@ figure.quote blockquote ol {
 	fill: var(--white-1);
 	width: 12px;
 	height: 12px;
+}
+
+.monthly-roundup p:empty {
+	display: none;
+}
+
+.monthly-roundup a {
+	color: var(--text);
+	text-decoration-color: var(--primary-color-1);
+	text-underline-offset: 3px;
+}
+
+.monthly-roundup a:hover {
+	color: var(--primary-color-1);
+}
+
+.monthly-roundup h4 {
+	margin-top: 32px;
 }
