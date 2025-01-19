@@ -1,0 +1,52 @@
+<div class="monthly-roundup">
+	<h2>Monthly Round-Up</h2>
+
+	<h3>🏃🏼‍♂️ Fitness</h3>
+
+	<ul>
+		<li webc:if="runs"><strong>Running:</strong> <span @html="runs"></span> runs - <span @html="milesran"></span> miles</li>
+		<li webc:if="walks"><strong>Walking:</strong> <span @html="walks"></span> walks - <span @html="mileswalked"></span> miles</li>
+		<li webc:if="bikes"><strong>Biking:</strong> <span @html="bikes"></span> rides - <span @html="milesrode"></span> miles</li>
+		<li webc:if="lifts"><strong>Lifting:</strong> <span @html="lifts"></span> sessions - <span @html="volumelifted"></span> lbs.</li>
+	</ul>
+
+	<hr />
+
+	<h3>📚 Reading</h3>
+
+	<slot name="books-read"></slot>
+
+	<hr />
+	
+	<h3>✍🏻 Writing</h3>
+
+	<h4>Reading Logs</h4>
+
+	<slot name="reading-logs"></slot>
+
+	<h4>Week Notes</h4>
+	
+	<slot name="week-notes"></slot>
+
+	<h4>Blogging</h4>
+	
+	<slot name="blogging"></slot>
+
+	<hr webc:if="gaming" />
+
+	<h3 webc:if="gaming">🎮 Gaming</h3>
+
+	<slot name="gaming" webc:if="gaming"></slot>
+
+	<hr webc:if="tv"/>
+
+	<h3 webc:if="tv">📺 TV</h3>
+
+	<slot name="tv" webc:if="tv"></slot>
+
+	<hr webc:if="movies" />
+
+	<h3 webc:if="movies">🎬 Movies</h3>
+
+	<slot name="movies" webc:if="movies"></slot>
+</div

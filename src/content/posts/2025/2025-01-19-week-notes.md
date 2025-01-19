@@ -1,0 +1,43 @@
+---
+title: "Week Notes for January 12 - 18"
+date: '2025-01-19T17:40:24.139Z'
+permalink: /posts/2025/01/19/week-notes/index.html
+description: "My week notes for the week of January 12 through January 18"
+tags:
+  - Week Notes
+  - Pets
+---
+My week notes for the week of January 12 through January 18.
+<!-- excerpt -->
+
+## Notes
+
+### New Living Room
+
+We bought our old sofa off Craigslist 12+ years ago. It lasted us well as our cats and dog did quite a number on it. We finally decided that it was time to replace it, and our whole living room set (kinda) while we were at it. We threw out our large sectional and replaced it with a couch/love seat and ottoman combo. We donated our coffee and end tables to Habitat for Humanity and the room looks brand new...adult(ish) even. We still need to get new end tables, but it feels so new.
+
+### Meet Tess
+
+On Friday, we adopted a one year old Great Pyrenees Mix dog. She’s absolutely adorable. We’re still adjusting to her and her to us. She’s incredibly smart and has tons of energy. We also think she has some husky in her.
+
+{% image "./images/tess.jpeg", "Tess, a tan and white dog lying in the grass with a tennis ball in her mouth" %}
+
+## Interesting Links
+
+{% renderTemplate "webc" %}
+<shared-link title="Blue Origin reaches orbit on first flight of its titanic New Glenn rocket" url="https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/" author="Eric Berger">
+  It’s nice to see another company reach orbit. Good for Blue Origin.
+</shared-link>
+
+<shared-link title="Elon Musk Uses Cybertruck Explosion to Show Tesla Can Remotely Unlock and Monitor Vehicles" url="https://www.404media.co/elon-musk-uses-cybertruck-explosion-to-show-tesla-can-remotely-unlock-and-monitor-vehicles/" author="Jason Koebler">
+  Tesla and Elon Musk might be the ones focused on in this, but the amount of surveillance being added to cars nowadays is disconcerting.
+</shared-link>
+
+<shared-link title="The Hidden Cost of Unused Code" url="https://thenewstack.io/the-hidden-cost-of-unused-code/" author="Frank Delporte">
+  It can be incredibly easy to leave code in place even if it stops being used. Over time it builds and builds causing side effects that you don’t necessarily realize.
+</shared-link>
+
+<shared-link title="The Trans Sports Ban Portends Something Much Darker" url="https://defector.com/the-trans-sports-ban-portends-something-much-darker" author="Michael Waters">
+  More culture-war bullshit from the Republicans at the cost of the trans community. I fear how many lives will be lost due to the attacks from the right.
+</shared-link>
+{% endrenderTemplate %}
