@@ -1,5 +1,133 @@
 [
   {
+    "linkId": 620,
+    "title": "The downside of hiring for cultural fit",
+    "url": "https://bartwullems.blogspot.com/2024/12/the-downside-of-hiring-for-cultural-fit.html",
+    "author": "Bart Wullems",
+    "linkDate": "2025-01-25T00:00:00Z",
+    "readingLogIssueNumber": 108,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 621,
+    "title": "Introducing o(m)g:image",
+    "url": "https://blog.jim-nielsen.com/2024/omgimg/",
+    "author": "Jim Nielsen",
+    "linkDate": "2025-01-25T00:00:00Z",
+    "readingLogIssueNumber": 108,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 622,
+    "title": "C# 12: The Experimental Attribute",
+    "url": "https://www.thomasclaudiushuber.com/2024/12/09/csharp-12-experimental-attribute/",
+    "author": "Thomas Claudius Huber",
+    "linkDate": "2025-01-25T00:00:00Z",
+    "readingLogIssueNumber": 108,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 619,
+    "title": "Developer Creates Infinite Maze That Traps AI Training Bots",
+    "url": "https://www.404media.co/developer-creates-infinite-maze-to-trap-ai-crawlers-in/",
+    "author": "Jason Koebler",
+    "linkDate": "2025-01-24T00:00:00Z",
+    "readingLogIssueNumber": 108,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 618,
+    "title": "Are Big Cities Overrated?",
+    "url": "https://www.economist.com/finance-and-economics/2025/01/16/are-big-cities-overrated",
+    "author": "The Economist",
+    "linkDate": "2025-01-23T00:00:00Z",
+    "readingLogIssueNumber": 108,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 617,
+    "title": "The New Housing Market Premium",
+    "url": "https://awealthofcommonsense.com/2025/01/the-new-housing-market-premium/",
+    "author": "Ben Carlson",
+    "linkDate": "2025-01-22T00:00:00Z",
+    "readingLogIssueNumber": 108,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 615,
+    "title": "Avoiding a Legacy Codebase. Keep it Evergreen",
+    "url": "https://codeopinion.com/avoiding-a-legacy-codebase-keep-it-evergreen/",
+    "author": "Derek Comartin",
+    "linkDate": "2025-01-21T00:00:00Z",
+    "readingLogIssueNumber": 108,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 616,
+    "title": "On blogging, substacking (?), and owning digital real estate",
+    "url": "https://manuelmoreale.com/on-blogging-substacking-and-owning-digital-real-estate",
+    "author": "Manuel \u201CManu\u201D Moreale",
+    "linkDate": "2025-01-21T00:00:00Z",
+    "readingLogIssueNumber": 108,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
     "linkId": 614,
     "title": "The Powerful AI Tool That Cops (or Stalkers) Can Use to Geolocate Photos in Seconds",
     "url": "https://www.404media.co/the-powerful-ai-tool-that-cops-or-stalkers-can-use-to-geolocate-photos-in-seconds/",

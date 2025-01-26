@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/kMhZBVFC/gates-of-europe.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 341,
+      "currentPage": 582,
       "pageCount": 920,
-      "progress": 37,
+      "progress": 63,
       "sortOrder": 170,
       "status": {
         "name": "Reading",
@@ -42,24 +42,24 @@
       ]
     },
     {
-      "bookId": 387,
-      "title": "Deep Work",
-      "subTitle": "Rules for Focused Success in a Distracted World",
-      "fullTitle": "Deep Work: Rules for Focused Success in a Distracted World",
-      "author": "Cal Newport",
-      "link": "https://bookshop.org/p/books/deep-work-rules-for-focused-success-in-a-distracted-world-cal-newport/8339760?ean=9781455586691",
-      "dateStarted": "2025-01-18T00:00:00Z",
+      "bookId": 398,
+      "title": "Atomic Habits",
+      "subTitle": "",
+      "fullTitle": "Atomic Habits",
+      "author": "James Clear",
+      "link": "https://bookshop.org/p/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones-james-clear/12117739?ean=9780735211292",
+      "dateStarted": "2025-01-23T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/R0vXKbNK/deep-work.jpg",
+      "coverImageUrl": "https://i.postimg.cc/T2HZpmn8/atomic-habits.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 732,
-      "pageCount": 2923,
-      "progress": 25,
-      "sortOrder": 730,
+      "currentPage": 1694,
+      "pageCount": 3142,
+      "progress": 54,
+      "sortOrder": 1200,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -87,6 +87,47 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 387,
+          "title": "Deep Work",
+          "subTitle": "Rules for Focused Success in a Distracted World",
+          "fullTitle": "Deep Work: Rules for Focused Success in a Distracted World",
+          "author": "Cal Newport",
+          "link": "https://bookshop.org/p/books/deep-work-rules-for-focused-success-in-a-distracted-world-cal-newport/8339760?ean=9781455586691",
+          "dateStarted": "2025-01-18T00:00:00Z",
+          "dateCompleted": "2025-01-23T00:00:00Z",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "Another good book by Cal Newport with some thoughts about how to regain focus and do good work.",
+          "coverImageUrl": "https://i.postimg.cc/R0vXKbNK/deep-work.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 2923,
+          "pageCount": 2923,
+          "progress": 100,
+          "sortOrder": 730,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Self Help",
+              "colorCode": "rgb(75, 61, 190)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
+        },
         {
           "bookId": 551,
           "title": "Slow Productivity",
@@ -15483,37 +15524,6 @@
       "pageCount": 0,
       "progress": 0,
       "sortOrder": 1190,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
-      "bookId": 398,
-      "title": "Atomic Habits",
-      "subTitle": "",
-      "fullTitle": "Atomic Habits",
-      "author": "James Clear",
-      "link": "https://bookshop.org/p/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones-james-clear/12117739?ean=9780735211292",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 1200,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"
