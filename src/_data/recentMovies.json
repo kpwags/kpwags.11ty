@@ -128,31 +128,5 @@
         "colorCode": "#037fb4"
       }
     ]
-  },
-  {
-    "movieId": 162,
-    "title": "The Man from Toronto",
-    "imdbLink": "https://www.imdb.com/title/tt11671006/",
-    "dateWatched": "2024-12-27T00:00:00Z",
-    "sortOrder": null,
-    "rating": 3,
-    "thoughts": "This was about as dumb as I expected it to be. Mostly predictable, but still enjoyable.",
-    "posterImageUrl": "https://i.postimg.cc/rsJHvWhp/man-from-toronto.jpg",
-    "status": {
-      "name": "Watched",
-      "colorCode": "#2a9a39"
-    },
-    "genres": [
-      {
-        "name": "Comedy",
-        "colorCode": "#a60483"
-      }
-    ],
-    "services": [
-      {
-        "name": "Netflix",
-        "colorCode": "#c71212"
-      }
-    ]
   }
 ]
