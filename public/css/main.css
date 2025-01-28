@@ -1363,14 +1363,14 @@ article.book-note .titled-horizontal-list ul {
 
 article.post.reading-log-page h3.music,
 article.post.reading-log-page h4 {
-	color: var(--primary-color-1);
+	color: var(--text);
 	margin: 32px 0 8px;
 	font-size: 1.5rem;
 	font-weight: 400;
 }
 
 article.post.reading-log-page .body a {
-color: var(--text);
+	color: var(--text);
 	text-decoration-color: var(--primary-color-1);
 	text-underline-offset: 3px;
 }
