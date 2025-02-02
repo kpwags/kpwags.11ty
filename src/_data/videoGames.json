@@ -1315,6 +1315,45 @@
       ]
     },
     {
+      "videoGameId": 62,
+      "title": "Tales of Kenzera: Zau",
+      "link": "https://www.ea.com/games/tales-of-kenzera",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "sortOrder": null,
+      "status": {
+        "name": "To Play",
+        "colorCode": "#243391"
+      },
+      "genres": [
+        {
+          "name": "Platform",
+          "colorCode": "#585e00"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        },
+        {
+          "name": "Nintendo Switch",
+          "colorCode": "#8e0b24"
+        },
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        },
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
       "videoGameId": 29,
       "title": "God of War: Ragnarok",
       "link": "https://www.playstation.com/en-us/games/god-of-war-ragnarok/",
