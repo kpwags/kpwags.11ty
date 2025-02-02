@@ -1,5 +1,197 @@
 [
   {
+    "linkId": 638,
+    "title": "Buildless testing",
+    "url": "https://gomakethings.com/buildless-testing/",
+    "author": "Chris Ferdinandi",
+    "linkDate": "2025-02-02T00:00:00Z",
+    "readingLogIssueNumber": 109,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 635,
+    "title": "Incomplete List of Mistakes in the Design of CSS",
+    "url": "https://wiki.csswg.org/ideas/mistakes",
+    "author": "CSS Working Group",
+    "linkDate": "2025-01-31T00:00:00Z",
+    "readingLogIssueNumber": 109,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 636,
+    "title": "You can pay for that: How web browser features get built",
+    "url": "https://blog.stephaniestimac.com/posts/2024/12/how-browser-features-are-built/",
+    "author": "Stephanie Stimac",
+    "linkDate": "2025-01-31T00:00:00Z",
+    "readingLogIssueNumber": 109,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 637,
+    "title": "Don\u0027t test implementation details",
+    "url": "https://gomakethings.com/dont-test-implementation-details/",
+    "author": "Chris Ferdinandi",
+    "linkDate": "2025-01-31T00:00:00Z",
+    "readingLogIssueNumber": 109,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 632,
+    "title": "Apollo 13 Was a Well Made Movie with Will Tavlin",
+    "url": "https://the-distraction-a-defector-podcast.simplecast.com/episodes/apollo-13-was-a-well-made-movie-with-will-tavlin",
+    "author": "The Distraction",
+    "linkDate": "2025-01-30T00:00:00Z",
+    "readingLogIssueNumber": 109,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 633,
+    "title": "Relatively New Things You Should Know about HTML with Chris Coyier",
+    "url": "https://podrocket.logrocket.com/relatively-new-things-you-should-know-about-html-chris-coyier",
+    "author": "PodRocket Podcast",
+    "linkDate": "2025-01-30T00:00:00Z",
+    "readingLogIssueNumber": 109,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 634,
+    "title": "Building C# with Mads Torgerson and Dustin Campbell",
+    "url": "https://www.dotnetrocks.com/details/1901",
+    "author": ".NET Rocks",
+    "linkDate": "2025-01-30T00:00:00Z",
+    "readingLogIssueNumber": 109,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 629,
+    "title": "Episode 1900 with Scott Hanselman!",
+    "url": "https://www.dotnetrocks.com/details/1900",
+    "author": ".NET Rocks",
+    "linkDate": "2025-01-29T00:00:00Z",
+    "readingLogIssueNumber": 109,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 630,
+    "title": "The Truth Behind DeepSeek",
+    "url": "https://www.404media.co/podcast-the-truth-behind-deepseek/",
+    "author": "404 Media Podcast",
+    "linkDate": "2025-01-29T00:00:00Z",
+    "readingLogIssueNumber": 109,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 631,
+    "title": "Science at risk: The funding pause is more damaging than you might think",
+    "url": "https://arstechnica.com/science/2025/01/science-at-risk-the-funding-pause-is-more-damaging-than-you-might-think/",
+    "author": "John Timmer",
+    "linkDate": "2025-01-29T00:00:00Z",
+    "readingLogIssueNumber": 109,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 627,
+    "title": "Welcome to Cumberland County, Tennessee, the \u201Cfuture\u201D of the U.S. economy",
+    "url": "https://www.marketplace.org/2025/01/27/cumberland-county-tennessee-aging-population-future-economy/",
+    "author": "Kai Ryssdal, Nela Richardson, \u0026 Maria Hollenhorst",
+    "linkDate": "2025-01-28T00:00:00Z",
+    "readingLogIssueNumber": 109,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Economics",
+      "colorCode": "#4f7a28"
+    }
+  },
+  {
+    "linkId": 628,
+    "title": "Talking Boring Tech",
+    "url": "https://www.breakpoint.show/podcast/episode-020-talking-boring-tech/",
+    "author": "The Breakpoint Show",
+    "linkDate": "2025-01-28T00:00:00Z",
+    "readingLogIssueNumber": 109,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 624,
     "title": "Chinese AI is catching up, posing a dilemma for Donald Trump",
     "url": "https://www.economist.com/leaders/2025/01/23/chinese-ai-is-catching-up-posing-a-dilemma-for-donald-trump",
