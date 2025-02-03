@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 640,
+    "title": "How to get started on open-source development",
+    "url": "https://blog.mozilla.org/en/mozilla/how-to-get-started-open-source-development/",
+    "author": "Angela Lungati",
+    "linkDate": "2025-02-03T00:00:00Z",
+    "readingLogIssueNumber": 109,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
     "linkId": 638,
     "title": "Buildless testing",
     "url": "https://gomakethings.com/buildless-testing/",
@@ -13,6 +29,22 @@
     "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 639,
+    "title": "Treat your to-read pile like a river, not a bucket",
+    "url": "https://www.oliverburkeman.com/river",
+    "author": "Oliver Burkeman",
+    "linkDate": "2025-02-02T00:00:00Z",
+    "readingLogIssueNumber": 109,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
     }
   },
   {
