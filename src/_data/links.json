@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 641,
+    "title": "Control",
+    "url": "https://chriscoyier.net/2025/01/30/control/",
+    "author": "Chris Coyier",
+    "linkDate": "2025-02-03T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
     "linkId": 640,
     "title": "How to get started on open-source development",
     "url": "https://blog.mozilla.org/en/mozilla/how-to-get-started-open-source-development/",
