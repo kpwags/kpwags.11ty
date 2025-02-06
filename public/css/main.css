@@ -1361,6 +1361,16 @@ article.book-note .titled-horizontal-list ul {
 	margin-top: 0;
 }
 
+.titled-horizontal-list ul li a {
+	color: var(--text);
+	text-decoration-color: var(--primary-color-1);
+	text-underline-offset: 3px;
+}
+
+.titled-horizontal-list ul li a:hover {
+	color: var(--primary-color-1);
+}
+
 article.post.reading-log-page h3.music,
 article.post.reading-log-page h4 {
 	color: var(--text);

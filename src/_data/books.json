@@ -1,84 +1,46 @@
 {
   "inProgress": [
     {
-      "bookId": 397,
-      "title": "The Gates of Europe: A History of Ukraine",
+      "bookId": 532,
+      "title": "The Fractured Dark",
       "subTitle": "",
-      "fullTitle": "The Gates of Europe: A History of Ukraine",
-      "author": "Serhii Plokhy",
-      "link": "https://bookshop.org/p/books/the-gates-of-europe-a-history-of-ukraine-serhii-plokhy/15228399?ean=9781541675643",
-      "dateStarted": "2025-01-12T00:00:00Z",
+      "fullTitle": "The Fractured Dark",
+      "author": "Megan E. O\u0027Keefe",
+      "link": "https://bookshop.org/p/books/the-fractured-dark-megan-e-o-keefe/19623182?ean=9780316291132",
+      "dateStarted": "2025-01-28T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/kMhZBVFC/gates-of-europe.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 705,
-      "pageCount": 920,
-      "progress": 77,
-      "sortOrder": 170,
+      "coverImageUrl": "https://i.postimg.cc/Pr93HH7L/the-fractured-dark.jpg",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 400,
+      "pageCount": 504,
+      "progress": 79,
+      "sortOrder": 163,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
       },
       "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
       },
-      "series": null,
+      "series": {
+        "name": "The Devoured Worlds",
+        "colorCode": "#142f81"
+      },
       "genres": [
         {
-          "name": "History",
-          "colorCode": "rgb(4, 38, 142)"
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
         }
       ],
       "formats": [
         {
-          "name": "Audiobook",
-          "colorCode": "#b300b3"
-        }
-      ]
-    },
-    {
-      "bookId": 398,
-      "title": "Atomic Habits",
-      "subTitle": "",
-      "fullTitle": "Atomic Habits",
-      "author": "James Clear",
-      "link": "https://bookshop.org/p/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones-james-clear/12117739?ean=9780735211292",
-      "dateStarted": "2025-01-23T00:00:00Z",
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/T2HZpmn8/atomic-habits.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 2460,
-      "pageCount": 3142,
-      "progress": 78,
-      "sortOrder": 1200,
-      "status": {
-        "name": "Reading",
-        "colorCode": "#6a208f"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Self Help",
-          "colorCode": "rgb(75, 61, 190)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "eBook",
-          "colorCode": "#2c5813"
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
         }
       ]
     }
@@ -87,6 +49,88 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 397,
+          "title": "The Gates of Europe: A History of Ukraine",
+          "subTitle": "",
+          "fullTitle": "The Gates of Europe: A History of Ukraine",
+          "author": "Serhii Plokhy",
+          "link": "https://bookshop.org/p/books/the-gates-of-europe-a-history-of-ukraine-serhii-plokhy/15228399?ean=9781541675643",
+          "dateStarted": "2025-01-12T00:00:00Z",
+          "dateCompleted": "2025-02-02T00:00:00Z",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "This was an interesting and in depth look at the history of Ukraine as far back as the Greek and Roman Empires. It was written in 2015 so the current war is not included, but the run up to it was. It was captivating and gave me an idea of what Ukraine has been through as well as how we got to where we are today.",
+          "coverImageUrl": "https://i.postimg.cc/kMhZBVFC/gates-of-europe.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 920,
+          "pageCount": 920,
+          "progress": 100,
+          "sortOrder": 170,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Audiobook",
+              "colorCode": "#b300b3"
+            }
+          ]
+        },
+        {
+          "bookId": 398,
+          "title": "Atomic Habits",
+          "subTitle": "",
+          "fullTitle": "Atomic Habits",
+          "author": "James Clear",
+          "link": "https://bookshop.org/p/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones-james-clear/12117739?ean=9780735211292",
+          "dateStarted": "2025-01-23T00:00:00Z",
+          "dateCompleted": "2025-01-27T00:00:00Z",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "Some useful tips on helping you improve yourself and your habits.",
+          "coverImageUrl": "https://i.postimg.cc/T2HZpmn8/atomic-habits.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 3142,
+          "pageCount": 3142,
+          "progress": 100,
+          "sortOrder": 1200,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Self Help",
+              "colorCode": "rgb(75, 61, 190)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
+        },
         {
           "bookId": 387,
           "title": "Deep Work",
@@ -12052,50 +12096,6 @@
     }
   ],
   "toRead": [
-    {
-      "bookId": 532,
-      "title": "The Fractured Dark",
-      "subTitle": "",
-      "fullTitle": "The Fractured Dark",
-      "author": "Megan E. O\u0027Keefe",
-      "link": "https://bookshop.org/p/books/the-fractured-dark-megan-e-o-keefe/19623182?ean=9780316291132",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/Pr93HH7L/the-fractured-dark.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 504,
-      "progress": 0,
-      "sortOrder": 163,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "The Devoured Worlds",
-        "colorCode": "#142f81"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
-        }
-      ]
-    },
     {
       "bookId": 533,
       "title": "The Bound Worlds",
