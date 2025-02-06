@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/Pr93HH7L/the-fractured-dark.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 400,
+      "currentPage": 465,
       "pageCount": 504,
-      "progress": 79,
+      "progress": 92,
       "sortOrder": 163,
       "status": {
         "name": "Reading",
@@ -20923,6 +20923,46 @@
         {
           "name": "Business \u0026 Economics",
           "colorCode": "rgb(23, 126, 0)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 554,
+      "title": "Satchel",
+      "subTitle": "The Life and Times of an American Legend",
+      "fullTitle": "Satchel: The Life and Times of an American Legend",
+      "author": "Larry Tye",
+      "link": "https://bookshop.org/p/books/satchel-the-life-and-times-of-an-american-legend-larry-tye/11729858",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 2950,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Biography / Memoir",
+          "colorCode": "rgb(68, 0, 214)"
+        },
+        {
+          "name": "Sports",
+          "colorCode": "rgb(0, 80, 20)"
         }
       ],
       "formats": []
