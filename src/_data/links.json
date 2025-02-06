@@ -1,5 +1,69 @@
 [
   {
+    "linkId": 642,
+    "title": "A Story About Bad Product Management",
+    "url": "https://joeydantoni.com/2024/12/14/a-story-about-bad-product-management/",
+    "author": "Joey Dantoni",
+    "linkDate": "2025-02-04T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 643,
+    "title": "Elon\u2019s Twitter Destruction Playbook Hits The US Government, And It\u2019s Even More Dangerous",
+    "url": "https://www.techdirt.com/2025/01/31/elons-twitter-destruction-playbook-hits-the-us-government-and-its-even-more-dangerous/",
+    "author": "Mike Masnick",
+    "linkDate": "2025-02-04T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 644,
+    "title": "Build Resilient Systems with Wolverine\u2019s Transactional Outbox",
+    "url": "https://jeremydmiller.com/2024/12/08/build-resilient-systems-with-wolverines-transactional-outbox/",
+    "author": "Jeremy Miller",
+    "linkDate": "2025-02-04T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 645,
+    "title": "An Interactive Guide to CSS Grid",
+    "url": "https://www.joshwcomeau.com/css/interactive-guide-to-grid/",
+    "author": "Josh W. Comeau",
+    "linkDate": "2025-02-04T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 641,
     "title": "Control",
     "url": "https://chriscoyier.net/2025/01/30/control/",
