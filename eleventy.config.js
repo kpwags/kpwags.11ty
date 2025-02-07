@@ -10,6 +10,7 @@ import { postsByMonthAndYear, postsByYear } from './src/collections/postsByDate.
 import stats from './src/collections/stats.js';
 import everything from './src/collections/everything.js';
 import pinnedPosts from './src/collections/pinnedPosts.js';
+import { postsNoPolitics, notesNoPolitics, everythingNoPolitics } from './src/collections/politicsExcluded.js';
 
 import dateFilter from './src/filters/date-filter.js';
 import tagUrlFilter from './src/filters/tagurl-filter.js';
@@ -66,6 +67,9 @@ export default function (eleventyConfig) {
     eleventyConfig.addCollection('postsByYear', postsByYear);
     eleventyConfig.addCollection('stats', stats);
     eleventyConfig.addCollection('everything', everything);
+    eleventyConfig.addCollection('postsNoPolitics', postsNoPolitics);
+    eleventyConfig.addCollection('notesNoPolitics', notesNoPolitics);
+    eleventyConfig.addCollection('everythingNoPolitics', everythingNoPolitics);
     eleventyConfig.addCollection('pinnedPosts', pinnedPosts);
 
     eleventyConfig.addFilter('readableDate', dateFilter);

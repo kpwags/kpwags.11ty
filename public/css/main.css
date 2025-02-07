@@ -133,6 +133,7 @@ ul, ol {
 ul li,
 ol li {
 	margin-bottom: 8px;
+	margin-left: 24px;
 }
 
 ul li::marker {
@@ -146,17 +147,19 @@ ul li::marker {
 	}
 }
 
+
 a,
 a:visited {
-	color: var(--primary-color-1);
+	color: var(--text);
 	cursor: pointer;
-	text-decoration: underline;
+	text-decoration-color: var(--primary-color-1);
+	text-underline-offset: 3px;
 }
 
 a:hover {
-	color: var(--primary-color-2);
-	text-decoration: underline;
+	color: var(--primary-color-1);
 }
+
 
 a img {
 	border: none;
@@ -259,11 +262,14 @@ header nav ul li {
 	margin: 0;
 }
 
-header a {
+header a,
+header a:visited {
+	color: var(--primary-color-1);
 	text-decoration: none;
 }
 
 header a:hover {
+	color: var(--primary-color-2);
 	text-decoration: underline;
 }
 
@@ -357,10 +363,6 @@ footer nav ul li {
 	display: inline;
 	padding: 0 6px;
 	margin: 0;
-}
-
-footer nav ul li a {
-	text-decoration: none;
 }
 
 footer nav.contact ul li a:has(svg),
@@ -603,7 +605,7 @@ footer .mode-controls .controls-block {
 }
 
 .homepage-section ul li {
-	margin: 16px 0;
+	margin: 16px 0 16px 24px;
 }
 
 .homepage-section a {
@@ -1139,6 +1141,7 @@ ul.links li a {
 ul.links li a span.text {
 	display: block;
 	text-decoration: underline;
+	text-decoration-color: var(--primary-color-1);
 }
 
 ul.links li a span.meta {
@@ -1228,14 +1231,6 @@ article.note h2 {
 	margin: 0;
 }
 
-article.note h2 a {
-	text-decoration: none;
-}
-
-article.note h2 a:hover {
-	text-decoration: underline;
-}
-
 article.note .metadata {
 	text-transform: uppercase;
 	display: flex;
@@ -1311,14 +1306,6 @@ main.blog-listing-page article.post:last-of-type {
 
 main.blog-listing-page article.post h2 {
 	font-size: 2rem;
-}
-
-article.post h2 a {
-	text-decoration: none;
-}
-
-article.post h2 a:hover {
-	text-decoration: underline;
 }
 
 article.post .metadata {
@@ -1719,6 +1706,9 @@ section.archives-list ul li {
 	margin: 0;
 	border-bottom: 1px solid var(--border-color);
 	list-style-type: none;
+	display: grid;
+	grid-template-columns: 8fr 2fr;
+	padding: 8px 0;
 }
 
 section.archives-list ul li:last-child {
@@ -1730,25 +1720,8 @@ section.archives-list ul li::marker {
 	display: none;
 }
 
-section.archives-list ul li a {
-	padding: 8px 0;
-	display: block;
-	text-decoration: none;
-}
-
-section.archives-list ul li a span.text {
-	display: block;
-	font-size: 1.2rem;
-	text-decoration: underline;
-}
-
-section.archives-list ul li a span.meta {
-	color: var(--meta);
-	text-decoration: none;
-}
-
-section.archives-list ul li a:hover span.meta {
-	text-decoration: none;
+section.archives-list ul li span.meta {
+	text-align: right;
 }
 
 @media (max-width: 450px) {
@@ -1795,14 +1768,6 @@ section.archives-list ul li a:hover span.meta {
 
 .book-note-card h2::before {
 	display: none;
-}
-
-.book-note-card h2 a {
-	text-decoration: none;
-}
-
-.book-note-card h2 a:hover {
-	text-decoration: underline;
 }
 
 .book-note .author {
@@ -1960,8 +1925,15 @@ article.book-note .book-note-content p:first-child {
 
 /* RSS Page */
 
+.
+
 .rss ul li {
 	margin: 12px 0;
+}
+
+.rss.no-politics h2 {
+	font-size: 2rem;
+	margin-top: 48px;
 }
 
 /* End RSS Page */

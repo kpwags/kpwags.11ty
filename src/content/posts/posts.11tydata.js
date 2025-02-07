@@ -9,5 +9,6 @@ export default {
     eleventyComputed: {
         dateString: ({ page }) => dayjs.utc(page.date).format('MMMM D, YYYY'),
         archiveDateString: ({ page }) => dayjs.utc(page.date).format('M-D'),
+        shortDateString: ({ page }) => dayjs.utc(page.date).format('MMM D'),
     }
 };
