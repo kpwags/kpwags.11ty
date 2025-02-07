@@ -39,9 +39,9 @@
 
         <div class="links">
             {% for pageEntry in pagination.pages %}
-            {% if page.url != pagination.hrefs[ loop.index0 ] %}
-                <a href="{{ pageEntry | archivesGetYear }}/{{ pageEntry | archivesGetMonth }}">{{ pageEntry | archivesGetDateString }}</a>
-            {% endif %}
+                {% if page.url != pagination.hrefs[ loop.index0 ] %}
+                    <a href="{{ pageEntry | archivesGetYear }}/{{ pageEntry | archivesGetMonth }}">{{ pageEntry | archivesGetDateString }}</a>
+                {% endif %}
             {% endfor %}
         </div>
     </section>
@@ -56,10 +56,8 @@
         <ul>
             {% for post in collections.postsByMonthAndYear[posts] | reverse %}
             <li>
-                <a href="{{ post.url }}">
-                    <span class="text">{{ post.data.title }}</span>
-                    <span class="meta">{{ post.data.dateString }}</span>
-                </a>
+                <a href="{{ post.url }}">{{ post.data.title }}</a>
+                <span class="meta">{{ post.data.shortDateString }}</span>
             </li>
             {% endfor %}
         </ul>

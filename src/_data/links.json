@@ -1,5 +1,53 @@
 [
   {
+    "linkId": 647,
+    "title": "AI Company Asks Job Applicants Not to Use AI in Job Applications",
+    "url": "https://www.404media.co/anthropic-claude-job-application-ai-assistants/",
+    "author": "Samantha Cole",
+    "linkDate": "2025-02-06T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 648,
+    "title": "A N D R O M E D A Redux",
+    "url": "https://badastronomy.beehiiv.com/p/a-n-d-r-o-m-e-d-a-redux?utm_source=badastronomy.beehiiv.com\u0026utm_medium=newsletter\u0026utm_campaign=a-n-d-r-o-m-e-d-a-redux\u0026_bhlid=81cb9f0ebc7027ff3173faf01904ee6c38e21cd4",
+    "author": "Philip Plait",
+    "linkDate": "2025-02-06T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 646,
+    "title": "Fluid Superscripts and Subscripts",
+    "url": "https://css-tricks.com/fluid-superscripts-and-subscripts/",
+    "author": "Lorenz Woehr",
+    "linkDate": "2025-02-05T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 642,
     "title": "A Story About Bad Product Management",
     "url": "https://joeydantoni.com/2024/12/14/a-story-about-bad-product-management/",

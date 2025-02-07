@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 532,
-      "title": "The Fractured Dark",
+      "bookId": 533,
+      "title": "The Bound Worlds",
       "subTitle": "",
-      "fullTitle": "The Fractured Dark",
+      "fullTitle": "The Bound Worlds",
       "author": "Megan E. O\u0027Keefe",
-      "link": "https://bookshop.org/p/books/the-fractured-dark-megan-e-o-keefe/19623182?ean=9780316291132",
-      "dateStarted": "2025-01-28T00:00:00Z",
+      "link": "https://bookshop.org/p/books/the-bound-worlds-megan-e-o-keefe/20589383?ean=9780316291576",
+      "dateStarted": "2025-02-05T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/Pr93HH7L/the-fractured-dark.jpg",
+      "coverImageUrl": "https://i.postimg.cc/FFPCP3gV/the-bound-worlds.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 465,
-      "pageCount": 504,
-      "progress": 92,
-      "sortOrder": 163,
+      "currentPage": 28,
+      "pageCount": 454,
+      "progress": 6,
+      "sortOrder": 164,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -49,6 +49,50 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 532,
+          "title": "The Fractured Dark",
+          "subTitle": "",
+          "fullTitle": "The Fractured Dark",
+          "author": "Megan E. O\u0027Keefe",
+          "link": "https://bookshop.org/p/books/the-fractured-dark-megan-e-o-keefe/19623182?ean=9780316291132",
+          "dateStarted": "2025-01-28T00:00:00Z",
+          "dateCompleted": "2025-02-05T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "A good continuation to the story and the world she built into the first book. This had some good twists as well.",
+          "coverImageUrl": "https://i.postimg.cc/Pr93HH7L/the-fractured-dark.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 504,
+          "pageCount": 504,
+          "progress": 100,
+          "sortOrder": 163,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": {
+            "name": "The Devoured Worlds",
+            "colorCode": "#142f81"
+          },
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
+        },
         {
           "bookId": 397,
           "title": "The Gates of Europe: A History of Ukraine",
@@ -12096,50 +12140,6 @@
     }
   ],
   "toRead": [
-    {
-      "bookId": 533,
-      "title": "The Bound Worlds",
-      "subTitle": "",
-      "fullTitle": "The Bound Worlds",
-      "author": "Megan E. O\u0027Keefe",
-      "link": "https://bookshop.org/p/books/the-bound-worlds-megan-e-o-keefe/20589383?ean=9780316291576",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/FFPCP3gV/the-bound-worlds.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 454,
-      "progress": 0,
-      "sortOrder": 164,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "The Devoured Worlds",
-        "colorCode": "#142f81"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
-        }
-      ]
-    },
     {
       "bookId": 529,
       "title": "In the Garden of Beasts",

@@ -1,4 +1,4 @@
-export const getBlogPosts = (collection, includeRssOnly = false) => {
+export const getBlogPosts = (collection, includeRssOnly = false, includePolitics = true) => {
 	const posts = [];
 
 	const allItems = collection.getAll();
@@ -14,7 +14,11 @@ export const getBlogPosts = (collection, includeRssOnly = false) => {
 			const isRssOnly = item.data.rss_only ?? false;
 
 			if (includeRssOnly || !isRssOnly) {
-				posts.push(item);
+				if (includePolitics) {
+					posts.push(item);
+				} else if (!item.data.tags.includes('Politics')) {
+					posts.push(item);
+				}
 			}
 		}
 	}
@@ -78,7 +82,7 @@ export const getBookNotes = (collection) => {
 };
 
 
-export const getNotes = (collection) => {
+export const getNotes = (collection, includePolitics = true) => {
 	const notes = [];
 
 	const allItems = collection.getAll();
@@ -91,7 +95,9 @@ export const getNotes = (collection) => {
 		}
 
 		if (item.data.tags.includes('shortnotes')) {
-			notes.push(item);
+			if (includePolitics || (!includePolitics && !item.data.tags.includes('Politics'))) {
+				notes.push(item);
+			}
 		}
 	}
 
@@ -118,11 +124,11 @@ export const getBlogPostsAndReadingLogs = (collection, includeRssOnly = false) =
 	});
 };
 
-export const getEverything = (collection, includeRssOnly = false) => {
-	const posts = getBlogPosts(collection, includeRssOnly);
+export const getEverything = (collection, includeRssOnly = false, includePolitics) => {
+	const posts = getBlogPosts(collection, includeRssOnly, includePolitics);
 	const readingLogs = getReadingLogs(collection);
 	const bookNotes = getBookNotes(collection);
-	const notes = getNotes(collection);
+	const notes = getNotes(collection, includePolitics);
 
 	return [
 		...posts,

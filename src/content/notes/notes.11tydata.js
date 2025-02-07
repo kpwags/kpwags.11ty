@@ -8,5 +8,6 @@ export default {
 	tags: 'shortnotes',
 	eleventyComputed: {
 		dateString: ({ page }) => dayjs.utc(page.date).format('MMMM D, YYYY'),
+        shortDateString: ({ page }) => dayjs.utc(page.date).format('MMM D'),
 	}
 };
