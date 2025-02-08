@@ -32,6 +32,70 @@
     }
   },
   {
+    "linkId": 649,
+    "title": "A 25-Year-Old Is Writing Backdoors Into The Treasury\u2019s $6 Trillion Payment System. What Could Possibly Go Wrong?",
+    "url": "https://www.techdirt.com/2025/02/05/a-25-year-old-is-writing-backdoors-into-the-treasurys-6-trillion-payment-system-what-could-possibly-go-wrong/",
+    "author": "Mike Masnick",
+    "linkDate": "2025-02-06T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 651,
+    "title": "AI-Generated Slop Is Already In Your Public Library",
+    "url": "https://www.404media.co/ai-generated-slop-is-already-in-your-public-library-3/",
+    "author": "Emanuel Maiberg",
+    "linkDate": "2025-02-06T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 652,
+    "title": "The Twitter Files Playbook Comes For The US Government",
+    "url": "https://www.techdirt.com/2025/02/03/the-twitter-files-playbook-comes-for-the-us-government/",
+    "author": "Mike Masnick",
+    "linkDate": "2025-02-06T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 653,
+    "title": "HTML Is Actually a Programming Language. Fight Me",
+    "url": "https://www.wired.com/story/html-is-actually-a-programming-language-fight-me/",
+    "author": "Tim Carmody",
+    "linkDate": "2025-02-06T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 646,
     "title": "Fluid Superscripts and Subscripts",
     "url": "https://css-tricks.com/fluid-superscripts-and-subscripts/",
@@ -45,6 +109,22 @@
     "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 650,
+    "title": "GOG\u2019s New Plan To Weaponize Its Community\u2019s Wishlist Of Games To Pressure IP Holders",
+    "url": "https://www.techdirt.com/2025/02/03/gogs-new-plan-to-weaponize-its-communitys-wishlist-of-games-to-pressure-ip-holders/",
+    "author": "Timothy Geigner",
+    "linkDate": "2025-02-05T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Gaming",
+      "colorCode": "#275576"
     }
   },
   {
