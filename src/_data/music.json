@@ -11978,6 +11978,187 @@
     ]
   },
   {
+    "musicAlbumId": 193,
+    "title": "Nowhere Generation",
+    "artist": "Rise Against",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/0NGh3KFr/rise-against-nowhere-generation.avif",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "The Numbers"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Sudden Urge"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Nowhere Generation"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Talking to Ourselves"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Broken Dreams, Inc."
+      },
+      {
+        "trackNumber": 6,
+        "title": "Forfeit"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Monarch"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Sounds Like"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Sooner or Later"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Middle of a Dream"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Rules of Play"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 194,
+    "title": "Nowhere Generation II",
+    "artist": "Rise Against",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/k5Pkfvjk/rise-against-nowhere-generation-ii.avif",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "The Answer"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Last Man Standing"
+      },
+      {
+        "trackNumber": 3,
+        "title": "This Time it\u0027s Personal"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Pain Mgmt"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Holding Patterns"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Last Man Standing"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 195,
+    "title": "Wolves",
+    "artist": "Rise Against",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/LXHGM6FD/rise-against-wolves.avif",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Wolves"
+      },
+      {
+        "trackNumber": 2,
+        "title": "House on Fire"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Violence"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Welcome to the Breakdown"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Far from Perfect"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Bullshit"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Politics of Love"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Parts Per Million"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Mourning in America"
+      },
+      {
+        "trackNumber": 10,
+        "title": "How Many Walls"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Miracle"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 10,
     "title": "Wild Roots",
     "artist": "Rocky Votolato",
@@ -13160,7 +13341,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/tRwJwsfB/tim-hause-preexisting-conditions.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Alternative",

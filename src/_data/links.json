@@ -1,5 +1,197 @@
 [
   {
+    "linkId": 670,
+    "title": "Was Rust Worth It?",
+    "url": "https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3",
+    "author": "Jarrod Overson",
+    "linkDate": "2025-02-10T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 658,
+    "title": "Page bloat update: How does ever-increasing page size affect your business and your users?",
+    "url": "https://www.speedcurve.com/blog/page-bloat-2025/",
+    "author": "Tammy Everts",
+    "linkDate": "2025-02-09T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 659,
+    "title": "Beyond Alt Text: Overlooked Accessibility Features You Should Be Using",
+    "url": "https://designshack.net/articles/accessibility/overlooked-accessibility-features/",
+    "author": "Roshan Perera",
+    "linkDate": "2025-02-09T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 660,
+    "title": ".NET OSS Projects: Better to Re-license or Die?",
+    "url": "https://aaronstannard.com/relicense-or-die/",
+    "author": "Aaron Stannard",
+    "linkDate": "2025-02-09T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 661,
+    "title": "Master the Art of the Product Manager \u0022No\u0022",
+    "url": "https://letsnotdothat.com/",
+    "author": "letsnotdothat.com",
+    "linkDate": "2025-02-09T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 662,
+    "title": "Cool People Link to Text Fragments",
+    "url": "https://frontendmasters.com/blog/cool-people-link-to-text-fragments/",
+    "author": "Chris Coyier",
+    "linkDate": "2025-02-09T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 664,
+    "title": "Should navigation bars be sticky or fixed?",
+    "url": "https://blog.logrocket.com/ux-design/sticky-vs-fixed-navigation/?ref=web-design-weekly.com",
+    "author": "Allie Paschal",
+    "linkDate": "2025-02-09T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Design",
+      "colorCode": "#0b545e"
+    }
+  },
+  {
+    "linkId": 665,
+    "title": "Why Tracebit is written in C#",
+    "url": "https://tracebit.com/blog/why-tracebit-is-written-in-c-sharp",
+    "author": "Sam Cox",
+    "linkDate": "2025-02-09T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 666,
+    "title": "How To Increase Performance of Web APIs in .NET",
+    "url": "https://dev.to/antonmartyniuk/how-to-increase-performance-of-web-apis-in-net-4nnf",
+    "author": "Anton Martyniuk",
+    "linkDate": "2025-02-09T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 667,
+    "title": "Why developers should embrace creative coding again",
+    "url": "https://www.figma.com/blog/why-developers-should-embrace-creative-coding-again/?utm_source=cassidoo\u0026utm_medium=email\u0026utm_campaign=if-you-are-interested-in-what-you-do-that-keeps",
+    "author": "Jake Albaugh",
+    "linkDate": "2025-02-09T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 668,
+    "title": "Please Don\u0027t Force Dark Mode",
+    "url": "https://iamvishnu.com/posts/please-dont-force-dark-mode",
+    "author": "Vishnu Haridas",
+    "linkDate": "2025-02-09T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 669,
+    "title": "That app could probably be a website",
+    "url": "https://birchtree.me/blog/that-app-could-probably-be-a-website/",
+    "author": "Matt Birchler",
+    "linkDate": "2025-02-09T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
     "linkId": 654,
     "title": "The Little Triangle in the Tooltip",
     "url": "https://css-tricks.com/the-little-triangle-in-the-tooltip/",
@@ -61,6 +253,22 @@
     "category": {
       "name": ".NET",
       "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 663,
+    "title": "CSS text-box-trim",
+    "url": "https://developer.chrome.com/blog/css-text-box-trim",
+    "author": "Adam Argyle",
+    "linkDate": "2025-02-08T00:00:00Z",
+    "readingLogIssueNumber": 110,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
     }
   },
   {
