@@ -1,5 +1,85 @@
 [
   {
+    "linkId": 676,
+    "title": "Ohio data center boom shows Big Tech planting seeds in Middle America",
+    "url": "https://www.marketplace.org/2025/02/10/ohio-power-lines-data-center-energy/",
+    "author": "Kai Ryssdal \u0026 Sean McHenry",
+    "linkDate": "2025-02-11T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 677,
+    "title": "Boring tech is mature, not old",
+    "url": "https://rubenerd.com/boring-tech-is-mature-not-old/",
+    "author": "Ruben Schade",
+    "linkDate": "2025-02-11T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 678,
+    "title": "The Importance of Investing in Soft Skills in the Age of AI",
+    "url": "https://css-tricks.com/the-importance-of-investing-in-soft-skills-in-the-age-of-ai/",
+    "author": "Andy Bell",
+    "linkDate": "2025-02-11T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 679,
+    "title": "Sen. Ron Wyden is here to stop Elon Musk",
+    "url": "https://www.theverge.com/decoder-podcast-with-nilay-patel/609323/senator-ron-wyden-elon-musk-doge-trump-interview",
+    "author": "Decoder",
+    "linkDate": "2025-02-11T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 680,
+    "title": "INCREDIBLE and spectacular Hubble image of a galaxy that got whacked by another galaxy",
+    "url": "https://badastronomy.beehiiv.com/p/incredible-and-spectacular-hubble-image-of-a-galaxy-that-got-whacked-by-another-galaxy",
+    "author": "Philip Plait",
+    "linkDate": "2025-02-11T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
     "linkId": 670,
     "title": "Was Rust Worth It?",
     "url": "https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3",
@@ -13,6 +93,86 @@
     "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 671,
+    "title": "A simple masonry-like composable layout",
+    "url": "https://piccalil.li/blog/a-simple-masonry-like-composable-layout/",
+    "author": "Andy Bell",
+    "linkDate": "2025-02-10T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 672,
+    "title": "Your platform is a trap",
+    "url": "https://www.coryd.dev/posts/2025/your-platform-is-a-trap",
+    "author": "Cory Dransfeldt",
+    "linkDate": "2025-02-10T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 673,
+    "title": "Logging in .NET: Best Practices and Why You Should Love It",
+    "url": "https://medium.com/medialesson/logging-in-net-best-practices-and-why-you-should-love-it-fd907f264299",
+    "author": "Marius Schr\u00F6der",
+    "linkDate": "2025-02-10T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 674,
+    "title": "The Great American Microchip Mobilization",
+    "url": "https://www.wired.com/story/intel-great-american-microchip-mobilization/",
+    "author": "Kelly McEvers",
+    "linkDate": "2025-02-10T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 675,
+    "title": "Accessibility essentials every front-end developer should know",
+    "url": "https://martijnhols.nl/blog/accessibility-essentials-every-front-end-developer-should-know",
+    "author": "Martijn Hols",
+    "linkDate": "2025-02-10T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
     }
   },
   {
