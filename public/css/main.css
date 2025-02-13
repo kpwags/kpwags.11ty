@@ -1502,6 +1502,14 @@ article.blog-post-page .shared-link .posted-by {
     font-style: italic;
 }
 
+article.blog-post-page p:has(+ ul) {
+	margin-bottom: 0;
+}
+
+article.blog-post-page ul + h2 {
+	margin-top: 32px;
+}
+
 /* end blog & reading-logs */
 
 article.book-note h1 {
