@@ -74,30 +74,18 @@ layout: 'layouts/layout.html'
 </section>
 
 <section class="homepage-section">
-	<h2>Latest Book Note</h2>
+	<h2>Latest Book Notes</h2>
 
 	{% set recentBookNotesSorted = collections.booknotes | reverse %}
-	{% set bookNote = recentBookNotesSorted[0] %}
+	{% set bookNotes = recentBookNotesSorted.slice(0, 3) %}
 
 	<ul>
-		<li>
-			<a href="{{ bookNote.url }}">{{ bookNote.data.fullTitle }} by {{ bookNote.data.author }}</a>
-		</li>
-	</ul>
-</section>
-
-<section class="homepage-section latest-pixelfed-photos">
-	<h2>Latest from pixelfed</h2>
-
-	<div class="pixelfed-photos">
-		{% for img in pixelfed %}
-			<a href="{{ img.link }}">
-				<div class="image" title="{{ img.title }}" style="background-image: url('{{ img.image }}')"></div>
-			</a>
+		{% for bookNote in bookNotes %}
+			<li>
+				<a href="{{ bookNote.url }}">{{ bookNote.data.fullTitle }} by {{ bookNote.data.author }}</a>
+			</li>
 		{% endfor %}
-	</div>
-
-	<div class="view-more"><a href="https://pixelfed.social/users/kpwags">View More</a></div>
+	</ul>
 </section>
 
 <section class="homepage-section">
