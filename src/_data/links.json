@@ -1,5 +1,85 @@
 [
   {
+    "linkId": 682,
+    "title": "Nvidia Part I: The GPU Company (1993-2006)",
+    "url": "https://www.acquired.fm/episodes/nvidia-the-gpu-company-1993-2006",
+    "author": "Acquired",
+    "linkDate": "2025-02-13T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 683,
+    "title": "Nvidia Part II: The Machine Learning Company (2006-2022)",
+    "url": "https://www.acquired.fm/episodes/nvidia-the-machine-learning-company-2006-2022",
+    "author": "Acquired",
+    "linkDate": "2025-02-13T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 684,
+    "title": "8 coding lessons from almost three decades of software development",
+    "url": "https://www.dennisdoomen.com/2025/01/8-coding-lessons.html",
+    "author": "Dennis Doomen",
+    "linkDate": "2025-02-13T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 685,
+    "title": "Nvidia Part III: The Dawn of the AI Era (2022-2023)",
+    "url": "https://www.acquired.fm/episodes/nvidia-the-dawn-of-the-ai-era",
+    "author": "Acquired",
+    "linkDate": "2025-02-13T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 681,
+    "title": "We Don\u0027t Need More Cynics. We Need More Builders.",
+    "url": "https://www.joanwestenberg.com/we-dont-need-more-cynics-we-need-more-builders/",
+    "author": "Joan Westenberg",
+    "linkDate": "2025-02-12T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
     "linkId": 676,
     "title": "Ohio data center boom shows Big Tech planting seeds in Middle America",
     "url": "https://www.marketplace.org/2025/02/10/ohio-power-lines-data-center-energy/",
