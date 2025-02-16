@@ -865,38 +865,6 @@
       ]
     },
     {
-      "televisionShowId": 103,
-      "title": "Elsbeth",
-      "imdbLink": "https://www.imdb.com/title/tt26591110/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/sg4Dv2Mx/ellsbeth.jpg",
-      "seasonEpisodeCount": 20,
-      "currentSeasonEpisode": 18,
-      "progress": 90,
-      "sortOrder": null,
-      "status": {
-        "name": "Watching",
-        "colorCode": "#005c78"
-      },
-      "genres": [
-        {
-          "name": "Comedy",
-          "colorCode": "#a60483"
-        },
-        {
-          "name": "Crime Procedural",
-          "colorCode": "#0f760a"
-        }
-      ],
-      "services": [
-        {
-          "name": "Paramount\u002B",
-          "colorCode": "#037fb4"
-        }
-      ]
-    },
-    {
       "televisionShowId": 16,
       "title": "Good Eats",
       "imdbLink": "https://www.imdb.com/title/tt0344651/",
@@ -904,8 +872,8 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/jj33JDQr/goodeats.jpg",
       "seasonEpisodeCount": 252,
-      "currentSeasonEpisode": 147,
-      "progress": 58,
+      "currentSeasonEpisode": 175,
+      "progress": 69,
       "sortOrder": 3,
       "status": {
         "name": "Watching",
@@ -980,6 +948,38 @@
     }
   ],
   "betweenSeasons": [
+    {
+      "televisionShowId": 103,
+      "title": "Elsbeth",
+      "imdbLink": "https://www.imdb.com/title/tt26591110/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/sg4Dv2Mx/ellsbeth.jpg",
+      "seasonEpisodeCount": 21,
+      "currentSeasonEpisode": 21,
+      "progress": 100,
+      "sortOrder": null,
+      "status": {
+        "name": "In Between Seasons",
+        "colorCode": "#901960"
+      },
+      "genres": [
+        {
+          "name": "Comedy",
+          "colorCode": "#a60483"
+        },
+        {
+          "name": "Crime Procedural",
+          "colorCode": "#0f760a"
+        }
+      ],
+      "services": [
+        {
+          "name": "Paramount\u002B",
+          "colorCode": "#037fb4"
+        }
+      ]
+    },
     {
       "televisionShowId": 8,
       "title": "Fallout",
