@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 687,
+    "title": "When the Michelin Star Becomes a Restaurant\u2019s Curse",
+    "url": "https://www.wsj.com/style/michelin-star-removal-giglio-restaurant-af776b3a?st=ZRJoFJ",
+    "author": "Christina Cacouris",
+    "linkDate": "2025-02-15T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 686,
+    "title": "A \u2018True Crime\u2019 Documentary Series Has Millions of Views. The Murders Are All AI-Generated",
+    "url": "https://www.404media.co/a-true-crime-documentary-series-has-millions-of-views-the-murders-are-all-ai-generated/",
+    "author": "Henry Larson",
+    "linkDate": "2025-02-14T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
     "linkId": 682,
     "title": "Nvidia Part I: The GPU Company (1993-2006)",
     "url": "https://www.acquired.fm/episodes/nvidia-the-gpu-company-1993-2006",
