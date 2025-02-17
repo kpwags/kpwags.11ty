@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 688,
+    "title": "Software development topics I\u0027ve changed my mind on after 10 years in the industry",
+    "url": "https://chriskiehl.com/article/thoughts-after-10-years",
+    "author": "Chris Kiehl",
+    "linkDate": "2025-02-16T00:00:00Z",
+    "readingLogIssueNumber": 111,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
     "linkId": 687,
     "title": "When the Michelin Star Becomes a Restaurant\u2019s Curse",
     "url": "https://www.wsj.com/style/michelin-star-removal-giglio-restaurant-af776b3a?st=ZRJoFJ",
