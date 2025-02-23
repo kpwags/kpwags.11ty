@@ -1,0 +1,37 @@
+---
+title: "Week Notes for February 16 - 22"
+date: '2025-02-23T15:27:15.923Z'
+permalink: /posts/2025/02/23/week-notes/index.html
+description: "My week notes for the week of February 16 through February 22."
+tags:
+  - Week Notes
+  - Hockey
+  - Health
+  - James Bond
+  - Tailwind
+  - CSS
+---
+My week notes for the week of February 16 through February 22.
+<!-- excerpt -->
+
+## Notes
+
+### Hockey League Starting Up
+
+One of my hockey leagues (the one I play goalie in) started up Monday. We ended up losing 7-4. I didn't have a particularly good game, but there's still plenty of season left.
+
+### Preventative Care is Important
+
+I ended up getting a colonoscopy this week. The prep for it was not fun, but preventative care is important. Better to catch issues before they become an actual issue. Take care of yourself.
+
+## Interesting Links
+
+{% renderTemplate "webc" %}
+<shared-link title="Amazon now has full creative control over James Bond" url="https://www.polygon.com/news/526343/james-bond-rights-amazon" author="Matt Patches">
+I enjoy the James Bond franchise and am not looking forward to Amazon and Bezos over-saturating the franchise.
+</shared-link>
+
+<shared-link title="Understanding the trade-offs of using Tailwind CSS" url="https://measured.co/blog/tailwind-trade-offs" author="Scott Boyle">
+I'm generally not a fan of Tailwind, but I also recognize that it can be useful. This is a good writeup of the trade-offs you get using Tailwind. The good and the bad.
+</shared-link>
+{% endrenderTemplate %}
