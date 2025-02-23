@@ -1,5 +1,85 @@
 [
   {
+    "linkId": 702,
+    "title": "Unlocking delegate\u0027s potential in C#",
+    "url": "https://blog.elmah.io/unlocking-delegates-potential-in-c/",
+    "author": "Ali Hamza Ansari",
+    "linkDate": "2025-02-23T00:00:00Z",
+    "readingLogIssueNumber": 112,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 701,
+    "title": "AI Killed The Tech Interview. Now What?",
+    "url": "https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/?ref=sidebar",
+    "author": "Kane Narraway",
+    "linkDate": "2025-02-21T00:00:00Z",
+    "readingLogIssueNumber": 112,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 698,
+    "title": "Amazon now has full creative control over James Bond",
+    "url": "https://www.polygon.com/news/526343/james-bond-rights-amazon",
+    "author": "Matt Patches",
+    "linkDate": "2025-02-20T00:00:00Z",
+    "readingLogIssueNumber": 112,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Media \u0026 Entertainment",
+      "colorCode": "#7949a8"
+    }
+  },
+  {
+    "linkId": 699,
+    "title": "Understanding the trade-offs of using Tailwind CSS",
+    "url": "https://measured.co/blog/tailwind-trade-offs",
+    "author": "Scott Boyle",
+    "linkDate": "2025-02-20T00:00:00Z",
+    "readingLogIssueNumber": 112,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 700,
+    "title": "ESLint now officially supports linting of CSS",
+    "url": "https://eslint.org/blog/2025/02/eslint-css-support/",
+    "author": "Nicholas C. Zakas",
+    "linkDate": "2025-02-20T00:00:00Z",
+    "readingLogIssueNumber": 112,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 694,
     "title": "Your App Should Have Been A Website (And Probably Your Game Too)",
     "url": "https://rogueengine.io/blog/your-app-should-have-been-a-website",

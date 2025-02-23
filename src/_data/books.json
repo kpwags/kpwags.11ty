@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 529,
-      "title": "In the Garden of Beasts",
-      "subTitle": "Love, Terror, and an American Family in Hitler\u0027s Berlin",
-      "fullTitle": "In the Garden of Beasts: Love, Terror, and an American Family in Hitler\u0027s Berlin",
+      "bookId": 530,
+      "title": "The Splendid and the Vile",
+      "subTitle": "A Saga of Churchill, Family and Defiance During the Blitz",
+      "fullTitle": "The Splendid and the Vile: A Saga of Churchill, Family and Defiance During the Blitz",
       "author": "Erik Larson",
-      "link": "https://bookshop.org/p/books/in-the-garden-of-beasts-love-terror-and-an-american-family-in-hitler-s-berlin-erik-larson/944016?ean=9780307408853",
-      "dateStarted": "2025-02-15T00:00:00Z",
+      "link": "https://bookshop.org/p/books/the-splendid-and-the-vile-a-saga-of-churchill-family-and-defiance-during-the-blitz-erik-larson/8630726?ean=9780385348737",
+      "dateStarted": "2025-02-22T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/gjv4gVTV/erik-larson-in-the-garden-of-beasts.avif",
+      "coverImageUrl": "https://i.postimg.cc/fbpF1Fth/erik-larson-splendid-vile.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 209,
-      "pageCount": 365,
-      "progress": 57,
-      "sortOrder": 165,
+      "currentPage": 17,
+      "pageCount": 503,
+      "progress": 3,
+      "sortOrder": 166,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -46,6 +46,47 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 529,
+          "title": "In the Garden of Beasts",
+          "subTitle": "Love, Terror, and an American Family in Hitler\u0027s Berlin",
+          "fullTitle": "In the Garden of Beasts: Love, Terror, and an American Family in Hitler\u0027s Berlin",
+          "author": "Erik Larson",
+          "link": "https://bookshop.org/p/books/in-the-garden-of-beasts-love-terror-and-an-american-family-in-hitler-s-berlin-erik-larson/944016?ean=9780307408853",
+          "dateStarted": "2025-02-15T00:00:00Z",
+          "dateCompleted": "2025-02-21T00:00:00Z",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "An interesting look at the rise of Hitler and Nazi Germany through the career of the US\u2019 ambassador to Germany. Larson does a good job of documenting Dodd\u2019s challenges and mindset while navigating the rise of Hitler.",
+          "coverImageUrl": "https://i.postimg.cc/gjv4gVTV/erik-larson-in-the-garden-of-beasts.avif",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 365,
+          "pageCount": 365,
+          "progress": 100,
+          "sortOrder": 165,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
+        },
         {
           "bookId": 533,
           "title": "The Bound Worlds",
@@ -12181,47 +12222,6 @@
     }
   ],
   "toRead": [
-    {
-      "bookId": 530,
-      "title": "The Splendid and the Vile",
-      "subTitle": "A Saga of Churchill, Family and Defiance During the Blitz",
-      "fullTitle": "The Splendid and the Vile: A Saga of Churchill, Family and Defiance During the Blitz",
-      "author": "Erik Larson",
-      "link": "https://bookshop.org/p/books/the-splendid-and-the-vile-a-saga-of-churchill-family-and-defiance-during-the-blitz-erik-larson/8630726?ean=9780385348737",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/fbpF1Fth/erik-larson-splendid-vile.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 503,
-      "progress": 0,
-      "sortOrder": 166,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "History",
-          "colorCode": "rgb(4, 38, 142)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
-        }
-      ]
-    },
     {
       "bookId": 534,
       "title": "Ancillary Justice",
