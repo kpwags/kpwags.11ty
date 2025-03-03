@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/fbpF1Fth/erik-larson-splendid-vile.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 255,
+      "currentPage": 291,
       "pageCount": 503,
-      "progress": 51,
+      "progress": 58,
       "sortOrder": 166,
       "status": {
         "name": "Reading",
@@ -12222,6 +12222,58 @@
     }
   ],
   "toRead": [
+    {
+      "bookId": 561,
+      "title": "Picks and Shovels",
+      "subTitle": "",
+      "fullTitle": "Picks and Shovels",
+      "author": "Cory Doctorow",
+      "link": "https://bookshop.org/p/books/picks-and-shovels-a-martin-hench-novel-cory-doctorow/21413549",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 169,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "Martin Hench",
+        "colorCode": "rgb(106, 112, 2)"
+      },
+      "genres": [
+        {
+          "name": "Crime",
+          "colorCode": "rgb(8, 84, 3)"
+        },
+        {
+          "name": "General Fiction",
+          "colorCode": "rgb(145, 104, 104)"
+        },
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
+        }
+      ]
+    },
     {
       "bookId": 534,
       "title": "Ancillary Justice",

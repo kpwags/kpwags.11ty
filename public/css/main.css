@@ -1214,6 +1214,11 @@ ul.links li a:hover span.meta {
 	text-transform: uppercase;
 }
 
+@media (max-width: 500px) {
+	.heading-block h1 span.prefix {
+		font-size: 1.4rem;
+	}
+}
 
 /* notes */
 article.note {
