@@ -32,6 +32,70 @@
     }
   },
   {
+    "linkId": 709,
+    "title": "Why I Like Designing in the Browser",
+    "url": "https://cloudfour.com/thinks/why-i-like-designing-in-the-browser/",
+    "author": "Tyler Sticka",
+    "linkDate": "2025-03-02T00:00:00Z",
+    "readingLogIssueNumber": 113,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 710,
+    "title": "This Page is Under Construction",
+    "url": "https://localghost.dev/blog/this-page-is-under-construction/",
+    "author": "Sophie Koonin",
+    "linkDate": "2025-03-02T00:00:00Z",
+    "readingLogIssueNumber": 113,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 711,
+    "title": "Using the step and pattern attributes to make number inputs more useful",
+    "url": "https://piccalil.li/blog/using-the-step-and-pattern-attributes-to-make-number-inputs-more-useful/",
+    "author": "Cassidy Williams",
+    "linkDate": "2025-03-02T00:00:00Z",
+    "readingLogIssueNumber": 113,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 712,
+    "title": "Mozilla is already trying to backtrack on Firefox\u0027s controversial data privacy update, but it might be too little, too late",
+    "url": "https://www.pcgamer.com/gaming-industry/mozilla-is-already-trying-to-backtrack-on-firefoxs-controversial-data-privacy-update-but-it-might-be-too-little-too-late/",
+    "author": "Stevie Bonifield",
+    "linkDate": "2025-03-02T00:00:00Z",
+    "readingLogIssueNumber": 113,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
     "linkId": 706,
     "title": "NHL officials are wearing Apple Watches on ice",
     "url": "https://www.theverge.com/news/621004/nhl-watch-comms-apple-watch-wearables-smartwatch",
