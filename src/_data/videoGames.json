@@ -1,6 +1,37 @@
 {
   "inProgress": [
     {
+      "videoGameId": 30,
+      "title": "WoW: Classic",
+      "link": "https://worldofwarcraft.com/en-us/wowclassic",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-29T00:00:00Z",
+      "rating": 4,
+      "thoughts": "I spent so much time on this in my mid 20s, and now in my late 30s, I\u0027m definitely enjoying it again",
+      "coverImageUrl": "https://i.postimg.cc/MH63VFQJ/wow-classic.jpg",
+      "sortOrder": null,
+      "status": {
+        "name": "In Progress",
+        "colorCode": "#d76c28"
+      },
+      "genres": [
+        {
+          "name": "MMO",
+          "colorCode": "#3f8398"
+        },
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
       "videoGameId": 36,
       "title": "God of War",
       "link": "https://www.playstation.com/en-us/god-of-war/",
@@ -429,37 +460,6 @@
         {
           "name": "Xbox",
           "colorCode": "#1b903f"
-        }
-      ]
-    },
-    {
-      "videoGameId": 30,
-      "title": "WoW: Classic",
-      "link": "https://worldofwarcraft.com/en-us/wowclassic",
-      "dateStarted": null,
-      "dateCompleted": "2023-05-29T05:00:00Z",
-      "rating": 4,
-      "thoughts": "I spent so much time on this in my mid 20s, and now in my late 30s, I\u0027m definitely enjoying it again",
-      "coverImageUrl": "https://i.postimg.cc/MH63VFQJ/wow-classic.jpg",
-      "sortOrder": null,
-      "status": {
-        "name": "Completed",
-        "colorCode": "#08824e"
-      },
-      "genres": [
-        {
-          "name": "MMO",
-          "colorCode": "#3f8398"
-        },
-        {
-          "name": "Role Playing Game",
-          "colorCode": "#a83ece"
-        }
-      ],
-      "systems": [
-        {
-          "name": "PC",
-          "colorCode": "#4f1e57"
         }
       ]
     },

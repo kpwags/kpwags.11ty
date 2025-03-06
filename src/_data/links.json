@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 717,
+    "title": "In Defense of Text Labels",
+    "url": "https://www.chrbutler.com/in-defense-of-text-labels",
+    "author": "Christopher Butler",
+    "linkDate": "2025-03-05T00:00:00Z",
+    "readingLogIssueNumber": 114,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 718,
+    "title": "Human-readable date formatting with vanilla JavaScript",
+    "url": "https://henry.codes/writing/human-readable-date-formatting-with-vanilla-javascript/",
+    "author": "Henry Desroches",
+    "linkDate": "2025-03-05T00:00:00Z",
+    "readingLogIssueNumber": 114,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 713,
     "title": "Ideas Lying Around",
     "url": "https://pluralistic.net/2025/03/03/friedmanite/#oil-crisis-two-point-oh",
@@ -36,6 +68,22 @@
     "title": "Why we ditched Next.js and never looked back",
     "url": "https://northflank.com/blog/why-we-ditched-next-js-and-never-looked-back",
     "author": "Will Stewart \u0026 Tom Snelling",
+    "linkDate": "2025-03-03T00:00:00Z",
+    "readingLogIssueNumber": 114,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 716,
+    "title": "Functions in CSS?!",
+    "url": "https://css-tricks.com/functions-in-css/",
+    "author": "Juan Diego Rodr\u00EDguez",
     "linkDate": "2025-03-03T00:00:00Z",
     "readingLogIssueNumber": 114,
     "type": {
