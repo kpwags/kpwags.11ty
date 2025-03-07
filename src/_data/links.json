@@ -32,6 +32,38 @@
     }
   },
   {
+    "linkId": 719,
+    "title": "The Art of Tech Interviewing",
+    "url": "https://addyosmani.com/blog/art-tech-interviews/",
+    "author": "Addy Osmani",
+    "linkDate": "2025-03-05T00:00:00Z",
+    "readingLogIssueNumber": 114,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 720,
+    "title": "Why some software development tasks feel impossible",
+    "url": "https://jonhilton.net/friction/",
+    "author": "Jon Hilton",
+    "linkDate": "2025-03-05T00:00:00Z",
+    "readingLogIssueNumber": 114,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
     "linkId": 713,
     "title": "Ideas Lying Around",
     "url": "https://pluralistic.net/2025/03/03/friedmanite/#oil-crisis-two-point-oh",

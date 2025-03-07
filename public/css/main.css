@@ -1262,7 +1262,8 @@ article.note .content {
 	margin: 24px 0;
 }
 
-article.note .view-link {
+article.note .view-link,
+article.post .view-link {
 	padding: 0 24px 24px 24px;
 	text-align: center;
 }
