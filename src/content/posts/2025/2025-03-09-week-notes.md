@@ -1,0 +1,47 @@
+---
+title: "Week Notes for March 2 - 8"
+date: '2025-03-09T13:50:49.989Z'
+permalink: /posts/2025/03/09/week-notes/index.html
+description: "My week notes for the week of March 2 through March 8."
+tags:
+  - Week Notes
+  - Brewery
+  - Strength Training
+  - Fitness
+  - Writing
+  - CSS
+  - Web Development
+  - Fonts
+---
+My week notes for the week of March 2 through March 8.
+<!-- excerpt -->
+
+## Notes
+
+### Trying to Get into a Lifting Routine Again
+
+I’ve been off with my lifting routine as of late. Between nicer weather for runs, walking tess and being busy with work, I’ve been putting off most of my lifting sessions. This week I finally cracked down and put in some lifting sessions. I’m hoping it will end up sticking as I’d like to get some strength work in.
+
+### Writing
+
+I’ve been in the writing mood all week and have been spending my evenings writing here and there. I’d been hoping to spend time writing on one of my novels and longer stories, but spent the time on blog posts and notes instead.
+
+### New Brewery
+
+Saturday we ventured up and checked out a new brewery (for us). We went to Perkiomen Valley Brewery and while my wife did some crafting with a group meeting there, I enjoyed some beer catching up on my RSS feeds and writing.
+
+## Interesting Links
+
+{% renderTemplate "webc" %}
+<shared-link title="Functions in CSS?!" url="https://css-tricks.com/functions-in-css/" author="Juan Diego Rodríguez">
+Ooo, this feels kind of huge to me. I know it’s early and only (kinda) out now in Chrome Canary behind a flag, but this feels like it could open up some possibilities if/when they get to production.
+</shared-link>
+
+<shared-link title="Why Techdirt Is Now A Democracy Blog (Whether We Like It Or Not)" url="https://www.techdirt.com/2025/03/04/why-techdirt-is-now-a-democracy-blog-whether-we-like-it-or-not/" author="Mike Masnick">
+Techdirt has been a fantastic source for good, high quality writing about the intersection of tech, free speech, privacy, copyright, and more.
+</shared-link>
+
+<shared-link title="The Hardest Working Font in Manhattan" url="https://aresluna.org/the-hardest-working-font-in-manhattan/" author="Marcin Wichary">
+This is an incredible article with some amazing history of a font we’ve probably seen all over the place without even realizing it.
+</shared-link>
+{% endrenderTemplate %}

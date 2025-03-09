@@ -450,6 +450,69 @@
     ]
   },
   {
+    "musicAlbumId": 197,
+    "title": "Chicamacomico",
+    "artist": "American Aquarium",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/VN0C8Lgk/american-aquarium-chicamacomico.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Country",
+        "colorCode": "rgb(120, 74, 0)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Chicamacomico"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Little Things"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Just Close Enough"
+      },
+      {
+        "trackNumber": 4,
+        "title": "The First Year"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Built to Last"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Wildfire"
+      },
+      {
+        "trackNumber": 7,
+        "title": "The Things We Lost Along the Way"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Waking Up the Echoes"
+      },
+      {
+        "trackNumber": 9,
+        "title": "The Hardest Thing"
+      },
+      {
+        "trackNumber": 10,
+        "title": "All I Needed"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 174,
     "title": "The Fear of Standing Still",
     "artist": "American Aquarium",
@@ -509,6 +572,69 @@
       {
         "trackNumber": 10,
         "title": "Head Down, Feet Moving"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 196,
+    "title": "Lamentations",
+    "artist": "American Aquarium",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/vZNVk6WK/american-aquarium-lamentations.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Country",
+        "colorCode": "rgb(120, 74, 0)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Me \u002B Mine (Lamentations)"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Before the Dogwood Blooms"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Six Years Come September"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Starts With You"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Brightleaf \u002B Burley"
+      },
+      {
+        "trackNumber": 6,
+        "title": "The Luckier You Get"
+      },
+      {
+        "trackNumber": 7,
+        "title": "The Day I Learned to Lie to You"
+      },
+      {
+        "trackNumber": 8,
+        "title": "A Better South"
+      },
+      {
+        "trackNumber": 9,
+        "title": "How Wicked I Was"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The Long Haul"
       }
     ]
   },
@@ -8350,6 +8476,476 @@
       {
         "trackNumber": 11,
         "title": "Pol Roger"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 199,
+    "title": "A Good Year to Forget",
+    "artist": "Joey Cape",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/pTNnXbcY/joey-cape-a-good-year-to-forget.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "A Good Year to Forget"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Nickel and Lead"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Poetry in Our Mistakes"
+      },
+      {
+        "trackNumber": 4,
+        "title": "It Could Be Real"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Check Your Ego at the Door"
+      },
+      {
+        "trackNumber": 6,
+        "title": "We Might Be Wrong"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Saturday Night Fever"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Under the Doormat"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Infertile Ground"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Heavy Lies the Head"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Fictional"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Come Home"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 198,
+    "title": "Stitch Puppy",
+    "artist": "Joey Cape",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/nzv9XR68/joey-cape-stitch-puppy.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Me the Witness"
+      },
+      {
+        "trackNumber": 2,
+        "title": "This Life IS Strange"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Gone Baby Gone"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Spill My Guts"
+      },
+      {
+        "trackNumber": 5,
+        "title": "St. Mary\u0027s"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Broken"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Cope"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Faultlines"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Moral Compass"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Tracks"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 200,
+    "title": "California Noir - Chapter One: Analog Beaches \u0026 Digital Cities",
+    "artist": "Julien-K",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/Wz8DnDNX/julien-k-california-noir.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Analog Beaches \u0026 Digital Cities"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Strange Invisible"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Photo Voltaire"
+      },
+      {
+        "trackNumber": 4,
+        "title": "California Noir"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Black Market Machines"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Deep Beat Overground"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Cast Into the Sea"
+      },
+      {
+        "trackNumber": 8,
+        "title": "She\u0027s the Pretender"
+      },
+      {
+        "trackNumber": 9,
+        "title": "No You Can\u0027t"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Eviscerate"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 201,
+    "title": "California Noir - Chapter Two: Nightlife in Neon",
+    "artist": "Julien-K",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/WzTFgmvd/julien-k-california-noir-2.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Signals in the Void"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Spectromeda"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Dossier"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Sunset Life"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Mannequin Eyes"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Corrections"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Solar"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Institution"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Dark Cadence"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Framework"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Temple"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Nightlife in Neon"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 202,
+    "title": "Death to Analog",
+    "artist": "Julien-K",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/Y2zmkP6Y/julien-k-death-to-analog.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Death to Analog"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Someday Soon"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Kick the Bass"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Technical Difficulties"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Systeme De Sexe"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Maestro"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Forever"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Spiral"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Nvr Say Nvr"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Dystopian Girl"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Look At U"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Stranded"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Disease"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Futura"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Dreamland"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Killing Fields"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Maestro (Brandon Belsky Remix)"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 203,
+    "title": "We\u0027re Here With You",
+    "artist": "Julien-K",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/TY25Pc0S/julien-k-were-here-with-you.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "We\u0027re Here With You"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Surrounded By Cowards"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Cruel Daze of Summer"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Breakfast in Berlin"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Palm Springs Reset"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Colorcast"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Close Continuance"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Nights of Future Past"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Flashpoint Riot"
+      },
+      {
+        "trackNumber": 10,
+        "title": "I\u0027ll Try Not to Destroy You"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Dregs of the World (WHWY Mix)"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Whore (Julian Kaye Version)"
+      },
+      {
+        "trackNumber": 13,
+        "title": "1000 Years of Destruction"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Colorcast (Decode Radio Remix)"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Breakfast in Berlin (La-Ex Remix)"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Palm Springs Reset (Battle Tapes Remix)"
+      },
+      {
+        "trackNumber": 17,
+        "title": "I\u0027ll Try Not to Destroy You (Forums Remix)"
+      },
+      {
+        "trackNumber": 18,
+        "title": "Nights of Future Past (Polar Moon Remix)"
+      },
+      {
+        "trackNumber": 19,
+        "title": "We\u0027re Here With You (Craig Williams Remix)"
+      },
+      {
+        "trackNumber": 20,
+        "title": "Breakfast in Berlin (The Handclap Situation Remix)"
       }
     ]
   },
