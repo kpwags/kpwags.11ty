@@ -1,5 +1,85 @@
 [
   {
+    "linkId": 723,
+    "title": "Why crashed cars are increasingly totaled",
+    "url": "https://www.axios.com/2025/03/03/auto-insurance-vehicles-cars-trucks-suvs",
+    "author": "Nathan Bomey",
+    "linkDate": "2025-03-08T00:00:00Z",
+    "readingLogIssueNumber": 114,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Economics",
+      "colorCode": "#4f7a28"
+    }
+  },
+  {
+    "linkId": 724,
+    "title": "IdentityServer4 is public again",
+    "url": "https://blog.duendesoftware.com/posts/20250306-identityserver4-public-again/",
+    "author": "Maarten Balliauw",
+    "linkDate": "2025-03-08T00:00:00Z",
+    "readingLogIssueNumber": 114,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 725,
+    "title": "JavaScript Fatigue Strikes Back",
+    "url": "https://allenpike.com/2025/javascript-fatigue-ssr",
+    "author": "Allen Pike",
+    "linkDate": "2025-03-08T00:00:00Z",
+    "readingLogIssueNumber": 114,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 721,
+    "title": "The Fediverse Isn\u2019t the Future. It\u2019s the Present We\u2019ve Been Denied.",
+    "url": "https://www.joanwestenberg.com/the-fediverse-isnt-the-future-its-the-present-weve-been-denied/",
+    "author": "Joan Westenberg",
+    "linkDate": "2025-03-07T00:00:00Z",
+    "readingLogIssueNumber": 114,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 722,
+    "title": "The Digital Packrat Manifesto",
+    "url": "https://www.404media.co/the-digital-packrat-manifesto/",
+    "author": "Janus Rose",
+    "linkDate": "2025-03-07T00:00:00Z",
+    "readingLogIssueNumber": 114,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
     "linkId": 717,
     "title": "In Defense of Text Labels",
     "url": "https://www.chrbutler.com/in-defense-of-text-labels",

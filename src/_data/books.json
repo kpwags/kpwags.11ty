@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 530,
-      "title": "The Splendid and the Vile",
-      "subTitle": "A Saga of Churchill, Family and Defiance During the Blitz",
-      "fullTitle": "The Splendid and the Vile: A Saga of Churchill, Family and Defiance During the Blitz",
-      "author": "Erik Larson",
-      "link": "https://bookshop.org/p/books/the-splendid-and-the-vile-a-saga-of-churchill-family-and-defiance-during-the-blitz-erik-larson/8630726?ean=9780385348737",
-      "dateStarted": "2025-02-22T00:00:00Z",
+      "bookId": 194,
+      "title": "When McKinsey Comes to Town: The Hidden Influence of the World\u0027s Most Powerful Consulting Firm",
+      "subTitle": "",
+      "fullTitle": "When McKinsey Comes to Town: The Hidden Influence of the World\u0027s Most Powerful Consulting Firm",
+      "author": "Walt Bogdanich \u0026 Michael Forsythe",
+      "link": "https://bookshop.org/p/books/when-mckinsey-comes-to-town-the-hidden-influence-of-the-world-s-most-powerful-consulting-firm-michael-forsythe/18369941?ean=9780385546232",
+      "dateStarted": "2025-03-08T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/fbpF1Fth/erik-larson-splendid-vile.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 425,
-      "pageCount": 503,
-      "progress": 84,
-      "sortOrder": 166,
+      "coverImageUrl": "https://i.postimg.cc/L4JLkDL1/when-mckinsey-comes-to-town.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 594,
+      "pageCount": 4765,
+      "progress": 12,
+      "sortOrder": 650,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -30,14 +30,14 @@
       "series": null,
       "genres": [
         {
-          "name": "History",
-          "colorCode": "rgb(4, 38, 142)"
+          "name": "Business \u0026 Economics",
+          "colorCode": "rgb(23, 126, 0)"
         }
       ],
       "formats": [
         {
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
+          "name": "eBook",
+          "colorCode": "#2c5813"
         }
       ]
     }
@@ -46,6 +46,47 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 530,
+          "title": "The Splendid and the Vile",
+          "subTitle": "A Saga of Churchill, Family and Defiance During the Blitz",
+          "fullTitle": "The Splendid and the Vile: A Saga of Churchill, Family and Defiance During the Blitz",
+          "author": "Erik Larson",
+          "link": "https://bookshop.org/p/books/the-splendid-and-the-vile-a-saga-of-churchill-family-and-defiance-during-the-blitz-erik-larson/8630726?ean=9780385348737",
+          "dateStarted": "2025-02-22T00:00:00Z",
+          "dateCompleted": "2025-03-07T00:00:00Z",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "Another interesting read by Erik Larson. It was interesting reading about Churchill and the challenges he faced with the Blitz. I knew it was bad, but this provided some insight into it and the UK government\u2019s handling of it. The only thing I wasn\u2019t sure of was the sidebars into his family\u2019s love affairs.",
+          "coverImageUrl": "https://i.postimg.cc/fbpF1Fth/erik-larson-splendid-vile.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 503,
+          "pageCount": 503,
+          "progress": 100,
+          "sortOrder": 166,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
+        },
         {
           "bookId": 529,
           "title": "In the Garden of Beasts",
@@ -14370,37 +14411,6 @@
       "type": {
         "name": "Fiction",
         "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
-      "bookId": 194,
-      "title": "When McKinsey Comes to Town: The Hidden Influence of the World\u0027s Most Powerful Consulting Firm",
-      "subTitle": "",
-      "fullTitle": "When McKinsey Comes to Town: The Hidden Influence of the World\u0027s Most Powerful Consulting Firm",
-      "author": "Walt Bogdanich \u0026 Michael Forsythe",
-      "link": "https://bookshop.org/p/books/when-mckinsey-comes-to-town-the-hidden-influence-of-the-world-s-most-powerful-consulting-firm-michael-forsythe/18369941?ean=9780385546232",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 650,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
       },
       "series": null,
       "genres": [],
