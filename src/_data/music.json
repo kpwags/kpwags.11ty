@@ -456,7 +456,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/VN0C8Lgk/american-aquarium-chicamacomico.jpg",
     "isTopTen": false,
-    "showOnNowPage": false,
+    "showOnNowPage": true,
     "genres": [
       {
         "name": "Country",
@@ -1396,7 +1396,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/YCtptbb2/i-have-to-do-this.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Alternative",
@@ -2690,7 +2690,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/kMSHy0Dh/chuck-ragan-love-and-lore.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Folk",
@@ -8561,7 +8561,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/nzv9XR68/joey-cape-stitch-puppy.jpg",
     "isTopTen": false,
-    "showOnNowPage": false,
+    "showOnNowPage": true,
     "genres": [
       {
         "name": "Alternative",
