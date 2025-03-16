@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/L4JLkDL1/when-mckinsey-comes-to-town.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 1115,
+      "currentPage": 4055,
       "pageCount": 4765,
-      "progress": 23,
+      "progress": 85,
       "sortOrder": 650,
       "status": {
         "name": "Reading",
@@ -21261,6 +21261,42 @@
         {
           "name": "Technology",
           "colorCode": "rgb(55, 78, 146)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 562,
+      "title": "Murder the Truth",
+      "subTitle": "Fear, the First Amendment, and a Secret Campaign to Protect the Powerful",
+      "fullTitle": "Murder the Truth: Fear, the First Amendment, and a Secret Campaign to Protect the Powerful",
+      "author": "David Enrich",
+      "link": "https://bookshop.org/p/books/murder-the-truth-threats-intimidation-and-a-secret-campaign-to-protect-the-powerful-david-enrich/21543213?ean=9780063372900\u0026next=t",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 2970,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Politics",
+          "colorCode": "rgb(130, 40, 40)"
         }
       ],
       "formats": []
