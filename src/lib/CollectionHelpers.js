@@ -31,6 +31,62 @@ export const getBlogPosts = (collection, includeRssOnly = false, includePolitics
 	});
 };
 
+export const getNonWeekNotePosts = (collection) => {
+	const posts = [];
+
+	const allItems = collection.getAll();
+
+	for (let i = 0; i < allItems.length; i++) {
+		const item = allItems[i];
+
+		if (!item.data.tags) {
+			continue;
+		}
+
+		if (item.data.tags.includes('post')) {
+			const isRssOnly = item.data.rss_only ?? false;
+
+			if (isRssOnly || item.data.tags.includes('Week Notes')) {
+				continue;
+			}
+
+			posts.push(item);
+		}
+	}
+
+	return posts.sort((a, b) => {
+		if (a.date > b.date) {
+			return 1;
+		}
+		return -1;
+	});
+};
+
+export const getWeekNotes = (collection) => {
+	const posts = [];
+
+	const allItems = collection.getAll();
+
+	for (let i = 0; i < allItems.length; i++) {
+		const item = allItems[i];
+
+		if (!item.data.tags) {
+			continue;
+		}
+
+		if (item.data.tags.includes('post') && item.data.tags.includes('Week Notes')) {
+			posts.push(item);
+		}
+	}
+
+	return posts.sort((a, b) => {
+		if (a.date > b.date) {
+			return 1;
+		}
+		return -1;
+	});
+};
+
 export const getReadingLogs = (collection) => {
 	const readingLogs = [];
 
