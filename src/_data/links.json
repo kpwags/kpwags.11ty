@@ -1,5 +1,69 @@
 [
   {
+    "linkId": 738,
+    "title": "Why SNES hardware is running faster than expected\u2014and why it\u2019s a problem",
+    "url": "https://arstechnica.com/gaming/2025/03/this-small-snes-timing-issue-is-causing-big-speedrun-problems/",
+    "author": "Kyle Orland",
+    "linkDate": "2025-03-17T00:00:00Z",
+    "readingLogIssueNumber": 115,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Gaming",
+      "colorCode": "#275576"
+    }
+  },
+  {
+    "linkId": 739,
+    "title": "Inside The Biggest Ponzi Scheme In American History",
+    "url": "https://www.npr.org/2024/07/10/1197972617/richard-behar-madoff",
+    "author": "Fresh Air",
+    "linkDate": "2025-03-17T00:00:00Z",
+    "readingLogIssueNumber": 115,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 740,
+    "title": "Cool native HTML elements you should already be using",
+    "url": "https://harrisonbroadbent.com/blog/cool-native-html-elements/",
+    "author": "Harrison Broadbent",
+    "linkDate": "2025-03-17T00:00:00Z",
+    "readingLogIssueNumber": 115,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 741,
+    "title": "A 10x Faster TypeScript",
+    "url": "https://devblogs.microsoft.com/typescript/typescript-native-port/",
+    "author": "Anders Hejlsberg",
+    "linkDate": "2025-03-17T00:00:00Z",
+    "readingLogIssueNumber": 115,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 730,
     "title": "First Porn, Now Skin Cream? \u2018Age Verification\u2019 Bills Are Out of Control",
     "url": "https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control",

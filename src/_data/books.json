@@ -1,24 +1,76 @@
 {
   "inProgress": [
     {
-      "bookId": 194,
-      "title": "When McKinsey Comes to Town: The Hidden Influence of the World\u0027s Most Powerful Consulting Firm",
+      "bookId": 561,
+      "title": "Picks and Shovels",
       "subTitle": "",
-      "fullTitle": "When McKinsey Comes to Town: The Hidden Influence of the World\u0027s Most Powerful Consulting Firm",
-      "author": "Walt Bogdanich \u0026 Michael Forsythe",
-      "link": "https://bookshop.org/p/books/when-mckinsey-comes-to-town-the-hidden-influence-of-the-world-s-most-powerful-consulting-firm-michael-forsythe/18369941?ean=9780385546232",
-      "dateStarted": "2025-03-08T00:00:00Z",
+      "fullTitle": "Picks and Shovels",
+      "author": "Cory Doctorow",
+      "link": "https://bookshop.org/p/books/picks-and-shovels-a-martin-hench-novel-cory-doctorow/21413549",
+      "dateStarted": "2025-03-17T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/L4JLkDL1/when-mckinsey-comes-to-town.jpg",
+      "coverImageUrl": "https://i.postimg.cc/59QZ7QQf/cory-doctorow-picks-and-shovels.jpg",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 5,
+      "pageCount": 385,
+      "progress": 1,
+      "sortOrder": 169,
+      "status": {
+        "name": "Reading",
+        "colorCode": "#6a208f"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "Martin Hench",
+        "colorCode": "rgb(106, 112, 2)"
+      },
+      "genres": [
+        {
+          "name": "Crime",
+          "colorCode": "rgb(8, 84, 3)"
+        },
+        {
+          "name": "General Fiction",
+          "colorCode": "rgb(145, 104, 104)"
+        },
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
+        }
+      ]
+    },
+    {
+      "bookId": 563,
+      "title": "Madoff",
+      "subTitle": "The Final Word",
+      "fullTitle": "Madoff: The Final Word",
+      "author": "Richard Behar",
+      "link": "https://bookshop.org/p/books/madoff-the-final-word-richard-behar/20807026?ean=9781476726892\u0026next=t",
+      "dateStarted": "2025-03-17T00:00:00Z",
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/Vk7X3kpR/behar-madoff.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 4055,
-      "pageCount": 4765,
-      "progress": 85,
-      "sortOrder": 650,
+      "currentPage": 81,
+      "pageCount": 838,
+      "progress": 10,
+      "sortOrder": 2980,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -32,12 +84,16 @@
         {
           "name": "Business \u0026 Economics",
           "colorCode": "rgb(23, 126, 0)"
+        },
+        {
+          "name": "Crime",
+          "colorCode": "rgb(8, 84, 3)"
         }
       ],
       "formats": [
         {
-          "name": "eBook",
-          "colorCode": "#2c5813"
+          "name": "Audiobook",
+          "colorCode": "#b300b3"
         }
       ]
     }
@@ -46,6 +102,47 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 194,
+          "title": "When McKinsey Comes to Town",
+          "subTitle": "The Hidden Influence of the World\u0027s Most Powerful Consulting Firm",
+          "fullTitle": "When McKinsey Comes to Town: The Hidden Influence of the World\u0027s Most Powerful Consulting Firm",
+          "author": "Walt Bogdanich \u0026 Michael Forsythe",
+          "link": "https://bookshop.org/p/books/when-mckinsey-comes-to-town-the-hidden-influence-of-the-world-s-most-powerful-consulting-firm-michael-forsythe/18369941?ean=9780385546232",
+          "dateStarted": "2025-03-08T00:00:00Z",
+          "dateCompleted": "2025-03-16T00:00:00Z",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "This provided some good insight into McKinsey which made me angrier the more I read. Their callous disregard for how their work affects people is just cruel. It was enlightening and I feel important to understand how much McKinsey and companies like McKinsey cause the harm that they do.",
+          "coverImageUrl": "https://i.postimg.cc/L4JLkDL1/when-mckinsey-comes-to-town.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 4765,
+          "pageCount": 4765,
+          "progress": 100,
+          "sortOrder": 650,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
+        },
         {
           "bookId": 530,
           "title": "The Splendid and the Vile",
@@ -12263,58 +12360,6 @@
     }
   ],
   "toRead": [
-    {
-      "bookId": 561,
-      "title": "Picks and Shovels",
-      "subTitle": "",
-      "fullTitle": "Picks and Shovels",
-      "author": "Cory Doctorow",
-      "link": "https://bookshop.org/p/books/picks-and-shovels-a-martin-hench-novel-cory-doctorow/21413549",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 1,
-      "progress": 100,
-      "sortOrder": 169,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "Martin Hench",
-        "colorCode": "rgb(106, 112, 2)"
-      },
-      "genres": [
-        {
-          "name": "Crime",
-          "colorCode": "rgb(8, 84, 3)"
-        },
-        {
-          "name": "General Fiction",
-          "colorCode": "rgb(145, 104, 104)"
-        },
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
-        }
-      ]
-    },
     {
       "bookId": 534,
       "title": "Ancillary Justice",

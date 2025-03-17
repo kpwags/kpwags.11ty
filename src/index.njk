@@ -31,13 +31,28 @@ layout: 'layouts/layout.html'
 <section class="homepage-section">
 	<h2>Latest Blog Posts</h2>
 
-	{% set recentPostsSorted = collections.publicPosts | reverse %}
+	{% set recentPostsSorted = collections.nonWeekNotes | reverse %}
 	{% set recentPosts = recentPostsSorted.slice(0, 5) %}
 
 	<ul>
 		{% for post in recentPosts %}
 			<li>
 				<a href="{{ post.url }}">{{ post.data.title }}</a>
+			</li>
+		{% endfor %}
+	</ul>
+</section>
+
+<section class="homepage-section">
+	<h2>Latest Week Notes</h2>
+
+	{% set recentWeekNotesSorted = collections.weekNotes | reverse %}
+	{% set recentWeekNotes = recentWeekNotesSorted.slice(0, 3) %}
+
+	<ul>
+		{% for weekNote in recentWeekNotes %}
+			<li>
+				<a href="{{ weekNote.url }}">{{ weekNote.data.title }}</a>
 			</li>
 		{% endfor %}
 	</ul>

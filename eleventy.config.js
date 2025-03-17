@@ -11,6 +11,8 @@ import stats from './src/collections/stats.js';
 import everything from './src/collections/everything.js';
 import pinnedPosts from './src/collections/pinnedPosts.js';
 import { postsNoPolitics, notesNoPolitics, everythingNoPolitics } from './src/collections/politicsExcluded.js';
+import weekNotes from './src/collections/weekNotes.js';
+import nonWeekNotes from './src/collections/nonWeekNotes.js';
 
 import dateFilter from './src/filters/date-filter.js';
 import tagUrlFilter from './src/filters/tagurl-filter.js';
@@ -71,6 +73,8 @@ export default function (eleventyConfig) {
     eleventyConfig.addCollection('notesNoPolitics', notesNoPolitics);
     eleventyConfig.addCollection('everythingNoPolitics', everythingNoPolitics);
     eleventyConfig.addCollection('pinnedPosts', pinnedPosts);
+    eleventyConfig.addCollection('weekNotes', weekNotes);
+    eleventyConfig.addCollection('nonWeekNotes', nonWeekNotes);
 
     eleventyConfig.addFilter('readableDate', dateFilter);
     eleventyConfig.addFilter('tagUrlSlug', tagUrlFilter);
