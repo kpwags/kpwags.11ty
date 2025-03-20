@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 746,
+    "title": "The economy\u2019s stability also depends on the rule of law",
+    "url": "https://www.marketplace.org/2025/03/19/supreme-court-federal-reserve-fed-agencies-independence-monetary-policy-constitutional/",
+    "author": "Kai Ryssdal \u0026 Sean McHenry",
+    "linkDate": "2025-03-20T00:00:00Z",
+    "readingLogIssueNumber": 116,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Economics",
+      "colorCode": "#4f7a28"
+    }
+  },
+  {
+    "linkId": 747,
+    "title": "The Dictator Playbook",
+    "url": "https://www.npr.org/2024/07/23/1197972813/autocracy-anne-applebaum-dictators",
+    "author": "Fresh Air",
+    "linkDate": "2025-03-20T00:00:00Z",
+    "readingLogIssueNumber": 116,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 742,
     "title": "A River Runs Through Los Angeles",
     "url": "https://99percentinvisible.org/episode/a-river-runs-through-los-angeles/",
