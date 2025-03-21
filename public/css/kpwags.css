@@ -102,6 +102,11 @@ h6 {
 	}
 }
 
+p {
+	line-height: 32px;
+	margin-bottom: 32px;
+}
+
 ul,
 ol {
 	margin: 0;
@@ -207,7 +212,8 @@ header nav {
 header nav ul li {
 	list-style-type: none;
 	display: inline;
-	padding: 0 16px;
+	padding: 0 8px;
+	font-size: 1.25rem;
 }
 
 footer {
@@ -449,9 +455,84 @@ article.post-snippet h2 {
 	margin-bottom: 0;
 }
 
-article.post-snippet .metadata {
+article.post-snippet .metadata,
+article.post .metadata {
 	color: var(--meta);
 	text-transform: uppercase;
 	font-style: italic;
 	margin: 12px 0;
+}
+
+article.post h1 {
+	margin-bottom: 0;
+}
+
+article.reading-log h3 {
+	color: var(--text);
+	margin: 32px 0 8px;
+	font-size: 1.5rem;
+	font-weight: 400;
+	text-wrap: pretty;
+}
+
+.titled-horizontal-list {
+	display: flex;
+	gap: 24px;
+	margin: 0 0 24px 0;
+	width: 100%;
+	align-items: flex-start;
+}
+
+.titled-horizontal-list .lead {
+	min-width: 100px;
+	line-height: 1.6;
+	font-size: 1rem;
+}
+
+.titled-horizontal-list ul {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	column-gap: 16px;
+	row-gap: 8px;
+	flex-wrap: wrap;
+	width: 100%;
+}
+
+.titled-horizontal-list ul li {
+	list-style-type: none;
+	padding: 0;
+	line-height: 1.6;
+	margin-bottom: 0;
+}
+
+.titled-horizontal-list ul li::marker {
+	display: none;
+	content: '';
+}
+
+.titled-horizontal-list ul li a {
+	white-space: nowrap;
+	color: var(--text);
+	text-decoration-color: var(--primary-color-1);
+	text-underline-offset: 3px;
+}
+
+.titled-horizontal-list ul li a:hover {
+	color: var(--primary-color-1);
+}
+
+.titled-horizontal-list:last-child {
+	margin-bottom: 0;
+}
+
+.in-depth-notes h2 {
+	margin-bottom: 0;
+}
+
+.in-depth-notes .in-depth-meta {
+	color: var(--meta);
+	text-transform: uppercase;
+	font-style: italic;
+	margin: 12px 0;	
 }
