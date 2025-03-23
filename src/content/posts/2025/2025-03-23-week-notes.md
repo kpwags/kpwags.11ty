@@ -1,0 +1,36 @@
+---
+title: "Week Notes for March 16 - 22"
+date: '2025-03-23T18:43:31.931Z'
+permalink: /posts/2025/03/23/week-notes/index.html
+description: "My week notes for the week of March 16 through March 22."
+tags:
+  - Week Notes
+  - Weather
+  - Spring
+  - Porch
+  - Running
+  - Fitness
+  - UX
+  - Design
+  - Christopher Butler
+---
+My week notes for the week of March 16 through March 22.
+<!-- excerpt -->
+
+## Notes
+
+### Enjoying Our Porch
+
+One of my favorite features of our house is our little porch. We have some nice wicker rocker chairs and it’s nice to just sit out there with my feet up and write or read. With the nice spring weather, I’ve been taking advantage of it before the weather gets to be too brutal to be out there.
+
+### Running More
+
+The beautiful weather has also inspired me to run more. This week I ran almost 25 miles including a 6.42 mile run on Tuesday. I’ve been wanting to increase the distance and I think I’m going to try to start putting in some long runs on Saturdays throughout the spring and early summer. I’m not sure if anything will come of it, but I was able in the past to comfortably run 10-12 miles and would love to get to that point or more again.
+
+## Interesting Links
+
+{% renderTemplate "webc" %}
+<shared-link title="Simplification Takes Courage" url="https://www.chrbutler.com/simplification-takes-courage" author="Christopher Butler">
+  Nothing makes me happier than to use an interface that is simple and clear in its purpose and how to use it. This is a good piece on how it can be easy to forget this.
+</shared-link>
+{% endrenderTemplate %}
