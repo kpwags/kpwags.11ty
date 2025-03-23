@@ -1,5 +1,5 @@
 <div class="shared-link">
 	<h3><a :href="url" @html="title"></a></h3>
-	<div class="posted-by">Posted by <span @html="author"></span></div>
+	<div class="posted-by" @html="author"></div>
 	<slot></slot>
 </div>
