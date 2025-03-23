@@ -1,5 +1,69 @@
 [
   {
+    "linkId": 751,
+    "title": "Deno shows us there\u0027s a better way",
+    "url": "https://www.macchaffee.com/blog/2025/deno/",
+    "author": "Mac Chaffee",
+    "linkDate": "2025-03-23T00:00:00Z",
+    "readingLogIssueNumber": 116,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 750,
+    "title": "High school sports are losing athletes to private clubs, but schools can keep them by focusing on character development",
+    "url": "https://theconversation.com/high-school-sports-are-losing-athletes-to-private-clubs-but-schools-can-keep-them-by-focusing-on-character-development-236367",
+    "author": "Mark Rerick",
+    "linkDate": "2025-03-22T00:00:00Z",
+    "readingLogIssueNumber": 116,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 748,
+    "title": "Simplification Takes Courage",
+    "url": "https://www.chrbutler.com/simplification-takes-courage",
+    "author": "Christopher Butler",
+    "linkDate": "2025-03-21T00:00:00Z",
+    "readingLogIssueNumber": 116,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Design",
+      "colorCode": "#0b545e"
+    }
+  },
+  {
+    "linkId": 749,
+    "title": "RESTful API Design: Why Simplicity Wins",
+    "url": "https://woodruff.dev/restful-api-design-why-simplicity-wins/",
+    "author": "Chris Woodruff",
+    "linkDate": "2025-03-21T00:00:00Z",
+    "readingLogIssueNumber": 116,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
     "linkId": 746,
     "title": "The economy\u2019s stability also depends on the rule of law",
     "url": "https://www.marketplace.org/2025/03/19/supreme-court-federal-reserve-fed-agencies-independence-monetary-policy-constitutional/",
