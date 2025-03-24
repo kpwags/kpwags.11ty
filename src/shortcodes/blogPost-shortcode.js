@@ -9,6 +9,7 @@ const blogPostShortcode = (post, type) => {
 		<div class="excerpt">${toHTML(post.data.page.excerpt)}</div>
 	</div>
 </article>
+<hr />
 `;
 };
 
