@@ -1,5 +1,133 @@
 [
   {
+    "linkId": 757,
+    "title": "A note on the USB-to-PS/2 mouse adapter that came with Microsoft mouse devices",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20250325-00/?p=110993",
+    "author": "Raymond Chen",
+    "linkDate": "2025-03-27T00:00:00Z",
+    "readingLogIssueNumber": 117,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 758,
+    "title": "Mozilla Foundation Calls on Tech Industry to Block ICE Contractor",
+    "url": "https://www.404media.co/mozilla-foundation-calls-on-tech-industry-to-block-ice-contractor/",
+    "author": "Joseph Cox",
+    "linkDate": "2025-03-27T00:00:00Z",
+    "readingLogIssueNumber": 117,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 759,
+    "title": "DNA of 15 Million People for Sale in 23andMe Bankruptcy",
+    "url": "https://www.404media.co/dna-of-15-million-people-for-sale-in-23andme-bankruptcy/",
+    "author": "Jason Koehler",
+    "linkDate": "2025-03-27T00:00:00Z",
+    "readingLogIssueNumber": 117,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 752,
+    "title": "Forcing People Back to the Office was a Choice. I\u2019m Making Mine.",
+    "url": "https://werd.io/2025/forcing-people-back-to-the-office-was-a-choice-im",
+    "author": "Ben Werdmuller",
+    "linkDate": "2025-03-25T00:00:00Z",
+    "readingLogIssueNumber": 117,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 753,
+    "title": "In Baltimore, bridge builders must be economic futurists",
+    "url": "https://www.marketplace.org/2025/03/24/baltimore-key-bridge-rebuild-100-year-life-span/",
+    "author": "Stephanie Hughes",
+    "linkDate": "2025-03-25T00:00:00Z",
+    "readingLogIssueNumber": 117,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Economics",
+      "colorCode": "#4f7a28"
+    }
+  },
+  {
+    "linkId": 754,
+    "title": "As Trump disbands economic advisory committees, experts raise concerns",
+    "url": "https://www.marketplace.org/shows/marketplace-morning-report/as-trump-disbands-economic-advisory-committees-experts-raise-independence-concerns/",
+    "author": "Marketplace Morning Report",
+    "linkDate": "2025-03-25T00:00:00Z",
+    "readingLogIssueNumber": 117,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 755,
+    "title": "As preps continue, it\u2019s looking more likely NASA will fly the Artemis II mission",
+    "url": "https://arstechnica.com/space/2025/03/as-preps-continue-its-looking-more-likely-nasa-will-fly-the-artemis-ii-mission/",
+    "author": "Stephen Clark",
+    "linkDate": "2025-03-25T00:00:00Z",
+    "readingLogIssueNumber": 117,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 756,
+    "title": "Everything NetChoice",
+    "url": "https://podcast.techfreedom.org/episodes/401-everything-netchoice",
+    "author": "Tech Policy Podcast",
+    "linkDate": "2025-03-25T00:00:00Z",
+    "readingLogIssueNumber": 117,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 751,
     "title": "Deno shows us there\u0027s a better way",
     "url": "https://www.macchaffee.com/blog/2025/deno/",
