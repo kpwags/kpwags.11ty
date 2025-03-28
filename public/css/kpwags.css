@@ -1039,3 +1039,405 @@ section.archives-list ul li span.meta {
 		margin: 0 auto 32px;
 	}
 }
+
+.project {
+	margin: 32px 0;
+	padding-bottom: 32px;
+	border-bottom: 1px solid var(--border-color);
+}
+
+.project:last-of-type {
+	border-bottom: none;
+}
+
+.project h2 {
+	margin-bottom: 0;
+}
+
+.project .status {
+	margin: 2px 0 24px;
+	color: var(--meta);
+}
+
+.project img {
+	margin: 16px auto 24px;
+	max-width: 80%;
+	text-align: center;
+}
+
+
+.project p:last-child {
+	margin-bottom: 0;
+}
+
+.search-form {
+	background: var(--background);
+	border: 1px solid var(--border-color);
+	border-radius: 6px;
+	padding: 24px;
+}
+
+.search-form:hover {
+	border-color: var(--primary-color-1);
+}
+
+.search-form form {
+	display: grid;
+	grid-column-gap: 12px;
+	grid-template-columns: 5fr 1fr;
+}
+
+.search-field {
+	padding: 10px;
+	border-radius: 2px;
+	width: 100%;
+	border: 1px solid var(--black-3);
+	margin-right: 15px;
+}
+
+.search-button {
+	background: var(--primary-color-1);
+	color: #fefefe;
+	border: none;
+	padding: 10px 15px;
+	font-weight: normal;
+	cursor: pointer;
+}
+
+.search-button:hover {
+	background: var(--primary-color-3);
+}
+
+.wip-section {
+	margin-bottom: 32px;
+}
+
+.wip-section p.large {
+	margin-top: 0;
+}
+
+.wip-section h2 {
+	margin-bottom: 24px;
+}
+
+.wip-section article {
+	margin: 16px 24px;
+	border-bottom: 1px solid var(--border-color);
+}
+
+.wip-section article:last-of-type {
+	border-bottom: none;
+}
+
+.wip-section article p {
+	margin-bottom: 24px;
+}
+
+.chart {
+	margin: 32px 0 16px 0;
+}
+
+.chart h2 {
+	margin-bottom: 24px;
+}
+
+.stats-chart {
+	display: grid;
+	grid-template-columns: 1fr 9fr 1fr;
+	grid-column-gap: 12px;
+}
+
+.stats-chart.tags {
+	grid-template-columns: 3fr 9fr 1fr;
+}
+
+.stats-chart .bar {
+	height: 40px;
+	position: relative;
+	margin: 0 0 25px 0;
+}
+
+.stats-chart .inner-bar {
+	height: 100%;
+}
+
+.stats-chart .bar-title {
+	line-height: 40px;
+	margin: 0;
+	padding: 0;
+	white-space: nowrap;
+}
+
+.stats-chart .mobile-stats {
+	display: none;
+}
+
+.stats-chart .legend {
+	line-height: 40px;
+	margin: 0;
+	padding: 0;
+	text-align: right;
+}
+
+.stats-table {
+	display: flex;
+	flex-direction: column;
+	row-gap: 8px;
+}
+
+.stat-row {
+	display: flex;
+	font-size: 1.1rem;
+	column-gap: 24px;
+	width: 100%;
+}
+
+.stat-row:hover {
+	background-color: var(--grey-3);
+}
+
+.stat-name {
+	min-width: 215px;
+	font-weight: 600;
+}
+
+@media all and (max-width: 500px) {
+	.stats-chart {
+		display: block;
+	}
+
+	.stats-chart .bar {
+		margin: 0 0 10px 0;
+	}
+
+	.stats-chart .legend {
+		display: none;
+	}
+
+	.stats-chart .mobile-stats {
+		display: inline;
+	}
+
+	.stat-name {
+		min-width: 175px;
+	}
+}
+
+.blog-roll {
+/*	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+	grid-column-gap: 16px;
+	grid-row-gap: 16px;*/
+}
+
+
+.blog-roll .item {
+	display: grid;
+	grid-column-gap: 16px;
+	grid-template-columns: 3fr 3fr 2fr;
+	padding: 8px;
+	border-bottom: 1px solid var(--border-color);
+	align-items: center;
+}
+
+.blog-roll .item:hover div {
+	color: var(--primary-color-1);
+}
+
+.blog-roll .item:first-of-type {
+	border-top: 1px solid var(--border-color);
+}
+
+.blog-roll .item ul {
+	margin: 0;
+	padding: 0;
+}
+
+.blog-roll .item ul li {
+	list-style-type: none;
+	display: inline-block;
+	margin: 0;
+}
+
+.blog-roll .item ul.tags li {
+	white-space: nowrap;
+	color: var(--background);
+	background: var(--primary-color-1);
+	padding: 2px 8px;
+	border-radius: 8px;
+	font-size: 0.8rem;
+}
+
+.blog-roll .item ul.blog-roll-links {
+	display: flex;
+	column-gap: 24px;
+	align-items: center;
+	justify-content: flex-end;
+}
+
+.blog-roll .item ul.blog-roll-links li {
+	width: 24px;
+	height: 24px;
+}
+
+.blog-roll .item ul.blog-roll-links li a {
+	text-decoration: none;
+	display: inline-block;
+	padding-right: 8px;
+}
+
+.blog-roll .item ul.blog-roll-links li a svg {
+	fill: var(--text);
+	width: 24px;
+	height: 24px;
+}
+
+.blog-roll .item ul.blog-roll-links li a:hover svg {
+	fill: var(--primary-color-1);
+}
+
+@media (max-width: 767px) {
+	.blog-roll .item {
+		display: flex;
+		row-gap: 16px;
+		flex-direction: column;
+		padding: 16px 0;
+	}
+
+	.blog-roll .item div {
+		font-size: 1.5rem;
+	}
+}
+
+fit-vids {
+	margin-bottom: 48px;
+}
+
+.rainbow-bar {
+	width: 100%;
+	height: 16px;
+	background: linear-gradient(90deg,
+			rgba(255, 0, 0, 1) 0%,
+			rgba(255, 154, 0, 1) 10%,
+			rgba(208, 222, 33, 1) 20%,
+			rgba(79, 220, 74, 1) 30%,
+			rgba(63, 218, 216, 1) 40%,
+			rgba(47, 201, 226, 1) 50%,
+			rgba(28, 127, 238, 1) 60%,
+			rgba(95, 21, 242, 1) 70%,
+			rgba(186, 12, 248, 1) 80%,
+			rgba(251, 7, 217, 1) 90%,
+			rgba(255, 0, 0, 1) 100%);
+}
+
+figure.quote {
+	margin: 24px 0;
+	border-left: 4px solid var(--primary-color-3);
+	background: var(--shaded-background);
+	border-radius: 6px;
+	padding: 24px 32px;
+}
+
+figure.quote blockquote {
+	padding: 0;
+	border-left: 0;
+	margin: 0;
+}
+
+figure.quote blockquote p {
+	margin: 0 0 24px 0;
+}
+
+figure.quote figcaption+p {
+	display: none;
+}
+
+figure.quote blockquote ul,
+figure.quote blockquote ol {
+	padding-left: 16px;
+}
+
+.platform-tag .tag svg {
+	fill: var(--white-1);
+	width: 12px;
+	height: 12px;
+}
+
+.monthly-roundup p:empty {
+	display: none;
+}
+
+.monthly-roundup a {
+	color: var(--text);
+	text-decoration-color: var(--primary-color-1);
+	text-underline-offset: 3px;
+}
+
+.monthly-roundup a:hover {
+	color: var(--primary-color-1);
+}
+
+.monthly-roundup h4 {
+	margin-top: 32px;
+}
+
+.aspiration {
+	margin-bottom: 32px;
+}
+
+.progress-bar {
+	display: grid;
+	grid-template-columns: 8fr 4fr;
+	grid-column-gap: 12px;
+	margin-top: 12px;
+}
+
+.progress-bar .bar {
+	height: 40px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #666;
+	position: relative;
+	margin: 0 0 25px 0;
+}
+
+.progress-bar .bar .inner-bar {
+	height: 100%;
+}
+
+.progress-bar .legend {
+	line-height: 40px;
+	margin: 0;
+	padding: 0;
+}
+
+.aspiration-status {
+	font-size: 4rem;
+	margin-top: 12px;
+}
+
+.aspiration p:last-child {
+	margin-bottom: 0;
+}
+
+@media (max-width: 500px) {
+	.progress-bar {
+		display: block;
+	}
+
+	.progress-bar .bar {
+		margin: 0 0 10px 0;
+	}
+
+	.progress-bar .legend {
+		line-height: 1;
+		margin: 0 0 25px 0;
+		text-align: center;
+	}
+
+	.aspiration-status {
+		font-size: 3rem;
+		text-align: center;
+		margin-left: 0;
+	}
+}

@@ -3,6 +3,7 @@
 		"title": "Ana Rodrigues",
 		"link": "https://ohhelloana.blog/",
 		"rssLink": "https://ohhelloana.blog/feed.xml",
+		"mastodon": "https://front-end.social/@anarodrigues",
 		"tags": [
 			"Web Dev"
 		]
@@ -11,6 +12,7 @@
 		"title": "Andrew Lock",
 		"link": "https://andrewlock.net/",
 		"rssLink": "https://andrewlock.net/rss.xml",
+		"mastodon": "https://hachyderm.io/@andrewlock",
 		"tags": [
 			".NET",
 			"C#"
@@ -26,6 +28,16 @@
 		]
 	},
 	{
+		"title": "Brad Frost",
+		"link": "https://bradfrost.com",
+		"rssLink": "https://feeds.feedburner.com/brad-frosts-blog",
+		"mastodon": "https://mastodon.social/@brad_frost",
+		"tags": [
+			".NET",
+			"C#"
+		]
+	},
+	{
 		"title": "Brian Hogan",
 		"link": "https://nodogmablog.bryanhogan.net/",
 		"rssLink": "https://nodogmablog.bryanhogan.net/index.xml",
@@ -38,8 +50,18 @@
 		"title": "Chris Coyier",
 		"link": "https://chriscoyier.net",
 		"rssLink": "https://chriscoyier.net/feed/",
+		"mastodon": "https://front-end.social/@chriscoyier",
 		"tags": [
 			"CSS",
+			"Web Dev"
+		]
+	},
+	{
+		"title": "Chris Ferdinandi",
+		"link": "https://gomakethings.com",
+		"rssLink": "https://gomakethings.com/feed/index.xml",
+		"mastodon": "https://mastodon.social/@cferdinandi",
+		"tags": [
 			"Web Dev"
 		]
 	},
@@ -47,6 +69,7 @@
 		"title": "Cory Dransfeldt",
 		"link": "https://coryd.dev",
 		"rssLink": "https://feedpress.me/coryd",
+		"mastodon": "https://follow.coryd.dev/@cory",
 		"tags": [
 			"Web Dev",
 			"11ty"
@@ -56,6 +79,7 @@
 		"title": "Dave Rupert",
 		"link": "https://daverupert.com",
 		"rssLink": "https://daverupert.com/atom.xml",
+		"mastodon": "https://mastodon.social/@davatron5000",
 		"tags": [
 			"Web Dev"
 		]
@@ -70,9 +94,19 @@
 		]
 	},
 	{
+		"title": "Jeremy Keith",
+		"link": "https://adactio.com",
+		"rssLink": "https://adactio.com/rss/",
+		"mastodon": "https://mastodon.social/@adactio",
+		"tags": [
+			"Web Dev"
+		]
+	},
+	{
 		"title": "Jim Nielsen",
 		"link": "https://blog.jim-nielsen.com/",
 		"rssLink": "https://blog.jim-nielsen.com/feed.xml",
+		"mastodon": "https://mastodon.social/@jimniels",
 		"tags": [
 			"Web Dev"
 		]
@@ -81,6 +115,7 @@
 		"title": "Keith J. Grant",
 		"link": "https://keithjgrant.com/",
 		"rssLink": "https://keithjgrant.com/posts/index.xml",
+		"mastodon": "https://front-end.social/@keithjgrant",
 		"tags": [
 			"CSS",
 			"Web Dev"
@@ -90,15 +125,27 @@
 		"title": "Khalid Abuhakmeh",
 		"link": "https://khalidabuhakmeh.com/",
 		"rssLink": "https://khalidabuhakmeh.com/feed.xml",
+		"mastodon": "https://mastodon.social/@khalidabuhakmeh",
 		"tags": [
 			".NET",
 			"C#"
 		]
 	},
 	{
+		"title": "Lynn Fisher",
+		"link": "https://lynnandtonic.com",
+		"rssLink": "https://lynnandtonic.com/feed.xml",
+		"mastodon": "https://front-end.social/@lynnandtonic",
+		"tags": [
+			"Web Dev",
+			"Design"
+		]
+	},
+	{
 		"title": "Manuel Matuzović",
 		"link": "https://www.matuzo.at/",
 		"rssLink": "https://www.matuzo.at/feed_all.xml",
+		"mastodon": "https://front-end.social/@matuzo",
 		"tags": [
 			"Web Dev",
 			"CSS",
@@ -114,9 +161,19 @@
 		]
 	},
 	{
+		"title": "Paul Stamatiou",
+		"link": "https://paulstamatiou.com",
+		"rssLink": "https://paulstamatiou.com/posts.xml",
+		"mastodon": "https://mastodon.social/@stammy",
+		"tags": [
+			"Design"
+		]
+	},
+	{
 		"title": "Rach Smith",
 		"link": "https://rachsmith.com/",
 		"rssLink": "https://rachsmith.com/feed.xml",
+		"mastodon": "https://mastodon.social/@rachsmith",
 		"tags": [
 			"Web Dev"
 		]
@@ -125,23 +182,17 @@
 		"title": "Robin Rendle",
 		"link": "https://robinrendle.com/",
 		"rssLink": "https://robinrendle.com/feed.xml",
+		"mastodon": "https://sfba.social/@fonts",
 		"tags": [
 			"CSS",
 			"Web Dev"
 		]
 	},
 	{
-		"title": "Paul Stamatiou",
-		"link": "https://paulstamatiou.com",
-		"rssLink": "https://paulstamatiou.com/posts.xml",
-		"tags": [
-			"Design"
-		]
-	},
-	{
 		"title": "Robb Knight",
 		"link": "https://rknight.me",
 		"rssLink": "https://rknight.me/subscribe/posts/atom.xml",
+		"mastodon": "https://social.lol/@robb",
 		"tags": [
 			"Web Dev"
 		]
@@ -150,6 +201,7 @@
 		"title": "Ryan Trimble",
 		"link": "https://ryantrimble.com/",
 		"rssLink": "https://ryantrimble.com/rss.xml",
+		"mastodon": "https://front-end.social/@mrtrimble",
 		"tags": [
 			"Web Dev"
 		]
@@ -158,6 +210,7 @@
 		"title": "Sara Joy",
 		"link": "https://sarajoy.dev/",
 		"rssLink": "https://sarajoy.dev/rss.xml",
+		"mastodon": "https://front-end.social/@sarajw",
 		"tags": [
 			"CSS",
 			"Web Dev"
@@ -167,6 +220,7 @@
 		"title": "Zach Leatherman",
 		"link": "https://www.zachleat.com/",
 		"rssLink": "https://www.zachleat.com/web/feed/",
+		"mastodon": "https://fediverse.zachleat.com/@zachleat",
 		"tags": [
 			"Web Dev",
 			"11ty"
