@@ -83,7 +83,7 @@ function showThoughts(id, mediaType) {
 
     if (item && dialog) {
         const image = item.querySelector('.cover img');
-        const title = item.querySelector('a').innerText;
+        const title = item.getAttribute('data-title') ? item.getAttribute('data-title') : item.querySelector('a').innerText;
         const rating = item.querySelector('div.rating')?.innerHTML ?? '';
         const thoughts = item.querySelector('div.thoughts')?.innerHTML ?? '';
         const dialogImage = dialog.querySelector('img');

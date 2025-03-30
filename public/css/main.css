@@ -183,7 +183,7 @@ button.text-button {
 	background: transparent;
 }
 
-button.text-buttonhover {
+button.text-button:hover {
 	color: var(--primary-color-2);
 	text-decoration: underline;
 }
