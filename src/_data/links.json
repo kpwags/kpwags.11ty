@@ -1,5 +1,85 @@
 [
   {
+    "linkId": 772,
+    "title": "Thunderbird email is going pro to better compete with Gmail",
+    "url": "https://www.theverge.com/news/642228/thunderbird-pro-thundermail-email-service",
+    "author": "Umar Shakir",
+    "linkDate": "2025-04-03T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 773,
+    "title": "What $10 billion in data centers actually gets you",
+    "url": "https://www.npr.org/2025/04/02/1242229718/ai-mississippi-jobs-data-centers-virginia",
+    "author": "The Indicator",
+    "linkDate": "2025-04-03T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 771,
+    "title": "Starliner\u2019s flight to the space station was far wilder than most of us thought",
+    "url": "https://arstechnica.com/space/2025/04/the-harrowing-story-of-what-flying-starliner-was-like-when-its-thrusters-failed/",
+    "author": "Eric Berger",
+    "linkDate": "2025-04-02T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 770,
+    "title": "So, you say you want a revolution?",
+    "url": "https://www.dancarlin.com/product/ep-30-so-you-say-you-want-a-revolution/",
+    "author": "Hardcore History Addendum",
+    "linkDate": "2025-04-01T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 769,
+    "title": "The \u003Cselect\u003E element can now be customized with CSS",
+    "url": "https://developer.chrome.com/blog/a-customizable-select",
+    "author": "Adam Argyle",
+    "linkDate": "2025-03-31T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 762,
     "title": "Work-life balance isn\u0027t for you...",
     "url": "https://ctrlaltclub.beehiiv.com/p/work-life-balance-isn-t-for-you",
