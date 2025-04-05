@@ -192,70 +192,51 @@ hr {
 }
 
 header {
-	margin: 32px 0 48px;
-}
-
-header .intro {
 	display: flex;
-	column-gap: 36px;
-	align-items: center;
-	justify-content: center;
-	width: var(--width);
-	margin: 0 auto;
+	justify-content: space-between;
+	width: var(--header-width);
+	margin: 16px auto;
 }
 
-header .intro .image {
-	width: 200px;
+header .logo {
+	font-size: 1.25rem;
 }
 
-header .intro .image img {
-	width: 100%;
-}
-
-header .intro .text h1 {
-	color: var(--primary-color-1);
-	line-height: 1;
-	margin-bottom: 8px;
-	display: block;
-}
-
-header .intro .text h1::before {
-	content: '';
-	margin-inline-start: 0;
-}
-
-header nav {
-	margin: 32px 0;
-	text-align: center;
+header nav ul {
+	display: flex;
+	gap: 32px;
+	list-style-type: none;
+	margin: 0;
 }
 
 header nav ul li {
 	list-style-type: none;
-	display: inline;
-	padding: 0 8px;
 	font-size: 1.25rem;
+	display: flex;
+	margin: 0;
+}
+
+@media (max-width: 1024px) {
+	header nav ul {
+		gap: 16px;
+	}
 }
 
 @media (max-width: 550px) {
+	header {
+		flex-direction: column;
+		justify-content: flex-start;
+		row-gap: 24px;
+	}
+
+	header .logo {
+		font-size: 1.5rem;
+	}
+
 	header nav ul {
-		display: flex;
 		flex-wrap: wrap;
-		gap: 16px;
-		margin: 0;
-		justify-content: center;
-	}
-
-	header nav ul li {
-		width: 40%;
-		padding: 0;
-		margin: 0;
-        border: 1px solid var(--primary-color-1);
-        padding: 4px 8px;
-        border-radius: 6px;
-	}
-
-	header nav ul li a {
-		text-decoration: none;
+		row-gap: 16px;
+		column-gap: 24px;
 	}
 }
 
@@ -488,6 +469,35 @@ footer .mode-controls .controls-block {
 
 .homepage-section {
 	margin-bottom: 48px;
+}
+
+.intro {
+	display: flex;
+	column-gap: 36px;
+	align-items: center;
+	width: var(--width);
+	margin: 96px auto 48px;
+}
+
+.intro .image {
+	width: 200px;
+}
+
+.intro .image img {
+	width: 100%;
+}
+
+.intro .text h1 {
+	color: var(--primary-color-1);
+	line-height: 1;
+	margin-bottom: 8px;
+	display: block;
+}
+
+@media (max-width: 550px) {
+	.intro {
+		margin: 32px auto;
+	}
 }
 
 .blog-listing-page hr:last-of-type {
