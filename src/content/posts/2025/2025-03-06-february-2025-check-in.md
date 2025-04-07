@@ -46,7 +46,7 @@ The project I’ve been focused on at work is reaching the end. Hopefully we’l
     <li><a href="https://kpwags.com/reading-log/109/">February 3 (#109)</a></li>
     <li><a href="https://kpwags.com/reading-log/110/">February 10 (#110)</a></li>
     <li><a href="https://kpwags.com/reading-log/111/">February 17 (#111)</a></li>
-    <li><a href="https://kpwags.com/reading-log/112/">February 34 (#112)</a></li>
+    <li><a href="https://kpwags.com/reading-log/112/">February 24 (#112)</a></li>
   </ul>
 
   <ul slot="week-notes">
