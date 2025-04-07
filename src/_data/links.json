@@ -1,5 +1,229 @@
 [
   {
+    "linkId": 775,
+    "title": "Markdown and the Slow Fade of the Formatting Fetish",
+    "url": "https://ia.net/topics/markdown-and-the-slow-fade-of-the-formatting-fetish",
+    "author": "iA",
+    "linkDate": "2025-04-06T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 776,
+    "title": "Personal blogs are the best, I love yours and I\u2019ll try and tell you why",
+    "url": "https://nothingoriginalhere.com/posts/personal-blogs-are-the-best-i-love-yours-and-ill-try-and-tell-you-why",
+    "author": "Peter W",
+    "linkDate": "2025-04-06T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 777,
+    "title": "The case for \u201Cold school\u201D CSS",
+    "url": "https://chenhuijing.com/blog/the-case-for-old-school-css/#%F0%9F%8E%99",
+    "author": "Chen Hui Jing",
+    "linkDate": "2025-04-06T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 778,
+    "title": "Browser choice is an accessibility consideration",
+    "url": "https://beeps.website/blog/2025-03-29-browser-choice-is-an-accessibility-consideration/",
+    "author": "Beeps",
+    "linkDate": "2025-04-06T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 779,
+    "title": "Item Flow, Part 1: A new unified concept for layout",
+    "url": "https://webkit.org/blog/16587/item-flow-part-1-a-new-unified-concept-for-layout/",
+    "author": "Jen Simmons, Saron Yitbarek, Elika Etemad \u0026 Brandon Stewart",
+    "linkDate": "2025-04-06T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 780,
+    "title": "A fluid CSS methodology",
+    "url": "https://willybrauner.com/journal/a-fluid-css-methodology?ref=web-design-weekly.com",
+    "author": "Willy Brauner",
+    "linkDate": "2025-04-06T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 781,
+    "title": "Trade deficits do not make a country poorer",
+    "url": "https://www.noahpinion.blog/p/trade-deficits-do-not-make-a-country",
+    "author": "Noah Smith",
+    "linkDate": "2025-04-06T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Economics",
+      "colorCode": "#4f7a28"
+    }
+  },
+  {
+    "linkId": 782,
+    "title": "How 18F Transformed Government Technology \u2212 And Why Its Elimination Matters",
+    "url": "https://www.techdirt.com/2025/04/04/how-18f-transformed-government-technology-%e2%88%92-and-why-its-elimination-matters/",
+    "author": "Kayla Schwoerer",
+    "linkDate": "2025-04-06T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 774,
+    "title": "Poisoning Well",
+    "url": "https://heydonworks.com/article/poisoning-well/",
+    "author": "Heydon Pickering",
+    "linkDate": "2025-04-05T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 772,
+    "title": "Thunderbird email is going pro to better compete with Gmail",
+    "url": "https://www.theverge.com/news/642228/thunderbird-pro-thundermail-email-service",
+    "author": "Umar Shakir",
+    "linkDate": "2025-04-03T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 773,
+    "title": "What $10 billion in data centers actually gets you",
+    "url": "https://www.npr.org/2025/04/02/1242229718/ai-mississippi-jobs-data-centers-virginia",
+    "author": "The Indicator",
+    "linkDate": "2025-04-03T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 771,
+    "title": "Starliner\u2019s flight to the space station was far wilder than most of us thought",
+    "url": "https://arstechnica.com/space/2025/04/the-harrowing-story-of-what-flying-starliner-was-like-when-its-thrusters-failed/",
+    "author": "Eric Berger",
+    "linkDate": "2025-04-02T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 770,
+    "title": "So, you say you want a revolution?",
+    "url": "https://www.dancarlin.com/product/ep-30-so-you-say-you-want-a-revolution/",
+    "author": "Hardcore History Addendum",
+    "linkDate": "2025-04-01T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 769,
+    "title": "The \u003Cselect\u003E element can now be customized with CSS",
+    "url": "https://developer.chrome.com/blog/a-customizable-select",
+    "author": "Adam Argyle",
+    "linkDate": "2025-03-31T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 762,
     "title": "Work-life balance isn\u0027t for you...",
     "url": "https://ctrlaltclub.beehiiv.com/p/work-life-balance-isn-t-for-you",

@@ -1,0 +1,39 @@
+---
+title: "Week Notes for March 30 - April 5"
+date: '2025-04-06T15:55:04.865Z'
+permalink: /posts/2025/04/06/week-notes/index.html
+description: "My week notes for the week of March 30 through April 5."
+tags:
+  - Week Notes
+  - Hockey
+  - Writing
+  - Weather
+  - CSS
+  - Markdown
+---
+My week notes for the week of March 30 through April 5.
+<!-- excerpt -->
+
+## Notes
+
+It was a relatively quiet week for me.
+
+## Lots of Hockey
+
+A couple weeks ago, the rink I play at lost power and our games were postponed. Well, this week they got rescheduled for Wednesday which meant that we had our normal Monday game, and then on Wednesday, our make-up game. The challenge presented to many though was that all of our games are (almost) always on Mondays. Wednesday many teams were short players, and of course goalies. That meant I had to play a double-header. I do it often enough not to mind as I enjoy playing, but was playing with shorter benches than normal. Either way, it was fun.
+
+## Enjoying the Nice Weather and Writing
+
+The last week, despite some rain, had some nice temperatures. I took advantage of it and sat out on the porch and wrote. I wrote about [tanking and sports](https://kpwags.com/posts/2025/04/05/on-tanking/) as well as on my novel. I figure it’s only a matter of time until the weather becomes unbearable, so I’m going to enjoy our porch as much as possible.
+
+## Interesting Links
+
+{% renderTemplate "webc" %}
+<shared-link title="Markdown and the Slow Fade of the Formatting Fetish" url="https://ia.net/topics/markdown-and-the-slow-fade-of-the-formatting-fetish" author="The iA Team">
+An interesting look back at the history of Microsoft Word and the rise of Markdown.
+</shared-link>
+
+<shared-link title="Item Flow, Part 1: A new unified concept for layout" url="https://webkit.org/blog/16587/item-flow-part-1-a-new-unified-concept-for-layout/" author="Jen Simmons, Saron Yitbarek, Elika Etemad & Brandon Stewart">
+A good write-up of what the WebKit team is working on with CSS Grid & Masonry.
+</shared-link>
+{% endrenderTemplate %}

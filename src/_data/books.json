@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/0NgMyY41/leckie-ancillary-jusice.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 27,
+      "currentPage": 276,
       "pageCount": 384,
-      "progress": 7,
+      "progress": 72,
       "sortOrder": 172,
       "status": {
         "name": "Reading",
@@ -59,9 +59,9 @@
       "coverImageUrl": "https://i.postimg.cc/9FVJxQFh/operaton-paperclip.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 480,
+      "currentPage": 992,
       "pageCount": 1166,
-      "progress": 41,
+      "progress": 85,
       "sortOrder": 3020,
       "status": {
         "name": "Reading",
@@ -12528,6 +12528,47 @@
   ],
   "toRead": [
     {
+      "bookId": 578,
+      "title": "Thinking in Systems",
+      "subTitle": "",
+      "fullTitle": "Thinking in Systems",
+      "author": "Donella Meadows",
+      "link": "https://bookshop.org/p/books/thinking-in-systems-international-bestseller-donella-meadows/8755142",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/hjDRhx45/thinking-in-systems.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 386,
+      "progress": 0,
+      "sortOrder": 172,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Self Help",
+          "colorCode": "rgb(75, 61, 190)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Audiobook",
+          "colorCode": "#b300b3"
+        }
+      ]
+    },
+    {
       "bookId": 535,
       "title": "Ancillary Sword",
       "subTitle": "",
@@ -12998,6 +13039,372 @@
       ]
     },
     {
+      "bookId": 432,
+      "title": "Lords of Finance",
+      "subTitle": "The Bankers Who Broke the World",
+      "fullTitle": "Lords of Finance: The Bankers Who Broke the World",
+      "author": "Liaquat Ahamed",
+      "link": "https://bookshop.org/p/books/lords-of-finance-the-bankers-who-broke-the-world-liaquat-ahamed/15278774?ean=9780143116806",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 0,
+      "progress": 0,
+      "sortOrder": 185,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Business \u0026 Economics",
+          "colorCode": "rgb(23, 126, 0)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
+        }
+      ]
+    },
+    {
+      "bookId": 571,
+      "title": "When the Moon Hits Your Eye",
+      "subTitle": "",
+      "fullTitle": "When the Moon Hits Your Eye",
+      "author": "John Scalzi",
+      "link": "https://bookshop.org/p/books/when-the-moon-hits-your-eye-john-scalzi/21424940",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 186,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
+        }
+      ]
+    },
+    {
+      "bookId": 572,
+      "title": "Under Alien Skies",
+      "subTitle": "A Sightseer\u0027s Guide to the Universe",
+      "fullTitle": "Under Alien Skies: A Sightseer\u0027s Guide to the Universe",
+      "author": "Philip Plait",
+      "link": "https://bookshop.org/p/books/under-alien-skies-a-sightseer-s-guide-to-the-universe-phil-plait/18507009",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 187,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science",
+          "colorCode": "rgb(24, 90, 80)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
+        }
+      ]
+    },
+    {
+      "bookId": 573,
+      "title": "Food for Thought",
+      "subTitle": "Essays and Ruminations",
+      "fullTitle": "Food for Thought: Essays and Ruminations",
+      "author": "Alton Brown",
+      "link": "https://bookshop.org/p/books/food-for-thought-essays-and-ruminations-alton-brown/21530474",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 188,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Biography / Memoir",
+          "colorCode": "rgb(68, 0, 214)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
+        }
+      ]
+    },
+    {
+      "bookId": 574,
+      "title": "Wheel of Infinite",
+      "subTitle": "",
+      "fullTitle": "Wheel of Infinite",
+      "author": "Martha Wells",
+      "link": "https://bookshop.org/p/books/wheel-of-the-infinite-updated-and-revised-edition-martha-wells/bf34e1a6c4a3c91a",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 189,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
+        }
+      ]
+    },
+    {
+      "bookId": 575,
+      "title": "Seveneves",
+      "subTitle": "",
+      "fullTitle": "Seveneves",
+      "author": "Neal Stephenson",
+      "link": "https://bookshop.org/p/books/seveneves-neal-stephenson/6434392",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 190,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
+        }
+      ]
+    },
+    {
+      "bookId": 77,
+      "title": "Blood in the Machine",
+      "subTitle": "The Origins of the Rebellion Against Big Tech",
+      "fullTitle": "Blood in the Machine: The Origins of the Rebellion Against Big Tech",
+      "author": "Brian Merchant",
+      "link": "https://bookshop.org/p/books/blood-in-the-machine-the-origins-of-the-rebellion-against-big-tech-brian-merchant/17824365?ean=9780316487740",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 0,
+      "progress": 0,
+      "sortOrder": 191,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Politics",
+          "colorCode": "rgb(130, 40, 40)"
+        },
+        {
+          "name": "Technology",
+          "colorCode": "rgb(55, 78, 146)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
+        }
+      ]
+    },
+    {
+      "bookId": 576,
+      "title": "Cryptonomicon",
+      "subTitle": "",
+      "fullTitle": "Cryptonomicon",
+      "author": "Neal Stephenson",
+      "link": "https://bookshop.org/p/books/cryptonomicon-neal-stephenson/7899276",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 192,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 577,
+      "title": "Children of Time",
+      "subTitle": "",
+      "fullTitle": "Children of Time",
+      "author": "Adrian Tchaikovsky",
+      "link": "https://bookshop.org/p/books/children-of-time-adrian-tchaikovsky/113411",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 193,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "Children of Time",
+        "colorCode": "#03229b"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": []
+    },
+    {
       "bookId": 524,
       "title": "A Visit from the Goon Squad",
       "subTitle": "",
@@ -13015,7 +13422,7 @@
       "currentPage": 1,
       "pageCount": 1,
       "progress": 100,
-      "sortOrder": 190,
+      "sortOrder": 199,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"
@@ -13051,7 +13458,7 @@
       "currentPage": 0,
       "pageCount": 4807,
       "progress": 0,
-      "sortOrder": 191,
+      "sortOrder": 200,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"
@@ -13073,37 +13480,6 @@
           "colorCode": "#2c5813"
         }
       ]
-    },
-    {
-      "bookId": 419,
-      "title": "Conflicted Scars: An Average Player\u2019s Journey to the NHL",
-      "subTitle": "",
-      "fullTitle": "Conflicted Scars: An Average Player\u2019s Journey to the NHL",
-      "author": "Justin Davis",
-      "link": "https://bookshop.org/p/books/conflicted-scars-an-average-player-s-journey-to-the-nhl-justin-davis/18375821?ean=9781770416239",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 192,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
     },
     {
       "bookId": 539,
@@ -14420,6 +14796,42 @@
       "formats": []
     },
     {
+      "bookId": 419,
+      "title": "Conflicted Scars",
+      "subTitle": "An Average Player\u2019s Journey to the NHL",
+      "fullTitle": "Conflicted Scars: An Average Player\u2019s Journey to the NHL",
+      "author": "Justin Davis",
+      "link": "https://bookshop.org/p/books/conflicted-scars-an-average-player-s-journey-to-the-nhl-justin-davis/18375821?ean=9781770416239",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 0,
+      "progress": 0,
+      "sortOrder": 570,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Biography / Memoir",
+          "colorCode": "rgb(68, 0, 214)"
+        }
+      ],
+      "formats": []
+    },
+    {
       "bookId": 181,
       "title": "Outland",
       "subTitle": "",
@@ -14823,37 +15235,6 @@
       "formats": []
     },
     {
-      "bookId": 432,
-      "title": "Lords of Finance",
-      "subTitle": "",
-      "fullTitle": "Lords of Finance",
-      "author": "Liaquat Ahamed",
-      "link": "https://bookshop.org/p/books/lords-of-finance-the-bankers-who-broke-the-world-liaquat-ahamed/15278774?ean=9780143116806",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 790,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
       "bookId": 399,
       "title": "The Lazarus Heist: From Hollywood to High Finance: Inside North Korea\u2019s Global Cyber War",
       "subTitle": "",
@@ -14903,37 +15284,6 @@
       "pageCount": 0,
       "progress": 0,
       "sortOrder": 810,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
-      "bookId": 77,
-      "title": "Blood in the Machine",
-      "subTitle": "The Origins of the Rebellion Against Big Tech",
-      "fullTitle": "Blood in the Machine: The Origins of the Rebellion Against Big Tech",
-      "author": "Brian Merchant",
-      "link": "https://bookshop.org/p/books/blood-in-the-machine-the-origins-of-the-rebellion-against-big-tech-brian-merchant/17824365?ean=9780316487740",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 820,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"
@@ -21563,6 +21913,42 @@
         {
           "name": "Politics",
           "colorCode": "rgb(130, 40, 40)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 570,
+      "title": "Conclave",
+      "subTitle": "",
+      "fullTitle": "Conclave",
+      "author": "Richard Harris",
+      "link": "https://bookshop.org/p/books/conclave-robert-harris/21369769",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3020,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Thriller",
+          "colorCode": "rgb(54, 31, 112)"
         }
       ],
       "formats": []
