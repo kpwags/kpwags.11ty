@@ -209,10 +209,10 @@
   },
   {
     "linkId": 769,
-    "title": "The \u003Cselect\u003E element can now be customized with CSS",
+    "title": "The select element can now be customized with CSS",
     "url": "https://developer.chrome.com/blog/a-customizable-select",
     "author": "Adam Argyle",
-    "linkDate": "2025-03-31T00:00:00Z",
+    "linkDate": "2025-03-30T00:00:00Z",
     "readingLogIssueNumber": 118,
     "type": {
       "name": "Link",
