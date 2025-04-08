@@ -96,6 +96,38 @@
     }
   },
   {
+    "linkId": 781,
+    "title": "Trade deficits do not make a country poorer",
+    "url": "https://www.noahpinion.blog/p/trade-deficits-do-not-make-a-country",
+    "author": "Noah Smith",
+    "linkDate": "2025-04-06T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Economics",
+      "colorCode": "#4f7a28"
+    }
+  },
+  {
+    "linkId": 782,
+    "title": "How 18F Transformed Government Technology \u2212 And Why Its Elimination Matters",
+    "url": "https://www.techdirt.com/2025/04/04/how-18f-transformed-government-technology-%e2%88%92-and-why-its-elimination-matters/",
+    "author": "Kayla Schwoerer",
+    "linkDate": "2025-04-06T00:00:00Z",
+    "readingLogIssueNumber": 118,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
     "linkId": 774,
     "title": "Poisoning Well",
     "url": "https://heydonworks.com/article/poisoning-well/",
@@ -177,10 +209,10 @@
   },
   {
     "linkId": 769,
-    "title": "The \u003Cselect\u003E element can now be customized with CSS",
+    "title": "The select element can now be customized with CSS",
     "url": "https://developer.chrome.com/blog/a-customizable-select",
     "author": "Adam Argyle",
-    "linkDate": "2025-03-31T00:00:00Z",
+    "linkDate": "2025-03-30T00:00:00Z",
     "readingLogIssueNumber": 118,
     "type": {
       "name": "Link",
