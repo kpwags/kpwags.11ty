@@ -16,9 +16,13 @@
 <body>
 	{% include "header.html" %}
 
-	<main>
-		{{ content }}
-	</main>
+	<div class="page-container">
+		{% include "sidebar.html" %}
+
+		<main>
+			{{ content }}
+		</main>
+	</div>
 
 	{% include "footer.html" %}
 

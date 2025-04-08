@@ -9,14 +9,20 @@
 	<script src="/scripts/media-pages.js" defer></script>
 </head>
 
-<body>
+<body class="wide">
 	{% include "header.html" %}
 
-	{{ content }}
+	<div class="page-container wide">
+		{% include "sidebar.html" %}
+		
+		<main>
+			{{ content }}
+		</main>
+
+		{% include "dialogs.html" %}
+	</div>
 
 	{% include "footer.html" %}
-
-	{% include "dialogs.html" %}
 </body>
 
 </html>

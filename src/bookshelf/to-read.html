@@ -10,6 +10,8 @@ title: "Bookshelf - To Read"
 
 	<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
 
+	<p><strong>Backlog Count:</strong> {{ books.toRead.length }}</p>
+
 	<ul class="books-to-read">
 		{% for book in books.toRead %}
 		<li>
@@ -18,5 +20,4 @@ title: "Bookshelf - To Read"
 		{% endfor %}
 	</ul>
 
-	<div class="books-to-read-count"><span>Books To Read Count:</span> {{ books.toRead.length }}</div>
 </main>
