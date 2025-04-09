@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 783,
+    "title": "MediatR and MassTransit Going Commercial: What This Means For You",
+    "url": "https://www.milanjovanovic.tech/blog/mediatr-and-masstransit-going-commercial-what-this-means-for-you",
+    "author": "Milan Jovanovi\u0107",
+    "linkDate": "2025-04-08T00:00:00Z",
+    "readingLogIssueNumber": 119,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
     "linkId": 775,
     "title": "Markdown and the Slow Fade of the Formatting Fetish",
     "url": "https://ia.net/topics/markdown-and-the-slow-fade-of-the-formatting-fetish",
