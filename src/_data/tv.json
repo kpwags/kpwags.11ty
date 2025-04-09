@@ -865,6 +865,38 @@
       ]
     },
     {
+      "televisionShowId": 103,
+      "title": "Elsbeth",
+      "imdbLink": "https://www.imdb.com/title/tt26591110/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/sg4Dv2Mx/ellsbeth.jpg",
+      "seasonEpisodeCount": 30,
+      "currentSeasonEpisode": 25,
+      "progress": 83,
+      "sortOrder": null,
+      "status": {
+        "name": "Watching",
+        "colorCode": "#005c78"
+      },
+      "genres": [
+        {
+          "name": "Comedy",
+          "colorCode": "#a60483"
+        },
+        {
+          "name": "Crime Procedural",
+          "colorCode": "#0f760a"
+        }
+      ],
+      "services": [
+        {
+          "name": "Paramount\u002B",
+          "colorCode": "#037fb4"
+        }
+      ]
+    },
+    {
       "televisionShowId": 16,
       "title": "Good Eats",
       "imdbLink": "https://www.imdb.com/title/tt0344651/",
@@ -948,38 +980,6 @@
     }
   ],
   "betweenSeasons": [
-    {
-      "televisionShowId": 103,
-      "title": "Elsbeth",
-      "imdbLink": "https://www.imdb.com/title/tt26591110/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/sg4Dv2Mx/ellsbeth.jpg",
-      "seasonEpisodeCount": 21,
-      "currentSeasonEpisode": 21,
-      "progress": 100,
-      "sortOrder": null,
-      "status": {
-        "name": "In Between Seasons",
-        "colorCode": "#901960"
-      },
-      "genres": [
-        {
-          "name": "Comedy",
-          "colorCode": "#a60483"
-        },
-        {
-          "name": "Crime Procedural",
-          "colorCode": "#0f760a"
-        }
-      ],
-      "services": [
-        {
-          "name": "Paramount\u002B",
-          "colorCode": "#037fb4"
-        }
-      ]
-    },
     {
       "televisionShowId": 8,
       "title": "Fallout",
