@@ -52,10 +52,6 @@ article.post .blog-series .posts li:last-child {
 	margin-bottom: 0;
 }
 
-article.post .blog-series .posts a {
-	text-decoration: underline;
-}
-
 article.post .blog-series .current {
 	font-weight: 600;
 }

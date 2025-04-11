@@ -13051,6 +13051,73 @@
     ]
   },
   {
+    "musicAlbumId": 204,
+    "title": "Brave Faces Etc.",
+    "artist": "Spanish Love Songs",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/0yb0pLmP/spanish-love-songs-brave-faces-etc.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Routine Pain (Etc Version)"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Self-Destruction (As a Sensible Career Choice) (Etc Version)"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Generation Loss (Etc Version)"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Kick (Etc Version)"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Beach Front Property (Etc Version)"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Losers (Etc Version)"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Optimism (As a Radical Life Choice) (Etc Version)"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Losers 2 (Etc Version)"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Dolores (Etc Version)"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Brave Faces, Everyone (Etc Version)"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 63,
     "title": "Brave Faces Everyone",
     "artist": "Spanish Love Songs",
@@ -13114,6 +13181,49 @@
       {
         "trackNumber": 10,
         "title": "Brave Faces, Everyone"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 205,
+    "title": "Doom \u0026 Gloom Sessions",
+    "artist": "Spanish Love Songs",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/zG6Sp0SW/spanish-love-songs-doom-and-gloom-sessions.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Smile Like You Mean It"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Portions for Foxes"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Futures"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Now It\u0027s On"
       }
     ]
   },

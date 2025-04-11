@@ -213,11 +213,19 @@ function filterBooks(genre) {
 
 function filterGames(filter) {
     if (filter.startsWith('completed-')) {
-        console.log('in completed!');
         const yearString = filter.replace('completed-', '');
         const year = parseInt(yearString);
 
-        if (year <= 2023) {
+        if (year === 0) {
+            document.querySelectorAll('.item').forEach((item) => {
+                const isCompleted = item.getAttribute('data-completed') === 'yes';
+                if (isCompleted) {
+                    item.removeAttribute('hidden');
+                } else {
+                    item.setAttribute('hidden', 'true');
+                }
+            });
+        } else if (year <= 2023) {
             document.querySelectorAll('.item').forEach((item) => {
                 const yearCompleted = parseInt(item.getAttribute('data-year-completed'));
                 if (yearCompleted > 0 && yearCompleted <= 2023) {
@@ -237,7 +245,6 @@ function filterGames(filter) {
             });
         }
     } else {
-        console.log('in else!');
         switch (filter) {
             case 'all':
                 document.querySelectorAll('.item').forEach((item) => {

@@ -3,17 +3,15 @@ layout: "layouts/wide-layout.html"
 title: "Music Collection"
 ---
 
-<main class="media-page with-sidebar">
-	{% renderTemplate "webc" %}
-		<music-filters></music-filters>
-	{% endrenderTemplate %}
-
+<div class="media-page">
 	<div class="grid-container">
 		<h1>Music Collection</h1>
 
-		<p class="large">I've amassed a fairly large music collection of various tastes over the years.</p>
-
 		<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
+
+		{% renderTemplate "webc" %}
+			<music-filters></music-filters>
+		{% endrenderTemplate %}
 
 		<div class="grid-section music">
 			<div class="media-grid">
@@ -23,7 +21,7 @@ title: "Music Collection"
 			</div>
 		</div>
 	</div>
-</main>
+</div>
 
 {% renderTemplate "webc" %}
 <music-dialog></music-dialog>

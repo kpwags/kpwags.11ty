@@ -3,11 +3,7 @@ layout: "layouts/wide-layout.html"
 title: "Bookshelf"
 ---
 
-<main class="media-page with-sidebar">
-	{% renderTemplate "webc" %}
-		<book-filters></book-filters>
-	{% endrenderTemplate %}
-	
+<div class="media-page">	
 	<div class="grid-container">
 		<h1>My Bookshelf</h1>
 
@@ -15,6 +11,10 @@ title: "Bookshelf"
 			You can also check out my <a href="/bookshelf/to-read">backlog</a> to see the books I plan on reading.</p>
 
 		<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
+
+		{% renderTemplate "webc" %}
+			<book-filters></book-filters>
+		{% endrenderTemplate %}
 
 		{% for year in books.completed %}
 		<div class="grid-section year-{{ year.year }}">
@@ -28,4 +28,4 @@ title: "Bookshelf"
 		</div>
 		{% endfor %}
 	</div>
-</main>
+</div>

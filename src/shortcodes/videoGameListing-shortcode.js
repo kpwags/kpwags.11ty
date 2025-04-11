@@ -21,10 +21,10 @@ const getThoughts = (game) => {
 };
 
 const getPlayedIcon = (game) => {
-	switch (game.completionStatus) {
-		case 2:
+	switch (game.completion.name) {
+		case 'Yes':
 			return '<span class="finished-icon">✅</span>';
-		case 3:
+		case 'No':
 			return '<span class="finished-icon">🟥</span>';
 		case 1:
 		default:
@@ -57,7 +57,7 @@ const videoGameListingShortcode = (game) => {
 	data-platform="${game.systems.map((s) => s.name).join(', ')}"
 	data-filter-platform="${stringify(game.systems.map((s) => s.name))}"
 	data-filter-genre="${stringify(game.genres.map((g) => g.name))}"
-	data-completed="${getPlayedStatus(game)}"
+	data-completed="${(game.completion.name ?? 'n/a').toLowerCase()}"
 	data-year-completed="${game.dateCompleted ? dayjs(game.dateCompleted).format('YYYY') : '0'}"
 >
 	<div class="cover"><img src="${game.coverImageUrl}" alt="${game.title}" height="300" width="200" />${getPlayedIcon(game)}</div>

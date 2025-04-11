@@ -12,15 +12,11 @@
 <body class="wide">
 	{% include "header.html" %}
 
-	<div class="page-container wide">
-		{% include "sidebar.html" %}
-		
-		<main>
-			{{ content }}
-		</main>
+	<main>
+		{{ content }}
+	</main>
 
-		{% include "dialogs.html" %}
-	</div>
+	{% include "dialogs.html" %}
 
 	{% include "footer.html" %}
 </body>

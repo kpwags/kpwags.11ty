@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 785,
+    "title": "Ductility on the Web",
+    "url": "https://blog.jim-nielsen.com/2025/ductility/",
+    "author": "Jim Nielsen",
+    "linkDate": "2025-04-11T00:00:00Z",
+    "readingLogIssueNumber": 119,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 784,
+    "title": "Despite reshoring goals, much of manufacturing would be unmoved by tariffs",
+    "url": "https://www.marketplace.org/story/2025/04/09/trumps-tariffs-wont-reshore-all-manufacturing",
+    "author": "Sabri Ben-Achour",
+    "linkDate": "2025-04-10T00:00:00Z",
+    "readingLogIssueNumber": 119,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Economics",
+      "colorCode": "#4f7a28"
+    }
+  },
+  {
     "linkId": 783,
     "title": "MediatR and MassTransit Going Commercial: What This Means For You",
     "url": "https://www.milanjovanovic.tech/blog/mediatr-and-masstransit-going-commercial-what-this-means-for-you",

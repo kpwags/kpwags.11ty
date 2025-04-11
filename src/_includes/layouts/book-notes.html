@@ -13,77 +13,74 @@
 
 <body>
 	{% include "header.html" %}
-	
-	<div class="page-container">
-		{% include "sidebar.html" %}
 		
-		<main>
-			<div class="book-note-card">
-				<div class="content">
-					<div class="image">
-						<img src="{{ coverImage }}" alt="{{ author }} - {{ title }}" />
+	<main>
+		<div class="book-note-card">
+			<div class="content">
+				<div class="image">
+					<img src="{{ coverImage }}" alt="{{ author }} - {{ title }}" />
+				</div>
+				<div class="info">
+					<h1>{{ fullTitle }}</h1>
+			
+					<div class="author">by {{ author }}</div>
+					
+					<div class="book-rating">
+						{% starRating rating "lg" %}
 					</div>
-					<div class="info">
-						<h1>{{ fullTitle }}</h1>
-				
-						<div class="author">by {{ author }}</div>
-						
-						<div class="book-rating">
-							{% starRating rating "lg" %}
-						</div>
 
-						<div class="finished-reading">
-							{% if format == 'Audiobook' %}
-								{% renderTemplate "webc" %}
-									<platform-tag platform="audiobook"></platform-tag>
-								{% endrenderTemplate %}
-							{% elsif format == 'Hardcover' %}
-								{% renderTemplate "webc" %}
-									<platform-tag platform="hardcover"></platform-tag>
-								{% endrenderTemplate %}
-							{% elsif format == 'eBook' %}
-								{% renderTemplate "webc" %}
-									<platform-tag platform="ebook"></platform-tag>
-								{% endrenderTemplate %}
-							{% else %}
-								{% renderTemplate "webc" %}
-									<platform-tag platform="paperback"></platform-tag>
-								{% endrenderTemplate %}
-							{% endif %}
+					<div class="finished-reading">
+						{% if format == 'Audiobook' %}
+							{% renderTemplate "webc" %}
+								<platform-tag platform="audiobook"></platform-tag>
+							{% endrenderTemplate %}
+						{% elsif format == 'Hardcover' %}
+							{% renderTemplate "webc" %}
+								<platform-tag platform="hardcover"></platform-tag>
+							{% endrenderTemplate %}
+						{% elsif format == 'eBook' %}
+							{% renderTemplate "webc" %}
+								<platform-tag platform="ebook"></platform-tag>
+							{% endrenderTemplate %}
+						{% else %}
+							{% renderTemplate "webc" %}
+								<platform-tag platform="paperback"></platform-tag>
+							{% endrenderTemplate %}
+						{% endif %}
 
-						</div>
+					</div>
 
-						<div class="finished-reading"><strong>Finished</strong>: {{ dateString }}</div>
+					<div class="finished-reading"><strong>Finished</strong>: {{ dateString }}</div>
 
-						<div class="categories">
-							{% for category in categories %}
-							<span class="category">{{ category }}</span>
-							{% endfor %}
-						</div>
+					<div class="categories">
+						{% for category in categories %}
+						<span class="category">{{ category }}</span>
+						{% endfor %}
+					</div>
 
-						<div class="book-links">
-							<span class="lead">Links:</span>
-							{% for link in purchaseLinks %}
-							<a href="{{ link.url }}">{{ link.title }}</a>
-							<span class="separator">&bull;</span>
-							{% endfor %}
-						</div>
+					<div class="book-links">
+						<span class="lead">Links:</span>
+						{% for link in purchaseLinks %}
+						<a href="{{ link.url }}">{{ link.title }}</a>
+						<span class="separator">&bull;</span>
+						{% endfor %}
 					</div>
 				</div>
 			</div>
-			<div class="book-note-content">
-				<div class="body">
-					{{ content }}
-				</div>
-
-				<hr />
-
-				<div class="footer">
-					{% replyLinks title %}
-				</div>
+		</div>
+		<div class="book-note-content">
+			<div class="body">
+				{{ content }}
 			</div>
-		</main>
-	</div>
+
+			<hr />
+
+			<div class="footer">
+				{% replyLinks title %}
+			</div>
+		</div>
+	</main>
+	
 	{% include "footer.html" %}
 </body>
 

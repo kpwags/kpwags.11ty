@@ -7,8 +7,8 @@ pagination:
     reverse: true
 ---
 
-<main class="blog-listing-page">
-    <h1 class="large">Reading Logs</h1>
+<div class="blog-listing-page">
+    <h1>Reading Logs</h1>
 
     {% for post in pagination.items %}
         {% blogPost post "reading-log" %}
@@ -18,4 +18,4 @@ pagination:
         {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Posts</a>{% endif %}
         {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Posts &rightarrow;</a>{% endif %}
     </section>
-</main>
+</div>

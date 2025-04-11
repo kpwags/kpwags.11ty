@@ -7,42 +7,40 @@ pagination:
     alias: links
 ---
 
-<main>
-	<h1>Links</h1>
+<h1>Links</h1>
 
-	<p class="large">I traverse the web and run into many interesting posts, how-tos, and countless other fun links. Figured I'd share them here when I don't have anything specific to add.</p>
+<p>I traverse the web and run into many interesting posts, how-tos, and countless other fun links. Figured I'd share them here when I don't have anything specific to add.</p>
 
-	<div class="links-legend">
-		<span><strong>Legend</strong></span>
-		<span>🔗 - Link</span>
-		<span>🎥 - Video</span>
-		<span>🎧 - Podcast</span>
-	</div>
+<div class="links-legend">
+	<span><strong>Legend</strong></span>
+	<span>🔗 - Link</span>
+	<span>🎥 - Video</span>
+	<span>🎧 - Podcast</span>
+</div>
 
-	<ul class="links">
-		{% for item in links %}
-		<li>
-			<a href="{{ item.url }}">
-				<div class="icon">
-					{% if item.type.name == "Podcast" %}
-					🎧
-					{% elsif item.type.name == "Video" %}
-					🎥
-					{% else %}
-					🔗
-					{% endif %}
-				</div>
-				<div>
-					<span class="text">{{ item.title }}</span>
-					<span class="meta">{{ item.linkDate | readableDate }} &bull; {{ item.author }}</span>
-				</div>
-			</a>
-		</li>
-		{% endfor %}
-	</ul>
+<ul class="links">
+	{% for item in links %}
+	<li>
+		<a href="{{ item.url }}">
+			<div class="icon">
+				{% if item.type.name == "Podcast" %}
+				🎧
+				{% elsif item.type.name == "Video" %}
+				🎥
+				{% else %}
+				🔗
+				{% endif %}
+			</div>
+			<div>
+				<span class="text">{{ item.title }}</span>
+				<span class="meta">{{ item.linkDate | readableDate }} &bull; {{ item.author }}</span>
+			</div>
+		</a>
+	</li>
+	{% endfor %}
+</ul>
 
-	<section class="pagination">
-		{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Links</a>{% endif %}
-		{% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Links &rightarrow;</a>{% endif %}
-	</section>
-</main>
+<section class="pagination">
+	{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Links</a>{% endif %}
+	{% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Links &rightarrow;</a>{% endif %}
+</section>
