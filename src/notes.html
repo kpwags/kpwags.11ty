@@ -7,17 +7,13 @@ pagination:
   reverse: true
 ---
 
-<main>
-    <h1>Notes</h1>
+<h1>Notes</h1>
 
-    <p class="large">Here you'll find short blurbs about interesting articles or blogs from others I've read and wanted to note.</p>
+{% for note in pagination.items %}
+{% noteListing note %}
+{% endfor %}
 
-    {% for note in pagination.items %}
-    {% noteListing note %}
-    {% endfor %}
-
-    <section class="pagination">
-    {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Notes</a>{% endif %}
-    {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Notes &rightarrow;</a>{% endif %}
-    </section>
-</main>
+<section class="pagination">
+{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Notes</a>{% endif %}
+{% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Notes &rightarrow;</a>{% endif %}
+</section>

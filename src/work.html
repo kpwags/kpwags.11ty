@@ -3,70 +3,67 @@ layout: "layouts/layout.html"
 title: "Work"
 ---
 
-<main class="work">
-	<h1>Work</h1>
+<h1>Work</h1>
 
-	<p class="large">Below are some of the projects I've worked on over the years that have made it out into the wild.
-		There are other
-		side projects I've worked on that are in some state of half-built disarray.</p>
+<p>Below are some of the projects I've worked on over the years that have made it out into the wild. There are other
+	side projects I've worked on that are in some state of half-built disarray.</p>
 
-	{% renderTemplate "webc" %}
-	<work-project title="Wags Media Repository v1.0" status="Online"
-		image="/img/work/wagsmediarepository/wags-media-repo-1.0.0.jpg"
-		github="https://github.com/kpwags/wags-media-repository">
-		<p>I wanted to move off of React so I built the frontend with HTML, CSS and Vanilla JavaScript. It could use some design fixes, but it's been working well.</p>
-	</work-project>
+{% renderTemplate "webc" %}
+<work-project title="Wags Media Repository v1.0" status="Online"
+	image="/img/work/wagsmediarepository/wags-media-repo-1.0.0.jpg"
+	github="https://github.com/kpwags/wags-media-repository">
+	<p>I wanted to move off of React so I built the frontend with HTML, CSS and Vanilla JavaScript. It could use some design fixes, but it's been working well.</p>
+</work-project>
 
-	<work-project title="Wags Media Repository v0.2" status="Retired"
-		image="/img/work/wagsmediarepository/wags-media-repository-0.2.0.jpg"
-		github="https://github.com/kpwags/wags-media-repository">
-		<p>Due to local hosting options, Blazor and .NET turned out to not be a good option for this project. I ended up rebuilding it in Node.js and React. It does much of the same things, but can be easily hosted on my NAS.</p>
-	</work-project>
+<work-project title="Wags Media Repository v0.2" status="Retired"
+	image="/img/work/wagsmediarepository/wags-media-repository-0.2.0.jpg"
+	github="https://github.com/kpwags/wags-media-repository">
+	<p>Due to local hosting options, Blazor and .NET turned out to not be a good option for this project. I ended up rebuilding it in Node.js and React. It does much of the same things, but can be easily hosted on my NAS.</p>
+</work-project>
 
-	<work-project title="Wags Media Repository v0.1" status="Retired"
-		image="/img/work/wagsmediarepository/wags-media-repo.png"
-		github="https://github.com/kpwags/wags-media-repository">
-		<p>For a while I had been hosting the data for my links and media pages on Notion. It did a good job for that,
-			but I decided I wanted to
-			host the data myself. I have been using Blazor more so I built a quick MVP (minimal viable product) of it
-			where I could add and edit
-			my media for my site.</p>
-		<p>I intend to "pretty" it up some and add more functionality over the next couple months.</p>
-		<p>This is built using .NET 8, Blazor & Entity Framework.</p>
-	</work-project>
+<work-project title="Wags Media Repository v0.1" status="Retired"
+	image="/img/work/wagsmediarepository/wags-media-repo.png"
+	github="https://github.com/kpwags/wags-media-repository">
+	<p>For a while I had been hosting the data for my links and media pages on Notion. It did a good job for that,
+		but I decided I wanted to
+		host the data myself. I have been using Blazor more so I built a quick MVP (minimal viable product) of it
+		where I could add and edit
+		my media for my site.</p>
+	<p>I intend to "pretty" it up some and add more functionality over the next couple months.</p>
+	<p>This is built using .NET 8, Blazor & Entity Framework.</p>
+</work-project>
 
-	<work-project title="Where Do You Want to Eat? 2" status="Offline"
-		image="/img/work/wheredoyouwanttoeat2/wheredoyouwanttoeat2.jpg"
-		github="https://github.com/kpwags/Where-Do-You-Want-To-Eat-2">
-		<p>Several years ago, I built a little website. It was a simple little app that tied into Google's
-			Geolocation API to find a restaurant near you, or by a specified Zip Code for you to eat at. It
-			randomly chose it to help friends or couples choose their next meal.</p>
-		<p>Google changed their API and started charging for it (which is completely fair, I'm not going to
-			complain.). But because the site had no revenue and since there'd be the chance for a spike of
-			usage upping the API costs, I opted to sunset it. You can still view the <a
-				href="https://github.com/kpwags/Where-Do-You-Want-To-Eat">GitHub Repository.</a></p>
-		<p>This is the spiritual successor. Where Do You Want to Eat 2 is a web app that
-			chooses where you go out to eat. We've all been there with friends and/or family. Trying to find a
-			place to go and no one can decide or agree. This web app allows you to create an account, add
-			restaurants, tag them, and let it choose where to go grab food.</p>
-		<p>It is built using ASP.NET Core MVC. It uses Bootstrap for the UI.</p>
-	</work-project>
+<work-project title="Where Do You Want to Eat? 2" status="Offline"
+	image="/img/work/wheredoyouwanttoeat2/wheredoyouwanttoeat2.jpg"
+	github="https://github.com/kpwags/Where-Do-You-Want-To-Eat-2">
+	<p>Several years ago, I built a little website. It was a simple little app that tied into Google's
+		Geolocation API to find a restaurant near you, or by a specified Zip Code for you to eat at. It
+		randomly chose it to help friends or couples choose their next meal.</p>
+	<p>Google changed their API and started charging for it (which is completely fair, I'm not going to
+		complain.). But because the site had no revenue and since there'd be the chance for a spike of
+		usage upping the API costs, I opted to sunset it. You can still view the <a
+			href="https://github.com/kpwags/Where-Do-You-Want-To-Eat">GitHub Repository.</a></p>
+	<p>This is the spiritual successor. Where Do You Want to Eat 2 is a web app that
+		chooses where you go out to eat. We've all been there with friends and/or family. Trying to find a
+		place to go and no one can decide or agree. This web app allows you to create an account, add
+		restaurants, tag them, and let it choose where to go grab food.</p>
+	<p>It is built using ASP.NET Core MVC. It uses Bootstrap for the UI.</p>
+</work-project>
 
-	<work-project title="Where Do You Want to Eat?" status="Archived"
-		image="/img/work/wheredoyouwanttoeat/where-do-you-want-to-eat.jpg"
-		github="https://github.com/kpwags/Where-Do-You-Want-To-Eat">
-		<p>Ever have the back and forth with someone trying to figure out where you want to get food? Yeah,
-			thought so.</p>
-		<p>This random restaurant chooser was built using the Google Maps and Places API to get restaurants in
-			the local area and choose one for the user to go to.</p>
-		<p>Unfortunately, Google changed their policies for their API and I had to deactivate it.</p>
-	</work-project>
+<work-project title="Where Do You Want to Eat?" status="Archived"
+	image="/img/work/wheredoyouwanttoeat/where-do-you-want-to-eat.jpg"
+	github="https://github.com/kpwags/Where-Do-You-Want-To-Eat">
+	<p>Ever have the back and forth with someone trying to figure out where you want to get food? Yeah,
+		thought so.</p>
+	<p>This random restaurant chooser was built using the Google Maps and Places API to get restaurants in
+		the local area and choose one for the user to go to.</p>
+	<p>Unfortunately, Google changed their policies for their API and I had to deactivate it.</p>
+</work-project>
 
-	<work-project title="OpenVoter" status="Archived" image="/img/work/openvoter/openvoter.png"
-		github="https://github.com/kpwags/OpenVoter">
-		<p>OpenVoter was a social media CMS written in PHP with a MySQL database backend. For the front-end, it
-			utilized HTML/CSS, Javascript, and jQuery. It allowed users to run their own Digg or Reddit-like
-			site. It was discontinued in 2012.</p>
-	</work-project>
-	{% endrenderTemplate %}
-</main>
+<work-project title="OpenVoter" status="Archived" image="/img/work/openvoter/openvoter.png"
+	github="https://github.com/kpwags/OpenVoter">
+	<p>OpenVoter was a social media CMS written in PHP with a MySQL database backend. For the front-end, it
+		utilized HTML/CSS, Javascript, and jQuery. It allowed users to run their own Digg or Reddit-like
+		site. It was discontinued in 2012.</p>
+</work-project>
+{% endrenderTemplate %}

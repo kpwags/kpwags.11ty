@@ -52,7 +52,7 @@ const getBookFormat = (book) => {
 };
 
 const bookListingShortcode = (book) => `
-<div class="item" data-book-id="${book.bookId}" data-booktype="${book.type.name.toLowerCase()}" data-genre="${getBookGenres(book)}" data-format="${getBookFormat(book)}">
+<div class="item" data-book-id="${book.bookId}" data-title="${book.fullTitle}" data-booktype="${book.type.name.toLowerCase()}" data-genre="${getBookGenres(book)}" data-format="${getBookFormat(book)}">
 	<div class="cover">
 		<img src="${book.coverImageUrl}" alt="The cover for ${book.title}" height="225" width="150" />
 		${getProgress(book)}
@@ -63,8 +63,6 @@ const bookListingShortcode = (book) => `
 		</a>
 
 		<div class="full-title hidden">${book.fullTitle}</div>
-
-		${book.subTitle ? `<div class="subtitle">${book.subTitle}</div>` : ''}
 
 		<div class="meta">${book.author}</div>
 

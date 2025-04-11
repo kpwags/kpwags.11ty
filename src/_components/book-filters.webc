@@ -1,0 +1,73 @@
+<div class="filters">
+	<legend>Filters</legend>
+	<div class="filter-list">
+		<label for="all">
+			<input type="radio" id="all" name="bookFilters" checked />
+			All
+		</label>
+		<label for="fiction">
+			<input type="radio" id="fiction" name="bookFilters" />
+			Fiction
+		</label>
+		<label for="non-fiction">
+			<input type="radio" id="non-fiction" name="bookFilters" />
+			Non-Fiction
+		</label>
+		<label for="biography">
+			<input type="radio" id="biography" name="bookFilters" />
+			Biography
+		</label>
+		<label for="business-economics">
+			<input type="radio" id="business-economics" name="bookFilters" />
+			Business & Economics
+		</label>
+		<label for="creativity">
+			<input type="radio" id="creativity" name="bookFilters" />
+			Creativity
+		</label>
+		<label for="fantasy">
+			<input type="radio" id="fantasy" name="bookFilters" />
+			Fantasy
+		</label>
+		<label for="food">
+			<input type="radio" id="food" name="bookFilters" />
+			Food
+		</label>
+		<label for="history">
+			<input type="radio" id="history" name="bookFilters" />
+			History
+		</label>
+		<label for="philosophy">
+			<input type="radio" id="philosophy" name="bookFilters" />
+			Philosophy
+		</label>
+		<label for="politics">
+			<input type="radio" id="politics" name="bookFilters" />
+			Politics
+		</label>
+		<label for="science">
+			<input type="radio" id="science" name="bookFilters" />
+			Science
+		</label>
+		<label for="science-fiction">
+			<input type="radio" id="science-fiction" name="bookFilters" />
+			Science Fiction
+		</label>
+		<label for="self-help">
+			<input type="radio" id="self-help" name="bookFilters" />
+			Self-Help
+		</label>
+		<label for="sports">
+			<input type="radio" id="sports" name="bookFilters" />
+			Sports
+		</label>
+		<label for="technology">
+			<input type="radio" id="technology" name="bookFilters" />
+			Technology
+		</label>
+		<label for="thriller">
+			<input type="radio" id="thriller" name="bookFilters" />
+			Thriller
+		</label>
+	</div>
+</div>

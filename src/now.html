@@ -1,9 +1,9 @@
 ---
-layout: "layouts/wide-layout.html"
+layout: "layouts/layout.html"
 title: "What I'm Up To"
 ---
 
-<main class="media-page now">
+<div class="media-page now">
 	<h1>What I'm Up To</h1>
 
 	<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
@@ -70,29 +70,7 @@ title: "What I'm Up To"
 		</div>
 	</div>
 
-	<dialog class="music-dialog">
-		<div class="dialog-content">
-			<div class="info">
-				<img src="" alt="" height="200" width="200" />
-				<div class="details">
-					<div class="title"></div>
-					<div class="artist"></div>
-					<div>
-						<div class="tag-list-title">Genres:</div>
-						<div class="genres tag-list"></div>
-					</div>
-					<div>
-						<div class="tag-list-title">Formats:</div>
-						<div class="formats tag-list"></div>
-					</div>
-				</div>
-			</div>
-			<div class="tracks">
-				<div class="thoughts"></div>
-				<div class="track-list-title">Tracks</div>
-				<ol class="track-list"></ol>
-			</div>
-			<div class="close-button"><button type="button">Close</button></div>
-		</div>
-	</dialog>
-</main>
+	{% renderTemplate "webc" %}
+	<music-dialog></music-dialog>
+	{% endrenderTemplate %}
+</div>

@@ -1,0 +1,25 @@
+<dialog class="music-dialog">
+	<div class="dialog-content">
+		<div class="info">
+			<img src="" alt="" height="200" width="200" />
+			<div class="details">
+				<div class="title"></div>
+				<div class="artist"></div>
+				<div>
+					<div class="tag-list-title">Genres:</div>
+					<div class="genres tag-list"></div>
+				</div>
+				<div>
+					<div class="tag-list-title">Formats:</div>
+					<div class="formats tag-list"></div>
+				</div>
+			</div>
+		</div>
+		<div class="tracks">
+			<div class="thoughts"></div>
+			<div class="track-list-title">Tracks</div>
+			<ol class="track-list"></ol>
+		</div>
+		<div class="close-button"><button type="button">Close</button></div>
+	</div>
+</dialog>

@@ -15,28 +15,29 @@
 <body>
 	{% include "header.html" %}
 
-	<div class="heading-block">
-		<div class="content">
-			<div class="metadata">
-				<div>{{ dateString }}</div>
-				<div>&bull;</div>
-				<div>{{ author }}</div>
-			</div>
-			<h1>{{ title }}</h1>
-		</div>
-	</div>
-
 	<main>
-		<article class="note note-page">
-			<div class="content">{{ content }}</div>
-			<div class="view-link"><a href="{{ link }}">Read More</a></div>
-			<hr />
-			<div class="footer">
-				{% tagList tags %}
-				{% replyLinks title %}
+		<article class="note">
+			<div class="content">
+				<h1>{{ title }}</h1>
+
+				<div class="metadata">
+					<div>{{ dateString }}</div>
+					<div>&bull;</div>
+					<div>{{ author }}</div>
+				</div>
+
+				<div class="content">{{ content }}</div>
+				<div class="view-link"><a href="{{ link }}">Read More</a></div>
+				<hr />
+
+				<div class="footer">
+					{% tagList tags %}
+					{% replyLinks title %}
+				</div>
 			</div>
 		</article>
 	</main>
+
 	{% include "footer.html" %}
 </body>
 

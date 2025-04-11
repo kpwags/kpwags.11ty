@@ -11,56 +11,52 @@
 
 
 {% if pagination.pageNumber == 0 %}
-<main>
-    <h1>Archives</h1>
+<h1>Archives</h1>
 
-    <section class="archives yearly-archive-section">
-        <h2>By Year</h2>
+<section class="archives yearly-archive-section">
+    <h2>By Year</h2>
 
-        <div class="links">
-            <a href="/archives/2025">2025</a>
-            <a href="/archives/2024">2024</a>
-            <a href="/archives/2023">2023</a>
-            <a href="/archives/2022">2022</a>
-            <a href="/archives/2021">2021</a>
-            <a href="/archives/2020">2020</a>
-            <a href="/archives/2019">2019</a>
-            <a href="/archives/2018">2018</a>
-            <a href="/archives/2017">2017</a>
-            <a href="/archives/2016">2016</a>
-            <a href="/archives/2015">2015</a>
-            <a href="/archives/2014">2014</a>
-            <a href="/archives/2013">2013</a>
-        </div>
-    </section>
+    <div class="links">
+        <a href="/archives/2025">2025</a>
+        <a href="/archives/2024">2024</a>
+        <a href="/archives/2023">2023</a>
+        <a href="/archives/2022">2022</a>
+        <a href="/archives/2021">2021</a>
+        <a href="/archives/2020">2020</a>
+        <a href="/archives/2019">2019</a>
+        <a href="/archives/2018">2018</a>
+        <a href="/archives/2017">2017</a>
+        <a href="/archives/2016">2016</a>
+        <a href="/archives/2015">2015</a>
+        <a href="/archives/2014">2014</a>
+        <a href="/archives/2013">2013</a>
+    </div>
+</section>
 
-    <section class="archives">
-        <h2>By Month & Year</h2>
+<section class="archives">
+    <h2>By Month & Year</h2>
 
-        <div class="links">
-            {% for pageEntry in pagination.pages %}
-                {% if page.url != pagination.hrefs[ loop.index0 ] %}
-                    <a href="{{ pageEntry | archivesGetYear }}/{{ pageEntry | archivesGetMonth }}">{{ pageEntry | archivesGetDateString }}</a>
-                {% endif %}
-            {% endfor %}
-        </div>
-    </section>
-</main>
+    <div class="links">
+        {% for pageEntry in pagination.pages %}
+            {% if page.url != pagination.hrefs[ loop.index0 ] %}
+                <a href="{{ pageEntry | archivesGetYear }}/{{ pageEntry | archivesGetMonth }}">{{ pageEntry | archivesGetDateString }}</a>
+            {% endif %}
+        {% endfor %}
+    </div>
+</section>
 {% endif %}
 
 {% if pagination.pageNumber > 0 %}
-<main>
-    <h1>{{ posts | archivesGetDateString }}</h1>
+<h1>{{ posts | archivesGetDateString }}</h1>
 
-    <section class="archives-list">
-        <ul>
-            {% for post in collections.postsByMonthAndYear[posts] | reverse %}
-            <li>
-                <a href="{{ post.url }}">{{ post.data.title }}</a>
-                <span class="meta">{{ post.data.shortDateString }}</span>
-            </li>
-            {% endfor %}
-        </ul>
-    </section>
-</main>
+<section class="archives-list">
+    <ul>
+        {% for post in collections.postsByMonthAndYear[posts] | reverse %}
+        <li>
+            <a href="{{ post.url }}">{{ post.data.title }}</a>
+            <span class="meta">{{ post.data.shortDateString }}</span>
+        </li>
+        {% endfor %}
+    </ul>
+</section>
 {% endif %}

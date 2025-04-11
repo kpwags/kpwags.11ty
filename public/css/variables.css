@@ -1,7 +1,9 @@
 :root {
     --font: Inconsolata, monospace;
     --font-size-base: clamp(1rem,0.96rem + 0.22vw, 1.125rem);
-    --width: min(80ch, 100vw - 2rem);
+    --width: min(100ch, 100vw - 2rem);
+    --wide-width: min(80vw, 100vw - 2rem);
+    --header-width: clamp(16rem, 93vw, 85rem);
     --heading-block-width: min(120ch, 100vw - 2rem);
     --display-light-mode: inline;
     --display-dark-mode: none;
