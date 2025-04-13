@@ -1,23 +1,23 @@
 {
   "inProgress": [
     {
-      "bookId": 578,
-      "title": "Thinking in Systems",
-      "subTitle": "",
-      "fullTitle": "Thinking in Systems",
-      "author": "Donella Meadows",
-      "link": "https://bookshop.org/p/books/thinking-in-systems-international-bestseller-donella-meadows/8755142",
-      "dateStarted": "2025-04-07T00:00:00Z",
+      "bookId": 562,
+      "title": "Murder the Truth",
+      "subTitle": "Fear, the First Amendment, and a Secret Campaign to Protect the Powerful",
+      "fullTitle": "Murder the Truth: Fear, the First Amendment, and a Secret Campaign to Protect the Powerful",
+      "author": "David Enrich",
+      "link": "https://bookshop.org/p/books/murder-the-truth-threats-intimidation-and-a-secret-campaign-to-protect-the-powerful-david-enrich/21543213?ean=9780063372900\u0026next=t",
+      "dateStarted": "2025-04-11T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/hjDRhx45/thinking-in-systems.jpg",
+      "coverImageUrl": "https://i.postimg.cc/TPVyBbX9/enrich-murder-the-truth.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 338,
-      "pageCount": 386,
-      "progress": 88,
+      "currentPage": 53,
+      "pageCount": 268,
+      "progress": 20,
       "sortOrder": 172,
       "status": {
         "name": "Reading",
@@ -30,8 +30,49 @@
       "series": null,
       "genres": [
         {
-          "name": "Self Help",
-          "colorCode": "rgb(75, 61, 190)"
+          "name": "Politics",
+          "colorCode": "rgb(130, 40, 40)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
+        }
+      ]
+    },
+    {
+      "bookId": 580,
+      "title": "Winning Fixes Everything",
+      "subTitle": "How Baseball\u0027s Brightest Minds Created Sports\u0027 Biggest Mess",
+      "fullTitle": "Winning Fixes Everything: How Baseball\u0027s Brightest Minds Created Sports\u0027 Biggest Mess",
+      "author": "Evan Drellich",
+      "link": "https://bookshop.org/p/books/winning-fixes-everything-how-baseball-s-brightest-minds-created-sports-biggest-mess-evan-drellich/16712231",
+      "dateStarted": "2025-04-12T00:00:00Z",
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/zvL1B9DD/drellich-winning-fixes-everything.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 267,
+      "pageCount": 736,
+      "progress": 36,
+      "sortOrder": 182,
+      "status": {
+        "name": "Reading",
+        "colorCode": "#6a208f"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Sports",
+          "colorCode": "rgb(0, 80, 20)"
         }
       ],
       "formats": [
@@ -40,53 +81,94 @@
           "colorCode": "#b300b3"
         }
       ]
-    },
-    {
-      "bookId": 565,
-      "title": "Where the Axe is Buried",
-      "subTitle": "",
-      "fullTitle": "Where the Axe is Buried",
-      "author": "Ray Nayler",
-      "link": "https://bookshop.org/p/books/where-the-axe-is-buried-ray-nayler/21424983",
-      "dateStarted": "2025-04-08T00:00:00Z",
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/G3F1tPyL/ray-naylor-where-the-axe-is-buried.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 2693,
-      "pageCount": 3874,
-      "progress": 70,
-      "sortOrder": 2990,
-      "status": {
-        "name": "Reading",
-        "colorCode": "#6a208f"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "eBook",
-          "colorCode": "#2c5813"
-        }
-      ]
     }
   ],
   "completed": [
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 578,
+          "title": "Thinking in Systems",
+          "subTitle": "",
+          "fullTitle": "Thinking in Systems",
+          "author": "Donella Meadows",
+          "link": "https://bookshop.org/p/books/thinking-in-systems-international-bestseller-donella-meadows/8755142",
+          "dateStarted": "2025-04-07T00:00:00Z",
+          "dateCompleted": "2025-04-11T00:00:00Z",
+          "rating": 2,
+          "bookNotesUrl": "",
+          "thoughts": "This was an interesting, albeit non-in-depth look at how various systems work and some of the traps involved, as well as how to overcome them.",
+          "coverImageUrl": "https://i.postimg.cc/hjDRhx45/thinking-in-systems.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 386,
+          "pageCount": 386,
+          "progress": 100,
+          "sortOrder": 172,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Self Help",
+              "colorCode": "rgb(75, 61, 190)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Audiobook",
+              "colorCode": "#b300b3"
+            }
+          ]
+        },
+        {
+          "bookId": 565,
+          "title": "Where the Axe is Buried",
+          "subTitle": "",
+          "fullTitle": "Where the Axe is Buried",
+          "author": "Ray Nayler",
+          "link": "https://bookshop.org/p/books/where-the-axe-is-buried-ray-nayler/21424983",
+          "dateStarted": "2025-04-08T00:00:00Z",
+          "dateCompleted": "2025-04-11T00:00:00Z",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "An interesting story. Parts of it felt a little too close to home in the current political climate. A little too dystopian in some aspects, but enjoyable.",
+          "coverImageUrl": "https://i.postimg.cc/G3F1tPyL/ray-naylor-where-the-axe-is-buried.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 3874,
+          "pageCount": 3874,
+          "progress": 100,
+          "sortOrder": 2990,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "eBook",
+              "colorCode": "#2c5813"
+            }
+          ]
+        },
         {
           "bookId": 534,
           "title": "Ancillary Justice",
@@ -21784,42 +21866,6 @@
       "formats": []
     },
     {
-      "bookId": 562,
-      "title": "Murder the Truth",
-      "subTitle": "Fear, the First Amendment, and a Secret Campaign to Protect the Powerful",
-      "fullTitle": "Murder the Truth: Fear, the First Amendment, and a Secret Campaign to Protect the Powerful",
-      "author": "David Enrich",
-      "link": "https://bookshop.org/p/books/murder-the-truth-threats-intimidation-and-a-secret-campaign-to-protect-the-powerful-david-enrich/21543213?ean=9780063372900\u0026next=t",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 1,
-      "progress": 100,
-      "sortOrder": 2970,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Politics",
-          "colorCode": "rgb(130, 40, 40)"
-        }
-      ],
-      "formats": []
-    },
-    {
       "bookId": 564,
       "title": "How Not to Invest",
       "subTitle": "The ideas, numbers, and behaviors that destroy wealth - and how to avoid them",
@@ -21954,6 +22000,78 @@
         {
           "name": "Thriller",
           "colorCode": "rgb(54, 31, 112)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 579,
+      "title": "Annihilation",
+      "subTitle": "",
+      "fullTitle": "Annihilation",
+      "author": "Jeff VanderMeer",
+      "link": "https://bookshop.org/p/books/annihilation-jeff-vandermeer/8487011",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3030,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 581,
+      "title": "Trade Wars Are Class Wars",
+      "subTitle": "How Rising Inequality Distorts the Global Economy and Threatens International Peace",
+      "fullTitle": "Trade Wars Are Class Wars: How Rising Inequality Distorts the Global Economy and Threatens International Peace",
+      "author": "Matthew C. Klein \u0026 Michael Pettis",
+      "link": "https://bookshop.org/p/books/trade-wars-are-class-wars-how-rising-inequality-distorts-the-global-economy-and-threatens-international-peace-matthew-c-klein/8524053",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3040,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Business \u0026 Economics",
+          "colorCode": "rgb(23, 126, 0)"
         }
       ],
       "formats": []

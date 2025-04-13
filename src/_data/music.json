@@ -456,7 +456,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/VN0C8Lgk/american-aquarium-chicamacomico.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Country",
@@ -8561,7 +8561,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/nzv9XR68/joey-cape-stitch-puppy.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Alternative",
@@ -13299,6 +13299,45 @@
       {
         "trackNumber": 12,
         "title": "Re-Emerging Signs of the Apocalypse"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 206,
+    "title": "No Joy Sessions",
+    "artist": "Spanish Love Songs",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/gJSBgsWQ/spanish-love-songs-no-joy-sessions.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Here You Are"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Clean-Up Crew"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Haunted"
       }
     ]
   },
