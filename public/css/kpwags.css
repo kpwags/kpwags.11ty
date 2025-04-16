@@ -723,6 +723,10 @@ blockquote {
 	border-radius: 6px;
 }
 
+blockquote ~ blockquote {
+	margin-top: 32px;
+}
+
 blockquote p {
 	margin: 0 0 24px 0;
 }
