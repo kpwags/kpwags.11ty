@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/TPVyBbX9/enrich-murder-the-truth.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 160,
+      "currentPage": 230,
       "pageCount": 268,
-      "progress": 60,
+      "progress": 86,
       "sortOrder": 172,
       "status": {
         "name": "Reading",
@@ -42,24 +42,24 @@
       ]
     },
     {
-      "bookId": 580,
-      "title": "Winning Fixes Everything",
-      "subTitle": "How Baseball\u0027s Brightest Minds Created Sports\u0027 Biggest Mess",
-      "fullTitle": "Winning Fixes Everything: How Baseball\u0027s Brightest Minds Created Sports\u0027 Biggest Mess",
-      "author": "Evan Drellich",
-      "link": "https://bookshop.org/p/books/winning-fixes-everything-how-baseball-s-brightest-minds-created-sports-biggest-mess-evan-drellich/16712231",
-      "dateStarted": "2025-04-12T00:00:00Z",
+      "bookId": 566,
+      "title": "The Sirens\u0027 Call",
+      "subTitle": "How Attention Became the World\u0027s Most Endangered Resource",
+      "fullTitle": "The Sirens\u0027 Call: How Attention Became the World\u0027s Most Endangered Resource",
+      "author": "Chris Hayes",
+      "link": "https://bookshop.org/p/books/the-sirens-call-how-attention-became-the-world-s-most-endangered-resource-chris-hayes/21744711",
+      "dateStarted": "2025-04-18T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/zvL1B9DD/drellich-winning-fixes-everything.jpg",
+      "coverImageUrl": "https://i.postimg.cc/SRcSxx2M/hayes-sirens-call.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 731,
-      "pageCount": 788,
-      "progress": 93,
-      "sortOrder": 182,
+      "currentPage": 79,
+      "pageCount": 535,
+      "progress": 15,
+      "sortOrder": 3000,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -71,8 +71,8 @@
       "series": null,
       "genres": [
         {
-          "name": "Sports",
-          "colorCode": "rgb(0, 80, 20)"
+          "name": "Technology",
+          "colorCode": "rgb(55, 78, 146)"
         }
       ],
       "formats": [
@@ -87,6 +87,47 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 580,
+          "title": "Winning Fixes Everything",
+          "subTitle": "How Baseball\u0027s Brightest Minds Created Sports\u0027 Biggest Mess",
+          "fullTitle": "Winning Fixes Everything: How Baseball\u0027s Brightest Minds Created Sports\u0027 Biggest Mess",
+          "author": "Evan Drellich",
+          "link": "https://bookshop.org/p/books/winning-fixes-everything-how-baseball-s-brightest-minds-created-sports-biggest-mess-evan-drellich/16712231",
+          "dateStarted": "2025-04-12T00:00:00Z",
+          "dateCompleted": "2025-04-17T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "This was an interesting dive into the 2017 Houston Astros as well as how they dove into analytics after Jim Crane bought the team in 2011.",
+          "coverImageUrl": "https://i.postimg.cc/zvL1B9DD/drellich-winning-fixes-everything.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 788,
+          "pageCount": 788,
+          "progress": 100,
+          "sortOrder": 182,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Sports",
+              "colorCode": "rgb(0, 80, 20)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Audiobook",
+              "colorCode": "#b300b3"
+            }
+          ]
+        },
         {
           "bookId": 578,
           "title": "Thinking in Systems",
@@ -21899,37 +21940,6 @@
           "colorCode": "rgb(23, 126, 0)"
         }
       ],
-      "formats": []
-    },
-    {
-      "bookId": 566,
-      "title": "The Sirens\u0027 Call",
-      "subTitle": "How Attention Became the World\u0027s Most Endangered Resource",
-      "fullTitle": "The Sirens\u0027 Call: How Attention Became the World\u0027s Most Endangered Resource",
-      "author": "Chris Hayes",
-      "link": "https://bookshop.org/p/books/the-sirens-call-how-attention-became-the-world-s-most-endangered-resource-chris-hayes/21744711",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 1,
-      "progress": 100,
-      "sortOrder": 3000,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [],
       "formats": []
     },
     {

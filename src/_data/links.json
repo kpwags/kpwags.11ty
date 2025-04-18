@@ -1,5 +1,85 @@
 [
   {
+    "linkId": 787,
+    "title": "Tests are Documentation, or Are They?",
+    "url": "https://www.planetgeek.ch/2025/04/09/tests-are-documentation-or-are-they/",
+    "author": "Urs Enzler",
+    "linkDate": "2025-04-17T00:00:00Z",
+    "readingLogIssueNumber": 120,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 788,
+    "title": "Overengineered Anchor Links",
+    "url": "https://thirty-five.com/overengineered-anchoring",
+    "author": "Mats Erdkamp",
+    "linkDate": "2025-04-17T00:00:00Z",
+    "readingLogIssueNumber": 120,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 789,
+    "title": "Better typography with text-wrap pretty",
+    "url": "https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/",
+    "author": "Jen Simmons",
+    "linkDate": "2025-04-17T00:00:00Z",
+    "readingLogIssueNumber": 120,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 790,
+    "title": "Next Level CSS Styling for Cursors",
+    "url": "https://css-tricks.com/next-level-css-styling-for-cursors/",
+    "author": "Declan Chidlow",
+    "linkDate": "2025-04-17T00:00:00Z",
+    "readingLogIssueNumber": 120,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 791,
+    "title": "How to write error messages that actually help users rather than frustrate them",
+    "url": "https://piccalil.li/blog/how-to-write-error-messages-that-actually-help-users-rather-than-frustrate-them/",
+    "author": "Amy Hupe",
+    "linkDate": "2025-04-17T00:00:00Z",
+    "readingLogIssueNumber": 120,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
     "linkId": 786,
     "title": "The Anxious Generation",
     "url": "https://podcasts.apple.com/us/podcast/the-anxious-generation/id1651876897?i=1000664706439",
