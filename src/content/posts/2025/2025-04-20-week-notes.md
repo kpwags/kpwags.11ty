@@ -1,0 +1,38 @@
+---
+title: "Week Notes for April 13 - 19"
+date: '2025-04-20T17:43:43.886Z'
+permalink: /posts/2025/04/20/week-notes/index.html
+description: "My week notes for the week of April 13 through April 19"
+tags:
+  - Week Notes
+  - Baseball
+  - Astros Cheating Scandal
+  - MLB
+  - Hockey
+  - Beer League Hockey
+  - Development
+---
+My week notes for the week of April 13 through April 19.
+<!-- excerpt -->
+
+## Notes
+
+### Revisiting the 2017 Houston Astros Cheating Scandal
+
+Over the last week, I’ve been listening to the audiobook of [Winning Fixes Everything](https://bookshop.org/p/books/winning-fixes-everything-how-baseball-s-brightest-minds-created-sports-biggest-mess-evan-drellich/16712231) by Evan Drellich.
+
+As a baseball fan, it’s been an interesting listen as it goes over the different analytical methods the Astros used to try to improve their team. This wouldn’t have been all that newsworthy, except they took it a step further and cheated in 2017 by using a TV in the dugout hallway and a trash can to steal signs and alert batters what pitch was coming in real time.
+
+The book has been interesting by filling in the gaps of my knowledge of what all went down and the fallout from the scandal.
+
+### Beer League Playoffs
+
+The hockey team I play in net on made the playoffs and we won the semi-finals game 3-2 [in the shootout](/posts/2025/04/15/hockey-shootouts/). It was a little nerve-wracking but also exciting. We have the finals Monday.
+
+## Interesting Links
+
+{% renderTemplate "webc" %}
+<shared-link title="The Best Programmers I Know" url="https://endler.dev/2025/best-programmers/" author="Matthias Endler">
+  A good write-up of things that you can do as a developer to improve. Some good advice and thoughts on what makes good developers regardless of tech stack used.
+</shared-link>
+{% endrenderTemplate %}

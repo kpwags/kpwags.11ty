@@ -596,6 +596,36 @@
       "year": "2025",
       "movies": [
         {
+          "movieId": 171,
+          "title": "Everything Everywhere All At Once",
+          "imdbLink": "https://www.imdb.com/title/tt6710474/",
+          "dateWatched": "2025-04-17T00:00:00Z",
+          "sortOrder": null,
+          "rating": 2,
+          "thoughts": "I thought this was weird.",
+          "posterImageUrl": "https://i.postimg.cc/9MpkM1St/everything-everywhere-all-at-once.jpg",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
+          "genres": [
+            {
+              "name": "Action",
+              "colorCode": "#bc0b0b"
+            },
+            {
+              "name": "Science Fiction",
+              "colorCode": "#1b7016"
+            }
+          ],
+          "services": [
+            {
+              "name": "HBO",
+              "colorCode": "#6a4bc9"
+            }
+          ]
+        },
+        {
           "movieId": 170,
           "title": "Conclave",
           "imdbLink": "https://www.imdb.com/title/tt20215234/",
