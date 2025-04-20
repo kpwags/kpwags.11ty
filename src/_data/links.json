@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 792,
+    "title": "The Best Programmers I Know",
+    "url": "https://endler.dev/2025/best-programmers/",
+    "author": "Matthias Endler",
+    "linkDate": "2025-04-20T00:00:00Z",
+    "readingLogIssueNumber": 120,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
     "linkId": 787,
     "title": "Tests are Documentation, or Are They?",
     "url": "https://www.planetgeek.ch/2025/04/09/tests-are-documentation-or-are-they/",

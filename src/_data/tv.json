@@ -963,16 +963,26 @@
       "rating": 5,
       "thoughts": "The quintessential Star Trek. It was an amazing series that I constantly get more out of everytime I re-watch it",
       "coverImageUrl": "https://i.postimg.cc/fb3jJDcN/tng.jpg",
-      "seasonEpisodeCount": 7,
-      "currentSeasonEpisode": 2,
-      "progress": 29,
+      "seasonEpisodeCount": 178,
+      "currentSeasonEpisode": 48,
+      "progress": 27,
       "sortOrder": null,
       "status": {
         "name": "Watching",
         "colorCode": "#005c78"
       },
-      "genres": [],
-      "services": []
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "#1b7016"
+        }
+      ],
+      "services": [
+        {
+          "name": "Paramount\u002B",
+          "colorCode": "#037fb4"
+        }
+      ]
     },
     {
       "televisionShowId": 104,
