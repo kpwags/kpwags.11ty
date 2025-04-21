@@ -985,6 +985,34 @@
       ]
     },
     {
+      "televisionShowId": 105,
+      "title": "Star Wars: Andor",
+      "imdbLink": "https://www.imdb.com/title/tt9253284/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/50JfGYmG/andor.jpg",
+      "seasonEpisodeCount": 24,
+      "currentSeasonEpisode": 1,
+      "progress": 4,
+      "sortOrder": null,
+      "status": {
+        "name": "Watching",
+        "colorCode": "#005c78"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "#1b7016"
+        }
+      ],
+      "services": [
+        {
+          "name": "Disney\u002B",
+          "colorCode": "#df00de"
+        }
+      ]
+    },
+    {
       "televisionShowId": 104,
       "title": "Station Eleven",
       "imdbLink": "https://www.imdb.com/title/tt10574236/",

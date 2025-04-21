@@ -16,6 +16,22 @@
     }
   },
   {
+    "linkId": 793,
+    "title": "Inclusive Dark Mode: Designing Accessible Dark Themes For All Users",
+    "url": "https://www.smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/",
+    "author": "Alex Williams",
+    "linkDate": "2025-04-20T00:00:00Z",
+    "readingLogIssueNumber": 120,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Design",
+      "colorCode": "#0b545e"
+    }
+  },
+  {
     "linkId": 787,
     "title": "Tests are Documentation, or Are They?",
     "url": "https://www.planetgeek.ch/2025/04/09/tests-are-documentation-or-are-they/",
