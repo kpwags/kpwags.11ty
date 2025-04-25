@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 794,
+    "title": "You can play the Unreal-powered The Elder Scrolls IV: Oblivion remaster today",
+    "url": "https://arstechnica.com/gaming/2025/04/you-can-play-the-unreal-powered-the-elder-scrolls-iv-oblivion-remaster-today/",
+    "author": "Samuel Axon",
+    "linkDate": "2025-04-22T00:00:00Z",
+    "readingLogIssueNumber": 121,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Gaming",
+      "colorCode": "#275576"
+    }
+  },
+  {
+    "linkId": 795,
+    "title": "How 404 Media Is Navigating \u0027Economic Headwinds\u0027",
+    "url": "https://www.404media.co/how-404-media-is-navigating-economic-headwinds/",
+    "author": "404 Media",
+    "linkDate": "2025-04-22T00:00:00Z",
+    "readingLogIssueNumber": 121,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Journalism",
+      "colorCode": "#131519"
+    }
+  },
+  {
     "linkId": 792,
     "title": "The Best Programmers I Know",
     "url": "https://endler.dev/2025/best-programmers/",
