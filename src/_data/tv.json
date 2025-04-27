@@ -957,6 +957,34 @@
       ]
     },
     {
+      "televisionShowId": 106,
+      "title": "Oklahoma City Bombing: One Day in America",
+      "imdbLink": "https://www.imdb.com/title/tt36415832/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/gjWdWsNX/ok-city-bombing-one-day-in-america.jpg",
+      "seasonEpisodeCount": 3,
+      "currentSeasonEpisode": 1,
+      "progress": 33,
+      "sortOrder": null,
+      "status": {
+        "name": "Watching",
+        "colorCode": "#005c78"
+      },
+      "genres": [
+        {
+          "name": "Documentary",
+          "colorCode": "#11659c"
+        }
+      ],
+      "services": [
+        {
+          "name": "Hulu",
+          "colorCode": "#1cb153"
+        }
+      ]
+    },
+    {
       "televisionShowId": 39,
       "title": "Star Trek: The Next Generation",
       "imdbLink": "https://www.imdb.com/title/tt0092455/",
@@ -964,8 +992,8 @@
       "thoughts": "The quintessential Star Trek. It was an amazing series that I constantly get more out of everytime I re-watch it",
       "coverImageUrl": "https://i.postimg.cc/fb3jJDcN/tng.jpg",
       "seasonEpisodeCount": 178,
-      "currentSeasonEpisode": 48,
-      "progress": 27,
+      "currentSeasonEpisode": 50,
+      "progress": 28,
       "sortOrder": null,
       "status": {
         "name": "Watching",
