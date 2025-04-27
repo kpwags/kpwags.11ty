@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 796,
+    "title": "Getting Forked by Microsoft",
+    "url": "https://philiplaine.com/posts/getting-forked-by-microsoft/",
+    "author": "Philip Laine",
+    "linkDate": "2025-04-27T00:00:00Z",
+    "readingLogIssueNumber": 121,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
     "linkId": 794,
     "title": "You can play the Unreal-powered The Elder Scrolls IV: Oblivion remaster today",
     "url": "https://arstechnica.com/gaming/2025/04/you-can-play-the-unreal-powered-the-elder-scrolls-iv-oblivion-remaster-today/",

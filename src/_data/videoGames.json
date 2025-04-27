@@ -36,15 +36,15 @@
       ]
     },
     {
-      "videoGameId": 36,
-      "title": "God of War",
-      "link": "https://www.playstation.com/en-us/god-of-war/",
-      "dateStarted": "2024-11-28T18:49:16.5Z",
+      "videoGameId": 63,
+      "title": "Oblivion Remastered",
+      "link": "https://elderscrolls.bethesda.net/en-US/oblivion-remastered",
+      "dateStarted": "2025-04-25T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/wTFG8Zxs/god-of-war.jpg",
-      "sortOrder": 1,
+      "coverImageUrl": "https://i.postimg.cc/FsfX71Bs/oblivion-remastered.jpg",
+      "sortOrder": null,
       "status": {
         "name": "In Progress",
         "colorCode": "#d76c28"
@@ -55,18 +55,18 @@
       },
       "genres": [
         {
-          "name": "Adventure",
-          "colorCode": "#50518b"
+          "name": "Open World",
+          "colorCode": "#cf394d"
         },
         {
-          "name": "Hack and Slash",
-          "colorCode": "#a30d42"
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
         }
       ],
       "systems": [
         {
-          "name": "PlayStation",
-          "colorCode": "#191f77"
+          "name": "PC",
+          "colorCode": "#4f1e57"
         }
       ]
     }
@@ -1538,6 +1538,41 @@
         {
           "name": "Xbox",
           "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 36,
+      "title": "God of War",
+      "link": "https://www.playstation.com/en-us/god-of-war/",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/wTFG8Zxs/god-of-war.jpg",
+      "sortOrder": 1,
+      "status": {
+        "name": "To Play",
+        "colorCode": "#243391"
+      },
+      "completion": {
+        "name": "N/A",
+        "colorCode": "#144d72"
+      },
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Hack and Slash",
+          "colorCode": "#a30d42"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
         }
       ]
     },

@@ -1,46 +1,43 @@
 {
   "inProgress": [
     {
-      "bookId": 535,
-      "title": "Ancillary Sword",
-      "subTitle": "",
-      "fullTitle": "Ancillary Sword",
-      "author": "Ann Leckie",
-      "link": "https://bookshop.org/p/books/ancillary-sword-ann-leckie/110869?ean=9780316565196",
-      "dateStarted": "2025-04-18T00:00:00Z",
+      "bookId": 582,
+      "title": "Farenheit 182",
+      "subTitle": "A Memoir",
+      "fullTitle": "Farenheit 182: A Memoir",
+      "author": "Mark Hoppus \u0026 Dan Ozzi",
+      "link": "https://bookshop.org/p/books/fahrenheit-182-a-memoir-dan-ozzi/21810473",
+      "dateStarted": "2025-04-27T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/254qbqpb/leckie-ancillary-sword.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 204,
-      "pageCount": 354,
-      "progress": 58,
+      "coverImageUrl": "https://i.postimg.cc/8kfdyLHT/farenheit-182.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 3622,
+      "progress": 0,
       "sortOrder": 173,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
       },
       "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
       },
-      "series": {
-        "name": "Ancillary",
-        "colorCode": "#c74646"
-      },
+      "series": null,
       "genres": [
         {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
+          "name": "Biography / Memoir",
+          "colorCode": "rgb(68, 0, 214)"
         }
       ],
       "formats": [
         {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
+          "name": "eBook",
+          "colorCode": "#2c5813"
         }
       ]
     }
@@ -49,6 +46,50 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 535,
+          "title": "Ancillary Sword",
+          "subTitle": "",
+          "fullTitle": "Ancillary Sword",
+          "author": "Ann Leckie",
+          "link": "https://bookshop.org/p/books/ancillary-sword-ann-leckie/110869?ean=9780316565196",
+          "dateStarted": "2025-04-18T00:00:00Z",
+          "dateCompleted": "2025-04-26T00:00:00Z",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "I enjoyed this, I felt it was better and more suspenseful than Ancillary Justice in all the right ways. Makes me look forward to finishing the trilogy.",
+          "coverImageUrl": "https://i.postimg.cc/254qbqpb/leckie-ancillary-sword.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 354,
+          "pageCount": 354,
+          "progress": 100,
+          "sortOrder": 173,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": {
+            "name": "Ancillary",
+            "colorCode": "#c74646"
+          },
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
+        },
         {
           "bookId": 566,
           "title": "The Sirens\u0027 Call",
@@ -12776,47 +12817,6 @@
     }
   ],
   "toRead": [
-    {
-      "bookId": 582,
-      "title": "Farenheit 182",
-      "subTitle": "A Memoir",
-      "fullTitle": "Farenheit 182: A Memoir",
-      "author": "Mark Hoppus \u0026 Dan Ozzi",
-      "link": "https://bookshop.org/p/books/fahrenheit-182-a-memoir-dan-ozzi/21810473",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/8kfdyLHT/farenheit-182.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 3622,
-      "progress": 0,
-      "sortOrder": 173,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Biography / Memoir",
-          "colorCode": "rgb(68, 0, 214)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "eBook",
-          "colorCode": "#2c5813"
-        }
-      ]
-    },
     {
       "bookId": 536,
       "title": "Ancillary Mercy",
