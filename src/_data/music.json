@@ -2684,6 +2684,77 @@
     ]
   },
   {
+    "musicAlbumId": 208,
+    "title": "Los Feliz",
+    "artist": "Chuck Ragan",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/7P9Q8qz8/chuck-ragan-los-feliz.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Open Up and Wail"
+      },
+      {
+        "trackNumber": 2,
+        "title": "The Boat"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Do You Pray"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Valentine"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Congratulations Joe"
+      },
+      {
+        "trackNumber": 6,
+        "title": "God Deciding"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Fixin To Die"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Symmetry"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Dream of a Miners Child"
+      },
+      {
+        "trackNumber": 10,
+        "title": "It\u0027s What You Will"
+      },
+      {
+        "trackNumber": 11,
+        "title": "For Broken Ears"
+      },
+      {
+        "trackNumber": 12,
+        "title": "California Burritos"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 184,
     "title": "Love and Lore",
     "artist": "Chuck Ragan",
@@ -3972,6 +4043,81 @@
       {
         "trackNumber": 12,
         "title": "Player Hater Anthem"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 207,
+    "title": "Old Souls",
+    "artist": "Deaf Havana",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/nr2W3J4x/deaf-havana-old-souls.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Pop Punk",
+        "colorCode": "rgb(32, 92, 9)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Boston Square"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Lights"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Everybody\u0027s Dancing and I Want to Die"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Suberranean Bullshit Blues"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Night Drives"
+      },
+      {
+        "trackNumber": 6,
+        "title": "22"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Speeding Cars"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Saved"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Mildred"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Tuesday People"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Kings Road Ghosts"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Caro Padre"
       }
     ]
   },
@@ -10205,6 +10351,33 @@
     ]
   },
   {
+    "musicAlbumId": 209,
+    "title": "Bad Actors",
+    "artist": "The Menzingers",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/SsDL5Nvg/menzingers-bad-actors.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Bad Actors"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 21,
     "title": "Chamberlain Waits",
     "artist": "The Menzingers",
@@ -10272,6 +10445,33 @@
       {
         "trackNumber": 12,
         "title": "Chamberlain Waits"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 211,
+    "title": "The Freaks",
+    "artist": "The Menzingers",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/GtfFLgrY/menzingers-the-freaks.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "The Freaks"
       }
     ]
   },
@@ -10414,6 +10614,37 @@
       {
         "trackNumber": 12,
         "title": "Farewell Youth"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 210,
+    "title": "No Penance b/w Cemetery\u0027s Garden",
+    "artist": "The Menzingers",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/NMg7prpy/menzingers-no-penance.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "No Penance"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Cemetery\u0027s Garden"
       }
     ]
   },
@@ -10702,6 +10933,33 @@
       {
         "trackNumber": 15,
         "title": "The Last One Killed Me"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 212,
+    "title": "Toy Soldier",
+    "artist": "The Menzingers",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/wMM5dYKg/menzingers-toy-soldiers.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Toy Soldier"
       }
     ]
   },

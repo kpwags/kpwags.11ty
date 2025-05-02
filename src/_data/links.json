@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 797,
+    "title": "The Worst Possible Moment to Break Encryption",
+    "url": "https://podcast.techfreedom.org/episodes/404-the-worst-possible-moment-to-break-encryption",
+    "author": "TechFreedom Tech Policy Podcast",
+    "linkDate": "2025-04-29T00:00:00Z",
+    "readingLogIssueNumber": 121,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 798,
+    "title": "Backwards Compatibility in the Web, but Not Its Tools",
+    "url": "https://blog.jim-nielsen.com/2025/backwards-compat-in-web-but-not-its-tools/",
+    "author": "Jim Nielsen",
+    "linkDate": "2025-04-29T00:00:00Z",
+    "readingLogIssueNumber": 121,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 796,
     "title": "Getting Forked by Microsoft",
     "url": "https://philiplaine.com/posts/getting-forked-by-microsoft/",
