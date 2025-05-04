@@ -28,31 +28,5 @@
         "colorCode": "#6a4bc9"
       }
     ]
-  },
-  {
-    "movieId": 170,
-    "title": "Conclave",
-    "imdbLink": "https://www.imdb.com/title/tt20215234/",
-    "dateWatched": "2025-04-04T00:00:00Z",
-    "sortOrder": null,
-    "rating": 4,
-    "thoughts": "I enjoyed this. Suspenseful with some good twists and turns.",
-    "posterImageUrl": "https://i.postimg.cc/L562WV1v/conclave.jpg",
-    "status": {
-      "name": "Watched",
-      "colorCode": "#2a9a39"
-    },
-    "genres": [
-      {
-        "name": "Drama",
-        "colorCode": "#481180"
-      }
-    ],
-    "services": [
-      {
-        "name": "iTunes",
-        "colorCode": "#3d9dfc"
-      }
-    ]
   }
 ]
