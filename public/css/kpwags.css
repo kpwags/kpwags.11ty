@@ -714,6 +714,33 @@ article.post .blog-series .current {
 	font-weight: 600;
 }
 
+article.note img,
+article.post img,
+article.book-note img,
+article.note picture,
+article.post picture,
+article.book-note picture {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+article.note .image-credit,
+article.post .image-credit,
+article.book-note .image-credit {
+	font-style: italic;
+	text-align: center;
+}
+
+article.note p:has(img):has(+ div.image-credit),
+article.post p:has(img):has(+ div.image-credit),
+article.book-note p:has(img):has(+ div.image-credit),
+article.note p:has(picture):has(+ div.image-credit),
+article.post p:has(picture):has(+ div.image-credit),
+article.book-note p:has(picture):has(+ div.image-credit) {
+	margin-bottom: 4px;
+}
+
 blockquote {
 	margin: 0;
 	border-left: 4px solid var(--primary-color-3);
