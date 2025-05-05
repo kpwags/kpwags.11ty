@@ -1353,11 +1353,6 @@ article.post.reading-log-page ul {
 	margin-top: 32px;
 }
 
-/* article.post p a[target="_blank"]::after {
-	content: url('./../img/newtab.svg');
-	margin-left: 4px;
-} */
-
 article.post.blog-post-page .titled-horizontal-list ul,
 article.note.note-page .titled-horizontal-list ul,
 article.post.reading-log-page .titled-horizontal-list ul,

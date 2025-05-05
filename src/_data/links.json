@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 807,
+    "title": "Designing DX Keynote",
+    "url": "https://chriscoyier.net/2024/11/30/designing-dx-keynote-20-min/",
+    "author": "Chris Coyier",
+    "linkDate": "2025-05-05T00:00:00Z",
+    "readingLogIssueNumber": 121,
+    "type": {
+      "name": "Video",
+      "colorCode": "#a53621"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 808,
+    "title": "TDD, Where Did it All Go Wrong",
+    "url": "https://youtube.com/watch?v=EZ05e7EMOLM",
+    "author": "Ian Cooper",
+    "linkDate": "2025-05-05T00:00:00Z",
+    "readingLogIssueNumber": 121,
+    "type": {
+      "name": "Video",
+      "colorCode": "#a53621"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
     "linkId": 799,
     "title": "Tech hiring: is this an inflection point?",
     "url": "https://blog.pragmaticengineer.com/tech-hiring-is-this-an-inflection-point/",
