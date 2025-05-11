@@ -957,34 +957,6 @@
       ]
     },
     {
-      "televisionShowId": 106,
-      "title": "Oklahoma City Bombing: One Day in America",
-      "imdbLink": "https://www.imdb.com/title/tt36415832/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/gjWdWsNX/ok-city-bombing-one-day-in-america.jpg",
-      "seasonEpisodeCount": 3,
-      "currentSeasonEpisode": 1,
-      "progress": 33,
-      "sortOrder": null,
-      "status": {
-        "name": "Watching",
-        "colorCode": "#005c78"
-      },
-      "genres": [
-        {
-          "name": "Documentary",
-          "colorCode": "#11659c"
-        }
-      ],
-      "services": [
-        {
-          "name": "Hulu",
-          "colorCode": "#1cb153"
-        }
-      ]
-    },
-    {
       "televisionShowId": 39,
       "title": "Star Trek: The Next Generation",
       "imdbLink": "https://www.imdb.com/title/tt0092455/",
@@ -1677,6 +1649,34 @@
       },
       "genres": [],
       "services": []
+    },
+    {
+      "televisionShowId": 106,
+      "title": "Oklahoma City Bombing: One Day in America",
+      "imdbLink": "https://www.imdb.com/title/tt36415832/",
+      "rating": 2,
+      "thoughts": "It was interesting to hear the stories from those who were there and experienced the tragedy.",
+      "coverImageUrl": "https://i.postimg.cc/gjWdWsNX/ok-city-bombing-one-day-in-america.jpg",
+      "seasonEpisodeCount": 3,
+      "currentSeasonEpisode": 3,
+      "progress": 100,
+      "sortOrder": null,
+      "status": {
+        "name": "Watched",
+        "colorCode": "#343aa8"
+      },
+      "genres": [
+        {
+          "name": "Documentary",
+          "colorCode": "#11659c"
+        }
+      ],
+      "services": [
+        {
+          "name": "Hulu",
+          "colorCode": "#1cb153"
+        }
+      ]
     },
     {
       "televisionShowId": 42,
