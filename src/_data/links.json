@@ -1,5 +1,85 @@
 [
   {
+    "linkId": 812,
+    "title": "HTML is Like a Camera",
+    "url": "https://robbowen.digital/wrote-about/html-is-like-a-camera/",
+    "author": "Robb Owen",
+    "linkDate": "2025-05-11T00:00:00Z",
+    "readingLogIssueNumber": 122,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 813,
+    "title": "Seeking an Answer: Why can\u2019t HTML alone do includes?",
+    "url": "https://frontendmasters.com/blog/seeking-an-answer-why-cant-html-alone-do-includes/",
+    "author": "Chris Coyier",
+    "linkDate": "2025-05-11T00:00:00Z",
+    "readingLogIssueNumber": 122,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 809,
+    "title": "Naming things is hard! With Nick Cosentino",
+    "url": "https://unhandledexceptionpodcast.com/posts/0070-namingthingsishard/",
+    "author": "Unhandled Exception Podcast",
+    "linkDate": "2025-05-07T00:00:00Z",
+    "readingLogIssueNumber": 122,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 810,
+    "title": "The Signal Clone the Trump Admin Uses Was Hacked",
+    "url": "https://www.404media.co/the-signal-clone-the-trump-admin-uses-was-hacked/",
+    "author": "Joseph Cox \u0026 Micah Lee",
+    "linkDate": "2025-05-07T00:00:00Z",
+    "readingLogIssueNumber": 122,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 811,
+    "title": "When 3rd party JavaScript attacks",
+    "url": "https://changelog.com/jsparty/336",
+    "author": "JS Party Podcast",
+    "linkDate": "2025-05-07T00:00:00Z",
+    "readingLogIssueNumber": 122,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 807,
     "title": "Designing DX Keynote",
     "url": "https://chriscoyier.net/2024/11/30/designing-dx-keynote-20-min/",
