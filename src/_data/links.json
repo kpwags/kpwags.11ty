@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 815,
+    "title": "How one writer quit dieting and discovered her strength through weightlifting",
+    "url": "https://www.npr.org/2025/05/08/nx-s1-5377615/weight-lifting-women-strength-training-running",
+    "author": "Mara Gordon",
+    "linkDate": "2025-05-12T00:00:00Z",
+    "readingLogIssueNumber": 122,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Health \u0026 Fitness",
+      "colorCode": "#871c4a"
+    }
+  },
+  {
     "linkId": 812,
     "title": "HTML is Like a Camera",
     "url": "https://robbowen.digital/wrote-about/html-is-like-a-camera/",
@@ -29,6 +45,22 @@
     "category": {
       "name": "Web Development",
       "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 814,
+    "title": "Will the reign of the dollar come to an end?",
+    "url": "https://www.economist.com/podcasts/2025/05/08/will-the-reign-of-the-dollar-come-to-an-end",
+    "author": "The Economist: Money Talks",
+    "linkDate": "2025-05-11T00:00:00Z",
+    "readingLogIssueNumber": 122,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
     }
   },
   {
