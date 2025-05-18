@@ -1,5 +1,261 @@
 [
   {
+    "linkId": 821,
+    "title": "Watch an AI-Generated Recruiter Make a Job Interview Even Worse",
+    "url": "https://www.404media.co/ai-recruiter-apriora-tiktok/",
+    "author": "Samantha Cole",
+    "linkDate": "2025-05-18T00:00:00Z",
+    "readingLogIssueNumber": 123,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 822,
+    "title": "In defense of unpolished personal websites",
+    "url": "https://ohhelloana.blog/in-defense-of-unpolished-websites/",
+    "author": "Ana Rodrigues",
+    "linkDate": "2025-05-18T00:00:00Z",
+    "readingLogIssueNumber": 123,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 823,
+    "title": "Shipping Temporal",
+    "url": "https://spidermonkey.dev/blog/2025/04/11/shipping-temporal.html",
+    "author": "Daniel Minor",
+    "linkDate": "2025-05-18T00:00:00Z",
+    "readingLogIssueNumber": 123,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 824,
+    "title": "If Congress actually cancels the SLS rocket, what happens next?",
+    "url": "https://arstechnica.com/space/2025/05/if-congress-actually-cancels-the-sls-rocket-what-happens-next/#",
+    "author": "Eric Berger",
+    "linkDate": "2025-05-18T00:00:00Z",
+    "readingLogIssueNumber": 123,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 825,
+    "title": "This blog is hosted on a Nintendo Wii",
+    "url": "https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/",
+    "author": "Alex Haydock",
+    "linkDate": "2025-05-18T00:00:00Z",
+    "readingLogIssueNumber": 123,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 826,
+    "title": "Swole Woman Casey Johnston Has Written A Swole Book",
+    "url": "https://defector.com/swole-woman-casey-johnston-has-written-a-swole-book",
+    "author": "Kelsey McKinney",
+    "linkDate": "2025-05-18T00:00:00Z",
+    "readingLogIssueNumber": 123,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Health \u0026 Fitness",
+      "colorCode": "#871c4a"
+    }
+  },
+  {
+    "linkId": 827,
+    "title": "Creating CSS Theme Variables from a JS file",
+    "url": "https://css-irl.info/creating-css-variables-from-a-js-file/",
+    "author": "Michelle Barker",
+    "linkDate": "2025-05-18T00:00:00Z",
+    "readingLogIssueNumber": 123,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 828,
+    "title": "License Plate Reader Company Flock Is Building a Massive People Lookup Tool, Leak Shows",
+    "url": "https://www.404media.co/license-plate-reader-company-flock-is-building-a-massive-people-lookup-tool-leak-shows/",
+    "author": "Joseph Cox",
+    "linkDate": "2025-05-18T00:00:00Z",
+    "readingLogIssueNumber": 123,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 829,
+    "title": "The Post-Developer Era",
+    "url": "https://www.joshwcomeau.com/blog/the-post-developer-era/",
+    "author": "Josh W. Comeau",
+    "linkDate": "2025-05-18T00:00:00Z",
+    "readingLogIssueNumber": 123,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 830,
+    "title": "What Does It Really Mean For A Site To Be Keyboard Navigable",
+    "url": "https://www.smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/",
+    "author": "Eleanor Hecks",
+    "linkDate": "2025-05-18T00:00:00Z",
+    "readingLogIssueNumber": 123,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 831,
+    "title": "Every complex ecosystem has parasites",
+    "url": "https://pluralistic.net/2025/04/24/hermit-kingdom/#simpler-times",
+    "author": "Cory Doctorow",
+    "linkDate": "2025-05-18T00:00:00Z",
+    "readingLogIssueNumber": 123,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 816,
+    "title": "Coding as Craft: Going Back to the Old Gym",
+    "url": "https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/",
+    "author": "Christian Ekrem",
+    "linkDate": "2025-05-16T00:00:00Z",
+    "readingLogIssueNumber": 123,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 817,
+    "title": "\u2018Clair Obscur: Expedition 33\u2019 Makes Your Wandering Worth It",
+    "url": "https://defector.com/clair-obscur-expedition-33-makes-your-wandering-worth-it",
+    "author": "Luis Paez-Pumar",
+    "linkDate": "2025-05-16T00:00:00Z",
+    "readingLogIssueNumber": 123,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Gaming",
+      "colorCode": "#275576"
+    }
+  },
+  {
+    "linkId": 818,
+    "title": "The Simulation Says the Orioles Should Be Good",
+    "url": "https://www.404media.co/the-simulation-says-the-orioles-should-be-good/",
+    "author": "Jason Koebler",
+    "linkDate": "2025-05-16T00:00:00Z",
+    "readingLogIssueNumber": 123,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 819,
+    "title": "When Should You Intentionally Walk Aaron Judge?",
+    "url": "https://blogs.fangraphs.com/when-should-you-intentionally-walk-aaron-judge/",
+    "author": "Ben Clemens",
+    "linkDate": "2025-05-16T00:00:00Z",
+    "readingLogIssueNumber": 123,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 820,
+    "title": "Guitar Chords in CSS",
+    "url": "https://dev.to/madsstoumann/guitar-chords-in-css-3hk8",
+    "author": "Mads Stoumann",
+    "linkDate": "2025-05-16T00:00:00Z",
+    "readingLogIssueNumber": 123,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 815,
     "title": "How one writer quit dieting and discovered her strength through weightlifting",
     "url": "https://www.npr.org/2025/05/08/nx-s1-5377615/weight-lifting-women-strength-training-running",
