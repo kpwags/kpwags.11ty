@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 832,
+    "title": "When to use map() vs. forEach()",
+    "url": "https://allthingssmitty.com/2025/04/21/when-to-use-map-vs-foreach/",
+    "author": "Matt Smith",
+    "linkDate": "2025-05-19T00:00:00Z",
+    "readingLogIssueNumber": 123,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 821,
     "title": "Watch an AI-Generated Recruiter Make a Job Interview Even Worse",
     "url": "https://www.404media.co/ai-recruiter-apriora-tiktok/",
