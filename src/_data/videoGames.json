@@ -1,41 +1,6 @@
 {
   "inProgress": [
     {
-      "videoGameId": 63,
-      "title": "Oblivion Remastered",
-      "link": "https://elderscrolls.bethesda.net/en-US/oblivion-remastered",
-      "dateStarted": "2025-04-25T00:00:00Z",
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/FsfX71Bs/oblivion-remastered.jpg",
-      "sortOrder": null,
-      "status": {
-        "name": "In Progress",
-        "colorCode": "#d76c28"
-      },
-      "completion": {
-        "name": "N/A",
-        "colorCode": "#144d72"
-      },
-      "genres": [
-        {
-          "name": "Open World",
-          "colorCode": "#cf394d"
-        },
-        {
-          "name": "Role Playing Game",
-          "colorCode": "#a83ece"
-        }
-      ],
-      "systems": [
-        {
-          "name": "PC",
-          "colorCode": "#4f1e57"
-        }
-      ]
-    },
-    {
       "videoGameId": 64,
       "title": "Clair Obscur: Expedition 33",
       "link": "https://www.expedition33.com/",
@@ -1573,6 +1538,41 @@
         {
           "name": "Xbox",
           "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
+      "videoGameId": 63,
+      "title": "Oblivion Remastered",
+      "link": "https://elderscrolls.bethesda.net/en-US/oblivion-remastered",
+      "dateStarted": "2025-04-25T00:00:00Z",
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/FsfX71Bs/oblivion-remastered.jpg",
+      "sortOrder": null,
+      "status": {
+        "name": "To Play",
+        "colorCode": "#243391"
+      },
+      "completion": {
+        "name": "N/A",
+        "colorCode": "#144d72"
+      },
+      "genres": [
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        },
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
         }
       ]
     },
