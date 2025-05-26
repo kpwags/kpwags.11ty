@@ -48,6 +48,86 @@
     }
   },
   {
+    "linkId": 840,
+    "title": "Programming is a feeling, and AI is changing it",
+    "url": "https://seanvoisen.com/blog/programming-is-a-feeling-ai-is-changing-it/",
+    "author": "Sean Voisen",
+    "linkDate": "2025-05-25T00:00:00Z",
+    "readingLogIssueNumber": 124,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 841,
+    "title": "The CSS @layer at-rule",
+    "url": "https://gomakethings.com/the-css-layer-at-rule/",
+    "author": "Chris Ferdinandi",
+    "linkDate": "2025-05-25T00:00:00Z",
+    "readingLogIssueNumber": 124,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 842,
+    "title": "Is Chrome Even a Sellable Asset?",
+    "url": "https://daringfireball.net/2025/04/is_chrome_even_a_sellable_asset",
+    "author": "John Gruber",
+    "linkDate": "2025-05-25T00:00:00Z",
+    "readingLogIssueNumber": 124,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 843,
+    "title": "JavaScript, when is this?",
+    "url": "https://piccalil.li/blog/javascript-when-is-this/",
+    "author": "Mat \u201CWilto\u201D Marquis",
+    "linkDate": "2025-05-25T00:00:00Z",
+    "readingLogIssueNumber": 124,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 844,
+    "title": "Craft and Satisfaction",
+    "url": "https://blog.jim-nielsen.com/2025/craft-and-satisfaction/",
+    "author": "Jim Nielsen",
+    "linkDate": "2025-05-25T00:00:00Z",
+    "readingLogIssueNumber": 124,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
     "linkId": 836,
     "title": "Stack overflow is almost dead",
     "url": "https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/",
