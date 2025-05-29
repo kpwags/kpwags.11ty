@@ -1,5 +1,149 @@
 [
   {
+    "linkId": 850,
+    "title": "Bet on Systems, Not Sparks",
+    "url": "https://www.joanwestenberg.com/bet-on-systems-not-sparks/",
+    "author": "Joan Westenberg",
+    "linkDate": "2025-05-27T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 851,
+    "title": "Is the button focusable?",
+    "url": "https://www.matuzo.at/blog/2025/is-the-button-focusable",
+    "author": "Manuel Matuzovi\u0107",
+    "linkDate": "2025-05-27T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 852,
+    "title": "Shifting focus on route change with React Router",
+    "url": "https://gomakethings.com/shifting-focus-on-route-change-with-react-router/",
+    "author": "Chris Ferdinandi",
+    "linkDate": "2025-05-27T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 853,
+    "title": "From subs to bases, \u0022climate change crap\u0022 has consequences for U.S. military",
+    "url": "https://www.axios.com/2025/04/30/hegseth-pentagon-navy-climate-change",
+    "author": "Colin Demarest",
+    "linkDate": "2025-05-27T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Climate",
+      "colorCode": "#9a702d"
+    }
+  },
+  {
+    "linkId": 845,
+    "title": "Nick Clegg says asking artists for use permission would \u2018kill\u2019 the AI industry",
+    "url": "https://www.theverge.com/news/674366/nick-clegg-uk-ai-artists-policy-letter",
+    "author": "Mia Sato",
+    "linkDate": "2025-05-26T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 847,
+    "title": "Don\u0027t make Google sell Chrome",
+    "url": "https://world.hey.com/dhh/don-t-make-google-sell-chrome-93cefbc6",
+    "author": "David Heinemeier Hansson",
+    "linkDate": "2025-05-26T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 848,
+    "title": "Car Subscription Features Raise Your Risk of Government Surveillance, Police Records Show",
+    "url": "https://www.wired.com/story/police-records-car-subscription-features-surveillance/",
+    "author": "Dell Cameron",
+    "linkDate": "2025-05-26T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 849,
+    "title": "What Would \u201CGood\u201D AI Look Like?",
+    "url": "https://www.anildash.com/2025/05/01/what-would-good-ai-look-like/",
+    "author": "Anil Dash",
+    "linkDate": "2025-05-26T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 846,
+    "title": "The CIA Secretly Ran a Star Wars Fan Site",
+    "url": "https://www.404media.co/the-cia-secretly-ran-a-star-wars-fan-site/",
+    "author": "Joseph Cox",
+    "linkDate": "2025-05-26T00:00:00Z",
+    "readingLogIssueNumber": 124,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
     "linkId": 837,
     "title": "My \u0022stop doing list\u0022",
     "url": "https://seanvoisen.com/stream/2025-05-23-stop-doing-list/",
