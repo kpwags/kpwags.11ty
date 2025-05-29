@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/02wY284H/yuval-noah-harari-homo-deus.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 499,
+      "currentPage": 647,
       "pageCount": 894,
-      "progress": 56,
+      "progress": 72,
       "sortOrder": 20,
       "status": {
         "name": "Reading",
@@ -56,9 +56,9 @@
       "coverImageUrl": "https://i.postimg.cc/mkyLCFyy/brian-christian-alignment-problem.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 17,
+      "currentPage": 51,
       "pageCount": 329,
-      "progress": 5,
+      "progress": 16,
       "sortOrder": 30,
       "status": {
         "name": "Reading",
@@ -13771,43 +13771,45 @@
       "formats": []
     },
     {
-      "bookId": 577,
-      "title": "Children of Time",
-      "subTitle": "",
-      "fullTitle": "Children of Time",
-      "author": "Adrian Tchaikovsky",
-      "link": "https://bookshop.org/p/books/children-of-time-adrian-tchaikovsky/113411",
+      "bookId": 559,
+      "title": "The Devil in the White City",
+      "subTitle": "Murder, Magic, and Madness at the Fair that Changed America",
+      "fullTitle": "The Devil in the White City: Murder, Magic, and Madness at the Fair that Changed America",
+      "author": "Erik Larson",
+      "link": "https://bookshop.org/p/books/the-devil-in-the-white-city-murder-magic-and-madness-at-the-fair-that-changed-america-trade-book-erik-larson/586167?ean=9780375725609",
       "dateStarted": null,
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
       "coverImageUrl": "",
-      "isAtLibrary": true,
-      "isPurchased": false,
+      "isAtLibrary": false,
+      "isPurchased": true,
       "currentPage": 1,
-      "pageCount": 1,
-      "progress": 100,
+      "pageCount": 390,
+      "progress": 0,
       "sortOrder": 200,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"
       },
       "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
       },
-      "series": {
-        "name": "Children of Time",
-        "colorCode": "#03229b"
-      },
+      "series": null,
       "genres": [
         {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
         }
       ],
-      "formats": []
+      "formats": [
+        {
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
+        }
+      ]
     },
     {
       "bookId": 202,
@@ -13937,45 +13939,43 @@
       ]
     },
     {
-      "bookId": 559,
-      "title": "The Devil in the White City",
-      "subTitle": "Murder, Magic, and Madness at the Fair that Changed America",
-      "fullTitle": "The Devil in the White City: Murder, Magic, and Madness at the Fair that Changed America",
-      "author": "Erik Larson",
-      "link": "https://bookshop.org/p/books/the-devil-in-the-white-city-murder-magic-and-madness-at-the-fair-that-changed-america-trade-book-erik-larson/586167?ean=9780375725609",
+      "bookId": 577,
+      "title": "Children of Time",
+      "subTitle": "",
+      "fullTitle": "Children of Time",
+      "author": "Adrian Tchaikovsky",
+      "link": "https://bookshop.org/p/books/children-of-time-adrian-tchaikovsky/113411",
       "dateStarted": null,
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
       "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": true,
+      "isAtLibrary": true,
+      "isPurchased": false,
       "currentPage": 1,
-      "pageCount": 390,
-      "progress": 0,
+      "pageCount": 1,
+      "progress": 100,
       "sortOrder": 240,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"
       },
       "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
       },
-      "series": null,
+      "series": {
+        "name": "Children of Time",
+        "colorCode": "#03229b"
+      },
       "genres": [
         {
-          "name": "History",
-          "colorCode": "rgb(4, 38, 142)"
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
         }
       ],
-      "formats": [
-        {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
-        }
-      ]
+      "formats": []
     },
     {
       "bookId": 524,
@@ -22689,6 +22689,42 @@
         {
           "name": "Self Help",
           "colorCode": "rgb(75, 61, 190)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 598,
+      "title": "Bad Company",
+      "subTitle": "Private Equity and the Death of the American Dream",
+      "fullTitle": "Bad Company: Private Equity and the Death of the American Dream",
+      "author": "Megan Greenwell",
+      "link": "https://bookshop.org/p/books/bad-company-private-equity-and-the-death-of-the-american-dream-megan-greenwell/22086306",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 2970,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Business \u0026 Economics",
+          "colorCode": "rgb(23, 126, 0)"
         }
       ],
       "formats": []
