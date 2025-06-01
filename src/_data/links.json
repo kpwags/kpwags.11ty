@@ -1,5 +1,101 @@
 [
   {
+    "linkId": 860,
+    "title": "JSX Over The Wire",
+    "url": "https://overreacted.io/jsx-over-the-wire/",
+    "author": "Dan Abramov",
+    "linkDate": "2025-06-01T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 861,
+    "title": "North Korea Stole Your Job",
+    "url": "https://www.wired.com/story/north-korea-stole-your-tech-job-ai-interviews/",
+    "author": "Bobbie Johnson",
+    "linkDate": "2025-06-01T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Cybersecurity",
+      "colorCode": "#948000"
+    }
+  },
+  {
+    "linkId": 856,
+    "title": "Polishing your typography with line height units",
+    "url": "https://webkit.org/blog/16831/line-height-units/",
+    "author": "Jen Simmons",
+    "linkDate": "2025-05-31T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 857,
+    "title": "MAGA Is Gaslighting You: The Cost of Waking Up in an Authoritarian America",
+    "url": "https://therationalleague.substack.com/p/maga-is-gaslighting-you-the-cost",
+    "author": "The Rational League",
+    "linkDate": "2025-05-31T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 858,
+    "title": "Toe Dipping Into View Transitions",
+    "url": "https://css-tricks.com/toe-dipping-into-view-transitions/",
+    "author": "Geoff Graham",
+    "linkDate": "2025-05-31T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 859,
+    "title": "Minimal CSS-only blurry image placeholders",
+    "url": "https://leanrada.com/notes/css-only-lqip/",
+    "author": "Lean Rada",
+    "linkDate": "2025-05-31T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 854,
     "title": "Announcing dotnet run app.cs \u2013 A simpler way to start with C# and .NET 10",
     "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/",
@@ -13,6 +109,22 @@
     "category": {
       "name": ".NET",
       "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 855,
+    "title": "The promise that wasn\u2019t kept",
+    "url": "https://whitep4nth3r.com/blog/the-promise-that-wasnt-kept/",
+    "author": "Salma Alam-Naylor",
+    "linkDate": "2025-05-29T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
     }
   },
   {
