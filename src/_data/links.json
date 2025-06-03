@@ -1,5 +1,69 @@
 [
   {
+    "linkId": 865,
+    "title": "The trash pile is on fire",
+    "url": "https://heather-buchel.com/blog/2025/06/on-fire/",
+    "author": "Heather Buchel",
+    "linkDate": "2025-06-03T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 866,
+    "title": "Microsoft designates Blazor as its main future investment in Web UI for .NET",
+    "url": "https://devclass.com/2025/05/29/microsoft-designates-blazor-as-its-main-future-investment-in-web-ui-for-net/",
+    "author": "Tim Anderson",
+    "linkDate": "2025-06-03T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 863,
+    "title": "Teachers Are Not OK",
+    "url": "https://www.404media.co/teachers-are-not-ok-ai-chatgpt/",
+    "author": "Jason Koebler",
+    "linkDate": "2025-06-02T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 864,
+    "title": "American Schools Were Deeply Unprepared for ChatGPT, Public Records Show",
+    "url": "https://www.404media.co/american-schools-were-deeply-unprepared-for-chatgpt-public-records-show/",
+    "author": "Jason Koebler",
+    "linkDate": "2025-06-02T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
     "linkId": 860,
     "title": "JSX Over The Wire",
     "url": "https://overreacted.io/jsx-over-the-wire/",
