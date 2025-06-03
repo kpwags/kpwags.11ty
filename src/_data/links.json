@@ -32,6 +32,22 @@
     }
   },
   {
+    "linkId": 862,
+    "title": "An aspect ratio CSS utility class",
+    "url": "https://gomakethings.com/an-aspect-ratio-css-utility-class/",
+    "author": "Chris Ferdinandi",
+    "linkDate": "2025-06-01T00:00:00Z",
+    "readingLogIssueNumber": 125,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 856,
     "title": "Polishing your typography with line height units",
     "url": "https://webkit.org/blog/16831/line-height-units/",

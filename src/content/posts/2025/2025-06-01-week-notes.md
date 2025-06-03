@@ -16,6 +16,7 @@ tags:
   - Salma Alam-Naylor
 ---
 My week notes for the week of May 25 through May 31.
+<!-- excerpt -->
 
 ## Notes
 
