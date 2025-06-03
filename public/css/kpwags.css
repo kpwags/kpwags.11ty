@@ -1530,6 +1530,19 @@ figure.quote blockquote ol {
 	padding-left: 16px;
 }
 
+figure.quote figcaption cite a,
+figure.quote figcaption cite a:visited {
+	text-decoration: underline;
+	color: var(--text);
+	cursor: pointer;
+	text-decoration-color: var(--primary-color-1);
+	text-underline-offset: 3px;
+}
+
+figure.quote figcaption cite a:hover {
+	color: var(--primary-color-1);
+}
+
 .platform-tag .tag svg {
 	fill: var(--white-1);
 	width: 12px;

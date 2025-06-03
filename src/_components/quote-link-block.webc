@@ -2,5 +2,5 @@
 	<blockquote>
 		<slot></slot>
 	</blockquote>
-	<figcaption>- <cite><a :href="href" @html="source"></a></cite></figcaption>
+	<figcaption>- <cite><a :href="href" @html="source" target="_blank" rel="noreferrer nofollow"></a></cite></figcaption>
 </figure>
