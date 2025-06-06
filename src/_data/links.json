@@ -1,11 +1,59 @@
 [
   {
+    "linkId": 867,
+    "title": "California has got really good at building giant batteries",
+    "url": "https://www.economist.com/united-states/2025/05/22/california-has-got-really-good-at-building-giant-batteries",
+    "author": "The Economist",
+    "linkDate": "2025-06-04T00:00:00Z",
+    "readingLogIssueNumber": 126,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Climate",
+      "colorCode": "#9a702d"
+    }
+  },
+  {
+    "linkId": 868,
+    "title": "My second rule of testing",
+    "url": "https://www.mrlacey.com/2025/05/my-second-rule-of-testing.html",
+    "author": "Matt Lacey",
+    "linkDate": "2025-06-04T00:00:00Z",
+    "readingLogIssueNumber": 126,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 869,
+    "title": "Looking elsewhere",
+    "url": "https://robbowen.digital/wrote-about/looking-elsewhere/",
+    "author": "Robb Owen",
+    "linkDate": "2025-06-04T00:00:00Z",
+    "readingLogIssueNumber": 126,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
     "linkId": 865,
     "title": "The trash pile is on fire",
     "url": "https://heather-buchel.com/blog/2025/06/on-fire/",
     "author": "Heather Buchel",
     "linkDate": "2025-06-03T00:00:00Z",
-    "readingLogIssueNumber": 125,
+    "readingLogIssueNumber": 126,
     "type": {
       "name": "Link",
       "colorCode": "#009b8f"
@@ -21,7 +69,7 @@
     "url": "https://devclass.com/2025/05/29/microsoft-designates-blazor-as-its-main-future-investment-in-web-ui-for-net/",
     "author": "Tim Anderson",
     "linkDate": "2025-06-03T00:00:00Z",
-    "readingLogIssueNumber": 125,
+    "readingLogIssueNumber": 126,
     "type": {
       "name": "Link",
       "colorCode": "#009b8f"
@@ -37,7 +85,7 @@
     "url": "https://www.404media.co/teachers-are-not-ok-ai-chatgpt/",
     "author": "Jason Koebler",
     "linkDate": "2025-06-02T00:00:00Z",
-    "readingLogIssueNumber": 125,
+    "readingLogIssueNumber": 126,
     "type": {
       "name": "Link",
       "colorCode": "#009b8f"
@@ -53,7 +101,7 @@
     "url": "https://www.404media.co/american-schools-were-deeply-unprepared-for-chatgpt-public-records-show/",
     "author": "Jason Koebler",
     "linkDate": "2025-06-02T00:00:00Z",
-    "readingLogIssueNumber": 125,
+    "readingLogIssueNumber": 126,
     "type": {
       "name": "Link",
       "colorCode": "#009b8f"
