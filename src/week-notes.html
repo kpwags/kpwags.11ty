@@ -1,0 +1,21 @@
+---
+layout: "layouts/layout.html"
+title: "Week Notes"
+pagination:
+    data: collections.weeknote
+    size: 15
+    reverse: true
+---
+
+<div class="blog-listing-page">
+    <h1>Week Notes</h1>
+
+    {% for post in pagination.items %}
+        {% blogPost post "blogpost" %}
+    {% endfor %}
+
+    <section class="pagination">
+        {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Posts</a>{% endif %}
+        {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Posts &rightarrow;</a>{% endif %}
+    </section>
+</div>

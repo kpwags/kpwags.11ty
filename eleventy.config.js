@@ -5,14 +5,11 @@ import pluginWebc from '@11ty/eleventy-plugin-webc';
 import { EleventyRenderPlugin } from "@11ty/eleventy";
 
 import publicPosts from './src/collections/publicPosts.js';
-import allPublicPosts from './src/collections/allPublicPosts.js';
 import { postsByMonthAndYear, postsByYear } from './src/collections/postsByDate.js';
 import stats from './src/collections/stats.js';
 import everything from './src/collections/everything.js';
 import pinnedPosts from './src/collections/pinnedPosts.js';
 import { postsNoPolitics, notesNoPolitics, everythingNoPolitics } from './src/collections/politicsExcluded.js';
-import weekNotes from './src/collections/weekNotes.js';
-import nonWeekNotes from './src/collections/nonWeekNotes.js';
 
 import dateFilter from './src/filters/date-filter.js';
 import tagUrlFilter from './src/filters/tagurl-filter.js';
@@ -64,7 +61,6 @@ export default function (eleventyConfig) {
     });
 
     eleventyConfig.addCollection('publicPosts', publicPosts);
-    eleventyConfig.addCollection('postsAndReadingLogs', allPublicPosts);
     eleventyConfig.addCollection('postsByMonthAndYear', postsByMonthAndYear);
     eleventyConfig.addCollection('postsByYear', postsByYear);
     eleventyConfig.addCollection('stats', stats);
@@ -73,8 +69,6 @@ export default function (eleventyConfig) {
     eleventyConfig.addCollection('notesNoPolitics', notesNoPolitics);
     eleventyConfig.addCollection('everythingNoPolitics', everythingNoPolitics);
     eleventyConfig.addCollection('pinnedPosts', pinnedPosts);
-    eleventyConfig.addCollection('weekNotes', weekNotes);
-    eleventyConfig.addCollection('nonWeekNotes', nonWeekNotes);
 
     eleventyConfig.addFilter('readableDate', dateFilter);
     eleventyConfig.addFilter('tagUrlSlug', tagUrlFilter);

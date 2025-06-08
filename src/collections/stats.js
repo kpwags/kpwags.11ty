@@ -1,7 +1,7 @@
 import dayjs from 'dayjs';
 import utc from 'dayjs/plugin/utc.js';
 import { getUniqueValues } from '../lib/Utilities.js';
-import { getBlogPosts, getBlogPostsAndReadingLogs } from '../lib/CollectionHelpers.js';
+import { getBlogPosts } from '../lib/CollectionHelpers.js';
 import tagUrl from '../filters/tagurl-filter.js';
 
 dayjs.extend(utc);
@@ -23,6 +23,7 @@ const excludedTags = [
 	'shortnotes',
 	'Week Notes',
 	'Monthly Check-In',
+	'weeknote'
 ];
 
 const getYear = (date) => dayjs.utc(date).format('YYYY');
