@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ metadata.language }}">
+
+<head>
+	{% include "head.html" %}
+	<title>{{ title }} - Keith Wagner</title>
+	<link rel="stylesheet" type="text/css" href="/css/prism-okaidia.css" />
+
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://kpwags.com{{ page.url }}" />
+	<meta property="og:title" content="{{ title }}" />
+	<meta property="og:description" content="{{ description }}" />
+
+	<script type="module" src="/scripts/fit-vids.js"></script>
+</head>
+
+<body>
+	{% include "header.html" %}
+		
+	<main>
+		<article class="post blog-post">
+			<div class="content">
+				<h1>{{ title | postTitle }}</h1>
+
+				<div class="metadata">{{ dateString }}</div>
+
+				<div class="body">
+					{{ content }}
+				</div>
+
+				<hr />
+
+				<div class="footer">
+					{% tagList tags %}
+					{% replyLinks title %}
+				</div>
+			</div>
+		</article>
+	</main>
+
+	{% include "footer.html" %}
+</body>
+
+</html>

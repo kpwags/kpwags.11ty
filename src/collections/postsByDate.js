@@ -1,10 +1,10 @@
 import dayjs from 'dayjs';
-import { getBlogPostsAndReadingLogs } from '../lib/CollectionHelpers.js';
+import { getItemsConsideredPosts } from '../lib/CollectionHelpers.js';
 
 function getByDate(collection, dateFormat) {
 	const postsByDate = {};
 
-	const allPosts = getBlogPostsAndReadingLogs(collection, false);
+	const allPosts = getItemsConsideredPosts(collection, false);
 
 	allPosts.forEach(function (post) {
 		// Get the year from the date

@@ -872,7 +872,7 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/jj33JDQr/goodeats.jpg",
       "seasonEpisodeCount": 252,
-      "currentSeasonEpisode": 219,
+      "currentSeasonEpisode": 220,
       "progress": 87,
       "sortOrder": 3,
       "status": {
@@ -921,15 +921,15 @@
       ]
     },
     {
-      "televisionShowId": 105,
-      "title": "Star Wars: Andor",
-      "imdbLink": "https://www.imdb.com/title/tt9253284/",
+      "televisionShowId": 107,
+      "title": "Star Wars: The Clone Wars",
+      "imdbLink": "https://www.imdb.com/title/tt0458290/",
       "rating": 0,
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/50JfGYmG/andor.jpg",
-      "seasonEpisodeCount": 24,
-      "currentSeasonEpisode": 19,
-      "progress": 79,
+      "coverImageUrl": "https://i.postimg.cc/bJgLRgsK/star-wars-clone-wars.jpg",
+      "seasonEpisodeCount": 133,
+      "currentSeasonEpisode": 3,
+      "progress": 2,
       "sortOrder": null,
       "status": {
         "name": "Watching",
@@ -1259,6 +1259,34 @@
       },
       "genres": [],
       "services": []
+    },
+    {
+      "televisionShowId": 105,
+      "title": "Andor",
+      "imdbLink": "https://www.imdb.com/title/tt9253284/",
+      "rating": 5,
+      "thoughts": "I enjoyed the series. It did hit a little close to home given the current Trump administration.",
+      "coverImageUrl": "https://i.postimg.cc/50JfGYmG/andor.jpg",
+      "seasonEpisodeCount": 24,
+      "currentSeasonEpisode": 24,
+      "progress": 100,
+      "sortOrder": null,
+      "status": {
+        "name": "Watched",
+        "colorCode": "#343aa8"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "#1b7016"
+        }
+      ],
+      "services": [
+        {
+          "name": "Disney\u002B",
+          "colorCode": "#df00de"
+        }
+      ]
     },
     {
       "televisionShowId": 43,

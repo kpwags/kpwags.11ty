@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "movieId": 173,
+    "title": "Rogue One: A Star Wars Story",
+    "imdbLink": "https://www.imdb.com/title/tt3748528/",
+    "dateWatched": "2025-06-04T00:00:00Z",
+    "sortOrder": null,
+    "rating": 5,
+    "thoughts": "One of the best Star Wars movies and definitely the best of the new movies. A good story and enjoyable.",
+    "posterImageUrl": "https://i.postimg.cc/g23ZjSrs/star-wars-rogue-one.jpg",
+    "status": {
+      "name": "Watched",
+      "colorCode": "#2a9a39"
+    },
+    "genres": [
+      {
+        "name": "Science Fiction",
+        "colorCode": "#1b7016"
+      }
+    ],
+    "services": [
+      {
+        "name": "Disney\u002B",
+        "colorCode": "#df00de"
+      }
+    ]
+  }
+]
