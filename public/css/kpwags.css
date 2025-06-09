@@ -209,6 +209,10 @@ header {
 	justify-content: space-between;
 }
 
+header .logo {
+	min-width: 240px;
+}
+
 header .logo a {
 	font-size: 2rem;
 	color: var(--primary-color-1);
@@ -241,7 +245,15 @@ body.wide header {
 	width: var(--wide-width);
 }
 
-@media (max-width: 950px) {
+@media (max-width: 1280px) {
+	header,
+	body.wide header {
+		width: 100%;
+		padding: 0 32px;
+	}
+}
+
+@media (max-width: 1000px) {
 	header {
 		display: block;
 		width: var(--width);
@@ -739,6 +751,22 @@ article.note p:has(picture):has(+ div.image-credit),
 article.post p:has(picture):has(+ div.image-credit),
 article.book-note p:has(picture):has(+ div.image-credit) {
 	margin-bottom: 4px;
+}
+
+article.note code,
+article.post code,
+article.book-note code {
+	font-size: 1rem;
+	background: var(--shaded-background);
+	padding: 8px;
+}
+
+article.note pre code,
+article.post pre code,
+article.book-note pre code {
+	font-size: 0.75rem;
+	background: none;
+	padding: 0;
 }
 
 blockquote {
