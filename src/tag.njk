@@ -9,7 +9,7 @@ eleventyComputed:
   title: Posts Tagged “{{ tag }}”
 ---
 
-<h1>{{ tag }}</h1>
+<h1><span class="prefix small"><span class="sr-only">Posts </span>Tagged</span>{{ tag }}</h1>
 
 {% set taglist = collections[ tag ] %}
 
