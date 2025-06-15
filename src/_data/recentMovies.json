@@ -1,5 +1,31 @@
 [
   {
+    "movieId": 174,
+    "title": "Star Wars Episode I: The Phantom Menace",
+    "imdbLink": "https://www.imdb.com/title/tt0120915/",
+    "dateWatched": "2025-06-14T00:00:00Z",
+    "sortOrder": null,
+    "rating": 3,
+    "thoughts": "Still the weakest of all the movies, but not as deserving of all the hate it gets in my opinion. The lightsaber duel choreography is one of the best in Star Wars.",
+    "posterImageUrl": "https://i.postimg.cc/dVVKndSW/star-wars-1.jpg",
+    "status": {
+      "name": "Watched",
+      "colorCode": "#2a9a39"
+    },
+    "genres": [
+      {
+        "name": "Science Fiction",
+        "colorCode": "#1b7016"
+      }
+    ],
+    "services": [
+      {
+        "name": "Disney\u002B",
+        "colorCode": "#df00de"
+      }
+    ]
+  },
+  {
     "movieId": 173,
     "title": "Rogue One: A Star Wars Story",
     "imdbLink": "https://www.imdb.com/title/tt3748528/",

@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 98,
-      "title": "The Alignment Problem",
-      "subTitle": "Machine Learning and Human Values",
-      "fullTitle": "The Alignment Problem: Machine Learning and Human Values",
-      "author": "Brian Christian",
-      "link": "https://bookshop.org/p/books/the-alignment-problem-machine-learning-and-human-values-brian-christian/16099409",
-      "dateStarted": "2025-05-27T00:00:00Z",
+      "bookId": 599,
+      "title": "The Wrong Stuff",
+      "subTitle": "How the Soviet Space Program Crashed and Burned",
+      "fullTitle": "The Wrong Stuff: How the Soviet Space Program Crashed and Burned",
+      "author": "John Strausbaugh",
+      "link": "https://bookshop.org/p/books/the-wrong-stuff-how-the-soviet-space-program-crashed-and-burned-john-strausbaugh/20664627",
+      "dateStarted": "2025-06-10T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/mkyLCFyy/brian-christian-alignment-problem.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 295,
-      "pageCount": 329,
-      "progress": 90,
-      "sortOrder": 30,
+      "coverImageUrl": "https://i.postimg.cc/7YZKNyPZ/strausbaugh-wrong-stuff.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 189,
+      "pageCount": 258,
+      "progress": 73,
+      "sortOrder": 2980,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -30,14 +30,18 @@
       "series": null,
       "genres": [
         {
-          "name": "Technology",
-          "colorCode": "rgb(55, 78, 146)"
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        },
+        {
+          "name": "Science",
+          "colorCode": "rgb(24, 90, 80)"
         }
       ],
       "formats": [
         {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
         }
       ]
     }
@@ -46,6 +50,47 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 98,
+          "title": "The Alignment Problem",
+          "subTitle": "Machine Learning and Human Values",
+          "fullTitle": "The Alignment Problem: Machine Learning and Human Values",
+          "author": "Brian Christian",
+          "link": "https://bookshop.org/p/books/the-alignment-problem-machine-learning-and-human-values-brian-christian/16099409",
+          "dateStarted": "2025-05-27T00:00:00Z",
+          "dateCompleted": "2025-06-09T00:00:00Z",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "An interesting look at how we interact and train AI and LLMs. Sometimes dry, but still insightful.",
+          "coverImageUrl": "https://i.postimg.cc/mkyLCFyy/brian-christian-alignment-problem.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 329,
+          "pageCount": 329,
+          "progress": 100,
+          "sortOrder": 30,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Technology",
+              "colorCode": "rgb(55, 78, 146)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
+        },
         {
           "bookId": 601,
           "title": "Where Nobody Knows Your Name",
@@ -13153,6 +13198,46 @@
   ],
   "toRead": [
     {
+      "bookId": 603,
+      "title": "Rise of the Warrior Cop",
+      "subTitle": "The Militarization of America\u0027s Police Forces",
+      "fullTitle": "Rise of the Warrior Cop: The Militarization of America\u0027s Police Forces",
+      "author": "Radley Balko",
+      "link": "https://bookshop.org/p/books/rise-of-the-warrior-cop-the-militarization-of-america-s-police-forces-radley-balko/11487752",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 39,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        },
+        {
+          "name": "Politics",
+          "colorCode": "rgb(130, 40, 40)"
+        }
+      ],
+      "formats": []
+    },
+    {
       "bookId": 555,
       "title": "The Final Empire",
       "subTitle": "",
@@ -22771,46 +22856,6 @@
       "formats": []
     },
     {
-      "bookId": 599,
-      "title": "The Wrong Stuff",
-      "subTitle": "How the Soviet Space Program Crashed and Burned",
-      "fullTitle": "The Wrong Stuff: How the Soviet Space Program Crashed and Burned",
-      "author": "John Strausbaugh",
-      "link": "https://bookshop.org/p/books/the-wrong-stuff-how-the-soviet-space-program-crashed-and-burned-john-strausbaugh/20664627",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 1,
-      "progress": 100,
-      "sortOrder": 2980,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "History",
-          "colorCode": "rgb(4, 38, 142)"
-        },
-        {
-          "name": "Science",
-          "colorCode": "rgb(24, 90, 80)"
-        }
-      ],
-      "formats": []
-    },
-    {
       "bookId": 600,
       "title": "The Light Eaters",
       "subTitle": "How the Unseen World of Plant Intelligence Offers a New Understanding of Life on Earth",
@@ -22850,6 +22895,42 @@
           "colorCode": "#a0175f"
         }
       ]
+    },
+    {
+      "bookId": 602,
+      "title": "How Countries Go Broke",
+      "subTitle": "The Big Cycle",
+      "fullTitle": "How Countries Go Broke: The Big Cycle",
+      "author": "Ray Dalio",
+      "link": "https://bookshop.org/p/books/principles-investment-and-economic-ray-dalio/21286041",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3000,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Business \u0026 Economics",
+          "colorCode": "rgb(23, 126, 0)"
+        }
+      ],
+      "formats": []
     }
   ]
 }
