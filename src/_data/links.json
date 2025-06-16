@@ -263,12 +263,12 @@
     "linkDate": "2025-06-11T00:00:00Z",
     "readingLogIssueNumber": 127,
     "type": {
-      "name": "Link",
-      "colorCode": "#009b8f"
+      "name": "Podcast",
+      "colorCode": "#5725a0"
     },
     "category": {
-      "name": "Technology",
-      "colorCode": "#273fd2"
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
     }
   },
   {
