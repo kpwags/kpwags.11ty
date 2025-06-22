@@ -1,5 +1,117 @@
 [
   {
+    "linkId": 906,
+    "title": "7 Underrated C# 12 and C# 13 Features Every Developer Should Know!",
+    "url": "https://www.syncfusion.com/blogs/post/underrated-csharp-12-and-13-features",
+    "author": "Saravanan Madheswaran",
+    "linkDate": "2025-06-22T00:00:00Z",
+    "readingLogIssueNumber": 128,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 904,
+    "title": "The Recurring Cycle of \u0027Developer Replacement\u0027 Hype",
+    "url": "https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/",
+    "author": "Danilo Alonso",
+    "linkDate": "2025-06-19T00:00:00Z",
+    "readingLogIssueNumber": 128,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 905,
+    "title": "\u003Cline-numbers\u003E Web Component",
+    "url": "https://www.zachleat.com/web/line-numbers/",
+    "author": "Zach Leatherman",
+    "linkDate": "2025-06-19T00:00:00Z",
+    "readingLogIssueNumber": 128,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 901,
+    "title": "How The Republican Party Became A Party That Believes The Constitution Only Applies To Its Enemies",
+    "url": "https://www.techdirt.com/2025/06/17/how-the-republican-party-became-a-party-that-believes-the-constitution-only-applies-to-its-enemies/",
+    "author": "Mike Brock",
+    "linkDate": "2025-06-18T00:00:00Z",
+    "readingLogIssueNumber": 128,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 902,
+    "title": "No Build Web Development",
+    "url": "https://simonwillison.net/2025/May/31/no-build/",
+    "author": "Simon Willison",
+    "linkDate": "2025-06-18T00:00:00Z",
+    "readingLogIssueNumber": 128,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 903,
+    "title": "A new way to style gaps in CSS",
+    "url": "https://developer.chrome.com/blog/gap-decorations",
+    "author": "Sam Davis Omekara \u0026 Patrick Brosset",
+    "linkDate": "2025-06-18T00:00:00Z",
+    "readingLogIssueNumber": 128,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 900,
+    "title": "The Simplest Way to Deploy Your Own Updatable Portfolio Site",
+    "url": "https://frontendmasters.com/blog/the-simplest-way-to-deploy/",
+    "author": "Chris Coyier",
+    "linkDate": "2025-06-17T00:00:00Z",
+    "readingLogIssueNumber": 128,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 891,
     "title": "Strange Bedfellows and Long Knives",
     "url": "https://pluralistic.net/2025/05/21/et-tu-sloppy-steve/",
