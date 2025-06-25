@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 908,
+    "title": "Why today\u2019s graduates are screwed",
+    "url": "https://www.economist.com/finance-and-economics/2025/06/16/why-todays-graduates-are-screwed",
+    "author": "The Economist",
+    "linkDate": "2025-06-24T00:00:00Z",
+    "readingLogIssueNumber": 129,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Economics",
+      "colorCode": "#4f7a28"
+    }
+  },
+  {
     "linkId": 906,
     "title": "7 Underrated C# 12 and C# 13 Features Every Developer Should Know!",
     "url": "https://www.syncfusion.com/blogs/post/underrated-csharp-12-and-13-features",
