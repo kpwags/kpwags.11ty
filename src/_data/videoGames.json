@@ -1,6 +1,45 @@
 {
   "inProgress": [
     {
+      "videoGameId": 8,
+      "title": "Star Wars: Battlefront II",
+      "link": "https://www.ea.com/games/starwars/battlefront/star-wars-battlefront-2",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-28T00:00:00Z",
+      "rating": 4,
+      "thoughts": "I still come back to this from time to time. It\u0027s a fun multiplayer game.",
+      "coverImageUrl": "https://i.postimg.cc/xdWSGnfD/battlefront-ii.jpg",
+      "sortOrder": null,
+      "status": {
+        "name": "In Progress",
+        "colorCode": "#d76c28"
+      },
+      "completion": {
+        "name": "N/A",
+        "colorCode": "#144d72"
+      },
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        },
+        {
+          "name": "Multiplayer",
+          "colorCode": "#d2128a"
+        },
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
       "videoGameId": 64,
       "title": "Clair Obscur: Expedition 33",
       "link": "https://www.expedition33.com/",
@@ -520,45 +559,6 @@
         {
           "name": "PC",
           "colorCode": "#4f1e57"
-        }
-      ]
-    },
-    {
-      "videoGameId": 8,
-      "title": "Star Wars: Battlefront II",
-      "link": "https://www.ea.com/games/starwars/battlefront/star-wars-battlefront-2",
-      "dateStarted": null,
-      "dateCompleted": "2023-05-28T05:00:00Z",
-      "rating": 4,
-      "thoughts": "I still come back to this from time to time. It\u0027s a fun multiplayer game.",
-      "coverImageUrl": "https://i.postimg.cc/xdWSGnfD/battlefront-ii.jpg",
-      "sortOrder": null,
-      "status": {
-        "name": "Completed",
-        "colorCode": "#08824e"
-      },
-      "completion": {
-        "name": "N/A",
-        "colorCode": "#144d72"
-      },
-      "genres": [
-        {
-          "name": "First Person Shooter",
-          "colorCode": "#158a87"
-        },
-        {
-          "name": "Multiplayer",
-          "colorCode": "#d2128a"
-        },
-        {
-          "name": "Third Person Shooter",
-          "colorCode": "#8c1e8b"
-        }
-      ],
-      "systems": [
-        {
-          "name": "PlayStation",
-          "colorCode": "#191f77"
         }
       ]
     },

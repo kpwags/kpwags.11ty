@@ -642,6 +642,32 @@
       "year": "2025",
       "movies": [
         {
+          "movieId": 177,
+          "title": "Materialists",
+          "imdbLink": "https://www.imdb.com/title/tt30253473/",
+          "dateWatched": "2025-06-27T00:00:00Z",
+          "sortOrder": null,
+          "rating": 2,
+          "thoughts": "I\u0027m not sure what I was expecting going into this. The story was a little predictable though.",
+          "posterImageUrl": "https://i.postimg.cc/GtKrjLXj/materialists.jpg",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
+          "genres": [
+            {
+              "name": "Drama",
+              "colorCode": "#481180"
+            }
+          ],
+          "services": [
+            {
+              "name": "Theater",
+              "colorCode": "#e66100"
+            }
+          ]
+        },
+        {
           "movieId": 176,
           "title": "Star Wars Episode II: Attack of the Clones",
           "imdbLink": "https://www.imdb.com/title/tt0121765/",
