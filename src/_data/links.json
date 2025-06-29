@@ -1,5 +1,133 @@
 [
   {
+    "linkId": 916,
+    "title": "What\u0027s a \u0022public internet?\u0022",
+    "url": "https://pluralistic.net/2025/06/25/eurostack/#viktor-orbans-isp",
+    "author": "Cory Doctorow",
+    "linkDate": "2025-06-29T00:00:00Z",
+    "readingLogIssueNumber": 129,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 914,
+    "title": "The Shape of the Habit",
+    "url": "https://matthewpennell.com/blog/the-shape-of-the-habit",
+    "author": "Matthew Pennell",
+    "linkDate": "2025-06-27T00:00:00Z",
+    "readingLogIssueNumber": 129,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 915,
+    "title": "How to Keep Up With New CSS Features",
+    "url": "https://css-tricks.com/how-to-keep-up-with-new-css-features/",
+    "author": "Sacha Greif",
+    "linkDate": "2025-06-27T00:00:00Z",
+    "readingLogIssueNumber": 129,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 910,
+    "title": "JavaScript broke the web (and called it progress)",
+    "url": "https://www.jonoalderson.com/conjecture/javascript-broke-the-web-and-called-it-progress/",
+    "author": "Jono Alderson",
+    "linkDate": "2025-06-26T00:00:00Z",
+    "readingLogIssueNumber": 129,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 911,
+    "title": "Quality is a trap",
+    "url": "https://ericwbailey.website/published/quality-is-a-trap/",
+    "author": "Eric Bailey",
+    "linkDate": "2025-06-26T00:00:00Z",
+    "readingLogIssueNumber": 129,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Design",
+      "colorCode": "#0b545e"
+    }
+  },
+  {
+    "linkId": 912,
+    "title": "The 5 Pillars of Great API Design: Build Interfaces That Last",
+    "url": "https://medium.com/@orbens/the-5-pillars-of-great-api-design-build-interfaces-that-last-d2d2b650433d",
+    "author": "Or Ben Shmueli",
+    "linkDate": "2025-06-26T00:00:00Z",
+    "readingLogIssueNumber": 129,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 913,
+    "title": "What Happens When You Write throw ex vs throw in a Catch Block",
+    "url": "https://medium.com/@sweetondonie/what-happens-when-you-write-throw-ex-vs-throw-in-a-catch-block-672a880800c5",
+    "author": "Donie Sweeton",
+    "linkDate": "2025-06-26T00:00:00Z",
+    "readingLogIssueNumber": 129,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 909,
+    "title": "How Foreign Scammers Use U.S. Banks to Fleece Americans",
+    "url": "https://www.propublica.org/article/pig-butchering-scam-cybercrime-us-banks-money-laundering",
+    "author": "Cezary Podkul",
+    "linkDate": "2025-06-25T00:00:00Z",
+    "readingLogIssueNumber": 129,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
     "linkId": 908,
     "title": "Why today\u2019s graduates are screwed",
     "url": "https://www.economist.com/finance-and-economics/2025/06/16/why-todays-graduates-are-screwed",

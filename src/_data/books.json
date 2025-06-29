@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/Qdd54txD/plait-under-alien-skies.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 75,
+      "currentPage": 255,
       "pageCount": 287,
-      "progress": 26,
+      "progress": 89,
       "sortOrder": 140,
       "status": {
         "name": "Reading",
@@ -56,9 +56,9 @@
       "coverImageUrl": "https://i.postimg.cc/mr13mH7h/greenwell-bad-company.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 103,
+      "currentPage": 363,
       "pageCount": 531,
-      "progress": 19,
+      "progress": 68,
       "sortOrder": 2970,
       "status": {
         "name": "Reading",
@@ -13373,7 +13373,7 @@
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "",
+      "coverImageUrl": "https://i.postimg.cc/9MbVVXyq/balko-rise-of-warrior-cop.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
       "currentPage": 1,
@@ -13399,7 +13399,12 @@
           "colorCode": "rgb(130, 40, 40)"
         }
       ],
-      "formats": []
+      "formats": [
+        {
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
+        }
+      ]
     },
     {
       "bookId": 555,
@@ -22943,6 +22948,82 @@
         {
           "name": "Business \u0026 Economics",
           "colorCode": "rgb(23, 126, 0)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 605,
+      "title": "Mellon vs. Churchill",
+      "subTitle": "The Untold Story of Treasury Titans at War",
+      "fullTitle": "Mellon vs. Churchill: The Untold Story of Treasury Titans at War",
+      "author": "Jill Eicher",
+      "link": "https://bookshop.org/p/books/mellon-vs-churchill-the-untold-story-of-treasury-titans-at-war-jill-eicher/20706635",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3020,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 604,
+      "title": "House of Huawei",
+      "subTitle": "The Secret History of China\u0027s Most Powerful Company",
+      "fullTitle": "House of Huawei: The Secret History of China\u0027s Most Powerful Company",
+      "author": "Eva Dou",
+      "link": "https://bookshop.org/p/books/house-of-huawei-the-secret-history-of-china-s-most-powerful-company-eva-dou/21545393",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3030,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Business \u0026 Economics",
+          "colorCode": "rgb(23, 126, 0)"
+        },
+        {
+          "name": "Technology",
+          "colorCode": "rgb(55, 78, 146)"
         }
       ],
       "formats": []
