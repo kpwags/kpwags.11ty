@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 572,
-      "title": "Under Alien Skies",
-      "subTitle": "A Sightseer\u0027s Guide to the Universe",
-      "fullTitle": "Under Alien Skies: A Sightseer\u0027s Guide to the Universe",
-      "author": "Philip Plait",
-      "link": "https://bookshop.org/p/books/under-alien-skies-a-sightseer-s-guide-to-the-universe-phil-plait/18507009",
-      "dateStarted": "2025-06-21T00:00:00Z",
+      "bookId": 603,
+      "title": "Rise of the Warrior Cop",
+      "subTitle": "The Militarization of America\u0027s Police Forces",
+      "fullTitle": "Rise of the Warrior Cop: The Militarization of America\u0027s Police Forces",
+      "author": "Radley Balko",
+      "link": "https://bookshop.org/p/books/rise-of-the-warrior-cop-the-militarization-of-america-s-police-forces-radley-balko/11487752",
+      "dateStarted": "2025-06-29T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/Qdd54txD/plait-under-alien-skies.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 255,
-      "pageCount": 287,
-      "progress": 89,
-      "sortOrder": 140,
+      "coverImageUrl": "https://i.postimg.cc/9MbVVXyq/balko-rise-of-warrior-cop.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 11,
+      "pageCount": 336,
+      "progress": 3,
+      "sortOrder": 39,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -30,14 +30,18 @@
       "series": null,
       "genres": [
         {
-          "name": "Science",
-          "colorCode": "rgb(24, 90, 80)"
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        },
+        {
+          "name": "Politics",
+          "colorCode": "rgb(130, 40, 40)"
         }
       ],
       "formats": [
         {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
         }
       ]
     },
@@ -56,9 +60,9 @@
       "coverImageUrl": "https://i.postimg.cc/mr13mH7h/greenwell-bad-company.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 363,
+      "currentPage": 483,
       "pageCount": 531,
-      "progress": 68,
+      "progress": 91,
       "sortOrder": 2970,
       "status": {
         "name": "Reading",
@@ -87,6 +91,47 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 572,
+          "title": "Under Alien Skies",
+          "subTitle": "A Sightseer\u0027s Guide to the Universe",
+          "fullTitle": "Under Alien Skies: A Sightseer\u0027s Guide to the Universe",
+          "author": "Philip Plait",
+          "link": "https://bookshop.org/p/books/under-alien-skies-a-sightseer-s-guide-to-the-universe-phil-plait/18507009",
+          "dateStarted": "2025-06-21T00:00:00Z",
+          "dateCompleted": "2025-06-29T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "Whenever I read about space, I always feel so small. Philip does a fantastic job talking about the various planets, moons, and other environments in space and what they would look like. It was informative and incredibly fascinating.",
+          "coverImageUrl": "https://i.postimg.cc/Qdd54txD/plait-under-alien-skies.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 287,
+          "pageCount": 287,
+          "progress": 100,
+          "sortOrder": 140,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Science",
+              "colorCode": "rgb(24, 90, 80)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
+        },
         {
           "bookId": 32,
           "title": "The Exvangelicals",
@@ -13361,51 +13406,6 @@
     }
   ],
   "toRead": [
-    {
-      "bookId": 603,
-      "title": "Rise of the Warrior Cop",
-      "subTitle": "The Militarization of America\u0027s Police Forces",
-      "fullTitle": "Rise of the Warrior Cop: The Militarization of America\u0027s Police Forces",
-      "author": "Radley Balko",
-      "link": "https://bookshop.org/p/books/rise-of-the-warrior-cop-the-militarization-of-america-s-police-forces-radley-balko/11487752",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/9MbVVXyq/balko-rise-of-warrior-cop.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 1,
-      "progress": 100,
-      "sortOrder": 39,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "History",
-          "colorCode": "rgb(4, 38, 142)"
-        },
-        {
-          "name": "Politics",
-          "colorCode": "rgb(130, 40, 40)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
-        }
-      ]
-    },
     {
       "bookId": 555,
       "title": "The Final Empire",
