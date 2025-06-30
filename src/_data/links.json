@@ -16,6 +16,38 @@
     }
   },
   {
+    "linkId": 917,
+    "title": "In Praise of \u201CNormal\u201D Engineers",
+    "url": "https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/",
+    "author": "Charity Majors",
+    "linkDate": "2025-06-29T00:00:00Z",
+    "readingLogIssueNumber": 129,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 918,
+    "title": "Suppressions of Suppressions",
+    "url": "https://overreacted.io/suppressions-of-suppressions/",
+    "author": "Dan Abramov",
+    "linkDate": "2025-06-29T00:00:00Z",
+    "readingLogIssueNumber": 129,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
     "linkId": 914,
     "title": "The Shape of the Habit",
     "url": "https://matthewpennell.com/blog/the-shape-of-the-habit",
