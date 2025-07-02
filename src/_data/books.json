@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/9MbVVXyq/balko-rise-of-warrior-cop.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 11,
+      "currentPage": 70,
       "pageCount": 336,
-      "progress": 3,
+      "progress": 21,
       "sortOrder": 39,
       "status": {
         "name": "Reading",
@@ -46,24 +46,24 @@
       ]
     },
     {
-      "bookId": 598,
-      "title": "Bad Company",
-      "subTitle": "Private Equity and the Death of the American Dream",
-      "fullTitle": "Bad Company: Private Equity and the Death of the American Dream",
-      "author": "Megan Greenwell",
-      "link": "https://bookshop.org/p/books/bad-company-private-equity-and-the-death-of-the-american-dream-megan-greenwell/22086306",
-      "dateStarted": "2025-06-24T00:00:00Z",
+      "bookId": 584,
+      "title": "Chokepoints",
+      "subTitle": "American Power in the Age of Economic Warfare",
+      "fullTitle": "Chokepoints: American Power in the Age of Economic Warfare",
+      "author": "Edward Fishman",
+      "link": "https://bookshop.org/p/books/chokepoints-american-power-in-the-age-of-economic-warfare-edward-fishman/21504653",
+      "dateStarted": "2025-07-01T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/mr13mH7h/greenwell-bad-company.jpg",
+      "coverImageUrl": "https://i.postimg.cc/nrQ6QJBG/fishman-chokepoints.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 483,
-      "pageCount": 531,
-      "progress": 91,
-      "sortOrder": 2970,
+      "currentPage": 108,
+      "pageCount": 1023,
+      "progress": 11,
+      "sortOrder": 2900,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -77,6 +77,10 @@
         {
           "name": "Business \u0026 Economics",
           "colorCode": "rgb(23, 126, 0)"
+        },
+        {
+          "name": "Politics",
+          "colorCode": "rgb(130, 40, 40)"
         }
       ],
       "formats": [
@@ -91,6 +95,47 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 598,
+          "title": "Bad Company",
+          "subTitle": "Private Equity and the Death of the American Dream",
+          "fullTitle": "Bad Company: Private Equity and the Death of the American Dream",
+          "author": "Megan Greenwell",
+          "link": "https://bookshop.org/p/books/bad-company-private-equity-and-the-death-of-the-american-dream-megan-greenwell/22086306",
+          "dateStarted": "2025-06-24T00:00:00Z",
+          "dateCompleted": "2025-07-01T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "This was a good look at how private equity has been destroying retail, hospitals \u0026 healthcare, the journalism industry, and residential housing. It balances the overarching problem with personal stories in a way that makes you realize the scope of the problem.",
+          "coverImageUrl": "https://i.postimg.cc/mr13mH7h/greenwell-bad-company.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 531,
+          "pageCount": 531,
+          "progress": 100,
+          "sortOrder": 2970,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Audiobook",
+              "colorCode": "#b300b3"
+            }
+          ]
+        },
         {
           "bookId": 572,
           "title": "Under Alien Skies",
@@ -22611,46 +22656,6 @@
         {
           "name": "Business \u0026 Economics",
           "colorCode": "rgb(23, 126, 0)"
-        }
-      ],
-      "formats": []
-    },
-    {
-      "bookId": 584,
-      "title": "Chokepoints",
-      "subTitle": "American Power in the Age of Economic Warfare",
-      "fullTitle": "Chokepoints: American Power in the Age of Economic Warfare",
-      "author": "Edward Fishman",
-      "link": "https://bookshop.org/p/books/chokepoints-american-power-in-the-age-of-economic-warfare-edward-fishman/21504653",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 1,
-      "progress": 100,
-      "sortOrder": 2900,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Business \u0026 Economics",
-          "colorCode": "rgb(23, 126, 0)"
-        },
-        {
-          "name": "Politics",
-          "colorCode": "rgb(130, 40, 40)"
         }
       ],
       "formats": []
