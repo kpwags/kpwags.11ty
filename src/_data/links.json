@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 926,
+    "title": "A simple website",
+    "url": "https://simplesite.ayra.ch/?ref=sidebar",
+    "author": "simplesite.ayra.ch",
+    "linkDate": "2025-07-06T00:00:00Z",
+    "readingLogIssueNumber": 130,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 925,
+    "title": "Generating colors with the CSS oklch() function",
+    "url": "https://gomakethings.com/generating-colors-with-the-css-oklch-function/",
+    "author": "Chris Ferdinandi",
+    "linkDate": "2025-07-04T00:00:00Z",
+    "readingLogIssueNumber": 130,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 924,
     "title": "Give footnotes the boot",
     "url": "https://jakearchibald.com/2025/give-footnotes-the-boot/",
