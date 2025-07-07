@@ -759,7 +759,8 @@ article.book-note p:has(picture):has(+ div.image-credit) {
 
 article.note code,
 article.post code,
-article.book-note code {
+article.book-note code,
+.excerpt code {
 	font-size: 1rem;
 	background: var(--shaded-background);
 	padding: 8px;
@@ -767,7 +768,8 @@ article.book-note code {
 
 article.note pre code,
 article.post pre code,
-article.book-note pre code {
+article.book-note pre code,
+.excerpt pre code {
 	font-size: 0.75rem;
 	background: none;
 	padding: 0;

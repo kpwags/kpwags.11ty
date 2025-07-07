@@ -1,5 +1,53 @@
 [
   {
+    "linkId": 927,
+    "title": "The Height Enigma",
+    "url": "https://www.joshwcomeau.com/css/height-enigma/",
+    "author": "Josh W Comeau",
+    "linkDate": "2025-07-07T00:00:00Z",
+    "readingLogIssueNumber": 130,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 928,
+    "title": "Exploring the features of dotnet run app.cs",
+    "url": "https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/",
+    "author": "Andrew Lock",
+    "linkDate": "2025-07-07T00:00:00Z",
+    "readingLogIssueNumber": 130,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 929,
+    "title": "Don\u2019t call it \u2018Alligator Alcatraz.\u2019 Call it a concentration camp.",
+    "url": "https://www.msnbc.com/opinion/msnbc-opinion/immigration-alligator-alcatraz-concentration-camp-rcna216874",
+    "author": "Andrea Pitzer",
+    "linkDate": "2025-07-07T00:00:00Z",
+    "readingLogIssueNumber": 130,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
     "linkId": 926,
     "title": "A simple website",
     "url": "https://simplesite.ayra.ch/?ref=sidebar",
