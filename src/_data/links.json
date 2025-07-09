@@ -1,5 +1,213 @@
 [
   {
+    "linkId": 930,
+    "title": "The time is right for a DOM templating API",
+    "url": "https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/",
+    "author": "Justin Fagnani",
+    "linkDate": "2025-07-08T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 931,
+    "title": "Writing Code Was Never The Bottleneck",
+    "url": "https://ordep.dev/posts/writing-code-was-never-the-bottleneck",
+    "author": "Pedro Tavares",
+    "linkDate": "2025-07-08T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 932,
+    "title": "Web components don\u0027t need a constructor() ",
+    "url": "https://gomakethings.com/web-components-dont-need-a-constructor/",
+    "author": "Chris Ferdinandi",
+    "linkDate": "2025-07-08T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 934,
+    "title": "AutoMapper and MediatR Commercial Editions Launch Today",
+    "url": "https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/",
+    "author": "Jimmy Bogard",
+    "linkDate": "2025-07-08T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 935,
+    "title": "American science to soon face its largest brain drain in history",
+    "url": "https://bigthink.com/starts-with-a-bang/american-science-brain-drain/",
+    "author": "Ethan Siegel",
+    "linkDate": "2025-07-08T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Science",
+      "colorCode": "#732a45"
+    }
+  },
+  {
+    "linkId": 936,
+    "title": "How much (little) are the AI companies making?",
+    "url": "https://pluralistic.net/2025/06/30/accounting-gimmicks/#artificial-income",
+    "author": "Cory Doctorow",
+    "linkDate": "2025-07-08T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 937,
+    "title": "Testcontainers Best Practices for .NET Integration Testing",
+    "url": "https://www.milanjovanovic.tech/blog/testcontainers-best-practices-dotnet-integration-testing",
+    "author": "Milan Jovanovi\u0107",
+    "linkDate": "2025-07-08T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 938,
+    "title": "Adding test description for data-driven tests in xUnit",
+    "url": "https://steven-giesel.com/blogPost/80a53df4-a867-4202-916c-08e980f02505",
+    "author": "Steven Giesel",
+    "linkDate": "2025-07-08T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 939,
+    "title": "How email tracking works behind the scenes",
+    "url": "https://buttondown.com/blog/email-tracking-pixels-bugs",
+    "author": "Justin Duke",
+    "linkDate": "2025-07-08T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 940,
+    "title": "Vanguard will soon crush fees for even more investors",
+    "url": "https://www.economist.com/finance-and-economics/2025/07/03/vanguard-will-soon-crush-fees-for-even-more-investors",
+    "author": "The Economist",
+    "linkDate": "2025-07-08T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 941,
+    "title": "Trump Wants to Expand Nuclear Power. It Won\u2019t Be Easy.",
+    "url": "https://www.wsj.com/business/energy-oil/trump-nuclear-power-expansion-challenges-bfe386e2",
+    "author": "Josh Ulick \u0026 Jennifer Hiller",
+    "linkDate": "2025-07-08T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 942,
+    "title": "Debacle in the desert: will the Athletics\u2019 $1.75bn stadium on the Vegas Strip ever be built?",
+    "url": "https://www.theguardian.com/sport/2025/jul/02/athletics-las-vegas-stadium-john-fisher-mlb-debacle",
+    "author": "David Lengel",
+    "linkDate": "2025-07-08T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 943,
+    "title": "Conferences, Clarity, and Smokescreens",
+    "url": "https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/",
+    "author": "Alex Russell",
+    "linkDate": "2025-07-08T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 927,
     "title": "The Height Enigma",
     "url": "https://www.joshwcomeau.com/css/height-enigma/",
