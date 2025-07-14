@@ -1,5 +1,165 @@
 [
   {
+    "linkId": 950,
+    "title": "Why We Quit Spotify",
+    "url": "https://www.hearingthings.co/why-we-quit-spotify/",
+    "author": "Ryan Dombal",
+    "linkDate": "2025-07-13T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 951,
+    "title": "A colossal explosion sent antimatter heading toward us at nearly the speed of light",
+    "url": "https://badastronomy.beehiiv.com/p/a-colossal-explosion-sent-antimatter-heading-toward-us-at-nearly-the-speed-of-light-d53578a31202831?utm_source=badastronomy.beehiiv.com\u0026utm_medium=newsletter\u0026utm_campaign=a-colossal-explosion-sent-antimatter-heading-toward-us-at-nearly-the-speed-of-light",
+    "author": "Philip Plait",
+    "linkDate": "2025-07-13T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 952,
+    "title": "Building a Lightweight Reactive State Manager with JavaScript Proxies",
+    "url": "https://www.lorenstew.art/blog/reactive-state-manager-with-proxies",
+    "author": "Loren Stewart",
+    "linkDate": "2025-07-13T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 953,
+    "title": "Using Entity Framework: Smart Decisions That Save You Later",
+    "url": "https://medium.com/@siddhesh.yellaram07/using-entity-framework-smart-decisions-that-save-you-later-8dd61d02d34f",
+    "author": "Siddhesh Y",
+    "linkDate": "2025-07-13T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 949,
+    "title": "How a Show About Truly Terrible People Became the Defining American Sitcom",
+    "url": "https://www.nytimes.com/2025/07/07/magazine/always-sunny-in-philadelphia.html",
+    "author": "M.H. Miller",
+    "linkDate": "2025-07-11T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Media \u0026 Entertainment",
+      "colorCode": "#7949a8"
+    }
+  },
+  {
+    "linkId": 945,
+    "title": "Can you afford to evacuate ahead of a disaster?",
+    "url": "https://www.npr.org/2025/07/09/1255376165/tallying-the-cost-of-hurricane-francine-evacuation-fema-response",
+    "author": "The Indicator",
+    "linkDate": "2025-07-10T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 946,
+    "title": "The New Era of Warfare",
+    "url": "https://www.marketplace.org/episode/2025/06/26/the-new-era-of-warfare",
+    "author": "Make Me Smart",
+    "linkDate": "2025-07-10T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 947,
+    "title": "The Political Power Of Mockery",
+    "url": "https://www.techdirt.com/2025/06/17/techdirt-podcast-episode-422-the-political-power-of-mockery/",
+    "author": "Techdirt Podcast",
+    "linkDate": "2025-07-10T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 948,
+    "title": "How I build software quickly",
+    "url": "https://evanhahn.com/how-i-build-software-quickly/",
+    "author": "Evan Hahn",
+    "linkDate": "2025-07-10T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 944,
+    "title": "Who Goes MAGA?",
+    "url": "https://www.techdirt.com/2025/07/08/who-goes-maga/",
+    "author": "Mike Masnick",
+    "linkDate": "2025-07-09T00:00:00Z",
+    "readingLogIssueNumber": 131,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
     "linkId": 930,
     "title": "The time is right for a DOM templating API",
     "url": "https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/",
