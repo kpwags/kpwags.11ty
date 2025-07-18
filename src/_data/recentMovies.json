@@ -24,31 +24,5 @@
         "colorCode": "#e66100"
       }
     ]
-  },
-  {
-    "movieId": 176,
-    "title": "Star Wars Episode II: Attack of the Clones",
-    "imdbLink": "https://www.imdb.com/title/tt0121765/",
-    "dateWatched": "2025-06-18T00:00:00Z",
-    "sortOrder": null,
-    "rating": 4,
-    "thoughts": "This is one of the better prequel movies. Some good intrigue with the first time seeing Yoda with a lightsaber.",
-    "posterImageUrl": "https://i.postimg.cc/tT8WxP8D/star-wars-ii.jpg",
-    "status": {
-      "name": "Watched",
-      "colorCode": "#2a9a39"
-    },
-    "genres": [
-      {
-        "name": "Science Fiction",
-        "colorCode": "#1b7016"
-      }
-    ],
-    "services": [
-      {
-        "name": "Disney\u002B",
-        "colorCode": "#df00de"
-      }
-    ]
   }
 ]
