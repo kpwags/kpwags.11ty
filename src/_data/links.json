@@ -1,5 +1,165 @@
 [
   {
+    "linkId": 964,
+    "title": "Private Equity Now Owns More Than 40 Minor League Baseball Teams, And The Number Keeps Growing",
+    "url": "https://defector.com/private-equity-now-owns-more-than-40-minor-league-baseball-teams-and-the-number-keeps-growing",
+    "author": "Jen Ramos Eisen",
+    "linkDate": "2025-07-19T00:00:00Z",
+    "readingLogIssueNumber": 132,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 965,
+    "title": "React Still Feels Insane And No One Is Talking About It",
+    "url": "https://mbrizic.com/blog/react-is-insane/",
+    "author": "Mario Brizi\u0107",
+    "linkDate": "2025-07-19T00:00:00Z",
+    "readingLogIssueNumber": 132,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 966,
+    "title": "C# 14 extension members; AKA extension everything",
+    "url": "https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/",
+    "author": "Andrew Lock",
+    "linkDate": "2025-07-19T00:00:00Z",
+    "readingLogIssueNumber": 132,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 967,
+    "title": "Joel Embiid sees you",
+    "url": "https://www.espn.com/nba/story/_/id/45747447/joel-embiid-philadelphia-76ers-star-sees-you",
+    "author": "Dotun Akintoye",
+    "linkDate": "2025-07-19T00:00:00Z",
+    "readingLogIssueNumber": 132,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 968,
+    "title": "Modern async iteration in JavaScript with Array.fromAsync()",
+    "url": "https://allthingssmitty.com/2025/07/14/modern-async-iteration-in-javascript-with-array-fromasync/",
+    "author": "Matt Smith",
+    "linkDate": "2025-07-19T00:00:00Z",
+    "readingLogIssueNumber": 132,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 959,
+    "title": "Trump Threatens, Then Sues Murdoch Over Epstein Story Using Tactics His Supporters Used To Call A \u2018Massive Attack on Free Speech\u2019",
+    "url": "https://www.techdirt.com/2025/07/18/trump-threatens-murdoch-over-epstein-story-using-tactics-his-supporters-used-to-call-a-massive-attack-on-free-speech/",
+    "author": "Mike Masnick",
+    "linkDate": "2025-07-18T00:00:00Z",
+    "readingLogIssueNumber": 132,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 960,
+    "title": "Firefox is fine. The people running it are not",
+    "url": "https://www.theregister.com/2025/07/08/firefox_isnt_dead/",
+    "author": "Liam Proven",
+    "linkDate": "2025-07-18T00:00:00Z",
+    "readingLogIssueNumber": 132,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 961,
+    "title": "The Open-Source Software Saving the Internet From AI Bot Scrapers",
+    "url": "https://www.404media.co/the-open-source-software-saving-the-internet-from-ai-bot-scrapers/",
+    "author": "Emanuel Maiberg",
+    "linkDate": "2025-07-18T00:00:00Z",
+    "readingLogIssueNumber": 132,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 962,
+    "title": "What is popover=hint?",
+    "url": "https://una.im/popover-hint/",
+    "author": "Una Kravets",
+    "linkDate": "2025-07-18T00:00:00Z",
+    "readingLogIssueNumber": 132,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 963,
+    "title": "Writing Testable Code is More Important Than Unit Tests",
+    "url": "https://www.pietschsoft.com/post/2025/07/01/writing-testable-code-is-more-important-than-unit-tests",
+    "author": "Chris Pietschmann",
+    "linkDate": "2025-07-18T00:00:00Z",
+    "readingLogIssueNumber": 132,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
     "linkId": 955,
     "title": "We Deserve Better: A New Social Media Bill of Rights",
     "url": "https://www.techdirt.com/2025/07/17/we-deserve-better-a-new-social-media-bill-of-rights/",
