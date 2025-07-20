@@ -4053,15 +4053,11 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/nr2W3J4x/deaf-havana-old-souls.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
-        "name": "Alternative",
-        "colorCode": "rgb(11, 148, 129)"
-      },
-      {
-        "name": "Pop Punk",
-        "colorCode": "rgb(32, 92, 9)"
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
@@ -13567,7 +13563,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/gJSBgsWQ/spanish-love-songs-no-joy-sessions.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Alternative",
@@ -14563,6 +14559,397 @@
       {
         "trackNumber": 19,
         "title": "Suite from the Visitor: Where\u0027s Freya/To the Rescue"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 214,
+    "title": "Beyond Hell / Above Heaven",
+    "artist": "Volbeat",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/wjVKL3bW/volbeat-beyond-hell-above-heaven.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "The Mirror and the Ripper"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Heaven Nor Hell"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Who They Are"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Fallen"
+      },
+      {
+        "trackNumber": 5,
+        "title": "A Better Believer"
+      },
+      {
+        "trackNumber": 6,
+        "title": "7 Shots"
+      },
+      {
+        "trackNumber": 7,
+        "title": "A New Day"
+      },
+      {
+        "trackNumber": 8,
+        "title": "16 Dollars"
+      },
+      {
+        "trackNumber": 9,
+        "title": "A Warrior\u0027s Call"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Magic Zone"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Evelyn"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Being 1"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Thanks"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Angelfuck"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 217,
+    "title": "God of Angels Trust",
+    "artist": "Volbeat",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/xCXBw5j7/volbeat-god-of-angels-trust.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Devils are Awake"
+      },
+      {
+        "trackNumber": 2,
+        "title": "By a Monster\u0027s Hand"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Acid Rain"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Demonic Depression"
+      },
+      {
+        "trackNumber": 5,
+        "title": "In the Bar of the Goat Giving Birth to Satan\u0027s Spawn in a Dying World of Doom"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Time Will Heal"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Better Be Fueled than Tamed"
+      },
+      {
+        "trackNumber": 8,
+        "title": "A the End of the Sirens"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Lonely Fields"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Enlighten the Disorder (By a Monster\u0027s Hand Part 2)"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 213,
+    "title": "Guitar Gangsters \u0026 Cadillac Blood",
+    "artist": "Volbeat",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/Pqrg4hgd/volbeat-guitar-gangsters.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Intro (End of the Road)"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Guitar Gangsters \u0026 Cadillac Blood"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Back to Prom"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Mary Ann\u0027s Place"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Hallelujah Goat"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Maybellene I Hofteholder"
+      },
+      {
+        "trackNumber": 7,
+        "title": "We"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Still Counting"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Light a Way"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Wild Rover of Hell"
+      },
+      {
+        "trackNumber": 11,
+        "title": "I\u0027m So Lonesome I Could Cry"
+      },
+      {
+        "trackNumber": 12,
+        "title": "A Broken Man and the Dawn"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Find that Soul"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Making Believe"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 215,
+    "title": "Seal the Deal \u0026 Let\u0027s Boogie",
+    "artist": "Volbeat",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/QM4RYwD1/volbeat-seal-the-deal.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "The Devil\u0027s Bleeding Crown"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Marie Laveau"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Bliss"
+      },
+      {
+        "trackNumber": 4,
+        "title": "The Ghosts of Babylon"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Let it Burn"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Black Rose"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Rebound"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Mary Jane Kelly"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Goodbye Forever"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Seal the Deal"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Battleship Chains"
+      },
+      {
+        "trackNumber": 12,
+        "title": "You Will Know"
+      },
+      {
+        "trackNumber": 13,
+        "title": "The Loa\u0027s Crossroad"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 216,
+    "title": "Servant of the Mind",
+    "artist": "Volbeat",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/TwBBfbpP/volbeat-servant-of-the-mind.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Temple of Ekur"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Wait a Minute My Girl"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Sacred Stones"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Shotgun Blues"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The Devil Rages On"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Say No More"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Heaven\u0027s Descent"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Dagen F\u00F8r (feat. Stine Bramsen)"
+      },
+      {
+        "trackNumber": 9,
+        "title": "The Passenger"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Step into Light"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Becoming"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Mindlock"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Lasse\u0027s Birgitta"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Return to None"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Domino"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Shotgun Blues (feat. Dave Matrise)"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Dagen F\u00F8r (Michael Vox Version)"
+      },
+      {
+        "trackNumber": 18,
+        "title": "Don\u0027t Tread on Me"
       }
     ]
   },
