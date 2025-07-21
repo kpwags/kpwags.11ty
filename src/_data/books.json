@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/gj8n3fRc/sanderson-mistborn.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 282,
+      "currentPage": 300,
       "pageCount": 534,
-      "progress": 53,
+      "progress": 56,
       "sortOrder": 40,
       "status": {
         "name": "Reading",
@@ -59,9 +59,9 @@
       "coverImageUrl": "https://i.postimg.cc/tCtRHhss/tankian-down-with-the-system.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 387,
+      "currentPage": 424,
       "pageCount": 598,
-      "progress": 65,
+      "progress": 71,
       "sortOrder": 2490,
       "status": {
         "name": "Reading",
@@ -23036,6 +23036,42 @@
           "name": "Business \u0026 Economics",
           "colorCode": "rgb(23, 126, 0)"
         },
+        {
+          "name": "Technology",
+          "colorCode": "rgb(55, 78, 146)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 606,
+      "title": "AI Snake Oil",
+      "subTitle": "What Artificial Intelligence Can Do, What It Can\u0027t, and How to Tell the Difference",
+      "fullTitle": "AI Snake Oil: What Artificial Intelligence Can Do, What It Can\u0027t, and How to Tell the Difference",
+      "author": "Arvind Narayanan \u0026 Sayash Kapoor",
+      "link": "https://bookshop.org/p/books/ai-snake-oil-what-artificial-intelligence-can-do-what-it-can-t-and-how-to-tell-the-difference-arvind-narayanan/21324674",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3040,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
         {
           "name": "Technology",
           "colorCode": "rgb(55, 78, 146)"

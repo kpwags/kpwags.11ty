@@ -1,9 +1,89 @@
 [
   {
+    "linkId": 973,
+    "title": "AI Snake Oil",
+    "url": "https://podcast.techfreedom.org/episodes/385-ai-snake-oil",
+    "author": "Tech Policy Podcast",
+    "linkDate": "2025-07-21T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 974,
+    "title": "AI: Things Are About to Get Weird",
+    "url": "https://podcast.techfreedom.org/episodes/413-ai-things-are-about-to-get-weird",
+    "author": "Tech Policy Podcast",
+    "linkDate": "2025-07-21T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 972,
+    "title": "Combat capitalism: how Ukraine built a war economy",
+    "url": "https://www.economist.com/podcasts/2025/07/17/combat-capitalism-how-ukraine-built-a-war-economy",
+    "author": "The Economist: Money Talks Podcast",
+    "linkDate": "2025-07-21T00:00:00Z",
+    "readingLogIssueNumber": 132,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 969,
     "title": "The Emerging Coup",
     "url": "https://www.publicnotice.co/p/trump-coup-attempt-2028-ice",
     "author": "David R. Lurie",
+    "linkDate": "2025-07-20T00:00:00Z",
+    "readingLogIssueNumber": 132,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 970,
+    "title": "The Nuclear Club Might Soon Double",
+    "url": "https://www.theatlantic.com/magazine/archive/2025/08/nuclear-proliferation-arms-race/683251/?gift=TGgP34XZPBAppowZPOH7pxS6GPgtOIQ6ESYJZ5zNJtg\u0026utm_source=copy-link\u0026utm_medium=social\u0026utm_campaign=share",
+    "author": "Ross Andersen",
+    "linkDate": "2025-07-20T00:00:00Z",
+    "readingLogIssueNumber": 132,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 971,
+    "title": "Fascism for First Time Founders",
+    "url": "https://www.techdirt.com/2025/07/17/fascism-for-first-time-founders/",
+    "author": "Mike Masnick",
     "linkDate": "2025-07-20T00:00:00Z",
     "readingLogIssueNumber": 132,
     "type": {
