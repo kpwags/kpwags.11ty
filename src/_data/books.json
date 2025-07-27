@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 555,
-      "title": "Mistborn",
+      "bookId": 556,
+      "title": "The Well of Ascension",
       "subTitle": "",
-      "fullTitle": "Mistborn",
+      "fullTitle": "The Well of Ascension",
       "author": "Brandon Sanderson",
-      "link": "https://bookshop.org/p/books/mistborn-the-final-empire-brandon-sanderson/15553866?ean=9781250318541\u0026next=t\u0026next=t",
-      "dateStarted": "2025-07-11T00:00:00Z",
+      "link": "https://bookshop.org/p/books/the-well-of-ascension-book-two-of-mistborn-brandon-sanderson/15509153?ean=9781250318572",
+      "dateStarted": "2025-07-25T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/gj8n3fRc/sanderson-mistborn.jpg",
+      "coverImageUrl": "https://i.postimg.cc/26P1bz1X/sanderson-well-of-ascension.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 300,
-      "pageCount": 534,
-      "progress": 56,
-      "sortOrder": 40,
+      "currentPage": 47,
+      "pageCount": 598,
+      "progress": 8,
+      "sortOrder": 50,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -43,53 +43,97 @@
           "colorCode": "#cd6a29"
         }
       ]
-    },
-    {
-      "bookId": 13,
-      "title": "Down with the System",
-      "subTitle": "A Memoir (of Sorts)",
-      "fullTitle": "Down with the System: A Memoir (of Sorts)",
-      "author": "Serj Tankian",
-      "link": "https://bookshop.org/p/books/down-with-the-system-a-memoir-of-sorts-serj-tankian/20696252?ean=9780306831928",
-      "dateStarted": "2025-07-17T00:00:00Z",
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/tCtRHhss/tankian-down-with-the-system.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 424,
-      "pageCount": 598,
-      "progress": 71,
-      "sortOrder": 2490,
-      "status": {
-        "name": "Reading",
-        "colorCode": "#6a208f"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Biography / Memoir",
-          "colorCode": "rgb(68, 0, 214)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Audiobook",
-          "colorCode": "#b300b3"
-        }
-      ]
     }
   ],
   "completed": [
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 555,
+          "title": "Mistborn",
+          "subTitle": "",
+          "fullTitle": "Mistborn",
+          "author": "Brandon Sanderson",
+          "link": "https://bookshop.org/p/books/mistborn-the-final-empire-brandon-sanderson/15553866?ean=9781250318541\u0026next=t\u0026next=t",
+          "dateStarted": "2025-07-11T00:00:00Z",
+          "dateCompleted": "2025-07-24T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "This was my first Brandon Sanderson novel and I really enjoyed it. Good characters and a gripping story.",
+          "coverImageUrl": "https://i.postimg.cc/gj8n3fRc/sanderson-mistborn.jpg",
+          "isAtLibrary": true,
+          "isPurchased": true,
+          "currentPage": 534,
+          "pageCount": 534,
+          "progress": 100,
+          "sortOrder": 40,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": {
+            "name": "The Mistborn Saga",
+            "colorCode": "#0096ff"
+          },
+          "genres": [
+            {
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
+        },
+        {
+          "bookId": 13,
+          "title": "Down with the System",
+          "subTitle": "A Memoir (of Sorts)",
+          "fullTitle": "Down with the System: A Memoir (of Sorts)",
+          "author": "Serj Tankian",
+          "link": "https://bookshop.org/p/books/down-with-the-system-a-memoir-of-sorts-serj-tankian/20696252?ean=9780306831928",
+          "dateStarted": "2025-07-17T00:00:00Z",
+          "dateCompleted": "2025-07-23T00:00:00Z",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "An interesting look at the System of a Down\u0027s frontman. He talked about his music, his life, his Armenian heritage and political activism.",
+          "coverImageUrl": "https://i.postimg.cc/tCtRHhss/tankian-down-with-the-system.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 598,
+          "pageCount": 598,
+          "progress": 100,
+          "sortOrder": 2490,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Biography / Memoir",
+              "colorCode": "rgb(68, 0, 214)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Audiobook",
+              "colorCode": "#b300b3"
+            }
+          ]
+        },
         {
           "bookId": 584,
           "title": "Chokepoints",
@@ -13536,50 +13580,6 @@
     }
   ],
   "toRead": [
-    {
-      "bookId": 556,
-      "title": "The Well of Ascension",
-      "subTitle": "",
-      "fullTitle": "The Well of Ascension",
-      "author": "Brandon Sanderson",
-      "link": "https://bookshop.org/p/books/the-well-of-ascension-book-two-of-mistborn-brandon-sanderson/15509153?ean=9781250318572",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/26P1bz1X/sanderson-well-of-ascension.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 598,
-      "progress": 0,
-      "sortOrder": 50,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "The Mistborn Saga",
-        "colorCode": "#0096ff"
-      },
-      "genres": [
-        {
-          "name": "Fantasy",
-          "colorCode": "rgb(172, 152, 5)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
-        }
-      ]
-    },
     {
       "bookId": 557,
       "title": "The Hero of Ages",

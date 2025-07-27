@@ -1,5 +1,133 @@
 [
   {
+    "linkId": 981,
+    "title": "Marc Andreessen Is a Traitor",
+    "url": "https://www.liberalcurrents.com/marc-andreessen-is-a-traitor/",
+    "author": "Adam Gurri",
+    "linkDate": "2025-07-26T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 982,
+    "title": "WNBA Players Want To Share In The League\u2019s \u201CHypergrowth\u201D",
+    "url": "https://defector.com/wnba-players-want-to-share-in-the-leagues-hypergrowth",
+    "author": "Maitreyi Anantharaman",
+    "linkDate": "2025-07-26T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 979,
+    "title": "Why Your Team Sucks 2025: New York Giants",
+    "url": "https://defector.com/why-your-team-sucks-2025-new-york-giants",
+    "author": "Drew Magary",
+    "linkDate": "2025-07-25T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 980,
+    "title": "Why Your Team Sucks 2025: New England Patriots",
+    "url": "https://defector.com/why-your-team-sucks-2025-new-england-patriots",
+    "author": "Samer Kalaf",
+    "linkDate": "2025-07-25T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 976,
+    "title": "You can\u0027t outrun a bad diet. Food \u2014 not lack of exercise \u2014 fuels obesity, study finds",
+    "url": "https://text.npr.org/nx-s1-5477662",
+    "author": "Maria Godoy",
+    "linkDate": "2025-07-24T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Health \u0026 Fitness",
+      "colorCode": "#871c4a"
+    }
+  },
+  {
+    "linkId": 977,
+    "title": "Why Your Team Sucks 2025: Tennessee Titans",
+    "url": "https://defector.com/why-your-team-sucks-2025-tennessee-titans",
+    "author": "Drew Magary",
+    "linkDate": "2025-07-24T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 978,
+    "title": "Why Your Team Sucks 2025: Cleveland Browns",
+    "url": "https://defector.com/why-your-team-sucks-2025-cleveland-browns",
+    "author": "Drew Magary",
+    "linkDate": "2025-07-24T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 975,
+    "title": "NASA\u2019s X-59 Quiet Supersonic Aircraft Begins Taxi Tests",
+    "url": "https://www.nasa.gov/image-article/nasas-x-59-quiet-supersonic-aircraft-begins-taxi-tests/",
+    "author": "Nicolas Cholula",
+    "linkDate": "2025-07-22T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
     "linkId": 973,
     "title": "AI Snake Oil",
     "url": "https://podcast.techfreedom.org/episodes/385-ai-snake-oil",
