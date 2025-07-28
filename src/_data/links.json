@@ -1,5 +1,165 @@
 [
   {
+    "linkId": 992,
+    "title": "Why Your Team Sucks 2025: Jacksonville Jaguars",
+    "url": "https://defector.com/why-your-team-sucks-2025-jacksonville-jaguars",
+    "author": "Drew Magary",
+    "linkDate": "2025-07-28T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 983,
+    "title": "Expert Generalists",
+    "url": "https://martinfowler.com/articles/expert-generalist.html",
+    "author": "Unmesh Joshi, Gitanjali Venkatraman \u0026 Martin Fowler",
+    "linkDate": "2025-07-27T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 984,
+    "title": "F*ck Yeah, There\u0027s Still a Human in the Loop",
+    "url": "https://maho.dev/2025/07/fck-yeah-theres-still-a-human-in-the-loop/",
+    "author": "Maho Pacheco",
+    "linkDate": "2025-07-27T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 985,
+    "title": "The Decline of Stack Overflow: Where Are Developers Headed Next?",
+    "url": "https://webdesignerdepot.com/the-decline-of-stack-overflow-where-are-developers-headed-next/",
+    "author": "Alex Harper",
+    "linkDate": "2025-07-27T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 986,
+    "title": "AI is killing the web. Can anything save it?",
+    "url": "https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it?giftId=7c086761-05bf-4eba-aa32-4a238a611c31\u0026utm_campaign=gifted_article",
+    "author": "The Economist",
+    "linkDate": "2025-07-27T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 987,
+    "title": "The ISS is nearing retirement, so why is NASA still gung-ho about Starliner?",
+    "url": "https://arstechnica.com/space/2025/07/despite-chronic-letdowns-nasa-just-cant-quit-boeings-starliner/",
+    "author": "Stephen Clark",
+    "linkDate": "2025-07-27T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 988,
+    "title": "WebAssembly: Yes, but for What?",
+    "url": "https://queue.acm.org/detail.cfm?id=3746171",
+    "author": "Andy Wingo",
+    "linkDate": "2025-07-27T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 989,
+    "title": "So Microsoft Deleted Some of Our Packages From NuGet.org Without Notice",
+    "url": "https://aaronstannard.com/microsoft-delete-nuget-packages/",
+    "author": "Aaron Stannard",
+    "linkDate": "2025-07-27T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 990,
+    "title": "Why Women in Tech isn\u0027t enough",
+    "url": "https://whitep4nth3r.com/blog/why-women-in-tech-isnt-enough/",
+    "author": "Salma Alam-Naylor",
+    "linkDate": "2025-07-27T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 991,
+    "title": "To Combat Summer Reading Slumps, This Timeless Children\u2019s Television Show Tried to Bridge the Literacy Gap With the Magic of Stories",
+    "url": "https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/",
+    "author": "Kayla Randall",
+    "linkDate": "2025-07-27T00:00:00Z",
+    "readingLogIssueNumber": 133,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Media \u0026 Entertainment",
+      "colorCode": "#7949a8"
+    }
+  },
+  {
     "linkId": 981,
     "title": "Marc Andreessen Is a Traitor",
     "url": "https://www.liberalcurrents.com/marc-andreessen-is-a-traitor/",
