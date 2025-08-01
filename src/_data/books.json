@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/26P1bz1X/sanderson-well-of-ascension.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 73,
+      "currentPage": 202,
       "pageCount": 598,
-      "progress": 12,
+      "progress": 34,
       "sortOrder": 50,
       "status": {
         "name": "Reading",
@@ -23075,6 +23075,42 @@
         {
           "name": "Technology",
           "colorCode": "rgb(55, 78, 146)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 607,
+      "title": "The Wealth Ladder",
+      "subTitle": "Proven Strategies for Every Step of Your Financial Life",
+      "fullTitle": "The Wealth Ladder: Proven Strategies for Every Step of Your Financial Life",
+      "author": "Nick Maggiulli",
+      "link": "https://bookshop.org/p/books/the-wealth-ladder-proven-strategies-for-every-step-of-your-financial-life-nick-maggiulli/tcem6pxCq8TGG3XQ",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3050,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Personal Finance",
+          "colorCode": "#26a269"
         }
       ],
       "formats": []

@@ -1,5 +1,53 @@
 [
   {
+    "linkId": 995,
+    "title": "Curate your own newspaper with RSS",
+    "url": "https://www.citationneeded.news/curate-with-rss/",
+    "author": "Molly White",
+    "linkDate": "2025-08-01T00:00:00Z",
+    "readingLogIssueNumber": 134,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 994,
+    "title": "Artificial intelligentsia: an interview with the boss of Anthropic",
+    "url": "https://www.economist.com/podcasts/2025/07/31/artificial-intelligentsia-an-interview-with-the-boss-of-anthropic?giftId=c8678d96-4509-4f8e-8d66-d1748982e1a7\u0026utm_campaign=gifted_article",
+    "author": "The Economist: Money Talks Podcast",
+    "linkDate": "2025-07-31T00:00:00Z",
+    "readingLogIssueNumber": 134,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 993,
+    "title": "Why Your Team Sucks: Las Vegas Raiders",
+    "url": "https://defector.com/why-your-team-sucks-las-vegas-raiders",
+    "author": "Ray Ratto",
+    "linkDate": "2025-07-29T00:00:00Z",
+    "readingLogIssueNumber": 134,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
     "linkId": 992,
     "title": "Why Your Team Sucks 2025: Jacksonville Jaguars",
     "url": "https://defector.com/why-your-team-sucks-2025-jacksonville-jaguars",
