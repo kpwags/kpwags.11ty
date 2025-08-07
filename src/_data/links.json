@@ -1,5 +1,197 @@
 [
   {
+    "linkId": 1017,
+    "title": "Can we still trust the monthly jobs report? (Update)",
+    "url": "https://www.npr.org/2025/08/05/1256758542/bls-firing-economic-data-integrity-update",
+    "author": "The Indicator",
+    "linkDate": "2025-08-07T00:00:00Z",
+    "readingLogIssueNumber": 135,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1011,
+    "title": "What should a native DOM templating API look like?",
+    "url": "https://justinfagnani.com/2025/06/30/what-should-a-dom-templating-api-look-like/",
+    "author": "Justin Fagnani",
+    "linkDate": "2025-08-06T00:00:00Z",
+    "readingLogIssueNumber": 135,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1012,
+    "title": "Why Your Team Sucks 2025: San Francisco 49ers",
+    "url": "https://defector.com/why-your-team-sucks-2025-san-francisco-49ers",
+    "author": "Drew Magary",
+    "linkDate": "2025-08-06T00:00:00Z",
+    "readingLogIssueNumber": 135,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 1013,
+    "title": "Never Write Your Own Date Parsing Library",
+    "url": "https://www.zachleat.com/web/adventures-in-date-parsing/",
+    "author": "Zach Leatherman",
+    "linkDate": "2025-08-06T00:00:00Z",
+    "readingLogIssueNumber": 135,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1014,
+    "title": "Impact of AI on Tech Content Creators",
+    "url": "https://chriscoyier.net/2025/07/23/impact-of-ai-on-tech-content-creators/",
+    "author": "Chris Coyier",
+    "linkDate": "2025-08-06T00:00:00Z",
+    "readingLogIssueNumber": 135,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1015,
+    "title": "We migrated our site to Eleventy and increased performance by 24%",
+    "url": "https://etch.co/blog/we-migrated-our-site-to-eleventy-and-increased-performance-by-24-percent",
+    "author": "Dan Webb",
+    "linkDate": "2025-08-06T00:00:00Z",
+    "readingLogIssueNumber": 135,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1016,
+    "title": "Tailwind is the Worst of All Worlds",
+    "url": "https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/",
+    "author": "Colton Voege",
+    "linkDate": "2025-08-06T00:00:00Z",
+    "readingLogIssueNumber": 135,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1006,
+    "title": "Friction and not being touched",
+    "url": "https://tante.cc/2025/07/30/friction-and-not-being-touched/",
+    "author": "J\u00FCrgen Geuter",
+    "linkDate": "2025-08-05T00:00:00Z",
+    "readingLogIssueNumber": 135,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1007,
+    "title": "Why Your Team Sucks 2025: New York Jets",
+    "url": "https://defector.com/why-your-team-sucks-2025-new-york-jets",
+    "author": "Drew Magary",
+    "linkDate": "2025-08-05T00:00:00Z",
+    "readingLogIssueNumber": 135,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 1008,
+    "title": "Why Your Team Sucks 2025: Carolina Panthers",
+    "url": "https://defector.com/why-your-team-sucks-2025-carolina-panthers",
+    "author": "Tom Ley",
+    "linkDate": "2025-08-05T00:00:00Z",
+    "readingLogIssueNumber": 135,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 1009,
+    "title": "Why Your Team Sucks 2025: New Orleans Saints",
+    "url": "https://defector.com/why-your-team-sucks-2025-new-orleans-saints",
+    "author": "Drew Magary",
+    "linkDate": "2025-08-05T00:00:00Z",
+    "readingLogIssueNumber": 135,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 1010,
+    "title": "Why Your Team Sucks 2025: Chicago Bears",
+    "url": "https://defector.com/why-your-team-sucks-2025-chicago-bears",
+    "author": "Mike Tanier",
+    "linkDate": "2025-08-05T00:00:00Z",
+    "readingLogIssueNumber": 135,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
     "linkId": 1000,
     "title": "What happens once we spot the asteroid that will hit Earth?",
     "url": "https://on.ft.com/4kQipM6",
