@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/26P1bz1X/sanderson-well-of-ascension.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 309,
+      "currentPage": 367,
       "pageCount": 598,
-      "progress": 52,
+      "progress": 61,
       "sortOrder": 50,
       "status": {
         "name": "Reading",
@@ -41,6 +41,51 @@
         {
           "name": "Paperback",
           "colorCode": "#cd6a29"
+        }
+      ]
+    },
+    {
+      "bookId": 590,
+      "title": "A Physical Education",
+      "subTitle": "How I Escaped Diet Culture and Gained the Power of Lifting",
+      "fullTitle": "A Physical Education: How I Escaped Diet Culture and Gained the Power of Lifting",
+      "author": "Casey Johnston",
+      "link": "https://bookshop.org/p/books/the-heavy-lift-how-learning-to-lift-weights-helped-me-build-every-kind-of-strength-casey-johnston/21552643",
+      "dateStarted": "2025-08-07T00:00:00Z",
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/t7Gny3zg/johnston-a-physical-education.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 94,
+      "pageCount": 442,
+      "progress": 21,
+      "sortOrder": 2950,
+      "status": {
+        "name": "Reading",
+        "colorCode": "#6a208f"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Health \u0026 Fitness",
+          "colorCode": "#078309"
+        },
+        {
+          "name": "Philosophy",
+          "colorCode": "rgb(9, 58, 78)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Audiobook",
+          "colorCode": "#b300b3"
         }
       ]
     }
@@ -22815,46 +22860,6 @@
       "formats": []
     },
     {
-      "bookId": 590,
-      "title": "A Physical Education",
-      "subTitle": "How I Escaped Diet Culture and Gained the Power of Lifting",
-      "fullTitle": "A Physical Education: How I Escaped Diet Culture and Gained the Power of Lifting",
-      "author": "Casey Johnston",
-      "link": "https://bookshop.org/p/books/the-heavy-lift-how-learning-to-lift-weights-helped-me-build-every-kind-of-strength-casey-johnston/21552643",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 1,
-      "progress": 100,
-      "sortOrder": 2950,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Health \u0026 Fitness",
-          "colorCode": "#078309"
-        },
-        {
-          "name": "Philosophy",
-          "colorCode": "rgb(9, 58, 78)"
-        }
-      ],
-      "formats": []
-    },
-    {
       "bookId": 597,
       "title": "The Simple Path to Wealth",
       "subTitle": "",
@@ -23111,6 +23116,78 @@
         {
           "name": "Personal Finance",
           "colorCode": "#26a269"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 608,
+      "title": "Apple in China",
+      "subTitle": "The Capture of the World\u0027s Greatest Company",
+      "fullTitle": "Apple in China: The Capture of the World\u0027s Greatest Company",
+      "author": "Patrick McGee",
+      "link": "https://bookshop.org/p/books/apple-in-china-the-capture-of-the-world-s-greatest-company-patrick-mcgee/21872828",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3060,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Business \u0026 Economics",
+          "colorCode": "rgb(23, 126, 0)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 609,
+      "title": "Why Trust Matters",
+      "subTitle": "An Economist\u0027s Guide to the Ties That Bind Us",
+      "fullTitle": "Why Trust Matters: An Economist\u0027s Guide to the Ties That Bind Us",
+      "author": "Benjamin Ho",
+      "link": "https://bookshop.org/p/books/why-trust-matters-an-economist-s-guide-to-the-ties-that-bind-us/18393959",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3070,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Business \u0026 Economics",
+          "colorCode": "rgb(23, 126, 0)"
         }
       ],
       "formats": []
