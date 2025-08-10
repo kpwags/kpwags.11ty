@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 1021,
+    "title": "The Unseen Fury Of Solar Storms",
+    "url": "https://www.noemamag.com/the-unseen-fury-of-solar-storms",
+    "author": "Henry Wismayer",
+    "linkDate": "2025-08-08T00:00:00Z",
+    "readingLogIssueNumber": 135,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
     "linkId": 1017,
     "title": "Can we still trust the monthly jobs report? (Update)",
     "url": "https://www.npr.org/2025/08/05/1256758542/bls-firing-economic-data-integrity-update",
@@ -13,6 +29,54 @@
     "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1018,
+    "title": "All the concerns that make you a boring developer",
+    "url": "https://daverupert.com/2025/08/got-99-engineering-problems-but-a-grift-aint-one/",
+    "author": "Dave Rupert",
+    "linkDate": "2025-08-07T00:00:00Z",
+    "readingLogIssueNumber": 135,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1019,
+    "title": "The many tragedies of ending US aid",
+    "url": "https://timharford.com/2025/07/the-many-tragedies-of-ending-us-aid/",
+    "author": "Tim Harford",
+    "linkDate": "2025-08-07T00:00:00Z",
+    "readingLogIssueNumber": 135,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 1020,
+    "title": "Cursor makes developers less effective?",
+    "url": "https://blog.pragmaticengineer.com/cursor-makes-developers-less-effective/",
+    "author": "Gergely Orosz",
+    "linkDate": "2025-08-07T00:00:00Z",
+    "readingLogIssueNumber": 135,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
     }
   },
   {
