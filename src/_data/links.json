@@ -1,5 +1,53 @@
 [
   {
+    "linkId": 1023,
+    "title": "Why Your Team Sucks 2025: Dallas Cowboys",
+    "url": "https://defector.com/why-your-team-sucks-2025-dallas-cowboys",
+    "author": "Drew Magary",
+    "linkDate": "2025-08-11T00:00:00Z",
+    "readingLogIssueNumber": 136,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 1024,
+    "title": "Lifelogging under fascism",
+    "url": "https://werd.io/lifelogging-under-fascism/",
+    "author": "Ben Werdmuller",
+    "linkDate": "2025-08-11T00:00:00Z",
+    "readingLogIssueNumber": 136,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 1022,
+    "title": "James Lovell, the steady astronaut who brought Apollo 13 home safely, has died ",
+    "url": "https://arstechnica.com/space/2025/08/astronaut-james-lovell-famed-apollo-13-commander-dies-at-97/",
+    "author": "Robert Pearlman",
+    "linkDate": "2025-08-11T00:00:00Z",
+    "readingLogIssueNumber": 135,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
     "linkId": 1021,
     "title": "The Unseen Fury Of Solar Storms",
     "url": "https://www.noemamag.com/the-unseen-fury-of-solar-storms",
