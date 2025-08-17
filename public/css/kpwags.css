@@ -775,6 +775,27 @@ article.book-note pre code,
 	padding: 0;
 }
 
+article.post .dual-image {
+	display: flex;
+	gap: 32px;
+	margin-bottom: 32px;
+}
+
+article.post .dual-image p {
+	width: 50%;
+	margin: 0;
+}
+
+@media (max-width: 768px) {
+	article.post .dual-image {
+		flex-direction: column;
+	}
+
+	article.post .dual-image p {
+		width: 100%;
+	}
+}
+
 blockquote {
 	margin: 0;
 	border-left: 4px solid var(--primary-color-3);

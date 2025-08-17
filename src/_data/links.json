@@ -1,5 +1,149 @@
 [
   {
+    "linkId": 1033,
+    "title": "Why Your Team Sucks 2025: Seattle Seahawks",
+    "url": "https://defector.com/why-your-team-sucks-2025-seattle-seahawks",
+    "author": "Drew Magary",
+    "linkDate": "2025-08-15T00:00:00Z",
+    "readingLogIssueNumber": 136,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 1034,
+    "title": "The destruction of ESPN isn\u0027t ending with the NFL. It\u0027s beginning.",
+    "url": "https://www.sfgate.com/sports/article/destruction-espn-ending-nfl-beginning-20817470.php",
+    "author": "Drew Magary",
+    "linkDate": "2025-08-15T00:00:00Z",
+    "readingLogIssueNumber": 136,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 1035,
+    "title": "Why Your Team Sucks 2025: Tampa Bay Buccaneers",
+    "url": "https://defector.com/why-your-team-sucks-2025-tampa-bay-buccaneers",
+    "author": "Drew Magary",
+    "linkDate": "2025-08-15T00:00:00Z",
+    "readingLogIssueNumber": 136,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 1036,
+    "title": "Vibe code is legacy code",
+    "url": "https://blog.val.town/vibe-code",
+    "author": "Steve Krouse",
+    "linkDate": "2025-08-15T00:00:00Z",
+    "readingLogIssueNumber": 136,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1037,
+    "title": "Credit Card Companies Fielding A Ton Of Complaints Over NSFW Games Disappearing On Platforms",
+    "url": "https://www.techdirt.com/2025/07/31/credit-card-companies-fielding-a-ton-of-complaints-over-nsfw-games-disappearing-on-platforms/",
+    "author": "Timothy Geigner",
+    "linkDate": "2025-08-15T00:00:00Z",
+    "readingLogIssueNumber": 136,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 1038,
+    "title": "Rooftop Solar Is a Miracle. Why Are We Killing It With Red Tape?",
+    "url": "https://www.motherjones.com/environment/2025/07/rooftop-solar-grid-power-green-permits/",
+    "author": "Bill McKibben",
+    "linkDate": "2025-08-15T00:00:00Z",
+    "readingLogIssueNumber": 136,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Climate",
+      "colorCode": "#9a702d"
+    }
+  },
+  {
+    "linkId": 1039,
+    "title": "You can\u0027t fight enshittification",
+    "url": "https://pluralistic.net/2025/07/31/unsatisfying-answers/",
+    "author": "Cory Doctorow",
+    "linkDate": "2025-08-15T00:00:00Z",
+    "readingLogIssueNumber": 136,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 1040,
+    "title": "The Rule of Law Is Dead in the US",
+    "url": "https://www.thenation.com/article/politics/the-rule-of-law-is-dead-in-the-us/",
+    "author": "Elie Mystal",
+    "linkDate": "2025-08-15T00:00:00Z",
+    "readingLogIssueNumber": 136,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 1041,
+    "title": "The Economy? He died five years ago.",
+    "url": "https://daverupert.com/2025/08/the-economy-he-died-five-years-ago/",
+    "author": "Dave Rupert",
+    "linkDate": "2025-08-15T00:00:00Z",
+    "readingLogIssueNumber": 136,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
     "linkId": 1030,
     "title": "Why Trump\u0027s spending bill could close your grocery store",
     "url": "https://www.npr.org/2025/08/13/nx-s1-5500298/why-trumps-spending-bill-could-close-your-grocery-store",

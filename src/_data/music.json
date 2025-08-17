@@ -12942,6 +12942,81 @@
     ]
   },
   {
+    "musicAlbumId": 218,
+    "title": "Ricochet",
+    "artist": "Rise Against",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/mrrzGmjK/rise-against-ricochet.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      },
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Nod"
+      },
+      {
+        "trackNumber": 2,
+        "title": "I Want it All"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Ricochet"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Damage is Done"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Us Against the World"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Black Crown"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Sink Like a Stone"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Forty Days"
+      },
+      {
+        "trackNumber": 9,
+        "title": "State of Emergency"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Gold Long Gone"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Soldier"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Prizefighter"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 195,
     "title": "Wolves",
     "artist": "Rise Against",
