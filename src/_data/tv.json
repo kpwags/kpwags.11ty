@@ -900,8 +900,8 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/d3c9bpTK/strangenewworlds.jpg",
       "seasonEpisodeCount": 50,
-      "currentSeasonEpisode": 24,
-      "progress": 48,
+      "currentSeasonEpisode": 26,
+      "progress": 52,
       "sortOrder": null,
       "status": {
         "name": "Watching",
@@ -945,34 +945,6 @@
         {
           "name": "Paramount\u002B",
           "colorCode": "#037fb4"
-        }
-      ]
-    },
-    {
-      "televisionShowId": 107,
-      "title": "Star Wars: The Clone Wars",
-      "imdbLink": "https://www.imdb.com/title/tt0458290/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/bJgLRgsK/star-wars-clone-wars.jpg",
-      "seasonEpisodeCount": 133,
-      "currentSeasonEpisode": 129,
-      "progress": 97,
-      "sortOrder": null,
-      "status": {
-        "name": "Watching",
-        "colorCode": "#005c78"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#1b7016"
-        }
-      ],
-      "services": [
-        {
-          "name": "Disney\u002B",
-          "colorCode": "#df00de"
         }
       ]
     },
@@ -2077,6 +2049,34 @@
       },
       "genres": [],
       "services": []
+    },
+    {
+      "televisionShowId": 107,
+      "title": "Star Wars: The Clone Wars",
+      "imdbLink": "https://www.imdb.com/title/tt0458290/",
+      "rating": 4,
+      "thoughts": "I had put this off for too long. The series was fantastic, providing a lot of additional context and lore around the Jedi and Clone Wars in the Star Wars universe. It did make the fall of the Republic that much more sad.",
+      "coverImageUrl": "https://i.postimg.cc/bJgLRgsK/star-wars-clone-wars.jpg",
+      "seasonEpisodeCount": 133,
+      "currentSeasonEpisode": 133,
+      "progress": 100,
+      "sortOrder": null,
+      "status": {
+        "name": "Watched",
+        "colorCode": "#343aa8"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "#1b7016"
+        }
+      ],
+      "services": [
+        {
+          "name": "Disney\u002B",
+          "colorCode": "#df00de"
+        }
+      ]
     },
     {
       "televisionShowId": 97,
