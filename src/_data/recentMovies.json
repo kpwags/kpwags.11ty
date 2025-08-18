@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "movieId": 179,
+    "title": "Star Wars: The Clone Wars",
+    "imdbLink": "https://www.imdb.com/title/tt1185834/",
+    "dateWatched": "2025-08-17T00:00:00Z",
+    "sortOrder": null,
+    "rating": 3,
+    "thoughts": "I wish I had known to watch this prior to the TV series. It introduced several of the characters we grow to love in the TV series. The story itself felt like it dragged on a bit longer than it needed to.",
+    "posterImageUrl": "https://i.postimg.cc/hvtxwKZd/star-wars-clone-wars.jpg",
+    "status": {
+      "name": "Watched",
+      "colorCode": "#2a9a39"
+    },
+    "genres": [
+      {
+        "name": "Science Fiction",
+        "colorCode": "#1b7016"
+      }
+    ],
+    "services": [
+      {
+        "name": "Disney\u002B",
+        "colorCode": "#df00de"
+      }
+    ]
+  }
+]
