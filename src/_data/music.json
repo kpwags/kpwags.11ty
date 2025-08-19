@@ -6343,6 +6343,81 @@
     ]
   },
   {
+    "musicAlbumId": 219,
+    "title": "Motel Du Cap",
+    "artist": "Good Charlotte",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/mrpFHYpv/good-charlotte-motel-du-cap.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Pop Punk",
+        "colorCode": "rgb(32, 92, 9)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Check in at Motel Du Cap"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Rejects"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Stepper"
+      },
+      {
+        "trackNumber": 4,
+        "title": "I Don\u0027t Work Here Anymore"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Life is Great (feat. Wiz Khalifa)"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Pink Guitar (feat. Zeph)"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Deserve You (feat. Luke Borchelt)"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Mean"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Bodies"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Vertigo (feat. Petti Hendrix)"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The Dress Rehearsal"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Castle in the Sand"
+      },
+      {
+        "trackNumber": 13,
+        "title": "GC FOREVER"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 9,
     "title": "Summertime Dream",
     "artist": "Gordon Lightfoot",
@@ -14644,7 +14719,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/wjVKL3bW/volbeat-beyond-hell-above-heaven.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Metal",
@@ -14786,7 +14861,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/Pqrg4hgd/volbeat-guitar-gangsters.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Metal",
@@ -14865,7 +14940,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/QM4RYwD1/volbeat-seal-the-deal.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Metal",
@@ -14940,7 +15015,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/TwBBfbpP/volbeat-servant-of-the-mind.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Metal",
