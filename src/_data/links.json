@@ -1,5 +1,85 @@
 [
   {
+    "linkId": 1058,
+    "title": "Why semantic HTML still matters",
+    "url": "https://www.jonoalderson.com/conjecture/why-semantic-html-still-matters/",
+    "author": "Jono Alderson",
+    "linkDate": "2025-08-22T00:00:00Z",
+    "readingLogIssueNumber": 137,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1054,
+    "title": "How an NYC Suburb Is Actually Managing to Bring Rents Down",
+    "url": "https://www.wsj.com/real-estate/nyc-new-rochelle-lower-rent-e7695ded?st=pQZJXF\u0026reflink=desktopwebshare_permalink",
+    "author": "Rebecca Picciotto",
+    "linkDate": "2025-08-21T00:00:00Z",
+    "readingLogIssueNumber": 137,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Economics",
+      "colorCode": "#4f7a28"
+    }
+  },
+  {
+    "linkId": 1055,
+    "title": "Take Back Our Digital Infrastructure To Save Democracy",
+    "url": "https://www.techdirt.com/2025/08/05/take-back-our-digital-infrastructure-to-save-democracy/",
+    "author": "Mike Masnick",
+    "linkDate": "2025-08-21T00:00:00Z",
+    "readingLogIssueNumber": 137,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 1056,
+    "title": "Another Horror Story Leaks Out From Trump\u2019s Favorite Deportation Hellhole",
+    "url": "https://www.techdirt.com/2025/08/05/another-horror-story-leaks-out-from-trumps-favorite-deportation-hellhole/",
+    "author": "Tim Cushing",
+    "linkDate": "2025-08-21T00:00:00Z",
+    "readingLogIssueNumber": 137,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 1057,
+    "title": "Perplexity Doesn\u2019t Give a Shit About Consent",
+    "url": "https://rknight.me/blog/perplexity-doesnt-give-a-shit-about-consent/",
+    "author": "Robb Knight",
+    "linkDate": "2025-08-21T00:00:00Z",
+    "readingLogIssueNumber": 137,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
     "linkId": 1042,
     "title": "A Few Things About the Anchor Element\u2019s href You Might Not Have Known",
     "url": "https://blog.jim-nielsen.com/2025/href-value-possibilities/",
