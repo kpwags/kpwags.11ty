@@ -1,9 +1,73 @@
 [
   {
+    "linkId": 1061,
+    "title": "What We Lost with PHP and jQuery",
+    "url": "https://idiallo.com/blog/what-we-lost-with-php-and-jquery",
+    "author": "Ibrahim Diallo",
+    "linkDate": "2025-08-23T00:00:00Z",
+    "readingLogIssueNumber": 137,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1062,
+    "title": "Sit On Your Ass Web Development",
+    "url": "https://blog.jim-nielsen.com/2025/sit-on-your-ass-web-dev/",
+    "author": "Jim Nielsen",
+    "linkDate": "2025-08-23T00:00:00Z",
+    "readingLogIssueNumber": 137,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 1058,
     "title": "Why semantic HTML still matters",
     "url": "https://www.jonoalderson.com/conjecture/why-semantic-html-still-matters/",
     "author": "Jono Alderson",
+    "linkDate": "2025-08-22T00:00:00Z",
+    "readingLogIssueNumber": 137,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1059,
+    "title": "HTML is Dead, Long Live HTML",
+    "url": "https://acko.net/blog/html-is-dead-long-live-html/",
+    "author": "Steven Wittens",
+    "linkDate": "2025-08-22T00:00:00Z",
+    "readingLogIssueNumber": 137,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1060,
+    "title": "This website is for humans",
+    "url": "https://localghost.dev/blog/this-website-is-for-humans/",
+    "author": "Sophie Koonin",
     "linkDate": "2025-08-22T00:00:00Z",
     "readingLogIssueNumber": 137,
     "type": {

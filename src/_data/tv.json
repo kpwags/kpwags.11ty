@@ -865,6 +865,34 @@
       ]
     },
     {
+      "televisionShowId": 108,
+      "title": "CSI: Crime Scene Investigation",
+      "imdbLink": "https://www.imdb.com/title/tt0247082/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/DyGvGpZD/csi.jpg",
+      "seasonEpisodeCount": 335,
+      "currentSeasonEpisode": 2,
+      "progress": 1,
+      "sortOrder": null,
+      "status": {
+        "name": "Watching",
+        "colorCode": "#005c78"
+      },
+      "genres": [
+        {
+          "name": "Crime Procedural",
+          "colorCode": "#0f760a"
+        }
+      ],
+      "services": [
+        {
+          "name": "Paramount\u002B",
+          "colorCode": "#037fb4"
+        }
+      ]
+    },
+    {
       "televisionShowId": 16,
       "title": "Good Eats",
       "imdbLink": "https://www.imdb.com/title/tt0344651/",
