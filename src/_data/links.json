@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 1063,
+    "title": "Special Coverage from \u0022Marketplace\u0022: The Real Costs",
+    "url": "https://www.marketplace.org/episode/2025/08/24/special-coverage-from-marketplace-the-real-costs",
+    "author": "Kai Ryssdal",
+    "linkDate": "2025-08-25T00:00:00Z",
+    "readingLogIssueNumber": 137,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1064,
+    "title": "Buy discount Ozempic here now click this link",
+    "url": "https://www.npr.org/2025/08/22/nx-s1-5511707/ozempic-zepbound-wegovy-monjauro-knockoff-generics",
+    "author": "Planet Money",
+    "linkDate": "2025-08-25T00:00:00Z",
+    "readingLogIssueNumber": 137,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 1061,
     "title": "What We Lost with PHP and jQuery",
     "url": "https://idiallo.com/blog/what-we-lost-with-php-and-jquery",

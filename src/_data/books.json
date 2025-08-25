@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/QtBBdBdT/sanderson-hero-of-ages.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 360,
+      "currentPage": 413,
       "pageCount": 564,
-      "progress": 64,
+      "progress": 73,
       "sortOrder": 60,
       "status": {
         "name": "Reading",
@@ -59,9 +59,9 @@
       "coverImageUrl": "https://i.postimg.cc/Px0F1h5v/jason-schreier-play-nice.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 188,
+      "currentPage": 226,
       "pageCount": 557,
-      "progress": 34,
+      "progress": 41,
       "sortOrder": 3080,
       "status": {
         "name": "Reading",
@@ -13752,6 +13752,47 @@
   ],
   "toRead": [
     {
+      "bookId": 589,
+      "title": "Our Dollar, Your Problem",
+      "subTitle": "An Insider\u0027s View of Seven Turbulent Decades of Global Finance, and the Road Ahead",
+      "fullTitle": "Our Dollar, Your Problem: An Insider\u0027s View of Seven Turbulent Decades of Global Finance, and the Road Ahead",
+      "author": "Kenneth Rogoff",
+      "link": "https://bookshop.org/p/books/our-dollar-your-problem-an-insider-s-view-of-seven-turbulent-decades-of-global-finance-and-the-road-ahead/25272efc00984569",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 69,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Business \u0026 Economics",
+          "colorCode": "rgb(23, 126, 0)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
       "bookId": 558,
       "title": "Whisper Down the Lane",
       "subTitle": "",
@@ -22901,42 +22942,6 @@
         {
           "name": "History",
           "colorCode": "rgb(4, 38, 142)"
-        }
-      ],
-      "formats": []
-    },
-    {
-      "bookId": 589,
-      "title": "Our Dollar, Your Problem",
-      "subTitle": "An Insider\u0027s View of Seven Turbulent Decades of Global Finance, and the Road Ahead",
-      "fullTitle": "Our Dollar, Your Problem: An Insider\u0027s View of Seven Turbulent Decades of Global Finance, and the Road Ahead",
-      "author": "Kenneth Rogoff",
-      "link": "https://bookshop.org/p/books/our-dollar-your-problem-an-insider-s-view-of-seven-turbulent-decades-of-global-finance-and-the-road-ahead/25272efc00984569",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 1,
-      "progress": 100,
-      "sortOrder": 2940,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Business \u0026 Economics",
-          "colorCode": "rgb(23, 126, 0)"
         }
       ],
       "formats": []
