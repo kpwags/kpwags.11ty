@@ -1,68 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 557,
-      "title": "The Hero of Ages",
-      "subTitle": "",
-      "fullTitle": "The Hero of Ages",
-      "author": "Brandon Sanderson",
-      "link": "https://bookshop.org/p/books/the-well-of-ascension-book-two-of-mistborn-brandon-sanderson/15509153?ean=9781250318572",
-      "dateStarted": "2025-08-11T00:00:00Z",
+      "bookId": 589,
+      "title": "Our Dollar, Your Problem",
+      "subTitle": "An Insider\u0027s View of Seven Turbulent Decades of Global Finance, and the Road Ahead",
+      "fullTitle": "Our Dollar, Your Problem: An Insider\u0027s View of Seven Turbulent Decades of Global Finance, and the Road Ahead",
+      "author": "Kenneth Rogoff",
+      "link": "https://bookshop.org/p/books/our-dollar-your-problem-an-insider-s-view-of-seven-turbulent-decades-of-global-finance-and-the-road-ahead/25272efc00984569",
+      "dateStarted": "2025-08-28T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/QtBBdBdT/sanderson-hero-of-ages.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 489,
-      "pageCount": 564,
-      "progress": 87,
-      "sortOrder": 60,
-      "status": {
-        "name": "Reading",
-        "colorCode": "#6a208f"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "The Mistborn Saga",
-        "colorCode": "#0096ff"
-      },
-      "genres": [
-        {
-          "name": "Fantasy",
-          "colorCode": "rgb(172, 152, 5)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
-        }
-      ]
-    },
-    {
-      "bookId": 611,
-      "title": "Play Nice",
-      "subTitle": "The Rise, Fall, and Future of Blizzard Entertainment",
-      "fullTitle": "Play Nice: The Rise, Fall, and Future of Blizzard Entertainment",
-      "author": "Jason Schreier",
-      "link": "https://bookshop.org/p/books/play-nice-the-rise-fall-and-future-of-blizzard-entertainment-jason-schreier/21042587",
-      "dateStarted": "2025-08-23T00:00:00Z",
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/Px0F1h5v/jason-schreier-play-nice.jpg",
+      "coverImageUrl": "https://i.postimg.cc/2yMXvt0z/rogoff-our-dollar-your-problem.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 456,
-      "pageCount": 557,
-      "progress": 82,
-      "sortOrder": 3080,
+      "currentPage": 50,
+      "pageCount": 5557,
+      "progress": 1,
+      "sortOrder": 69,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -74,14 +30,14 @@
       "series": null,
       "genres": [
         {
-          "name": "Technology",
-          "colorCode": "rgb(55, 78, 146)"
+          "name": "Business \u0026 Economics",
+          "colorCode": "rgb(23, 126, 0)"
         }
       ],
       "formats": [
         {
-          "name": "Audiobook",
-          "colorCode": "#b300b3"
+          "name": "eBook",
+          "colorCode": "#2c5813"
         }
       ]
     }
@@ -90,6 +46,91 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 611,
+          "title": "Play Nice",
+          "subTitle": "The Rise, Fall, and Future of Blizzard Entertainment",
+          "fullTitle": "Play Nice: The Rise, Fall, and Future of Blizzard Entertainment",
+          "author": "Jason Schreier",
+          "link": "https://bookshop.org/p/books/play-nice-the-rise-fall-and-future-of-blizzard-entertainment-jason-schreier/21042587",
+          "dateStarted": "2025-08-23T00:00:00Z",
+          "dateCompleted": "2025-08-28T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "A good look back at the history of Blizzard as well as the struggles and trouble they got into. Made me reminisce about my time playing WoW.",
+          "coverImageUrl": "https://i.postimg.cc/Px0F1h5v/jason-schreier-play-nice.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 557,
+          "pageCount": 557,
+          "progress": 100,
+          "sortOrder": 3080,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Technology",
+              "colorCode": "rgb(55, 78, 146)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Audiobook",
+              "colorCode": "#b300b3"
+            }
+          ]
+        },
+        {
+          "bookId": 557,
+          "title": "The Hero of Ages",
+          "subTitle": "",
+          "fullTitle": "The Hero of Ages",
+          "author": "Brandon Sanderson",
+          "link": "https://bookshop.org/p/books/the-well-of-ascension-book-two-of-mistborn-brandon-sanderson/15509153?ean=9781250318572",
+          "dateStarted": "2025-08-11T00:00:00Z",
+          "dateCompleted": "2025-08-27T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "A good ending to a fantastic trilogy. Action, suspense, drama, and most importantly, a fitting conclusion.",
+          "coverImageUrl": "https://i.postimg.cc/QtBBdBdT/sanderson-hero-of-ages.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 564,
+          "pageCount": 564,
+          "progress": 100,
+          "sortOrder": 60,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": {
+            "name": "The Mistborn Saga",
+            "colorCode": "#0096ff"
+          },
+          "genres": [
+            {
+              "name": "Fantasy",
+              "colorCode": "rgb(172, 152, 5)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
+        },
         {
           "bookId": 610,
           "title": "Zen Mind, Beginner\u0027s Mind",
@@ -13752,47 +13793,6 @@
   ],
   "toRead": [
     {
-      "bookId": 589,
-      "title": "Our Dollar, Your Problem",
-      "subTitle": "An Insider\u0027s View of Seven Turbulent Decades of Global Finance, and the Road Ahead",
-      "fullTitle": "Our Dollar, Your Problem: An Insider\u0027s View of Seven Turbulent Decades of Global Finance, and the Road Ahead",
-      "author": "Kenneth Rogoff",
-      "link": "https://bookshop.org/p/books/our-dollar-your-problem-an-insider-s-view-of-seven-turbulent-decades-of-global-finance-and-the-road-ahead/25272efc00984569",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 1,
-      "progress": 100,
-      "sortOrder": 69,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Business \u0026 Economics",
-          "colorCode": "rgb(23, 126, 0)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "eBook",
-          "colorCode": "#2c5813"
-        }
-      ]
-    },
-    {
       "bookId": 558,
       "title": "Whisper Down the Lane",
       "subTitle": "",
@@ -23275,6 +23275,42 @@
         {
           "name": "Business \u0026 Economics",
           "colorCode": "rgb(23, 126, 0)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 612,
+      "title": "Salvagia",
+      "subTitle": "",
+      "fullTitle": "Salvagia",
+      "author": "Tim Chawaga",
+      "link": "https://bookshop.org/p/books/salvagia-tim-chawaga/22172540",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3080,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
         }
       ],
       "formats": []

@@ -40,6 +40,41 @@
       ]
     },
     {
+      "videoGameId": 30,
+      "title": "World of Warcraft",
+      "link": "https://worldofwarcraft.com/en-us/wowclassic",
+      "dateStarted": null,
+      "dateCompleted": "2023-05-29T00:00:00Z",
+      "rating": 4,
+      "thoughts": "I spent so much time on this in my mid 20s, and now in my late 30s, I\u0027m definitely enjoying it again",
+      "coverImageUrl": "https://i.postimg.cc/J72V36gV/wow-mop.jpg",
+      "sortOrder": null,
+      "status": {
+        "name": "In Progress",
+        "colorCode": "#d76c28"
+      },
+      "completion": {
+        "name": "N/A",
+        "colorCode": "#144d72"
+      },
+      "genres": [
+        {
+          "name": "MMO",
+          "colorCode": "#3f8398"
+        },
+        {
+          "name": "Role Playing Game",
+          "colorCode": "#a83ece"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PC",
+          "colorCode": "#4f1e57"
+        }
+      ]
+    },
+    {
       "videoGameId": 64,
       "title": "Clair Obscur: Expedition 33",
       "link": "https://www.expedition33.com/",
@@ -524,41 +559,6 @@
         {
           "name": "Xbox",
           "colorCode": "#1b903f"
-        }
-      ]
-    },
-    {
-      "videoGameId": 30,
-      "title": "WoW: Classic",
-      "link": "https://worldofwarcraft.com/en-us/wowclassic",
-      "dateStarted": null,
-      "dateCompleted": "2023-05-29T00:00:00Z",
-      "rating": 4,
-      "thoughts": "I spent so much time on this in my mid 20s, and now in my late 30s, I\u0027m definitely enjoying it again",
-      "coverImageUrl": "https://i.postimg.cc/wvzCWbwQ/cataclysm-classic.jpg",
-      "sortOrder": null,
-      "status": {
-        "name": "Completed",
-        "colorCode": "#08824e"
-      },
-      "completion": {
-        "name": "N/A",
-        "colorCode": "#144d72"
-      },
-      "genres": [
-        {
-          "name": "MMO",
-          "colorCode": "#3f8398"
-        },
-        {
-          "name": "Role Playing Game",
-          "colorCode": "#a83ece"
-        }
-      ],
-      "systems": [
-        {
-          "name": "PC",
-          "colorCode": "#4f1e57"
         }
       ]
     },

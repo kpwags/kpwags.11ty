@@ -1,5 +1,149 @@
 [
   {
+    "linkId": 1067,
+    "title": "Can Trump fire Fed Governor Lisa Cook?",
+    "url": "https://www.marketplace.org/story/2025/08/26/can-trump-fire-fed-governor-lisa-cook",
+    "author": "David Brancaccio \u0026 Ariana Rosas",
+    "linkDate": "2025-08-27T00:00:00Z",
+    "readingLogIssueNumber": 138,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 1068,
+    "title": "Trump Is Building His Own Paramilitary Force",
+    "url": "https://www.nytimes.com/2025/08/27/opinion/ezra-klein-podcast-radley-balko.html",
+    "author": "The Ezra Klein Podcast",
+    "linkDate": "2025-08-27T00:00:00Z",
+    "readingLogIssueNumber": 138,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1069,
+    "title": "Why Writing Matters (to the Technical Professional)",
+    "url": "https://blogs.newardassociates.com/blog/2025/why-writing-matters.html",
+    "author": "Ted Neward",
+    "linkDate": "2025-08-27T00:00:00Z",
+    "readingLogIssueNumber": 138,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1070,
+    "title": "The quest for the perfect progressively enhanced dropdown menu",
+    "url": "https://gomakethings.com/the-quest-for-the-perfect-progressively-enhanced-dropdown-menu/",
+    "author": "Chris Ferdinandi",
+    "linkDate": "2025-08-27T00:00:00Z",
+    "readingLogIssueNumber": 138,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1071,
+    "title": "Tyranny Is Managed Into Existence",
+    "url": "https://defector.com/tyranny-is-managed-into-existence",
+    "author": "Tom Scocca",
+    "linkDate": "2025-08-27T00:00:00Z",
+    "readingLogIssueNumber": 138,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 1072,
+    "title": "Goodbye, $165,000 Tech Jobs. Student Coders Seek Work at Chipotle.",
+    "url": "https://www.nytimes.com/2025/08/10/technology/coding-ai-jobs-students.html?unlocked_article_code=1.dk8.xLoS.P-Ia0YhlDIhX\u0026smid=url-share",
+    "author": "Natasha Singer",
+    "linkDate": "2025-08-27T00:00:00Z",
+    "readingLogIssueNumber": 138,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 1073,
+    "title": "Who\u0027s a blog for?",
+    "url": "https://cobb.land/posts/whos-a-blog-for/",
+    "author": "Cobb",
+    "linkDate": "2025-08-27T00:00:00Z",
+    "readingLogIssueNumber": 138,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1074,
+    "title": "Is It Still \u2018Trump Derangement Syndrome\u2019 If All The Predictions Were Accurate?",
+    "url": "https://www.techdirt.com/2025/08/12/is-it-still-trump-derangement-syndrome-if-all-the-predictions-were-accurate/",
+    "author": "Mike Brock",
+    "linkDate": "2025-08-27T00:00:00Z",
+    "readingLogIssueNumber": 138,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 1075,
+    "title": "5 Useful CSS functions using the new @function rule",
+    "url": "https://una.im/5-css-functions/",
+    "author": "Una Kravets",
+    "linkDate": "2025-08-27T00:00:00Z",
+    "readingLogIssueNumber": 138,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 1065,
     "title": "The Disappearing Islands",
     "url": "https://www.marketplace.org/episode/2024/10/02/the-disappearing-islands",
