@@ -127,6 +127,34 @@
       "services": []
     },
     {
+      "televisionShowId": 109,
+      "title": "The Americans",
+      "imdbLink": "https://www.imdb.com/title/tt2149175/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 74,
+      "currentSeasonEpisode": 1,
+      "progress": 1,
+      "sortOrder": null,
+      "status": {
+        "name": "Joint To-Watch",
+        "colorCode": "#803e13"
+      },
+      "genres": [
+        {
+          "name": "Drama",
+          "colorCode": "#481180"
+        }
+      ],
+      "services": [
+        {
+          "name": "Hulu",
+          "colorCode": "#1cb153"
+        }
+      ]
+    },
+    {
       "televisionShowId": 66,
       "title": "Succession",
       "imdbLink": "",
@@ -837,6 +865,38 @@
   ],
   "inProgress": [
     {
+      "televisionShowId": 110,
+      "title": "Abbott Elementary",
+      "imdbLink": "https://www.imdb.com/title/tt14218830/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/XNymgqnL/abbott-elementary.jpg",
+      "seasonEpisodeCount": 72,
+      "currentSeasonEpisode": 2,
+      "progress": 3,
+      "sortOrder": null,
+      "status": {
+        "name": "Watching",
+        "colorCode": "#005c78"
+      },
+      "genres": [
+        {
+          "name": "Comedy",
+          "colorCode": "#a60483"
+        }
+      ],
+      "services": [
+        {
+          "name": "Disney\u002B",
+          "colorCode": "#df00de"
+        },
+        {
+          "name": "Hulu",
+          "colorCode": "#1cb153"
+        }
+      ]
+    },
+    {
       "televisionShowId": 44,
       "title": "Anthony Bourdain: Parts Unknown",
       "imdbLink": "https://www.imdb.com/title/tt2845786/",
@@ -928,8 +988,8 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/d3c9bpTK/strangenewworlds.jpg",
       "seasonEpisodeCount": 50,
-      "currentSeasonEpisode": 26,
-      "progress": 52,
+      "currentSeasonEpisode": 28,
+      "progress": 56,
       "sortOrder": null,
       "status": {
         "name": "Watching",
