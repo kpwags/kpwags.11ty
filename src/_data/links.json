@@ -1,5 +1,69 @@
 [
   {
+    "linkId": 1080,
+    "title": "Building Modern and Scalable Applications with TanStack Router in React",
+    "url": "https://www.telerik.com/blogs/building-modern-scalable-applications-tanstack-router-react",
+    "author": "Christian Nwamba",
+    "linkDate": "2025-08-31T00:00:00Z",
+    "readingLogIssueNumber": 138,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1076,
+    "title": "Blacksky Demonstrates The Promise Of Open Social Media Protocols",
+    "url": "https://www.techdirt.com/2025/08/27/techdirt-podcast-episode-428-blacksky-demonstrates-the-promise-of-open-social-media-protocols/",
+    "author": "Techdirt Podcast",
+    "linkDate": "2025-08-29T00:00:00Z",
+    "readingLogIssueNumber": 138,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1077,
+    "title": "Mark Zandi",
+    "url": "https://www.bloomberg.com/news/audio/2025-08-29/bloomberg-masters-in-business-mark-zandi-podcast",
+    "author": "Masters in Business",
+    "linkDate": "2025-08-29T00:00:00Z",
+    "readingLogIssueNumber": 138,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1079,
+    "title": "Style your underlines",
+    "url": "https://adactio.com/journal/22084",
+    "author": "Jeremy Keith",
+    "linkDate": "2025-08-29T00:00:00Z",
+    "readingLogIssueNumber": 138,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 1067,
     "title": "Can Trump fire Fed Governor Lisa Cook?",
     "url": "https://www.marketplace.org/story/2025/08/26/can-trump-fire-fed-governor-lisa-cook",
