@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 1081,
+    "title": "Hackification",
+    "url": "https://paulkrugman.substack.com/p/hackification",
+    "author": "Paul Krugman",
+    "linkDate": "2025-09-02T00:00:00Z",
+    "readingLogIssueNumber": 139,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
     "linkId": 1080,
     "title": "Building Modern and Scalable Applications with TanStack Router in React",
     "url": "https://www.telerik.com/blogs/building-modern-scalable-applications-tanstack-router-react",
