@@ -1035,42 +1035,6 @@
           "colorCode": "#037fb4"
         }
       ]
-    },
-    {
-      "televisionShowId": 104,
-      "title": "Station Eleven",
-      "imdbLink": "https://www.imdb.com/title/tt10574236/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/0y3DtHbc/station-eleven.jpg",
-      "seasonEpisodeCount": 10,
-      "currentSeasonEpisode": 8,
-      "progress": 80,
-      "sortOrder": null,
-      "status": {
-        "name": "Watching",
-        "colorCode": "#005c78"
-      },
-      "genres": [
-        {
-          "name": "Drama",
-          "colorCode": "#481180"
-        },
-        {
-          "name": "Science Fiction",
-          "colorCode": "#1b7016"
-        }
-      ],
-      "services": [
-        {
-          "name": "HBO",
-          "colorCode": "#6a4bc9"
-        },
-        {
-          "name": "HBO",
-          "colorCode": "#6a4bc9"
-        }
-      ]
     }
   ],
   "betweenSeasons": [
@@ -2163,6 +2127,38 @@
         {
           "name": "Disney\u002B",
           "colorCode": "#df00de"
+        }
+      ]
+    },
+    {
+      "televisionShowId": 104,
+      "title": "Station Eleven",
+      "imdbLink": "https://www.imdb.com/title/tt10574236/",
+      "rating": 3,
+      "thoughts": "I read the book a while back and while I don\u0027t remember all of it, I feel like this show didn\u0027t quite match my expectations. It was still an artful piece.",
+      "coverImageUrl": "https://i.postimg.cc/0y3DtHbc/station-eleven.jpg",
+      "seasonEpisodeCount": 10,
+      "currentSeasonEpisode": 10,
+      "progress": 100,
+      "sortOrder": null,
+      "status": {
+        "name": "Watched",
+        "colorCode": "#343aa8"
+      },
+      "genres": [
+        {
+          "name": "Drama",
+          "colorCode": "#481180"
+        },
+        {
+          "name": "Science Fiction",
+          "colorCode": "#1b7016"
+        }
+      ],
+      "services": [
+        {
+          "name": "HBO",
+          "colorCode": "#6a4bc9"
         }
       ]
     },

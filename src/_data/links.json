@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 1082,
+    "title": "The million dollar mystery behind Milk.com",
+    "url": "https://www.npr.org/2025/09/03/nx-s1-5526903/domain-name-value-milk-dot-com",
+    "author": "Planet Money",
+    "linkDate": "2025-09-04T00:00:00Z",
+    "readingLogIssueNumber": 139,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 1081,
     "title": "Hackification",
     "url": "https://paulkrugman.substack.com/p/hackification",
