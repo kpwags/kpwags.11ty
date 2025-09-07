@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/2yMXvt0z/rogoff-our-dollar-your-problem.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 2587,
-      "pageCount": 5557,
-      "progress": 47,
+      "currentPage": 161,
+      "pageCount": 291,
+      "progress": 55,
       "sortOrder": 69,
       "status": {
         "name": "Reading",
@@ -36,8 +36,8 @@
       ],
       "formats": [
         {
-          "name": "eBook",
-          "colorCode": "#2c5813"
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
         }
       ]
     },
@@ -56,9 +56,9 @@
       "coverImageUrl": "https://i.postimg.cc/cC4mftT3/mcgee-apple-in-china.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 106,
+      "currentPage": 313,
       "pageCount": 813,
-      "progress": 13,
+      "progress": 38,
       "sortOrder": 69,
       "status": {
         "name": "Reading",
