@@ -1,5 +1,53 @@
 [
   {
+    "linkId": 1084,
+    "title": "Edward Fishman | Why the Dollar Is America\u2019s Most Potent Weapon",
+    "url": "https://www.jordanharbinger.com/edward-fishman-why-the-dollar-is-americas-most-potent-weapon/",
+    "author": "Jordan Harbinger Show",
+    "linkDate": "2025-09-08T00:00:00Z",
+    "readingLogIssueNumber": 139,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1085,
+    "title": "CSS-only scrollspy effect using scroll-marker-group and :target-current",
+    "url": "https://www.sarasoueidan.com/blog/css-scrollspy/",
+    "author": "Sara Soueidan",
+    "linkDate": "2025-09-08T00:00:00Z",
+    "readingLogIssueNumber": 139,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1083,
+    "title": "The Haidt of Hypocrisy",
+    "url": "https://podcast.ctrlaltspeech.com/2315966/episodes/17792429-the-haidt-of-hypocrisy",
+    "author": "Ctrl-Alt-Speech",
+    "linkDate": "2025-09-07T00:00:00Z",
+    "readingLogIssueNumber": 139,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 1082,
     "title": "The million dollar mystery behind Milk.com",
     "url": "https://www.npr.org/2025/09/03/nx-s1-5526903/domain-name-value-milk-dot-com",
