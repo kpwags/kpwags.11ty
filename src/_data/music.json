@@ -3017,7 +3017,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/y8RQwGB5/crossed-keys-believes-in-you.jpg",
     "isTopTen": false,
-    "showOnNowPage": false,
+    "showOnNowPage": true,
     "genres": [
       {
         "name": "Punk",
@@ -3070,6 +3070,104 @@
       {
         "trackNumber": 10,
         "title": "Who We Never Were"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 222,
+    "title": "I\u0027m Just Happy That You\u0027re Here",
+    "artist": "Crossed Keys",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/dtvQbKsj/crossed-keys-im-just-happy-that-youre-here.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "A Single Action"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Jeff Pelly vs. The Empire"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Vital Signs"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Daytime Television"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Eastbound to Frankford"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Notebooks"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 221,
+    "title": "Saviors",
+    "artist": "Crossed Keys",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/XY1VBGws/crossed-keys-savior.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Times of Grace"
+      },
+      {
+        "trackNumber": 2,
+        "title": "True to You"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Ray\u0027s Effect"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Everything Breaks"
+      },
+      {
+        "trackNumber": 5,
+        "title": "RJA"
+      },
+      {
+        "trackNumber": 6,
+        "title": "1212"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Saviors"
       }
     ]
   },
@@ -6412,7 +6510,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/mrpFHYpv/good-charlotte-motel-du-cap.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Pop Punk",
@@ -14677,6 +14775,148 @@
     ]
   },
   {
+    "musicAlbumId": 223,
+    "title": "Exile on Main Street",
+    "artist": "The Tisburys",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/Njjs07ry/tisburys-exile-on-main-street.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "The Tisburys (On Main Street)"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Second Sign ft. The Lunar Year"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Garden"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Ten Years On"
+      },
+      {
+        "trackNumber": 5,
+        "title": "When Love Knocks You Down"
+      },
+      {
+        "trackNumber": 6,
+        "title": "La Mancha"
+      },
+      {
+        "trackNumber": 7,
+        "title": "On the Run in Harmony, NJ"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Paulette"
+      },
+      {
+        "trackNumber": 9,
+        "title": "When a Switch Flips"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Language of Luxury"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Exile (On Main Street)"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 224,
+    "title": "A Still Life Revisited",
+    "artist": "The Tisburys",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/WbnpjftL/tisburys-a-still-life-revisited.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      },
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "By a Landslide"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Water in the Clouds"
+      },
+      {
+        "trackNumber": 3,
+        "title": "A Still Life Without You"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Forever"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Painted Eyes"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Elephant Hotel"
+      },
+      {
+        "trackNumber": 7,
+        "title": "The Anniversaries"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Wildfire"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Lost in the Electricity"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Here Comes the Lonesome Dove"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 111,
     "title": "The Best of Star Trek: 30th Anniversary Special",
     "artist": "Various Artists",
@@ -14861,7 +15101,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/xCXBw5j7/volbeat-god-of-angels-trust.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Metal",
@@ -15939,6 +16179,65 @@
       {
         "trackNumber": 8,
         "title": "The Ghosts of Right Now"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 225,
+    "title": "Burst \u0026 Decay (Volume III)",
+    "artist": "The Wonder Years",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/xqDcNkMk/wonder-years-burst-decay-iii.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Junebug"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Came Out Swinging"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Oldest Daughter"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Wyatt\u0027s Interlude"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Wyatt\u0027s Song"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Teenage Parents"
+      },
+      {
+        "trackNumber": 7,
+        "title": "I Don\u0027t Like Who I Was Then"
+      },
+      {
+        "trackNumber": 8,
+        "title": "The Ocean Grew Hands to Hold Me"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Doors I Painted Shut"
       }
     ]
   },
