@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 1089,
+    "title": "Apple in China",
+    "url": "https://pxlnv.com/blog/mcgee-apple-in-china/",
+    "author": "Nick Heer",
+    "linkDate": "2025-09-12T00:00:00Z",
+    "readingLogIssueNumber": 140,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 1088,
+    "title": "Why Your Team Sucks 2025: Denver Broncos",
+    "url": "https://defector.com/why-your-team-sucks-2025-denver-broncos",
+    "author": "Drew Magary",
+    "linkDate": "2025-09-11T00:00:00Z",
+    "readingLogIssueNumber": 140,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
     "linkId": 1086,
     "title": "\u0022The Double Tax\u0022 looks at the compounded costs Black women face in this economy",
     "url": "https://www.marketplace.org/story/2025/09/10/the-double-tax-explores-black-womens-economic-load",
@@ -13,6 +45,22 @@
     "category": {
       "name": "Economics",
       "colorCode": "#4f7a28"
+    }
+  },
+  {
+    "linkId": 1087,
+    "title": "Charlie Kirk Was Not Practicing Politics the Right Way",
+    "url": "https://www.404media.co/charlie-kirk-was-not-practicing-politics-the-right-way/",
+    "author": "Jason Koebler \u0026 Samantha Cole",
+    "linkDate": "2025-09-10T00:00:00Z",
+    "readingLogIssueNumber": 140,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
     }
   },
   {
