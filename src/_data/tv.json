@@ -872,8 +872,8 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/XNymgqnL/abbott-elementary.jpg",
       "seasonEpisodeCount": 72,
-      "currentSeasonEpisode": 18,
-      "progress": 25,
+      "currentSeasonEpisode": 24,
+      "progress": 33,
       "sortOrder": null,
       "status": {
         "name": "Watching",
@@ -932,7 +932,7 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/DyGvGpZD/csi.jpg",
       "seasonEpisodeCount": 335,
-      "currentSeasonEpisode": 13,
+      "currentSeasonEpisode": 14,
       "progress": 4,
       "sortOrder": null,
       "status": {
@@ -977,34 +977,6 @@
         {
           "name": "HBO",
           "colorCode": "#6a4bc9"
-        }
-      ]
-    },
-    {
-      "televisionShowId": 53,
-      "title": "Star Trek: Strange New Worlds",
-      "imdbLink": "https://www.imdb.com/title/tt12327578/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/d3c9bpTK/strangenewworlds.jpg",
-      "seasonEpisodeCount": 46,
-      "currentSeasonEpisode": 28,
-      "progress": 61,
-      "sortOrder": null,
-      "status": {
-        "name": "Watching",
-        "colorCode": "#005c78"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "#1b7016"
-        }
-      ],
-      "services": [
-        {
-          "name": "Paramount\u002B",
-          "colorCode": "#037fb4"
         }
       ]
     },
@@ -1219,6 +1191,34 @@
       },
       "genres": [],
       "services": []
+    },
+    {
+      "televisionShowId": 53,
+      "title": "Star Trek: Strange New Worlds",
+      "imdbLink": "https://www.imdb.com/title/tt12327578/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/d3c9bpTK/strangenewworlds.jpg",
+      "seasonEpisodeCount": 46,
+      "currentSeasonEpisode": 30,
+      "progress": 65,
+      "sortOrder": null,
+      "status": {
+        "name": "In Between Seasons",
+        "colorCode": "#901960"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "#1b7016"
+        }
+      ],
+      "services": [
+        {
+          "name": "Paramount\u002B",
+          "colorCode": "#037fb4"
+        }
+      ]
     },
     {
       "televisionShowId": 62,
