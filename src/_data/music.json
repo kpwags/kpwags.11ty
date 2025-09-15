@@ -1461,6 +1461,73 @@
     ]
   },
   {
+    "musicAlbumId": 226,
+    "title": "Prelude to a New Dream",
+    "artist": "Billy the Kid",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/43md7ZTj/billy-the-kid-prelude-to-a-new-dream.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "In the Wake of You"
+      },
+      {
+        "trackNumber": 2,
+        "title": "This is a Good Thing"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Know That I Tried"
+      },
+      {
+        "trackNumber": 4,
+        "title": "The King of Swords Reversed"
+      },
+      {
+        "trackNumber": 5,
+        "title": "When Did You Stop Trying"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Kiss Me One Las Time"
+      },
+      {
+        "trackNumber": 7,
+        "title": "I Thought You Said Forever"
+      },
+      {
+        "trackNumber": 8,
+        "title": "As Long as it Takes"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Say the Words Out Loud"
+      },
+      {
+        "trackNumber": 10,
+        "title": "You Used to Love Me"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The Day You Wake Up"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 161,
     "title": "Blink-182",
     "artist": "Blink-182",
