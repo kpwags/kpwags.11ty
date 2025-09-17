@@ -1,5 +1,85 @@
 [
   {
+    "linkId": 1103,
+    "title": "There\u2019s no such thing as a CSS reset",
+    "url": "https://aaadaaam.com/notes/useful-defaults/",
+    "author": "Adam Stoddard",
+    "linkDate": "2025-09-16T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1104,
+    "title": "Kobo-pilled",
+    "url": "https://aaadaaam.com/notes/kobo-pilled/",
+    "author": "Adam Stoddard",
+    "linkDate": "2025-09-16T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1105,
+    "title": "$2,000 Shipping: International Sellers Charge Absurd Prices to Avoid Dealing With American Tariffs",
+    "url": "https://www.404media.co/2-000-shipping-international-sellers-charge-absurd-prices-to-avoid-dealing-with-american-tariffs/",
+    "author": "Jason Koebler",
+    "linkDate": "2025-09-16T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 1106,
+    "title": "Earth\u2019s oldest crater found!",
+    "url": "https://badastronomy.beehiiv.com/p/earth-s-oldest-crater-found",
+    "author": "Philip Plait",
+    "linkDate": "2025-09-16T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Science",
+      "colorCode": "#732a45"
+    }
+  },
+  {
+    "linkId": 1107,
+    "title": "Many years on the job and I still don\u0027t get it",
+    "url": "https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/",
+    "author": "Dave Rupert",
+    "linkDate": "2025-09-16T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
     "linkId": 1092,
     "title": "Why Your Team Sucks 2025: Green Bay Packers",
     "url": "https://defector.com/why-your-team-sucks-2025-green-bay-packers",

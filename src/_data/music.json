@@ -1467,7 +1467,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/43md7ZTj/billy-the-kid-prelude-to-a-new-dream.jpg",
     "isTopTen": false,
-    "showOnNowPage": false,
+    "showOnNowPage": true,
     "genres": [
       {
         "name": "Alternative",
@@ -8944,8 +8944,8 @@
     ],
     "formats": [
       {
-        "name": "Vinyl",
-        "colorCode": "#a51643"
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
       }
     ],
     "tracks": [
@@ -10299,6 +10299,73 @@
     ]
   },
   {
+    "musicAlbumId": 231,
+    "title": "All A Man Should Do",
+    "artist": "Lucero",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/y81TPp7y/lucero-all-a-man-should-do.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Country",
+        "colorCode": "rgb(120, 74, 0)"
+      },
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Baby Don\u0027t You Want Me"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Went Looking for Warren Zevron\u0027s Los Angeles"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Man I Was"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Can\u0027t You Hear Them Howl"
+      },
+      {
+        "trackNumber": 5,
+        "title": "I Woke Up in New Orleans"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Throwback No. 2"
+      },
+      {
+        "trackNumber": 7,
+        "title": "They Called Her Killer"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Young Outlaws"
+      },
+      {
+        "trackNumber": 9,
+        "title": "I\u0027m in Love with a Girl"
+      },
+      {
+        "trackNumber": 10,
+        "title": "My Girl \u0026 Me in \u002793"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 94,
     "title": "Among the Ghosts",
     "artist": "Lucero",
@@ -10366,6 +10433,271 @@
     ]
   },
   {
+    "musicAlbumId": 229,
+    "title": "Lucero",
+    "artist": "Lucero",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/Gp9x0B8B/lucero-lucero.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Country",
+        "colorCode": "rgb(120, 74, 0)"
+      },
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Little Silver Heart"
+      },
+      {
+        "trackNumber": 2,
+        "title": "My Best Girl"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Wandering Star"
+      },
+      {
+        "trackNumber": 4,
+        "title": "A Dangerous Thing"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Drink \u0027Till We\u0027re Gone"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Raising Hell"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Banks of the Arkansas"
+      },
+      {
+        "trackNumber": 8,
+        "title": "All Sewn Up"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Wasted"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Hold Fast"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Better Than This"
+      },
+      {
+        "trackNumber": 12,
+        "title": "All These Love Songs"
+      },
+      {
+        "trackNumber": 13,
+        "title": "No Roses No More"
+      },
+      {
+        "trackNumber": 14,
+        "title": "It Gets the Worst at Night"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 232,
+    "title": "Lucero Unplugged",
+    "artist": "Lucero",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/W3km3Q7T/lucero-unplugged.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Country",
+        "colorCode": "rgb(120, 74, 0)"
+      },
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "In Lonesome Times"
+      },
+      {
+        "trackNumber": 2,
+        "title": "That Much Further West"
+      },
+      {
+        "trackNumber": 3,
+        "title": "When I Was Young"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Texas \u0026 Tennessee"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The Prayer"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Diamond State Heartbreak"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Sweet Little Thing"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Slow Dancing"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Among the Ghosts"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Buy a Little Time"
+      },
+      {
+        "trackNumber": 11,
+        "title": "When You Decided to Leave"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Tell Me What it Takes"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Hate \u0026 Jealousy"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Hello Sadness"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Darby\u0027s Song"
+      },
+      {
+        "trackNumber": 16,
+        "title": "It Gets the Worst at Night"
+      },
+      {
+        "trackNumber": 17,
+        "title": "My Best Girl"
+      },
+      {
+        "trackNumber": 18,
+        "title": "I Can\u0027t Stand to Leave You"
+      },
+      {
+        "trackNumber": 19,
+        "title": "Nights Like These"
+      },
+      {
+        "trackNumber": 20,
+        "title": "Tears Don\u0027t Matter Much"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 227,
+    "title": "Nobody\u0027s Darlings",
+    "artist": "Lucero",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/SxgftLsF/lucero-nobodys-darlings.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Country",
+        "colorCode": "rgb(120, 74, 0)"
+      },
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Watch It Burn"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Anjalee"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Bikeriders"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Sixteen"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Nobody\u0027s Darlings"
+      },
+      {
+        "trackNumber": 6,
+        "title": "And We Fall"
+      },
+      {
+        "trackNumber": 7,
+        "title": "California"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Noon as Dark as Midnight"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Hold Me Close"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Last Night in Town"
+      },
+      {
+        "trackNumber": 11,
+        "title": "All the Same to Me"
+      },
+      {
+        "trackNumber": 12,
+        "title": "The War"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 93,
     "title": "Should\u0027ve Learned By Now",
     "artist": "Lucero",
@@ -10429,6 +10761,160 @@
       {
         "trackNumber": 10,
         "title": "Time to Go Home"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 230,
+    "title": "Tennessee",
+    "artist": "Lucero",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/4Nb5pRR3/lucero-tennessee.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Country",
+        "colorCode": "rgb(120, 74, 0)"
+      },
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Sweet Little Thing"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Slow Dancing"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Nights Like These"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Ain\u0027t So Lonely"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Old Sad Songs"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Chain Link Fence"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Fistful of Tears"
+      },
+      {
+        "trackNumber": 8,
+        "title": "The Last Song"
+      },
+      {
+        "trackNumber": 9,
+        "title": "When You\u0027re Gone"
+      },
+      {
+        "trackNumber": 10,
+        "title": "I\u0027ll Just Fall"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Here at the Starlite"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Darby\u0027s Song"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Into Your Eyes"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 228,
+    "title": "That Much Further West",
+    "artist": "Lucero",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/VNTBzYnK/lucero-that-much-further-west.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Country",
+        "colorCode": "rgb(120, 74, 0)"
+      },
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "That Much Further West"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Mine Tonight"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Sad and Lonely"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Across the River"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The Only One"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Hate and Jealousy"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Joining the Army"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Tonight Ain\u0027t Gonna Be Good"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Tears Don\u0027t Matter Much"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Coming Home"
+      },
+      {
+        "trackNumber": 11,
+        "title": "When You Decided to Leave"
+      },
+      {
+        "trackNumber": 12,
+        "title": "That Much Further West (Demo)"
       }
     ]
   },
@@ -10763,8 +11249,8 @@
     ],
     "formats": [
       {
-        "name": "Vinyl",
-        "colorCode": "#a51643"
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
       }
     ],
     "tracks": [
@@ -13251,7 +13737,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/mrrzGmjK/rise-against-ricochet.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Punk",
