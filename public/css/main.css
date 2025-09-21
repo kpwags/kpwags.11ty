@@ -1084,6 +1084,12 @@ section.links .links-list li .category span.tag.type {
 	}
 }
 
+.post code {
+	font-size: 1rem;
+	background: var(--background-shaded);
+	padding: 4px;
+}
+
 .post pre {
 	padding: 16px;
 	border-radius: 6px;
@@ -1093,6 +1099,8 @@ section.links .links-list li .category span.tag.type {
 
 .post pre code {
 	font-size: 0.75rem;
+	padding: 0;
+	background: inherit;
 }
 
 .post div.code-block-filename {
@@ -1112,8 +1120,24 @@ section.links .links-list li .category span.tag.type {
 	border-top-left-radius: 0;
 }
 
-.post code {
-	font-size: 1rem;
-	background: var(--background-shaded);
-	padding: 4px;
+.blog-posts article,
+.reading-logs article,
+.week-notes article {
+	margin-bottom: 32px;
+}
+
+.blog-posts article h2,
+.reading-logs article h2,
+.week-notes article h2 {
+	margin: 0;
+	padding: 0;
+	font-size: 2rem;
+}
+
+.blog-posts article .metadata,
+.reading-logs article .metadata,
+.week-notes article .metadata {
+	text-transform: uppercase;
+	color: var(--meta);
+	margin: 4px 0 12px;
 }

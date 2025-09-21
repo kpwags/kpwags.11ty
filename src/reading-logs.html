@@ -3,18 +3,21 @@ layout: "layouts/layout.html"
 title: "Reading Logs"
 pagination:
     data: collections.readinglog
-    size: 25
+    size: 12
     reverse: true
 ---
 
 <h1>Reading Logs</h1>
 
 <section class="reading-logs">
-	<ul>
-		{% for readingLog in pagination.items %}
-			<li><a href="{{ readingLog.url }}">{{ readingLog.data.title }}</a></li>
-		{% endfor %}
-	</ul>
+	{% for post in pagination.items %}
+		<article>
+			<h2><a href="{{ post.url }}">{{ post.data.title | cleanTitle }}</a></h2>
+			<div class="metadata">{{ post.data.dateString }}</div>
+			<div class="excerpt">{{ post.data.page.excerpt | toHTML }}</div>
+		</article>
+		<hr />
+    {% endfor %}
 </section>
 
  <section class="pagination">

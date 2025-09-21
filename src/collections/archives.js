@@ -48,7 +48,7 @@ export const archives = (collection) => {
 		type: getPostType(e.data.tags),
 	}));
 
-	const sortedItems = items.toReversed();
+	const sortedItems = items.reverse();
 
 	const uniqueYears = getUniqueItems(items.map((i) => i.year));
 

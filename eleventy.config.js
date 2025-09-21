@@ -14,6 +14,7 @@ import { postsNoPolitics, notesNoPolitics, everythingNoPolitics } from './src/co
 import dateFilter from './src/filters/date-filter.js';
 import tagUrlFilter from './src/filters/tagurl-filter.js';
 import toHtmlFilter from './src/filters/tohtml-filter.js';
+import { cleanTitle } from './src/filters/cleanTitle.js';
 import readingTimeFilter from './src/filters/readingTime-filter.js';
 import { getDateString, getMonth, getYear } from './src/filters/archivesMonthYear-filter.js';
 import lengthFilter from './src/filters/length-filter.js';
@@ -32,7 +33,6 @@ import videoGameListingShortcode from './src/shortcodes/videoGameListing-shortco
 import bookListingShortcode from './src/shortcodes/bookListing-shortcode.js';
 import podcastListingShortcode from './src/shortcodes/podcastListing-shortcode.js';
 import progressBarShortcode from './src/shortcodes/progressBar-shortcode.js';
-import blogPostShortcode from './src/shortcodes/blogPost-shortcode.js';
 import bookNoteShortcode from './src/shortcodes/bookNote-shortcode.js';
 import noteListingShortcode from './src/shortcodes/noteListing-shortcode.js';
 import replyLinksShortcode from './src/shortcodes/replyLinks-shortcode.js';
@@ -81,6 +81,7 @@ export default function (eleventyConfig) {
     eleventyConfig.addFilter('domainFromUrl', domainFilter);
     eleventyConfig.addFilter('linkContent', linkContent);
     eleventyConfig.addFilter('linkMostRecentDate', linkMostRecentDate);
+    eleventyConfig.addFilter('cleanTitle', cleanTitle);
 
     eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
     eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);
@@ -96,7 +97,6 @@ export default function (eleventyConfig) {
     eleventyConfig.addShortcode('bookListing', bookListingShortcode);
     eleventyConfig.addShortcode('podcastListing', podcastListingShortcode);
     eleventyConfig.addShortcode('progressBar', progressBarShortcode);
-    eleventyConfig.addShortcode('blogPost', blogPostShortcode);
     eleventyConfig.addShortcode('bookNote', bookNoteShortcode);
     eleventyConfig.addShortcode('noteListing', noteListingShortcode);
     eleventyConfig.addShortcode('replyLinks', replyLinksShortcode);
