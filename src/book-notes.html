@@ -11,11 +11,23 @@ pagination:
 
 <p>This page goes along with my <a href="/bookshelf">bookshelf</a> to provide more in depth notes and reviews of books I've read.</p>
 
-{% for bookNote in pagination.items %}
-{% bookNote bookNote %}
-{% endfor %}
+<section class="book-notes">
+	{% for bookNote in pagination.items %}
+		<article>
+			<div class="content">
+				<div class="image">
+					<img src="{{ bookNote.data.coverImage }}" alt="{{ bookNote.data.author }} - {{ bookNote.data.fullTitle }}" />
+				</div>
+				<div class="info">
+					<h2><a href="{{ bookNote.url }}">{{ bookNote.data.fullTitle }}</a></h2>
+					<div class="author">by {{ bookNote.data.author }}</div>
+				</div>
+			</div>
+		</article>
+	{% endfor %}
+</section>
 
 <section class="pagination">
-		{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Posts</a>{% endif %}
-		{% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Posts &rightarrow;</a>{% endif %}
+	{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Book Notes</a>{% endif %}
+	{% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Book Notes &rightarrow;</a>{% endif %}
 </section>

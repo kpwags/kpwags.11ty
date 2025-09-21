@@ -1,5 +1,8 @@
-import { getBlogPosts } from '../lib/CollectionHelpers.js';
+import { blogPosts } from './blogPosts.js';
 
-const publicPosts = (collection) => getBlogPosts(collection, false);
+const publicPosts = (collection) => blogPosts(collection, {
+	includeRssOnly: false,
+	includePolitics: true,
+});
 
 export default publicPosts;

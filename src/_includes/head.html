@@ -1,5 +1,5 @@
 <meta charset="utf-8" />
-<meta name="theme-color" content="#187c3d" />
+<meta name="theme-color" content="oklch(0.4102 0.238 264.68)" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <meta name="generator" content="{{ eleventy.generator }}">
 <meta property="og:image" content="https://kpwags.com/img/featureimage.jpg" />
@@ -12,7 +12,7 @@
 <link rel="stylesheet" type="text/css" href="/css/reset.css" />
 <link rel="stylesheet" type="text/css" href="/css/fonts.css" />
 <link rel="stylesheet" type="text/css" href="/css/variables.css" />
-<link rel="stylesheet" type="text/css" href="/css/kpwags.css" />
+<link rel="stylesheet" type="text/css" href="/css/main.css" />
 
 <link rel="alternate" href="/rss/atom.xml" type="application/atom+xml" title="Keith Wagner (Atom)" />
 <link rel="alternate" href="/rss/feed.xml" type="application/rss+xml" title="Keith Wagner (RSS)" />
@@ -37,87 +37,61 @@
 <link rel="alternate" href="/rss/links_atom.xml" type="application/atom+xml" title="Links (Atom)" />
 <link rel="alternate" href="/rss/links_feed.xml" type="application/rss+xml" title="Links (RSS)" />
 <link rel="alternate" href="/rss/links_feed.json" type="application/activitystream+json" title="Links (JSON)" />
+
+<script href="/scripts/main.js"></script>
 <noscript>
 	<noscript>
 		<style type="text/css">
 			.view-thoughts,
 			.theme-control,
-			section.filters {
+			section.filters,
+			section.filter {
 				display: none;
 			}
 		</style>
 	</noscript>
 </noscript>
+
 <script>
-	function getStorageItem(key, defaultValue = null) {
-		try {
-			if (typeof window !== 'undefined') {
-				const value = window.localStorage.getItem(key);
+	function isDarkMode() {
+		const prefferredMode = window.matchMedia('(prefers-color-scheme: dark)');
 
-				return value || defaultValue;
-			}
-		} catch {
-			return defaultValue;
+		if (prefferredMode.matches) {
+			return true;
 		}
+
+		return false;
 	}
 
-	function setStorageItem(key, value) {
-		try {
-			if (typeof window !== 'undefined') {
-				window.localStorage.setItem(key, value);
+	function setBrowserThemeColor() {
+		const theme = window.localStorage.getItem('data-theme');
+
+		let color = isDarkMode()
+			? 'oklch(0.6811 0.168 261.68)'
+			: 'oklch(0.4102 0.238 264.68)';
+
+		if (theme) {
+			switch (theme) {
+				case 'light':
+					color = 'oklch(0.4102 0.238 264.68)';
+					break;
+				case 'dark':
+					color: 'oklch(0.6811 0.168 261.68)'
+					break;
+				case 'nord':
+					color: 'oklch(0.5466 0.1087 320.87)';
+					break;
+				default:
+					break;
 			}
-		} catch { /* don't really care */ }
-	}
-
-	function removeStorageItem(key) {
-		try {
-			if (typeof window !== 'undefined') {
-				window.localStorage.removeItem(key);
-			}
-		} catch { /* don't really care */ }
-	}
-
-	function getCurrentTheme() {
-		const mode = getStorageItem('theme_mode', 'system');
-		const color = getStorageItem('theme_color', 'green');
-
-		return [mode, color];
-	}
-
-	function getColorHexCode(color) {
-		switch (color) {
-			case 'blue':
-				return '#007bdc';
-			case 'purple':
-				return '#d431e0';
-			case 'orange':
-				return '#d27519';
-			case 'red':
-				return '#ff0122';
-			case 'green':
-			default:
-				return '#1d7038';
 		}
+
+		document
+			.querySelector('meta[name="theme-color"]')
+			?.setAttribute('content', color);
 	}
 
 	addEventListener('DOMContentLoaded', (event) => {
-		const [mode, color] = getCurrentTheme();
-
-		if (mode !== 'system') {
-			document.documentElement.setAttribute('data-theme', mode);
-		} else {
-			document.documentElement.setAttribute('data-theme', getPreferredColorMode());
-		}
-
-		document.documentElement.setAttribute('data-color-theme', color);
-
-		const themeElement = document.querySelector('meta[name="theme-color"]');
-		if (themeElement) {
-			themeElement.setAttribute('content', getColorHexCode(color));
-		}
-
-		document.colorsForm.colorTheme.value = color;
-		document.modeForm.selectedMode.value = mode;
+		setBrowserThemeColor();
 	});
 </script>
-<script src="/scripts/theming.js" defer></script>

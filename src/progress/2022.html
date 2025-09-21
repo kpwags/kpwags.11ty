@@ -1,69 +1,83 @@
 ---
 layout: "layouts/layout.html"
-title: "2022 Goals Progress"
+title: "2022 Aspirations Progress"
 ---
 
-<h1>2022 Goal Progress</h1>
+<h1>2022 Aspirations Progress</h1>
 
-<p>I figured it would be a nice idea to create a page to show my progress on my goals for 2022.</p>
+<section class="added-bottom-margin">
+	<p>How I did on achieving my aspirations for 2022.</p>
 
-<p><em>Last Updated: December 31, 2022</em></p>
+	<p><em>Last Updated: December 31, 2022</em></p>
 
-<div class="aspiration">
-	<h2>Goal #1: Running and Biking More</h2>
-	<p>My goal for 2022 is 400 miles running and 500 miles biking.</p>
+	<div class="aspiration">
+		<h2>Goal #1: Running and Biking More</h2>
+		<p>My goal for 2022 is 400 miles running and 500 miles biking.</p>
 
-	<h3>Running</h3>
-	{% progressBar "hsl(240, 74%, 52%)" 374.83 400 %}
+		<h3>Running</h3>
+		{% progressBar "hsl(240, 74%, 52%)" 374.83 400 %}
 
-	<h3>Biking</h3>
-	{% progressBar "hsl(167, 100%, 37%)" 8.9 500 %}
-</div>
+		<h3>Biking</h3>
+		{% progressBar "hsl(167, 100%, 37%)" 8.9 500 %}
+	</div>
 
-<div class="aspiration">
-	<h2>Goal #2: Bench Press, Squat & Deadlift PRs</h2>
-	<p>My goal for 2022 is to hit a 400 lbs. Deadlift, 350 lbs. Squat, &amp; 250 lbs. Bench Press. Despite how close I am,
-		it still feels pretty far...</p>
+	<hr />
 
-	<h3>Deadlift Max</h3>
-	{% progressBar "hsl(150, 96%, 29%)" 385 400 %}
+	<div class="aspiration">
+		<h2>Goal #2: Bench Press, Squat & Deadlift PRs</h2>
+		<p>My goal for 2022 is to hit a 400 lbs. Deadlift, 350 lbs. Squat, &amp; 250 lbs. Bench Press. Despite how close I am,
+			it still feels pretty far...</p>
 
-	<h3>Squat Max</h3>
-	{% progressBar "hsl(19, 100%, 37%)" 350 365 %}
+		<h3>Deadlift Max</h3>
+		{% progressBar "hsl(150, 96%, 29%)" 385 400 %}
 
-	<h3>Bench Press Max</h3>
-	{% progressBar "hsl(229, 81%, 35%)" 235 250 %}
-</div>
+		<h3>Squat Max</h3>
+		{% progressBar "hsl(19, 100%, 37%)" 350 365 %}
 
-<div class="aspiration">
-	<h2>Goal #3: Max Out Retirement Contributions</h2>
-	<p>My goal for 2022 is to max out both my IRA &amp; my 401k.</p>
+		<h3>Bench Press Max</h3>
+		{% progressBar "hsl(229, 81%, 35%)" 235 250 %}
+	</div>
 
-	<h3>Total Contributions</h3>
-	{% progressBar "hsl(315, 88%, 51%)" 25841 26500 "percentage" "money" %}
+	<hr />
 
-	<h3>IRA Contributions</h3>
-	{% progressBar "hsl(194, 88%, 51%)" 6000 6000 "percentage" "money" %}
+	<div class="aspiration">
+		<h2>Goal #3: Max Out Retirement Contributions</h2>
+		<p>My goal for 2022 is to max out both my IRA &amp; my 401k.</p>
 
-	<h3>401k Contributions</h3>
-	{% progressBar "hsl(64, 85%, 35%)" 19841 20500 "percentage" "money" %}
-</div>
+		<h3>Total Contributions</h3>
+		{% progressBar "hsl(315, 88%, 51%)" 25841 26500 "percentage" "money" %}
 
-<div class="aspiration">
-	<h2>Goal #4: Read 30 Books</h2>
-	<p>My goal for 2022 is to read 30 books, with at least 15 being some form of non-fiction.</p>
+		<h3>IRA Contributions</h3>
+		{% progressBar "hsl(194, 88%, 51%)" 6000 6000 "percentage" "money" %}
 
-	<h3>Total Books Read</h3>
-	{% progressBar "hsl(271, 88%, 51%)" 20 30 %}
+		<h3>401k Contributions</h3>
+		{% progressBar "hsl(64, 85%, 35%)" 19841 20500 "percentage" "money" %}
+	</div>
 
-	<h3>Non-Fiction Books Read</h3>
-	{% progressBar "hsl(93, 87%, 39%)" 16 15 %}
-</div>
+	<hr />
 
-<div class="aspiration">
-	<h2>Goal #5: Write 10 Technical Blog Posts</h2>
-	<p>My goal for 2022 is to write 10 technical blog posts.</p>
+	<div class="aspiration">
+		<h2>Goal #4: Read 30 Books</h2>
+		<p>My goal for 2022 is to read 30 books, with at least 15 being some form of non-fiction.</p>
 
-	<h3>Technical Blog Posts Written</h3>
-	{% progressBar "hsl(24, 69%, 59%)" 7 10 %}
-</div>
+		<h3>Total Books Read</h3>
+		{% progressBar "hsl(271, 88%, 51%)" 20 30 %}
+
+		<h3>Non-Fiction Books Read</h3>
+		{% progressBar "hsl(93, 87%, 39%)" 16 15 %}
+	</div>
+
+	<hr />
+
+	<div class="aspiration">
+		<h2>Goal #5: Write 10 Technical Blog Posts</h2>
+		<p>My goal for 2022 is to write 10 technical blog posts.</p>
+
+		<h3>Technical Blog Posts Written</h3>
+		{% progressBar "hsl(24, 69%, 59%)" 7 10 %}
+	</div>
+
+	<hr />
+
+	<p>You can view my goals and aspirations for <a href="/progress/2023/">2023</a>, <a href="/progress/2024/">2024</a>, & <a href="/progress/2025/">2025</a> as well.</p>
+</section>

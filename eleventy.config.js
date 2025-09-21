@@ -5,7 +5,7 @@ import pluginWebc from '@11ty/eleventy-plugin-webc';
 import { EleventyRenderPlugin } from "@11ty/eleventy";
 
 import publicPosts from './src/collections/publicPosts.js';
-import { postsByMonthAndYear, postsByYear } from './src/collections/postsByDate.js';
+import { archives } from './src/collections/archives.js';
 import stats from './src/collections/stats.js';
 import everything from './src/collections/everything.js';
 import pinnedPosts from './src/collections/pinnedPosts.js';
@@ -19,7 +19,6 @@ import { getDateString, getMonth, getYear } from './src/filters/archivesMonthYea
 import lengthFilter from './src/filters/length-filter.js';
 import { bookNoteTitlePrefix } from './src/filters/rssPrefixes-filter.js';
 import domainFilter from './src/filters/domain-filter.js';
-import postTitle from './src/filters/postTitle-filter.js';
 import { linkContent, linkMostRecentDate } from './src/filters/link-filters.js';
 
 import inDepthShortcode from './src/shortcodes/inDepth-shortcode.js';
@@ -37,6 +36,7 @@ import blogPostShortcode from './src/shortcodes/blogPost-shortcode.js';
 import bookNoteShortcode from './src/shortcodes/bookNote-shortcode.js';
 import noteListingShortcode from './src/shortcodes/noteListing-shortcode.js';
 import replyLinksShortcode from './src/shortcodes/replyLinks-shortcode.js';
+import postTitleShortcode from './src/shortcodes/postTitle-shortcode.js';
 
 export default function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy({
@@ -61,8 +61,7 @@ export default function (eleventyConfig) {
     });
 
     eleventyConfig.addCollection('publicPosts', publicPosts);
-    eleventyConfig.addCollection('postsByMonthAndYear', postsByMonthAndYear);
-    eleventyConfig.addCollection('postsByYear', postsByYear);
+    eleventyConfig.addCollection('archives', archives);
     eleventyConfig.addCollection('stats', stats);
     eleventyConfig.addCollection('everything', everything);
     eleventyConfig.addCollection('postsNoPolitics', postsNoPolitics);
@@ -80,7 +79,6 @@ export default function (eleventyConfig) {
     eleventyConfig.addFilter('archivesGetDateString', getDateString);
     eleventyConfig.addFilter('bookNoteTitlePrefix', bookNoteTitlePrefix);
     eleventyConfig.addFilter('domainFromUrl', domainFilter);
-    eleventyConfig.addFilter('postTitle', postTitle);
     eleventyConfig.addFilter('linkContent', linkContent);
     eleventyConfig.addFilter('linkMostRecentDate', linkMostRecentDate);
 
@@ -102,6 +100,7 @@ export default function (eleventyConfig) {
     eleventyConfig.addShortcode('bookNote', bookNoteShortcode);
     eleventyConfig.addShortcode('noteListing', noteListingShortcode);
     eleventyConfig.addShortcode('replyLinks', replyLinksShortcode);
+    eleventyConfig.addShortcode('postTitle', postTitleShortcode);
 
     return {
         templateFormats: [
