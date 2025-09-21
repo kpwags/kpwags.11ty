@@ -24,31 +24,5 @@
         "colorCode": "#df00de"
       }
     ]
-  },
-  {
-    "movieId": 180,
-    "title": "A Walk Among the Tombstones",
-    "imdbLink": "https://www.imdb.com/title/tt0365907/",
-    "dateWatched": "2025-08-22T00:00:00Z",
-    "sortOrder": null,
-    "rating": 3,
-    "thoughts": "An enjoyable detective-style thriller. Liam Neeson played the detective well.",
-    "posterImageUrl": "https://i.postimg.cc/v89TrKg9/walk-among-the-tombstones.jpg",
-    "status": {
-      "name": "Watched",
-      "colorCode": "#2a9a39"
-    },
-    "genres": [
-      {
-        "name": "Drama",
-        "colorCode": "#481180"
-      }
-    ],
-    "services": [
-      {
-        "name": "Paramount\u002B",
-        "colorCode": "#037fb4"
-      }
-    ]
   }
 ]

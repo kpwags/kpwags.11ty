@@ -1,5 +1,277 @@
 [
   {
+    "linkId": 1119,
+    "title": "New and Upcoming CSS Features I\u2019m Excited About",
+    "url": "https://www.simplethread.com/new-and-upcoming-css-features-i-m-excited-about/",
+    "author": "Quasar Wei",
+    "linkDate": "2025-09-21T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1120,
+    "title": "RFK Jr. Is Making His Bid To Become One Of American History\u0027s Biggest Killers",
+    "url": "https://defector.com/rfk-jr-is-making-his-bid-to-become-one-of-american-historys-biggest-killers",
+    "author": "Sabrina Imbler",
+    "linkDate": "2025-09-21T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Science",
+      "colorCode": "#732a45"
+    }
+  },
+  {
+    "linkId": 1121,
+    "title": "Everything I know about good API design",
+    "url": "https://www.seangoedecke.com/good-api-design/",
+    "author": "Sean Goedecke",
+    "linkDate": "2025-09-21T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1122,
+    "title": "The Software Engineers Paid to Fix Vibe Coded Messes",
+    "url": "https://www.404media.co/the-software-engineers-paid-to-fix-vibe-coded-messes/",
+    "author": "Emanuel Maiberg",
+    "linkDate": "2025-09-21T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1123,
+    "title": "How I Wish Web Components Worked",
+    "url": "https://andy-blum.com/articles/how-i-wish-web-components-worked/",
+    "author": "Andy Blum",
+    "linkDate": "2025-09-21T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1124,
+    "title": "Successive Prototypes Bridge the Gap Between Idea and Reality",
+    "url": "https://blog.jim-nielsen.com/2025/idea-to-reality-with-prototypes/",
+    "author": "Jim Nielsen",
+    "linkDate": "2025-09-21T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1116,
+    "title": "A Tiny Bit-O-CSS for Stable Scrollbar Gutters",
+    "url": "https://www.zachleat.com/web/stable-scrollbar-gutters/",
+    "author": "Zach Leatherman",
+    "linkDate": "2025-09-20T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1117,
+    "title": "Easy will always trump simple",
+    "url": "https://surfingcomplexity.blog/2025/08/17/easy-will-always-trump-simple/",
+    "author": "Lorin Hochstein",
+    "linkDate": "2025-09-20T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1118,
+    "title": "The Real Cost of Abstractions in .NET",
+    "url": "https://www.milanjovanovic.tech/blog/the-real-cost-of-abstractions-in-dotnet",
+    "author": "Milan Jovanovic",
+    "linkDate": "2025-09-20T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1112,
+    "title": "It\u0027s a Banned, Banned, Banned, Banned World",
+    "url": "https://podcast.ctrlaltspeech.com/2315966/episodes/17830537-it-s-a-banned-banned-banned-banned-world",
+    "author": "Ctrl-Alt-Speech",
+    "linkDate": "2025-09-19T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1113,
+    "title": "Whiskey, Security, Antitrust, and Fun with CSS Functions",
+    "url": "https://shoptalkshow.com/682/",
+    "author": "Shop Talk Show",
+    "linkDate": "2025-09-19T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1114,
+    "title": "RIP \u201CBrowsers\u201D",
+    "url": "https://blog.jim-nielsen.com/2025/rip-browsers/",
+    "author": "Jim Nielsen",
+    "linkDate": "2025-09-19T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 1115,
+    "title": "\u0022Best practice\u0022 is just your opinion",
+    "url": "https://craigabbott.co.uk/blog/best-practice-is-just-your-opinion/",
+    "author": "Craig Abbott",
+    "linkDate": "2025-09-19T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1108,
+    "title": "This website has no class",
+    "url": "https://aaadaaam.com/notes/no-class/",
+    "author": "Adam Stoddard",
+    "linkDate": "2025-09-18T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1109,
+    "title": "Why, as a responsible adult, SimCity 2000 hits differently",
+    "url": "https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/",
+    "author": "Kyle Orland",
+    "linkDate": "2025-09-18T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Gaming",
+      "colorCode": "#275576"
+    }
+  },
+  {
+    "linkId": 1110,
+    "title": "What\u0027s New in C# 14: Null-Conditional Assignments",
+    "url": "https://blog.ivankahl.com/csharp-14-null-conditional-assignments/",
+    "author": "Ivan Kahl",
+    "linkDate": "2025-09-18T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1111,
+    "title": "Why Make a Website in 2025?",
+    "url": "https://blog.jim-nielsen.com/2025/why-make-a-website-in-2025/",
+    "author": "Jim Nielsen",
+    "linkDate": "2025-09-18T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
     "linkId": 1103,
     "title": "There\u2019s no such thing as a CSS reset",
     "url": "https://aaadaaam.com/notes/useful-defaults/",

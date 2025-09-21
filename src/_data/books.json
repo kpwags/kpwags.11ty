@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/DzPwwtbr/wright-billion-dollar-whale.jpg",
       "isAtLibrary": false,
       "isPurchased": false,
-      "currentPage": 1793,
+      "currentPage": 3469,
       "pageCount": 4971,
-      "progress": 36,
+      "progress": 70,
       "sortOrder": 1340,
       "status": {
         "name": "Reading",
@@ -23336,6 +23336,222 @@
         {
           "name": "Business \u0026 Economics",
           "colorCode": "rgb(23, 126, 0)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 614,
+      "title": "The Motley Fool Investment Guide",
+      "subTitle": "How the Fools Beat Wall Street\u0027s Wise Men and How You Can Too",
+      "fullTitle": "The Motley Fool Investment Guide: How the Fools Beat Wall Street\u0027s Wise Men and How You Can Too",
+      "author": "Tom Gardner \u0026 David Gardner",
+      "link": "https://bookshop.org/p/books/the-motley-fool-investment-guide-third-edition-how-the-fools-beat-wall-street-s-wise-men-and-how-you-can-too-david-gardner/4a7039e0b18a4fbb",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3100,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Personal Finance",
+          "colorCode": "#26a269"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 615,
+      "title": "Motley Fool Million Dollar Portfolio",
+      "subTitle": "How to Build and Grow a Panic-Proof Investment Portfolio",
+      "fullTitle": "Motley Fool Million Dollar Portfolio: How to Build and Grow a Panic-Proof Investment Portfolio",
+      "author": "David Gardner \u0026 Tom Gardner",
+      "link": "https://bookshop.org/p/books/motley-fool-million-dollar-portfolio-how-to-build-and-grow-a-panic-proof-investment-portfolio-david-gardner/0c8d4c43cd6cde5d",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3120,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Personal Finance",
+          "colorCode": "#26a269"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 616,
+      "title": "Rule Breaker Investing",
+      "subTitle": "How to Pick the Best Stocks of the Future and Build Lasting Wealth",
+      "fullTitle": "Rule Breaker Investing: How to Pick the Best Stocks of the Future and Build Lasting Wealth",
+      "author": "David Gardner",
+      "link": "https://bookshop.org/p/books/rule-breaker-investing-how-to-pick-the-best-stocks-of-the-future-and-build-lasting-wealth-david-gardner/22111248",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3130,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Personal Finance",
+          "colorCode": "#26a269"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 617,
+      "title": "Automatic Noodle",
+      "subTitle": "",
+      "fullTitle": "Automatic Noodle",
+      "author": "Annalee Newitz",
+      "link": "https://bookshop.org/p/books/automatic-noodle-annalee-newitz/625018d0518991aa",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3140,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 618,
+      "title": "Stories Are Weapons",
+      "subTitle": "Psychological Warfare and the American Mind",
+      "fullTitle": "Stories Are Weapons: Psychological Warfare and the American Mind",
+      "author": "Annalee Newitz",
+      "link": "https://bookshop.org/p/books/stories-are-weapons-psychological-warfare-and-the-american-mind-annalee-newitz/5dadea9e83b77a8a",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3150,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Technology",
+          "colorCode": "rgb(55, 78, 146)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 619,
+      "title": "How Life Works",
+      "subTitle": "A User\u0027s Guide to the New Biology",
+      "fullTitle": "How Life Works: A User\u0027s Guide to the New Biology",
+      "author": "Philip Ball",
+      "link": "https://bookshop.org/p/books/how-life-works-a-user-s-guide-to-the-new-biology-philip-ball/c8cf3bef4bda20e3",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3160,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science",
+          "colorCode": "rgb(24, 90, 80)"
         }
       ],
       "formats": []
