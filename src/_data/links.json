@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 1125,
+    "title": "Jimmy Kimmel and America\u0027s Free-Speech Crisis",
+    "url": "https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2025/09/19/the-jimmy-kimmel-saga-and-americas-free-speech-crisis",
+    "author": "Plain English Podcast",
+    "linkDate": "2025-09-22T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 1119,
     "title": "New and Upcoming CSS Features I\u2019m Excited About",
     "url": "https://www.simplethread.com/new-and-upcoming-css-features-i-m-excited-about/",

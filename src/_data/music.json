@@ -1279,6 +1279,73 @@
     ]
   },
   {
+    "musicAlbumId": 233,
+    "title": "In the Heart of the Mountain",
+    "artist": "Ben Nichols",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/X7DmNMbn/nichols-in-the-heart-of-the-mountain.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "In the Heart of the Mountain"
+      },
+      {
+        "trackNumber": 2,
+        "title": "The Darkness Sings"
+      },
+      {
+        "trackNumber": 3,
+        "title": "A Bleak Overture"
+      },
+      {
+        "trackNumber": 4,
+        "title": "From a Western or a War Movie"
+      },
+      {
+        "trackNumber": 5,
+        "title": "While the Stars Disappear"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Fading Back into the Night"
+      },
+      {
+        "trackNumber": 7,
+        "title": "I\u0027m in Over My Head"
+      },
+      {
+        "trackNumber": 8,
+        "title": "She\u0027s Starlight in the River"
+      },
+      {
+        "trackNumber": 9,
+        "title": "The Prayer"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The Swamper\u0027s Lament"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The Devil Takes His Leave"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 190,
     "title": "Can You Find a Way",
     "artist": "Billy the Kid",
