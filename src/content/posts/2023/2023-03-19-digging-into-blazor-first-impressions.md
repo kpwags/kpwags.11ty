@@ -15,7 +15,7 @@ I've been hearing a lot of good things about Blazor for a while now and as a .NE
 This post will be the first in a multi-part series.
 
 <section class="blog-series">
-    <h4>Series: Digging into Blazor</h4>
+    <h2>Series: Digging into Blazor</h2>
     <ul class="posts">
         <li class="post"><span class="current">First Impressions</span></li>
         <li class="post"><a href="/posts/2023/04/04/digging-into-blazor-entity-framework">Integrating with Entity Framework</a></li>

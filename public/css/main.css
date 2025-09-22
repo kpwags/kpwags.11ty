@@ -110,7 +110,7 @@ h6 {
 
 p {
 	line-height: 32px;
-	margin-bottom: 32px;
+	margin: 0 0 32px 0;
 }
 
 ul,
@@ -812,7 +812,7 @@ section.book-notes article .content .info h2 {
 }
 
 blockquote {
-	margin: 0 32px;
+	margin: 0 32px 32px;
 	border-left: 4px solid var(--secondary-color);
 	padding: 24px 32px;
 	border-left: 4px solid var(--secondary-color);
@@ -1039,6 +1039,10 @@ section.links .links-list li .category span.tag.type {
 	}
 }
 
+.post-heading {
+	margin-bottom: 32px;
+}
+
 .post-heading h1 {
 	margin-bottom: 0;
 }
@@ -1140,4 +1144,31 @@ section.links .links-list li .category span.tag.type {
 	text-transform: uppercase;
 	color: var(--meta);
 	margin: 4px 0 12px;
+}
+
+.blog-series,
+.related-posts {
+	border: 1px dotted var(--border-color);
+	border-radius: 10px;
+	padding: 16px 32px;
+	margin: 0 64px 32px;
+}
+
+.blog-series h2,
+.related-posts h2 {
+	margin: 0 0 16px 0;
+	font-size: 1.75rem;
+}
+
+@media (max-width: 500px) {
+	.blog-series,
+	.related-posts {
+		padding: 16px;
+		margin: 0 8px 32px;
+	}
+
+	.blog-series h2,
+	.related-posts h2 {
+		font-size: 1.5rem;
+	}
 }

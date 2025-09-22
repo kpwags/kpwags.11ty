@@ -17,7 +17,7 @@ Now that I was getting my feet wet, it was time for me to start laying out the f
 This is the second post in a multi-part series. If you haven't read part one, you can [read about my first impressions](https://kpwags.com/posts/2023/03/19/digging-into-blazor-first-impressions).
 
 <section class="blog-series">
-    <h4>Series: Digging into Blazor</h4>
+    <h2>Series: Digging into Blazor</h2>
     <ul class="posts">
         <li class="post"><a href="/posts/2023/03/19/digging-into-blazor-first-impressions">First Impressions</a></li>
         <li class="post"><span class="current">Integrating with Entity Framework</span></li>
