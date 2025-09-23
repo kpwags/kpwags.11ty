@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 1126,
+    "title": "The Nation is Lost",
+    "url": "https://medium.com/whither-news/the-nation-is-lost-c134bc22da64",
+    "author": "Jeff Jarvis",
+    "linkDate": "2025-09-22T00:00:00Z",
+    "readingLogIssueNumber": 142,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
     "linkId": 1125,
     "title": "Jimmy Kimmel and America\u0027s Free-Speech Crisis",
     "url": "https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2025/09/19/the-jimmy-kimmel-saga-and-americas-free-speech-crisis",
