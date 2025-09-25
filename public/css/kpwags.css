@@ -2199,3 +2199,8 @@ dialog.music-dialog .track-list {
 		margin-top: 24px;
 	}
 }
+
+.bordered-image {
+	border: 12px solid var(--primary-color-1);
+	margin: 32px;
+}

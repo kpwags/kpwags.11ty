@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 1127,
+    "title": "The Risks of NPM",
+    "url": "https://blog.jim-nielsen.com/2025/npm-risks/",
+    "author": "Jim Nielsen",
+    "linkDate": "2025-09-24T00:00:00Z",
+    "readingLogIssueNumber": 142,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
     "linkId": 1126,
     "title": "The Nation is Lost",
     "url": "https://medium.com/whither-news/the-nation-is-lost-c134bc22da64",
@@ -13,6 +29,22 @@
     "category": {
       "name": "Politics",
       "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 1128,
+    "title": "NASA\u2019s Juno Mission Leaves Stunning Legacy of Science at Jupiter",
+    "url": "https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/",
+    "author": "Robin George Andrews",
+    "linkDate": "2025-09-24T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
     }
   },
   {
