@@ -1457,6 +1457,85 @@
     ]
   },
   {
+    "musicAlbumId": 235,
+    "title": "Horseshoes \u0026 Hand Grenades",
+    "artist": "Billy the Kid",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/PrwGKrpC/billy-the-kid-horseshoes-and-hand-grenades.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Folk",
+        "colorCode": "rgb(202, 122, 5)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Phone Bills"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Riverbank"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Satellites \u002B I"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Science"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The Quarry"
+      },
+      {
+        "trackNumber": 6,
+        "title": "This Sure as Hell Ain\u0027t My Life"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Chelsea Rose"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Back to You"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Virginia"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Lord Let Me"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Thoroughfare"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Walkin\u0027 Around Hotel Blues"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Young \u002B on Fire"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 191,
     "title": "I Have to Do This",
     "artist": "Billy the Kid",
@@ -3396,6 +3475,77 @@
       {
         "trackNumber": 10,
         "title": "I Love You. I Miss You. Goodnight."
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 234,
+    "title": "...and The Mermaid",
+    "artist": "Dave Hause",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/v825YGZP/dave-hause-and-the-mermaid.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      },
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "A Knife in the Mud"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Cellmates"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Look Alive"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Mockingbird Blues"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Revisionist History"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Yer Outta My Hair"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Bible Passages"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Rumspringa"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Enough Hope"
+      },
+      {
+        "trackNumber": 10,
+        "title": "May Every Last Fever Break"
       }
     ]
   },
@@ -16817,6 +16967,10 @@
       }
     ],
     "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      },
       {
         "name": "Vinyl",
         "colorCode": "#a51643"

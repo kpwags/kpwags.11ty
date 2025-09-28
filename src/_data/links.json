@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 1130,
+    "title": "Wait until you need it",
+    "url": "https://gomakethings.com/wait-until-you-need-it/",
+    "author": "Chris Ferdinandi",
+    "linkDate": "2025-09-28T00:00:00Z",
+    "readingLogIssueNumber": 142,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1129,
+    "title": "A notional design studio.",
+    "url": "https://ethanmarcotte.com/wrote/a-notional-design-studio/",
+    "author": "Ethan Marcotte",
+    "linkDate": "2025-09-26T00:00:00Z",
+    "readingLogIssueNumber": 142,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 1127,
     "title": "The Risks of NPM",
     "url": "https://blog.jim-nielsen.com/2025/npm-risks/",

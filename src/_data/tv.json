@@ -953,6 +953,34 @@
       ]
     },
     {
+      "televisionShowId": 111,
+      "title": "The Diplomat",
+      "imdbLink": "https://www.imdb.com/title/tt17491088/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/zftBFC0p/the-diplomat.jpg",
+      "seasonEpisodeCount": 14,
+      "currentSeasonEpisode": 1,
+      "progress": 7,
+      "sortOrder": null,
+      "status": {
+        "name": "Watching",
+        "colorCode": "#005c78"
+      },
+      "genres": [
+        {
+          "name": "Drama",
+          "colorCode": "#481180"
+        }
+      ],
+      "services": [
+        {
+          "name": "Netflix",
+          "colorCode": "#c71212"
+        }
+      ]
+    },
+    {
       "televisionShowId": 16,
       "title": "Good Eats",
       "imdbLink": "https://www.imdb.com/title/tt0344651/",
