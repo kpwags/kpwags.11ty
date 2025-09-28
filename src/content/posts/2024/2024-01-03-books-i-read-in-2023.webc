@@ -18,336 +18,376 @@ tags:
 
 <p>These were my favorites of the year that I can’t recommend enough.</p>
 
-<book-read title="Pacific Crucible: War at Sea in the Pacific, 1941-1942" author="Ian W. Toll" src="https://i.postimg.cc/MpHH9M13/pacific-crucible.jpg" link="https://bookshop.org/p/books/pacific-crucible-war-at-sea-in-the-pacific-1941-1942-ian-w-toll/8754662">
-    <div slot="content">
-      <p>The Pacific Theater in WWII is something I wasn’t as familiar with compared to Europe. The writing was fantastic talking about the history of the big players involved and the actions taken at the beginning of the war by both the US and Japan. It was a great read to learn more about WWII and not dry reading either.</p>
-    </div>
-</book-read>
+<media-box
+	title="Pacific Crucible: War at Sea in the Pacific, 1941-1942"
+	author="Ian W. Toll"
+	image="https://i.postimg.cc/MpHH9M13/pacific-crucible.jpg"
+	link="https://bookshop.org/p/books/pacific-crucible-war-at-sea-in-the-pacific-1941-1942-ian-w-toll/8754662"
+>
+	The Pacific Theater in WWII is something I wasn’t as familiar with compared to Europe. The writing was fantastic talking about the history of the big players involved and the actions taken at the beginning of the war by both the US and Japan. It was a great read to learn more about WWII and not dry reading either.
+</media-box>
 
-<hr />
+<media-box
+	title="The Conquering Tides: War in the Pacific Islands, 1942-1944"
+	author="Ian W. Toll"
+	image="https://i.postimg.cc/cH4y7jKp/the-conquering-tide.jpg"
+	link="https://bookshop.org/p/books/the-conquering-tide-war-in-the-pacific-islands-1942-1944-ian-w-toll/8758811?ean=9780393353204"
+>
+    This book continues right from the last book. It provided a fantastic look into the history or the war in the Pacific.
+</media-box>
 
-<book-read title="The Conquering Tides: War in the Pacific Islands, 1942-1944" author="Ian W. Toll" src="https://i.postimg.cc/cH4y7jKp/the-conquering-tide.jpg" link="https://bookshop.org/p/books/the-conquering-tide-war-in-the-pacific-islands-1942-1944-ian-w-toll/8758811?ean=9780393353204">
-    <div slot="content">
-      <p>This book continues right from the last book. It provided a fantastic look into the history or the war in the Pacific.</p>
-    </div>
-</book-read>
+<media-box
+	title="Twilight of the Gods: War in the Western Pacific, 1944-1945"
+	author="Ian W. Toll" image="https://i.postimg.cc/9FKY27CK/twilight-of-the-gods.jpg"
+	link="https://bookshop.org/p/books/twilight-of-the-gods-war-in-the-western-pacific-1944-1945-ian-w-toll/13150893?ean=9780393868302"
+>
+	This entire trilogy was well-written and incredibly interesting. This book was no different. It was interesting to read about the Allies’ final push and how long it took Japan to accept defeat. It was jaw-dropping and sobering how many lives on both sides were lost because of it all.
+</media-box>
 
-<hr />
+<media-box
+	title="Team of Rivals: The Political Genius of Abraham Lincoln"
+	author="Doris Kearns Goodwin"
+	image="https://i.postimg.cc/xTsF7bDf/team-of-rivals.jpg"
+	link="https://bookshop.org/books/team-of-rivals-the-political-genius-of-abraham-lincoln/9780743270755"
+>
+	I found this book to be incredibly interesting. It was a great look into Lincoln’s political life and how he ran his presidency. The author did a great job of talking about how Lincoln went about making the Emancipation Proclamation as well as getting the 13th amendment passed to end slavery once and for all.
+</media-box>
 
-<book-read title="Twilight of the Gods: War in the Western Pacific, 1944-1945" author="Ian W. Toll" src="https://i.postimg.cc/9FKY27CK/twilight-of-the-gods.jpg" link="https://bookshop.org/p/books/twilight-of-the-gods-war-in-the-western-pacific-1944-1945-ian-w-toll/13150893?ean=9780393868302">
-	<div slot="content">
-		<p>This entire trilogy was well-written and incredibly interesting. This book was no different. It was interesting to read about the Allies’ final push and how long it took Japan to accept defeat. It was jaw-dropping and sobering how many lives on both sides were lost because of it all.</p>
-	</div>
-</book-read>
+<media-box
+	title="Starter Villain"
+	author="John Scalzi"
+	image="https://i.postimg.cc/KzPTLhm1/starter-villain.jpg"
+	link="https://bookshop.org/p/books/starter-villain-john-scalzi/18753219?ean=9780765389220"
+>
+	This was a fun book to read. I enjoyed the story and the characters.
+</media-box>
 
-<hr />
+<media-box
+	title="Black River Orchard"
+	author="Chuck Wendig"
+	image="https://i.postimg.cc/wjrDYkWj/black-river-orchard.jpg"
+	link="https://bookshop.org/p/books/black-river-orchard-chuck-wendig/19598190?ean=9780593158746"
+>
+	I really enjoyed the story. It had interesting characters and it kept me on the edge of my seat.
+</media-box>
 
-<book-read title="Team of Rivals: The Political Genius of Abraham Lincoln" author="Doris Kearns Goodwin" src="https://i.postimg.cc/xTsF7bDf/team-of-rivals.jpg" link="https://bookshop.org/books/team-of-rivals-the-political-genius-of-abraham-lincoln/9780743270755">
-	<div slot="content">
-		<p>I found this book to be incredibly interesting. It was a great look into Lincoln’s political life and how he ran his presidency. The author did a great job of talking about how Lincoln went about making the Emancipation Proclamation as well as getting the 13th amendment passed to end slavery once and for all. </p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="Starter Villain" author="John Scalzi" src="https://i.postimg.cc/KzPTLhm1/starter-villain.jpg" link="https://bookshop.org/p/books/starter-villain-john-scalzi/18753219?ean=9780765389220">
-	<div slot="content">
-		<p>This was a fun book to read. I enjoyed the story and the characters.</p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="Black River Orchard" author="Chuck Wendig" src="https://i.postimg.cc/wjrDYkWj/black-river-orchard.jpg" link="https://bookshop.org/p/books/black-river-orchard-chuck-wendig/19598190?ean=9780593158746">
-	<div slot="content">
-		<p>I really enjoyed the story. It had interesting characters and it kept me on the edge of my seat.</p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?" author="Kelly & Zach Weinersmith" src="https://i.postimg.cc/L5g9MfZP/city-on-mars.jpg" link="https://bookshop.org/p/books/a-city-on-mars-can-we-settle-space-should-we-settle-space-and-have-we-really-thought-this-through-zach-weinersmith/19777591?ean=9781984881724">
-	<div slot="content">
-		<p>This was a fantastic look at the various things we’d have to look at as a society to actually settle space. It’s written in an easy to understand way and really made me think about the near future of space exploration and settlement.</p>
-	</div>
-</book-read>
-
-<hr />
+<media-box
+	title="A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?"
+	author="Kelly & Zach Weinersmith" image="https://i.postimg.cc/L5g9MfZP/city-on-mars.jpg"
+	link="https://bookshop.org/p/books/a-city-on-mars-can-we-settle-space-should-we-settle-space-and-have-we-really-thought-this-through-zach-weinersmith/19777591?ean=9781984881724"
+>
+	This was a fantastic look at the various things we’d have to look at as a society to actually settle space. It’s written in an easy to understand way and really made me think about the near future of space exploration and settlement.
+</media-box>
 
 <h2>Books I Enjoyed</h2>
 
 <p>They might not have been my favorites, but I still really enjoyed these.</p>
 
-<book-read title="Snow Crash" author="Neal Stephenson" src="https://i.postimg.cc/qB1BFc4c/snow-crash.jpg" link="https://bookshop.org/p/books/snow-crash-neal-stephenson/7327954?ean=9780553380958">
-	<div slot="content">
-		<p>The “ultra-capitalist” future felt kind of weird. The story itself started off slow but picked up nicely. The ending was a little confusing and befuddling though.</p>
-	</div>
-</book-read>
+<media-box
+	title="Snow Crash"
+	author="Neal Stephenson"
+	image="https://i.postimg.cc/qB1BFc4c/snow-crash.jpg"
+	link="https://bookshop.org/p/books/snow-crash-neal-stephenson/7327954?ean=9780553380958"
+>
+	The “ultra-capitalist” future felt kind of weird. The story itself started off slow but picked up nicely. The ending was a little confusing and befuddling though.
+</media-box>
 
-<hr />
+<media-box
+title="The Bond King: How One Man Made a Market, Built an Empire, and Lost It All"
+	author="Mary Childs"
+	image="https://i.postimg.cc/8zsWVF0g/bondking.jpg"
+	link="https://bookshop.org/books/the-bond-king-how-one-man-made-a-market-built-an-empire-and-lost-it-all/9781250120847"
+>
+	I’ve heard of Pimco and of Bill Gross. This was an interesting read into his history and a bit of an internal look at trading companies.
+</media-box>
 
-<book-read title="The Bond King: How One Man Made a Market, Built an Empire, and Lost It All" author="Mary Childs" src="https://i.postimg.cc/8zsWVF0g/bondking.jpg" link="https://bookshop.org/books/the-bond-king-how-one-man-made-a-market-built-an-empire-and-lost-it-all/9781250120847">
-	<div slot="content">
-		<p>I’ve heard of Pimco and of Bill Gross. This was an interesting read into his history and a bit of an internal look at trading companies.</p>
-	</div>
-</book-read>
+<media-box
+	title="The Bomb: Presidents, Generals, and the Secret History of Nuclear War"
+	author="Fred Kaplan"
+	image="https://i.postimg.cc/cJcGnZJ7/the-bomb.jpg"
+	link="https://bookshop.org/books/the-bomb-presidents-generals-and-the-secret-history-of-nuclear-war/9781982107307"
+>
+	This was an excellent read. It was interesting to see how the presidents from Truman to Trump thought about nuclear weapons and how we’ve managed to avoid using them. The work revealed from many in the Department of Defense and other experts was fascinating.
+</media-box>
 
-<hr />
+<media-box
+	title="The Bomber Mafia: A Dream, a Temptation, and the Longest Night of the Second World War"
+	author="Malcolm Gladwell"
+	image="https://i.postimg.cc/MK9R40tY/bombermafia.jpg"
+	link="https://bookshop.org/p/books/the-bomber-mafia-a-dream-a-temptation-and-the-longest-night-of-the-second-world-war-malcolm-gladwell/17377135?ean=9780316296816"
+>
+	This was a good read, especially after having just finished The Bomb. It was interesting reading about how the different early Army Air Corps officers felt about and used their new weapons of war.
+</media-box>
 
-<book-read title="The Bomb: Presidents, Generals, and the Secret History of Nuclear War" author="Fred Kaplan" src="https://i.postimg.cc/cJcGnZJ7/the-bomb.jpg" link="https://bookshop.org/books/the-bomb-presidents-generals-and-the-secret-history-of-nuclear-war/9781982107307">
-	<div slot="content">
-		<p>This was an excellent read. It was interesting to see how the presidents from Truman to Trump thought about nuclear weapons and how we’ve managed to avoid using them. The work revealed from many in the Department of Defense and other experts was fascinating.</p>
-	</div>
-</book-read>
+<media-box
+	title="American Nations: A History of the Eleven Rival Regional Cultures of North America"
+	author="Colin Woodard"
+	image="https://i.postimg.cc/QxhkvdDj/american-nations.jpg"
+	link="https://bookshop.org/p/books/american-nations-a-history-of-the-eleven-rival-regional-cultures-of-north-america-colin-woodard/16638225?ean=9780143122029"
+>
+	It was an interesting read talking about the history of the different areas of North America and how their founding and upbringing influence us even today. It was written over 10 years ago, but still hits the notes of the division we’re dealing with today.
+</media-box>
 
-<hr />
+<media-box
+	title="Liar’s Poker"
+	author="Michael Lewis"
+	image="https://i.postimg.cc/bNQ9q5Mf/liars-poker.jpg"
+	link="https://bookshop.org/p/books/liar-s-poker-michael-lewis/8855267?ean=9780393338690"
+>
+	This was a lot different from his other books. It did provide an interesting look into one of the more famous names in Wall Street in the Saloman Brothers.
+</media-box>
 
-<book-read title="The Bomber Mafia: A Dream, a Temptation, and the Longest Night of the Second World War" author="Malcolm Gladwell" src="https://i.postimg.cc/MK9R40tY/bombermafia.jpg" link="https://bookshop.org/p/books/the-bomber-mafia-a-dream-a-temptation-and-the-longest-night-of-the-second-world-war-malcolm-gladwell/17377135?ean=9780316296816">
-	<div slot="content">
-		<p>This was a good read, especially after having just finished The Bomb. It was interesting reading about how the different early Army Air Corps officers felt about and used their new weapons of war.</p>
-	</div>
-</book-read>
+<media-box
+	title="American Gods"
+	author="Neil Gaiman"
+	image="https://i.postimg.cc/vTdLYQ6L/american-gods.jpg"
+	link="https://bookshop.org/p/books/american-gods-neil-gaiman/6438874?ean=9780063081918"
+>
+	Ever read a book and struggle to define the synopsis? I can’t fully define the synopsis, but I enjoyed the story.
+</media-box>
 
-<hr />
+<media-box
+	title="Anansi Boys"
+	author="Neil Gaiman"
+	image="https://i.postimg.cc/76znrCbZ/anansi-boys.jpg"
+	link="https://bookshop.org/p/books/anansi-boys-neil-gaiman/6438691?ean=9780063070738"
+>
+	I’m not sure whether I liked this better than American Gods, but it was an enjoyable read with some interesting characters.
+</media-box>
 
-<book-read title="American Nations: A History of the Eleven Rival Regional Cultures of North America" author="Colin Woodard" src="https://i.postimg.cc/QxhkvdDj/american-nations.jpg" link="https://bookshop.org/p/books/american-nations-a-history-of-the-eleven-rival-regional-cultures-of-north-america-colin-woodard/16638225?ean=9780143122029">
-	<div slot="content">
-		<p>It was an interesting read talking about the history of the different areas of North America and how their founding and upbringing influence us even today. It was written over 10 years ago, but still hits the notes of the division we’re dealing with today.</p>
-	</div>
-</book-read>
+<media-box
+	title="The Heart is a Lonely Hunter"
+	author="Carson McCullers"
+	image="https://i.postimg.cc/9X9QRY1p/heart-lonely-hunter.jpg"
+	link="https://bookshop.org/p/books/heart-is-a-lonely-hunter-carson-mccullers/266374"
+>
+	I have a hard time giving my thoughts on this as it’s so far outside of my normal reading material. I enjoyed the story though and found the characters to be interesting.
+</media-box>
 
-<hr />
+<media-box
+	title="The Terraformers"
+	author="Annalee Newitz"
+	image="https://i.postimg.cc/PJL5pyZF/terraformers.jpg"
+	link="https://bookshop.org/p/books/the-terraformers-annalee-newitz/19537833?ean=9781250228017"
+>
+	This was a fun sci-fi story. I felt like there was more that could’ve been explored a bit with the characters but I still enjoyed it.
+</media-box>
 
-<book-read title="Liar’s Poker" author="Michael Lewis" src="https://i.postimg.cc/bNQ9q5Mf/liars-poker.jpg" link="https://bookshop.org/p/books/liar-s-poker-michael-lewis/8855267?ean=9780393338690">
-	<div slot="content">
-		<p>This was a lot different from his other books. It did provide an interesting look into one of the more famous names in Wall Street in the Saloman Brothers.</p>
-	</div>
-</book-read>
+<media-box
+	title="Bullshit Jobs"	
+	author="David Graeber"
+	image="https://i.postimg.cc/W16LS1GQ/bullshit-jobs.jpg"
+	link="https://bookshop.org/p/books/bullshit-jobs-a-theory-david-graeber/6692761?ean=9781501143335"
+>
+	There are many memorable stories and anecdotes in this. David does a decent job of going through what bullshit jobs are and how we got here.
+</media-box>
 
-<hr />
+<media-box
+	title="Learning Patterns"
+	author="Lydia Hallie & Addy Osmani"
+	image="https://i.postimg.cc/g0w0Yz6D/learning-patterns.jpg"
+	link="https://leanpub.com/learningpatterns"
+>
+	The first part of the book gave some good overview of different dev patterns. The rest of the book gave some great insights into better ways to build and make sites more performant. Dangerous because it made me consider some redesigning of my site.
+</media-box>
 
-<book-read title="American Gods" author="Neil Gaiman" src="https://i.postimg.cc/vTdLYQ6L/american-gods.jpg" link="https://bookshop.org/p/books/american-gods-neil-gaiman/6438874?ean=9780063081918">
-	<div slot="content">
-		<p>Ever read a book and struggle to define the synopsis? I can’t fully define the synopsis, but I enjoyed the story.</p>
-	</div>
-</book-read>
+<media-box
+	title="Out of Office: The Big Problem and Bigger Promise of Working from Home"
+	author="Charlie Warzel & Anne Helen Petersen"
+	image="https://i.postimg.cc/sgH9zy1j/outofoffice.jpg"
+	link="https://bookshop.org/p/books/out-of-office-the-big-problem-and-bigger-promise-of-working-from-home-anne-helen-petersen/16467530?ean=9780593460382"
+>
+	This was an interesting read and definitely follows close to the current return to office back and forth we’re seeing. It did a good job going into why that’s not necessarily the full picture or what we should be looking at, but rather, finding a better work-life balance for everyone.
+</media-box>
 
-<hr />
+<media-box
+	title="Shutdown: How Covid Shook the World's Economy"
+	author="Adam Tooze"
+	image="https://i.postimg.cc/JnRT7q0f/shutdown-covid.jpg"
+	link="https://bookshop.org/p/books/shutdown-how-covid-shook-the-world-s-economy-adam-tooze/16278362?ean=9780593297551"
+>
+	I found his look back at the different world governments’ response to COVID to be interesting. It was in-depth and provided some good details. I did feel like it bounced around a little more than I would’ve expected which made it a little difficult to follow.
+</media-box>
 
-<book-read title="Anansi Boys" author="Neil Gaiman" src="https://i.postimg.cc/76znrCbZ/anansi-boys.jpg" link="https://bookshop.org/p/books/anansi-boys-neil-gaiman/6438691?ean=9780063070738">
-	<div slot="content">
-		<p>I’m not sure whether I liked this better than American Gods, but it was an enjoyable read with some interesting characters.</p>
-	</div>
-</book-read>
+<media-box
+	title="Dead Wake: The Last Crossing of the Lusitania"
+	author="Erik Larson"
+	image="https://i.postimg.cc/yN2RYVhj/dead-wake.jpg"
+	link="https://bookshop.org/p/books/dead-wake-the-last-crossing-of-the-lusitania-erik-larson/7296476?ean=9780307408877"
+>
+	This was a fascinating look from both those on the Lusitania and from the captain of the U-Boat that sunk the Lusitania. It was compelling even though you already knew the ending.
+</media-box>
 
-<hr />
+<media-box
+	title="A History of the World in 6 Glasses"
+	author="Tom Standage"
+	image="https://i.postimg.cc/PxN0P55s/history-of-the-world-6-glasses.jpg"
+	link="https://bookshop.org/p/books/a-history-of-the-world-in-6-glasses-tom-standage/16634565?ean=9780802715524"
+>
+	This was an enjoyable and informative look back at how different drinks came to determine so much of our history of a species. I really enjoyed it.
+</media-box>
 
-<book-read title="The Heart is a Lonely Hunter" author="Carson McCullers" src="https://i.postimg.cc/9X9QRY1p/heart-lonely-hunter.jpg" link="https://bookshop.org/p/books/heart-is-a-lonely-hunter-carson-mccullers/266374">
-	<div slot="content">
-		<p>I have a hard time giving my thoughts on this as it’s so far outside of my normal reading material. I enjoyed the story though and found the characters to be interesting.</p>
-	</div>
-</book-read>
+<media-box
+	title="Packing for Mars: The Curious Science of Life in the Void"
+	author="Mary Roach"
+	image="https://i.postimg.cc/gjqWwyD4/packing-for-mars.jpg"
+	link="https://bookshop.org/p/books/packing-for-mars-the-curious-science-of-life-in-the-void-mary-roach/1517059?ean=9781324036050">
+	I actually really enjoyed this. It went into a lot of the smaller details of all the things that go into space travel many don’t think about.
+</media-box>
 
-<hr />
+<media-box
+	title="Talking to Strangers: What We Should Know about the People We Don't Know"
+	author="Malcolm Gladwell"
+	image="https://i.postimg.cc/d12csjBb/talking-to-strangers.jpg"
+	link="https://bookshop.org/p/books/talking-to-strangers-what-we-should-know-about-the-people-we-don-t-know-malcolm-gladwell/16344994?ean=9780316299220"
+>
+	Reading reminded me how hard it is to know exactly how hard it can be to interact with strangers. It was an interesting read talking about how these struggles have had dire consequences. The biggest takeaway I took from it kind of echoes the classic “trust, but verify” and that empathy can be helpful.
+</media-box>
 
-<book-read title="The Terraformers" author="Annalee Newitz" src="https://i.postimg.cc/PJL5pyZF/terraformers.jpg" link="https://bookshop.org/p/books/the-terraformers-annalee-newitz/19537833?ean=9781250228017">
-	<div slot="content">
-		<p>This was a fun sci-fi story. I felt like there was more that could’ve been explored a bit with the characters but I still enjoyed it.</p>
-	</div>
-</book-read>
+<media-box
+	title="Trigger Warning"
+	author="Neil Gaiman"
+	image="https://i.postimg.cc/xdkyM4hx/trigger-warning.jpg"
+	link="https://bookshop.org/p/books/trigger-warning-short-fictions-and-disturbances-neil-gaiman/15543280?ean=9780063075764"
+>
+	This book is hard to judge since it’s a collection of short stories. Some I liked, some I didn’t, others I was “meh” on.
+</media-box>
 
-<hr />
+<media-box
+	title="Coders: The Making of a New Tribe and the Remaking of the World"
+	author="Clive Thompson"
+	image="https://i.postimg.cc/bY7n4WtG/coders.jpg"
+	link="https://bookshop.org/p/books/coders-the-making-of-a-new-tribe-and-the-remaking-of-the-world-clive-thompson/12477150?ean=9780735220584"
+>
+	I saw a lot of myself while reading this. It’s a good book that goes into both the good and the bad of what we’ve built with computers.
+</media-box>
 
-<book-read title="Bullshit Jobs" author="David Graeber" src="https://i.postimg.cc/W16LS1GQ/bullshit-jobs.jpg" link="https://bookshop.org/p/books/bullshit-jobs-a-theory-david-graeber/6692761?ean=9781501143335">
-	<div slot="content">
-		<p>There are many memorable stories and anecdotes in this. David does a decent job of going through what bullshit jobs are and how we got here.</p>
-	</div>
-</book-read>
+<media-box
+	title="On Writing: A Memoir of the Craft"
+	author="Stephen King"
+	image="https://i.postimg.cc/qBGnvrmY/on-writing.jpg" l
+	link="https://bookshop.org/p/books/on-writing-a-memoir-of-the-craft-stephen-king/14560198"
+>
+	As someone who is starting to write more, I enjoyed his thoughts on his career and advice for other writers.
+</media-box>
 
-<hr />
+<media-box
+	title="Your Face Belongs to Us: A Secretive Startup's Quest to End Privacy as We Know It"
+	author="Kashmir Hill"
+	image="https://i.postimg.cc/DyyGWNHz/your-face-belongs-to-us.jpg"
+	link="https://bookshop.org/p/books/your-face-belongs-to-us-a-secretive-startup-s-quest-to-end-privacy-as-we-know-it-kashmir-hill/19573494?ean=9780593448564"
+>
+	Yeah, this book scared me a bit. Hill did a great job talking about the history of facial recognition, what Clearview AI has done for it, and the risks moving forward.
+</media-box>
 
-<book-read title="Learning Patterns" author="Lydia Hallie & Addy Osmani" src="https://i.postimg.cc/g0w0Yz6D/learning-patterns.jpg" link="https://leanpub.com/learningpatterns">
-	<div slot="content">
-		<p>The first part of the book gave some good overview of different dev patterns. The rest of the book gave some great insights into better ways to build and make sites more performant. Dangerous because it made me consider some redesigning of my site.</p>
-	</div>
-</book-read>
+<media-box
+	title="Number Go Up: Inside Crypto's Wild Rise and Staggering Fall"
+	author="Zeke Faux"
+	image="https://i.postimg.cc/43hVfhMb/number-go-up.jpg"
+	link="https://bookshop.org/p/books/number-go-up-inside-crypto-s-wild-rise-and-staggering-fall-zeke-faux/19900961?ean=9780593443811"
+>
+	There was one quote that stood out to me: "The crypto bubble wasn’t as dumb as you think. It was even dumber.” This book goes into the rise of crypto and NFTs and how obvious it should have been that much of it was kind of scammy at best.
+</media-box>
 
-<hr />
+<media-box
+	title="Be Useful: Seven Tools for Life"
+	author="Arnold Schwarzenegger"
+	image="https://i.postimg.cc/L85jWW3W/be-useful.jpg"
+	link="https://bookshop.org/p/books/be-useful-seven-tools-for-life-arnold-schwartzenegger/19976031"
+>
+	It was an interesting read. Arnold talked a bit about his own life and gave some useful tips on how to do better to reach your goals.
+</media-box>
 
-<book-read title="Out of Office: The Big Problem and Bigger Promise of Working from Home" author="Charlie Warzel & Anne Helen Petersen" src="https://i.postimg.cc/sgH9zy1j/outofoffice.jpg" link="https://bookshop.org/p/books/out-of-office-the-big-problem-and-bigger-promise-of-working-from-home-anne-helen-petersen/16467530?ean=9780593460382">
-	<div slot="content">
-		<p>This was an interesting read and definitely follows close to the current return to office back and forth we’re seeing. It did a good job going into why that’s not necessarily the full picture or what we should be looking at, but rather, finding a better work-life balance for everyone.</p>
-	</div>
-</book-read>
+<media-box
+	title="The Forge of God"
+	author="Greg Bear"
+	image="https://i.postimg.cc/8cx5mmjP/the-forge-of-god.jpg"
+	link="https://bookshop.org/p/books/the-forge-of-god-greg-bear/7252312"
+>
+	I enjoyed the story. It was interesting and brought a good mix of thriller and science fiction.
+</media-box>
 
-<hr />
+<media-box
+	title="Anvil of Stars"
+	author="Greg Bear"
+	image="https://i.postimg.cc/Wbh6Ds4F/gregbear-anvilofstars.jpg"
+	link="https://bookshop.org/p/books/anvil-of-stars-greg-bear/7252548"
+>
+	I didn’t like this as much as the first book in the series, but I’m having a hard time articulating why. It wasn’t bad, just didn’t live up to The Forge of God.
+</media-box>
 
-<book-read title="Shutdown: How Covid Shook the World's Economy" author="Adam Tooze" src="https://i.postimg.cc/JnRT7q0f/shutdown-covid.jpg" link="https://bookshop.org/p/books/shutdown-how-covid-shook-the-world-s-economy-adam-tooze/16278362?ean=9780593297551">
-	<div slot="content">
-		<p>I found his look back at the different world governments’ response to COVID to be interesting. It was in-depth and provided some good details. I did feel like it bounced around a little more than I would’ve expected which made it a little difficult to follow.</p>
-	</div>
-</book-read>
+<media-box
+	title="The Creative ACT: A Way of Being"
+	author="Rick Rubin"
+	image="https://i.postimg.cc/14xF3Q0H/the-creative-act.jpg"
+	link="https://bookshop.org/p/books/the-creative-act-a-way-of-being-rick-rubin/18543579?ean=9780593652886"
+>
+	As someone who is trying to explore his creative side more, I appreciated the insights provided.
+</media-box>
 
-<hr />
+<media-box
+	title="Emotional Intelligence 2.0"
+	author="Dr. Travis Bradberry & Dr. Jean Greaves"
+	image="https://i.postimg.cc/wvDYSj7C/emotional-intelligence-20.jpg"
+	link="https://bookshop.org/p/books/emotional-intelligence-2-0-with-access-code-travis-bradberry/1516289?ean=9780974320625"
+>
+	I was given this book by my job to help with my career trajectory. It was an interesting look at how we handle ourselves and gave good advice on how to improve our interactions with others.
+</media-box>
 
-<book-read title="Dead Wake: The Last Crossing of the Lusitania" author="Erik Larson" src="https://i.postimg.cc/yN2RYVhj/dead-wake.jpg" link="https://bookshop.org/p/books/dead-wake-the-last-crossing-of-the-lusitania-erik-larson/7296476?ean=9780307408877">
-	<div slot="content">
-		<p>This was a fascinating look from both those on the Lusitania and from the captain of the U-Boat that sunk the Lusitania. It was compelling even though you already knew the ending.</p>
-	</div>
-</book-read>
+<media-box
+	title="American Whitelash: A Changing Nation and the Cost of Progress"
+	author="Wesley Lowery"
+	image="https://i.postimg.cc/FzbsPnL9/american-whitelash.jpg"
+	link="https://bookshop.org/p/books/whitelash-hope-and-horror-in-a-changing-america-wesley-lowery/17944198?ean=9780358393269"
+>
+	This was an interesting, if depressing read. It’s sad to see how racist we still are as a nation.
+</media-box>
 
-<hr />
+<media-box
+	title="Humble Pi: When Math Goes Wrong in the Real World"
+	author="Matt Parker"
+	image="https://i.postimg.cc/Df1ZymYt/humble-pi.jpg"
+	link="https://bookshop.org/p/books/humble-pi-when-math-goes-wrong-in-the-real-world-matt-parker/18297581?ean=9780593084694"
+>
+	I really enjoyed this read. Matt had a good sense of humor and it was interesting to realize some of the many ways math affects us without us realizing until it goes wrong.
+</media-box>
 
-<book-read title="A History of the World in 6 Glasses" author="Tom Standage" src="https://i.postimg.cc/PxN0P55s/history-of-the-world-6-glasses.jpg" link="https://bookshop.org/p/books/a-history-of-the-world-in-6-glasses-tom-standage/16634565?ean=9780802715524">
-	<div slot="content">
-		<p>This was an enjoyable and informative look back at how different drinks came to determine so much of our history of a species. I really enjoyed it.</p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="Packing for Mars: The Curious Science of Life in the Void" author="Mary Roach" src="https://i.postimg.cc/gjqWwyD4/packing-for-mars.jpg" link="https://bookshop.org/p/books/packing-for-mars-the-curious-science-of-life-in-the-void-mary-roach/1517059?ean=9781324036050">
-	<div slot="content">
-		<p>I actually really enjoyed this. It went into a lot of the smaller details of all the things that go into space travel many don’t think about.</p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="Talking to Strangers: What We Should Know about the People We Don't Know" author="Malcolm Gladwell" src="https://i.postimg.cc/d12csjBb/talking-to-strangers.jpg" link="https://bookshop.org/p/books/talking-to-strangers-what-we-should-know-about-the-people-we-don-t-know-malcolm-gladwell/16344994?ean=9780316299220">
-	<div slot="content">
-		<p>Reading reminded me how hard it is to know exactly how hard it can be to interact with strangers. It was an interesting read talking about how these struggles have had dire consequences. The biggest takeaway I took from it kind of echoes the classic “trust, but verify” and that empathy can be helpful.</p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="Trigger Warning" author="Neil Gaiman" src="https://i.postimg.cc/xdkyM4hx/trigger-warning.jpg" link="https://bookshop.org/p/books/trigger-warning-short-fictions-and-disturbances-neil-gaiman/15543280?ean=9780063075764">
-	<div slot="content">
-		<p>This book is hard to judge since it’s a collection of short stories. Some I liked, some I didn’t, others I was “meh” on.</p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="Coders: The Making of a New Tribe and the Remaking of the World" author="Clive Thompson" src="https://i.postimg.cc/bY7n4WtG/coders.jpg" link="https://bookshop.org/p/books/coders-the-making-of-a-new-tribe-and-the-remaking-of-the-world-clive-thompson/12477150?ean=9780735220584">
-	<div slot="content">
-		<p>I saw a lot of myself while reading this. It’s a good book that goes into both the good and the bad of what we’ve built with computers.</p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="On Writing: A Memoir of the Craft" author="Stephen King" src="https://i.postimg.cc/qBGnvrmY/on-writing.jpg" link="https://bookshop.org/p/books/on-writing-a-memoir-of-the-craft-stephen-king/14560198">
-	<div slot="content">
-		<p>As someone who is starting to write more, I enjoyed his thoughts on his career and advice for other writers.</p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="Your Face Belongs to Us: A Secretive Startup's Quest to End Privacy as We Know It" author="Kashmir Hill" src="https://i.postimg.cc/DyyGWNHz/your-face-belongs-to-us.jpg" link="https://bookshop.org/p/books/your-face-belongs-to-us-a-secretive-startup-s-quest-to-end-privacy-as-we-know-it-kashmir-hill/19573494?ean=9780593448564">
-	<div slot="content">
-		<p>Yeah, this book scared me a bit. Hill did a great job talking about the history of facial recognition, what Clearview AI has done for it, and the risks moving forward.</p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="Number Go Up: Inside Crypto's Wild Rise and Staggering Fall" author="Zeke Faux" src="https://i.postimg.cc/43hVfhMb/number-go-up.jpg" link="https://bookshop.org/p/books/number-go-up-inside-crypto-s-wild-rise-and-staggering-fall-zeke-faux/19900961?ean=9780593443811">
-	<div slot="content">
-		<p>There was one quote that stood out to me: "The crypto bubble wasn’t as dumb as you think. It was even dumber.” This book goes into the rise of crypto and NFTs and how obvious it should have been that much of it was kind of scammy at best.</p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="Be Useful: Seven Tools for Life" author="Arnold Schwarzenegger" src="https://i.postimg.cc/L85jWW3W/be-useful.jpg" link="https://bookshop.org/p/books/be-useful-seven-tools-for-life-arnold-schwartzenegger/19976031">
-	<div slot="content">
-		<p>It was an interesting read. Arnold talked a bit about his own life and gave some useful tips on how to do better to reach your goals.</p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="The Forge of God" author="Greg Bear" src="https://i.postimg.cc/8cx5mmjP/the-forge-of-god.jpg" link="https://bookshop.org/p/books/the-forge-of-god-greg-bear/7252312">
-	<div slot="content">
-		<p>I enjoyed the story. It was interesting and brought a good mix of thriller and science fiction.</p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="Anvil of Stars" author="Greg Bear" src="https://i.postimg.cc/Wbh6Ds4F/gregbear-anvilofstars.jpg" link="https://bookshop.org/p/books/anvil-of-stars-greg-bear/7252548">
-	<div slot="content">
-		<p>I didn’t like this as much as the first book in the series, but I’m having a hard time articulating why. It wasn’t bad, just didn’t live up to The Forge of God.</p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="The Creative ACT: A Way of Being" author="Rick Rubin" src="https://i.postimg.cc/14xF3Q0H/the-creative-act.jpg" link="https://bookshop.org/p/books/the-creative-act-a-way-of-being-rick-rubin/18543579?ean=9780593652886">
-	<div slot="content">
-		<p>As someone who is trying to explore his creative side more, I appreciated the insights provided.</p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="Emotional Intelligence 2.0" author="Dr. Travis Bradberry & Dr. Jean Greaves" src="https://i.postimg.cc/wvDYSj7C/emotional-intelligence-20.jpg" link="https://bookshop.org/p/books/emotional-intelligence-2-0-with-access-code-travis-bradberry/1516289?ean=9780974320625">
-	<div slot="content">
-		<p>I was given this book by my job to help with my career trajectory. It was an interesting look at how we handle ourselves and gave good advice on how to improve our interactions with others.</p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="American Whitelash: A Changing Nation and the Cost of Progress" author="Wesley Lowery" src="https://i.postimg.cc/FzbsPnL9/american-whitelash.jpg" link="https://bookshop.org/p/books/whitelash-hope-and-horror-in-a-changing-america-wesley-lowery/17944198?ean=9780358393269">
-	<div slot="content">
-		<p>This was an interesting, if depressing read. It’s sad to see how racist we still are as a nation.</p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="Humble Pi: When Math Goes Wrong in the Real World" author="Matt Parker" src="https://i.postimg.cc/Df1ZymYt/humble-pi.jpg" link="https://bookshop.org/p/books/humble-pi-when-math-goes-wrong-in-the-real-world-matt-parker/18297581?ean=9780593084694">
-	<div slot="content">
-		<p>I really enjoyed this read. Matt had a good sense of humor and it was interesting to realize some of the many ways math affects us without us realizing until it goes wrong.</p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="The Pale Blue Eye" author="Louis Bayard" src="https://i.postimg.cc/brfw9jdC/pale-blue-eye.jpg" link="https://bookshop.org/p/books/the-pale-blue-eye-louis-bayard/8813994?ean=9780060733988">
-	<div slot="content">
-		<p>The book was slow at times and seemingly wandered off track. The finish was definitely a good one though.</p>
-	</div>
-</book-read>
-
-<hr />
+<media-box
+	title="The Pale Blue Eye"
+	author="Louis Bayard"
+	image="https://i.postimg.cc/brfw9jdC/pale-blue-eye.jpg"
+	link="https://bookshop.org/p/books/the-pale-blue-eye-louis-bayard/8813994?ean=9780060733988"
+>
+	The book was slow at times and seemingly wandered off track. The finish was definitely a good one though.
+</media-box>
 
 <h2 style="margin-top: 32px">“Meh” Books</h2>
 
 <p>These I didn’t quite enjoy all that much. But keep in mind that that might just be my tastes.</p>
 
-<book-read title="Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet" author="Taylor Lorenz" src="https://i.postimg.cc/fyM9fqbB/extremely-online.jpg" link="https://bookshop.org/p/books/extremely-online-the-untold-story-of-fame-influence-and-power-on-the-internet-taylor-lorenz/19718842?ean=9781982146863">
-	<div slot="content">
-		<p>This was an interesting read about the creator culture of the internet. It also happened to remind me I will never understand pop culture.</p>
-	</div>
-</book-read>
+<media-box
+	title="Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet"
+	author="Taylor Lorenz" 
+	image="https://i.postimg.cc/fyM9fqbB/extremely-online.jpg" 
+	link="https://bookshop.org/p/books/extremely-online-the-untold-story-of-fame-influence-and-power-on-the-internet-taylor-lorenz/19718842?ean=9781982146863"
+>
+	This was an interesting read about the creator culture of the internet. It also happened to remind me I will never understand pop culture.
+</media-box>
 
-<hr />
+<media-box
+	title="Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet"
+	author="Tim Hwang"
+	image="https://i.postimg.cc/1XMNC0nP/subprime-attention-crisis.jpg"
+	link="https://bookshop.org/books/subprime-attention-crisis-advertising-and-the-time-bomb-at-the-heart-of-the-internet/9780374538651"
+>
+	This was an interesting, though kind of dry read about some of the dangers that lurk in the world of online advertising.
+</media-box>
 
-<book-read title="Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet" author="Tim Hwang" src="https://i.postimg.cc/1XMNC0nP/subprime-attention-crisis.jpg" link="https://bookshop.org/books/subprime-attention-crisis-advertising-and-the-time-bomb-at-the-heart-of-the-internet/9780374538651">
-	<div slot="content">
-		<p>This was an interesting, though kind of dry read about some of the dangers that lurk in the world of online advertising.</p>
-	</div>
-</book-read>
-
-<hr />
-
-<book-read title="The Poison Eaters and Other Stories" author="Holly Black" src="https://i.postimg.cc/zBZWVGYm/posion-eaters.jpg" link="https://bookshop.org/p/books/the-poison-eaters-and-other-stories-holly-black/6315246">
-	<div slot="content">
-		<p>I enjoyed some of the stories. Others, not as much</p>
-	</div>
-</book-read>
+<media-box
+	title="The Poison Eaters and Other Stories"
+	author="Holly Black"
+	image="https://i.postimg.cc/zBZWVGYm/posion-eaters.jpg"
+	link="https://bookshop.org/p/books/the-poison-eaters-and-other-stories-holly-black/6315246"
+>
+	I enjoyed some of the stories. Others, not as much
+</media-box>

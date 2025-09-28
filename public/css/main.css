@@ -25,6 +25,12 @@ main {
 	max-width: 100%;
 }
 
+body.wide main,
+body.wide header,
+body.wide footer {
+	width: var(--wide-width);
+}
+
 h1 {
 	font-weight: 500;
 	font-size: 4rem;
@@ -163,14 +169,27 @@ button:has(svg) {
 .btn-primary {
 	background-color: var(--primary-color);
 	color: var(--primary-color-contrast);
+}
 
-	svg {
-		fill: var(--primary-color-contrast);
-	}
+.btn-primary svg {
+	fill: var(--primary-color-contrast);
+}
 
-	&:hover {
-		background-color: var(--secondary-color);
-	}
+.btn-primary:hover {
+	background-color: var(--secondary-color);
+}
+
+button.btn-link {
+	border: none;
+	color: var(--text);
+	text-decoration: underline;
+	text-decoration-color: var(--primary-color);
+	text-underline-offset: 3px;
+	background-color: transparent;
+}
+
+button.btn-link:hover {
+	color: var(--secondary-color);
 }
 
 hr {
@@ -815,7 +834,6 @@ blockquote {
 	margin: 0 32px 32px;
 	border-left: 4px solid var(--secondary-color);
 	padding: 24px 32px;
-	border-left: 4px solid var(--secondary-color);
 	background: var(--background-shaded);
 	border-radius: 6px;
 }
@@ -1171,4 +1189,65 @@ section.links .links-list li .category span.tag.type {
 	.related-posts h2 {
 		font-size: 1.5rem;
 	}
+}
+
+section.tags-list ul.archives-list li:last-child {
+	border-bottom: none;
+}
+
+section.tags-list ul.archives-list li:first-child {
+	border-top: none;
+}
+
+.site-tags ul {
+	display: flex;
+	flex-wrap: wrap;
+	gap:16px;
+	margin: 0;
+	padding: 0;
+}
+
+.site-tags ul li {
+	list-style-type: none;
+	margin: 0;
+	padding: 4px 8px;
+	border: 1px solid var(--border-color);
+	border-radius: 10px;
+}
+
+.site-tags ul li:hover {
+	border-color: var(--secondary-color);
+}
+
+section.podcast-category .grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+	gap: 32px;
+	justify-items: center;
+}
+
+section.podcast-category .grid .item .podcast-title {
+	text-align: center;
+	margin-top: 8px;
+}
+
+section.music .grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+	gap: 32px;
+	justify-items: center;
+}
+
+section.music .grid .item .info {
+	text-align: center;
+	margin-top: 8px;
+}
+
+section.music .grid .item button.btn-link {
+	font-size: var(--font-size-base);
+}
+
+section.music .grid .item .info .meta {
+	color: var(--meta);
+	font-size: 0.875rem;
 }

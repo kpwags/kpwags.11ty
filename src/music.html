@@ -1,0 +1,26 @@
+---
+layout: "layouts/wide-layout.html"
+title: "Music"
+---
+<h1>Music</h1>
+
+<p>Last Updated: {{ config.builtAt | readableDate }}</p>
+
+<section class="music">
+	<div class="grid">
+		{% for album in music %}
+			{% musicListing album %}
+		{% endfor %}
+	</div>
+</section>
+
+{% renderTemplate "webc" %}
+<music-dialog></music-dialog>
+{% endrenderTemplate %}
+
+<script type="text/javascript" src="/scripts/music.js"></script>
+<script>
+	window.addEventListener('load', function () {
+		attachMusicAlbumEvents('.music .grid .item .btn-link');
+	});
+</script>

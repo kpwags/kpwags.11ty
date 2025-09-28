@@ -6,6 +6,7 @@ import { EleventyRenderPlugin } from "@11ty/eleventy";
 
 import publicPosts from './src/collections/publicPosts.js';
 import { archives } from './src/collections/archives.js';
+import { tags } from './src/collections/tags.js';
 import stats from './src/collections/stats.js';
 import everything from './src/collections/everything.js';
 import pinnedPosts from './src/collections/pinnedPosts.js';
@@ -68,6 +69,7 @@ export default function (eleventyConfig) {
     eleventyConfig.addCollection('notesNoPolitics', notesNoPolitics);
     eleventyConfig.addCollection('everythingNoPolitics', everythingNoPolitics);
     eleventyConfig.addCollection('pinnedPosts', pinnedPosts);
+    eleventyConfig.addCollection('tags', tags);
 
     eleventyConfig.addFilter('readableDate', dateFilter);
     eleventyConfig.addFilter('tagUrlSlug', tagUrlFilter);

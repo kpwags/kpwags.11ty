@@ -11,5 +11,6 @@ export default {
 		shortDateString: ({ page }) => dayjs.utc(page.date).format('MMM D'),
 		postMonth: ({ page }) => dayjs.utc(page.date).format('MM'),
 		postYear: ({ page }) => dayjs.utc(page.date).format('YYYY'),
+		postType: { name: 'Note', css: 'note' },
 	}
 };

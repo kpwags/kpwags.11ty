@@ -3,6 +3,7 @@ import utc from 'dayjs/plugin/utc.js';
 import { getUniqueItems } from '../lib/getUniqueItems.js';
 import { blogPosts } from './blogPosts.js';
 import tagUrl from '../filters/tagurl-filter.js';
+import { excludedTags } from '../lib/excludedTags.js';
 
 dayjs.extend(utc);
 
@@ -13,17 +14,6 @@ const availableColors = [
 	'#15931a',
 	'#2659e5',
 	'#aa00ff',
-];
-
-const excludedTags = [
-	'readinglog',
-	'post',
-	'Reading Log',
-	'booknotes',
-	'shortnotes',
-	'Week Notes',
-	'Monthly Check-In',
-	'weeknote'
 ];
 
 const getYear = (date) => dayjs.utc(date).format('YYYY');

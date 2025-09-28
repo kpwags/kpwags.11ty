@@ -2,6 +2,7 @@
     --font: Inconsolata, monospace;
     --font-size-base: clamp(1rem,0.96rem + 0.22vw, 1.125rem);
     --width: min(100ch, 100vw - 2rem);
+    --wide-width: min(80vw, 100vw - 2rem);
 
     --background: oklch(100% 0 0);
     --background-shaded: oklch(0.8353 0.0074 0);

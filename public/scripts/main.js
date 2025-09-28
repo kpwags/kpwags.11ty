@@ -15,3 +15,13 @@ function isDarkMode() {
 
 	return false;
 }
+
+function buildTagString(items) {
+    let output = '';
+
+    items.forEach((item) => {
+        output += `<span class="tag" style="background-color: ${item.colorCode};">${item.name}</span>`;
+    })
+
+    return output;
+}

@@ -1,3 +1,4 @@
+import { excludedTags } from '../lib/excludedTags.js';
 import { getUniqueItems } from '../lib/getUniqueItems.js';
 import { blogNotes } from './blogNotes.js';
 import { blogPosts } from './blogPosts.js';
@@ -5,7 +6,7 @@ import { bookNotes } from './bookNotes.js';
 import { readingLogs } from './readingLogs.js';
 import { weekNotes } from './weekNotes.js';
 
-export const archives = (collection) => {
+export const tags = (collection) => {
 	const posts = blogPosts(collection, {
 		includeRssOnly: false,
 		includePolitics: true,
@@ -36,29 +37,18 @@ export const archives = (collection) => {
 		return -1;
 	});
 
-	const items = everything.map((e) => ({
-		title: e.data.postType.css === 'book-note'
-			? `${e.data.title}: ${e.data.subtitle}`
-			: e.data.title,
-		url: e.url,
-		year: e.data.postYear,
-		month: e.data.postMonth,
-		dateString: e.data.shortDateString,
-		type: e.data.postType,
-	}));
+	const tagsArray = everything.map((e) => e.data.tags);
 
-	const sortedItems = items.reverse();
+	let allTags =  [];
 
-	const uniqueYears = getUniqueItems(items.map((i) => i.year));
-
-	const archivesArray = [];
-
-	for (const year of uniqueYears) {
-		archivesArray.push({
-			year,
-			posts: sortedItems.filter((i) => i.year === year),
-		});
+	for (const arr of tagsArray) {
+		allTags = [
+			...allTags,
+			...arr.filter(t => !excludedTags.includes(t))
+		];
 	}
 
-	return archivesArray;
+	const uniqueTags = getUniqueItems(allTags);
+	
+	return uniqueTags.sort((a, b) => a.localeCompare(b));
 };
