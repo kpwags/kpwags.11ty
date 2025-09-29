@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 1132,
+    "title": "How Ruby Went Off the Rails",
+    "url": "https://www.404media.co/how-ruby-went-off-the-rails/",
+    "author": "Emanuel Maiberg",
+    "linkDate": "2025-09-29T00:00:00Z",
+    "readingLogIssueNumber": 142,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1133,
+    "title": "Landlords Demand Tenants\u2019 Workplace Logins to Scrape Their Paystubs",
+    "url": "https://www.404media.co/landlords-demand-tenants-workplace-logins-to-scrape-their-paystubs/",
+    "author": "Joseph Cox",
+    "linkDate": "2025-09-29T00:00:00Z",
+    "readingLogIssueNumber": 142,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
     "linkId": 1130,
     "title": "Wait until you need it",
     "url": "https://gomakethings.com/wait-until-you-need-it/",
@@ -13,6 +45,38 @@
     "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1131,
+    "title": "The capitalism of fools",
+    "url": "https://pluralistic.net/2025/08/28/strew-deal/",
+    "author": "Cory Doctorow",
+    "linkDate": "2025-09-28T00:00:00Z",
+    "readingLogIssueNumber": 142,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 1134,
+    "title": "The \u201CLethal Trifecta\u201D",
+    "url": "https://economist.com/leaders/2025/09/25/how-to-stop-ais-lethal-trifecta?giftId=d753ee85-7829-4ccc-b46d-ff85be396cc8\u0026utm_campaign=gifted_article",
+    "author": "The Economist",
+    "linkDate": "2025-09-28T00:00:00Z",
+    "readingLogIssueNumber": 142,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
     }
   },
   {
