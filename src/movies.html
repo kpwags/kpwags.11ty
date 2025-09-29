@@ -1,0 +1,41 @@
+---
+layout: "layouts/wide-layout.html"
+title: "Movies"
+---
+<h1>Movies</h1>
+
+{% for year in movies.watched %}
+<section class="movie-year">
+	<h2>{{ year.year }} ({{ year.movies | length }})</h2>
+
+	<div class="grid">
+		{% for film in year.movies %}
+		{% movieListing film %}
+		{% endfor %}
+	</div>
+</section>
+{% endfor %}
+
+<script type="text/javascript" src="/scripts/media.js"></script>
+<script>
+	window.addEventListener('load', function() {
+		const dialog = document.querySelector('dialog.thoughts-dialog');
+
+		const toggleButtons = document.querySelectorAll('button.toggle-thoughts');
+
+		toggleButtons.forEach((button) => {
+			button.addEventListener('click', (e) => {
+				const dataType = e.target.getAttribute('data-type');
+				const id = e.target.getAttribute('data-id');
+
+				showThoughts(id, dataType);
+			});
+		});
+
+		const modalCloseButton = document.querySelector('dialog.thoughts-dialog button');
+
+		if (modalCloseButton) {
+			modalCloseButton.addEventListener('click', () => dialog.close());
+		}
+	});
+</script>

@@ -179,6 +179,25 @@ button:has(svg) {
 	background-color: var(--secondary-color);
 }
 
+.btn-ghost {
+	background-color: transparent;
+	border: 1px solid var(--primary-color);
+	color: var(--primary-color);
+}
+
+.btn-ghost svg {
+	fill: var(--primary-color);
+}
+
+.btn-ghost:hover {
+	border-color: var(--secondary-color);
+	color: var(--secondary-color);
+}
+
+.btn-ghost:hover svg {
+	fill: var(--secondary-color);
+}
+
 button.btn-link {
 	border: none;
 	color: var(--text);
@@ -1238,6 +1257,11 @@ section.music .grid {
 	justify-items: center;
 }
 
+section.music .grid .item .cover img {
+	width: 200px;
+	margin: 0 auto;
+}
+
 section.music .grid .item .info {
 	text-align: center;
 	margin-top: 8px;
@@ -1250,4 +1274,72 @@ section.music .grid .item button.btn-link {
 section.music .grid .item .info .meta {
 	color: var(--meta);
 	font-size: 0.875rem;
+}
+
+section.movie-year .grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+	gap: 32px;
+	justify-items: center;
+}
+
+section.movie-year .grid .item .info {
+	text-align: center;
+	margin-top: 8px;
+}
+
+section.movie-year .grid .item .info {
+	text-align: center;
+	margin-top: 8px;
+	display: flex;
+	gap: 8px;
+	flex-direction: column;
+}
+
+section.movie-year .grid .item .info .meta {
+	font-size: 0.875rem;
+	color: var(--meta);
+}
+
+section.movie-year button.btn-ghost {
+	padding: 2px 16px;
+}
+
+section.movie-year .grid .item .cover img {
+	width: 200px;
+	margin: 0 auto;
+}
+
+dialog.thoughts-dialog {
+	width: 600px;
+	border-color: var(--primary-color);
+	border-radius: 10px;
+	background: var(--background);
+	color: var(--text);
+}
+
+dialog.thoughts-dialog .content {
+	display: flex;
+	gap: 32px;
+}
+
+dialog.thoughts-dialog .content .image-container {
+	min-width: 200px;
+	max-width: 200px;
+}
+
+dialog.thoughts-dialog .btn-ghost {
+	padding: 4px 16px;
+}
+
+dialog.thoughts-dialog .content .details {
+	display: flex;
+	gap: 8px;
+	flex-direction: column;
+}
+
+dialog.thoughts-dialog .content .details h2 {
+	font-size: 1.75rem;
+	margin: 0;
+	padding: 0;
 }

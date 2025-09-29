@@ -1,10 +1,15 @@
 window.addEventListener('load', function () {
 	const musicDialog = document.querySelector('dialog.music-dialog');
 
-	const musicDialogCloseButton = document.querySelector('dialog.music-dialog button');
+	const musicDialogCloseButton = document.querySelector('dialog.music-dialog .close-button button');
+	const mobileMusicDialogCloseButton = document.querySelector('dialog.music-dialog .mobile-close-button button');
 
 	if (musicDialogCloseButton) {
 		musicDialogCloseButton.addEventListener('click', () => musicDialog.close());
+	}
+
+	if (mobileMusicDialogCloseButton) {
+		mobileMusicDialogCloseButton.addEventListener('click', () => musicDialog.close());
 	}
 });
 

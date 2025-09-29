@@ -14,7 +14,7 @@
 					<div class="formats tag-list"></div>
 				</div>
 			</div>
-			<div class="close-button"><button type="button">Close</button></div>
+			<div class="close-button"><button type="button" class="btn-ghost">Close</button></div>
 		</div>
 
 		<div class="tracks">
@@ -22,6 +22,8 @@
 			<h2 class="track-list-title">Tracks</h2>
 			<ol class="track-list"></ol>
 		</div>
+
+		<div class="mobile-close-button"><button type="button" class="btn-ghost">Close</button></div>
 	</div>
 </dialog>
 
@@ -58,7 +60,7 @@
 	dialog.music-dialog .info img {
 		display: block;
 		margin: 0 auto 16px;
-		width: 200;
+		width: 200px;
 	}
 
 	dialog.music-dialog h2 {
@@ -113,5 +115,48 @@
 
 	dialog.music-dialog .close-button {
 		margin-top: 32px;
+	}
+
+	dialog.music-dialog .mobile-close-button {
+		display: none;
+	}
+
+	dialog.music-dialog .btn-ghost {
+		padding: 4px 16px;
+	}
+
+	@media (max-width: 950px) {
+		dialog.music-dialog {
+			width: 750px;
+		}
+	}
+
+	@media (max-width: 768px) {
+		dialog.music-dialog {
+			width: 500px;
+		}
+	}
+
+	@media (max-width: 550px) {
+		dialog.music-dialog {
+			width: 350px;
+		}
+
+		dialog.music-dialog .content {
+			flex-direction: column;
+			gap: 32px;
+		}
+
+		dialog.music-dialog .close-button {
+			display: none;
+		}
+
+		dialog.music-dialog .mobile-close-button {
+			display: block;
+		}
+
+		dialog.music-dialog ol li {
+			list-style-position: inside;
+		}
 	}
 </style>
