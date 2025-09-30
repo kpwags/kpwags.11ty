@@ -1,5 +1,69 @@
 [
   {
+    "linkId": 1136,
+    "title": "Running .NET in the browser without Blazor",
+    "url": "https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/",
+    "author": "Andrew Lock",
+    "linkDate": "2025-09-29T00:00:00Z",
+    "readingLogIssueNumber": 143,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1138,
+    "title": "I Am An AI Hater",
+    "url": "http://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html",
+    "author": "Anthony Moser",
+    "linkDate": "2025-09-29T00:00:00Z",
+    "readingLogIssueNumber": 143,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1135,
+    "title": "Chaos, Brought to You by Kickers",
+    "url": "https://defector.com/chaos-brought-to-you-by-kickers?giftLink=d80e7c17fc207a8e8192f90e02c13b3e",
+    "author": "Ray Ratto",
+    "linkDate": "2025-09-28T00:00:00Z",
+    "readingLogIssueNumber": 143,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 1137,
+    "title": "AI Slop Invades the Office",
+    "url": "https://www.404media.co/ai-workslop-is-killing-productivity-and-making-workers-miserable/",
+    "author": "Jason Koebler",
+    "linkDate": "2025-09-28T00:00:00Z",
+    "readingLogIssueNumber": 143,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
     "linkId": 1132,
     "title": "How Ruby Went Off the Rails",
     "url": "https://www.404media.co/how-ruby-went-off-the-rails/",
