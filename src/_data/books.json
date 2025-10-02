@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 558,
-      "title": "Whisper Down the Lane",
+      "bookId": 592,
+      "title": "Ghost Eaters",
       "subTitle": "",
-      "fullTitle": "Whisper Down the Lane",
+      "fullTitle": "Ghost Eaters",
       "author": "Clay McLeod Chapman",
-      "link": "https://doylestownbookshop.com/book/9781683693062",
-      "dateStarted": "2025-09-30T00:00:00Z",
+      "link": "https://doylestownbookshop.com/book/9781683693789",
+      "dateStarted": "2025-10-02T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/6pVK0x0S/chapman-whisper-down-the-lane.jpg",
+      "coverImageUrl": "https://i.postimg.cc/cL1gHdKw/chapman-ghost-eaters.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 135,
-      "pageCount": 294,
-      "progress": 46,
-      "sortOrder": 70,
+      "currentPage": 1,
+      "pageCount": 301,
+      "progress": 0,
+      "sortOrder": 80,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -46,6 +46,51 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 558,
+          "title": "Whisper Down the Lane",
+          "subTitle": "",
+          "fullTitle": "Whisper Down the Lane",
+          "author": "Clay McLeod Chapman",
+          "link": "https://doylestownbookshop.com/book/9781683693062",
+          "dateStarted": "2025-09-30T00:00:00Z",
+          "dateCompleted": "2025-10-01T00:00:00Z",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "A fast read. Creepy with a whole lot of twists and turns. I enjoyed it.",
+          "coverImageUrl": "https://i.postimg.cc/6pVK0x0S/chapman-whisper-down-the-lane.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 294,
+          "pageCount": 294,
+          "progress": 100,
+          "sortOrder": 70,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Horror",
+              "colorCode": "rgb(146, 4, 4)"
+            },
+            {
+              "name": "Thriller",
+              "colorCode": "rgb(54, 31, 112)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
+        },
         {
           "bookId": 466,
           "title": "Just Keep Buying",
@@ -13993,47 +14038,6 @@
   ],
   "toRead": [
     {
-      "bookId": 592,
-      "title": "Ghost Eaters",
-      "subTitle": "",
-      "fullTitle": "Ghost Eaters",
-      "author": "Clay McLeod Chapman",
-      "link": "https://doylestownbookshop.com/book/9781683693789",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 301,
-      "progress": 0,
-      "sortOrder": 80,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Horror",
-          "colorCode": "rgb(146, 4, 4)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
-        }
-      ]
-    },
-    {
       "bookId": 593,
       "title": "Wake Up and Open Your Eyes",
       "subTitle": "",
@@ -14045,7 +14049,7 @@
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "",
+      "coverImageUrl": "https://i.postimg.cc/k5xkpPcF/chapman-wake-up-and-open-your-eyes.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
       "currentPage": 1,
