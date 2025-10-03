@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 1139,
+    "title": "5 Useful CSS functions using the new @function rule",
+    "url": "https://una.im/5-css-functions/",
+    "author": "Una Kravets",
+    "linkDate": "2025-10-02T00:00:00Z",
+    "readingLogIssueNumber": 143,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 1136,
     "title": "Running .NET in the browser without Blazor",
     "url": "https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/",
