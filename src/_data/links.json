@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 1140,
+    "title": "Is it possible to allow sideloading *and* keep users safe?",
+    "url": "https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/",
+    "author": "Terence Eden",
+    "linkDate": "2025-10-03T00:00:00Z",
+    "readingLogIssueNumber": 143,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
     "linkId": 1139,
     "title": "5 Useful CSS functions using the new @function rule",
     "url": "https://una.im/5-css-functions/",
