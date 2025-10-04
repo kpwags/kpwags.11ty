@@ -2467,6 +2467,267 @@
     ]
   },
   {
+    "musicAlbumId": 236,
+    "title": "Doom Garden",
+    "artist": "Catbite",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/SsQV5G3D/catbite-doom-garden.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Die in Denver"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Tired of Talk (feat. Patrick Stump)"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Put \u0027Em Away"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Eyes Wide (feat. Zayna Youssef)"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Deteriorate"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Remediate"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 237,
+    "title": "NICE ONE",
+    "artist": "Catbite",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/rmygb93h/catbite-nice-one.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Asinine Aesthetic"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Call Your Bluff"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Excuse Me Miss"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Not Ur Baby"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Stay"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Call Your Bluff (CATFITE)"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Not Ur Baby (CATFITE)"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Creepin"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Bad Influence"
+      },
+      {
+        "trackNumber": 10,
+        "title": "TV Screen Beauty Queen"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Bidi Bidi Bom Bom"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Lipstick Lines"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Doom Influence (CATFITE)"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Stay (catlite)"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 238,
+    "title": "Operation Ivy Live at The Empty Bottle",
+    "artist": "Catfite and Laura Jane Grace",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/W3pSK7C8/catbite-live-at-the-empty-bottle.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Knowledge"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Sound System"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Jaded"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Take Warning"
+      },
+      {
+        "trackNumber": 5,
+        "title": "The Crowd"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Bombshell"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Unity"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Vulnerability"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Bankshot"
+      },
+      {
+        "trackNumber": 10,
+        "title": "One of These Days"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Gonna Find You"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Bad Town"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Smiling"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Caution"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Freeze Up"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Artificial Life"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Room Without a Window"
+      },
+      {
+        "trackNumber": 18,
+        "title": "Big City"
+      },
+      {
+        "trackNumber": 19,
+        "title": "Missionary"
+      },
+      {
+        "trackNumber": 20,
+        "title": "Junkie\u0027s Runnin\u0027 Dry"
+      },
+      {
+        "trackNumber": 21,
+        "title": "Here We Go Again"
+      },
+      {
+        "trackNumber": 22,
+        "title": "Hoboken"
+      },
+      {
+        "trackNumber": 23,
+        "title": "Yellin in My Ear"
+      },
+      {
+        "trackNumber": 24,
+        "title": "Sleep Long"
+      },
+      {
+        "trackNumber": 25,
+        "title": "Healthy Body"
+      },
+      {
+        "trackNumber": 26,
+        "title": "Story Time"
+      },
+      {
+        "trackNumber": 27,
+        "title": "Officer"
+      },
+      {
+        "trackNumber": 28,
+        "title": "I Got No"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 4,
     "title": "Camp",
     "artist": "Childish Gambino",
@@ -3230,7 +3491,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/y8RQwGB5/crossed-keys-believes-in-you.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Punk",
@@ -6074,6 +6335,184 @@
       {
         "trackNumber": 14,
         "title": "Undefeated"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 239,
+    "title": "Those Days are Gone (10 Year Anniversary Edition)",
+    "artist": "Free Throw",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/KzcQV5wQ/free-throw-those-days-are-gone.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Such Luck"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Two Beers In"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Good Job, Champ"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Tongue Tied"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Pallet Town"
+      },
+      {
+        "trackNumber": 6,
+        "title": "An Hour Pissed"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Kim Tastie"
+      },
+      {
+        "trackNumber": 8,
+        "title": "How I Got My Shrunken Head"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Let\u0027s Get Invisible"
+      },
+      {
+        "trackNumber": 10,
+        "title": "What Day Is It, October?"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Hey Ken, Someone Methodically Mushed the Donuts"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Tongue Tied (Re-Recorded) ft. Pat Miranda"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Kim Tastie (Re-Recorded) ft. Christine Goodwyne"
+      },
+      {
+        "trackNumber": 14,
+        "title": "How I Got my Shrunken Head (Re-recorded) ft. Yvette Young"
+      },
+      {
+        "trackNumber": 15,
+        "title": "What Day Is It, October? (Re-Recorded) ft. Nathan Hardy"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Hey Ken, Someone Methodically Mushed The Donuts (Re-recorded) ft. Tades Sanville"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Such Luck (Live)"
+      },
+      {
+        "trackNumber": 18,
+        "title": "Two Beers In (Live)"
+      },
+      {
+        "trackNumber": 19,
+        "title": "Tongue Tied (Live)"
+      },
+      {
+        "trackNumber": 20,
+        "title": "Pallet Town (Live)"
+      },
+      {
+        "trackNumber": 21,
+        "title": "Hey Ken, Someone Methodically Mushed The Donuts (Live)"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 240,
+    "title": "What\u0027s Past is Prologue",
+    "artist": "Free Throw",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/tTRDfzwS/free-throw-whats-past-is-prologue.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Smokes, Let\u0027s Go"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Tail Whip, Struggle"
+      },
+      {
+        "trackNumber": 3,
+        "title": "The Corner\u0027s Dilemma"
+      },
+      {
+        "trackNumber": 4,
+        "title": "You Don\u0027t Say That"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Stay Out of the Basement"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Anaconda Vice"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Today is Especially Delicious"
+      },
+      {
+        "trackNumber": 8,
+        "title": "The Fix is In"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Perfect Driftwood"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Monte Luna"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Cerulean City"
+      },
+      {
+        "trackNumber": 12,
+        "title": "What\u0027s Past is Prologue"
       }
     ]
   },
@@ -11293,6 +11732,10 @@
     ],
     "formats": [
       {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      },
+      {
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -11493,6 +11936,10 @@
     ],
     "formats": [
       {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      },
+      {
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -11563,6 +12010,10 @@
       }
     ],
     "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      },
       {
         "name": "Vinyl",
         "colorCode": "#a51643"
@@ -11666,6 +12117,10 @@
     ],
     "formats": [
       {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      },
+      {
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -11741,6 +12196,10 @@
     ],
     "formats": [
       {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      },
+      {
         "name": "Vinyl",
         "colorCode": "#a51643"
       }
@@ -11795,6 +12254,10 @@
       }
     ],
     "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      },
       {
         "name": "Vinyl",
         "colorCode": "#a51643"
