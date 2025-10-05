@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 592,
-      "title": "Ghost Eaters",
+      "bookId": 593,
+      "title": "Wake Up and Open Your Eyes",
       "subTitle": "",
-      "fullTitle": "Ghost Eaters",
+      "fullTitle": "Wake Up and Open Your Eyes",
       "author": "Clay McLeod Chapman",
-      "link": "https://doylestownbookshop.com/book/9781683693789",
-      "dateStarted": "2025-10-02T00:00:00Z",
+      "link": "https://doylestownbookshop.com/book/9781683693956",
+      "dateStarted": "2025-10-04T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/cL1gHdKw/chapman-ghost-eaters.jpg",
+      "coverImageUrl": "https://i.postimg.cc/k5xkpPcF/chapman-wake-up-and-open-your-eyes.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 208,
-      "pageCount": 301,
-      "progress": 69,
-      "sortOrder": 80,
+      "currentPage": 36,
+      "pageCount": 382,
+      "progress": 9,
+      "sortOrder": 90,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -36,8 +36,8 @@
       ],
       "formats": [
         {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
         }
       ]
     }
@@ -46,6 +46,47 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 592,
+          "title": "Ghost Eaters",
+          "subTitle": "",
+          "fullTitle": "Ghost Eaters",
+          "author": "Clay McLeod Chapman",
+          "link": "https://doylestownbookshop.com/book/9781683693789",
+          "dateStarted": "2025-10-02T00:00:00Z",
+          "dateCompleted": "2025-10-04T00:00:00Z",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "A creepy story that fits well in the Halloween season.",
+          "coverImageUrl": "https://i.postimg.cc/cL1gHdKw/chapman-ghost-eaters.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 301,
+          "pageCount": 301,
+          "progress": 100,
+          "sortOrder": 80,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Horror",
+              "colorCode": "rgb(146, 4, 4)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
+        },
         {
           "bookId": 558,
           "title": "Whisper Down the Lane",
@@ -14037,47 +14078,6 @@
     }
   ],
   "toRead": [
-    {
-      "bookId": 593,
-      "title": "Wake Up and Open Your Eyes",
-      "subTitle": "",
-      "fullTitle": "Wake Up and Open Your Eyes",
-      "author": "Clay McLeod Chapman",
-      "link": "https://doylestownbookshop.com/book/9781683693956",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/k5xkpPcF/chapman-wake-up-and-open-your-eyes.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 382,
-      "progress": 0,
-      "sortOrder": 90,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Horror",
-          "colorCode": "rgb(146, 4, 4)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
-        }
-      ]
-    },
     {
       "bookId": 594,
       "title": "Inferno",

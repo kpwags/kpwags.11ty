@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 1141,
+    "title": "Why I hate the MVP car",
+    "url": "https://daverupert.com/2025/10/why-i-hate-the-mvp-car/",
+    "author": "Dave Rupert",
+    "linkDate": "2025-10-05T00:00:00Z",
+    "readingLogIssueNumber": 143,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
     "linkId": 1140,
     "title": "Is it possible to allow sideloading *and* keep users safe?",
     "url": "https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/",
