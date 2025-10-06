@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 1142,
+    "title": "The Coyier CSS starter",
+    "url": "https://piccalil.li/links/the-coyier-css-starter/",
+    "author": "Andy Bell",
+    "linkDate": "2025-10-06T00:00:00Z",
+    "readingLogIssueNumber": 143,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 1141,
     "title": "Why I hate the MVP car",
     "url": "https://daverupert.com/2025/10/why-i-hate-the-mvp-car/",
