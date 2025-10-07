@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 1143,
+    "title": "We Are Not Fascists, and If You Call Us Fascists, We Will Arrest You",
+    "url": "https://www.mcsweeneys.net/articles/we-are-not-fascists-and-if-you-call-us-fascists-we-will-arrest-you",
+    "author": "Carlos Greaves",
+    "linkDate": "2025-10-06T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
     "linkId": 1142,
     "title": "The Coyier CSS starter",
     "url": "https://piccalil.li/links/the-coyier-css-starter/",
