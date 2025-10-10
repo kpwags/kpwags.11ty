@@ -1,0 +1,16 @@
+---
+layout: "layouts/layout.html"
+title: "What I'm Up To"
+---
+
+<h1>What I'm Up To</h1>
+
+<section class="now-section">
+	<h2>Currently Reading</h2>
+
+	<div class="grid">
+		{% for book in books.inProgress %}
+		{% bookListing book true false %}
+		{% endfor %}
+	</div>
+</section>

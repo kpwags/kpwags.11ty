@@ -1,0 +1,19 @@
+---
+layout: "layouts/layout.html"
+title: "Bookshelf - Backlog"
+---
+
+<h1>Bookshelf - Backlog</h1>
+
+<p>One of these days I'll get to reading all of these</p>
+<p><strong>Backlog Count:</strong> {{ books.toRead.length }}</p>
+
+<section class="bookshelf-backlog">
+	<ul class="books-to-read">
+		{% for book in books.toRead %}
+		<li>
+			<a href="{{ book.link }}">{{ book.fullTitle }}</a> by {{ book.author }}
+		</li>
+		{% endfor %}
+	</ul>
+</section>

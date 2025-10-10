@@ -63,3 +63,120 @@
 		</label>
 	</div>
 </div>
+
+<script webc:keep>
+	window.addEventListener('load', () => {
+		const gameFilters = document.querySelectorAll('input[type="radio"][name="gameFilters"]');
+		gameFilters.forEach((filter) => {
+			filter.addEventListener('change', (e) => {
+				filterGames(e.target.id);
+			});
+		});
+	});
+
+	function filterGames(filter) {
+		if (filter.startsWith('completed-')) {
+			const yearString = filter.replace('completed-', '');
+			const year = parseInt(yearString);
+
+			if (year === 0) {
+				document.querySelectorAll('.item').forEach((item) => {
+					const isCompleted = item.getAttribute('data-completed') === 'yes';
+					if (isCompleted) {
+						item.removeAttribute('hidden');
+					} else {
+						item.setAttribute('hidden', 'true');
+					}
+				});
+			} else if (year <= 2023) {
+				document.querySelectorAll('.item').forEach((item) => {
+					const yearCompleted = parseInt(item.getAttribute('data-year-completed'));
+					if (yearCompleted > 0 && yearCompleted <= 2023) {
+						item.removeAttribute('hidden');
+					} else {
+						item.setAttribute('hidden', 'true');
+					}
+				});
+			} else {
+				document.querySelectorAll('.item').forEach((item) => {
+					const yearCompleted = parseInt(item.getAttribute('data-year-completed'));
+					if (yearCompleted > 0 && yearCompleted === year) {
+						item.removeAttribute('hidden');
+					} else {
+						item.setAttribute('hidden', 'true');
+					}
+				});
+			}
+		} else {
+			switch (filter) {
+				case 'all':
+					document.querySelectorAll('.item').forEach((item) => {
+						item.removeAttribute('hidden');
+					});
+					break;
+
+				case 'pc':
+				case 'playstation':
+				case 'xbox':
+					document.querySelectorAll('.item').forEach((item) => {
+						if (item.getAttribute('data-filter-platform').includes(filter)) {
+							item.removeAttribute('hidden');
+						} else {
+							item.setAttribute('hidden', 'true');
+						}
+					});
+					break;
+
+				case 'nintendo':
+					document.querySelectorAll('.item').forEach((item) => {
+						if (item.getAttribute('data-filter-platform').includes('nintendo-switch')) {
+							item.removeAttribute('hidden');
+						} else {
+							item.setAttribute('hidden', 'true');
+						}
+					});
+					break;
+
+				case 'shooter':
+					document.querySelectorAll('.item').forEach((item) => {
+						if (
+							item.getAttribute('data-filter-genre').includes('first-person-shooter') ||
+							item.getAttribute('data-filter-genre').includes('third-person-shooter')
+						) {
+							item.removeAttribute('hidden');
+						} else {
+							item.setAttribute('hidden', 'true');
+						}
+					});
+					break;
+
+				case 'completed':
+					document.querySelectorAll('.item').forEach((item) => {
+						if (item.getAttribute('data-completed') === 'yes') {
+							item.removeAttribute('hidden');
+						} else {
+							item.setAttribute('hidden', 'true');
+						}
+					});
+					break;
+
+				default:
+					document.querySelectorAll('.item').forEach((item) => {
+						const genres = item.getAttribute('data-filter-genre').split(',');
+						if (genres.includes(convertFilterName(filter))) {
+							item.removeAttribute('hidden');
+						} else {
+							item.setAttribute('hidden', 'true');
+						}
+					});
+					break;
+			}
+		}
+
+		const havePlayedItems = document.querySelectorAll('.have-played-grid .item:not([hidden])');
+		document.getElementById('have-played').textContent = havePlayedItems.length;
+
+		const currentlyPlayingItems = document.querySelectorAll('.playing-grid .item:not([hidden])');
+		document.getElementById('currently-playing').textContent = currentlyPlayingItems.length;
+	}
+</script>

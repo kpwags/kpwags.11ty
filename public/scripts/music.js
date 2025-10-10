@@ -90,3 +90,47 @@ function showMusicDialog(id) {
 		dialog.showModal();
 	}
 }
+
+function filterMusic(mode) {
+	switch (mode) {
+		case 'all':
+			document.querySelectorAll('.item').forEach((item) => {
+				item.removeAttribute('hidden');
+			});
+			break;
+
+		case 'top10':
+			document.querySelectorAll('.item').forEach((item) => {
+				if (item.getAttribute('data-topten') === 'true') {
+					item.removeAttribute('hidden');
+				} else {
+					item.setAttribute('hidden', 'true');
+				}
+			});
+			break;
+
+		case 'vinyl':
+		case 'cd':
+		case 'digital':
+			document.querySelectorAll('.item').forEach((item) => {
+				const formats = item.getAttribute('data-format').split(',');
+				if (formats.includes(mode)) {
+					item.removeAttribute('hidden');
+				} else {
+					item.setAttribute('hidden', 'true');
+				}
+			});
+			break;
+
+		default:
+			document.querySelectorAll('.item').forEach((item) => {
+				const genres = item.getAttribute('data-genre').split(',');
+				if (genres.includes(mode)) {
+					item.removeAttribute('hidden');
+				} else {
+					item.setAttribute('hidden', 'true');
+				}
+			});
+			break;
+	}
+}

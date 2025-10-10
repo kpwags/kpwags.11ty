@@ -1,0 +1,59 @@
+---
+layout: "layouts/wide-layout.html"
+title: "Video Games"
+---
+<h1>Video Games</h1>
+
+<section class="game-legend">
+	<div>✅ - indicates that I finished the game</div>
+	<div>🟥 - indicates that I did not finish the game</div>
+</section>
+
+{% renderTemplate "webc" %}
+	<video-game-filters></video-game-filters>
+{% endrenderTemplate %}
+
+<section class="video-game-section">
+	<h2>Currently Playing (<span id="currently-playing">{{ videoGames.inProgress | length }}</span>)</h2>
+
+	<div class="grid playing-grid">
+		{% for game in videoGames.inProgress %}
+		{% videoGameListing game false %}
+		{% endfor %}
+	</div>
+</section>
+
+<section class="video-game-section">
+	<h2>Played (<span id="have-played">{{ videoGames.completed | length }}</span>)</h2>
+
+	<div class="grid have-played-grid">
+		{% for game in videoGames.completed %}
+		{% videoGameListing game true %}
+		{% endfor %}
+	</div>
+</section>
+
+<script type="text/javascript" src="/scripts/media.js"></script>
+<script type="text/javascript" src="/scripts/video-games.js"></script>
+<script>
+	window.addEventListener('load', function() {
+		const dialog = document.querySelector('dialog.thoughts-dialog');
+
+		const toggleButtons = document.querySelectorAll('button.toggle-thoughts');
+
+		toggleButtons.forEach((button) => {
+			button.addEventListener('click', (e) => {
+				const dataType = e.target.getAttribute('data-type');
+				const id = e.target.getAttribute('data-id');
+
+				showThoughts(id, dataType);
+			});
+		});
+
+		const modalCloseButton = document.querySelector('dialog.thoughts-dialog button');
+
+		if (modalCloseButton) {
+			modalCloseButton.addEventListener('click', () => dialog.close());
+		}
+	});
+</script>

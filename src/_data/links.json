@@ -1,5 +1,613 @@
 [
   {
+    "linkId": 1140,
+    "title": "Is it possible to allow sideloading *and* keep users safe?",
+    "url": "https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/",
+    "author": "Terence Eden",
+    "linkDate": "2025-10-03T00:00:00Z",
+    "readingLogIssueNumber": 143,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 1139,
+    "title": "5 Useful CSS functions using the new @function rule",
+    "url": "https://una.im/5-css-functions/",
+    "author": "Una Kravets",
+    "linkDate": "2025-10-02T00:00:00Z",
+    "readingLogIssueNumber": 143,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1136,
+    "title": "Running .NET in the browser without Blazor",
+    "url": "https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/",
+    "author": "Andrew Lock",
+    "linkDate": "2025-09-29T00:00:00Z",
+    "readingLogIssueNumber": 143,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1138,
+    "title": "I Am An AI Hater",
+    "url": "http://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html",
+    "author": "Anthony Moser",
+    "linkDate": "2025-09-29T00:00:00Z",
+    "readingLogIssueNumber": 143,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1135,
+    "title": "Chaos, Brought to You by Kickers",
+    "url": "https://defector.com/chaos-brought-to-you-by-kickers?giftLink=d80e7c17fc207a8e8192f90e02c13b3e",
+    "author": "Ray Ratto",
+    "linkDate": "2025-09-28T00:00:00Z",
+    "readingLogIssueNumber": 143,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 1137,
+    "title": "AI Slop Invades the Office",
+    "url": "https://www.404media.co/ai-workslop-is-killing-productivity-and-making-workers-miserable/",
+    "author": "Jason Koebler",
+    "linkDate": "2025-09-28T00:00:00Z",
+    "readingLogIssueNumber": 143,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1132,
+    "title": "How Ruby Went Off the Rails",
+    "url": "https://www.404media.co/how-ruby-went-off-the-rails/",
+    "author": "Emanuel Maiberg",
+    "linkDate": "2025-09-29T00:00:00Z",
+    "readingLogIssueNumber": 142,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1133,
+    "title": "Landlords Demand Tenants\u2019 Workplace Logins to Scrape Their Paystubs",
+    "url": "https://www.404media.co/landlords-demand-tenants-workplace-logins-to-scrape-their-paystubs/",
+    "author": "Joseph Cox",
+    "linkDate": "2025-09-29T00:00:00Z",
+    "readingLogIssueNumber": 142,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 1130,
+    "title": "Wait until you need it",
+    "url": "https://gomakethings.com/wait-until-you-need-it/",
+    "author": "Chris Ferdinandi",
+    "linkDate": "2025-09-28T00:00:00Z",
+    "readingLogIssueNumber": 142,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1131,
+    "title": "The capitalism of fools",
+    "url": "https://pluralistic.net/2025/08/28/strew-deal/",
+    "author": "Cory Doctorow",
+    "linkDate": "2025-09-28T00:00:00Z",
+    "readingLogIssueNumber": 142,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 1134,
+    "title": "The \u201CLethal Trifecta\u201D",
+    "url": "https://economist.com/leaders/2025/09/25/how-to-stop-ais-lethal-trifecta?giftId=d753ee85-7829-4ccc-b46d-ff85be396cc8\u0026utm_campaign=gifted_article",
+    "author": "The Economist",
+    "linkDate": "2025-09-28T00:00:00Z",
+    "readingLogIssueNumber": 142,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1129,
+    "title": "A notional design studio.",
+    "url": "https://ethanmarcotte.com/wrote/a-notional-design-studio/",
+    "author": "Ethan Marcotte",
+    "linkDate": "2025-09-26T00:00:00Z",
+    "readingLogIssueNumber": 142,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1127,
+    "title": "The Risks of NPM",
+    "url": "https://blog.jim-nielsen.com/2025/npm-risks/",
+    "author": "Jim Nielsen",
+    "linkDate": "2025-09-24T00:00:00Z",
+    "readingLogIssueNumber": 142,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1126,
+    "title": "The Nation is Lost",
+    "url": "https://medium.com/whither-news/the-nation-is-lost-c134bc22da64",
+    "author": "Jeff Jarvis",
+    "linkDate": "2025-09-22T00:00:00Z",
+    "readingLogIssueNumber": 142,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 1128,
+    "title": "NASA\u2019s Juno Mission Leaves Stunning Legacy of Science at Jupiter",
+    "url": "https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/",
+    "author": "Robin George Andrews",
+    "linkDate": "2025-09-24T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 1125,
+    "title": "Jimmy Kimmel and America\u0027s Free-Speech Crisis",
+    "url": "https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2025/09/19/the-jimmy-kimmel-saga-and-americas-free-speech-crisis",
+    "author": "Plain English Podcast",
+    "linkDate": "2025-09-22T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1119,
+    "title": "New and Upcoming CSS Features I\u2019m Excited About",
+    "url": "https://www.simplethread.com/new-and-upcoming-css-features-i-m-excited-about/",
+    "author": "Quasar Wei",
+    "linkDate": "2025-09-21T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1120,
+    "title": "RFK Jr. Is Making His Bid To Become One Of American History\u0027s Biggest Killers",
+    "url": "https://defector.com/rfk-jr-is-making-his-bid-to-become-one-of-american-historys-biggest-killers",
+    "author": "Sabrina Imbler",
+    "linkDate": "2025-09-21T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Science",
+      "colorCode": "#732a45"
+    }
+  },
+  {
+    "linkId": 1121,
+    "title": "Everything I know about good API design",
+    "url": "https://www.seangoedecke.com/good-api-design/",
+    "author": "Sean Goedecke",
+    "linkDate": "2025-09-21T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1122,
+    "title": "The Software Engineers Paid to Fix Vibe Coded Messes",
+    "url": "https://www.404media.co/the-software-engineers-paid-to-fix-vibe-coded-messes/",
+    "author": "Emanuel Maiberg",
+    "linkDate": "2025-09-21T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1123,
+    "title": "How I Wish Web Components Worked",
+    "url": "https://andy-blum.com/articles/how-i-wish-web-components-worked/",
+    "author": "Andy Blum",
+    "linkDate": "2025-09-21T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1124,
+    "title": "Successive Prototypes Bridge the Gap Between Idea and Reality",
+    "url": "https://blog.jim-nielsen.com/2025/idea-to-reality-with-prototypes/",
+    "author": "Jim Nielsen",
+    "linkDate": "2025-09-21T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1116,
+    "title": "A Tiny Bit-O-CSS for Stable Scrollbar Gutters",
+    "url": "https://www.zachleat.com/web/stable-scrollbar-gutters/",
+    "author": "Zach Leatherman",
+    "linkDate": "2025-09-20T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1117,
+    "title": "Easy will always trump simple",
+    "url": "https://surfingcomplexity.blog/2025/08/17/easy-will-always-trump-simple/",
+    "author": "Lorin Hochstein",
+    "linkDate": "2025-09-20T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1118,
+    "title": "The Real Cost of Abstractions in .NET",
+    "url": "https://www.milanjovanovic.tech/blog/the-real-cost-of-abstractions-in-dotnet",
+    "author": "Milan Jovanovic",
+    "linkDate": "2025-09-20T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1112,
+    "title": "It\u0027s a Banned, Banned, Banned, Banned World",
+    "url": "https://podcast.ctrlaltspeech.com/2315966/episodes/17830537-it-s-a-banned-banned-banned-banned-world",
+    "author": "Ctrl-Alt-Speech",
+    "linkDate": "2025-09-19T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1113,
+    "title": "Whiskey, Security, Antitrust, and Fun with CSS Functions",
+    "url": "https://shoptalkshow.com/682/",
+    "author": "Shop Talk Show",
+    "linkDate": "2025-09-19T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1114,
+    "title": "RIP \u201CBrowsers\u201D",
+    "url": "https://blog.jim-nielsen.com/2025/rip-browsers/",
+    "author": "Jim Nielsen",
+    "linkDate": "2025-09-19T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 1115,
+    "title": "\u0022Best practice\u0022 is just your opinion",
+    "url": "https://craigabbott.co.uk/blog/best-practice-is-just-your-opinion/",
+    "author": "Craig Abbott",
+    "linkDate": "2025-09-19T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1108,
+    "title": "This website has no class",
+    "url": "https://aaadaaam.com/notes/no-class/",
+    "author": "Adam Stoddard",
+    "linkDate": "2025-09-18T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1109,
+    "title": "Why, as a responsible adult, SimCity 2000 hits differently",
+    "url": "https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/",
+    "author": "Kyle Orland",
+    "linkDate": "2025-09-18T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Gaming",
+      "colorCode": "#275576"
+    }
+  },
+  {
+    "linkId": 1110,
+    "title": "What\u0027s New in C# 14: Null-Conditional Assignments",
+    "url": "https://blog.ivankahl.com/csharp-14-null-conditional-assignments/",
+    "author": "Ivan Kahl",
+    "linkDate": "2025-09-18T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1111,
+    "title": "Why Make a Website in 2025?",
+    "url": "https://blog.jim-nielsen.com/2025/why-make-a-website-in-2025/",
+    "author": "Jim Nielsen",
+    "linkDate": "2025-09-18T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 1103,
+    "title": "There\u2019s no such thing as a CSS reset",
+    "url": "https://aaadaaam.com/notes/useful-defaults/",
+    "author": "Adam Stoddard",
+    "linkDate": "2025-09-16T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1104,
+    "title": "Kobo-pilled",
+    "url": "https://aaadaaam.com/notes/kobo-pilled/",
+    "author": "Adam Stoddard",
+    "linkDate": "2025-09-16T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1105,
+    "title": "$2,000 Shipping: International Sellers Charge Absurd Prices to Avoid Dealing With American Tariffs",
+    "url": "https://www.404media.co/2-000-shipping-international-sellers-charge-absurd-prices-to-avoid-dealing-with-american-tariffs/",
+    "author": "Jason Koebler",
+    "linkDate": "2025-09-16T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 1106,
+    "title": "Earth\u2019s oldest crater found!",
+    "url": "https://badastronomy.beehiiv.com/p/earth-s-oldest-crater-found",
+    "author": "Philip Plait",
+    "linkDate": "2025-09-16T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Science",
+      "colorCode": "#732a45"
+    }
+  },
+  {
+    "linkId": 1107,
+    "title": "Many years on the job and I still don\u0027t get it",
+    "url": "https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/",
+    "author": "Dave Rupert",
+    "linkDate": "2025-09-16T00:00:00Z",
+    "readingLogIssueNumber": 141,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
     "linkId": 1092,
     "title": "Why Your Team Sucks 2025: Green Bay Packers",
     "url": "https://defector.com/why-your-team-sucks-2025-green-bay-packers",

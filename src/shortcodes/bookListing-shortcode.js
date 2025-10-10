@@ -8,7 +8,7 @@ const getThoughts = (book) => {
 	return `
 <div class="view-thoughts">
 	<button
-		class="toggle-thoughts"
+		class="btn-ghost toggle-thoughts"
 		data-id="${book.bookId}"
 		data-type="book"
 		type="button"
@@ -40,22 +40,22 @@ const getBookNotesLink = (book) => {
 };
 
 const getBookGenres = (book) => {
-	const genres = book.genres.map((g) => g.name.replaceAll(' ', '-').toLowerCase());
+	const genres = (book.genres ?? []).map((g) => g.name.replaceAll(' ', '-').toLowerCase());
 
 	return genres.join(',');
 };
 
 const getBookFormat = (book) => {
-	const formats = book.formats.map((g) => g.name.replaceAll(' ', '-'));
+	const formats = (book.genres ?? []).map((g) => g.name.replaceAll(' ', '-'));
 
 	return formats.length > 0 ? formats[0] : '';
 };
 
-const bookListingShortcode = (book) => `
-<div class="item" data-book-id="${book.bookId}" data-title="${book.fullTitle}" data-booktype="${book.type.name.toLowerCase()}" data-genre="${getBookGenres(book)}" data-format="${getBookFormat(book)}">
+const bookListingShortcode = (book, showProgress, showRatingThoughts) => `
+<div class="item" data-book-id="${book.bookId}" data-title="${book.fullTitle}" data-booktype="${(book.type?.name ?? '').toLowerCase()}" data-genre="${getBookGenres(book)}" data-format="${getBookFormat(book)}">
 	<div class="cover">
 		<img src="${book.coverImageUrl}" alt="The cover for ${book.title}" height="225" width="150" />
-		${getProgress(book)}
+		${showProgress ? getProgress(book) : ''}
 	</div>
 	<div class="info">
 		<a href="${book.link}" target="_blank" rel="noreferrer">
@@ -66,11 +66,11 @@ const bookListingShortcode = (book) => `
 
 		<div class="meta">${book.author}</div>
 
-		${book.rating !== null ? starRating(book.rating, 'sm') : ''}
+		${showRatingThoughts && book.rating !== null ? starRating(book.rating, 'sm') : ''}
 
-		${getBookNotesLink(book)}
+		${showRatingThoughts ? getBookNotesLink(book) : ''}
 
-		${getThoughts(book)}
+		${showRatingThoughts ? getThoughts(book) : ''}
 	</div>
 </div>
 `;

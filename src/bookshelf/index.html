@@ -1,0 +1,39 @@
+---
+layout: "layouts/wide-layout.html"
+title: "Bookshelf"
+---
+
+<h1>Bookshelf</h1>
+
+<p>
+	I've been trying to read more and update my bookshelf to share what I think of books.<br />
+	You can also check out my <a href="/bookshelf/to-read">backlog</a> to see the books I plan on reading.
+</p>
+
+{% renderTemplate "webc" %}
+	<book-filters></book-filters>
+{% endrenderTemplate %}
+
+<section class="books-section">
+	<h2>Currently Reading (<span id="currently-reading">{{ books.inProgress | length }}</span>)</h2>
+
+	<div class="grid reading-grid">
+		{% for book in books.inProgress %}
+		{% bookListing book true false %}
+		{% endfor %}
+	</div>
+</section>
+
+{% for year in books.completed %}
+	<section class="books-section">
+		<h2>{{ year.year }} (<span id="have-read">{{ year.books | length }}</span>)</h2>
+
+		<div class="grid have-read-grid">
+			{% for book in year.books %}
+			{% bookListing book false true %}
+			{% endfor %}
+		</div>
+	</section>
+{% endfor %}
+
+<script type="text/javascript" src="/scripts/media.js"></script>

@@ -31,6 +31,14 @@ body.wide footer {
 	width: var(--wide-width);
 }
 
+@media (max-width: 500px) {
+	body.wide main,
+	body.wide header,
+	body.wide footer {
+		width: calc(100vw - 2rem);
+	}
+}
+
 h1 {
 	font-weight: 500;
 	font-size: 4rem;
@@ -119,14 +127,12 @@ p {
 	margin: 0 0 32px 0;
 }
 
-ul,
-ol {
+ul {
 	margin: 0;
 	padding: 0;
 }
 
-ul li,
-ol li {
+ul li {
 	margin-bottom: 8px;
 	margin-left: 24px;
 }
@@ -1238,6 +1244,10 @@ section.tags-list ul.archives-list li:first-child {
 	border-color: var(--secondary-color);
 }
 
+section.podcast-category {
+	margin-bottom: 80px;
+}
+
 section.podcast-category .grid {
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -1276,6 +1286,10 @@ section.music .grid .item .info .meta {
 	font-size: 0.875rem;
 }
 
+section.movie-year {
+	margin-bottom: 80px;
+}
+
 section.movie-year .grid {
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -1310,6 +1324,12 @@ section.movie-year .grid .item .cover img {
 	margin: 0 auto;
 }
 
+@media (max-width: 500px) {
+	section.movie-year .grid {
+		gap: 48px;
+	}
+}
+
 dialog.thoughts-dialog {
 	width: 600px;
 	border-color: var(--primary-color);
@@ -1342,4 +1362,296 @@ dialog.thoughts-dialog .content .details h2 {
 	font-size: 1.75rem;
 	margin: 0;
 	padding: 0;
+}
+
+dialog.thoughts-dialog .content .details .thoughts {
+	margin-bottom: 16px;
+}
+
+@media (max-width: 524px) {
+	dialog.thoughts-dialog .content {
+		flex-direction: column;
+	}
+
+	dialog.thoughts-dialog .content .image-container,
+	dialog.thoughts-dialog .content .image-container img {
+		width: 200px;
+		margin: 0 auto;
+	}
+
+	dialog.thoughts-dialog .content .details .close-button {
+		text-align: center;
+	}
+}
+
+.filters {
+	margin-bottom: 48px;
+}
+
+.filters legend {
+	font-size: 2rem;
+	font-weight: 600;
+	color: var(--primary-color);
+	margin-bottom: 8px;
+}
+
+.filters .filter-list {
+	display: flex;
+	gap: 16px;
+	flex-wrap: wrap;
+}
+
+.filters .filter-list:last-child {
+	margin-bottom: 0;
+}
+
+.filters .filter-list .filter-type {
+	font-weight: 600;
+	margin-bottom: 8px;
+	text-transform: uppercase;
+}
+
+.filters .filter-list input {
+	display: none;
+}
+
+.filters .filter-list label {
+	border: 1px solid var(--primary-color);
+	border-radius: 10px;
+	padding: 8px;
+	text-align: center;
+	cursor: pointer;
+	font-size: 1rem;
+	display: block;
+	width: 200px;
+}
+
+.filters .filter-list label:has(input:checked) {
+	background-color: var(--primary-color);
+	color: var(--primary-color-contrast);
+}
+
+@media (max-width: 1181px) {
+	.filters legend {
+		font-size: 1.5rem;
+	}
+
+	.filters .filter-list label {
+		font-size: 0.85rem;
+		width: auto;
+		display: inline-block;
+	}
+}
+
+section.tv-section {
+	margin-bottom: 80px;
+}
+
+section.tv-section .grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+	gap: 32px;
+	justify-items: center;
+}
+
+section.tv-section .grid .item .info {
+	text-align: center;
+	margin-top: 8px;
+}
+
+section.tv-section .grid .item .info {
+	text-align: center;
+	margin-top: 8px;
+	display: flex;
+	gap: 8px;
+	flex-direction: column;
+}
+
+section.tv-section button.btn-ghost {
+	padding: 2px 16px;
+}
+
+section.tv-section .grid .item .cover img {
+	width: 200px;
+	margin: 0 auto;
+}
+
+@media (max-width: 500px) {
+	section.tv-section .grid {
+		gap: 48px;
+	}
+}
+
+.media-progress-bar {
+	width: 200px;
+	margin: 8px auto 16px;
+}
+
+.media-progress-bar .bar {
+	height: 16px;
+	border: 1px solid var(--border-color);
+}
+
+.media-progress-bar .bar .inner-bar {
+	height: 100%;
+	background-color: var(--primary-color);
+}
+
+section.game-legend {
+	margin: 32px 0;
+}
+
+section.video-game-section {
+	margin-bottom: 80px;
+}
+
+section.video-game-section .grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+	gap: 32px;
+	justify-items: center;
+}
+
+section.video-game-section .grid .item .info {
+	text-align: center;
+	margin-top: 8px;
+}
+
+section.video-game-section .grid .item .info {
+	text-align: center;
+	margin-top: 8px;
+	display: flex;
+	gap: 8px;
+	flex-direction: column;
+}
+
+section.video-game-section button.btn-ghost {
+	padding: 2px 16px;
+}
+
+section.video-game-section .grid .item .cover {
+	position: relative;
+	width: 200px;
+	margin: 0 auto;
+}
+
+section.video-game-section .grid .item .cover img {
+	width: 200px;
+	margin: 0 auto;
+}
+
+section.video-game-section .grid .item .cover .finished-icon {
+	position: absolute;
+	bottom: 5px;
+	right: 10px;
+}
+
+@media (max-width: 500px) {
+	section.video-game-section .grid {
+		gap: 48px;
+	}
+}
+
+section.video-game-section:has(.item[hidden]) {
+	display: none;
+}
+
+section.video-game-section:has(.item:not([hidden])) {
+	display: inherit;
+}
+
+section.books-section {
+	margin-bottom: 80px;
+}
+
+section.books-section .grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+	gap: 32px;
+	justify-items: center;
+}
+
+section.books-section .grid .item .info {
+	text-align: center;
+	margin-top: 8px;
+}
+
+section.books-section .grid .item .info {
+	text-align: center;
+	margin-top: 8px;
+	display: flex;
+	gap: 8px;
+	flex-direction: column;
+}
+
+section.books-section button.btn-ghost {
+	padding: 2px 16px;
+}
+
+section.books-section .grid .item .cover {
+	width: 200px;
+	margin: 0 auto;
+}
+
+section.books-section .grid .item .cover img {
+	width: 200px;
+	margin: 0 auto;
+}
+
+@media (max-width: 500px) {
+	section.books-section .grid {
+		gap: 48px;
+	}
+}
+
+section.books-section:has(.item[hidden]) {
+	display: none;
+}
+
+section.books-section:has(.item:not([hidden])) {
+	display: inherit;
+}
+
+section.now-section {
+	margin-bottom: 80px;
+}
+
+section.now-section .grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+	gap: 32px;
+	justify-items: center;
+}
+
+section.now-section .grid .item .info {
+	text-align: center;
+	margin-top: 8px;
+}
+
+section.now-section .grid .item .info {
+	text-align: center;
+	margin-top: 8px;
+	display: flex;
+	gap: 8px;
+	flex-direction: column;
+}
+
+section.now-section button.btn-ghost {
+	padding: 2px 16px;
+}
+
+section.now-section .grid .item .cover {
+	width: 200px;
+	margin: 0 auto;
+}
+
+section.now-section .grid .item .cover img {
+	width: 200px;
+	margin: 0 auto;
+}
+
+@media (max-width: 500px) {
+	section.now-section .grid {
+		gap: 48px;
+	}
 }
