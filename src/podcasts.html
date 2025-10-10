@@ -7,7 +7,7 @@ title: "Podcasts"
 <p>Last Updated: {{ config.builtAt | readableDate }}</p>
 
 {% for category in podcasts %}
-<section class="podcast-category">
+<section class="media-section">
 	<h2>{{ category.name }} ({{ category.podcasts | length }})</h2>
 
 	<div class="grid">
@@ -16,7 +16,7 @@ title: "Podcasts"
 				<div class="cover">
 					<img src="{{ podcast.coverImageUrl }}" alt="{{ podcast.name }}" width="200" height="200" />
 				</div>
-				<div class="podcast-title">
+				<div class="info">
 					<a href="{{ podcast.link }}">{{ podcast.name }}</a>
 				</div>
 			</div>

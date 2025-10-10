@@ -3,7 +3,7 @@ import utc from 'dayjs/plugin/utc.js';
 
 dayjs.extend(utc);
 
-const dateFilter = (dateObj, format = 'MMMM D, YYYY', zone) => {
+const dateFilter = (dateObj, format = 'MMMM D, YYYY') => {
 	if (typeof dateObj === 'string') {
 		dateObj = new Date(dateObj);
 	}

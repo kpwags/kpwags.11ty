@@ -4,8 +4,6 @@ title: "Music"
 ---
 <h1>Music</h1>
 
-<p>Last Updated: {{ config.builtAt | readableDate }}</p>
-
 <aside class="filters">
 	<legend>Filters</legend>
 	<div class="filter-list">
@@ -68,7 +66,7 @@ title: "Music"
 	</div>
 </aside>
 
-<section class="music">
+<section class="media-section">
 	<div class="grid">
 		{% for album in music %}
 			{% musicListing album %}
@@ -77,19 +75,7 @@ title: "Music"
 </section>
 
 {% renderTemplate "webc" %}
-<music-dialog></music-dialog>
+	<music-dialog></music-dialog>
 {% endrenderTemplate %}
 
 <script type="text/javascript" src="/scripts/music.js"></script>
-<script>
-	window.addEventListener('load', function () {
-		attachMusicAlbumEvents('.music .grid .item .btn-link');
-
-		const musicFilters = document.querySelectorAll('input[type="radio"][name="musicFilters"]');
-		musicFilters.forEach((filter) => {
-			filter.addEventListener('change', (e) => {
-				filterMusic(e.target.id);
-			});
-		});
-	});
-</script>

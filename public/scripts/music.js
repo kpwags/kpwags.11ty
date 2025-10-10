@@ -1,4 +1,6 @@
 window.addEventListener('load', function () {
+	attachMusicAlbumEvents('.media-section .grid .item .btn-link');
+
 	const musicDialog = document.querySelector('dialog.music-dialog');
 
 	const musicDialogCloseButton = document.querySelector('dialog.music-dialog .close-button button');
@@ -11,6 +13,14 @@ window.addEventListener('load', function () {
 	if (mobileMusicDialogCloseButton) {
 		mobileMusicDialogCloseButton.addEventListener('click', () => musicDialog.close());
 	}
+
+	// filtering
+	const musicFilters = document.querySelectorAll('input[type="radio"][name="musicFilters"]');
+	musicFilters.forEach((filter) => {
+		filter.addEventListener('change', (e) => {
+			filterMusic(e.target.id);
+		});
+	});
 });
 
 function attachMusicAlbumEvents(selector) {

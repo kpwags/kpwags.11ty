@@ -1244,92 +1244,6 @@ section.tags-list ul.archives-list li:first-child {
 	border-color: var(--secondary-color);
 }
 
-section.podcast-category {
-	margin-bottom: 80px;
-}
-
-section.podcast-category .grid {
-	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-	gap: 32px;
-	justify-items: center;
-}
-
-section.podcast-category .grid .item .podcast-title {
-	text-align: center;
-	margin-top: 8px;
-}
-
-section.music .grid {
-	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-	gap: 32px;
-	justify-items: center;
-}
-
-section.music .grid .item .cover img {
-	width: 200px;
-	margin: 0 auto;
-}
-
-section.music .grid .item .info {
-	text-align: center;
-	margin-top: 8px;
-}
-
-section.music .grid .item button.btn-link {
-	font-size: var(--font-size-base);
-}
-
-section.music .grid .item .info .meta {
-	color: var(--meta);
-	font-size: 0.875rem;
-}
-
-section.movie-year {
-	margin-bottom: 80px;
-}
-
-section.movie-year .grid {
-	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-	gap: 32px;
-	justify-items: center;
-}
-
-section.movie-year .grid .item .info {
-	text-align: center;
-	margin-top: 8px;
-}
-
-section.movie-year .grid .item .info {
-	text-align: center;
-	margin-top: 8px;
-	display: flex;
-	gap: 8px;
-	flex-direction: column;
-}
-
-section.movie-year .grid .item .info .meta {
-	font-size: 0.875rem;
-	color: var(--meta);
-}
-
-section.movie-year button.btn-ghost {
-	padding: 2px 16px;
-}
-
-section.movie-year .grid .item .cover img {
-	width: 200px;
-	margin: 0 auto;
-}
-
-@media (max-width: 500px) {
-	section.movie-year .grid {
-		gap: 48px;
-	}
-}
-
 dialog.thoughts-dialog {
 	width: 600px;
 	border-color: var(--primary-color);
@@ -1443,45 +1357,6 @@ dialog.thoughts-dialog .content .details .thoughts {
 	}
 }
 
-section.tv-section {
-	margin-bottom: 80px;
-}
-
-section.tv-section .grid {
-	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-	gap: 32px;
-	justify-items: center;
-}
-
-section.tv-section .grid .item .info {
-	text-align: center;
-	margin-top: 8px;
-}
-
-section.tv-section .grid .item .info {
-	text-align: center;
-	margin-top: 8px;
-	display: flex;
-	gap: 8px;
-	flex-direction: column;
-}
-
-section.tv-section button.btn-ghost {
-	padding: 2px 16px;
-}
-
-section.tv-section .grid .item .cover img {
-	width: 200px;
-	margin: 0 auto;
-}
-
-@media (max-width: 500px) {
-	section.tv-section .grid {
-		gap: 48px;
-	}
-}
-
 .media-progress-bar {
 	width: 200px;
 	margin: 8px auto 16px;
@@ -1501,23 +1376,23 @@ section.game-legend {
 	margin: 32px 0;
 }
 
-section.video-game-section {
+section.media-section {
 	margin-bottom: 80px;
 }
 
-section.video-game-section .grid {
+section.media-section .grid {
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
 	gap: 32px;
 	justify-items: center;
 }
 
-section.video-game-section .grid .item .info {
+section.media-section .grid .item .info {
 	text-align: center;
 	margin-top: 8px;
 }
 
-section.video-game-section .grid .item .info {
+section.media-section .grid .item .info {
 	text-align: center;
 	margin-top: 8px;
 	display: flex;
@@ -1525,133 +1400,113 @@ section.video-game-section .grid .item .info {
 	flex-direction: column;
 }
 
-section.video-game-section button.btn-ghost {
+section.media-section button.btn-ghost {
 	padding: 2px 16px;
 }
 
-section.video-game-section .grid .item .cover {
+section.media-section .grid .item .cover {
+	width: 200px;
+	margin: 0 auto;
+}
+
+section.media-section .grid .item .cover img {
+	width: 200px;
+	margin: 0 auto;
+}
+
+section.media-section .grid .item .info .meta {
+	color: var(--meta);
+	font-size: 0.875rem;
+}
+
+
+section.media-section:has(.item[hidden]) {
+	display: none;
+}
+
+section.media-section:has(.item:not([hidden])) {
+	display: inherit;
+}
+
+section.media-section .grid.playing-grid .item .cover,
+section.media-section .grid.have-played-grid .item .cover {
 	position: relative;
-	width: 200px;
-	margin: 0 auto;
 }
 
-section.video-game-section .grid .item .cover img {
-	width: 200px;
-	margin: 0 auto;
-}
-
-section.video-game-section .grid .item .cover .finished-icon {
+section.media-section .grid.playing-grid .item .cover .finished-icon,
+section.media-section .grid.have-played-grid .item .cover .finished-icon {
 	position: absolute;
 	bottom: 5px;
 	right: 10px;
 }
 
 @media (max-width: 500px) {
-	section.video-game-section .grid {
+	section.media-section .grid {
 		gap: 48px;
 	}
 }
 
-section.video-game-section:has(.item[hidden]) {
-	display: none;
-}
-
-section.video-game-section:has(.item:not([hidden])) {
-	display: inherit;
-}
-
-section.books-section {
-	margin-bottom: 80px;
-}
-
-section.books-section .grid {
-	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-	gap: 32px;
-	justify-items: center;
-}
-
-section.books-section .grid .item .info {
-	text-align: center;
-	margin-top: 8px;
-}
-
-section.books-section .grid .item .info {
-	text-align: center;
-	margin-top: 8px;
+.recent-movie {
 	display: flex;
-	gap: 8px;
-	flex-direction: column;
+	gap: 48px;
+	margin-bottom: 32px;
 }
 
-section.books-section button.btn-ghost {
-	padding: 2px 16px;
+.recent-movie .cover {
+	min-width: 200px;
+	max-width: 200px;
 }
 
-section.books-section .grid .item .cover {
-	width: 200px;
-	margin: 0 auto;
+.recent-movie .info .meta {
+	margin-bottom: 16px;
+	font-style: italic;
 }
 
-section.books-section .grid .item .cover img {
-	width: 200px;
-	margin: 0 auto;
+.recent-movie .info .rating {
+	margin: 16px 0 8px;
 }
 
 @media (max-width: 500px) {
-	section.books-section .grid {
-		gap: 48px;
+	.recent-movie {
+		margin-bottom: 64px;
+	}
+
+	.recent-movie .cover {
+		min-width: 120px;
+		max-width: 120px;
+	}
+
+	.recent-movie .info h3 {
+		margin-top: 0;
 	}
 }
 
-section.books-section:has(.item[hidden]) {
-	display: none;
+article.note {
+	margin-bottom: 128px;
 }
 
-section.books-section:has(.item:not([hidden])) {
-	display: inherit;
+article.note h2 {
+	font-size: 1.5rem;
+	margin: 0;
 }
 
-section.now-section {
-	margin-bottom: 80px;
-}
-
-section.now-section .grid {
-	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-	gap: 32px;
-	justify-items: center;
-}
-
-section.now-section .grid .item .info {
-	text-align: center;
-	margin-top: 8px;
-}
-
-section.now-section .grid .item .info {
-	text-align: center;
-	margin-top: 8px;
+article.note .metadata {
 	display: flex;
 	gap: 8px;
-	flex-direction: column;
+	text-transform: uppercase;
+	font-size: 1rem;
+	margin-top: 4px;
 }
 
-section.now-section button.btn-ghost {
-	padding: 2px 16px;
+article.note .content {
+	margin: 16px 0;
+	font-size: 1rem;
 }
 
-section.now-section .grid .item .cover {
-	width: 200px;
-	margin: 0 auto;
+article.note .content blockquote {
+	padding: 16px;
 }
 
-section.now-section .grid .item .cover img {
-	width: 200px;
-	margin: 0 auto;
-}
-
-@media (max-width: 500px) {
-	section.now-section .grid {
-		gap: 48px;
-	}
+article.note fit-vids {
+	margin-bottom: 24px;
 }

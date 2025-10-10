@@ -5,7 +5,7 @@ title: "What I'm Up To"
 
 <h1>What I'm Up To</h1>
 
-<section class="now-section">
+<section class="media-section">
 	<h2>Currently Reading</h2>
 
 	<div class="grid">
@@ -14,3 +14,66 @@ title: "What I'm Up To"
 		{% endfor %}
 	</div>
 </section>
+
+<section class="media-section">
+	<h2>Currently Watching</h2>
+
+	<div class="grid">
+		{% for show in tv.inProgress %}
+		{% tvListing show true false %}
+		{% endfor %}
+	</div>
+</section>
+
+<section class="media-section">
+	<h2>Currently Playing</h2>
+
+	<div class="grid">
+		{% for game in videoGames.inProgress %}
+		{% videoGameListing game false %}
+		{% endfor %}
+	</div>
+</section>
+
+<section class="media-section">
+	<h2>Currently Listening To</h2>
+
+	<div class="grid music">
+		{% for music in now.music %}
+		{% musicListing music %}
+		{% endfor %}
+	</div>
+</section>
+
+{% if recentMovies.length > 0 %}
+	<section class="media-section">
+		<h2>Recent Movies</h2>
+
+		{% for movie in recentMovies %}
+		<div class="recent-movie">
+			<div class="cover">
+				<img src="{{ movie.posterImageUrl }}" alt="{{ movie.title }}" height="300" width="200" />
+			</div>
+			<div class="info">
+				<h3>{{ movie.title }}</h3>
+				{% starRating movie.rating %}
+				<div class="meta">{{ movie.dateWatched | readableDate }}</div>
+				<div class="thoughts">{{ movie.thoughts }}</div>
+			</div>
+		</div>
+		{% endfor %}
+	</section>
+{% endif %}
+
+
+{% renderTemplate "webc" %}
+	<music-dialog></music-dialog>
+{% endrenderTemplate %}
+
+
+<script type="text/javascript" src="/scripts/music.js"></script>
+<script>
+	window.addEventListener('load', function () {
+		attachMusicAlbumEvents('.media-section .grid.music .item .btn-link');
+	});
+</script>

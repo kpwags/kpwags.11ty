@@ -1,7 +1,7 @@
 export const blogPosts = (collection, opts) => {
 	const {
 		includeRssOnly = false,
-		includePolitics = true
+		includePolitics = true,
 	} = opts;
 
 	const blogPosts = collection
