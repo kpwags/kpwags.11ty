@@ -1,5 +1,133 @@
 [
   {
+    "linkId": 1151,
+    "title": "Why do browsers throttle JavaScript timers?",
+    "url": "https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/",
+    "author": "Nolan Lawson",
+    "linkDate": "2025-10-12T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1147,
+    "title": "Bubble trouble: could the AI boom go pop?",
+    "url": "https://www.economist.com/podcasts/2025/10/09/bubble-trouble-could-the-ai-boom-go-pop?utm_campaign=shared_article",
+    "author": "The Economist",
+    "linkDate": "2025-10-09T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1148,
+    "title": "Wargames",
+    "url": "https://www.marketplace.org/episode/2024/10/09/wargames",
+    "author": "How We Survive",
+    "linkDate": "2025-10-09T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1150,
+    "title": "CSS :is() :where() the Mag\u00ADic Happens",
+    "url": "https://matthiasott.com/notes/css-is-where-the-magic-happens",
+    "author": "Matthias Ott",
+    "linkDate": "2025-10-09T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1145,
+    "title": "Blazor Prerendering is Finally SOLVED in .NET 10!",
+    "url": "https://dotnetwebacademy.substack.com/p/net-10-finally-fixes-prerendering",
+    "author": "Patrick God",
+    "linkDate": "2025-10-08T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1146,
+    "title": "We all have a choice",
+    "url": "https://whitep4nth3r.com/blog/we-all-have-a-choice/",
+    "author": "Salma Alam-Naylor",
+    "linkDate": "2025-10-08T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 1149,
+    "title": "Life Isn\u2019t a Spreadsheet",
+    "url": "https://www.spilledcoffee.co/p/life-isnt-a-spreadsheet",
+    "author": "Eric Soda",
+    "linkDate": "2025-10-08T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Investing",
+      "colorCode": "#006c00"
+    }
+  },
+  {
+    "linkId": 1144,
+    "title": "The Hidden Cost of Slow Feedback Loops",
+    "url": "https://revontulet.dev/p/2025-hidden-cost-slow-feedback-loops/",
+    "author": "Matthias D\u00F6pmann",
+    "linkDate": "2025-10-07T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
     "linkId": 1143,
     "title": "We Are Not Fascists, and If You Call Us Fascists, We Will Arrest You",
     "url": "https://www.mcsweeneys.net/articles/we-are-not-fascists-and-if-you-call-us-fascists-we-will-arrest-you",
