@@ -1485,6 +1485,7 @@ article.note {
 	margin-bottom: 128px;
 }
 
+article.note h1,
 article.note h2 {
 	font-size: 1.5rem;
 	margin: 0;
@@ -1498,6 +1499,10 @@ article.note .metadata {
 	margin-top: 4px;
 }
 
+article.note .metadata a.tag-link {
+	text-transform: none;
+}
+
 article.note .content {
 	margin: 16px 0;
 	font-size: 1rem;
@@ -1505,8 +1510,27 @@ article.note .content {
 
 article.note .content blockquote {
 	padding: 16px;
+	margin-left: 0;
+	margin-right: 0;
 }
 
 article.note fit-vids {
 	margin-bottom: 24px;
+}
+
+article.note .footer {
+	display: flex;
+	flex-direction: column;
+	gap: 32px;
+	font-size: 1rem;
+}
+
+article.note:last-of-type {
+	margin-bottom: 0;
+}
+
+@media (max-width: 500px) {
+	article.note {
+		margin-bottom: 96px;
+	}
 }

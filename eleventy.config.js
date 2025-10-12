@@ -23,6 +23,7 @@ import { bookNoteTitlePrefix } from './src/filters/rssPrefixes-filter.js';
 import domainFilter from './src/filters/domain-filter.js';
 import { linkContent, linkMostRecentDate } from './src/filters/link-filters.js';
 import { rssThankYou } from './src/filters/rssThankYou-filter.js';
+import { tagFilter } from './src/filters/tagFilter-filter.js';
 
 import inDepthShortcode from './src/shortcodes/inDepth-shortcode.js';
 import youTubeShortcode from './src/shortcodes/youTube-shortcode.js';
@@ -62,11 +63,11 @@ export default function (eleventyConfig) {
         components: "./src/_components/**/*.webc",
     });
 
-    eleventyConfig.addCollection('publicPosts', (collection) => blogPosts(collection, { includePolitics: true, includeRssOnly : false }));
+    eleventyConfig.addCollection('publicPosts', (collection) => blogPosts(collection, { includePolitics: true, includeRssOnly: false }));
     eleventyConfig.addCollection('archives', archives);
     eleventyConfig.addCollection('stats', stats);
     eleventyConfig.addCollection('everything', allContent);
-    eleventyConfig.addCollection('postsNoPolitics', (collection) => blogPosts(collection, { includePolitics: false, includeRssOnly : true }));
+    eleventyConfig.addCollection('postsNoPolitics', (collection) => blogPosts(collection, { includePolitics: false, includeRssOnly: true }));
     eleventyConfig.addCollection('notesNoPolitics', (collection) => blogNotes(collection, { includePolitics: false }));
     eleventyConfig.addCollection('everythingNoPolitics', (collection) => allContent(collection, false));
     eleventyConfig.addCollection('pinnedPosts', pinnedBlogPosts);
@@ -74,6 +75,7 @@ export default function (eleventyConfig) {
 
     eleventyConfig.addFilter('readableDate', dateFilter);
     eleventyConfig.addFilter('tagUrlSlug', tagUrlFilter);
+    eleventyConfig.addFilter('tagFilter', tagFilter);
     eleventyConfig.addFilter('toHTML', toHtmlFilter);
     eleventyConfig.addFilter('readingTime', readingTimeFilter);
     eleventyConfig.addFilter('length', lengthFilter);
