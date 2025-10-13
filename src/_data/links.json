@@ -1,5 +1,53 @@
 [
   {
+    "linkId": 1154,
+    "title": "What Happened When AI Came for Craft Beer",
+    "url": "https://www.404media.co/what-happened-when-ai-came-for-craft-beer-canadian-beer-awards-best-beer-app/",
+    "author": "Joseph Cox",
+    "linkDate": "2025-10-13T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1152,
+    "title": "The Lifeblood of the Web",
+    "url": "https://matthiasott.com/notes/the-lifeblood-of-the-web",
+    "author": "Matthias Ott",
+    "linkDate": "2025-10-13T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1153,
+    "title": "Targeting Specific Characters with CSS Rules",
+    "url": "https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/",
+    "author": "Terence Eden",
+    "linkDate": "2025-10-13T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 1151,
     "title": "Why do browsers throttle JavaScript timers?",
     "url": "https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/",
