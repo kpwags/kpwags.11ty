@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 1155,
+    "title": "Jamie Taylor",
+    "url": "https://www.coffeeandopensource.com/guest/jamie-taylor.html",
+    "author": "Coffee \u0026 Open Source",
+    "linkDate": "2025-10-14T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 1154,
     "title": "What Happened When AI Came for Craft Beer",
     "url": "https://www.404media.co/what-happened-when-ai-came-for-craft-beer-canadian-beer-awards-best-beer-app/",
