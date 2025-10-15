@@ -1485,7 +1485,11 @@ article.note {
 	margin-bottom: 128px;
 }
 
-article.note h1,
+article.note h1 {
+	font-size: 1.75rem;
+	margin: 0;
+}
+
 article.note h2 {
 	font-size: 1.5rem;
 	margin: 0;
