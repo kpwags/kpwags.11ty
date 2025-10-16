@@ -1,5 +1,53 @@
 [
   {
+    "linkId": 1156,
+    "title": "Lawyer Caught Using AI While Explaining to Court Why He Used AI",
+    "url": "https://www.404media.co/lawyer-using-ai-fake-citations/",
+    "author": "Samantha Cole",
+    "linkDate": "2025-10-15T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1157,
+    "title": "The killer feature of Web Components",
+    "url": "https://daverupert.com/2025/10/custom-elements-manifest-killer-feature/",
+    "author": "Dave Rupert",
+    "linkDate": "2025-10-15T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1158,
+    "title": "Why ad blockers are a top security and privacy defense for everyone",
+    "url": "https://this.weekinsecurity.com/why-ad-blockers-are-a-top-security-and-privacy-defense-for-everyone/",
+    "author": "Zack Whittaker",
+    "linkDate": "2025-10-15T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Cybersecurity",
+      "colorCode": "#948000"
+    }
+  },
+  {
     "linkId": 1155,
     "title": "Jamie Taylor",
     "url": "https://www.coffeeandopensource.com/guest/jamie-taylor.html",

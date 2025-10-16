@@ -1,0 +1,1 @@
+dotnet /Users/keith/Apps/SiteContentGenerator/SiteContentGenerator.dll
