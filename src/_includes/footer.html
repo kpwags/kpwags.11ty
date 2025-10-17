@@ -53,4 +53,35 @@
 		</ul>
 	</nav>
 	<div>Built with <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer nofollow">11ty</a> on {{ config.builtAt | readableDate }}</div>
+
+	<div class="theme-selector">
+		<form class="color-controls" name="colorsForm">
+            <fieldset>
+                <legend>Choose Color:</legend>
+                <div class="controls-block">
+                    <label for="theme-color-red">
+                        <span class="sr-only">Red</span>
+                        {% renderTemplate "webc" %}
+						<theme name="light"></theme>
+						{% endrenderTemplate %}
+                        <input type="radio" id="theme-color-red" name="colorTheme" value="red" />
+                    </label>
+                    <label for="theme-color-orange">
+                        <span class="sr-only">Orange</span>
+                        {% renderTemplate "webc" %}
+						<theme name="dark"></theme>
+						{% endrenderTemplate %}
+                        <input type="radio" id="theme-color-orange" name="colorTheme" value="orange" />
+                    </label>
+                    <label for="theme-color-green">
+                        <span class="sr-only">Green</span>
+                        {% renderTemplate "webc" %}
+						<theme name="nord"></theme>
+						{% endrenderTemplate %}
+                        <input type="radio" id="theme-color-green" name="colorTheme" value="green" checked />
+                    </label>
+                </div>
+            </fieldset>
+        </form>
+	</div>
 </footer>
