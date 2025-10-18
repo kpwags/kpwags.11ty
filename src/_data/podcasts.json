@@ -190,17 +190,6 @@
         }
       },
       {
-        "podcastId": 139,
-        "podcastCategoryId": 1,
-        "name": "Think Like an Economist",
-        "link": "https://art19.com/shows/think-like-an-economist",
-        "coverImageUrl": "https://i.postimg.cc/nLBbsCRJ/think_like_an_economist.jpg",
-        "category": {
-          "name": "Business \u0026 Economics",
-          "colorCode": "#017c34"
-        }
-      },
-      {
         "podcastId": 138,
         "podcastCategoryId": 1,
         "name": "What\u0027s Your Problem",
@@ -217,11 +206,33 @@
     "name": "Finance \u0026 Investing",
     "podcasts": [
       {
+        "podcastId": 164,
+        "podcastCategoryId": 7,
+        "name": "Afford Anything",
+        "link": "https://affordanything.com",
+        "coverImageUrl": "https://i.postimg.cc/T2rM2Lyq/afford-anything.jpg",
+        "category": {
+          "name": "Finance \u0026 Investing",
+          "colorCode": "#08260e"
+        }
+      },
+      {
         "podcastId": 93,
         "podcastCategoryId": 7,
         "name": "Chat with Traders",
         "link": "https://chatwithtraders.com/",
         "coverImageUrl": "https://i.postimg.cc/D0cMrGs9/chat-with-traders.jpg",
+        "category": {
+          "name": "Finance \u0026 Investing",
+          "colorCode": "#08260e"
+        }
+      },
+      {
+        "podcastId": 24,
+        "podcastCategoryId": 7,
+        "name": "The Extreme Personal Finance Show",
+        "link": "https://heavymetal.money/pod/",
+        "coverImageUrl": "https://i.postimg.cc/jqDSKbxW/heavy-metal-money.jpg",
         "category": {
           "name": "Finance \u0026 Investing",
           "colorCode": "#08260e"
@@ -250,6 +261,28 @@
         }
       },
       {
+        "podcastId": 159,
+        "podcastCategoryId": 7,
+        "name": "Money Life with Chuck Jaffe",
+        "link": "http://moneylifeshow.com",
+        "coverImageUrl": "https://i.postimg.cc/yYvKSpYF/money-life.jpg",
+        "category": {
+          "name": "Finance \u0026 Investing",
+          "colorCode": "#08260e"
+        }
+      },
+      {
+        "podcastId": 160,
+        "podcastCategoryId": 7,
+        "name": "Money Stuff: The Podcast",
+        "link": "https://podcasts.apple.com/us/podcast/money-stuff-the-podcast/id1739582836",
+        "coverImageUrl": "https://i.postimg.cc/02B8BHRz/money-stuff.jpg",
+        "category": {
+          "name": "Finance \u0026 Investing",
+          "colorCode": "#08260e"
+        }
+      },
+      {
         "podcastId": 90,
         "podcastCategoryId": 7,
         "name": "Motley Fool Money",
@@ -261,11 +294,44 @@
         }
       },
       {
+        "podcastId": 161,
+        "podcastCategoryId": 7,
+        "name": "Personal Finance For Long-Term Investors",
+        "link": "https://bestinterest.blog/personal-finance-for-long-term-investors/",
+        "coverImageUrl": "https://i.postimg.cc/NFXWCb1G/personal-finance-jesse-cramer.jpg",
+        "category": {
+          "name": "Finance \u0026 Investing",
+          "colorCode": "#08260e"
+        }
+      },
+      {
         "podcastId": 89,
         "podcastCategoryId": 7,
         "name": "The Stacking Benjamins Show",
         "link": "https://www.stackingbenjamins.com/",
         "coverImageUrl": "https://i.postimg.cc/sg8sGF3p/stacking_benjamins.jpg",
+        "category": {
+          "name": "Finance \u0026 Investing",
+          "colorCode": "#08260e"
+        }
+      },
+      {
+        "podcastId": 162,
+        "podcastCategoryId": 7,
+        "name": "This is Uncomfortable",
+        "link": "https://www.marketplace.org/shows/this-is-uncomfortable-reema-khrais",
+        "coverImageUrl": "https://i.postimg.cc/vHHrzDbT/this-is-uncomfortable.jpg",
+        "category": {
+          "name": "Finance \u0026 Investing",
+          "colorCode": "#08260e"
+        }
+      },
+      {
+        "podcastId": 163,
+        "podcastCategoryId": 7,
+        "name": "Thoughts on the Market",
+        "link": "https://www.morganstanley.com/insights/podcasts/thoughts-on-the-market",
+        "coverImageUrl": "https://i.postimg.cc/MTp64kT1/thoughts-on-the-market.jpg",
         "category": {
           "name": "Finance \u0026 Investing",
           "colorCode": "#08260e"
@@ -419,28 +485,6 @@
         }
       },
       {
-        "podcastId": 105,
-        "podcastCategoryId": 4,
-        "name": "Freakonomics M.D.",
-        "link": "https://freakonomics.com/series/bapu/",
-        "coverImageUrl": "https://i.postimg.cc/gJj0YxxH/freakonomics-md.jpg",
-        "category": {
-          "name": "Health \u0026 Fitness",
-          "colorCode": "#975306"
-        }
-      },
-      {
-        "podcastId": 104,
-        "podcastCategoryId": 4,
-        "name": "Iron Radio",
-        "link": "http://www.ironradio.org/",
-        "coverImageUrl": "https://i.postimg.cc/Gh8DsRCQ/iron_radio.jpg",
-        "category": {
-          "name": "Health \u0026 Fitness",
-          "colorCode": "#975306"
-        }
-      },
-      {
         "podcastId": 102,
         "podcastCategoryId": 4,
         "name": "Maintenance Phase",
@@ -523,17 +567,6 @@
         }
       },
       {
-        "podcastId": 95,
-        "podcastCategoryId": 5,
-        "name": "Revisionist History",
-        "link": "http://revisionisthistory.com/",
-        "coverImageUrl": "https://i.postimg.cc/m2yP9gn7/revisionist_history.jpg",
-        "category": {
-          "name": "History",
-          "colorCode": "#213aae"
-        }
-      },
-      {
         "podcastId": 94,
         "podcastCategoryId": 5,
         "name": "Throughline",
@@ -550,33 +583,11 @@
     "name": "News",
     "podcasts": [
       {
-        "podcastId": 83,
-        "podcastCategoryId": 6,
-        "name": "The Daily",
-        "link": "https://www.nytimes.com/column/the-daily",
-        "coverImageUrl": "https://i.postimg.cc/HsvCFGcf/the_daily.jpg",
-        "category": {
-          "name": "News",
-          "colorCode": "#584927"
-        }
-      },
-      {
         "podcastId": 82,
         "podcastCategoryId": 6,
         "name": "The Intelligence",
         "link": "https://theintelligence.economist.com/",
         "coverImageUrl": "https://i.postimg.cc/x8qz5Db9/intelligence.jpg",
-        "category": {
-          "name": "News",
-          "colorCode": "#584927"
-        }
-      },
-      {
-        "podcastId": 42,
-        "podcastCategoryId": 6,
-        "name": "The New Abnormal",
-        "link": "https://shows.acast.com/the-new-abnormal",
-        "coverImageUrl": "https://i.postimg.cc/vBrnpPtt/new-abnormal.jpg",
         "category": {
           "name": "News",
           "colorCode": "#584927"
@@ -614,6 +625,17 @@
           "name": "News",
           "colorCode": "#584927"
         }
+      },
+      {
+        "podcastId": 156,
+        "podcastCategoryId": 6,
+        "name": "What Next",
+        "link": "https://slate.com/podcasts/what-next",
+        "coverImageUrl": "https://i.postimg.cc/MpPT0KtT/what-next.jpg",
+        "category": {
+          "name": "News",
+          "colorCode": "#584927"
+        }
       }
     ]
   },
@@ -626,6 +648,17 @@
         "name": "Checks and Balance",
         "link": "https://www.economist.com/checks-and-balance-our-weekly-podcast-on-american-politics",
         "coverImageUrl": "https://i.postimg.cc/rFQHzSqW/checks-and-balances.jpg",
+        "category": {
+          "name": "Politics",
+          "colorCode": "#2c6059"
+        }
+      },
+      {
+        "podcastId": 155,
+        "podcastCategoryId": 8,
+        "name": "The Daily Beast Podcast",
+        "link": "https://www.thedailybeast.com/author/the-daily-beast-podcast/",
+        "coverImageUrl": "https://i.postimg.cc/05F0nPWG/daily-beast-podcast.jpg",
         "category": {
           "name": "Politics",
           "colorCode": "#2c6059"
@@ -654,11 +687,11 @@
         }
       },
       {
-        "podcastId": 24,
+        "podcastId": 174,
         "podcastCategoryId": 8,
         "name": "The New Liberal Podcast",
-        "link": "https://cnliberalism.org/posts/category/Podcasts",
-        "coverImageUrl": "https://i.postimg.cc/T3V57PcL/new-liberal.jpg",
+        "link": "https://cnliberalism.org",
+        "coverImageUrl": "https://i.postimg.cc/T3V57PcL/new_liberal.jpg",
         "category": {
           "name": "Politics",
           "colorCode": "#2c6059"
@@ -670,6 +703,17 @@
         "name": "NPR Politics",
         "link": "https://www.npr.org/podcasts/510310/npr-politics-podcast",
         "coverImageUrl": "https://i.postimg.cc/1Rg0Dw0w/npr_politics.jpg",
+        "category": {
+          "name": "Politics",
+          "colorCode": "#2c6059"
+        }
+      },
+      {
+        "podcastId": 154,
+        "podcastCategoryId": 8,
+        "name": "Pod Save America",
+        "link": "https://crooked.com/podcast-series/pod-save-america/",
+        "coverImageUrl": "https://i.postimg.cc/XNLSHhKQ/pod-save-america.jpg",
         "category": {
           "name": "Politics",
           "colorCode": "#2c6059"
@@ -703,6 +747,17 @@
         }
       },
       {
+        "podcastId": 157,
+        "podcastCategoryId": 9,
+        "name": "Daniel and Kelly\u2019s Extraordinary Universe",
+        "link": "https://www.iheart.com/podcast/105-daniel-and-kellys-extraord-29862087/",
+        "coverImageUrl": "https://i.postimg.cc/QdWPmfJQ/extraordinary-universe.jpg",
+        "category": {
+          "name": "Science",
+          "colorCode": "#4f5d27"
+        }
+      },
+      {
         "podcastId": 78,
         "podcastCategoryId": 9,
         "name": "Hidden Brain",
@@ -719,6 +774,17 @@
         "name": "How We Survive",
         "link": "https://www.marketplace.org/shows/how-we-survive/",
         "coverImageUrl": "https://i.postimg.cc/d0mrt9Yc/how_we_survive.jpg",
+        "category": {
+          "name": "Science",
+          "colorCode": "#4f5d27"
+        }
+      },
+      {
+        "podcastId": 158,
+        "podcastCategoryId": 9,
+        "name": "Overshoot",
+        "link": "https://www.overshootpod.com",
+        "coverImageUrl": "https://i.postimg.cc/dQbS12Y0/overshoot.jpg",
         "category": {
           "name": "Science",
           "colorCode": "#4f5d27"
@@ -747,33 +813,11 @@
         }
       },
       {
-        "podcastId": 75,
-        "podcastCategoryId": 9,
-        "name": "Science Vs.",
-        "link": "https://gimletmedia.com/shows/science-vs",
-        "coverImageUrl": "https://i.postimg.cc/wMcjDww9/science_vs.jpg",
-        "category": {
-          "name": "Science",
-          "colorCode": "#4f5d27"
-        }
-      },
-      {
         "podcastId": 74,
         "podcastCategoryId": 9,
         "name": "Short Wave",
         "link": "https://www.npr.org/podcasts/510351/short-wave",
         "coverImageUrl": "https://i.postimg.cc/QxmMtnBb/shortwave.jpg",
-        "category": {
-          "name": "Science",
-          "colorCode": "#4f5d27"
-        }
-      },
-      {
-        "podcastId": 73,
-        "podcastCategoryId": 9,
-        "name": "Star Talk",
-        "link": "https://www.startalkradio.net/",
-        "coverImageUrl": "https://i.postimg.cc/RFxmGc6h/startalk.jpg",
         "category": {
           "name": "Science",
           "colorCode": "#4f5d27"
@@ -795,17 +839,6 @@
   {
     "name": "Software Development",
     "podcasts": [
-      {
-        "podcastId": 135,
-        "podcastCategoryId": 10,
-        "name": "The .NET Core Podcast",
-        "link": "https://dotnetcore.show/",
-        "coverImageUrl": "https://i.postimg.cc/7hPVyWGR/dotnet-core-podcast.jpg",
-        "category": {
-          "name": "Software Development",
-          "colorCode": "#9b1d35"
-        }
-      },
       {
         "podcastId": 134,
         "podcastCategoryId": 10,
@@ -834,28 +867,6 @@
         "name": "The Changelog",
         "link": "https://changelog.com/",
         "coverImageUrl": "https://i.postimg.cc/Vs9pQxTK/changelog.jpg",
-        "category": {
-          "name": "Software Development",
-          "colorCode": "#9b1d35"
-        }
-      },
-      {
-        "podcastId": 48,
-        "podcastCategoryId": 10,
-        "name": "Code Rush",
-        "link": "https://coderush.dev/",
-        "coverImageUrl": "https://i.postimg.cc/J7d1q7RR/code-rush.jpg",
-        "category": {
-          "name": "Software Development",
-          "colorCode": "#9b1d35"
-        }
-      },
-      {
-        "podcastId": 132,
-        "podcastCategoryId": 10,
-        "name": "CodeNewbie",
-        "link": "https://www.codenewbie.org/podcast",
-        "coverImageUrl": "https://i.postimg.cc/Cx5Q8zK2/code-newbie.jpg",
         "category": {
           "name": "Software Development",
           "colorCode": "#9b1d35"
@@ -928,6 +939,17 @@
         }
       },
       {
+        "podcastId": 172,
+        "podcastCategoryId": 10,
+        "name": "The GitHub Podcast",
+        "link": "https://podcasts.apple.com/us/podcast/the-github-podcast/id1567016194",
+        "coverImageUrl": "https://i.postimg.cc/tRc1ZH9b/github-podcast.jpg",
+        "category": {
+          "name": "Software Development",
+          "colorCode": "#9b1d35"
+        }
+      },
+      {
         "podcastId": 126,
         "podcastCategoryId": 10,
         "name": "Hanselminutes",
@@ -939,22 +961,22 @@
         }
       },
       {
-        "podcastId": 125,
+        "podcastId": 124,
         "podcastCategoryId": 10,
-        "name": "JS Party",
-        "link": "https://changelog.com/jsparty",
-        "coverImageUrl": "https://i.postimg.cc/x1LbtPqN/js_party.jpg",
+        "name": "Merge Conflict",
+        "link": "https://www.mergeconflict.fm/",
+        "coverImageUrl": "https://i.postimg.cc/sD42C0hq/merge-conflict.jpg",
         "category": {
           "name": "Software Development",
           "colorCode": "#9b1d35"
         }
       },
       {
-        "podcastId": 124,
+        "podcastId": 173,
         "podcastCategoryId": 10,
-        "name": "Merge Conflict",
-        "link": "https://www.mergeconflict.fm/",
-        "coverImageUrl": "https://i.postimg.cc/sD42C0hq/merge-conflict.jpg",
+        "name": "The Modern .NET Show",
+        "link": "https://dotnetcore.show",
+        "coverImageUrl": "https://i.postimg.cc/DyKSdP49/modern-net-show.jpg",
         "category": {
           "name": "Software Development",
           "colorCode": "#9b1d35"
@@ -1016,28 +1038,6 @@
         }
       },
       {
-        "podcastId": 119,
-        "podcastCategoryId": 10,
-        "name": "The ReadME Podcast",
-        "link": "https://github.com/readme/podcast",
-        "coverImageUrl": "https://i.postimg.cc/44t7J5bL/readmepodcast.jpg",
-        "category": {
-          "name": "Software Development",
-          "colorCode": "#9b1d35"
-        }
-      },
-      {
-        "podcastId": 118,
-        "podcastCategoryId": 10,
-        "name": "Remotely Interesting",
-        "link": "https://podcasts.apple.com/us/podcast/remotely-interesting/id1530314876",
-        "coverImageUrl": "https://i.postimg.cc/GmgYpcbm/remotely-interesting.jpg",
-        "category": {
-          "name": "Software Development",
-          "colorCode": "#9b1d35"
-        }
-      },
-      {
         "podcastId": 117,
         "podcastCategoryId": 10,
         "name": "ShopTalk",
@@ -1093,17 +1093,6 @@
         }
       },
       {
-        "podcastId": 47,
-        "podcastCategoryId": 10,
-        "name": "The Vanilla JS Podcast",
-        "link": "https://vanillajspodcast.com/",
-        "coverImageUrl": "https://i.postimg.cc/JnyCGJvv/vanilla-js-podcast.jpg",
-        "category": {
-          "name": "Software Development",
-          "colorCode": "#9b1d35"
-        }
-      },
-      {
         "podcastId": 112,
         "podcastCategoryId": 10,
         "name": "Working Code",
@@ -1125,17 +1114,6 @@
         "name": "30 for 30",
         "link": "https://30for30podcasts.com/",
         "coverImageUrl": "https://i.postimg.cc/zGD1czGw/30for30.jpg",
-        "category": {
-          "name": "Sports",
-          "colorCode": "#4d4983"
-        }
-      },
-      {
-        "podcastId": 71,
-        "podcastCategoryId": 11,
-        "name": "The Athletic Baseball Show",
-        "link": "https://theathletic.com/podcast/243-the-athletic-baseball-show/",
-        "coverImageUrl": "https://i.postimg.cc/L5FcBRW1/athletic-baseball-show.jpg",
         "category": {
           "name": "Sports",
           "colorCode": "#4d4983"
@@ -1197,17 +1175,6 @@
         }
       },
       {
-        "podcastId": 65,
-        "podcastCategoryId": 11,
-        "name": "FanGraphs Baseball",
-        "link": "https://blogs.fangraphs.com/category/podcast/",
-        "coverImageUrl": "https://i.postimg.cc/y83TB9x7/fangraphs.jpg",
-        "category": {
-          "name": "Sports",
-          "colorCode": "#4d4983"
-        }
-      },
-      {
         "podcastId": 63,
         "podcastCategoryId": 11,
         "name": "High Hopes",
@@ -1257,6 +1224,17 @@
         "name": "New Heights",
         "link": "https://podcasts.apple.com/us/podcast/new-heights-with-jason-and-travis-kelce/id1643745036",
         "coverImageUrl": "https://i.postimg.cc/ZRWdYx1d/new-heights.jpg",
+        "category": {
+          "name": "Sports",
+          "colorCode": "#4d4983"
+        }
+      },
+      {
+        "podcastId": 71,
+        "podcastCategoryId": 11,
+        "name": "Only If You Get Caught",
+        "link": "https://podcasts.apple.com/us/podcast/only-if-you-get-caught/id1826568874",
+        "coverImageUrl": "https://i.postimg.cc/9Q65Zrsr/only-if-you-get-caught.jpg",
         "category": {
           "name": "Sports",
           "colorCode": "#4d4983"
@@ -1362,17 +1340,6 @@
         }
       },
       {
-        "podcastId": 54,
-        "podcastCategoryId": 11,
-        "name": "The Right Time with Bomani Jones",
-        "link": "http://www.espn.com/espnradio/podcast/archive?id=12563086",
-        "coverImageUrl": "https://i.postimg.cc/pdMxkwbT/right-time.jpg",
-        "category": {
-          "name": "Sports",
-          "colorCode": "#4d4983"
-        }
-      },
-      {
         "podcastId": 53,
         "podcastCategoryId": 11,
         "name": "The Ringer NBA Show",
@@ -1404,6 +1371,17 @@
           "name": "Sports",
           "colorCode": "#4d4983"
         }
+      },
+      {
+        "podcastId": 175,
+        "podcastCategoryId": 11,
+        "name": "The Windup",
+        "link": "https://www.nytimes.com/athletic/podcast/243-the-athletic-baseball-show/",
+        "coverImageUrl": "https://i.postimg.cc/g0XxYS6Q/the-windup.jpg",
+        "category": {
+          "name": "Sports",
+          "colorCode": "#4d4983"
+        }
       }
     ]
   },
@@ -1427,6 +1405,17 @@
         "name": "Death, Sex \u0026 Money",
         "link": "https://www.npr.org/podcasts/458929318/death-sex-money",
         "coverImageUrl": "https://i.postimg.cc/nhX3zgRb/death-sex-and-money.jpg",
+        "category": {
+          "name": "Stories",
+          "colorCode": "#cf5d29"
+        }
+      },
+      {
+        "podcastId": 165,
+        "podcastCategoryId": 12,
+        "name": "It\u0027s Storytime with Wil Wheaton",
+        "link": "https://wilwheaton.net/podcast/",
+        "coverImageUrl": "https://i.postimg.cc/fL7wJwrK/its-storytime-wil-wheaton.jpg",
         "category": {
           "name": "Stories",
           "colorCode": "#cf5d29"
@@ -1493,11 +1482,44 @@
     "name": "Tech \u0026 Design",
     "podcasts": [
       {
+        "podcastId": 171,
+        "podcastCategoryId": 13,
+        "name": "404 Media Podcast",
+        "link": "https://www.404media.co/the-404-media-podcast/",
+        "coverImageUrl": "https://i.postimg.cc/ZRgKGf2D/404-media.jpg",
+        "category": {
+          "name": "Tech \u0026 Design",
+          "colorCode": "#c46640"
+        }
+      },
+      {
         "podcastId": 136,
         "podcastCategoryId": 13,
         "name": "99% Invisible",
         "link": "https://www.99pi.org",
         "coverImageUrl": "https://i.postimg.cc/Dz837xs8/99pi.jpg",
+        "category": {
+          "name": "Tech \u0026 Design",
+          "colorCode": "#c46640"
+        }
+      },
+      {
+        "podcastId": 168,
+        "podcastCategoryId": 13,
+        "name": "Better Offline",
+        "link": "https://www.iheart.com/podcast/1119-better-offline-150284547/",
+        "coverImageUrl": "https://i.postimg.cc/dVBQsQgX/better-offline.jpg",
+        "category": {
+          "name": "Tech \u0026 Design",
+          "colorCode": "#c46640"
+        }
+      },
+      {
+        "podcastId": 169,
+        "podcastCategoryId": 13,
+        "name": "Comfort Zone",
+        "link": "https://www.macstories.net/comfort-zone/",
+        "coverImageUrl": "https://i.postimg.cc/DwYDdtGm/comfort-zone.jpg",
         "category": {
           "name": "Tech \u0026 Design",
           "colorCode": "#c46640"
@@ -1559,6 +1581,17 @@
         }
       },
       {
+        "podcastId": 170,
+        "podcastCategoryId": 13,
+        "name": "For a Better Web",
+        "link": "https://vivaldi.com/blog/better-web/",
+        "coverImageUrl": "https://i.postimg.cc/yxk393CS/for-a-better-web.jpg",
+        "category": {
+          "name": "Tech \u0026 Design",
+          "colorCode": "#c46640"
+        }
+      },
+      {
         "podcastId": 15,
         "podcastCategoryId": 13,
         "name": "Hard Fork",
@@ -1575,6 +1608,17 @@
         "name": "Marketplace Tech",
         "link": "https://www.marketplace.org/shows/marketplace-tech/",
         "coverImageUrl": "https://i.postimg.cc/DyXWwcrp/marketplace_tech.jpg",
+        "category": {
+          "name": "Tech \u0026 Design",
+          "colorCode": "#c46640"
+        }
+      },
+      {
+        "podcastId": 166,
+        "podcastCategoryId": 13,
+        "name": "Remap Radio",
+        "link": "https://remapradio.com/podcasts/episodes/",
+        "coverImageUrl": "https://i.postimg.cc/HxbQnyHH/remap-radio.jpg",
         "category": {
           "name": "Tech \u0026 Design",
           "colorCode": "#c46640"
@@ -1634,23 +1678,23 @@
           "name": "Tech \u0026 Design",
           "colorCode": "#c46640"
         }
+      },
+      {
+        "podcastId": 167,
+        "podcastCategoryId": 13,
+        "name": "Version History",
+        "link": "https://www.theverge.com/version-history-podcast",
+        "coverImageUrl": "https://i.postimg.cc/X7rYg0GV/version-history.jpg",
+        "category": {
+          "name": "Tech \u0026 Design",
+          "colorCode": "#c46640"
+        }
       }
     ]
   },
   {
     "name": "Uncategorized",
     "podcasts": [
-      {
-        "podcastId": 29,
-        "podcastCategoryId": 14,
-        "name": "Code Switch",
-        "link": "https://www.npr.org/sections/codeswitch/",
-        "coverImageUrl": "https://i.postimg.cc/6pP1ft2p/code-switch.jpg",
-        "category": {
-          "name": "Uncategorized",
-          "colorCode": "#de3a80"
-        }
-      },
       {
         "podcastId": 28,
         "podcastCategoryId": 14,
@@ -1674,22 +1718,22 @@
         }
       },
       {
-        "podcastId": 26,
+        "podcastId": 135,
         "podcastCategoryId": 14,
-        "name": "The Jordan Harbinger Show",
-        "link": "https://www.jordanharbinger.com/",
-        "coverImageUrl": "https://i.postimg.cc/8P26RYkV/jordan_harbinger_show.jpg",
+        "name": "If Books Could Kill",
+        "link": "https://www.ifbookspod.com",
+        "coverImageUrl": "https://i.postimg.cc/9QC1S9KY/if-books-could-kill.jpg",
         "category": {
           "name": "Uncategorized",
           "colorCode": "#de3a80"
         }
       },
       {
-        "podcastId": 25,
+        "podcastId": 26,
         "podcastCategoryId": 14,
-        "name": "Longform",
-        "link": "https://longform.org/",
-        "coverImageUrl": "https://i.postimg.cc/NMj9GqDR/longform.jpg",
+        "name": "The Jordan Harbinger Show",
+        "link": "https://www.jordanharbinger.com/",
+        "coverImageUrl": "https://i.postimg.cc/8P26RYkV/jordan_harbinger_show.jpg",
         "category": {
           "name": "Uncategorized",
           "colorCode": "#de3a80"
@@ -1712,17 +1756,6 @@
         "name": "Tetragrammaton",
         "link": "https://www.tetragrammaton.com/",
         "coverImageUrl": "https://i.postimg.cc/d38Prg8C/tetragrammaton.jpg",
-        "category": {
-          "name": "Uncategorized",
-          "colorCode": "#de3a80"
-        }
-      },
-      {
-        "podcastId": 21,
-        "podcastCategoryId": 14,
-        "name": "The Tim Ferriss Show",
-        "link": "https://tim.blog/podcast/",
-        "coverImageUrl": "https://i.postimg.cc/QN0LWLbH/tim_ferriss_show.jpg",
         "category": {
           "name": "Uncategorized",
           "colorCode": "#de3a80"
