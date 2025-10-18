@@ -63,35 +63,35 @@
 		return false;
 	}
 
-	function setBrowserThemeColor() {
-		const theme = window.localStorage.getItem('data-theme');
+	function getPrimaryColor(theme) {
+		switch (theme) {
+			case 'dark':
+				return 'oklch(0.6811 0.168 261.68)';
+			case 'nord':
+				return 'oklch(0.5466 0.1087 320.87)';
+			case 'sepia':
+				return 'oklch(0.2567 0.0197 73.06)'
+			case 'light':
+			default:
+				return 'oklch(0.4102 0.238 264.68)';
+		}
+	}
 
-		let color = isDarkMode()
-			? 'oklch(0.6811 0.168 261.68)'
-			: 'oklch(0.4102 0.238 264.68)';
+	function setTheme() {
+		let isSystem = false;
+		let theme = window.localStorage.getItem('data-theme');
 
-		if (theme) {
-			switch (theme) {
-				case 'light':
-					color = 'oklch(0.4102 0.238 264.68)';
-					break;
-				case 'dark':
-					color: 'oklch(0.6811 0.168 261.68)'
-					break;
-				case 'nord':
-					color: 'oklch(0.5466 0.1087 320.87)';
-					break;
-				default:
-					break;
-			}
+		if (!theme) {
+			isSystem = true;
+			theme = isDarkMode() ? 'dark' : 'light';
 		}
 
-		document
-			.querySelector('meta[name="theme-color"]')
-			?.setAttribute('content', color);
+		document.querySelector('meta[name="theme-color"]')?.setAttribute('content', getPrimaryColor(theme));
+		document.documentElement.setAttribute('data-theme', theme);
+		document.themeControls.colorTheme.value = isSystem ? 'system' : theme;
 	}
 
 	addEventListener('DOMContentLoaded', (event) => {
-		setBrowserThemeColor();
+		setTheme();
 	});
 </script>

@@ -55,33 +55,30 @@
 	<div>Built with <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer nofollow">11ty</a> on {{ config.builtAt | readableDate }}</div>
 
 	<div class="theme-selector">
-		<form class="color-controls" name="colorsForm">
-            <fieldset>
-                <legend>Choose Color:</legend>
-                <div class="controls-block">
-                    <label for="theme-color-red">
-                        <span class="sr-only">Red</span>
-                        {% renderTemplate "webc" %}
-						<theme name="light"></theme>
-						{% endrenderTemplate %}
-                        <input type="radio" id="theme-color-red" name="colorTheme" value="red" />
-                    </label>
-                    <label for="theme-color-orange">
-                        <span class="sr-only">Orange</span>
-                        {% renderTemplate "webc" %}
-						<theme name="dark"></theme>
-						{% endrenderTemplate %}
-                        <input type="radio" id="theme-color-orange" name="colorTheme" value="orange" />
-                    </label>
-                    <label for="theme-color-green">
-                        <span class="sr-only">Green</span>
-                        {% renderTemplate "webc" %}
-						<theme name="nord"></theme>
-						{% endrenderTemplate %}
-                        <input type="radio" id="theme-color-green" name="colorTheme" value="green" checked />
-                    </label>
-                </div>
-            </fieldset>
-        </form>
+		<form class="theme-controls" name="themeControls">
+			<fieldset>
+				<legend>Choose Theme:</legend>
+				<label for="theme-system">
+					<div class="theme-option">System</div>
+					<input type="radio" id="theme-system" name="colorTheme" value="system" checked />
+				</label>
+				<label for="theme-light">
+					<div class="theme-option">Light</div>
+					<input type="radio" id="theme-light" name="colorTheme" value="light" checked />
+				</label>
+				<label for="theme-dark">
+					<div class="theme-option">Dark</div>
+					<input type="radio" id="theme-dark" name="colorTheme" value="dark" />
+				</label>
+				<label for="theme-nord">
+					<div class="theme-option">Nord</div>
+					<input type="radio" id="theme-nord" name="colorTheme" value="nord" />
+				</label>
+				<label for="theme-sepia">
+					<div class="theme-option">Sepia</div>
+					<input type="radio" id="theme-sepia" name="colorTheme" value="sepia" />
+				</label>
+			</fieldset>
+		</form>
 	</div>
 </footer>

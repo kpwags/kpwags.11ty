@@ -98,3 +98,18 @@
 
     --primary-color-contrast: oklch(0.2022 0.037756 223.3211);
 }
+
+[data-theme*='sepia'] {
+    --background: oklch(0.8613 0.0197 73.06);
+    --background-shaded: oklch(0.5022 0.0197 73.06);
+    --text: oklch(0.1708 0.0197 73.06);
+    --meta: oklch(0.2567 0.0197 73.06);
+    --border-color: oklch(0.3294 0.037 73.06);
+    --box-shadow: 0 12px 24px 0 oklch(0% 0 0 / 20%);
+
+    --primary-color: oklch(0.1708 0.0197 73.06);
+    --secondary-color: oklch(0.2567 0.0197 73.06);
+    --tertiary-color: oklch(0.3294 0.037 73.06);
+
+    --primary-color-contrast: oklch(100% 0 0);
+}

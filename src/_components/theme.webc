@@ -1,5 +1,0 @@
-<div class="theme-option" :data-theme-name="name">
-	<div class="sliver primary"></div>
-	<div class="sliver secondary"></div>
-	<div class="sliver tertiary"></div>
-</div>
