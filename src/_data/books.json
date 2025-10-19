@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/rszX4CrV/hastings-inferno.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 133,
+      "currentPage": 171,
       "pageCount": 651,
-      "progress": 20,
+      "progress": 26,
       "sortOrder": 100,
       "status": {
         "name": "Reading",
@@ -56,9 +56,9 @@
       "coverImageUrl": "https://i.postimg.cc/L4CVTxqc/weingarten-why-fascists-fear-teachers.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 138,
+      "currentPage": 337,
       "pageCount": 396,
-      "progress": 35,
+      "progress": 85,
       "sortOrder": 110,
       "status": {
         "name": "Reading",
@@ -14953,7 +14953,12 @@
         "name": "Dune",
         "colorCode": "#946205"
       },
-      "genres": [],
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
       "formats": []
     },
     {
@@ -22440,7 +22445,12 @@
         "colorCode": "#244c43"
       },
       "series": null,
-      "genres": [],
+      "genres": [
+        {
+          "name": "Creativity",
+          "colorCode": "rgb(0, 146, 118)"
+        }
+      ],
       "formats": []
     },
     {
@@ -23545,47 +23555,6 @@
       "formats": []
     },
     {
-      "bookId": 617,
-      "title": "Automatic Noodle",
-      "subTitle": "",
-      "fullTitle": "Automatic Noodle",
-      "author": "Annalee Newitz",
-      "link": "https://bookshop.org/p/books/automatic-noodle-annalee-newitz/625018d0518991aa",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/ZY2sZDyX/newitz-automatic-noodle.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 253,
-      "progress": 0,
-      "sortOrder": 3140,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Audiobook",
-          "colorCode": "#b300b3"
-        }
-      ]
-    },
-    {
       "bookId": 619,
       "title": "How Life Works",
       "subTitle": "A User\u0027s Guide to the New Biology",
@@ -23712,6 +23681,42 @@
       "pageCount": 1,
       "progress": 100,
       "sortOrder": 3190,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Sports",
+          "colorCode": "rgb(0, 80, 20)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 617,
+      "title": "Every Day Is Sunday",
+      "subTitle": "How Jerry Jones, Robert Kraft, and Roger Goodell Turned the NFL into a Cultural \u0026 Economic Juggernaut",
+      "fullTitle": "Every Day Is Sunday: How Jerry Jones, Robert Kraft, and Roger Goodell Turned the NFL into a Cultural \u0026 Economic Juggernaut",
+      "author": "Ken Belson",
+      "link": "https://bookshop.org/p/books/every-day-is-sunday-how-jerry-jones-robert-kraft-and-roger-goodell-turned-the-nfl-into-a-cultural-economic-juggernaut-ken-belson/acf6b3176c03e34a",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3200,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"

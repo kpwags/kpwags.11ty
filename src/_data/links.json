@@ -1,5 +1,117 @@
 [
   {
+    "linkId": 1163,
+    "title": "The New Generation Of Independent Journalists",
+    "url": "https://www.techdirt.com/2025/10/14/techdirt-podcast-episode-434-the-new-generation-of-independent-journalists/",
+    "author": "Techdirt Podcast",
+    "linkDate": "2025-10-17T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1164,
+    "title": "The Most Difficult Job In The World, With Seth Wickersham",
+    "url": "https://defector.com/the-most-difficult-job-in-the-world-with-seth-wickersham",
+    "author": "The Distraction",
+    "linkDate": "2025-10-17T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1159,
+    "title": "Podcasts Are Not Television",
+    "url": "https://defector.com/podcasts-are-not-television",
+    "author": "Alex Sujong Laughlin",
+    "linkDate": "2025-10-16T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Media \u0026 Entertainment",
+      "colorCode": "#7949a8"
+    }
+  },
+  {
+    "linkId": 1160,
+    "title": "forced-color-adjust: none is an unavoidable foot gun",
+    "url": "https://sarahmhigley.com/writing/forced-color-adjust-none/",
+    "author": "Sarah Higley",
+    "linkDate": "2025-10-16T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1161,
+    "title": "No, AI is not Making Engineers 10x as Productive",
+    "url": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
+    "author": "Colton Voege",
+    "linkDate": "2025-10-16T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1162,
+    "title": "You do not need \u201Canalytics\u201D for your blog because you are neither a military surveillance unit nor a commodity trading company",
+    "url": "https://www.thisdaysportion.com/posts/contra-analytics/",
+    "author": "Leon",
+    "linkDate": "2025-10-16T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 1165,
+    "title": "There\u2019s Now a Casino in Everyone\u2019s Pocket. For Some Young Men, It\u2019s a Near-Fatal Gamble.",
+    "url": "https://www.rollingstone.com/culture/culture-features/mobile-sports-betting-gambling-addiction-fanduel-draftkings-1235444172/",
+    "author": "Paul Solotaroff \u0026 Eli Senor",
+    "linkDate": "2025-10-16T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
     "linkId": 1156,
     "title": "Lawyer Caught Using AI While Explaining to Court Why He Used AI",
     "url": "https://www.404media.co/lawyer-using-ai-fake-citations/",
