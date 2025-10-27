@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/rszX4CrV/hastings-inferno.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 508,
+      "currentPage": 540,
       "pageCount": 651,
-      "progress": 78,
+      "progress": 83,
       "sortOrder": 100,
       "status": {
         "name": "Reading",
@@ -40,53 +40,53 @@
           "colorCode": "#cd6a29"
         }
       ]
-    },
-    {
-      "bookId": 624,
-      "title": "Automatic Noodle",
-      "subTitle": "",
-      "fullTitle": "Automatic Noodle",
-      "author": "Annalee Newitz",
-      "link": "https://bookshop.org/p/books/automatic-noodle-annalee-newitz/625018d0518991aa",
-      "dateStarted": "2025-10-20T00:00:00Z",
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/3N9T4bsq/newitz-automatic-noodle.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 167,
-      "pageCount": 254,
-      "progress": 66,
-      "sortOrder": 110,
-      "status": {
-        "name": "Reading",
-        "colorCode": "#6a208f"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Audiobook",
-          "colorCode": "#b300b3"
-        }
-      ]
     }
   ],
   "completed": [
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 624,
+          "title": "Automatic Noodle",
+          "subTitle": "",
+          "fullTitle": "Automatic Noodle",
+          "author": "Annalee Newitz",
+          "link": "https://bookshop.org/p/books/automatic-noodle-annalee-newitz/625018d0518991aa",
+          "dateStarted": "2025-10-20T00:00:00Z",
+          "dateCompleted": "2025-10-27T00:00:00Z",
+          "rating": 3,
+          "bookNotesUrl": "",
+          "thoughts": "This was a fun story.",
+          "coverImageUrl": "https://i.postimg.cc/3N9T4bsq/newitz-automatic-noodle.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 254,
+          "pageCount": 254,
+          "progress": 100,
+          "sortOrder": 110,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Audiobook",
+              "colorCode": "#b300b3"
+            }
+          ]
+        },
         {
           "bookId": 622,
           "title": "Why Fascists Fear Teachers",

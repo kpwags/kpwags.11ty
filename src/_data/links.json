@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 1190,
+    "title": "Don\u2019t Forget These Tags to Make HTML Work Like You Expect",
+    "url": "https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/",
+    "author": "Jim Nielsen",
+    "linkDate": "2025-10-27T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 1188,
     "title": "Bari Weiss",
     "url": "https://www.youtube.com/watch?v=gieTx_P6INQ",
