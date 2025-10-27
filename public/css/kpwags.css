@@ -118,7 +118,8 @@ h1 span.prefix.small {
 
 p {
 	line-height: 32px;
-	margin-bottom: 32px;
+	margin-block-start: 24px;
+	margin-block-end: 32px;
 }
 
 ul {
@@ -802,7 +803,7 @@ blockquote {
 	border-radius: 6px;
 }
 
-blockquote ~ blockquote {
+blockquote + blockquote {
 	margin-top: 32px;
 }
 
