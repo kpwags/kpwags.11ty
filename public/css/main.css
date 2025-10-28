@@ -1483,7 +1483,7 @@ section.media-section .grid.have-played-grid .item .cover .finished-icon {
 }
 
 article.note {
-	margin-bottom: 128px;
+	margin-bottom: 32px;
 }
 
 article.note h1 {
@@ -1534,9 +1534,13 @@ article.note:last-of-type {
 	margin-bottom: 0;
 }
 
+article.note + hr {
+	margin: 96px auto;
+}
+
 @media (max-width: 500px) {
-	article.note {
-		margin-bottom: 96px;
+	article.note + hr {
+		margin: 48px auto;
 	}
 }
 
@@ -1579,4 +1583,11 @@ footer .theme-controls label:has(input:checked) .theme-option {
 	border: 1px solid var(--primary-color);
 	background-color: var(--primary-color);
 	color: var(--primary-color-contrast);
+}
+
+@media (max-width: 600px) {
+	footer .theme-selector .theme-controls legend {
+		display: unset;
+		margin-bottom: 8px;
+	}
 }
