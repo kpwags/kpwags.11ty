@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/rszX4CrV/hastings-inferno.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 540,
+      "currentPage": 560,
       "pageCount": 651,
-      "progress": 83,
+      "progress": 86,
       "sortOrder": 100,
       "status": {
         "name": "Reading",
@@ -38,6 +38,47 @@
         {
           "name": "Paperback",
           "colorCode": "#cd6a29"
+        }
+      ]
+    },
+    {
+      "bookId": 626,
+      "title": "Acquired Taste",
+      "subTitle": "",
+      "fullTitle": "Acquired Taste",
+      "author": "Clay McLeod Chapman",
+      "link": "https://bookshop.org/p/books/acquired-taste-clay-mcleod-chapman/2d97fa26f163e8c5",
+      "dateStarted": "2025-10-28T00:00:00Z",
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/zXvLzPmm/chapman-acquired-taste.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 91,
+      "pageCount": 523,
+      "progress": 17,
+      "sortOrder": 110,
+      "status": {
+        "name": "Reading",
+        "colorCode": "#6a208f"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Horror",
+          "colorCode": "rgb(146, 4, 4)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Audiobook",
+          "colorCode": "#b300b3"
         }
       ]
     }

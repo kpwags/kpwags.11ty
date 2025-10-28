@@ -1,5 +1,69 @@
 [
   {
+    "linkId": 1191,
+    "title": "No AI data centers in my backyard!",
+    "url": "https://www.npr.org/2025/10/22/nx-s1-5581445/no-ai-data-centers-in-my-backyard",
+    "author": "The Indicator",
+    "linkDate": "2025-10-28T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1192,
+    "title": "Are concert tickets UNDER priced?",
+    "url": "https://www.npr.org/2025/10/23/nx-s1-5582775/are-concert-tickets-under-priced",
+    "author": "The Indicator",
+    "linkDate": "2025-10-28T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1193,
+    "title": "Why Bands Are Leaving Spotify",
+    "url": "https://slate.com/podcasts/what-next-tbd/2025/10/taking-music-from-spotify-in-protest",
+    "author": "What Next: TBD",
+    "linkDate": "2025-10-28T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1194,
+    "title": "Where Sports Betting Got Us",
+    "url": "https://slate.com/podcasts/what-next/2025/10/sports-betting-and-other-legal-scams",
+    "author": "What Next",
+    "linkDate": "2025-10-28T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 1190,
     "title": "Don\u2019t Forget These Tags to Make HTML Work Like You Expect",
     "url": "https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/",
