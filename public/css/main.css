@@ -124,7 +124,8 @@ h6 {
 
 p {
 	line-height: 32px;
-	margin: 0 0 32px 0;
+	margin-block-start: 24px;
+	margin-block-end: 32px;
 }
 
 ul {
@@ -863,7 +864,7 @@ blockquote {
 	border-radius: 6px;
 }
 
-blockquote ~ blockquote {
+blockquote + blockquote {
     margin-top: 32px;
 }
 
