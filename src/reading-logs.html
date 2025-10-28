@@ -3,19 +3,24 @@ layout: "layouts/layout.html"
 title: "Reading Logs"
 pagination:
     data: collections.readinglog
-    size: 15
+    size: 12
     reverse: true
 ---
 
-<div class="blog-listing-page">
-    <h1>Reading Logs</h1>
+<h1>Reading Logs</h1>
 
-    {% for post in pagination.items %}
-        {% blogPost post "reading-log" %}
+<section class="reading-logs">
+	{% for post in pagination.items %}
+		<article>
+			<h2><a href="{{ post.url }}">{{ post.data.title | cleanTitle }}</a></h2>
+			<div class="metadata">{{ post.data.dateString }}</div>
+			<div class="excerpt">{{ post.data.page.excerpt | toHTML }}</div>
+		</article>
+		<hr />
     {% endfor %}
+</section>
 
-    <section class="pagination">
-        {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Posts</a>{% endif %}
-        {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Posts &rightarrow;</a>{% endif %}
-    </section>
-</div>
+ <section class="pagination">
+	{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Reading Logs</a>{% endif %}
+	{% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Reading Logs &rightarrow;</a>{% endif %}
+</section>

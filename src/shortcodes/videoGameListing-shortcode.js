@@ -9,7 +9,7 @@ const getThoughts = (game) => {
 	return `
 <div class="view-thoughts">
 	<button
-		class="toggle-thoughts"
+		class="btn-ghost toggle-thoughts"
 		id="toggle-btn-${game.videoGameId}"
 		type="button"
 		data-id="${game.videoGameId}"
@@ -34,19 +34,7 @@ const getPlayedIcon = (game) => {
 
 const stringify = (values) => values.join(',').replaceAll(' ', '-').toLowerCase();
 
-const getPlayedStatus = (game) => {
-	switch (game.completionStatus) {
-		case 2:
-			return 'yes';
-		case 3:
-			return 'no';
-		case 1:
-		default:
-			return 'n/a';
-	}
-};
-
-const videoGameListingShortcode = (game) => {
+const videoGameListingShortcode = (game, showRatingAndThoughts) => {
 	const getRating = game.rating > 0 ? starRating(game.rating, 'sm') : '';
 	const platform = game.systems.length > 0 ? `<div class="meta">${game.systems.map((s) => s.name).join(', ')}</div>` : '';
 
@@ -68,9 +56,9 @@ const videoGameListingShortcode = (game) => {
 
 		${platform}
 
-		${getRating}
+		${showRatingAndThoughts ? getRating : ''}
 
-		${getThoughts(game)}
+		${showRatingAndThoughts ? getThoughts(game) : ''}
 	</div>
 </div>
 	`;

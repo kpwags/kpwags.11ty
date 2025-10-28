@@ -35,7 +35,7 @@
       "id": "{{ absolutePostUrl }}",
       "url": "{{ absolutePostUrl }}",
       "title": "{{ post | bookNoteTitlePrefix }}",
-      "content_html": {% if post.templateContent %}{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | dump | safe }}{% else %}""{% endif %},
+      "content_html": {% if post.templateContent %}{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | rssThankYou | dump | safe }}{% else %}""{% endif %},
       "date_published": "{{ post.date | dateToRfc3339 }}"
     }
     {% if not loop.last %},{% endif %}

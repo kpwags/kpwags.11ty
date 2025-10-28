@@ -3,19 +3,27 @@ layout: "layouts/layout.html"
 title: "Notes"
 pagination:
   data: collections.shortnotes
-  size: 20
+  size: 12
   reverse: true
 ---
 
 <h1>Notes</h1>
 
 {% for note in pagination.items %}
-{% noteListing note %}
+<article class="note">
+	<h2><a href="{{ note.data.link }}">{{ note.data.title }}</a></h2>
+	<div class="metadata">
+		<div>{{ note.data.author }}</div>
+		<div class="separator">&bull;</div>
+		<a href="{{ note.url }}">{{ note.data.dateString }}</a>
+	</div>
+	<div class="content">{{ note.templateContent }}</div>
+</article>
 {% endfor %}
 
 <section class="pagination">
-{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Notes</a>{% endif %}
-{% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Notes &rightarrow;</a>{% endif %}
+	{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Notes</a>{% endif %}
+	{% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Notes &rightarrow;</a>{% endif %}
 </section>
 
 

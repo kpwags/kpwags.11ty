@@ -1,8 +1,9 @@
 import dayjs from 'dayjs';
 import utc from 'dayjs/plugin/utc.js';
-import { getUniqueValues } from '../lib/Utilities.js';
-import { getBlogPosts } from '../lib/CollectionHelpers.js';
+import { getUniqueItems } from '../lib/getUniqueItems.js';
+import { blogPosts } from './blogPosts.js';
 import tagUrl from '../filters/tagurl-filter.js';
+import { excludedTags } from '../lib/excludedTags.js';
 
 dayjs.extend(utc);
 
@@ -15,24 +16,13 @@ const availableColors = [
 	'#aa00ff',
 ];
 
-const excludedTags = [
-	'readinglog',
-	'post',
-	'Reading Log',
-	'booknotes',
-	'shortnotes',
-	'Week Notes',
-	'Monthly Check-In',
-	'weeknote'
-];
-
 const getYear = (date) => dayjs.utc(date).format('YYYY');
 
 const getPostsByYearData = (posts) => {
 	const postsByYear = [];
 
 	const years = posts.map((p) => getYear(p.date));
-	const uniqueYears = getUniqueValues(years);
+	const uniqueYears = getUniqueItems(years);
 
 	let maxCount = 0;
 
@@ -81,7 +71,7 @@ const getPopularTagsData = (posts, limit = 10) => {
 		];
 	});
 
-	const uniqueTags = getUniqueValues(tagArray);
+	const uniqueTags = getUniqueItems(tagArray);
 
 	let maxCount = 0;
 	uniqueTags.forEach((tag) => {
@@ -147,11 +137,14 @@ const getOverallStats = (posts) => {
 }
 
 const stats = (collection) => {
-	const posts = getBlogPosts(collection, true);
+	const posts = blogPosts(collection, {
+		includeRssOnly: true,
+		includePolitics: true,
+	});
 
 	const stats = {
 		postsByYear: getPostsByYearData(posts),
-		popularTags: getPopularTagsData(posts),
+		popularTags: getPopularTagsData([...posts]),
 		overall: getOverallStats(posts),
 	};
 

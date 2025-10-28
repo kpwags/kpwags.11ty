@@ -7,15 +7,21 @@ pagination:
   reverse: true
 ---
 
-<div class="blog-listing-page">
-    <h1>Blog</h1>
+<h1>Blog</h1>
 
-    {% for post in pagination.items %}
-    {% blogPost post "blogpost" %}
+<section class="blog-posts">
+	{% for post in pagination.items %}
+		<article>
+			<h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+			<div class="metadata">{{ post.data.dateString }}</div>
+			<div class="excerpt">{{ post.data.page.excerpt | toHTML }}</div>
+		</article>
+
+		<hr />
     {% endfor %}
+</section>
 
-    <section class="pagination">
-        {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Posts</a>{% endif %}
-        {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Posts &rightarrow;</a>{% endif %}
-    </section>
-</div>
+ <section class="pagination">
+	{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Posts</a>{% endif %}
+	{% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older Posts &rightarrow;</a>{% endif %}
+</section>

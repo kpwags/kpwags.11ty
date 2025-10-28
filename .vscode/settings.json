@@ -1,37 +1,37 @@
 {
-    "workbench.colorCustomizations": {
-        "titleBar.activeBackground": "#5e81ac",
-        "titleBar.inactiveBackground": "#5e81ac",
-        "titleBar.activeForeground": "#ffffff",
-        "activityBar.activeBackground": "#81a1c1",
-        "activityBarBadge.background": "#e73546",
-        "activityBarBadge.foreground": "#ffffff",
-        "activityBar.inactiveForeground": "#ffffff",
-        "activityBar.background": "#5e81ac",
-        "activityBar.foreground": "#ffffff",
-        "statusBar.background": "#5e81ac",
-        "statusBar.border": "#5e81ac",
-        "statusBarItem.remoteBackground": "#5e81ac",
-        "statusBarItem.remoteForeground": "#ffffff",
-        "statusBar.foreground": "#ffffff"
-    },
-    "workbench.colorTheme": "Nord",
-    "editor.tabSize": 4,
-    "editor.insertSpaces": false,
-    "search.exclude": {
-        "**/node_modules": true,
-        "**/bower_components": true,
-        "**/*.code-search": true,
-        "**/.next": true
-    },
-    "[markdown]": {
-        "editor.formatOnSave": false,
-        "editor.wordWrap": "off",
-        "editor.insertSpaces": true,
-        "editor.tabSize": 2
-    },
-    "[mdx]": {
-        "editor.formatOnSave": false,
-        "editor.wordWrap": "off"
-    }
+	"workbench.colorCustomizations": {
+		"titleBar.activeBackground": "#5e81ac",
+		"titleBar.inactiveBackground": "#5e81ac",
+		"titleBar.activeForeground": "#ffffff",
+		"activityBar.activeBackground": "#81a1c1",
+		"activityBarBadge.background": "#e73546",
+		"activityBarBadge.foreground": "#ffffff",
+		"activityBar.inactiveForeground": "#ffffff",
+		"activityBar.background": "#5e81ac",
+		"activityBar.foreground": "#ffffff",
+		"statusBar.background": "#5e81ac",
+		"statusBar.border": "#5e81ac",
+		"statusBarItem.remoteBackground": "#5e81ac",
+		"statusBarItem.remoteForeground": "#ffffff",
+		"statusBar.foreground": "#ffffff"
+	},
+	"workbench.colorTheme": "Night Owl",
+	"editor.tabSize": 4,
+	"editor.insertSpaces": false,
+	"search.exclude": {
+		"**/node_modules": true,
+		"**/bower_components": true,
+		"**/*.code-search": true,
+		"**/.next": true
+	},
+	"[markdown]": {
+		"editor.formatOnSave": false,
+		"editor.wordWrap": "off",
+		"editor.insertSpaces": true,
+		"editor.tabSize": 2
+	},
+	"[mdx]": {
+		"editor.formatOnSave": false,
+		"editor.wordWrap": "off"
+	}
 }

@@ -9,19 +9,22 @@ eleventyComputed:
   title: Posts Tagged “{{ tag }}”
 ---
 
-<h1><span class="prefix small"><span class="sr-only">Posts </span>Tagged</span>{{ tag }}</h1>
+<h1><span class="prefix"><span class="sr-only">Posts </span>Tagged</span>{{ tag }}</h1>
 
 {% set taglist = collections[ tag ] %}
 
-<section class="archives-list">
-  <ul>
-    {% for post in taglist | reverse %}
-      {% if post.data.rss_only != true %}
-        <li>
-          <a href="{{ post.url }}">{{ post.data.title }}</a>
-          <span class="meta">{{ post.data.shortDateString }}</span>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+<section class="tags-list">
+	<ul class="archives-list">
+		{% for post in taglist | reverse %}
+			{% if post.data.rss_only != true %}
+				<li>
+					<a href="{{ post.url }}">{{ post.data.title }}</a>
+					<div class="post-metadata">
+						<span class="tag {{ post.data.postType.css }}">{{ post.data.postType.name }}</span>
+						<span class="date">{{ post.data.shortDateString }}</span>
+					</div>
+				</li>
+			{% endif %}
+		{% endfor %}
+	</ul>
 </section>

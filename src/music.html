@@ -1,28 +1,81 @@
 ---
 layout: "layouts/wide-layout.html"
-title: "Music Collection"
+title: "Music"
 ---
+<h1>Music</h1>
 
-<div class="media-page">
-	<div class="grid-container">
-		<h1>Music Collection</h1>
-
-		<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
-
-		{% renderTemplate "webc" %}
-			<music-filters></music-filters>
-		{% endrenderTemplate %}
-
-		<div class="grid-section music">
-			<div class="media-grid">
-				{% for album in music %}
-				{% musicListing album %}
-				{% endfor %}
-			</div>
-		</div>
+<aside class="filters">
+	<legend>Filters</legend>
+	<div class="filter-list">
+		<label for="all">
+			<input type="radio" id="all" name="musicFilters" checked />
+			All
+		</label>
+		<label for="top10">
+			<input type="radio" id="top10" name="musicFilters" />
+			My Top 10
+		</label>
+		<label for="vinyl">
+			<input type="radio" id="vinyl" name="musicFilters" />
+			Vinyl
+		</label>
+		<label for="cd">
+			<input type="radio" id="cd" name="musicFilters" />
+			CD
+		</label>
+		<label for="digital">
+			<input type="radio" id="digital" name="musicFilters" />
+			Digital
+		</label>
+		<label for="alternative">
+			<input type="radio" id="alternative" name="musicFilters" />
+			Alternative
+		</label>
+		<label for="country">
+			<input type="radio" id="country" name="musicFilters" />
+			Country
+		</label>
+		<label for="electronic">
+			<input type="radio" id="electronic" name="musicFilters" />
+			Electronic
+		</label>
+		<label for="folk">
+			<input type="radio" id="folk" name="musicFilters" />
+			Folk
+		</label>
+		<label for="metal">
+			<input type="radio" id="metal" name="musicFilters" />
+			Metal
+		</label>
+		<label for="pop-punk">
+			<input type="radio" id="pop-punk" name="musicFilters" />
+			Pop Punk
+		</label>
+		<label for="punk">
+			<input type="radio" id="punk" name="musicFilters" />
+			Punk
+		</label>
+		<label for="rap">
+			<input type="radio" id="rap" name="musicFilters" />
+			Rap
+		</label>
+		<label for="soundtrack">
+			<input type="radio" id="soundtrack" name="musicFilters" />
+			Soundtrack
+		</label>
 	</div>
-</div>
+</aside>
+
+<section class="media-section">
+	<div class="grid">
+		{% for album in music %}
+			{% musicListing album %}
+		{% endfor %}
+	</div>
+</section>
 
 {% renderTemplate "webc" %}
-<music-dialog></music-dialog>
+	<music-dialog></music-dialog>
 {% endrenderTemplate %}
+
+<script type="text/javascript" src="/scripts/music.js"></script>

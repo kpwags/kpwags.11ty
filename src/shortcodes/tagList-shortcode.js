@@ -7,12 +7,10 @@ const tagListShortcode = (tags) => {
 	const links = renderedTags.map((tag) => `<li><a href="/tag/${tagUrlFilter(tag)}">${tag}</a></li>`);
 
 	return `
-		<div class="titled-horizontal-list">
-			<div class="lead">Tagged:</div>
-			<ul>
-				${links.join('')}
-			</ul>
-		</div>
+		<ul class="titled-horizontal-list">
+			<li><strong>Tagged:</strong></li>
+			${links.join('')}
+		</ul>
 	`;
 };
 
