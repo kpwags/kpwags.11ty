@@ -2,5 +2,28 @@
 	<blockquote>
 		<slot></slot>
 	</blockquote>
-	<figcaption>- <cite @html="source"></cite></figcaption>
+	<figcaption webc:if="!href">- <cite @html="source"></cite></figcaption>
+	<figcaption webc:if="href">- <cite><a :href="href" @html="source" target="_blank" rel="noreferrer nofollow"></a></cite></figcaption>
 </figure>
+
+<style webc:keep>
+	figure.quote {
+		margin: 0 32px 32px;
+		border-left: 4px solid var(--secondary-color);
+		padding: 24px 32px;
+		background: var(--background-shaded);
+		border-radius: 6px;
+	}
+
+	figure blockquote {
+		margin: 0;
+		border: none;
+		padding: 0;
+		background: none;
+		border-radius: 0;
+	}
+
+	p:empty {
+		margin:0;
+	}
+</style>

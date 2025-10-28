@@ -9,36 +9,42 @@ pagination:
 
 <h1>Links</h1>
 
-<p>I traverse the web and run into many interesting posts, how-tos, and countless other fun links. Figured I'd share them here when I don't have anything specific to add.</p>
+<section class="links">
+	<p>I traverse the web and run into many interesting posts, how-tos, and countless other fun links. Figured I'd share them here when I don't have anything specific to add.</p>
 
-<div class="links-legend">
-	<span><strong>Legend</strong></span>
-	<span>🔗 - Link</span>
-	<span>🎥 - Video</span>
-	<span>🎧 - Podcast</span>
-</div>
+	<ul class="links-legend">
+		<li><strong>Legend:</strong></li>
+		<li>🔗 - Link</li>
+		<li>🎥 - Video</li>
+		<li>🎧 - Podcast</li>
+	</ul>
 
-<ul class="links">
-	{% for item in links %}
-	<li>
-		<a href="{{ item.url }}">
-			<div class="icon">
-				{% if item.type.name == "Podcast" %}
-				🎧
-				{% elsif item.type.name == "Video" %}
-				🎥
-				{% else %}
-				🔗
-				{% endif %}
-			</div>
-			<div>
-				<span class="text">{{ item.title }}</span>
-				<span class="meta">{{ item.linkDate | readableDate }} &bull; {{ item.author }}</span>
-			</div>
-		</a>
-	</li>
-	{% endfor %}
-</ul>
+	<ul class="links-list">
+		{% for link in links %}
+			<li>
+				<div class="info">
+					<div class="icon">
+						{% if link.type.name == "Podcast" %}
+						🎧
+						{% elsif link.type.name == "Video" %}
+						🎥
+						{% else %}
+						🔗
+						{% endif %}
+					</div>
+					<div class="link-details">
+						<a href="{{ link.url }}">{{ link.title }}</a>
+						<div class="metadata">{{ link.linkDate | readableDate }} &bull; {{ link.author }}</div>
+					</div>
+				</div>
+				<div class="category">
+					<span class="tag type" style="background-color: {{ link.type.colorCode }}">{{ link.type.name }}</span>
+					<span class="tag" style="background-color: {{ link.category.colorCode }}">{{ link.category.name }}</span>
+				</div>
+			</li>
+		{% endfor %}
+	</ul>
+</section>
 
 <section class="pagination">
 	{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Links</a>{% endif %}

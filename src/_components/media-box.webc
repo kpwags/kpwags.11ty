@@ -6,9 +6,92 @@
 				<div class="title"><a :href="link" @html="title"></a></div>
 				<div class="author" webc:if="author" @html="author"></div>
 			</div>
-			<platform-tag :platform="platform"></platform-tag>
-			<star-rating :rating="rating"></star-rating>
+			<platform-tag :platform="platform" webc:if="platform"></platform-tag>
+			<star-rating webc:if="rating" :rating="rating"></star-rating>
 			<p><slot></slot></p>
 		</div>
 	</div>
 </div>
+
+<style webc:keep>
+	.media-box {
+		width: 600px;
+		margin: 32px auto;
+		border: 3px solid var(--secondary-color);
+		border-radius: 6px;
+		background: var(--background-shaded);
+	}
+
+	.media-box .title {
+		font-size: 1.5rem;
+		font-weight: 700;
+		color: var(--primary-color);
+	}
+
+	.media-box .container {
+		display: flex;
+		gap: 32px;
+		padding: 16px;
+	}
+
+	.media-box .container img {
+		width: 150px;
+		height: 225px;
+		flex-grow: 0;
+	}
+
+	.media-box .container .details {
+		display: flex;
+		flex-direction: column;
+		row-gap: 16px;
+		flex-grow: 1;
+	}
+
+	.media-box .container .details .author {
+		font-size: 1.2rem;
+		font-weight: 500;
+		font-style: italic;
+	}
+
+	.media-box .container .details .author:empty {
+		display: none;
+	}
+
+	.media-box .container .details p {
+		margin: 0;
+	}
+
+	.media-box .container .details .rating {
+		display: flex;
+		align-items: center;
+		column-gap: 4px;
+	}
+
+	.media-box .container .details .rating p {
+		margin: 0;
+	}
+
+	.media-box p:empty {
+		display: none;
+	}
+
+	@media (max-width: 700px) {
+		.media-box {
+			width: 100%;
+			margin: 32px 0;
+			border-radius: 6px;
+		}
+
+		.media-box .container img {
+			margin: 0 auto;
+			width: 200px;
+			height: 300px;
+		}
+	}
+
+	@media (max-width: 450px) {
+		.media-box .container {
+			flex-direction: column;
+		}
+	}
+</style>

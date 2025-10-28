@@ -1,25 +1,162 @@
 <dialog class="music-dialog">
-	<div class="dialog-content">
+	<div class="content">
 		<div class="info">
 			<img src="" alt="" height="200" width="200" />
 			<div class="details">
-				<div class="title"></div>
-				<div class="artist"></div>
-				<div>
+				<h2 class="title"></h2>
+				<h3 class="artist"></h3>
+				<div class="tagged-list">
 					<div class="tag-list-title">Genres:</div>
 					<div class="genres tag-list"></div>
 				</div>
-				<div>
+				<div class="tagged-list">
 					<div class="tag-list-title">Formats:</div>
 					<div class="formats tag-list"></div>
 				</div>
 			</div>
+			<div class="close-button"><button type="button" class="btn-ghost">Close</button></div>
 		</div>
+
 		<div class="tracks">
-			<div class="thoughts"></div>
-			<div class="track-list-title">Tracks</div>
+			<blockquote class="thoughts"></blockquote>
+			<h2 class="track-list-title">Tracks</h2>
 			<ol class="track-list"></ol>
 		</div>
-		<div class="close-button"><button type="button">Close</button></div>
+
+		<div class="mobile-close-button"><button type="button" class="btn-ghost">Close</button></div>
 	</div>
 </dialog>
+
+<style webc:keep>
+	dialog.music-dialog {
+		width: 900px;
+		border-color: var(--primary-color);
+		border-radius: 10px;
+		background: var(--background);
+		color: var(--text);
+	}
+
+	dialog.music-dialog .content {
+		display: flex;
+		gap: 64px;
+	}
+
+	dialog.music-dialog .content .info {
+		min-width: 300px;
+		max-width: 300px;
+		margin: 0 auto;
+		flex-grow: 0;
+	}
+
+	dialog.music-dialog .content .info h2,
+	dialog.music-dialog .content .info h3 {
+		text-align: center;
+	}
+
+	dialog.music-dialog .content .tracks {
+		flex-grow: 1;
+	}
+
+	dialog.music-dialog .info img {
+		display: block;
+		margin: 0 auto 16px;
+		width: 200px;
+	}
+
+	dialog.music-dialog h2 {
+		margin: 0;
+		padding: 0;
+		font-size: 1.75rem;
+	}
+
+	dialog.music-dialog h3 {
+		margin: 8px 0;
+		padding: 0;
+		font-size: 1rem;
+	}
+
+	dialog.music-dialog span.tag {
+		white-space: nowrap;
+		color: oklch(100% 0 0);
+		background: var(--primary-color);
+		padding: 2px 8px;
+		border-radius: 4px;
+		font-size: 1rem;
+	}
+
+	dialog.music-dialog ol {
+		margin-top: 16px;
+	}
+
+	dialog.music-dialog ol li {
+		margin: 0;
+		padding: 0;
+	}
+
+	dialog.music-dialog .tagged-list {
+		margin-bottom: 16px;
+	}
+
+	dialog.music-dialog .tagged-list .tag-list-title {
+		font-size: 0.75rem;
+		font-weight: 600;
+	}
+
+	dialog.music-dialog .tag-list {
+		display: flex;
+		gap: 8px;
+		align-items: center;
+	}
+
+	dialog.music-dialog blockquote {
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	dialog.music-dialog .close-button {
+		margin-top: 32px;
+	}
+
+	dialog.music-dialog .mobile-close-button {
+		display: none;
+	}
+
+	dialog.music-dialog .btn-ghost {
+		padding: 4px 16px;
+	}
+
+	@media (max-width: 950px) {
+		dialog.music-dialog {
+			width: 750px;
+		}
+	}
+
+	@media (max-width: 768px) {
+		dialog.music-dialog {
+			width: 500px;
+		}
+	}
+
+	@media (max-width: 550px) {
+		dialog.music-dialog {
+			width: 350px;
+		}
+
+		dialog.music-dialog .content {
+			flex-direction: column;
+			gap: 32px;
+		}
+
+		dialog.music-dialog .close-button {
+			display: none;
+		}
+
+		dialog.music-dialog .mobile-close-button {
+			display: block;
+		}
+
+		dialog.music-dialog ol li {
+			list-style-position: inside;
+		}
+	}
+</style>

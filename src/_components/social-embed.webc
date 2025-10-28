@@ -3,9 +3,10 @@
 		<slot></slot>
 	</div>
 	<div class="source">
-		<a :href="link" target="_blank" rel="noreferrer" @html="author"></a>
-
-		<span class="date" @html="date"></span>
+		<div class="author-date">
+			<a :href="link" target="_blank" rel="noreferrer" @html="author"></a>
+			<span class="date" @html="date"></span>
+		</div>
 		
 		<div webc:if="(site == 'twitter')">
 			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" view-box="0 0 16 16" aria-label="Twitter Logo">
@@ -18,17 +19,23 @@
                 <path d="M11.19 12.195c2.016-.24 3.77-1.475 3.99-2.603.348-1.778.32-4.339.32-4.339 0-3.47-2.286-4.488-2.286-4.488C12.062.238 10.083.017 8.027 0h-.05C5.92.017 3.942.238 2.79.765c0 0-2.285 1.017-2.285 4.488l-.002.662c-.004.64-.007 1.35.011 2.091.083 3.394.626 6.74 3.78 7.57 1.454.383 2.703.463 3.709.408 1.823-.1 2.847-.647 2.847-.647l-.06-1.317s-1.303.41-2.767.36c-1.45-.05-2.98-.156-3.215-1.928a3.614 3.614 0 0 1-.033-.496s1.424.346 3.228.428c1.103.05 2.137-.064 3.188-.189zm1.613-2.47H11.13v-4.08c0-.859-.364-1.295-1.091-1.295-.804 0-1.207.517-1.207 1.541v2.233H7.168V5.89c0-1.024-.403-1.541-1.207-1.541-.727 0-1.091.436-1.091 1.296v4.079H3.197V5.522c0-.859.22-1.541.66-2.046.456-.505 1.052-.764 1.793-.764.856 0 1.504.328 1.933.983L8 4.39l.417-.695c.429-.655 1.077-.983 1.934-.983.74 0 1.336.259 1.791.764.442.505.661 1.187.661 2.046v4.203z" />
             </svg>
 		</div>
+		
+		<div webc:if="(site == 'bluesky')">
+			<svg width="18" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 530" aria-label="Bluesky Logo">
+				<path d="m135.72 44.03c66.496 49.921 138.02 151.14 164.28 205.46 26.262-54.316 97.782-155.54 164.28-205.46 47.98-36.021 125.72-63.892 125.72 24.795 0 17.712-10.155 148.79-16.111 170.07-20.703 73.984-96.144 92.854-163.25 81.433 117.3 19.964 147.14 86.092 82.697 152.22-122.39 125.59-175.91-31.511-189.63-71.766-2.514-7.3797-3.6904-10.832-3.7077-7.8964-0.0174-2.9357-1.1937 0.51669-3.7077 7.8964-13.714 40.255-67.233 197.36-189.63 71.766-64.444-66.128-34.605-132.26 82.697-152.22-67.108 11.421-142.55-7.4491-163.25-81.433-5.9562-21.282-16.111-152.36-16.111-170.07 0-88.687 77.742-60.816 125.72-24.795z" />
+			</svg>
+		</div>
 	</div>
 </div>
 
 <style webc:keep>
 	.social-media-embed {
 		border-radius: 8px;
-		background-color: var(--shaded-background);
+		background-color: var(--background-shaded);
 		color: var(--text);
 		padding: 16px;
-		margin: 36px;
-		border: 1px solid var(--grey-2);
+		margin: 32px;
+		border: 1px solid var(--secondary-color);
 	}
 
 	.social-media-embed .content p {
@@ -43,9 +50,15 @@
 
 	.social-media-embed .source {
 		display: flex;
-		column-gap: 16px;
+		gap: 16px;
 		justify-content: flex-end;
 		align-items: center;
+		line-height: 1;
+	}
+
+	.social-media-embed .source .author-date {
+		display: flex;
+		gap: 16px;
 		line-height: 1;
 	}
 
@@ -64,6 +77,22 @@
 	}
 
 	.social-media-embed .source svg {
-		fill: var(--primary-color-1);
+		fill: var(--primary-color);
+	}
+
+	@media (max-width: 500px) {
+		.social-media-embed {
+			margin: 32px 0;
+		}
+
+		.social-media-embed .source {
+			margin-top: 24px;
+		}
+
+		.social-media-embed .source .author-date {
+			flex-direction: column;
+			gap: 8px;
+			text-align: right;
+		}
 	}
 </style>

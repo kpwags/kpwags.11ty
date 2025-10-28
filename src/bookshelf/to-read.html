@@ -1,20 +1,19 @@
 ---
 layout: "layouts/layout.html"
-title: "Bookshelf - To Read"
+title: "Bookshelf - Backlog"
 ---
 
-<h1>My Bookshelf - To Read</h1>
+<h1>Bookshelf - Backlog</h1>
 
 <p>One of these days I'll get to reading all of these</p>
-
-<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
-
 <p><strong>Backlog Count:</strong> {{ books.toRead.length }}</p>
 
-<ul class="books-to-read">
-	{% for book in books.toRead %}
-	<li>
-		<a href="{{ book.link }}">{{ book.fullTitle }}</a> by {{ book.author }}
-	</li>
-	{% endfor %}
-</ul>
+<section class="bookshelf-backlog">
+	<ul class="books-to-read">
+		{% for book in books.toRead %}
+		<li>
+			<a href="{{ book.link }}">{{ book.fullTitle }}</a> by {{ book.author }}
+		</li>
+		{% endfor %}
+	</ul>
+</section>

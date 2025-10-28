@@ -2,43 +2,57 @@
 layout: "layouts/wide-layout.html"
 title: "Video Games"
 ---
+<h1>Video Games</h1>
 
-<div class="media-page">
-	<div class="grid-container">
-		<h1>Video Games</h1>
+{% renderTemplate "webc" %}
+	<video-game-filters></video-game-filters>
+{% endrenderTemplate %}
 
-		<p >I've certainly played more than this, but I figured I'd update this list with some of my thoughts for the video
-			games I've played and am currently playing.</p>
+<section class="media-section">
+	<h2>Currently Playing (<span id="currently-playing">{{ videoGames.inProgress | length }}</span>)</h2>
 
-		<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
-
-		{% renderTemplate "webc" %}
-			<video-game-filters></video-game-filters>
-		{% endrenderTemplate %}
-
-		<div class="grid-section">
-			<h2>Currently Playing ({{ videoGames.inProgress | length }})</h2>
-
-			<div class="media-grid current-status">
-				{% for game in videoGames.inProgress %}
-				{% videoGameListing game %}
-				{% endfor %}
-			</div>
-		</div>
-
-		<div class="grid-section">
-			<h2>Have Played (<span id="have-played">{{ videoGames.completed | length }}</span>)</h2>
-
-			<div class="game-legend">
-				<div>✅ - indicates that I finished the game</div>
-				<div>🟥 - indicates that I did not finish the game</div>
-			</div>
-
-			<div class="media-grid have-played-grid">
-				{% for game in videoGames.completed %}
-				{% videoGameListing game %}
-				{% endfor %}
-			</div>
-		</div>
+	<div class="grid playing-grid">
+		{% for game in videoGames.inProgress %}
+		{% videoGameListing game false %}
+		{% endfor %}
 	</div>
-</main>
+</section>
+
+<section class="media-section">
+	<h2>Played (<span id="have-played">{{ videoGames.completed | length }}</span>)</h2>
+
+	<section class="game-legend">
+		<div>✅ - indicates that I finished the game</div>
+		<div>🟥 - indicates that I did not finish the game</div>
+	</section>
+
+	<div class="grid have-played-grid">
+		{% for game in videoGames.completed %}
+		{% videoGameListing game true %}
+		{% endfor %}
+	</div>
+</section>
+
+<script type="text/javascript" src="/scripts/media.js"></script>
+<script>
+	window.addEventListener('load', function() {
+		const dialog = document.querySelector('dialog.thoughts-dialog');
+
+		const toggleButtons = document.querySelectorAll('button.toggle-thoughts');
+
+		toggleButtons.forEach((button) => {
+			button.addEventListener('click', (e) => {
+				const dataType = e.target.getAttribute('data-type');
+				const id = e.target.getAttribute('data-id');
+
+				showThoughts(id, dataType);
+			});
+		});
+
+		const modalCloseButton = document.querySelector('dialog.thoughts-dialog button');
+
+		if (modalCloseButton) {
+			modalCloseButton.addEventListener('click', () => dialog.close());
+		}
+	});
+</script>

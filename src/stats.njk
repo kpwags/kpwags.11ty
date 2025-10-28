@@ -8,12 +8,13 @@ eleventyImport: {
 
 <h1>Stats</h1>
 
-<p class="large">Some stats about my blog and what I post</p>
+<p>Some stats about my blog and what I post</p>
 
 {% set stats = collections.stats %}
 
 <section class="chart">
 	<h2>Overall Stats</h2>
+
 	<div class="stats-table">
 		<div class="stat-row">
 			<div class="stat-name">Total Posts</div>
@@ -44,7 +45,7 @@ eleventyImport: {
 	<h2>Posts Per Year</h2>
 	{% for year in stats.postsByYear %}
 		<div class="stats-chart">
-			<p class="bar-title"><a href="/archives/{{ year.year }}">{{ year.year }}</a><span class="mobile-stats">&nbsp;({{ year.count }})</span></p>
+			<p class="bar-title"><a href="/archives/#{{ year.year }}">{{ year.year }}</a><span class="mobile-stats">&nbsp;({{ year.count }})</span></p>
 			<div class="bar">
 				<div class="inner-bar" style="background-color: {{ year.color }}; width: {{ year.percentage }}%"></div>
 			</div>

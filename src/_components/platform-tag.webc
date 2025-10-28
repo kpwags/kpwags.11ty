@@ -62,3 +62,53 @@
 		eBook
 	</span>
 </div>
+
+<style webc:keep>
+	.platform-tag {
+		margin: 0;
+	}
+
+	.platform-tag .tag {
+		padding: 4px 16px;
+		border-radius: 12px;
+		display: inline-flex;
+		column-gap: 8px;
+		align-items: center;
+		font-size: 12px;
+		color: var(--white-1);
+	}
+
+	.platform-tag .tag.xbox {
+		background-color: oklch(50.41% 0.1647 142.58);
+	}
+
+	.platform-tag .tag.playstation {
+		background-color: oklch(54.26% 0.1678 253.1);
+	}
+
+	.platform-tag .tag.nintendo {
+		background-color: oklch(58.14% 0.2375 27.86);
+	}
+
+	.platform-tag .tag.audiobook {
+		background-color: oklch(49.12% 0.2171 312.35);
+	}
+
+	.platform-tag .tag.hardcover {
+		background-color: oklch(49.12% 0.0913 65.65);
+	}
+
+	.platform-tag .tag.paperback {
+		background-color: oklch(47.94% 0.1653 0);
+	}
+
+	.platform-tag .tag.ebook {
+		background-color: oklch(49.12% 0.0814 227.65);
+	}
+
+	.platform-tag .tag svg {
+		fill: var(--white-1);
+		width: 12px;
+		height: 12px;
+	}
+</style>

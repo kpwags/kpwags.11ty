@@ -71,3 +71,54 @@
 		</label>
 	</div>
 </div>
+
+<script webc:keep>
+	window.addEventListener('load', () => {
+		const bookFilters = document.querySelectorAll('input[type="radio"][name="bookFilters"]');
+		bookFilters.forEach((filter) => {
+			filter.addEventListener('change', (e) => {
+				filterBooks(e.target.id);
+			});
+		});
+	});
+
+	function filterBooks(genre) {
+		if (genre === 'all') {
+			document.querySelectorAll('.item').forEach((item) => {
+				item.removeAttribute('hidden');
+			});
+		} else if (genre === 'fiction') {
+			document.querySelectorAll('.item').forEach((item) => {
+				if (item.getAttribute('data-booktype') === 'fiction') {
+					item.removeAttribute('hidden');
+				} else {
+					item.setAttribute('hidden', 'true');
+				}
+			});
+		} else if (genre === 'non-fiction') {
+			document.querySelectorAll('.item').forEach((item) => {
+				const bookType = item.getAttribute('data-booktype');
+				if (bookType === 'non-fiction' || bookType === 'reference') {
+					item.removeAttribute('hidden');
+				} else {
+					item.setAttribute('hidden', 'true');
+				}
+			});
+		} else {
+			document.querySelectorAll('.item').forEach((item) => {
+				const genres = item.getAttribute('data-genre').split(',');
+				if (genres.includes(convertFilterName(genre))) {
+					item.removeAttribute('hidden');
+				} else {
+					item.setAttribute('hidden', 'true');
+				}
+			});
+		}
+
+		const gridSections = document.querySelectorAll('.grid-section');
+		gridSections.forEach((sec) => {
+			const visibleItems = sec.querySelectorAll('.item:not([hidden])');
+			sec.querySelector('h2 span').innerHTML = visibleItems.length;
+		});
+	}
+</script>

@@ -1,24 +1,9 @@
 ---
-layout: "layouts/wide-layout.html"
-title: "Podcast Subscriptions"
+layout: "layouts/layout.html"
+title: "Podcasts"
 ---
 
-<div class="media-page">
-	<h1>Podcast Subscriptions</h1>
+<h1>Podcasts</h1>
+<h2>This Page Has Moved</h2>
 
-	<p>Yes, I subscribe to a lot of podcasts. No, I don't necessarily listen to every episode.</p>
-
-	<p class="last-update">Last Updated: {{ config.builtAt | readableDate }}</p>
-
-	{% for category in podcasts %}
-	<div class="grid-section">
-		<h2>{{ category.name }} ({{ category.podcasts | length }})</h2>
-
-		<div class="media-grid podcasts">
-			{% for podcast in category.podcasts %}
-			{% podcastListing podcast %}
-			{% endfor %}
-		</div>
-	</div>
-	{% endfor %}
-</div>
+<p>This page has moved <a href="/podcasts">here</a>.</p>

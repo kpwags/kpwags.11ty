@@ -15,7 +15,7 @@ One of the things I wanted to integrate with this project was user accounts. I a
 This is the third installment of my Digging into Blazor series.
 
 <section class="blog-series">
-    <h4>Series: Digging into Blazor</h4>
+    <h2>Series: Digging into Blazor</h2>
     <ul class="posts">
         <li class="post"><a href="/posts/2023/03/19/digging-into-blazor-first-impressions">First Impressions</a></li>
         <li class="post"><a href="/posts/2023/04/04/digging-into-blazor-entity-framework">Integrating with Entity Framework</a></li>

@@ -21,7 +21,7 @@ const getThoughts = (tvShow) => {
 	return `
 <div class="view-thoughts">
 	<button
-		class="toggle-thoughts"
+		class="btn-ghost toggle-thoughts"
 		type="button"
 		data-id="${tvShow.televisionShowId}"
 		data-type="tv"
@@ -31,13 +31,13 @@ const getThoughts = (tvShow) => {
 	`;
 };
 
-const tvListingShortcode = (tvShow, showProgress = false) => {
+const tvListingShortcode = (tvShow, showProgress, showRating) => {
 	const getRating = tvShow.rating !== null ? starRating(tvShow.rating, 'sm') : '';
 
 	return `
 <div class="item" data-tv-id="${tvShow.televisionShowId}">
 	<div class="cover">
-		<img src="${tvShow.coverImageUrl}" alt="${tvShow.title}" height="225" width="150" />
+		<img src="${tvShow.coverImageUrl}" alt="${tvShow.title}" height="300" width="200" />
 		${showProgress ? getProgress(tvShow) : ''}
 	</div>
 	<div class="info">
@@ -45,9 +45,9 @@ const tvListingShortcode = (tvShow, showProgress = false) => {
 			${tvShow.title}
 		</a>
 
-		${getRating}
+		${showRating ? getRating : ''}
 
-		${getThoughts(tvShow)}
+		${showRating ? getThoughts(tvShow) : ''}
 	</div>
 </div>
 	`;

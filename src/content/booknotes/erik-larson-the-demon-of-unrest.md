@@ -6,7 +6,7 @@ author: "Erik Larson"
 coverImage: https://i.postimg.cc/DzzqQJ6r/demon-of-unrest.jpg
 rating: 4
 date: '2024-09-17'
-format: 'Harcover'
+format: 'Hardcover'
 permalink: /books/erik-larson-the-demon-of-unrest/index.html
 categories:
   - History

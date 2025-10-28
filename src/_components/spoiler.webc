@@ -17,7 +17,7 @@
 
 <style webc:keep>
 	.spoiler-warning {
-		border: 1px solid var(--red-2);
+		border: 1px solid var(--red);
 		padding: 12px;
 		text-align: center;
 		border-radius: 4px;
@@ -25,7 +25,7 @@
 
 	.spoiler-warning h2 {
 		font-size: 2rem;
-		color: var(--red-2);
+		color: var(--red);
 		margin: 0;
 		padding: 0;
 		align-items: center;
@@ -37,7 +37,7 @@
 	}
 
 	.spoiler-warning h2 svg {
-		fill: var(--red-2);
+		fill: var(--red);
 		height: 24px;
 		width: 24px;
 	}
