@@ -1,5 +1,869 @@
 [
   {
+    "linkId": 1191,
+    "title": "No AI data centers in my backyard!",
+    "url": "https://www.npr.org/2025/10/22/nx-s1-5581445/no-ai-data-centers-in-my-backyard",
+    "author": "The Indicator",
+    "linkDate": "2025-10-28T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1192,
+    "title": "Are concert tickets UNDER priced?",
+    "url": "https://www.npr.org/2025/10/23/nx-s1-5582775/are-concert-tickets-under-priced",
+    "author": "The Indicator",
+    "linkDate": "2025-10-28T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1193,
+    "title": "Why Bands Are Leaving Spotify",
+    "url": "https://slate.com/podcasts/what-next-tbd/2025/10/taking-music-from-spotify-in-protest",
+    "author": "What Next: TBD",
+    "linkDate": "2025-10-28T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1194,
+    "title": "Where Sports Betting Got Us",
+    "url": "https://slate.com/podcasts/what-next/2025/10/sports-betting-and-other-legal-scams",
+    "author": "What Next",
+    "linkDate": "2025-10-28T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1190,
+    "title": "Don\u2019t Forget These Tags to Make HTML Work Like You Expect",
+    "url": "https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/",
+    "author": "Jim Nielsen",
+    "linkDate": "2025-10-27T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1188,
+    "title": "Bari Weiss",
+    "url": "https://www.youtube.com/watch?v=gieTx_P6INQ",
+    "author": "Last Week Tonight with John Oliver",
+    "linkDate": "2025-10-26T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Video",
+      "colorCode": "#a53621"
+    },
+    "category": {
+      "name": "Journalism",
+      "colorCode": "#131519"
+    }
+  },
+  {
+    "linkId": 1189,
+    "title": "A better future for JavaScript that won\u0027t happen",
+    "url": "https://drewdevault.com/2025/09/17/2025-09-17-An-impossible-future-for-JS.html",
+    "author": "Drew DeVault",
+    "linkDate": "2025-10-26T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1184,
+    "title": "React Won By Default - And It\u2019s Killing Frontend Innovation",
+    "url": "https://www.lorenstew.art/blog/react-won-by-default/",
+    "author": "Loren Stewart",
+    "linkDate": "2025-10-25T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1185,
+    "title": "Why aren\u2019t you a good fit?",
+    "url": "https://newsletter.antoniokov.com/archive/why-arent-you-a-good-fit/",
+    "author": "Anton Iokov",
+    "linkDate": "2025-10-25T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1186,
+    "title": "Why do software developers love complexity?",
+    "url": "https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html",
+    "author": "Kyrylo Silin",
+    "linkDate": "2025-10-25T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1187,
+    "title": "Taking a shot at the double focus ring problem using modern CSS",
+    "url": "https://piccalil.li/blog/taking-a-shot-at-the-double-focus-ring-problem-using-modern-css/",
+    "author": "Eric Bailey",
+    "linkDate": "2025-10-25T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1170,
+    "title": "Satellites Are Leaking the World\u2019s Secrets: Calls, Texts, Military and Corporate Data",
+    "url": "https://www.wired.com/story/satellites-are-leaking-the-worlds-secrets-calls-texts-military-and-corporate-data/",
+    "author": "Andy Greenberg \u0026 Matt Burgess",
+    "linkDate": "2025-10-24T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 1171,
+    "title": "Do the simplest thing that could possibly work",
+    "url": "https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/",
+    "author": "Sean Goedecke",
+    "linkDate": "2025-10-24T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1172,
+    "title": "Trump steals $400b from American workers",
+    "url": "https://pluralistic.net/2025/09/09/germanium-valley/",
+    "author": "Cory Doctorow",
+    "linkDate": "2025-10-24T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 1173,
+    "title": "How Tim Cook sold out Steve Jobs",
+    "url": "https://www.anildash.com//2025/09/09/how-tim-cook-sold-out-steve-jobs/",
+    "author": "Anil Dash",
+    "linkDate": "2025-10-24T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 1174,
+    "title": "\u201CYour\u201D vs \u201CMy\u201D in user interfaces",
+    "url": "https://adamsilver.io/blog/your-vs-my-in-user-interfaces/",
+    "author": "Adam Silver",
+    "linkDate": "2025-10-24T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Design",
+      "colorCode": "#0b545e"
+    }
+  },
+  {
+    "linkId": 1175,
+    "title": "Using and authoring .NET tools",
+    "url": "https://andrewlock.net/using-and-authoring-dotnet-tools/",
+    "author": "Andrew Lock",
+    "linkDate": "2025-10-24T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1176,
+    "title": "Finally, safe array methods in JavaScript",
+    "url": "https://allthingssmitty.com/2025/09/08/finally-safe-array-methods-in-javascript/",
+    "author": "Matt Smith",
+    "linkDate": "2025-10-24T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1177,
+    "title": "One List To Rule Them All",
+    "url": "https://nerdy.dev/cascading-secret-sauce",
+    "author": "Adam Argyle",
+    "linkDate": "2025-10-24T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1178,
+    "title": "Successive Prototypes Bridge the Gap Between Idea and Reality",
+    "url": "https://blog.jim-nielsen.com/2025/idea-to-reality-with-prototypes/",
+    "author": "Jim Nielsen",
+    "linkDate": "2025-10-24T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1179,
+    "title": "The Gaps and Richness of the .NET Ecosystem",
+    "url": "https://platform.uno/blog/the-gaps-and-richness-of-the-net-ecosystem/",
+    "author": "Sam Basu",
+    "linkDate": "2025-10-24T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1180,
+    "title": "Entity Framework Core Isn\u2019t Slow; You\u2019re Just Using It Wrong",
+    "url": "https://dev.to/iamcymentho/entity-framework-core-isnt-slow-youre-just-using-it-wrong-308i",
+    "author": "Odumosu Matthew",
+    "linkDate": "2025-10-24T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1181,
+    "title": "The Majority AI View",
+    "url": "https://www.anildash.com//2025/10/17/the-majority-ai-view/",
+    "author": "Anil Dash",
+    "linkDate": "2025-10-24T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1182,
+    "title": "Why Are There Still Pirates Fans?",
+    "url": "https://defector.com/why-are-there-still-pirates-fans?giftLink=76f333b446cbb7d6c9d54f6317a2e99b\u0026utm_campaign=defector\u0026utm_medium=email\u0026utm_source=newsletter",
+    "author": "Keith Paradise",
+    "linkDate": "2025-10-24T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 1183,
+    "title": "Moving off of TypeScript",
+    "url": "https://engineering.usemotion.com/moving-off-of-typescript-e7bb1f3ad091",
+    "author": "Chander Ramesh",
+    "linkDate": "2025-10-24T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1166,
+    "title": "Why Wikipedia works",
+    "url": "https://pluralistic.net/2025/09/05/be-the-first-person/",
+    "author": "Cory Doctorow",
+    "linkDate": "2025-10-18T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 1167,
+    "title": "The silent shift to Vite: What it means for your stack",
+    "url": "https://blog.logrocket.com/the-silent-shift-to-vite/",
+    "author": "Elijah Asaolu",
+    "linkDate": "2025-10-18T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1168,
+    "title": "Do the simplest thing that could possibly work",
+    "url": "https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/",
+    "author": "Sean Goedecke",
+    "linkDate": "2025-10-18T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1169,
+    "title": "The Value of Custom Exceptions",
+    "url": "https://blog.nimblepros.com/blogs/the-value-of-custom-exceptions/",
+    "author": "Scott DePouw",
+    "linkDate": "2025-10-18T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1163,
+    "title": "The New Generation Of Independent Journalists",
+    "url": "https://www.techdirt.com/2025/10/14/techdirt-podcast-episode-434-the-new-generation-of-independent-journalists/",
+    "author": "Techdirt Podcast",
+    "linkDate": "2025-10-17T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1164,
+    "title": "The Most Difficult Job In The World, With Seth Wickersham",
+    "url": "https://defector.com/the-most-difficult-job-in-the-world-with-seth-wickersham",
+    "author": "The Distraction",
+    "linkDate": "2025-10-17T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1159,
+    "title": "Podcasts Are Not Television",
+    "url": "https://defector.com/podcasts-are-not-television",
+    "author": "Alex Sujong Laughlin",
+    "linkDate": "2025-10-16T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Media \u0026 Entertainment",
+      "colorCode": "#7949a8"
+    }
+  },
+  {
+    "linkId": 1160,
+    "title": "forced-color-adjust: none is an unavoidable foot gun",
+    "url": "https://sarahmhigley.com/writing/forced-color-adjust-none/",
+    "author": "Sarah Higley",
+    "linkDate": "2025-10-16T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1161,
+    "title": "No, AI is not Making Engineers 10x as Productive",
+    "url": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
+    "author": "Colton Voege",
+    "linkDate": "2025-10-16T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1162,
+    "title": "You do not need \u201Canalytics\u201D for your blog because you are neither a military surveillance unit nor a commodity trading company",
+    "url": "https://www.thisdaysportion.com/posts/contra-analytics/",
+    "author": "Leon",
+    "linkDate": "2025-10-16T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 1165,
+    "title": "There\u2019s Now a Casino in Everyone\u2019s Pocket. For Some Young Men, It\u2019s a Near-Fatal Gamble.",
+    "url": "https://www.rollingstone.com/culture/culture-features/mobile-sports-betting-gambling-addiction-fanduel-draftkings-1235444172/",
+    "author": "Paul Solotaroff \u0026 Eli Senor",
+    "linkDate": "2025-10-16T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1156,
+    "title": "Lawyer Caught Using AI While Explaining to Court Why He Used AI",
+    "url": "https://www.404media.co/lawyer-using-ai-fake-citations/",
+    "author": "Samantha Cole",
+    "linkDate": "2025-10-15T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1157,
+    "title": "The killer feature of Web Components",
+    "url": "https://daverupert.com/2025/10/custom-elements-manifest-killer-feature/",
+    "author": "Dave Rupert",
+    "linkDate": "2025-10-15T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1158,
+    "title": "Why ad blockers are a top security and privacy defense for everyone",
+    "url": "https://this.weekinsecurity.com/why-ad-blockers-are-a-top-security-and-privacy-defense-for-everyone/",
+    "author": "Zack Whittaker",
+    "linkDate": "2025-10-15T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Cybersecurity",
+      "colorCode": "#948000"
+    }
+  },
+  {
+    "linkId": 1155,
+    "title": "Jamie Taylor",
+    "url": "https://www.coffeeandopensource.com/guest/jamie-taylor.html",
+    "author": "Coffee \u0026 Open Source",
+    "linkDate": "2025-10-14T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1154,
+    "title": "What Happened When AI Came for Craft Beer",
+    "url": "https://www.404media.co/what-happened-when-ai-came-for-craft-beer-canadian-beer-awards-best-beer-app/",
+    "author": "Joseph Cox",
+    "linkDate": "2025-10-13T00:00:00Z",
+    "readingLogIssueNumber": 145,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1152,
+    "title": "The Lifeblood of the Web",
+    "url": "https://matthiasott.com/notes/the-lifeblood-of-the-web",
+    "author": "Matthias Ott",
+    "linkDate": "2025-10-13T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1153,
+    "title": "Targeting Specific Characters with CSS Rules",
+    "url": "https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/",
+    "author": "Terence Eden",
+    "linkDate": "2025-10-13T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1151,
+    "title": "Why do browsers throttle JavaScript timers?",
+    "url": "https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/",
+    "author": "Nolan Lawson",
+    "linkDate": "2025-10-12T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1147,
+    "title": "Bubble trouble: could the AI boom go pop?",
+    "url": "https://www.economist.com/podcasts/2025/10/09/bubble-trouble-could-the-ai-boom-go-pop?utm_campaign=shared_article",
+    "author": "The Economist",
+    "linkDate": "2025-10-09T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1148,
+    "title": "Wargames",
+    "url": "https://www.marketplace.org/episode/2024/10/09/wargames",
+    "author": "How We Survive",
+    "linkDate": "2025-10-09T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1150,
+    "title": "CSS :is() :where() the Mag\u00ADic Happens",
+    "url": "https://matthiasott.com/notes/css-is-where-the-magic-happens",
+    "author": "Matthias Ott",
+    "linkDate": "2025-10-09T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1145,
+    "title": "Blazor Prerendering is Finally SOLVED in .NET 10!",
+    "url": "https://dotnetwebacademy.substack.com/p/net-10-finally-fixes-prerendering",
+    "author": "Patrick God",
+    "linkDate": "2025-10-08T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1146,
+    "title": "We all have a choice",
+    "url": "https://whitep4nth3r.com/blog/we-all-have-a-choice/",
+    "author": "Salma Alam-Naylor",
+    "linkDate": "2025-10-08T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 1149,
+    "title": "Life Isn\u2019t a Spreadsheet",
+    "url": "https://www.spilledcoffee.co/p/life-isnt-a-spreadsheet",
+    "author": "Eric Soda",
+    "linkDate": "2025-10-08T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Investing",
+      "colorCode": "#006c00"
+    }
+  },
+  {
+    "linkId": 1144,
+    "title": "The Hidden Cost of Slow Feedback Loops",
+    "url": "https://revontulet.dev/p/2025-hidden-cost-slow-feedback-loops/",
+    "author": "Matthias D\u00F6pmann",
+    "linkDate": "2025-10-07T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1143,
+    "title": "We Are Not Fascists, and If You Call Us Fascists, We Will Arrest You",
+    "url": "https://www.mcsweeneys.net/articles/we-are-not-fascists-and-if-you-call-us-fascists-we-will-arrest-you",
+    "author": "Carlos Greaves",
+    "linkDate": "2025-10-06T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 1142,
+    "title": "The Coyier CSS starter",
+    "url": "https://piccalil.li/links/the-coyier-css-starter/",
+    "author": "Andy Bell",
+    "linkDate": "2025-10-06T00:00:00Z",
+    "readingLogIssueNumber": 143,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1141,
+    "title": "Why I hate the MVP car",
+    "url": "https://daverupert.com/2025/10/why-i-hate-the-mvp-car/",
+    "author": "Dave Rupert",
+    "linkDate": "2025-10-05T00:00:00Z",
+    "readingLogIssueNumber": 143,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
     "linkId": 1140,
     "title": "Is it possible to allow sideloading *and* keep users safe?",
     "url": "https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/",
