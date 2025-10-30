@@ -1,5 +1,101 @@
 [
   {
+    "linkId": 1199,
+    "title": "Vibe Coding is Creating a Generation of Unemployable Developers",
+    "url": "https://hackernoon.com/vibe-coding-is-creating-a-generation-of-unemployable-developers",
+    "author": "Paolo Perrone",
+    "linkDate": "2025-10-30T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1200,
+    "title": "The NBA\u0027s Rookie Class Is Getting Straight To Work",
+    "url": "https://defector.com/the-nbas-rookie-class-is-getting-straight-to-work",
+    "author": "Patrick Redford",
+    "linkDate": "2025-10-30T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 1201,
+    "title": "The NBA Media Is Not Built To Cover A Gambling Scandal",
+    "url": "https://defector.com/the-nba-media-is-not-built-to-cover-a-gambling-scandal",
+    "author": "Patrick Redford",
+    "linkDate": "2025-10-30T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 1202,
+    "title": "Being good isn\u2019t enough",
+    "url": "https://joshs.bearblog.dev/being-good-isnt-enough/",
+    "author": "Josh Swords",
+    "linkDate": "2025-10-30T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1197,
+    "title": "In Praise of RSS and Controlled Feeds of Information",
+    "url": "https://blog.burkert.me/posts/in_praise_of_syndication/",
+    "author": "Tom Burkert",
+    "linkDate": "2025-10-29T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 1198,
+    "title": "The Commanders\u0027 D.C. Stadium Deal Is An Abomination",
+    "url": "https://defector.com/the-commanders-d-c-stadium-deal-is-an-abomination",
+    "author": "Chris Thompson",
+    "linkDate": "2025-10-29T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
     "linkId": 1191,
     "title": "No AI data centers in my backyard!",
     "url": "https://www.npr.org/2025/10/22/nx-s1-5581445/no-ai-data-centers-in-my-backyard",
@@ -61,6 +157,22 @@
     "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1195,
+    "title": "Why You Should Write Every Day (Even if You\u2019re Not a Writer)",
+    "url": "https://www.joanwestenberg.com/p/why-you-should-write-every-day-even-if-you-re-not-a-writer",
+    "author": "JA Westenberg",
+    "linkDate": "2025-10-28T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
     }
   },
   {
