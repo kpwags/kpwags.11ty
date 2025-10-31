@@ -6,15 +6,12 @@
   "main": "index.js",
   "scripts": {
     "build": "npx @11ty/eleventy",
-    "build-ghpages": "npx @11ty/eleventy --pathprefix=/eleventy-base-blog/",
-    "start": "npx @11ty/eleventy --serve",
+    "dev": "npx @11ty/eleventy --serve",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
     "debugstart": "DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
     "benchmark": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy",
-    "buildstart": "./scripts/mac/generator.sh && npx @11ty/eleventy --serve",
-    "scaffold": "./scripts/mac/scaffolder.sh",
-    "buildstartlinux": "./scripts/linux/generator.sh && npx @11ty/eleventy --serve",
-    "scaffoldlinux": "./scripts/linux/scaffolder.sh"
+    "start": "bash ./scripts/generator.sh && npx @11ty/eleventy --serve",
+    "scaffold": "bash ./scripts/scaffolder.sh"
   },
   "keywords": [],
   "author": "",

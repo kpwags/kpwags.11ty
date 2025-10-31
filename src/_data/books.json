@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 594,
-      "title": "Inferno",
-      "subTitle": "The World at War, 1939-1945",
-      "fullTitle": "Inferno: The World at War, 1939-1945",
+      "bookId": 585,
+      "title": "Armageddon",
+      "subTitle": "The Battle for Germany, 1944-1945",
+      "fullTitle": "Armageddon: The Battle for Germany, 1944-1945",
       "author": "Max Hastings",
-      "link": "https://bookshop.org/p/books/inferno-the-world-at-war-1939-1945-max-hastings/15283304",
-      "dateStarted": "2025-10-08T00:00:00Z",
+      "link": "https://bookshop.org/p/books/armageddon-the-battle-for-germany-1944-1945-max-hastings/8519135",
+      "dateStarted": "2025-10-30T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/rszX4CrV/hastings-inferno.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 618,
-      "pageCount": 651,
-      "progress": 95,
-      "sortOrder": 100,
+      "coverImageUrl": "https://i.postimg.cc/xddtnp5T/hastings-armageddon.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 3,
+      "pageCount": 513,
+      "progress": 1,
+      "sortOrder": 110,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -36,8 +36,8 @@
       ],
       "formats": [
         {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
         }
       ]
     },
@@ -87,6 +87,47 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 594,
+          "title": "Inferno",
+          "subTitle": "The World at War, 1939-1945",
+          "fullTitle": "Inferno: The World at War, 1939-1945",
+          "author": "Max Hastings",
+          "link": "https://bookshop.org/p/books/inferno-the-world-at-war-1939-1945-max-hastings/15283304",
+          "dateStarted": "2025-10-08T00:00:00Z",
+          "dateCompleted": "2025-10-30T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "Fantastic book on World War II. Hastings goes through the different fronts and happenings in Asia, the Pacific, and of course Britain and Western Europe.",
+          "coverImageUrl": "https://i.postimg.cc/rszX4CrV/hastings-inferno.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 651,
+          "pageCount": 651,
+          "progress": 100,
+          "sortOrder": 100,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
+        },
         {
           "bookId": 624,
           "title": "Automatic Noodle",
@@ -14283,47 +14324,6 @@
     }
   ],
   "toRead": [
-    {
-      "bookId": 585,
-      "title": "Armageddon",
-      "subTitle": "The Battle for Germany, 1944-1945",
-      "fullTitle": "Armageddon: The Battle for Germany, 1944-1945",
-      "author": "Max Hastings",
-      "link": "https://bookshop.org/p/books/armageddon-the-battle-for-germany-1944-1945-max-hastings/8519135",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/xddtnp5T/hastings-armageddon.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 513,
-      "progress": 0,
-      "sortOrder": 110,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "History",
-          "colorCode": "rgb(4, 38, 142)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
-        }
-      ]
-    },
     {
       "bookId": 432,
       "title": "Lords of Finance",
