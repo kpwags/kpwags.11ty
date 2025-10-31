@@ -1,1 +1,0 @@
-dotnet /home/keith/Apps/WagsMediaGenerator/WagsMediaGenerator.dll
