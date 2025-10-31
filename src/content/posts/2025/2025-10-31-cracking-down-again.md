@@ -9,6 +9,7 @@ tags:
   - Life
 ---
 I’ve been looking at the scale lately and I haven’t liked what I’ve seen. I think it’s time for me to cut back on my food intake and do better at what I eat.
+<!-- excerpt -->
 
 My weight’s been creeping up lately and it’s definitely my own fault. I’ve been eating more and enjoying a beer or two a little more often, and my workouts aren’t going to overcome that. As the saying goes,
 
