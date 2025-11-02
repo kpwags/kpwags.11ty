@@ -868,8 +868,8 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/XNymgqnL/abbott-elementary.jpg",
       "seasonEpisodeCount": 81,
-      "currentSeasonEpisode": 74,
-      "progress": 91,
+      "currentSeasonEpisode": 76,
+      "progress": 94,
       "sortOrder": null,
       "status": {
         "name": "Watching",
@@ -945,6 +945,34 @@
         {
           "name": "HBO",
           "colorCode": "#6a4bc9"
+        }
+      ]
+    },
+    {
+      "televisionShowId": 47,
+      "title": "It\u2019s Always Sunny in Philadelphia",
+      "imdbLink": "https://www.imdb.com/title/tt0472954/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/yddjh04w/always-sunny.jpg",
+      "seasonEpisodeCount": 178,
+      "currentSeasonEpisode": 173,
+      "progress": 97,
+      "sortOrder": null,
+      "status": {
+        "name": "Watching",
+        "colorCode": "#005c78"
+      },
+      "genres": [
+        {
+          "name": "Comedy",
+          "colorCode": "#a60483"
+        }
+      ],
+      "services": [
+        {
+          "name": "Hulu",
+          "colorCode": "#1cb153"
         }
       ]
     },
@@ -1101,24 +1129,6 @@
           "colorCode": "#037fb4"
         }
       ]
-    },
-    {
-      "televisionShowId": 47,
-      "title": "It\u2019s Always Sunny in Philadelphia",
-      "imdbLink": "https://www.imdb.com/title/tt0472954/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/yddjh04w/always-sunny.jpg",
-      "seasonEpisodeCount": 0,
-      "currentSeasonEpisode": 0,
-      "progress": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "In Between Seasons",
-        "colorCode": "#901960"
-      },
-      "genres": [],
-      "services": []
     },
     {
       "televisionShowId": 49,

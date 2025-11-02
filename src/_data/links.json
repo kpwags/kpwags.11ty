@@ -1,5 +1,165 @@
 [
   {
+    "linkId": 1204,
+    "title": "Can We Use Local Storage Instead of Context-Redux-Zustand?",
+    "url": "https://www.developerway.com/posts/local-storage-instead-of-context",
+    "author": "Nadia Makarevich",
+    "linkDate": "2025-10-31T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1205,
+    "title": "Open Social",
+    "url": "https://overreacted.io/open-social/",
+    "author": "Dan Abramov",
+    "linkDate": "2025-10-31T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 1206,
+    "title": "You no longer need JavaScript",
+    "url": "https://lyra.horse/blog/2025/08/you-dont-need-js/",
+    "author": "Rebane",
+    "linkDate": "2025-10-31T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1207,
+    "title": "The Day The Browns Crafted A Playbook Entirely Out Of Spite",
+    "url": "https://defector.com/the-day-the-browns-crafted-a-playbook-entirely-out-of-spite",
+    "author": "Vince Guerrieri",
+    "linkDate": "2025-10-31T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 1208,
+    "title": "How MAGA Killed Foreign Influence Research, But Now Demands Social Media Stop Foreign Influence Campaigns",
+    "url": "https://www.techdirt.com/2025/09/19/how-maga-killed-foreign-influence-research-but-now-demands-social-media-stop-foreign-influence-campaigns/",
+    "author": "Mike Masnick",
+    "linkDate": "2025-10-31T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 1209,
+    "title": "Leave the token counting for Chuck-E-Cheese.",
+    "url": "https://brilliantcrank.com/leave-the-token-counting-for-chuck-e-cheese/",
+    "author": "Greg Storey",
+    "linkDate": "2025-10-31T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1210,
+    "title": "Vertical Slice Architecture Is Easier Than You Think",
+    "url": "https://www.milanjovanovic.tech/blog/vertical-slice-architecture-is-easier-than-you-think",
+    "author": "Milan Jovanovi\u0107",
+    "linkDate": "2025-10-31T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1211,
+    "title": "It\u0027s still censorship (even if it doesn\u0027t violate the First Amendment)",
+    "url": "https://pluralistic.net/2025/09/22/one-throat-to-choke/",
+    "author": "Cory Doctorow",
+    "linkDate": "2025-10-31T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 1212,
+    "title": "Confirmed, Finally, Again: No Visual Studio IDE for Linux/macOS",
+    "url": "https://visualstudiomagazine.com/articles/2025/09/22/confirmed-finally-again-no-visual-studio-ide-for-linux-macos.aspx",
+    "author": "David Ramel",
+    "linkDate": "2025-10-31T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1213,
+    "title": "How Artists Are Keeping \u0027The Lost Art\u0027 of Neon Signs Alive",
+    "url": "https://www.404media.co/how-artists-are-keeping-the-lost-art-of-neon-signs-alive/",
+    "author": "Jason Koebler",
+    "linkDate": "2025-10-31T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
     "linkId": 1199,
     "title": "Vibe Coding is Creating a Generation of Unemployable Developers",
     "url": "https://hackernoon.com/vibe-coding-is-creating-a-generation-of-unemployable-developers",
