@@ -949,34 +949,6 @@
       ]
     },
     {
-      "televisionShowId": 47,
-      "title": "It\u2019s Always Sunny in Philadelphia",
-      "imdbLink": "https://www.imdb.com/title/tt0472954/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/yddjh04w/always-sunny.jpg",
-      "seasonEpisodeCount": 178,
-      "currentSeasonEpisode": 173,
-      "progress": 97,
-      "sortOrder": null,
-      "status": {
-        "name": "Watching",
-        "colorCode": "#005c78"
-      },
-      "genres": [
-        {
-          "name": "Comedy",
-          "colorCode": "#a60483"
-        }
-      ],
-      "services": [
-        {
-          "name": "Hulu",
-          "colorCode": "#1cb153"
-        }
-      ]
-    },
-    {
       "televisionShowId": 39,
       "title": "Star Trek: The Next Generation",
       "imdbLink": "https://www.imdb.com/title/tt0092455/",
@@ -1127,6 +1099,34 @@
         {
           "name": "Paramount\u002B",
           "colorCode": "#037fb4"
+        }
+      ]
+    },
+    {
+      "televisionShowId": 47,
+      "title": "It\u2019s Always Sunny in Philadelphia",
+      "imdbLink": "https://www.imdb.com/title/tt0472954/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/yddjh04w/always-sunny.jpg",
+      "seasonEpisodeCount": 178,
+      "currentSeasonEpisode": 178,
+      "progress": 100,
+      "sortOrder": null,
+      "status": {
+        "name": "In Between Seasons",
+        "colorCode": "#901960"
+      },
+      "genres": [
+        {
+          "name": "Comedy",
+          "colorCode": "#a60483"
+        }
+      ],
+      "services": [
+        {
+          "name": "Hulu",
+          "colorCode": "#1cb153"
         }
       ]
     },

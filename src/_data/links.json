@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 1214,
+    "title": "Libraries Scramble for Books After Giant Distributor Shuts Down",
+    "url": "https://www.404media.co/libraries-scramble-for-books-after-giant-distributor-shuts-down/",
+    "author": "Claire Woodcock",
+    "linkDate": "2025-11-03T00:00:00Z",
+    "readingLogIssueNumber": 146,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
     "linkId": 1204,
     "title": "Can We Use Local Storage Instead of Context-Redux-Zustand?",
     "url": "https://www.developerway.com/posts/local-storage-instead-of-context",

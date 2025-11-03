@@ -36,15 +36,15 @@
       ]
     },
     {
-      "videoGameId": 64,
-      "title": "Clair Obscur: Expedition 33",
-      "link": "https://www.expedition33.com/",
-      "dateStarted": "2025-05-17T00:00:00Z",
+      "videoGameId": 61,
+      "title": "Jedi: Survivor",
+      "link": "https://www.ea.com/games/starwars/jedi/jedi-survivor",
+      "dateStarted": null,
       "dateCompleted": null,
       "rating": 0,
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/MZC666x1/clair-obscur-expedition-33.jpg",
-      "sortOrder": null,
+      "coverImageUrl": "https://i.postimg.cc/mrjVXssd/jedi-survivor.jpg",
+      "sortOrder": 3,
       "status": {
         "name": "In Progress",
         "colorCode": "#d76c28"
@@ -52,6 +52,43 @@
       "completion": {
         "name": "N/A",
         "colorCode": "#144d72"
+      },
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Hack and Slash",
+          "colorCode": "#a30d42"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    }
+  ],
+  "completed": [
+    {
+      "videoGameId": 64,
+      "title": "Clair Obscur: Expedition 33",
+      "link": "https://www.expedition33.com/",
+      "dateStarted": "2025-05-17T00:00:00Z",
+      "dateCompleted": "2025-11-02T00:00:00Z",
+      "rating": 4,
+      "thoughts": "I enjoyed this. The gameplay reminded me some of Mario RPG and Eldenring. The story was intriguing and captivating. I probably should have played through faster without all the breaks in between.",
+      "coverImageUrl": "https://i.postimg.cc/MZC666x1/clair-obscur-expedition-33.jpg",
+      "sortOrder": null,
+      "status": {
+        "name": "Completed",
+        "colorCode": "#08824e"
+      },
+      "completion": {
+        "name": "Yes",
+        "colorCode": "#469838"
       },
       "genres": [
         {
@@ -69,9 +106,7 @@
           "colorCode": "#1b903f"
         }
       ]
-    }
-  ],
-  "completed": [
+    },
     {
       "videoGameId": 56,
       "title": "The Last of Us, Part II",
@@ -1641,36 +1676,6 @@
           "colorCode": "#191f77"
         }
       ]
-    },
-    {
-      "videoGameId": 61,
-      "title": "Jedi: Survivor",
-      "link": "https://www.ea.com/games/starwars/jedi/jedi-survivor",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "sortOrder": 3,
-      "status": {
-        "name": "To Play",
-        "colorCode": "#243391"
-      },
-      "completion": {
-        "name": "N/A",
-        "colorCode": "#144d72"
-      },
-      "genres": [
-        {
-          "name": "Adventure",
-          "colorCode": "#50518b"
-        },
-        {
-          "name": "Hack and Slash",
-          "colorCode": "#a30d42"
-        }
-      ],
-      "systems": []
     },
     {
       "videoGameId": 7,
