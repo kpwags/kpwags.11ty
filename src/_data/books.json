@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/xddtnp5T/hastings-armageddon.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 95,
+      "currentPage": 107,
       "pageCount": 513,
-      "progress": 19,
+      "progress": 21,
       "sortOrder": 110,
       "status": {
         "name": "Reading",
@@ -40,53 +40,53 @@
           "colorCode": "#a0175f"
         }
       ]
-    },
-    {
-      "bookId": 626,
-      "title": "Acquired Taste",
-      "subTitle": "",
-      "fullTitle": "Acquired Taste",
-      "author": "Clay McLeod Chapman",
-      "link": "https://bookshop.org/p/books/acquired-taste-clay-mcleod-chapman/2d97fa26f163e8c5",
-      "dateStarted": "2025-10-28T00:00:00Z",
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/zXvLzPmm/chapman-acquired-taste.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 269,
-      "pageCount": 523,
-      "progress": 51,
-      "sortOrder": 110,
-      "status": {
-        "name": "Reading",
-        "colorCode": "#6a208f"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Horror",
-          "colorCode": "rgb(146, 4, 4)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Audiobook",
-          "colorCode": "#b300b3"
-        }
-      ]
     }
   ],
   "completed": [
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 626,
+          "title": "Acquired Taste",
+          "subTitle": "",
+          "fullTitle": "Acquired Taste",
+          "author": "Clay McLeod Chapman",
+          "link": "https://bookshop.org/p/books/acquired-taste-clay-mcleod-chapman/2d97fa26f163e8c5",
+          "dateStarted": "2025-10-28T00:00:00Z",
+          "dateCompleted": "2025-11-05T00:00:00Z",
+          "rating": 2,
+          "bookNotesUrl": "",
+          "thoughts": "I found a lot of the stories in this to be weird. Maybe it just wasn\u2019t for me.",
+          "coverImageUrl": "https://i.postimg.cc/zXvLzPmm/chapman-acquired-taste.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 523,
+          "pageCount": 523,
+          "progress": 100,
+          "sortOrder": 110,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Horror",
+              "colorCode": "rgb(146, 4, 4)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Audiobook",
+              "colorCode": "#b300b3"
+            }
+          ]
+        },
         {
           "bookId": 594,
           "title": "Inferno",

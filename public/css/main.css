@@ -142,6 +142,11 @@ ul li {
 	list-style-type: '- ';
 }
 
+ul > p:empty {
+	/* Annoyingly markdown occasionally puts these in */
+	display: none;
+}
+
 a,
 a:visited {
 	color: var(--text);
