@@ -1,5 +1,53 @@
 [
   {
+    "linkId": 1217,
+    "title": "My website is a junk drawer",
+    "url": "https://www.laurahilliger.com/writing/my-website-is-a-junk-drawer/",
+    "author": "Laura Hilliger",
+    "linkDate": "2025-11-05T00:00:00Z",
+    "readingLogIssueNumber": 147,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1215,
+    "title": "The enshittification of solar (and how to stop it)",
+    "url": "https://pluralistic.net/2025/09/23/our-friend-the-electron/",
+    "author": "Cory Doctorow",
+    "linkDate": "2025-11-04T00:00:00Z",
+    "readingLogIssueNumber": 147,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Climate",
+      "colorCode": "#9a702d"
+    }
+  },
+  {
+    "linkId": 1216,
+    "title": "Browser APIs: The Web\u2019s Free SaaS",
+    "url": "https://blog.jim-nielsen.com/2025/browser-apis-as-sass/",
+    "author": "Jim Nielsen",
+    "linkDate": "2025-11-04T00:00:00Z",
+    "readingLogIssueNumber": 147,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 1214,
     "title": "Libraries Scramble for Books After Giant Distributor Shuts Down",
     "url": "https://www.404media.co/libraries-scramble-for-books-after-giant-distributor-shuts-down/",
