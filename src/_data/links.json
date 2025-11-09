@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 1218,
+    "title": "We Keep Reinventing CSS, but Styling Was Never the Problem",
+    "url": "https://denodell.com/blog/we-keep-reinventing-css",
+    "author": "Den Odell",
+    "linkDate": "2025-11-06T00:00:00Z",
+    "readingLogIssueNumber": 147,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 1217,
     "title": "My website is a junk drawer",
     "url": "https://www.laurahilliger.com/writing/my-website-is-a-junk-drawer/",
