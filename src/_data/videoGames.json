@@ -39,7 +39,7 @@
       "videoGameId": 61,
       "title": "Jedi: Survivor",
       "link": "https://www.ea.com/games/starwars/jedi/jedi-survivor",
-      "dateStarted": null,
+      "dateStarted": "2025-11-09T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "thoughts": "",
@@ -61,6 +61,37 @@
         {
           "name": "Hack and Slash",
           "colorCode": "#a30d42"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
+    {
+      "videoGameId": 67,
+      "title": "Helldivers II",
+      "link": "https://www.playstation.com/en-us/games/helldivers-2/",
+      "dateStarted": "2025-11-09T00:00:00Z",
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/CMcYSW6K/helldivers-ii.jpg",
+      "sortOrder": null,
+      "status": {
+        "name": "In Progress",
+        "colorCode": "#d76c28"
+      },
+      "completion": {
+        "name": "N/A",
+        "colorCode": "#144d72"
+      },
+      "genres": [
+        {
+          "name": "Third Person Shooter",
+          "colorCode": "#8c1e8b"
         }
       ],
       "systems": [
