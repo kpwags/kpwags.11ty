@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/xddtnp5T/hastings-armageddon.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 197,
+      "currentPage": 298,
       "pageCount": 513,
-      "progress": 38,
+      "progress": 58,
       "sortOrder": 110,
       "status": {
         "name": "Reading",
@@ -42,24 +42,24 @@
       ]
     },
     {
-      "bookId": 625,
-      "title": "The AI Con",
-      "subTitle": "How to Fight Big Tech\u0027s Hype and Create the Future We Want",
-      "fullTitle": "The AI Con: How to Fight Big Tech\u0027s Hype and Create the Future We Want",
-      "author": "Emily M. Bender \u0026 Alex Hanna ",
-      "link": "https://bookshop.org/p/books/the-ai-con-how-to-fight-big-tech-s-hype-and-create-the-future-we-want-alex-hanna/914a89ac020fc825",
-      "dateStarted": "2025-11-08T00:00:00Z",
+      "bookId": 627,
+      "title": "We Are Eating the Earth",
+      "subTitle": "The Race to Fix Our Food System and Save Our Climate",
+      "fullTitle": "We Are Eating the Earth: The Race to Fix Our Food System and Save Our Climate",
+      "author": "Michael Grunwald",
+      "link": "https://bookshop.org/p/books/we-are-eating-the-earth-the-race-to-fix-our-food-system-and-save-our-climate-michael-grunwald/41c6116d0380f833",
+      "dateStarted": "2025-11-18T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/63G8H4xF/the-ai-con.jpg",
+      "coverImageUrl": "https://i.postimg.cc/RZc1335v/grunwald-eating-the-earth.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 85,
-      "pageCount": 471,
-      "progress": 18,
-      "sortOrder": 3210,
+      "currentPage": 120,
+      "pageCount": 878,
+      "progress": 14,
+      "sortOrder": 3220,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -71,12 +71,8 @@
       "series": null,
       "genres": [
         {
-          "name": "Politics",
-          "colorCode": "rgb(130, 40, 40)"
-        },
-        {
-          "name": "Technology",
-          "colorCode": "rgb(55, 78, 146)"
+          "name": "Science",
+          "colorCode": "rgb(24, 90, 80)"
         }
       ],
       "formats": [
@@ -91,6 +87,51 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 625,
+          "title": "The AI Con",
+          "subTitle": "How to Fight Big Tech\u0027s Hype and Create the Future We Want",
+          "fullTitle": "The AI Con: How to Fight Big Tech\u0027s Hype and Create the Future We Want",
+          "author": "Emily M. Bender \u0026 Alex Hanna ",
+          "link": "https://bookshop.org/p/books/the-ai-con-how-to-fight-big-tech-s-hype-and-create-the-future-we-want-alex-hanna/914a89ac020fc825",
+          "dateStarted": "2025-11-08T00:00:00Z",
+          "dateCompleted": "2025-11-18T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "emily-m-bender-alex-hanna-the-ai-con",
+          "thoughts": "A thoughtful look at the issues related to AI and all the hype and doom its backers are pushing.",
+          "coverImageUrl": "https://i.postimg.cc/63G8H4xF/the-ai-con.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 471,
+          "pageCount": 471,
+          "progress": 100,
+          "sortOrder": 3210,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Politics",
+              "colorCode": "rgb(130, 40, 40)"
+            },
+            {
+              "name": "Technology",
+              "colorCode": "rgb(55, 78, 146)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Audiobook",
+              "colorCode": "#b300b3"
+            }
+          ]
+        },
         {
           "bookId": 626,
           "title": "Acquired Taste",
@@ -23862,42 +23903,6 @@
         {
           "name": "Sports",
           "colorCode": "rgb(0, 80, 20)"
-        }
-      ],
-      "formats": []
-    },
-    {
-      "bookId": 627,
-      "title": "We Are Eating the Earth",
-      "subTitle": "The Race to Fix Our Food System and Save Our Climate",
-      "fullTitle": "We Are Eating the Earth: The Race to Fix Our Food System and Save Our Climate",
-      "author": "Michael Grunwald",
-      "link": "https://bookshop.org/p/books/we-are-eating-the-earth-the-race-to-fix-our-food-system-and-save-our-climate-michael-grunwald/41c6116d0380f833",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 1,
-      "progress": 100,
-      "sortOrder": 3220,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Science",
-          "colorCode": "rgb(24, 90, 80)"
         }
       ],
       "formats": []
