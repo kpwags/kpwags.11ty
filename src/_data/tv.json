@@ -401,20 +401,30 @@
     {
       "televisionShowId": 71,
       "title": "Dark",
-      "imdbLink": "",
+      "imdbLink": "https://www.imdb.com/title/tt5753856/",
       "rating": 0,
       "thoughts": "",
       "coverImageUrl": "",
-      "seasonEpisodeCount": 0,
-      "currentSeasonEpisode": 0,
-      "progress": 0,
+      "seasonEpisodeCount": 26,
+      "currentSeasonEpisode": 1,
+      "progress": 4,
       "sortOrder": null,
       "status": {
         "name": "Joint To-Watch",
         "colorCode": "#803e13"
       },
-      "genres": [],
-      "services": []
+      "genres": [
+        {
+          "name": "Drama",
+          "colorCode": "#481180"
+        }
+      ],
+      "services": [
+        {
+          "name": "Netflix",
+          "colorCode": "#c71212"
+        }
+      ]
     },
     {
       "televisionShowId": 59,
@@ -928,8 +938,8 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/jj33JDQr/goodeats.jpg",
       "seasonEpisodeCount": 252,
-      "currentSeasonEpisode": 227,
-      "progress": 90,
+      "currentSeasonEpisode": 229,
+      "progress": 91,
       "sortOrder": 3,
       "status": {
         "name": "Watching",

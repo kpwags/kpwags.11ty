@@ -1,5 +1,165 @@
 [
   {
+    "linkId": 1228,
+    "title": "The Best CSS Unit Might Be a Combination",
+    "url": "https://www.oddbird.net/2025/09/23/type-units/",
+    "author": "Miriam Suzanne",
+    "linkDate": "2025-11-20T00:00:00Z",
+    "readingLogIssueNumber": 148,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1219,
+    "title": "Trusting the browser",
+    "url": "https://medienbaecker.com/articles/trusting-the-browser",
+    "author": "Thomas G\u00FCnther",
+    "linkDate": "2025-11-19T00:00:00Z",
+    "readingLogIssueNumber": 148,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1220,
+    "title": "I know you don\u2019t want them to want AI, but...",
+    "url": "https://www.anildash.com/2025/11/14/wanting-not-to-want-ai/",
+    "author": "Anil Dash",
+    "linkDate": "2025-11-19T00:00:00Z",
+    "readingLogIssueNumber": 148,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1221,
+    "title": "Thoughts on Motivation and My 40-Year Career",
+    "url": "https://charity.wtf/2025/07/09/thoughts-on-motivation-and-my-40-year-career/",
+    "author": "Charity Majors",
+    "linkDate": "2025-11-19T00:00:00Z",
+    "readingLogIssueNumber": 148,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1222,
+    "title": "What is \u0022good taste\u0022 in software engineering?",
+    "url": "https://www.seangoedecke.com/taste/",
+    "author": "Sean Goedecke",
+    "linkDate": "2025-11-19T00:00:00Z",
+    "readingLogIssueNumber": 148,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1223,
+    "title": "React State Management in 2025: What You Actually Need",
+    "url": "https://www.developerway.com/posts/react-state-management-2025",
+    "author": "Nadia Makarevich",
+    "linkDate": "2025-11-19T00:00:00Z",
+    "readingLogIssueNumber": 148,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1224,
+    "title": "Burger King Braces for the Demise of the Penny",
+    "url": "https://www.wsj.com/business/burger-king-braces-for-the-demise-of-the-penny-967e00c5",
+    "author": "Heather Haddon",
+    "linkDate": "2025-11-19T00:00:00Z",
+    "readingLogIssueNumber": 148,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Business \u0026 Finance",
+      "colorCode": "#0d5430"
+    }
+  },
+  {
+    "linkId": 1225,
+    "title": "The Weight Is Optional",
+    "url": "https://gregmorris.co.uk/the-weight-is-optional/",
+    "author": "Greg Morris",
+    "linkDate": "2025-11-19T00:00:00Z",
+    "readingLogIssueNumber": 148,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1226,
+    "title": "The Video Game Industry\u2019s Existential Crisis (with Jason Schreier)",
+    "url": "https://www.404media.co/the-video-game-industrys-existential-crisis-with-jason-schreier/",
+    "author": "404 Media Podcast",
+    "linkDate": "2025-11-19T00:00:00Z",
+    "readingLogIssueNumber": 148,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1227,
+    "title": "The Democratic Party\u0027s Spam Machine",
+    "url": "https://www.wnycstudios.org/podcasts/otm/articles/the-democratic-party-spam-machine",
+    "author": "On the Media",
+    "linkDate": "2025-11-19T00:00:00Z",
+    "readingLogIssueNumber": 148,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
     "linkId": 1218,
     "title": "We Keep Reinventing CSS, but Styling Was Never the Problem",
     "url": "https://denodell.com/blog/we-keep-reinventing-css",
