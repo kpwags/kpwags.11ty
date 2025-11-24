@@ -1,0 +1,38 @@
+---
+layout: "layouts/layout.html"
+title: "Concerts"
+---
+
+<h1>Concerts</h1>
+
+<p>I've tried to keep track of the bands I've seen live and how many times. I've started making notes of the concerts I've attended as well, though the list is definitely not complete.</p>
+
+<section class="concerts">
+	<section class="bands">
+		<h2>Who I've Seen</h2>
+		<div class="table-wrapper">
+			<table>
+				<thead>
+					<tr>
+						<th class="band">Band</th>
+						<th class="shows">Shows</th>
+					</tr>
+				</thead>
+				<tbody>
+					{% for band in concerts.bands %}
+					<tr>
+						<td>{{ band.name }}</td>
+						<td class="center-align">{{ band.count }}</td>
+					</tr>
+					{% endfor %}
+				</tbody>
+			</table>
+		</div>
+	</section>
+	<section class="events">
+		<h2>Concerts</h2>
+		{% for event in concerts.events %}
+			{% concert event %}
+		{% endfor %}
+	</section>
+</section>

@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/xddtnp5T/hastings-armageddon.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 326,
+      "currentPage": 381,
       "pageCount": 513,
-      "progress": 64,
+      "progress": 74,
       "sortOrder": 110,
       "status": {
         "name": "Reading",
@@ -56,9 +56,9 @@
       "coverImageUrl": "https://i.postimg.cc/RZc1335v/grunwald-eating-the-earth.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 120,
+      "currentPage": 429,
       "pageCount": 878,
-      "progress": 14,
+      "progress": 49,
       "sortOrder": 3220,
       "status": {
         "name": "Reading",
@@ -23903,6 +23903,154 @@
         {
           "name": "Sports",
           "colorCode": "rgb(0, 80, 20)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 628,
+      "title": "World Eaters",
+      "subTitle": "How Venture Capital is Cannibalizing the Economy",
+      "fullTitle": "World Eaters: How Venture Capital is Cannibalizing the Economy",
+      "author": "Catherine Bracy",
+      "link": "https://bookshop.org/p/books/world-eaters-how-venture-capital-is-cannibalizing-the-economy-catherine-bracy/ff2a78cff5580674",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3210,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Business \u0026 Economics",
+          "colorCode": "rgb(23, 126, 0)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 629,
+      "title": "1929",
+      "subTitle": "Inside the Greatest Crash in Wall Street History--and How It Shattered a Nation",
+      "fullTitle": "1929: Inside the Greatest Crash in Wall Street History--and How It Shattered a Nation",
+      "author": "Andrew Ross Sorkin",
+      "link": "https://bookshop.org/p/books/1929-inside-the-greatest-crash-in-wall-street-history-and-how-it-shattered-a-nation-andrew-ross-sorkin/923106f6e82cd81e",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3220,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Business \u0026 Economics",
+          "colorCode": "rgb(23, 126, 0)"
+        },
+        {
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 630,
+      "title": "The Corporation in the 21st Century",
+      "subTitle": "Why (Almost) Everything We Are Told about Business Is Wrong",
+      "fullTitle": "The Corporation in the 21st Century: Why (Almost) Everything We Are Told about Business Is Wrong",
+      "author": "John Kay",
+      "link": "https://bookshop.org/p/books/the-corporation-in-the-twenty-first-century-why-almost-everything-we-are-told-about-business-is-wrong-john-kay/4173f43d0e3bd0dc",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3230,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Business \u0026 Economics",
+          "colorCode": "rgb(23, 126, 0)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 631,
+      "title": "Allies at War",
+      "subTitle": "How the Struggles Between the Allied Powers Shaped the War and the World",
+      "fullTitle": "Allies at War: How the Struggles Between the Allied Powers Shaped the War and the World",
+      "author": "Tim Bouverie",
+      "link": "https://bookshop.org/p/books/allies-at-war-how-the-struggles-between-the-allied-powers-shaped-the-war-and-the-world-tim-bouverie/990ef0bca4abf5bb",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3240,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
         }
       ],
       "formats": []

@@ -34,12 +34,12 @@ import tvListingShortcode from './src/shortcodes/tvListing-shortcode.js';
 import musicListingShortcode from './src/shortcodes/musicListing-shortcode.js';
 import videoGameListingShortcode from './src/shortcodes/videoGameListing-shortcode.js';
 import bookListingShortcode from './src/shortcodes/bookListing-shortcode.js';
-import podcastListingShortcode from './src/shortcodes/podcastListing-shortcode.js';
 import progressBarShortcode from './src/shortcodes/progressBar-shortcode.js';
 import bookNoteShortcode from './src/shortcodes/bookNote-shortcode.js';
 import noteListingShortcode from './src/shortcodes/noteListing-shortcode.js';
 import replyLinksShortcode from './src/shortcodes/replyLinks-shortcode.js';
 import postTitleShortcode from './src/shortcodes/postTitle-shortcode.js';
+import concertShortcode from './src/shortcodes/concert-shortcode.js';
 
 export default function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy({
@@ -101,12 +101,12 @@ export default function (eleventyConfig) {
     eleventyConfig.addShortcode('musicListing', musicListingShortcode);
     eleventyConfig.addShortcode('videoGameListing', videoGameListingShortcode);
     eleventyConfig.addShortcode('bookListing', bookListingShortcode);
-    eleventyConfig.addShortcode('podcastListing', podcastListingShortcode);
     eleventyConfig.addShortcode('progressBar', progressBarShortcode);
     eleventyConfig.addShortcode('bookNote', bookNoteShortcode);
     eleventyConfig.addShortcode('noteListing', noteListingShortcode);
     eleventyConfig.addShortcode('replyLinks', replyLinksShortcode);
     eleventyConfig.addShortcode('postTitle', postTitleShortcode);
+    eleventyConfig.addShortcode('concert', concertShortcode);
 
     return {
         templateFormats: [
