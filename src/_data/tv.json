@@ -183,24 +183,6 @@
       ]
     },
     {
-      "televisionShowId": 66,
-      "title": "Succession",
-      "imdbLink": "",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "seasonEpisodeCount": 0,
-      "currentSeasonEpisode": 0,
-      "progress": 0,
-      "sortOrder": null,
-      "status": {
-        "name": "Joint To-Watch",
-        "colorCode": "#803e13"
-      },
-      "genres": [],
-      "services": []
-    },
-    {
       "televisionShowId": 65,
       "title": "Queen\u2019s Gambit",
       "imdbLink": "",
@@ -983,6 +965,34 @@
         {
           "name": "Paramount\u002B",
           "colorCode": "#037fb4"
+        }
+      ]
+    },
+    {
+      "televisionShowId": 66,
+      "title": "Succession",
+      "imdbLink": "https://www.imdb.com/title/tt7660850/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/wTGDgVYs/succession.jpg",
+      "seasonEpisodeCount": 39,
+      "currentSeasonEpisode": 2,
+      "progress": 5,
+      "sortOrder": null,
+      "status": {
+        "name": "Watching",
+        "colorCode": "#005c78"
+      },
+      "genres": [
+        {
+          "name": "Drama",
+          "colorCode": "#481180"
+        }
+      ],
+      "services": [
+        {
+          "name": "HBO",
+          "colorCode": "#6a4bc9"
         }
       ]
     },
