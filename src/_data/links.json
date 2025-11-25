@@ -1,5 +1,53 @@
 [
   {
+    "linkId": 1230,
+    "title": "a16z Is Funding a \u0027Speedrun\u0027 to AI-Generated Hell on Earth",
+    "url": "https://www.404media.co/a16z-is-funding-a-speedrun-to-ai-generated-hell-on-earth/",
+    "author": "Emanuel Maiberg",
+    "linkDate": "2025-11-24T00:00:00Z",
+    "readingLogIssueNumber": 148,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1231,
+    "title": "a16z-Backed Startup Sells Thousands of \u2018Synthetic Influencers\u2019 to Manipulate Social Media as a Service",
+    "url": "https://www.404media.co/a16z-backed-startup-sells-thousands-of-synthetic-influencers-to-manipulate-social-media-as-a-service/",
+    "author": "Emanuel Maiberg",
+    "linkDate": "2025-11-24T00:00:00Z",
+    "readingLogIssueNumber": 148,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1232,
+    "title": "Lance Armstrong And The Myth Of The Natural Body",
+    "url": "https://defector.com/lance-armstrong-and-the-myth-of-the-natural-body",
+    "author": "Only If You Get Caught",
+    "linkDate": "2025-11-24T00:00:00Z",
+    "readingLogIssueNumber": 148,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 1229,
     "title": "How Silicon Valley enshittified the internet",
     "url": "https://www.theverge.com/podcast/809081/enshittification-cory-doctorow-platforms-ai-monopoly-big-tech-interview",

@@ -1613,7 +1613,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/43md7ZTj/billy-the-kid-prelude-to-a-new-dream.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Alternative",
@@ -14983,6 +14983,49 @@
     ]
   },
   {
+    "musicAlbumId": 241,
+    "title": "A Brief Intermission in the Flattening of Time",
+    "artist": "Spanish Love Songs",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/FKqkNdgr/spanish-love-songs-intermission.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Lifers Too (feat. The Wonder Years)"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Cocaine \u0026 Lexapro (feat. Kevin Devine)"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Heavenhead (feat. Illuminati Hotties)"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Berlin (feat. Tigers Jaw)"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 205,
     "title": "Doom \u0026 Gloom Sessions",
     "artist": "Spanish Love Songs",
@@ -15127,15 +15170,23 @@
     "tracks": [
       {
         "trackNumber": 1,
-        "title": "Here You Are"
+        "title": "Pendulum"
       },
       {
         "trackNumber": 2,
-        "title": "Clean-Up Crew"
+        "title": "Haunted"
       },
       {
         "trackNumber": 3,
-        "title": "Haunted"
+        "title": "Here You Are"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Clean-Up Crew"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Lifers Too"
       }
     ]
   },
@@ -16014,7 +16065,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/Njjs07ry/tisburys-exile-on-main-street.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Alternative",
@@ -16085,7 +16136,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/WbnpjftL/tisburys-a-still-life-revisited.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Alternative",
@@ -17422,7 +17473,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/xqDcNkMk/wonder-years-burst-decay-iii.jpg",
     "isTopTen": false,
-    "showOnNowPage": false,
+    "showOnNowPage": true,
     "genres": [
       {
         "name": "Punk",
