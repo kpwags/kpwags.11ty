@@ -780,17 +780,6 @@
         }
       },
       {
-        "podcastId": 158,
-        "podcastCategoryId": 9,
-        "name": "Overshoot",
-        "link": "https://www.overshootpod.com",
-        "coverImageUrl": "https://i.postimg.cc/dQbS12Y0/overshoot.jpg",
-        "category": {
-          "name": "Science",
-          "colorCode": "#4f5d27"
-        }
-      },
-      {
         "podcastId": 77,
         "podcastCategoryId": 9,
         "name": "Radiolab",
