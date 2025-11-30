@@ -1,6 +1,41 @@
 {
   "inProgress": [
     {
+      "videoGameId": 20,
+      "title": "Far Cry 5",
+      "link": "https://www.ubisoft.com/en-us/game/far-cry/far-cry-5",
+      "dateStarted": "2025-11-28T00:00:00Z",
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/QdJY6qPv/farcry5.jpg",
+      "sortOrder": null,
+      "status": {
+        "name": "In Progress",
+        "colorCode": "#d76c28"
+      },
+      "completion": {
+        "name": "N/A",
+        "colorCode": "#144d72"
+      },
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
+    {
       "videoGameId": 30,
       "title": "World of Warcraft",
       "link": "https://worldofwarcraft.com/en-us/wowclassic",
@@ -32,41 +67,6 @@
         {
           "name": "PC",
           "colorCode": "#4f1e57"
-        }
-      ]
-    },
-    {
-      "videoGameId": 61,
-      "title": "Jedi: Survivor",
-      "link": "https://www.ea.com/games/starwars/jedi/jedi-survivor",
-      "dateStarted": "2025-11-09T00:00:00Z",
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/mrjVXssd/jedi-survivor.jpg",
-      "sortOrder": 3,
-      "status": {
-        "name": "In Progress",
-        "colorCode": "#d76c28"
-      },
-      "completion": {
-        "name": "N/A",
-        "colorCode": "#144d72"
-      },
-      "genres": [
-        {
-          "name": "Adventure",
-          "colorCode": "#50518b"
-        },
-        {
-          "name": "Hack and Slash",
-          "colorCode": "#a30d42"
-        }
-      ],
-      "systems": [
-        {
-          "name": "PlayStation",
-          "colorCode": "#191f77"
         }
       ]
     },
@@ -103,6 +103,41 @@
     }
   ],
   "completed": [
+    {
+      "videoGameId": 61,
+      "title": "Jedi: Survivor",
+      "link": "https://www.ea.com/games/starwars/jedi/jedi-survivor",
+      "dateStarted": "2025-11-09T00:00:00Z",
+      "dateCompleted": "2025-11-27T00:00:00Z",
+      "rating": 5,
+      "thoughts": "I really enjoyed the game. The story was good as well as the gameplay. There\u0027s something intensely satisfying about taking your lightsaber to Stormtroopers.",
+      "coverImageUrl": "https://i.postimg.cc/mrjVXssd/jedi-survivor.jpg",
+      "sortOrder": 3,
+      "status": {
+        "name": "Completed",
+        "colorCode": "#08824e"
+      },
+      "completion": {
+        "name": "Yes",
+        "colorCode": "#469838"
+      },
+      "genres": [
+        {
+          "name": "Adventure",
+          "colorCode": "#50518b"
+        },
+        {
+          "name": "Hack and Slash",
+          "colorCode": "#a30d42"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    },
     {
       "videoGameId": 64,
       "title": "Clair Obscur: Expedition 33",
@@ -1321,41 +1356,6 @@
     }
   ],
   "toPlay": [
-    {
-      "videoGameId": 20,
-      "title": "Farcry 5",
-      "link": "https://www.ubisoft.com/en-us/game/far-cry/far-cry-5",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "sortOrder": null,
-      "status": {
-        "name": "To Play",
-        "colorCode": "#243391"
-      },
-      "completion": {
-        "name": "N/A",
-        "colorCode": "#144d72"
-      },
-      "genres": [
-        {
-          "name": "First Person Shooter",
-          "colorCode": "#158a87"
-        },
-        {
-          "name": "Open World",
-          "colorCode": "#cf394d"
-        }
-      ],
-      "systems": [
-        {
-          "name": "Xbox",
-          "colorCode": "#1b903f"
-        }
-      ]
-    },
     {
       "videoGameId": 26,
       "title": "Fallout 4",
