@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 573,
-      "title": "Food for Thought",
-      "subTitle": "Essays and Ruminations",
-      "fullTitle": "Food for Thought: Essays and Ruminations",
-      "author": "Alton Brown",
-      "link": "https://bookshop.org/p/books/food-for-thought-essays-and-ruminations-alton-brown/21530474",
-      "dateStarted": "2025-11-29T00:00:00Z",
+      "bookId": 432,
+      "title": "Lords of Finance",
+      "subTitle": "The Bankers Who Broke the World",
+      "fullTitle": "Lords of Finance: The Bankers Who Broke the World",
+      "author": "Liaquat Ahamed",
+      "link": "https://bookshop.org/p/books/lords-of-finance-the-bankers-who-broke-the-world-liaquat-ahamed/15278774?ean=9780143116806",
+      "dateStarted": "2025-12-05T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/8kLfVQnp/food-for-thought.jpg",
+      "coverImageUrl": "https://i.postimg.cc/J44nMtfP/ahamed-lords-of-finance.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 229,
-      "pageCount": 283,
-      "progress": 81,
-      "sortOrder": 119,
+      "currentPage": 1,
+      "pageCount": 505,
+      "progress": 1,
+      "sortOrder": 120,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -30,14 +30,14 @@
       "series": null,
       "genres": [
         {
-          "name": "Biography / Memoir",
-          "colorCode": "rgb(68, 0, 214)"
+          "name": "Business \u0026 Economics",
+          "colorCode": "rgb(23, 126, 0)"
         }
       ],
       "formats": [
         {
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
         }
       ]
     }
@@ -46,6 +46,47 @@
     {
       "year": "2025",
       "books": [
+        {
+          "bookId": 573,
+          "title": "Food for Thought",
+          "subTitle": "Essays and Ruminations",
+          "fullTitle": "Food for Thought: Essays and Ruminations",
+          "author": "Alton Brown",
+          "link": "https://bookshop.org/p/books/food-for-thought-essays-and-ruminations-alton-brown/21530474",
+          "dateStarted": "2025-11-29T00:00:00Z",
+          "dateCompleted": "2025-12-04T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "I enjoyed Alton Brown\u2019s wit and thoughts as he wrote about his experiences of life, food, cooking and more.",
+          "coverImageUrl": "https://i.postimg.cc/8kLfVQnp/food-for-thought.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 283,
+          "pageCount": 283,
+          "progress": 100,
+          "sortOrder": 119,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Biography / Memoir",
+              "colorCode": "rgb(68, 0, 214)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
+        },
         {
           "bookId": 585,
           "title": "Armageddon",
@@ -14452,47 +14493,6 @@
   ],
   "toRead": [
     {
-      "bookId": 432,
-      "title": "Lords of Finance",
-      "subTitle": "The Bankers Who Broke the World",
-      "fullTitle": "Lords of Finance: The Bankers Who Broke the World",
-      "author": "Liaquat Ahamed",
-      "link": "https://bookshop.org/p/books/lords-of-finance-the-bankers-who-broke-the-world-liaquat-ahamed/15278774?ean=9780143116806",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/J44nMtfP/ahamed-lords-of-finance.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 505,
-      "progress": 0,
-      "sortOrder": 120,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Business \u0026 Economics",
-          "colorCode": "rgb(23, 126, 0)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
-        }
-      ]
-    },
-    {
       "bookId": 574,
       "title": "Wheel of Infinite",
       "subTitle": "",
@@ -24038,6 +24038,42 @@
       "pageCount": 1,
       "progress": 100,
       "sortOrder": 3240,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 632,
+      "title": "An African History of Africa",
+      "subTitle": "From the Dawn of Humanity to Independence",
+      "fullTitle": "An African History of Africa: From the Dawn of Humanity to Independence",
+      "author": "Zeinab Badawi",
+      "link": "https://bookshop.org/p/books/an-african-history-of-africa-from-the-dawn-of-humanity-to-independence-zeinab-badawi/7188cb0df13a9686",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3250,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"
