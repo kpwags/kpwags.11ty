@@ -3811,6 +3811,117 @@
     ]
   },
   {
+    "musicAlbumId": 244,
+    "title": "...and The Mermaid Album Preview",
+    "artist": "Dave Hause",
+    "thoughts": "I was at this show. It was cool hearing them play the new album front to back for the first time.",
+    "coverImageUrl": "https://i.postimg.cc/sXcfH8BF/dave_hause_and_the_mermaid_preview.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Live Albums",
+        "colorCode": "rgb(92, 19, 162)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Drive it Like it\u0027s Stolen"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Sabateurs"
+      },
+      {
+        "trackNumber": 3,
+        "title": "A Knife in the Mud"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Cellmates"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Look Alive"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Mockingbird Blues"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Revisionist History"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Yer Outta My Hair"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Bible Passages"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Rumspringa"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Enough Hope"
+      },
+      {
+        "trackNumber": 12,
+        "title": "May Every Last Fever Break"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Time Will Tell"
+      },
+      {
+        "trackNumber": 14,
+        "title": "banter"
+      },
+      {
+        "trackNumber": 15,
+        "title": "This Year"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Lookers"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Damn Personal"
+      },
+      {
+        "trackNumber": 18,
+        "title": "With You"
+      },
+      {
+        "trackNumber": 19,
+        "title": "Dirty Fucker"
+      },
+      {
+        "trackNumber": 20,
+        "title": "The Ditch"
+      },
+      {
+        "trackNumber": 21,
+        "title": "Without You"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 147,
     "title": "Blood Harmony",
     "artist": "Dave Hause",
@@ -8958,6 +9069,73 @@
     ]
   },
   {
+    "musicAlbumId": 242,
+    "title": "You Can\u0027t Stay Here",
+    "artist": "Iron Chic",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/gJGBsBF4/iron-chic-you-cant-stay-here.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "A Headache with Pictures"
+      },
+      {
+        "trackNumber": 2,
+        "title": "My Best Friend (Is a Nihilist)"
+      },
+      {
+        "trackNumber": 3,
+        "title": "You Can\u0027t Stay Safe"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Let\u0027s. Get. Dangerous."
+      },
+      {
+        "trackNumber": 5,
+        "title": "Thunderbolts!"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Planes, Chest Pains, and Automobiles"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Golgotha"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Profane Geometry"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Invisible Ink"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Ruinous Calamity"
+      },
+      {
+        "trackNumber": 11,
+        "title": "To Shreds, You Say?"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 42,
     "title": "Funeral Song",
     "artist": "Jamie and the Guarded Heart",
@@ -13354,6 +13532,152 @@
     ]
   },
   {
+    "musicAlbumId": 245,
+    "title": "The Sunset Tree",
+    "artist": "the Mountain Goats",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/TYq8VmDx/mountain-goats-sunset-tree.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "You or Your Memory"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Broom People"
+      },
+      {
+        "trackNumber": 3,
+        "title": "This Year"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Dilaudid"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Dance Music"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Dinu Lipatti\u0027s Bones"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Up the Wolves"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Lion\u0027s Teeth"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Hast Thou Considered the Tetrapod"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Magpie"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Song for Dennis Brown"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Love Love Love"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Pale Green Things"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 246,
+    "title": "Through This Fire Across From Peter Balkan",
+    "artist": "the Mountain Goats",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/yYXqm9ZH/mountain-goats-through-this-fire.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Overture"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Fishing Boat"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Cold at Night"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Dawn of Revelation"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Your Bandage"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Peru"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Through this Fire"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Rocks in My Pockets"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Armies of the Lord"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Your Glow"
+      },
+      {
+        "trackNumber": 11,
+        "title": "The Lady from Shanghai 2"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Broken to Begin With"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 79,
     "title": "The Resistance",
     "artist": "Muse",
@@ -13492,6 +13816,73 @@
       {
         "trackNumber": 12,
         "title": "Left of the Middle"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 243,
+    "title": "Borrowed Time",
+    "artist": "Nothington",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/FsbpWVp1/nothington-borrowed-time.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Captive Audience"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Where I Can\u0027t Be Found"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Far to Go"
+      },
+      {
+        "trackNumber": 4,
+        "title": "End of the Day"
+      },
+      {
+        "trackNumber": 5,
+        "title": "To Hold On"
+      },
+      {
+        "trackNumber": 6,
+        "title": "The Escapist"
+      },
+      {
+        "trackNumber": 7,
+        "title": "St. Andrews Hall"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Hopeless"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Don\u0027t Have to Wait"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Ordinary Lives"
+      },
+      {
+        "trackNumber": 11,
+        "title": "I Should Say"
       }
     ]
   },
