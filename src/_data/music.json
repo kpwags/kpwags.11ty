@@ -3746,7 +3746,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/v825YGZP/dave-hause-and-the-mermaid.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Alternative",
@@ -3817,7 +3817,7 @@
     "thoughts": "I was at this show. It was cool hearing them play the new album front to back for the first time.",
     "coverImageUrl": "https://i.postimg.cc/sXcfH8BF/dave_hause_and_the_mermaid_preview.jpg",
     "isTopTen": false,
-    "showOnNowPage": false,
+    "showOnNowPage": true,
     "genres": [
       {
         "name": "Alternative",
@@ -9075,7 +9075,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/gJGBsBF4/iron-chic-you-cant-stay-here.jpg",
     "isTopTen": false,
-    "showOnNowPage": false,
+    "showOnNowPage": true,
     "genres": [
       {
         "name": "Punk",
@@ -17864,7 +17864,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/xqDcNkMk/wonder-years-burst-decay-iii.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Punk",
