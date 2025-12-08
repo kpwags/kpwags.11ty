@@ -1,11 +1,91 @@
 [
   {
+    "linkId": 1248,
+    "title": "A beginner-friendly guide to view transitions in CSS",
+    "url": "https://developer.mozilla.org/en-US/blog/view-transitions-beginner-guide/",
+    "author": "Yash Raj Bharti",
+    "linkDate": "2025-12-08T00:00:00Z",
+    "readingLogIssueNumber": 150,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1249,
+    "title": "Software can be finished",
+    "url": "https://rosswintle.uk/2025/10/software-can-be-finished/",
+    "author": "Ross Wintle",
+    "linkDate": "2025-12-08T00:00:00Z",
+    "readingLogIssueNumber": 150,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1250,
+    "title": "A Cartoonist\u2019s Review of AI Art",
+    "url": "https://theoatmeal.com/comics/ai_art",
+    "author": "Matthew Inman",
+    "linkDate": "2025-12-08T00:00:00Z",
+    "readingLogIssueNumber": 150,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1251,
+    "title": "C# is fixing a thing that irritated me!",
+    "url": "https://blog.jermdavis.dev/posts/2025/new-extensions-csharp",
+    "author": "Jeremy Davis",
+    "linkDate": "2025-12-08T00:00:00Z",
+    "readingLogIssueNumber": 150,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1247,
+    "title": "The f*** off contact page",
+    "url": "https://www.nicchan.me/blog/the-f-off-contact-page/",
+    "author": "Nic Chan",
+    "linkDate": "2025-12-07T00:00:00Z",
+    "readingLogIssueNumber": 150,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Design",
+      "colorCode": "#0b545e"
+    }
+  },
+  {
     "linkId": 1246,
     "title": "Half of the US Now Requires You to Upload Your ID or Scan Your Face to Watch Porn",
     "url": "https://www.404media.co/missouri-age-verification-law-porn-id-check-vpns/",
     "author": "Samantha Cole",
-    "linkDate": "2025-12-03T00:00:00Z",
-    "readingLogIssueNumber": 149,
+    "linkDate": "2025-12-02T00:00:00Z",
+    "readingLogIssueNumber": 150,
     "type": {
       "name": "Link",
       "colorCode": "#009b8f"
