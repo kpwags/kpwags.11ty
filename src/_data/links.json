@@ -1,5 +1,101 @@
 [
   {
+    "linkId": 1258,
+    "title": "Vertical Slice Architecture with Jeremy Miller",
+    "url": "https://www.dotnetrocks.com/details/1939",
+    "author": ".NET Rocks",
+    "linkDate": "2025-12-11T00:00:00Z",
+    "readingLogIssueNumber": 151,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1259,
+    "title": "Why RSS matters",
+    "url": "https://werd.io/why-rss-matters/",
+    "author": "Ben Werdmuller",
+    "linkDate": "2025-12-11T00:00:00Z",
+    "readingLogIssueNumber": 151,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 1260,
+    "title": "Secure coding in JavaScript",
+    "url": "https://stackoverflow.blog/2025/10/15/secure-coding-in-javascript/",
+    "author": "Tanya Janca",
+    "linkDate": "2025-12-11T00:00:00Z",
+    "readingLogIssueNumber": 151,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1255,
+    "title": "Mania for Subjugation",
+    "url": "https://www.dancarlin.com/product/hardcore-history-71-mania-for-subjugation/",
+    "author": "Hardcore History",
+    "linkDate": "2025-12-10T00:00:00Z",
+    "readingLogIssueNumber": 151,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1256,
+    "title": "Mania for Subjugation II",
+    "url": "https://www.dancarlin.com/product/hardcore-history-72-mania-for-subjugation-ii/",
+    "author": "Hardcore History",
+    "linkDate": "2025-12-10T00:00:00Z",
+    "readingLogIssueNumber": 151,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1257,
+    "title": "Why your boss isn\u0027t worried about AI",
+    "url": "https://boydkane.com/essays/boss",
+    "author": "Boyd Kane",
+    "linkDate": "2025-12-10T00:00:00Z",
+    "readingLogIssueNumber": 151,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
     "linkId": 1252,
     "title": "Giorgi Dalakishvili",
     "url": "https://www.coffeeandopensource.com/guest/giorgi-dalakishvili.html",
@@ -29,6 +125,22 @@
     "category": {
       "name": "Podcasts",
       "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1254,
+    "title": "Pay per stream is a messy metric",
+    "url": "https://birchtree.me/blog/pay-per-stream-is-a-messy-metric/",
+    "author": "Matt Birchler",
+    "linkDate": "2025-12-09T00:00:00Z",
+    "readingLogIssueNumber": 151,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Media \u0026 Entertainment",
+      "colorCode": "#7949a8"
     }
   },
   {
