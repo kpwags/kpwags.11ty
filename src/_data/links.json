@@ -1,5 +1,69 @@
 [
   {
+    "linkId": 1261,
+    "title": "My First Months in Cyberspace",
+    "url": "https://www.gyford.com/phil/writing/2025/10/15/1995-internet/",
+    "author": "Phil Gyford",
+    "linkDate": "2025-12-15T00:00:00Z",
+    "readingLogIssueNumber": 151,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 1262,
+    "title": "What if people don\u0027t want to create things",
+    "url": "https://macwright.com/2025/10/21/what-if-they-dont-want-to",
+    "author": "Tom MacWright",
+    "linkDate": "2025-12-15T00:00:00Z",
+    "readingLogIssueNumber": 151,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1263,
+    "title": "How to Fix Any Bug",
+    "url": "https://overreacted.io/how-to-fix-any-bug/",
+    "author": "Dan Abramov",
+    "linkDate": "2025-12-15T00:00:00Z",
+    "readingLogIssueNumber": 151,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1264,
+    "title": "Vibe coding is boring",
+    "url": "https://cassidoo.co/post/vibe-coding-yawn/",
+    "author": "Cassidy Williams",
+    "linkDate": "2025-12-15T00:00:00Z",
+    "readingLogIssueNumber": 151,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
     "linkId": 1258,
     "title": "Vertical Slice Architecture with Jeremy Miller",
     "url": "https://www.dotnetrocks.com/details/1939",
