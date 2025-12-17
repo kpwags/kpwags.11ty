@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 1265,
+    "title": "The Show with Mike Rowe",
+    "url": "https://www.dancarlin.com/product/ep-32-the-show-with-mike-rowe/",
+    "author": "Hardcore History Addendum",
+    "linkDate": "2025-12-16T00:00:00Z",
+    "readingLogIssueNumber": 152,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 1261,
     "title": "My First Months in Cyberspace",
     "url": "https://www.gyford.com/phil/writing/2025/10/15/1995-internet/",
