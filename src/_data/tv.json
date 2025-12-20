@@ -743,6 +743,34 @@
       "services": []
     },
     {
+      "televisionShowId": 112,
+      "title": "12 Monkeys",
+      "imdbLink": "https://www.imdb.com/title/tt3148266",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "",
+      "seasonEpisodeCount": 47,
+      "currentSeasonEpisode": 1,
+      "progress": 2,
+      "sortOrder": 12,
+      "status": {
+        "name": "Personal To-Watch",
+        "colorCode": "#5a5611"
+      },
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "#1b7016"
+        }
+      ],
+      "services": [
+        {
+          "name": "Amazon Prime",
+          "colorCode": "#008cb4"
+        }
+      ]
+    },
+    {
       "televisionShowId": 78,
       "title": "Stargate SG-1",
       "imdbLink": "https://www.imdb.com/title/tt0118480/",

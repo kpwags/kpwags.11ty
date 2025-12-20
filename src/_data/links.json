@@ -1,5 +1,213 @@
 [
   {
+    "linkId": 1269,
+    "title": "Scientists Discover Massive Underwater Ruins That May Be a Lost City of Legend",
+    "url": "https://www.404media.co/scientists-discover-massive-underwater-ruins-that-may-be-a-lost-city-of-legend/",
+    "author": "Becky Ferreira",
+    "linkDate": "2025-12-19T00:00:00Z",
+    "readingLogIssueNumber": 152,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "History",
+      "colorCode": "#008647"
+    }
+  },
+  {
+    "linkId": 1270,
+    "title": "The God Box",
+    "url": "https://www.marketplace.org/episode/2025/04/09/the-god-box",
+    "author": "How We Survive",
+    "linkDate": "2025-12-19T00:00:00Z",
+    "readingLogIssueNumber": 152,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1271,
+    "title": "The Death of ESG",
+    "url": "https://www.marketplace.org/episode/2025/04/16/the-death-of-esg",
+    "author": "How We Survive",
+    "linkDate": "2025-12-19T00:00:00Z",
+    "readingLogIssueNumber": 152,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1272,
+    "title": "ESG, Reincarnated",
+    "url": "https://www.marketplace.org/episode/2025/04/23/the-evolution-of-esg-investing",
+    "author": "How We Survive",
+    "linkDate": "2025-12-19T00:00:00Z",
+    "readingLogIssueNumber": 152,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1273,
+    "title": "C# 14: The field Keyword \u2013 Or Should I Say: I Had a Dream?",
+    "url": "https://www.thomasclaudiushuber.com/2025/10/22/csharp-14-the-field-keyword/",
+    "author": "Thomas Claudius Huber",
+    "linkDate": "2025-12-19T00:00:00Z",
+    "readingLogIssueNumber": 152,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1274,
+    "title": "Default Isn\u2019t Design",
+    "url": "https://scribe.rip/default-isnt-design-24df33272abb",
+    "author": "Rob Eisenberg",
+    "linkDate": "2025-12-19T00:00:00Z",
+    "readingLogIssueNumber": 152,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1275,
+    "title": "The Basics of Anchor Positioning",
+    "url": "https://ishadeed.com/article/anchor-positioning/",
+    "author": "Ahmad Shadeed",
+    "linkDate": "2025-12-19T00:00:00Z",
+    "readingLogIssueNumber": 152,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1276,
+    "title": "A pragmatic guide to modern CSS colours - part two",
+    "url": "https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-two/",
+    "author": "Kevin Powell",
+    "linkDate": "2025-12-19T00:00:00Z",
+    "readingLogIssueNumber": 152,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1277,
+    "title": "Rifling Through the Archives With Legendary Historian Robert Caro",
+    "url": "https://www.smithsonianmag.com/history/rifling-through-archives-legendary-historian-robert-caro-180985956/",
+    "author": "Chris Heath",
+    "linkDate": "2025-12-19T00:00:00Z",
+    "readingLogIssueNumber": 152,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1278,
+    "title": "The Resonant Computing Manifesto",
+    "url": "https://resonantcomputing.org/",
+    "author": "Resonant Computing",
+    "linkDate": "2025-12-19T00:00:00Z",
+    "readingLogIssueNumber": 152,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 1266,
+    "title": "The 2025 Hater\u0027s Guide To The Williams-Sonoma Catalog",
+    "url": "https://defector.com/the-2025-haters-guide-to-the-williams-sonoma-catalog",
+    "author": "Drew Magargal",
+    "linkDate": "2025-12-18T00:00:00Z",
+    "readingLogIssueNumber": 152,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1267,
+    "title": "50 Reasons to Build a Website",
+    "url": "https://frontendmasters.com/blog/50-reasons-to-build-a-website/",
+    "author": "Chris Coyier",
+    "linkDate": "2025-12-18T00:00:00Z",
+    "readingLogIssueNumber": 152,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 1268,
+    "title": "Whose League Is It Anyway?",
+    "url": "https://defector.com/whose-league-is-it-anyway",
+    "author": "Maitreyi Anantharaman",
+    "linkDate": "2025-12-18T00:00:00Z",
+    "readingLogIssueNumber": 152,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
     "linkId": 1265,
     "title": "The Show with Mike Rowe",
     "url": "https://www.dancarlin.com/product/ep-32-the-show-with-mike-rowe/",
