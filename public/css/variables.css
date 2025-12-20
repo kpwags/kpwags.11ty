@@ -5,7 +5,7 @@
     --wide-width: min(80vw, 100vw - 2rem);
 
     --background: oklch(100% 0 0);
-    --background-shaded: oklch(0.8353 0.0074 0);
+    --background-shaded: oklch(0.8917 0.0074 0);
     --text: oklch(26.97% 0 0);
     --meta: oklch(32.11% 0 0);
     --border-color: oklch(75.7% 0 0);
@@ -23,7 +23,7 @@
 @media (prefers-color-scheme: light) {
     :root {
         --background: oklch(100% 0 0);
-        --background-shaded: oklch(0.8353 0.0074 0);
+    --background-shaded: oklch(0.8917 0.0074 0);
         --text: oklch(26.97% 0 0);
         --meta: oklch(32.11% 0 0);
         --border-color: oklch(75.7% 0 0);
@@ -71,7 +71,7 @@
 
 [data-theme*='light'] {
     --background: oklch(100% 0 0);
-    --background-shaded: oklch(0.8353 0.0074 0);
+    --background-shaded: oklch(0.8917 0.0074 0);
     --text: oklch(26.97% 0 0);
     --meta: oklch(32.11% 0 0);
     --border-color: oklch(75.7% 0 0);
@@ -79,7 +79,7 @@
 
     --primary-color: oklch(0.4102 0.238 264.68);
     --secondary-color: oklch(0.6632 0.1802 250.61);
-        --tertiary-color: oklch(55.083% 0.17709 25.125);
+    --tertiary-color: oklch(55.083% 0.17709 25.125);
 
     --primary-color-contrast: oklch(100% 0 0);
 }
