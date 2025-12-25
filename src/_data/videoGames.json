@@ -1,41 +1,6 @@
 {
   "inProgress": [
     {
-      "videoGameId": 20,
-      "title": "Far Cry 5",
-      "link": "https://www.ubisoft.com/en-us/game/far-cry/far-cry-5",
-      "dateStarted": "2025-11-28T00:00:00Z",
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/QdJY6qPv/farcry5.jpg",
-      "sortOrder": null,
-      "status": {
-        "name": "In Progress",
-        "colorCode": "#d76c28"
-      },
-      "completion": {
-        "name": "N/A",
-        "colorCode": "#144d72"
-      },
-      "genres": [
-        {
-          "name": "First Person Shooter",
-          "colorCode": "#158a87"
-        },
-        {
-          "name": "Open World",
-          "colorCode": "#cf394d"
-        }
-      ],
-      "systems": [
-        {
-          "name": "Xbox",
-          "colorCode": "#1b903f"
-        }
-      ]
-    },
-    {
       "videoGameId": 30,
       "title": "World of Warcraft",
       "link": "https://worldofwarcraft.com/en-us/wowclassic",
@@ -100,9 +65,79 @@
           "colorCode": "#191f77"
         }
       ]
+    },
+    {
+      "videoGameId": 68,
+      "title": "Far Cry New Dawn",
+      "link": "https://www.ubisoft.com/en-us/game/far-cry/new-dawn",
+      "dateStarted": "2025-12-24T00:00:00Z",
+      "dateCompleted": null,
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/NMHGHkYQ/far_cry_new_dawn.jpg",
+      "sortOrder": null,
+      "status": {
+        "name": "In Progress",
+        "colorCode": "#d76c28"
+      },
+      "completion": {
+        "name": "N/A",
+        "colorCode": "#144d72"
+      },
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
     }
   ],
   "completed": [
+    {
+      "videoGameId": 20,
+      "title": "Far Cry 5",
+      "link": "https://www.ubisoft.com/en-us/game/far-cry/far-cry-5",
+      "dateStarted": "2025-11-28T00:00:00Z",
+      "dateCompleted": "2025-12-23T00:00:00Z",
+      "rating": 4,
+      "thoughts": "Some of the story seems a little on the nose today. The gameplay was fun and I enjoyed the open world.",
+      "coverImageUrl": "https://i.postimg.cc/QdJY6qPv/farcry5.jpg",
+      "sortOrder": null,
+      "status": {
+        "name": "Completed",
+        "colorCode": "#08824e"
+      },
+      "completion": {
+        "name": "Yes",
+        "colorCode": "#469838"
+      },
+      "genres": [
+        {
+          "name": "First Person Shooter",
+          "colorCode": "#158a87"
+        },
+        {
+          "name": "Open World",
+          "colorCode": "#cf394d"
+        }
+      ],
+      "systems": [
+        {
+          "name": "Xbox",
+          "colorCode": "#1b903f"
+        }
+      ]
+    },
     {
       "videoGameId": 61,
       "title": "Jedi: Survivor",
