@@ -1,9 +1,73 @@
 [
   {
+    "linkId": 1301,
+    "title": "Dear Mozilla, I don\u0027t want an \u201CAl kill switch\u201D, I want a more responsible approach for all",
+    "url": "https://hidde.blog/mozilla-ai-kill-switch/",
+    "author": "Hidde de Vries",
+    "linkDate": "2025-12-27T00:00:00Z",
+    "readingLogIssueNumber": 153,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
     "linkId": 1297,
     "title": "Pure CSS Tabs With Details, Grid, and Subgrid",
     "url": "https://css-tricks.com/pure-css-tabs-with-details-grid-and-subgrid/",
     "author": "Silvestar Bistrovi\u0107",
+    "linkDate": "2025-12-25T00:00:00Z",
+    "readingLogIssueNumber": 153,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1298,
+    "title": "Page headings don\u2019t belong in the header",
+    "url": "https://www.tempertemper.net/blog/page-headings-dont-belong-in-the-header",
+    "author": "Martin Underhill",
+    "linkDate": "2025-12-25T00:00:00Z",
+    "readingLogIssueNumber": 153,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1299,
+    "title": "Fast is a Moat",
+    "url": "https://hvpandya.com/fast",
+    "author": "Hardik Pandya",
+    "linkDate": "2025-12-25T00:00:00Z",
+    "readingLogIssueNumber": 153,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Design",
+      "colorCode": "#0b545e"
+    }
+  },
+  {
+    "linkId": 1300,
+    "title": "Just use a button",
+    "url": "https://gomakethings.com/just-use-a-button/",
+    "author": "Chris Ferdinandi",
     "linkDate": "2025-12-25T00:00:00Z",
     "readingLogIssueNumber": 153,
     "type": {
