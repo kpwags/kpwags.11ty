@@ -16,6 +16,22 @@
     }
   },
   {
+    "linkId": 1302,
+    "title": "What AI data centers are doing to your electric bill",
+    "url": "https://www.npr.org/2025/12/19/nx-s1-5649814/ai-data-center-electricity-bill",
+    "author": "Planet Money",
+    "linkDate": "2025-12-27T00:00:00Z",
+    "readingLogIssueNumber": 153,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 1297,
     "title": "Pure CSS Tabs With Details, Grid, and Subgrid",
     "url": "https://css-tricks.com/pure-css-tabs-with-details-grid-and-subgrid/",
