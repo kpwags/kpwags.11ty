@@ -9,12 +9,12 @@
     "showOnNowPage": false,
     "genres": [
       {
-        "name": "Punk",
-        "colorCode": "rgb(191, 0, 188)"
-      },
-      {
         "name": "Alternative",
         "colorCode": "rgb(11, 148, 129)"
+      },
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
       }
     ],
     "formats": [
@@ -16185,12 +16185,12 @@
     ],
     "formats": [
       {
-        "name": "Vinyl",
-        "colorCode": "#a51643"
-      },
-      {
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
+      },
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
       }
     ],
     "tracks": [
@@ -16398,12 +16398,12 @@
     ],
     "formats": [
       {
-        "name": "Vinyl",
-        "colorCode": "#a51643"
-      },
-      {
         "name": "Digital",
         "colorCode": "rgb(102, 59, 177)"
+      },
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
       }
     ],
     "tracks": [
