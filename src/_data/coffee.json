@@ -3,6 +3,7 @@
 		"roaster": "Sparrows",
 		"blend": "Joven Colombia Cauca",
 		"roast": "Medium",
+		"location": "Grand Rapids, MI",
 		"link": "",
 		"thoughts": "",
 		"date": "2025-12-23"
@@ -11,8 +12,18 @@
 		"roaster": "Airship",
 		"blend": "Buffalo Blend",
 		"roast": "Medium",
+		"location": "Bentonville, AR",
 		"link": "",
 		"thoughts": "",
 		"date": "2025-12-16"
+	},
+	{
+		"roaster": "Broadsheet",
+		"blend": "Line Street",
+		"roast": "Medium",
+		"location": "Somerville, MA",
+		"link": "",
+		"thoughts": "",
+		"date": "2025-12-05"
 	}
 ]

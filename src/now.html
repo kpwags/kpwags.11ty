@@ -78,17 +78,18 @@ title: "What I'm Up To"
 				{% endif %}
 
 				<div class="details">
-					<span class="roaster">{{ brew.roaster }}</span>
+					<span class="roaster" title="Roaster"><span class="sr-only">Roaster:</span>{{ brew.roaster }}</span>
 					<span>&bull;</span>
-					<span>{{ brew.roast }}</span>
+					<span title="Roaster Location"><span class="sr-only">Roaster Location:</span>{{ brew.location }}</span>
 					<span>&bull;</span>
-					<span>{{ brew.date | readableDate }}</span>
+					<span title="Roast Type"><span class="sr-only">Roast Type:</span>{{ brew.roast }}</span>
+					<span>&bull;</span>
+					<span title="Date"><span class="sr-only">Date:</span>{{ brew.date | readableDate }}</span>
 				</div>
 
 				{% if brew.thoughts.length > 0 %}
 					<p>{{ brew.thoughts }}</p>
 				{% endif %}
-
 
 			</div>
 		{% endfor %}
