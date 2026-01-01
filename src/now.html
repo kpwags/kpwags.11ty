@@ -65,6 +65,36 @@ title: "What I'm Up To"
 	</section>
 {% endif %}
 
+{% if coffee.length > 0 %}
+	<section class="media-section coffee">
+		<h2>Recent Coffee</h2>
+
+		{% for brew in coffee %}
+			<div class="brew">
+				{% if brew.link.length > 0 %}
+					<h3><a href="{{ brew.link }}">{{ brew.blend }}</a></h3>
+				{% else %}
+					<h3>{{ brew.blend }}</h3>
+				{% endif %}
+
+				<div class="details">
+					<span class="roaster" title="Roaster"><span class="sr-only">Roaster:</span>{{ brew.roaster }}</span>
+					<span>&bull;</span>
+					<span title="Roaster Location"><span class="sr-only">Roaster Location:</span>{{ brew.location }}</span>
+					<span>&bull;</span>
+					<span title="Roast Type"><span class="sr-only">Roast Type:</span>{{ brew.roast }}</span>
+					<span>&bull;</span>
+					<span title="Date"><span class="sr-only">Date:</span>{{ brew.date | readableDate }}</span>
+				</div>
+
+				{% if brew.thoughts.length > 0 %}
+					<p>{{ brew.thoughts }}</p>
+				{% endif %}
+
+			</div>
+		{% endfor %}
+	</section>
+{% endif %}
 
 {% renderTemplate "webc" %}
 	<music-dialog></music-dialog>

@@ -1687,3 +1687,32 @@ th.shows {
 		width: 100%;
 	}
 }
+
+.media-section.coffee .brew {
+	margin-bottom: 32px;
+}
+
+.media-section.coffee .brew h3 {
+	font-size: 1.33rem;
+	margin: 0;
+	font-weight: 700;
+	color: var(--tertiary-color);
+}
+
+.media-section.coffee .brew .details {
+	display: flex;
+	column-gap: 16px;
+	row-gap: 4px;
+	flex-wrap: wrap;
+}
+
+.media-section.coffee .brew .details .roaster {
+	color: var(--primary-color);
+}
+
+@media (max-width: 768px) {
+	.media-section.coffee .brew .details {
+		column-gap: 8px;
+		row-gap: 0px;
+	}
+}
