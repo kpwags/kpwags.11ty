@@ -1699,6 +1699,15 @@ th.shows {
 	color: var(--tertiary-color);
 }
 
+.media-section.coffee .brew h3 a {
+	color: var(--tertiary-color);
+	text-decoration-color: var(--secondary-color);
+}
+
+.media-section.coffee .brew h3 a:hover {
+	color: var(--primary-color);
+}
+
 .media-section.coffee .brew .details {
 	display: flex;
 	column-gap: 16px;
