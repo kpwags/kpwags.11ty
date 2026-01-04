@@ -105,6 +105,27 @@
       "services": []
     },
     {
+      "movieId": 187,
+      "title": "The Natural",
+      "imdbLink": "https://www.imdb.com/title/tt0087781/",
+      "dateWatched": null,
+      "sortOrder": null,
+      "rating": 0,
+      "thoughts": "",
+      "posterImageUrl": "",
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [
+        {
+          "name": "Drama",
+          "colorCode": "#481180"
+        }
+      ],
+      "services": []
+    },
+    {
       "movieId": 1,
       "title": "Michael Clayton",
       "imdbLink": "",
@@ -714,6 +735,37 @@
     }
   ],
   "watched": [
+    {
+      "year": "2026",
+      "movies": [
+        {
+          "movieId": 188,
+          "title": "The Roses",
+          "imdbLink": "https://www.imdb.com/title/tt31973693/",
+          "dateWatched": "2026-01-02T00:00:00Z",
+          "sortOrder": null,
+          "rating": 3,
+          "thoughts": "Enjoyable. It had plenty of laughs and an ending I did not expect.",
+          "posterImageUrl": "https://i.postimg.cc/hPWBKyNk/the-roses.jpg",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
+          "genres": [
+            {
+              "name": "Comedy",
+              "colorCode": "#a60483"
+            }
+          ],
+          "services": [
+            {
+              "name": "Hulu",
+              "colorCode": "#1cb153"
+            }
+          ]
+        }
+      ]
+    },
     {
       "year": "2025",
       "movies": [

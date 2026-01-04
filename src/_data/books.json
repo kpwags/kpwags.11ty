@@ -1,89 +1,138 @@
 {
   "inProgress": [
     {
-      "bookId": 641,
-      "title": "Enshittification",
-      "subTitle": "Why Everything Suddenly Got Worse and What to Do About It",
-      "fullTitle": "Enshittification: Why Everything Suddenly Got Worse and What to Do About It",
-      "author": "Cory Doctorow",
-      "link": "https://bookshop.org/p/books/enshittification-why-everything-suddenly-got-worse-and-what-to-do-about-it-cory-doctorow/d3f8483b158906ce",
-      "dateStarted": "2025-12-26T00:00:00Z",
+      "bookId": 643,
+      "title": "Children of Time",
+      "subTitle": "",
+      "fullTitle": "Children of Time",
+      "author": "Adrian Tchaikovsky",
+      "link": "https://bookshop.org/p/books/children-of-time-adrian-tchaikovsky/854d8d3ca3125264",
+      "dateStarted": "2026-01-03T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/pTtC87K2/doctorow_enshittification.jpg",
+      "coverImageUrl": "https://i.postimg.cc/tJtTkJSJ/tchaikovsky-children-of-time.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 307,
-      "pageCount": 334,
-      "progress": 92,
-      "sortOrder": 2,
+      "currentPage": 62,
+      "pageCount": 600,
+      "progress": 10,
+      "sortOrder": 20,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
       },
       "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
       },
-      "series": null,
+      "series": {
+        "name": "Children of Time",
+        "colorCode": "#03229b"
+      },
       "genres": [
         {
-          "name": "Technology",
-          "colorCode": "rgb(55, 78, 146)"
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
         }
       ],
       "formats": [
         {
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
-        }
-      ]
-    },
-    {
-      "bookId": 642,
-      "title": "Homestand",
-      "subTitle": "Small Town Baseball and the Fight for the Soul of America",
-      "fullTitle": "Homestand: Small Town Baseball and the Fight for the Soul of America",
-      "author": "Will Bardenwerper",
-      "link": "https://bookshop.org/p/books/homestand-small-town-baseball-and-the-fight-for-the-soul-of-america-will-bardenwerper/7f956b9eb45b108b",
-      "dateStarted": "2025-12-29T00:00:00Z",
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/L8TkPnHD/bardenwerper-homestand.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 281,
-      "pageCount": 646,
-      "progress": 43,
-      "sortOrder": 12,
-      "status": {
-        "name": "Reading",
-        "colorCode": "#6a208f"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Sports",
-          "colorCode": "rgb(0, 80, 20)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Audiobook",
-          "colorCode": "#b300b3"
+          "name": "Paperback",
+          "colorCode": "#cd6a29"
         }
       ]
     }
   ],
   "completed": [
+    {
+      "year": "2026",
+      "books": [
+        {
+          "bookId": 642,
+          "title": "Homestand",
+          "subTitle": "Small Town Baseball and the Fight for the Soul of America",
+          "fullTitle": "Homestand: Small Town Baseball and the Fight for the Soul of America",
+          "author": "Will Bardenwerper",
+          "link": "https://bookshop.org/p/books/homestand-small-town-baseball-and-the-fight-for-the-soul-of-america-will-bardenwerper/7f956b9eb45b108b",
+          "dateStarted": "2025-12-29T00:00:00Z",
+          "dateCompleted": "2026-01-03T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "I enjoyed this, it was a good look at how minor league baseball can affect a community and how much it can mean to people.",
+          "coverImageUrl": "https://i.postimg.cc/L8TkPnHD/bardenwerper-homestand.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 646,
+          "pageCount": 646,
+          "progress": 100,
+          "sortOrder": 12,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Sports",
+              "colorCode": "rgb(0, 80, 20)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Audiobook",
+              "colorCode": "#b300b3"
+            }
+          ]
+        },
+        {
+          "bookId": 641,
+          "title": "Enshittification",
+          "subTitle": "Why Everything Suddenly Got Worse and What to Do About It",
+          "fullTitle": "Enshittification: Why Everything Suddenly Got Worse and What to Do About It",
+          "author": "Cory Doctorow",
+          "link": "https://bookshop.org/p/books/enshittification-why-everything-suddenly-got-worse-and-what-to-do-about-it-cory-doctorow/d3f8483b158906ce",
+          "dateStarted": "2025-12-26T00:00:00Z",
+          "dateCompleted": "2026-01-02T00:00:00Z",
+          "rating": 5,
+          "bookNotesUrl": "",
+          "thoughts": "Cory Doctorow does a fantastic job of explaining why and how things have gotten as bad as they have today. He also makes sure to explain and provide suggestions on how to make things better.",
+          "coverImageUrl": "https://i.postimg.cc/pTtC87K2/doctorow_enshittification.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 334,
+          "pageCount": 334,
+          "progress": 100,
+          "sortOrder": 2,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Technology",
+              "colorCode": "rgb(55, 78, 146)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Hardcover",
+              "colorCode": "#a0175f"
+            }
+          ]
+        }
+      ]
+    },
     {
       "year": "2025",
       "books": [
@@ -14920,50 +14969,6 @@
         {
           "name": "Hardcover",
           "colorCode": "#a0175f"
-        }
-      ]
-    },
-    {
-      "bookId": 643,
-      "title": "Children of Time",
-      "subTitle": "",
-      "fullTitle": "Children of Time",
-      "author": "Adrian Tchaikovsky",
-      "link": "https://bookshop.org/p/books/children-of-time-adrian-tchaikovsky/854d8d3ca3125264",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 1,
-      "progress": 100,
-      "sortOrder": 20,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "Children of Time",
-        "colorCode": "#03229b"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
         }
       ]
     },
