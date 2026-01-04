@@ -1,5 +1,101 @@
 [
   {
+    "linkId": 1304,
+    "title": "What is the best way to train for a marathon?",
+    "url": "https://www.economist.com/science-and-technology/2025/12/26/what-is-the-best-way-to-train-for-a-marathon",
+    "author": "The Economist",
+    "linkDate": "2026-01-02T00:00:00Z",
+    "readingLogIssueNumber": 154,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Health \u0026 Fitness",
+      "colorCode": "#871c4a"
+    }
+  },
+  {
+    "linkId": 1305,
+    "title": "My CSS layout strategy",
+    "url": "https://stuffandnonsense.co.uk/blog/my-css-layout-strategy",
+    "author": "Andy Clarke",
+    "linkDate": "2026-01-02T00:00:00Z",
+    "readingLogIssueNumber": 154,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1306,
+    "title": "Who wins when we filter the open web through an opaque system?",
+    "url": "https://hidde.blog/filtered-open-web/",
+    "author": "Hidde de Vries",
+    "linkDate": "2026-01-02T00:00:00Z",
+    "readingLogIssueNumber": 154,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1307,
+    "title": "Some software bloat is OK",
+    "url": "https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok",
+    "author": "Suren Enfiajyan",
+    "linkDate": "2026-01-02T00:00:00Z",
+    "readingLogIssueNumber": 154,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1308,
+    "title": "TypeScript\u2019s rise in the AI era: Insights from Lead Architect, Anders Hejlsberg",
+    "url": "https://github.blog/developer-skills/programming-languages-and-frameworks/typescripts-rise-in-the-ai-era-insights-from-lead-architect-anders-hejlsberg/",
+    "author": "Aaron Winston",
+    "linkDate": "2026-01-02T00:00:00Z",
+    "readingLogIssueNumber": 154,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1309,
+    "title": "Firefox expands fingerprint protections: advancing towards a more private web",
+    "url": "https://blog.mozilla.org/en/firefox/fingerprinting-protections/",
+    "author": "Tom Ritter",
+    "linkDate": "2026-01-02T00:00:00Z",
+    "readingLogIssueNumber": 154,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
     "linkId": 1303,
     "title": "Some practical examples of view transitions to elevate your UI",
     "url": "https://piccalil.li/blog/some-practical-examples-of-view-transitions-to-elevate-your-ui/",
