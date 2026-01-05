@@ -1,5 +1,53 @@
 [
   {
+    "linkId": 1310,
+    "title": "In defense of single-tasking",
+    "url": "https://julieyack.com/2025/11/17/in-defense-of-single-tasking/",
+    "author": "Julie Yack",
+    "linkDate": "2026-01-04T00:00:00Z",
+    "readingLogIssueNumber": 154,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1311,
+    "title": "Explaining the Accessible Benefits of Using Semantic HTML Elements",
+    "url": "https://css-tricks.com/explaining-the-accessible-benefits-of-using-semantic-html-elements/",
+    "author": "Geoff Graham",
+    "linkDate": "2026-01-04T00:00:00Z",
+    "readingLogIssueNumber": 154,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1312,
+    "title": "Your URL Is Your State",
+    "url": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
+    "author": "Ahmad Alfy",
+    "linkDate": "2026-01-03T00:00:00Z",
+    "readingLogIssueNumber": 154,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 1304,
     "title": "What is the best way to train for a marathon?",
     "url": "https://www.economist.com/science-and-technology/2025/12/26/what-is-the-best-way-to-train-for-a-marathon",

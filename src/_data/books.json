@@ -43,6 +43,51 @@
           "colorCode": "#cd6a29"
         }
       ]
+    },
+    {
+      "bookId": 629,
+      "title": "1929",
+      "subTitle": "Inside the Greatest Crash in Wall Street History--and How It Shattered a Nation",
+      "fullTitle": "1929: Inside the Greatest Crash in Wall Street History--and How It Shattered a Nation",
+      "author": "Andrew Ross Sorkin",
+      "link": "https://bookshop.org/p/books/1929-inside-the-greatest-crash-in-wall-street-history-and-how-it-shattered-a-nation-andrew-ross-sorkin/923106f6e82cd81e",
+      "dateStarted": "2026-01-05T00:00:00Z",
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/mZvKp3xS/sorkin-1929.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 111,
+      "pageCount": 811,
+      "progress": 14,
+      "sortOrder": 3220,
+      "status": {
+        "name": "Reading",
+        "colorCode": "#6a208f"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Business \u0026 Economics",
+          "colorCode": "rgb(23, 126, 0)"
+        },
+        {
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Audiobook",
+          "colorCode": "#b300b3"
+        }
+      ]
     }
   ],
   "completed": [
@@ -24468,46 +24513,6 @@
         {
           "name": "Business \u0026 Economics",
           "colorCode": "rgb(23, 126, 0)"
-        }
-      ],
-      "formats": []
-    },
-    {
-      "bookId": 629,
-      "title": "1929",
-      "subTitle": "Inside the Greatest Crash in Wall Street History--and How It Shattered a Nation",
-      "fullTitle": "1929: Inside the Greatest Crash in Wall Street History--and How It Shattered a Nation",
-      "author": "Andrew Ross Sorkin",
-      "link": "https://bookshop.org/p/books/1929-inside-the-greatest-crash-in-wall-street-history-and-how-it-shattered-a-nation-andrew-ross-sorkin/923106f6e82cd81e",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 1,
-      "progress": 100,
-      "sortOrder": 3220,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Business \u0026 Economics",
-          "colorCode": "rgb(23, 126, 0)"
-        },
-        {
-          "name": "History",
-          "colorCode": "rgb(4, 38, 142)"
         }
       ],
       "formats": []
