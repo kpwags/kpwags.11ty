@@ -1,5 +1,14 @@
 [
 	{
+		"roaster": "Caffe Vita",
+		"blend": "Bistro Blend",
+		"roast": "Medium",
+		"location": "Brooklyn, NY",
+		"link": "https://www.caffevita.com/products/bistro-blend",
+		"thoughts": "",
+		"date": "2026-01-07"
+	},
+	{
 		"roaster": "Red Rooster",
 		"blend": "Waxwing",
 		"roast": "Medium Dark",

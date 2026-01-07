@@ -3817,7 +3817,7 @@
     "thoughts": "I was at this show. It was cool hearing them play the new album front to back for the first time.",
     "coverImageUrl": "https://i.postimg.cc/sXcfH8BF/dave_hause_and_the_mermaid_preview.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Alternative",
@@ -7476,6 +7476,121 @@
       {
         "trackNumber": 10,
         "title": "Too Many Clues in this Room"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 247,
+    "title": "The Hart (Deluxe)",
+    "artist": "Grayscale",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/1tLHrBLk/grayscale-the-hart.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Pop Punk",
+        "colorCode": "rgb(32, 92, 9)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "The Hart"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Kept Me Alive (with Slowly Slowly)"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Through the Landslide (with VEAUX)"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Talking in My Sleep (with Aaron Gillespie)"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Let Go (Remix)"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Summer Clothes (with Games We Play \u0026 Trella)"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Some Kind of Magic (with Smallpools)"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Dance With Your Ghost (with Wind Walkers)"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Don\u0027t Leave Me in the Dark (with Slow Joy \u0026 Caroline Romano)"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Painting Over You (with Cassadee Pope)"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Mum II (with Derek Sanders)"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Not Afraid to Die (with The Wonder Years)"
+      },
+      {
+        "trackNumber": 13,
+        "title": "Kept Me Alive"
+      },
+      {
+        "trackNumber": 14,
+        "title": "Through the Landslide"
+      },
+      {
+        "trackNumber": 15,
+        "title": "Talking in My Sleep"
+      },
+      {
+        "trackNumber": 16,
+        "title": "Let Go"
+      },
+      {
+        "trackNumber": 17,
+        "title": "Summer Clothes"
+      },
+      {
+        "trackNumber": 18,
+        "title": "Some Kind of Magic"
+      },
+      {
+        "trackNumber": 19,
+        "title": "Dance With Your Ghost"
+      },
+      {
+        "trackNumber": 20,
+        "title": "Don\u0027t Leave Me in the Dark"
+      },
+      {
+        "trackNumber": 21,
+        "title": "Painting Over You"
+      },
+      {
+        "trackNumber": 22,
+        "title": "Mum II"
+      },
+      {
+        "trackNumber": 23,
+        "title": "Not Afraid to Die"
       }
     ]
   },
