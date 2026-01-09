@@ -32,6 +32,198 @@
     }
   },
   {
+    "linkId": 1315,
+    "title": "Is Betelgeuse a binary star? The evidence is piling up",
+    "url": "https://badastronomy.beehiiv.com/p/is-betelgeuse-a-binary-star-the-evidence-is-piling-up",
+    "author": "Philip Plait",
+    "linkDate": "2026-01-08T00:00:00Z",
+    "readingLogIssueNumber": 155,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 1316,
+    "title": "Inside ICE\u2019s Tool to Monitor Phones in Entire Neighborhoods",
+    "url": "https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/",
+    "author": "Joseph Cox",
+    "linkDate": "2026-01-08T00:00:00Z",
+    "readingLogIssueNumber": 155,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 1317,
+    "title": "How I use AI agents to write code",
+    "url": "https://nolanlawson.com/2025/12/22/how-i-use-ai-agents-to-write-code/",
+    "author": "Nolan Lawsom",
+    "linkDate": "2026-01-08T00:00:00Z",
+    "readingLogIssueNumber": 155,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1318,
+    "title": "Revisiting HTML streaming for modern web performance",
+    "url": "https://calendar.perfplanet.com/2025/revisiting-html-streaming-for-modern-web-performance/",
+    "author": "S\u00E9bastien Mischler",
+    "linkDate": "2026-01-08T00:00:00Z",
+    "readingLogIssueNumber": 155,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1319,
+    "title": "Prevent a page from scrolling while a dialog is open",
+    "url": "https://css-tricks.com/prevent-a-page-from-scrolling-while-a-dialog-is-open/",
+    "author": "Geoff Graham",
+    "linkDate": "2026-01-08T00:00:00Z",
+    "readingLogIssueNumber": 155,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1320,
+    "title": "The State of TanStack, Two Years of Full-Time OSS",
+    "url": "https://tanstack.com/blog/tanstack-2-years",
+    "author": "Tanner Linsley",
+    "linkDate": "2026-01-08T00:00:00Z",
+    "readingLogIssueNumber": 155,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1321,
+    "title": "Writing Is An Act Of Courage",
+    "url": "https://www.writerswrite.co.za/writing-is-an-act-of-courage/",
+    "author": "Amanda Patterson",
+    "linkDate": "2026-01-08T00:00:00Z",
+    "readingLogIssueNumber": 155,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1322,
+    "title": "The Web Runs On Tolerance",
+    "url": "https://shkspr.mobi/blog/2025/12/the-web-runs-on-tolerance/",
+    "author": "Terence Eden",
+    "linkDate": "2026-01-08T00:00:00Z",
+    "readingLogIssueNumber": 155,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1323,
+    "title": "The Junior Hiring Crisis",
+    "url": "https://people-work.io/blog/junior-hiring-crisis/",
+    "author": "Annie Hedgpeth",
+    "linkDate": "2026-01-08T00:00:00Z",
+    "readingLogIssueNumber": 155,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1325,
+    "title": "10 tiny UI fixes that make a big difference",
+    "url": "https://medium.com/design-bootcamp/10-tiny-ui-fixes-that-make-a-big-difference-c5922c0ef6ab",
+    "author": "Ryan Almeida",
+    "linkDate": "2026-01-08T00:00:00Z",
+    "readingLogIssueNumber": 155,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Design",
+      "colorCode": "#0b545e"
+    }
+  },
+  {
+    "linkId": 1326,
+    "title": "Vertical Slice Architecture: Where Does the Shared Logic Live?",
+    "url": "https://www.milanjovanovic.tech/blog/vertical-slice-architecture-where-does-the-shared-logic-live",
+    "author": "Milan Jovanovi\u0107",
+    "linkDate": "2026-01-08T00:00:00Z",
+    "readingLogIssueNumber": 155,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1327,
+    "title": "The Math of Why You Can\u0027t Focus at Work",
+    "url": "https://justoffbyone.com/posts/math-of-why-you-cant-focus-at-work/",
+    "author": "Can Duruk",
+    "linkDate": "2026-01-08T00:00:00Z",
+    "readingLogIssueNumber": 155,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
     "linkId": 1310,
     "title": "In defense of single-tasking",
     "url": "https://julieyack.com/2025/11/17/in-defense-of-single-tasking/",
@@ -2541,6 +2733,22 @@
     "category": {
       "name": "AI",
       "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1324,
+    "title": "Stop using JavaScript to solve CSS problems",
+    "url": "https://blog.logrocket.com/stop-using-js-for-css/",
+    "author": "Chizaram Ken",
+    "linkDate": "2026-01-08T00:00:00Z",
+    "readingLogIssueNumber": 144,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
     }
   },
   {
