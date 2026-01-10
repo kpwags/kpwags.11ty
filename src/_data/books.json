@@ -24624,6 +24624,42 @@
         }
       ],
       "formats": []
+    },
+    {
+      "bookId": 645,
+      "title": "How to Think Like Socrates",
+      "subTitle": "Ancient Philosophy as a Way of Life in the Modern World",
+      "fullTitle": "How to Think Like Socrates: Ancient Philosophy as a Way of Life in the Modern World",
+      "author": "Donald J. Robertson",
+      "link": "https://bookshop.org/p/books/how-to-think-like-socrates-ancient-philosophy-as-a-way-of-life-in-the-modern-world-donald-j-robertson/4bb0f6ae0feb0ce1",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3260,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Philosophy",
+          "colorCode": "rgb(9, 58, 78)"
+        }
+      ],
+      "formats": []
     }
   ]
 }

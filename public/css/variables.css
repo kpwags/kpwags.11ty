@@ -18,6 +18,7 @@
     --primary-color-contrast: oklch(100% 0 0);
 
     --red: oklch(51.18% 0.222 26.47);
+    --white: #ffffff;
 }
 
 @media (prefers-color-scheme: light) {
