@@ -3,6 +3,7 @@ import pluginSyntaxHighlight from '@11ty/eleventy-plugin-syntaxhighlight';
 import pluginImages from './eleventy.config.images.js';
 import pluginWebc from '@11ty/eleventy-plugin-webc';
 import { EleventyRenderPlugin } from "@11ty/eleventy";
+import postGraph from '@rknightuk/eleventy-plugin-post-graph';
 
 import { archives } from './src/collections/archives.js';
 import { tags } from './src/collections/tags.js';
@@ -61,6 +62,13 @@ export default function (eleventyConfig) {
     });
     eleventyConfig.addPlugin(pluginWebc, {
         components: "./src/_components/**/*.webc",
+    });
+    eleventyConfig.addPlugin(postGraph, {
+        limit: 5,
+        sort: 'desc',
+        yearLink: '/archives/#{{year}}',
+        dayBoxTitle: true,
+        dayBoxTitleFormat: 'MMM D, YYYY',
     });
 
     eleventyConfig.addCollection('publicPosts', (collection) => blogPosts(collection, { includePolitics: true, includeRssOnly: false }));
