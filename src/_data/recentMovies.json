@@ -102,31 +102,5 @@
         "colorCode": "#c71212"
       }
     ]
-  },
-  {
-    "movieId": 184,
-    "title": "Wake Up Dead Man",
-    "imdbLink": "https://www.imdb.com/title/tt14364480/",
-    "dateWatched": "2025-12-13T00:00:00Z",
-    "sortOrder": null,
-    "rating": 4,
-    "thoughts": "Another enjoyable Knives Out movie. The intrigue was there with interesting characters. Would recommend.",
-    "posterImageUrl": "https://i.postimg.cc/Jznw1xg7/wake-up-dead-man.jpg",
-    "status": {
-      "name": "Watched",
-      "colorCode": "#2a9a39"
-    },
-    "genres": [
-      {
-        "name": "Drama",
-        "colorCode": "#481180"
-      }
-    ],
-    "services": [
-      {
-        "name": "Netflix",
-        "colorCode": "#c71212"
-      }
-    ]
   }
 ]

@@ -1,5 +1,85 @@
 [
   {
+    "linkId": 1330,
+    "title": "Can high-intensity interval training get you fit in a hurry?",
+    "url": "https://www.economist.com/science-and-technology/2026/01/02/can-high-intensity-interval-training-get-you-fit-in-a-hurry",
+    "author": "The Economist",
+    "linkDate": "2026-01-12T00:00:00Z",
+    "readingLogIssueNumber": 155,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Health \u0026 Fitness",
+      "colorCode": "#871c4a"
+    }
+  },
+  {
+    "linkId": 1331,
+    "title": "How AI is shrinking the job market for teens",
+    "url": "https://www.npr.org/2026/01/09/nx-s1-5672389/how-ai-is-shrinking-the-job-market-for-teens",
+    "author": "The Indicator",
+    "linkDate": "2026-01-12T00:00:00Z",
+    "readingLogIssueNumber": 155,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1332,
+    "title": "The Fediverse Experiment",
+    "url": "https://www.searchengine.show/the-fediverse-experiment/",
+    "author": "Search Engine",
+    "linkDate": "2026-01-12T00:00:00Z",
+    "readingLogIssueNumber": 155,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1333,
+    "title": "Sir Tim Berners-Lee doesn\u2019t think AI will destroy the web",
+    "url": "https://www.theverge.com/podcast/814552/tim-berners-lee-world-wide-web-ai-future-interview",
+    "author": "Decoder",
+    "linkDate": "2026-01-12T00:00:00Z",
+    "readingLogIssueNumber": 155,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1334,
+    "title": "Sen. Ed Markey wants media companies to fight for the First Amendment",
+    "url": "https://www.theverge.com/podcast/842340/trump-ai-tiktok-democracy-carr-first-amendment-ed-markey",
+    "author": "Decoder",
+    "linkDate": "2026-01-12T00:00:00Z",
+    "readingLogIssueNumber": 155,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
     "linkId": 1329,
     "title": "DHS Is Lying To You",
     "url": "https://www.404media.co/dhs-is-lying-to-you-about-ice-shooting-a-woman/",
