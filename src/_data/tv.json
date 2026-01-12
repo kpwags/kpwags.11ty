@@ -888,8 +888,8 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/XNymgqnL/abbott-elementary.jpg",
       "seasonEpisodeCount": 81,
-      "currentSeasonEpisode": 79,
-      "progress": 98,
+      "currentSeasonEpisode": 80,
+      "progress": 99,
       "sortOrder": null,
       "status": {
         "name": "Watching",
@@ -941,6 +941,34 @@
       ]
     },
     {
+      "televisionShowId": 113,
+      "title": "Malcolm in the Middle",
+      "imdbLink": "https://www.imdb.com/title/tt0212671/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/cCxRzxYJ/malcolm-in-the-middle.jpg",
+      "seasonEpisodeCount": 151,
+      "currentSeasonEpisode": 1,
+      "progress": 1,
+      "sortOrder": null,
+      "status": {
+        "name": "Watching",
+        "colorCode": "#005c78"
+      },
+      "genres": [
+        {
+          "name": "Comedy",
+          "colorCode": "#a60483"
+        }
+      ],
+      "services": [
+        {
+          "name": "Hulu",
+          "colorCode": "#1cb153"
+        }
+      ]
+    },
+    {
       "televisionShowId": 66,
       "title": "Succession",
       "imdbLink": "https://www.imdb.com/title/tt7660850/",
@@ -948,8 +976,8 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/wTGDgVYs/succession.jpg",
       "seasonEpisodeCount": 39,
-      "currentSeasonEpisode": 36,
-      "progress": 92,
+      "currentSeasonEpisode": 38,
+      "progress": 97,
       "sortOrder": null,
       "status": {
         "name": "Watching",
