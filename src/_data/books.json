@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 643,
-      "title": "Children of Time",
+      "bookId": 577,
+      "title": "Children of Ruin",
       "subTitle": "",
-      "fullTitle": "Children of Time",
+      "fullTitle": "Children of Ruin",
       "author": "Adrian Tchaikovsky",
-      "link": "https://bookshop.org/p/books/children-of-time-adrian-tchaikovsky/854d8d3ca3125264",
-      "dateStarted": "2026-01-03T00:00:00Z",
+      "link": "https://bookshop.org/p/books/children-of-ruin-adrian-tchaikovsky/5030bfe683cae92c",
+      "dateStarted": "2026-01-14T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/tJtTkJSJ/tchaikovsky-children-of-time.jpg",
+      "coverImageUrl": "https://i.postimg.cc/zG5d1rGK/children-of-ruin.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 493,
-      "pageCount": 600,
-      "progress": 82,
-      "sortOrder": 20,
+      "currentPage": 51,
+      "pageCount": 565,
+      "progress": 9,
+      "sortOrder": 21,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -59,9 +59,9 @@
       "coverImageUrl": "https://i.postimg.cc/mZvKp3xS/sorkin-1929.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 622,
+      "currentPage": 670,
       "pageCount": 811,
-      "progress": 77,
+      "progress": 83,
       "sortOrder": 3220,
       "status": {
         "name": "Reading",
@@ -94,6 +94,50 @@
     {
       "year": "2026",
       "books": [
+        {
+          "bookId": 643,
+          "title": "Children of Time",
+          "subTitle": "",
+          "fullTitle": "Children of Time",
+          "author": "Adrian Tchaikovsky",
+          "link": "https://bookshop.org/p/books/children-of-time-adrian-tchaikovsky/854d8d3ca3125264",
+          "dateStarted": "2026-01-03T00:00:00Z",
+          "dateCompleted": "2026-01-13T00:00:00Z",
+          "rating": 5,
+          "bookNotesUrl": "",
+          "thoughts": "I really enjoyed this. I liked how Adrian told the story from the different sides and tied it all together. It\u0027s a good science fiction story making me look forward to the rest.",
+          "coverImageUrl": "https://i.postimg.cc/tJtTkJSJ/tchaikovsky-children-of-time.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 600,
+          "pageCount": 600,
+          "progress": 100,
+          "sortOrder": 20,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": {
+            "name": "Children of Time",
+            "colorCode": "#03229b"
+          },
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
+        },
         {
           "bookId": 642,
           "title": "Homestand",
@@ -15018,50 +15062,6 @@
       ]
     },
     {
-      "bookId": 577,
-      "title": "Children of Ruin",
-      "subTitle": "",
-      "fullTitle": "Children of Ruin",
-      "author": "Adrian Tchaikovsky",
-      "link": "https://bookshop.org/p/books/children-of-ruin-adrian-tchaikovsky/5030bfe683cae92c",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 1,
-      "progress": 100,
-      "sortOrder": 21,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "Children of Time",
-        "colorCode": "#03229b"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
-        }
-      ]
-    },
-    {
       "bookId": 644,
       "title": "Children of Memory",
       "subTitle": "",
@@ -15073,7 +15073,7 @@
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "",
+      "coverImageUrl": "https://i.postimg.cc/6pwHNXpd/children-of-memory.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
       "currentPage": 1,
