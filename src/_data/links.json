@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 1335,
+    "title": "Bari Weiss Is The Symptom",
+    "url": "https://defector.com/bari-weiss-is-the-symptom?utm_source=defector.beehiiv.com\u0026utm_medium=newsletter\u0026utm_campaign=the-cipher-with-bus-travel-and-headline-thoughts\u0026_bhlid=060a83c45892a2e4785f5a1afb9b5eda2ca59d70\u0026giftLink=ef88c2551bb603fdfaff54d2d28cc432",
+    "author": "Tommy Craggs",
+    "linkDate": "2026-01-15T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Journalism",
+      "colorCode": "#131519"
+    }
+  },
+  {
+    "linkId": 1336,
+    "title": "Web dependencies are broken. Can we fix them?",
+    "url": "https://lea.verou.me/blog/2026/web-deps/",
+    "author": "Lea Verou",
+    "linkDate": "2026-01-15T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 1330,
     "title": "Can high-intensity interval training get you fit in a hurry?",
     "url": "https://www.economist.com/science-and-technology/2026/01/02/can-high-intensity-interval-training-get-you-fit-in-a-hurry",
