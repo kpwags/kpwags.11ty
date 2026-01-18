@@ -1,5 +1,85 @@
 [
   {
+    "linkId": 1350,
+    "title": "We\u2019ve Hit Grok Bottom",
+    "url": "https://podcast.ctrlaltspeech.com/2315966/episodes/18516546-we-ve-hit-grok-bottom",
+    "author": "Ctrl-Alt-Speech",
+    "linkDate": "2026-01-17T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1351,
+    "title": "Fascists are Pathetic",
+    "url": "https://defector.com/fascists-are-pathetic",
+    "author": "David Roth",
+    "linkDate": "2026-01-17T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 1347,
+    "title": "Understanding Git Worktrees",
+    "url": "https://www.marcohaber.dev/blog/git-worktrees",
+    "author": "Marco Haber",
+    "linkDate": "2026-01-16T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1348,
+    "title": "Why Senior Engineers Let Bad Projects Fail",
+    "url": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/",
+    "author": "Lalit Maganti",
+    "linkDate": "2026-01-16T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1349,
+    "title": "\u2018ELITE\u2019: The Palantir App ICE Uses to Find Neighborhoods to Raid",
+    "url": "https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/",
+    "author": "Joseph Cox",
+    "linkDate": "2026-01-16T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
     "linkId": 1335,
     "title": "Bari Weiss Is The Symptom",
     "url": "https://defector.com/bari-weiss-is-the-symptom?utm_source=defector.beehiiv.com\u0026utm_medium=newsletter\u0026utm_campaign=the-cipher-with-bus-travel-and-headline-thoughts\u0026_bhlid=060a83c45892a2e4785f5a1afb9b5eda2ca59d70\u0026giftLink=ef88c2551bb603fdfaff54d2d28cc432",
@@ -20,6 +100,150 @@
     "title": "Web dependencies are broken. Can we fix them?",
     "url": "https://lea.verou.me/blog/2026/web-deps/",
     "author": "Lea Verou",
+    "linkDate": "2026-01-15T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1337,
+    "title": "Useful patterns for building HTML tools",
+    "url": "https://simonwillison.net/2025/Dec/10/html-tools/",
+    "author": "Simon Willison",
+    "linkDate": "2026-01-15T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1339,
+    "title": "So Many Websites",
+    "url": "https://robinrendle.com/notes/so-many-websites/",
+    "author": "Robin Rendle",
+    "linkDate": "2026-01-15T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1340,
+    "title": "It\u2019s Uncomfortable To Sit With \u201CI Don\u2019t Know\u201D",
+    "url": "https://blog.jim-nielsen.com/2025/uncomfortable-i-dont-know/",
+    "author": "Jim Nielsen",
+    "linkDate": "2026-01-15T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1341,
+    "title": "Craft software that makes people feel something",
+    "url": "https://rapha.land/craft-software-that-makes-people-feel-something/",
+    "author": "Raphael Amorim",
+    "linkDate": "2026-01-15T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1342,
+    "title": "JetBrains CEO on How Developers Become Leaders",
+    "url": "https://thenewstack.io/jetbrains-ceo-on-how-developers-become-leaders/",
+    "author": "Loraine Lawson",
+    "linkDate": "2026-01-15T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1343,
+    "title": "What Actually Makes You Senior",
+    "url": "https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/",
+    "author": "Matheus Lima",
+    "linkDate": "2026-01-15T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1344,
+    "title": "AI Can Write Your Code. It Can\u2019t Do Your Job.",
+    "url": "https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/",
+    "author": "Matheus Lima",
+    "linkDate": "2026-01-15T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1345,
+    "title": "Write cleaner code with C# 14\u0027s null-conditional assignment operator",
+    "url": "https://www.daveabrock.com/2025/12/14/write-cleaner-code-with-c-14s-null-conditional-assignment-operator/",
+    "author": "Dave Brock",
+    "linkDate": "2026-01-15T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1346,
+    "title": "Forced Colors Mode",
+    "url": "https://gomakethings.com/forced-colors-mode/",
+    "author": "Chris Ferdinandi",
     "linkDate": "2026-01-15T00:00:00Z",
     "readingLogIssueNumber": 156,
     "type": {
