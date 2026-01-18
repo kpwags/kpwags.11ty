@@ -126,6 +126,32 @@
       "services": []
     },
     {
+      "movieId": 190,
+      "title": "The Rip",
+      "imdbLink": "https://www.imdb.com/title/tt32642706/",
+      "dateWatched": null,
+      "sortOrder": null,
+      "rating": 0,
+      "thoughts": "",
+      "posterImageUrl": "",
+      "status": {
+        "name": "Personal To Watch",
+        "colorCode": "#0a8db9"
+      },
+      "genres": [
+        {
+          "name": "Action",
+          "colorCode": "#bc0b0b"
+        }
+      ],
+      "services": [
+        {
+          "name": "Netflix",
+          "colorCode": "#c71212"
+        }
+      ]
+    },
+    {
       "movieId": 1,
       "title": "Michael Clayton",
       "imdbLink": "",
