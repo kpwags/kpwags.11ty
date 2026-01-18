@@ -67,14 +67,14 @@
       ]
     },
     {
-      "videoGameId": 68,
-      "title": "Far Cry New Dawn",
-      "link": "https://www.ubisoft.com/en-us/game/far-cry/new-dawn",
-      "dateStarted": "2025-12-24T00:00:00Z",
+      "videoGameId": 69,
+      "title": "Star Wars Squadrons",
+      "link": "https://www.ea.com/games/starwars/squadrons",
+      "dateStarted": "2026-01-18T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/NMHGHkYQ/far_cry_new_dawn.jpg",
+      "coverImageUrl": "https://i.postimg.cc/7hPpkvmp/star-wars-squadrons.jpg",
       "sortOrder": null,
       "status": {
         "name": "In Progress",
@@ -83,6 +83,39 @@
       "completion": {
         "name": "N/A",
         "colorCode": "#144d72"
+      },
+      "genres": [
+        {
+          "name": "Pilot Combat",
+          "colorCode": "#e66100"
+        }
+      ],
+      "systems": [
+        {
+          "name": "PlayStation",
+          "colorCode": "#191f77"
+        }
+      ]
+    }
+  ],
+  "completed": [
+    {
+      "videoGameId": 68,
+      "title": "Far Cry New Dawn",
+      "link": "https://www.ubisoft.com/en-us/game/far-cry/new-dawn",
+      "dateStarted": "2025-12-24T00:00:00Z",
+      "dateCompleted": "2026-01-16T00:00:00Z",
+      "rating": 4,
+      "thoughts": "This game has 2 issues in that it\u0027s a shorter game, and the story feels a little half-baked with kind of predictable enemies. The gameplay however does make up for some of it. They tweaked the gameplay from Far Cry 5 a bit in a way that I felt was an improvement. The world is still beautiful as well and it was interesting running into some of the characters from 5. I\u0027d recommend it, though I\u0027d wait for it to go on sale.",
+      "coverImageUrl": "https://i.postimg.cc/NMHGHkYQ/far_cry_new_dawn.jpg",
+      "sortOrder": null,
+      "status": {
+        "name": "Completed",
+        "colorCode": "#08824e"
+      },
+      "completion": {
+        "name": "Yes",
+        "colorCode": "#469838"
       },
       "genres": [
         {
@@ -100,16 +133,14 @@
           "colorCode": "#1b903f"
         }
       ]
-    }
-  ],
-  "completed": [
+    },
     {
       "videoGameId": 20,
       "title": "Far Cry 5",
       "link": "https://www.ubisoft.com/en-us/game/far-cry/far-cry-5",
       "dateStarted": "2025-11-28T00:00:00Z",
       "dateCompleted": "2025-12-23T00:00:00Z",
-      "rating": 4,
+      "rating": 5,
       "thoughts": "Some of the story seems a little on the nose today. The gameplay was fun and I enjoyed the open world.",
       "coverImageUrl": "https://i.postimg.cc/QdJY6qPv/farcry5.jpg",
       "sortOrder": null,
@@ -1882,36 +1913,6 @@
           "colorCode": "#1b903f"
         }
       ]
-    },
-    {
-      "videoGameId": 57,
-      "title": "FarCry New Dawn",
-      "link": "https://store.ubisoft.com/us/far-cry-new-dawn/5bf319696b54a4ddc91e8843.html?lang=en_US",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "",
-      "sortOrder": 9,
-      "status": {
-        "name": "To Play",
-        "colorCode": "#243391"
-      },
-      "completion": {
-        "name": "N/A",
-        "colorCode": "#144d72"
-      },
-      "genres": [
-        {
-          "name": "First Person Shooter",
-          "colorCode": "#158a87"
-        },
-        {
-          "name": "Open World",
-          "colorCode": "#cf394d"
-        }
-      ],
-      "systems": []
     },
     {
       "videoGameId": 33,

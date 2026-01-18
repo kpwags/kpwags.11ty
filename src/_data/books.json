@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/zG5d1rGK/children-of-ruin.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 51,
+      "currentPage": 105,
       "pageCount": 565,
-      "progress": 9,
+      "progress": 19,
       "sortOrder": 21,
       "status": {
         "name": "Reading",
@@ -45,24 +45,24 @@
       ]
     },
     {
-      "bookId": 629,
-      "title": "1929",
-      "subTitle": "Inside the Greatest Crash in Wall Street History--and How It Shattered a Nation",
-      "fullTitle": "1929: Inside the Greatest Crash in Wall Street History--and How It Shattered a Nation",
-      "author": "Andrew Ross Sorkin",
-      "link": "https://bookshop.org/p/books/1929-inside-the-greatest-crash-in-wall-street-history-and-how-it-shattered-a-nation-andrew-ross-sorkin/923106f6e82cd81e",
-      "dateStarted": "2026-01-05T00:00:00Z",
+      "bookId": 646,
+      "title": "Ghosts of Honolulu",
+      "subTitle": "A Japanese Spy, a Japanese American Spy Hunter, and the Untold Story of Pearl Harbor",
+      "fullTitle": "Ghosts of Honolulu: A Japanese Spy, a Japanese American Spy Hunter, and the Untold Story of Pearl Harbor",
+      "author": "Mark Harmon \u0026 Leon Carroll",
+      "link": "https://bookshop.org/p/books/ghosts-of-honolulu-a-japanese-spy-a-japanese-american-spy-hunter-and-the-untold-story-of-pearl-harbor-mark-harmon/bb7a55cb6327b101",
+      "dateStarted": "2026-01-17T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/mZvKp3xS/sorkin-1929.jpg",
+      "coverImageUrl": "https://i.postimg.cc/YCzf1cdk/ghosts-of-honolulu.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 670,
-      "pageCount": 811,
-      "progress": 83,
-      "sortOrder": 3220,
+      "currentPage": 29,
+      "pageCount": 475,
+      "progress": 6,
+      "sortOrder": 3270,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -73,10 +73,6 @@
       },
       "series": null,
       "genres": [
-        {
-          "name": "Business \u0026 Economics",
-          "colorCode": "rgb(23, 126, 0)"
-        },
         {
           "name": "History",
           "colorCode": "rgb(4, 38, 142)"
@@ -94,6 +90,51 @@
     {
       "year": "2026",
       "books": [
+        {
+          "bookId": 629,
+          "title": "1929",
+          "subTitle": "Inside the Greatest Crash in Wall Street History--and How It Shattered a Nation",
+          "fullTitle": "1929: Inside the Greatest Crash in Wall Street History--and How It Shattered a Nation",
+          "author": "Andrew Ross Sorkin",
+          "link": "https://bookshop.org/p/books/1929-inside-the-greatest-crash-in-wall-street-history-and-how-it-shattered-a-nation-andrew-ross-sorkin/923106f6e82cd81e",
+          "dateStarted": "2026-01-05T00:00:00Z",
+          "dateCompleted": "2026-01-17T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "This was interesting. It did a good job digging into the people and banks involved in the crash and the actions before and after Black Tuesday.",
+          "coverImageUrl": "https://i.postimg.cc/mZvKp3xS/sorkin-1929.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 811,
+          "pageCount": 811,
+          "progress": 100,
+          "sortOrder": 3220,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "Business \u0026 Economics",
+              "colorCode": "rgb(23, 126, 0)"
+            },
+            {
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Audiobook",
+              "colorCode": "#b300b3"
+            }
+          ]
+        },
         {
           "bookId": 643,
           "title": "Children of Time",
