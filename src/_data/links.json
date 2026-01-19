@@ -1,5 +1,69 @@
 [
   {
+    "linkId": 1352,
+    "title": "Next.js vs TanStack",
+    "url": "https://www.kylegill.com/essays/next-vs-tanstack/",
+    "author": "Kyle Gill",
+    "linkDate": "2026-01-18T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1353,
+    "title": "6 CSS Snippets Every Front-End Developer Should Know In 2025",
+    "url": "https://nerdy.dev/6-css-snippets-every-front-end-developer-should-know-in-2025",
+    "author": " Adam Argyle",
+    "linkDate": "2026-01-18T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1354,
+    "title": "I think the ergonomics of generators is growing on me.",
+    "url": "https://macarthur.me/posts/generators/",
+    "author": "Alex MacArthur",
+    "linkDate": "2026-01-18T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1355,
+    "title": "My HTML Web Component boilerplate for 2026",
+    "url": "https://gomakethings.com/my-html-web-component-boilerplate-for-2026/",
+    "author": "Chris Ferdinandi",
+    "linkDate": "2026-01-18T00:00:00Z",
+    "readingLogIssueNumber": 156,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 1350,
     "title": "We\u2019ve Hit Grok Bottom",
     "url": "https://podcast.ctrlaltspeech.com/2315966/episodes/18516546-we-ve-hit-grok-bottom",

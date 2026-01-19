@@ -948,8 +948,8 @@
       "thoughts": "",
       "coverImageUrl": "https://i.postimg.cc/cCxRzxYJ/malcolm-in-the-middle.jpg",
       "seasonEpisodeCount": 151,
-      "currentSeasonEpisode": 1,
-      "progress": 1,
+      "currentSeasonEpisode": 3,
+      "progress": 2,
       "sortOrder": null,
       "status": {
         "name": "Watching",
@@ -965,6 +965,34 @@
         {
           "name": "Hulu",
           "colorCode": "#1cb153"
+        }
+      ]
+    },
+    {
+      "televisionShowId": 114,
+      "title": "Seven Dials",
+      "imdbLink": "https://www.imdb.com/title/tt31974288/",
+      "rating": 0,
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/2yPw0X8d/seven-dials.jpg",
+      "seasonEpisodeCount": 3,
+      "currentSeasonEpisode": 2,
+      "progress": 67,
+      "sortOrder": null,
+      "status": {
+        "name": "Watching",
+        "colorCode": "#005c78"
+      },
+      "genres": [
+        {
+          "name": "Drama",
+          "colorCode": "#481180"
+        }
+      ],
+      "services": [
+        {
+          "name": "Netflix",
+          "colorCode": "#c71212"
         }
       ]
     },
