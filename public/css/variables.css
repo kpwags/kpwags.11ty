@@ -19,6 +19,12 @@
 
     --red: oklch(51.18% 0.222 26.47);
     --white: #ffffff;
+
+    --alert-note: oklch(0.5399 0.1906 257.48);
+    --alert-tip: oklch(0.5244 0.1401 148.04);
+    --alert-important: oklch(0.5631 0.2069 294.97);
+    --alert-warning: oklch(0.5542 0.1169 75.01);
+    --alert-caution: oklch(0.5567 0.2056 24.61);
 }
 
 @media (prefers-color-scheme: light) {

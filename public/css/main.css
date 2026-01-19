@@ -1,3 +1,7 @@
+@view-transition {
+  navigation: auto;
+}
+
 html,
 body {
 	background: var(--background);
@@ -1724,4 +1728,89 @@ th.shows {
 		column-gap: 8px;
 		row-gap: 0px;
 	}
+}
+
+.alert {
+	margin: 16px 0;
+	padding: 8px 0 8px 16px;
+	background: transparent;
+	border-radius: 0;
+}
+
+.alert .title {
+	display: flex;
+	gap: 12px;
+	align-items: center;
+	margin-bottom: 12px;
+	font-size: 1rem;
+	line-height: 1rem;
+}
+
+.alert .title svg {
+	width: 1rem;
+	height: 1rem;
+}
+
+.alert .title .text {
+	font-weight: 600;
+}
+
+.alert.note {
+	border-color: var(--alert-note);
+}
+
+.alert.note .title {
+	color: var(--alert-note);
+}
+
+.alert.note .title svg {
+	fill: var(--alert-note);
+}
+
+.alert.tip {
+	border-color: var(--alert-tip);
+}
+
+.alert.tip .title {
+	color: var(--alert-tip);
+}
+
+.alert.tip .title svg {
+	fill: var(--alert-tip);
+}
+
+.alert.important {
+	border-color: var(--alert-important);
+}
+
+.alert.important .title {
+	color: var(--alert-important);
+}
+
+.alert.important .title svg {
+	fill: var(--alert-important);
+}
+
+.alert.warning {
+	border-color: var(--alert-warning);
+}
+
+.alert.warning .title {
+	color: var(--alert-warning);
+}
+
+.alert.warning .title svg {
+	fill: var(--alert-warning);
+}
+
+.alert.caution {
+	border-color: var(--alert-caution);
+}
+
+.alert.caution .title {
+	color: var(--alert-caution);
+}
+
+.alert.caution .title svg {
+	fill: var(--alert-caution);
 }
