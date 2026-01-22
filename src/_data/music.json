@@ -9190,7 +9190,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/gJGBsBF4/iron-chic-you-cant-stay-here.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Punk",
@@ -15193,6 +15193,73 @@
     ]
   },
   {
+    "musicAlbumId": 248,
+    "title": "Only in Arcadia",
+    "artist": "Sleep Token",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/bNtngDPH/sleep-token-only-in-arcadia.jpg",
+    "isTopTen": false,
+    "showOnNowPage": true,
+    "genres": [
+      {
+        "name": "Metal",
+        "colorCode": "rgb(68, 56, 155)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      },
+      {
+        "name": "Vinyl",
+        "colorCode": "#a51643"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Look to Windward"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Emergence"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Past Self"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Dangerous"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Caramel"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Even in Arcadia"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Provider"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Damocles"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Gethsemane"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Infinite Baths"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 64,
     "title": "Astro Lounge",
     "artist": "Smash Mouth",
@@ -15495,7 +15562,7 @@
     "thoughts": "",
     "coverImageUrl": "https://i.postimg.cc/FKqkNdgr/spanish-love-songs-intermission.jpg",
     "isTopTen": false,
-    "showOnNowPage": true,
+    "showOnNowPage": false,
     "genres": [
       {
         "name": "Alternative",
