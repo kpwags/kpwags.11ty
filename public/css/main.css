@@ -1422,6 +1422,7 @@ section.media-section .grid .item .cover {
 section.media-section .grid .item .cover img {
 	width: 200px;
 	margin: 0 auto;
+	border: 1px solid var(--border-color);
 }
 
 section.media-section .grid .item .info .meta {

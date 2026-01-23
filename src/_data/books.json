@@ -45,6 +45,51 @@
       ]
     },
     {
+      "bookId": 413,
+      "title": "Chip War",
+      "subTitle": "The Fight for the World\u0027s Most Critical Technology",
+      "fullTitle": "Chip War: The Fight for the World\u0027s Most Critical Technology",
+      "author": "Chris Miller",
+      "link": "https://bookshop.org/p/books/chip-war-the-fight-for-the-world-s-most-critical-technology-chris-miller/18265375?ean=9781982172008",
+      "dateStarted": "2026-01-21T00:00:00Z",
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/0NHVc92N/chip-war.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 64,
+      "pageCount": 758,
+      "progress": 8,
+      "sortOrder": 980,
+      "status": {
+        "name": "Reading",
+        "colorCode": "#6a208f"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "History",
+          "colorCode": "rgb(4, 38, 142)"
+        },
+        {
+          "name": "Technology",
+          "colorCode": "rgb(55, 78, 146)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Audiobook",
+          "colorCode": "#b300b3"
+        }
+      ]
+    },
+    {
       "bookId": 646,
       "title": "Ghosts of Honolulu",
       "subTitle": "A Japanese Spy, a Japanese American Spy Hunter, and the Untold Story of Pearl Harbor",
@@ -59,9 +104,9 @@
       "coverImageUrl": "https://i.postimg.cc/YCzf1cdk/ghosts-of-honolulu.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 119,
+      "currentPage": 240,
       "pageCount": 475,
-      "progress": 25,
+      "progress": 51,
       "sortOrder": 3270,
       "status": {
         "name": "Reading",
@@ -17765,37 +17810,6 @@
       "pageCount": 0,
       "progress": 0,
       "sortOrder": 970,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [],
-      "formats": []
-    },
-    {
-      "bookId": 413,
-      "title": "Chip War",
-      "subTitle": "",
-      "fullTitle": "Chip War",
-      "author": "Chris Miller",
-      "link": "https://bookshop.org/p/books/chip-war-the-fight-for-the-world-s-most-critical-technology-chris-miller/18265375?ean=9781982172008",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 980,
       "status": {
         "name": "To Read",
         "colorCode": "#313ca2"
