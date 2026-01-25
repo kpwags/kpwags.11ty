@@ -25,6 +25,17 @@
         }
       },
       {
+        "podcastId": 177,
+        "podcastCategoryId": 1,
+        "name": "Business History",
+        "link": "https://www.pushkin.fm/podcasts/business-history",
+        "coverImageUrl": "https://i.postimg.cc/ZKbHDdSD/business-history.jpg",
+        "category": {
+          "name": "Business \u0026 Economics",
+          "colorCode": "#017c34"
+        }
+      },
+      {
         "podcastId": 152,
         "podcastCategoryId": 1,
         "name": "Business Matters",
@@ -184,6 +195,17 @@
         "name": "Planet Money",
         "link": "https://www.npr.org/sections/money/",
         "coverImageUrl": "https://i.postimg.cc/xCrPsRmH/planet-money.jpg",
+        "category": {
+          "name": "Business \u0026 Economics",
+          "colorCode": "#017c34"
+        }
+      },
+      {
+        "podcastId": 180,
+        "podcastCategoryId": 1,
+        "name": "This Time is Different",
+        "link": "https://www.thistimepodcast.com/",
+        "coverImageUrl": "https://i.postimg.cc/Bb03GCg0/this-time-is-different.jpg",
         "category": {
           "name": "Business \u0026 Economics",
           "colorCode": "#017c34"
@@ -729,6 +751,17 @@
           "name": "Politics",
           "colorCode": "#2c6059"
         }
+      },
+      {
+        "podcastId": 181,
+        "podcastCategoryId": 8,
+        "name": "Strict Scrutiny",
+        "link": "https://crooked.com/podcast-series/strict-scrutiny/",
+        "coverImageUrl": "https://i.postimg.cc/1X9dH7BG/strict-scrutiny.jpg",
+        "category": {
+          "name": "Politics",
+          "colorCode": "#2c6059"
+        }
       }
     ]
   },
@@ -1076,6 +1109,17 @@
         "name": "The Unhandled Exception",
         "link": "https://unhandledexceptionpodcast.com/",
         "coverImageUrl": "https://i.postimg.cc/YCLTVvwW/unhandled_exception.jpg",
+        "category": {
+          "name": "Software Development",
+          "colorCode": "#9b1d35"
+        }
+      },
+      {
+        "podcastId": 178,
+        "podcastCategoryId": 10,
+        "name": "Whiskey Web and Whatnot ",
+        "link": "https://starpod.dev/",
+        "coverImageUrl": "https://i.postimg.cc/7Yh72MDZ/whiskey-and-web.jpg",
         "category": {
           "name": "Software Development",
           "colorCode": "#9b1d35"
@@ -1493,6 +1537,17 @@
         }
       },
       {
+        "podcastId": 176,
+        "podcastCategoryId": 13,
+        "name": "Accidental Tech Podcast",
+        "link": "https://atp.fm/",
+        "coverImageUrl": "https://i.postimg.cc/rsChRGL8/atp.jpg",
+        "category": {
+          "name": "Tech \u0026 Design",
+          "colorCode": "#c46640"
+        }
+      },
+      {
         "podcastId": 168,
         "podcastCategoryId": 13,
         "name": "Better Offline",
@@ -1734,6 +1789,17 @@
         "name": "Plain English",
         "link": "https://www.theringer.com/plain-english-with-derek-thompson-podcast",
         "coverImageUrl": "https://i.postimg.cc/VsJxj0YR/plain-english.jpg",
+        "category": {
+          "name": "Uncategorized",
+          "colorCode": "#de3a80"
+        }
+      },
+      {
+        "podcastId": 179,
+        "podcastCategoryId": 14,
+        "name": "Shell Game",
+        "link": "https://www.shellgame.co/",
+        "coverImageUrl": "https://i.postimg.cc/hGct9cxt/shell-game.jpg",
         "category": {
           "name": "Uncategorized",
           "colorCode": "#de3a80"

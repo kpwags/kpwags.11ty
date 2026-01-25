@@ -1,6 +1,6 @@
 {
 	"bands": [
-		{ "name": "The Menzingers", "count": 9 },
+		{ "name": "The Menzingers", "count": 10 },
 		{ "name": "Dave Hause", "count": 5 },
 		{ "name": "The Gaslight Anthem", "count": 5 },
 		{ "name": "Frank Turner", "count": 4 },
@@ -18,6 +18,7 @@
 		{ "name": "Collective Soul", "count": 1 },
 		{ "name": "Crossed Keys", "count": 1 },
 		{ "name": "Emily Wolfe", "count": 1 },
+		{ "name": "The Ergs", "count": 1 },
 		{ "name": "The Eric Mintel Quartet", "count": 1 },
 		{ "name": "Finger Eleven", "count": 1 },
 		{ "name": "Free Throw", "count": 1 },
@@ -26,10 +27,12 @@
 		{ "name": "Gordon Lightfoot", "count": 1 },
 		{ "name": "Halestorm", "count": 1 },
 		{ "name": "Hall & Oates", "count": 1 },
+		{ "name": "I Am the Avalanche", "count": 1 },
 		{ "name": "Jamie & The Guarded Heart", "count": 1 },
 		{ "name": "Jessia Lea Mayfield", "count": 1 },
 		{ "name": "Jimmy Eat World", "count": 1 },
 		{ "name": "John Gallagher Jr.", "count": 1 },
+		{ "name": "Lax Poetic", "count": 1 },
 		{ "name": "Liquid Mike", "count": 1 },
 		{ "name": "Mercy Union", "count": 1 },
 		{ "name": "Microwave", "count": 1 },
@@ -51,6 +54,13 @@
 		{ "name": "Weezer", "count": 1 }
 	],
 	"events": [
+		{
+			"headliner": ["The Menzingers"],
+			"openers": ["Lax Poetic", "The Ergs", "I Am the Avalanche"],
+			"location": "Archer Music Hall",
+			"city": "Allentown, PA",
+			"date": "2026-01-24"
+		},
 		{
 			"headliner": ["The Eric Mintel Quartet"],
 			"openers": [],
