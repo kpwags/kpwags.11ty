@@ -969,34 +969,6 @@
       ]
     },
     {
-      "televisionShowId": 114,
-      "title": "Seven Dials",
-      "imdbLink": "https://www.imdb.com/title/tt31974288/",
-      "rating": 0,
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/2yPw0X8d/seven-dials.jpg",
-      "seasonEpisodeCount": 3,
-      "currentSeasonEpisode": 2,
-      "progress": 67,
-      "sortOrder": null,
-      "status": {
-        "name": "Watching",
-        "colorCode": "#005c78"
-      },
-      "genres": [
-        {
-          "name": "Drama",
-          "colorCode": "#481180"
-        }
-      ],
-      "services": [
-        {
-          "name": "Netflix",
-          "colorCode": "#c71212"
-        }
-      ]
-    },
-    {
       "televisionShowId": 85,
       "title": "The Wire",
       "imdbLink": "https://www.imdb.com/title/tt0306414/",
@@ -1939,6 +1911,34 @@
       },
       "genres": [],
       "services": []
+    },
+    {
+      "televisionShowId": 114,
+      "title": "Seven Dials",
+      "imdbLink": "https://www.imdb.com/title/tt31974288/",
+      "rating": 3,
+      "thoughts": "Good story with a lot of intrigue, but I felt like the ending missed the mark.",
+      "coverImageUrl": "https://i.postimg.cc/2yPw0X8d/seven-dials.jpg",
+      "seasonEpisodeCount": 3,
+      "currentSeasonEpisode": 3,
+      "progress": 100,
+      "sortOrder": null,
+      "status": {
+        "name": "Watched",
+        "colorCode": "#343aa8"
+      },
+      "genres": [
+        {
+          "name": "Drama",
+          "colorCode": "#481180"
+        }
+      ],
+      "services": [
+        {
+          "name": "Netflix",
+          "colorCode": "#c71212"
+        }
+      ]
     },
     {
       "televisionShowId": 30,
