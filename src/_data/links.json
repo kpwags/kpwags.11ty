@@ -16,6 +16,70 @@
     }
   },
   {
+    "linkId": 1367,
+    "title": "Abolish ICE Before They Kill Again, Impeach Trump \u0026 Noem Before They Incite More Murder",
+    "url": "https://www.techdirt.com/2026/01/08/abolish-ice-before-they-kill-again-impeach-trump-noem-before-they-incite-more-murder/",
+    "author": "Mike Masnick",
+    "linkDate": "2026-01-25T00:00:00Z",
+    "readingLogIssueNumber": 157,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 1368,
+    "title": "The year of technoligarchy",
+    "url": "https://www.citationneeded.news/the-year-of-technoligarchy/",
+    "author": "Molly White",
+    "linkDate": "2026-01-25T00:00:00Z",
+    "readingLogIssueNumber": 157,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 1369,
+    "title": "Vanilla CSS is all you need",
+    "url": "https://www.zolkos.com/2025/12/03/vanilla-css-is-all-you-need",
+    "author": "Rob Zolkos",
+    "linkDate": "2026-01-25T00:00:00Z",
+    "readingLogIssueNumber": 157,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1370,
+    "title": "How the hell are you supposed to have a career in tech in 2026?",
+    "url": "https://www.anildash.com/2026/01/05/a-tech-career-in-2026/",
+    "author": "Anil Dash",
+    "linkDate": "2026-01-25T00:00:00Z",
+    "readingLogIssueNumber": 157,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
     "linkId": 1364,
     "title": "Is artificial intelligence becoming too big to fail?",
     "url": "https://www.marketplace.org/story/2026/01/22/is-ai-becoming-too-big-to-fail",
