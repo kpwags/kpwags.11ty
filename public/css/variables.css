@@ -30,7 +30,7 @@
 @media (prefers-color-scheme: light) {
     :root {
         --background: oklch(100% 0 0);
-    --background-shaded: oklch(0.9491 0 0);
+        --background-shaded: oklch(0.9491 0 0);
         --text: oklch(26.97% 0 0);
         --meta: oklch(32.11% 0 0);
         --border-color: oklch(75.7% 0 0);
@@ -101,7 +101,7 @@
 
     --primary-color: oklch(0.8613 0.105 215.62);
     --secondary-color: oklch(0.8958 0.1025 144.26);
-    --tertiary-color: oklch(0.5466 0.1087 320.87);
+    --tertiary-color: oklch(0.7755 0.1087 320.87);
 
     --primary-color-contrast: oklch(0.2022 0.037756 223.3211);
 }
