@@ -10,7 +10,7 @@ title: "Authors I've Read"
 	{% for author in authors %}
 		<div class="author-read">
 			<details>
-				<summary>{% author.name %}</summary>
+				<summary>{{ author.name }}</summary>
 				<ul>
 					{% for book in author.books %}
 						<li><a href="{{ book.link }}">{{ book.title }}</a></li>
