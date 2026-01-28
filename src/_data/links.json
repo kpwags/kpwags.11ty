@@ -1,5 +1,85 @@
 [
   {
+    "linkId": 1372,
+    "title": "Trump\u0027s Plan to Tank America",
+    "url": "https://www.wnycstudios.org/podcasts/otm/articles/trumps-plan-to-tank-america",
+    "author": "On the Media",
+    "linkDate": "2026-01-27T00:00:00Z",
+    "readingLogIssueNumber": 158,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1373,
+    "title": "How to (actually) become an expert in .NET",
+    "url": "https://mijailovic.net/2025/09/07/dotnet/",
+    "author": "Nemanja Mijailovic",
+    "linkDate": "2026-01-27T00:00:00Z",
+    "readingLogIssueNumber": 158,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1374,
+    "title": "The Next Two Years of Software Engineering",
+    "url": "https://addyosmani.com/blog/next-two-years/",
+    "author": "Addy Osmani",
+    "linkDate": "2026-01-27T00:00:00Z",
+    "readingLogIssueNumber": 158,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1375,
+    "title": "How to Structure a .NET Solution That Actually Scales: Clean Architecture Guide",
+    "url": "https://dev.to/mashrulhaque/how-to-design-a-maintainable-net-solution-structure-for-growing-teams-284n",
+    "author": "Mashrul Haque",
+    "linkDate": "2026-01-27T00:00:00Z",
+    "readingLogIssueNumber": 158,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1371,
+    "title": "Why Developers Are Ditching Frameworks for Vanilla JavaScript",
+    "url": "https://thenewstack.io/why-developers-are-ditching-frameworks-for-vanilla-javascript/",
+    "author": "Alexander T. Williams",
+    "linkDate": "2026-01-26T00:00:00Z",
+    "readingLogIssueNumber": 158,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
     "linkId": 1366,
     "title": "40 years after Challenger: Lingering guilt and lessons learned",
     "url": "https://www.npr.org/2026/01/25/g-s1-106940/40-years-after-challenger",
