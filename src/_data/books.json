@@ -24725,6 +24725,46 @@
         }
       ],
       "formats": []
+    },
+    {
+      "bookId": 647,
+      "title": "The Library at Mount Char",
+      "subTitle": "",
+      "fullTitle": "The Library at Mount Char",
+      "author": "Scott Hawkins",
+      "link": "https://bookshop.org/p/books/the-library-at-mount-char-a-novel-scott-hawkins/4bc6e68f456fed5d",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3270,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Fantasy",
+          "colorCode": "rgb(172, 152, 5)"
+        },
+        {
+          "name": "Horror",
+          "colorCode": "rgb(146, 4, 4)"
+        }
+      ],
+      "formats": []
     }
   ]
 }

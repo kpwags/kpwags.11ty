@@ -1,5 +1,14 @@
 [
 	{
+		"roaster": "Broadsheet",
+		"blend": "Capricornio",
+		"roast": "Medium",
+		"location": "Cambridge, MA",
+		"link": "",
+		"thoughts": "",
+		"date": "2026-01-27"
+	},
+	{
 		"roaster": "Small Planes",
 		"blend": "Gateway",
 		"roast": "Medium",
@@ -34,14 +43,5 @@
 		"link": "https://www.caffevita.com/products/bistro-blend",
 		"thoughts": "",
 		"date": "2026-01-07"
-	},
-	{
-		"roaster": "Red Rooster",
-		"blend": "Waxwing",
-		"roast": "Medium Dark",
-		"location": "Floyd, VA",
-		"link": "https://www.redroostercoffee.com/products/waxwing-all-purpose-blend",
-		"thoughts": "",
-		"date": "2026-01-02"
 	}
 ]
