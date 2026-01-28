@@ -15,6 +15,7 @@ tags:
   - Personal Sites
 ---
 Ever since the end of 2015, my blog has been running on some form of static site generator. First it was Jekyll, then Next.js, now I'm running 11ty and I can't see myself ever going back to something like WordPress, Ghost, or some other content management system (CMS) based on a database. Writing in markdown is the way to go for my needs.
+<!-- excerpt -->
 
 Before going into why I like markdown, that last line should be highlighted. Everyone has different purposes and needs for building their sites. I use mine to play around with things, share my writing and media diet. This makes markdown especially appealing for me as my posts are basically just a folder of markdown files. Each time I migrated, I had to play around with some of the front matter in the files, but little else. For others, there might be a good reason to tie into Ghost or one of the other content management systems. It's important to do what works best for your needs or preferences.
 
