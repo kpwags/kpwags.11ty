@@ -1,5 +1,53 @@
 [
   {
+    "linkId": 1379,
+    "title": "Inside the Helix Nebula: JWST image shows thousands of creepy fingers around a dying star",
+    "url": "https://badastronomy.beehiiv.com/p/inside-the-helix-nebula-jwst-image-shows-thousands-of-creepy-finger-around-a-dying-star",
+    "author": "Philip Plait",
+    "linkDate": "2026-01-30T00:00:00Z",
+    "readingLogIssueNumber": 158,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 1380,
+    "title": "Code is a liability (not an asset)",
+    "url": "https://pluralistic.net/2026/01/06/1000x-liability/",
+    "author": "Cory Doctorow",
+    "linkDate": "2026-01-30T00:00:00Z",
+    "readingLogIssueNumber": 158,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1381,
+    "title": "The Detectorists - A short film about otters and detection dogs in conservation.",
+    "url": "https://www.youtube.com/watch?v=6rg6bcWI2Uo",
+    "author": "Natalie Clements and SWOT",
+    "linkDate": "2026-01-30T00:00:00Z",
+    "readingLogIssueNumber": 158,
+    "type": {
+      "name": "Video",
+      "colorCode": "#a53621"
+    },
+    "category": {
+      "name": "Science",
+      "colorCode": "#732a45"
+    }
+  },
+  {
     "linkId": 1376,
     "title": "Why isn\u2019t corporate America standing up to Trump?",
     "url": "https://www.npr.org/2026/01/28/nx-s1-5690368/why-isnt-corporate-america-standing-up-to-trump",
