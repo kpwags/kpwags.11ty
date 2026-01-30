@@ -1,5 +1,53 @@
 [
   {
+    "linkId": 1376,
+    "title": "Why isn\u2019t corporate America standing up to Trump?",
+    "url": "https://www.npr.org/2026/01/28/nx-s1-5690368/why-isnt-corporate-america-standing-up-to-trump",
+    "author": "The Indicator",
+    "linkDate": "2026-01-28T00:00:00Z",
+    "readingLogIssueNumber": 158,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1377,
+    "title": "How AIM taught the internet to chat",
+    "url": "https://www.theverge.com/podcast/848744/aim-aol-instant-messenger-version-history",
+    "author": "Version History",
+    "linkDate": "2026-01-28T00:00:00Z",
+    "readingLogIssueNumber": 158,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1378,
+    "title": "The Urge to Build Something",
+    "url": "https://www.milanjovanovic.tech/blog/the-urge-to-build-something",
+    "author": "Milan Jovanovi\u0107",
+    "linkDate": "2026-01-28T00:00:00Z",
+    "readingLogIssueNumber": 158,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
     "linkId": 1372,
     "title": "Trump\u0027s Plan to Tank America",
     "url": "https://www.wnycstudios.org/podcasts/otm/articles/trumps-plan-to-tank-america",

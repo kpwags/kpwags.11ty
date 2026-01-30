@@ -203,7 +203,7 @@
     ]
   },
   {
-    "name": "Ben Lindbergh, Travis Sawchik",
+    "name": "Ben Lindbergh \u0026 Travis Sawchik",
     "books": [
       {
         "title": "The MVP Machine: How Baseball\u0027s New Nonconformists Are Using Data to Build Better Players",
@@ -640,7 +640,7 @@
     ]
   },
   {
-    "name": "Eliot Brown, Maureen Farrell",
+    "name": "Eliot Brown \u0026 Maureen Farrell",
     "books": [
       {
         "title": "The Cult of We: Wework, Adam Neumann, and the Great Startup Delusion",
@@ -1325,12 +1325,7 @@
       {
         "title": "Soonish",
         "link": "https://bookshop.org/p/books/soonish-ten-emerging-technologies-that-ll-improve-and-or-ruin-everything-zach-weinersmith/11061022"
-      }
-    ]
-  },
-  {
-    "name": "Kelly and Zach Weinersmith",
-    "books": [
+      },
       {
         "title": "A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?",
         "link": "https://bookshop.org/p/books/a-city-on-mars-can-we-settle-space-should-we-settle-space-and-have-we-really-thought-this-through-zach-weinersmith/19777591?ean=9781984881724"
@@ -1534,6 +1529,10 @@
   {
     "name": "Max Hastings",
     "books": [
+      {
+        "title": "Vietnam: An Epic Tragedy, 1945-1975",
+        "link": "https://bookshop.org/p/books/vietnam-an-epic-tragedy-1945-1975-max-hastings/15280704"
+      },
       {
         "title": "Inferno: The World at War, 1939-1945",
         "link": "https://bookshop.org/p/books/inferno-the-world-at-war-1939-1945-max-hastings/15283304"
@@ -1851,7 +1850,7 @@
     ]
   },
   {
-    "name": "Richard Thaler, Cass Sunstein",
+    "name": "Richard Thaler \u0026 Cass Sunstein",
     "books": [
       {
         "title": "Nudge: The Final Edition",
@@ -2044,15 +2043,6 @@
       {
         "title": "Zen Mind, Beginner\u0027s Mind",
         "link": "https://bookshop.org/p/books/zen-mind-beginner-s-mind-50th-anniversary-edition-shunryu-suzuki/10545494"
-      }
-    ]
-  },
-  {
-    "name": "Sir Max Hastings",
-    "books": [
-      {
-        "title": "Vietnam: An Epic Tragedy, 1945-1975",
-        "link": "https://bookshop.org/p/books/vietnam-an-epic-tragedy-1945-1975-max-hastings/15280704"
       }
     ]
   },
