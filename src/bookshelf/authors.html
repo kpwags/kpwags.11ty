@@ -1,0 +1,22 @@
+---
+layout: "layouts/layout.html"
+title: "Authors I've Read"
+---
+<h1>Authors I've Read</h1>
+
+<p>One of these days I'll get to reading all of these</p>
+
+<section class="authors-read">
+	{% for author in authors %}
+		<div class="author-read">
+			<details>
+				<summary>{{ author.name }}</summary>
+				<ul>
+					{% for book in author.books %}
+						<li><a href="{{ book.link }}">{{ book.title }}</a></li>
+					{% endfor %}
+				</ul>
+			</details>
+		</div>
+	{% endfor %}
+</section>
