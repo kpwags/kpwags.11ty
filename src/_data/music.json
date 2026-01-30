@@ -12364,6 +12364,81 @@
     ]
   },
   {
+    "musicAlbumId": 249,
+    "title": "A Lesson in the Abuse of Information Technology",
+    "artist": "The Menzingers",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/HsDRvS5C/menzingers-lesson-abuse-informaton-technology.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Alpha Kappa Fell Off a Balcony"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Sir Yes Sir"
+      },
+      {
+        "trackNumber": 3,
+        "title": "A Lesson in the Abuse of Information Technology"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Ave Maria"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Coal City Blues"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Keychain"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Even for an Eggshell"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Richard Corry"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Straight to Hell"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Victory Gin"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Cold Weather Gear"
+      },
+      {
+        "trackNumber": 12,
+        "title": "Clap Hands Two Guns"
+      },
+      {
+        "trackNumber": 13,
+        "title": "No Ticket"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 210,
     "title": "No Penance b/w Cemetery\u0027s Garden",
     "artist": "The Menzingers",
