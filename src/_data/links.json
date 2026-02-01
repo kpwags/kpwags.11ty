@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 1384,
+    "title": "AI writes code faster. Your job is still to prove it works.",
+    "url": "https://addyosmani.com/blog/code-review-ai/",
+    "author": "Addy Osmani",
+    "linkDate": "2026-02-01T00:00:00Z",
+    "readingLogIssueNumber": 158,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
     "linkId": 1382,
     "title": "5 accessibility checks to run on every component",
     "url": "https://zeroheight.com/blog/5-accessibility-checks-to-run-on-every-component/",
