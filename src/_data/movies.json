@@ -765,6 +765,32 @@
       "year": "2026",
       "movies": [
         {
+          "movieId": 191,
+          "title": "Sinners",
+          "imdbLink": "https://www.imdb.com/title/tt31193180/",
+          "dateWatched": "2026-01-30T00:00:00Z",
+          "sortOrder": null,
+          "rating": 5,
+          "thoughts": "I really enjoyed this. Great performances all around with a compelling story.",
+          "posterImageUrl": "https://i.postimg.cc/kXpLWYh1/sinners.jpg",
+          "status": {
+            "name": "Watched",
+            "colorCode": "#2a9a39"
+          },
+          "genres": [
+            {
+              "name": "Horror",
+              "colorCode": "#bc001f"
+            }
+          ],
+          "services": [
+            {
+              "name": "HBO",
+              "colorCode": "#6a4bc9"
+            }
+          ]
+        },
+        {
           "movieId": 189,
           "title": "The Hitman\u0027s Bodyguard",
           "imdbLink": "https://www.imdb.com/title/tt1959563/",

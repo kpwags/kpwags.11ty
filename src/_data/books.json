@@ -1,24 +1,24 @@
 {
   "inProgress": [
     {
-      "bookId": 577,
-      "title": "Children of Ruin",
+      "bookId": 644,
+      "title": "Children of Memory",
       "subTitle": "",
-      "fullTitle": "Children of Ruin",
+      "fullTitle": "Children of Memory",
       "author": "Adrian Tchaikovsky",
-      "link": "https://bookshop.org/p/books/children-of-ruin-adrian-tchaikovsky/5030bfe683cae92c",
-      "dateStarted": "2026-01-14T00:00:00Z",
+      "link": "https://bookshop.org/p/books/children-of-memory-adrian-tchaikovsky/2bdd73055c954a77",
+      "dateStarted": "2026-01-31T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/zG5d1rGK/children-of-ruin.jpg",
+      "coverImageUrl": "https://i.postimg.cc/6pwHNXpd/children-of-memory.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 509,
-      "pageCount": 565,
-      "progress": 90,
-      "sortOrder": 21,
+      "currentPage": 1,
+      "pageCount": 480,
+      "progress": 1,
+      "sortOrder": 22,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
@@ -59,9 +59,9 @@
       "coverImageUrl": "https://i.postimg.cc/0NHVc92N/chip-war.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 430,
+      "currentPage": 502,
       "pageCount": 758,
-      "progress": 57,
+      "progress": 66,
       "sortOrder": 980,
       "status": {
         "name": "Reading",
@@ -94,6 +94,50 @@
     {
       "year": "2026",
       "books": [
+        {
+          "bookId": 577,
+          "title": "Children of Ruin",
+          "subTitle": "",
+          "fullTitle": "Children of Ruin",
+          "author": "Adrian Tchaikovsky",
+          "link": "https://bookshop.org/p/books/children-of-ruin-adrian-tchaikovsky/5030bfe683cae92c",
+          "dateStarted": "2026-01-14T00:00:00Z",
+          "dateCompleted": "2026-01-30T00:00:00Z",
+          "rating": 5,
+          "bookNotesUrl": "",
+          "thoughts": "Another fantastic book filled with intrigue and a fun story .",
+          "coverImageUrl": "https://i.postimg.cc/zG5d1rGK/children-of-ruin.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 565,
+          "pageCount": 565,
+          "progress": 100,
+          "sortOrder": 21,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": {
+            "name": "Children of Time",
+            "colorCode": "#03229b"
+          },
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
+        },
         {
           "bookId": 646,
           "title": "Ghosts of Honolulu",
@@ -15185,50 +15229,6 @@
         {
           "name": "eBook",
           "colorCode": "#2c5813"
-        }
-      ]
-    },
-    {
-      "bookId": 644,
-      "title": "Children of Memory",
-      "subTitle": "",
-      "fullTitle": "Children of Memory",
-      "author": "Adrian Tchaikovsky",
-      "link": "https://bookshop.org/p/books/children-of-memory-adrian-tchaikovsky/2bdd73055c954a77",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/6pwHNXpd/children-of-memory.jpg",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 1,
-      "progress": 100,
-      "sortOrder": 22,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
-      },
-      "series": {
-        "name": "Children of Time",
-        "colorCode": "#03229b"
-      },
-      "genres": [
-        {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
         }
       ]
     },

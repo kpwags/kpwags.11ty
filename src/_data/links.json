@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 1382,
+    "title": "5 accessibility checks to run on every component",
+    "url": "https://zeroheight.com/blog/5-accessibility-checks-to-run-on-every-component/",
+    "author": "Hidde De Vries",
+    "linkDate": "2026-01-31T00:00:00Z",
+    "readingLogIssueNumber": 158,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1383,
+    "title": "Why Federated Design Systems Keep Failing",
+    "url": "https://www.shaunbent.co.uk/blog/why-federated-design-systems-keep-failing/",
+    "author": "Shaun Bent",
+    "linkDate": "2026-01-31T00:00:00Z",
+    "readingLogIssueNumber": 158,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Design",
+      "colorCode": "#0b545e"
+    }
+  },
+  {
     "linkId": 1379,
     "title": "Inside the Helix Nebula: JWST image shows thousands of creepy fingers around a dying star",
     "url": "https://badastronomy.beehiiv.com/p/inside-the-helix-nebula-jwst-image-shows-thousands-of-creepy-finger-around-a-dying-star",
