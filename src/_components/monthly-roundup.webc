@@ -49,4 +49,10 @@
 	<h3 webc:if="movies">🎬 Movies</h3>
 
 	<slot name="movies" webc:if="movies"></slot>
+
+	<hr webc:if="music" />
+
+	<h3 webc:if="music">🎵 New Music</h3>
+
+	<slot name="music" webc:if="music"></slot>
 </div

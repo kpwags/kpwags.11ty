@@ -1,5 +1,6 @@
 import dayjs from 'dayjs';
 import starRating from './starRating-shortcode.js';
+import readableDate from './../filters/date-filter.js';
 
 const getThoughts = (movie) => {
 	if (movie.thoughts === null || movie.thoughts === '') {
@@ -21,7 +22,7 @@ const getThoughts = (movie) => {
 };
 
 const movieShortcode = (movie) => {
-	const dateWatched = movie.dateWatched ? `<div class="meta small">${dayjs(movie.dateWatched).format('MMMM D, YYYY')}</div>` : '';
+	const dateWatched = movie.dateWatched ? `<div class="meta small">${readableDate(movie.dateWatched)}</div>` : '';
 
 	return `
 <div class="item" data-movie-id="${movie.movieId}">
