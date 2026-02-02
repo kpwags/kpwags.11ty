@@ -6,7 +6,7 @@
     "dateWatched": "2026-02-01T00:00:00Z",
     "sortOrder": null,
     "rating": 3,
-    "thoughts": "Felt like your prototypical cop thriller. There were some good suspense moments. It’s been a while since I saw Matt Damon and Ben Affleck together.",
+    "thoughts": "Felt like your prototypical cop thriller. There were some good suspense moments. It\u2019s been a while since I saw Matt Damon and Ben Affleck together.",
     "posterImageUrl": "https://i.postimg.cc/VvMY4CMr/the-rip.jpg",
     "status": {
       "name": "Watched",
@@ -74,32 +74,6 @@
       {
         "name": "HBO",
         "colorCode": "#6a4bc9"
-      }
-    ]
-  },
-  {
-    "movieId": 188,
-    "title": "The Roses",
-    "imdbLink": "https://www.imdb.com/title/tt31973693/",
-    "dateWatched": "2026-01-03T00:00:00Z",
-    "sortOrder": null,
-    "rating": 3,
-    "thoughts": "Enjoyable. It had plenty of laughs and an ending I did not expect.",
-    "posterImageUrl": "https://i.postimg.cc/hPWBKyNk/the-roses.jpg",
-    "status": {
-      "name": "Watched",
-      "colorCode": "#2a9a39"
-    },
-    "genres": [
-      {
-        "name": "Comedy",
-        "colorCode": "#a60483"
-      }
-    ],
-    "services": [
-      {
-        "name": "Hulu",
-        "colorCode": "#1cb153"
       }
     ]
   }
