@@ -21,7 +21,7 @@ title: "Archives"
 		</label>
 		<button type="button" id="clear-filters" class="btn-primary">Clear</button>
 	</div>
-	<form class="post-controls" name="post-fields">
+	<form class="post-controls" name="postFields">
 		<fieldset>
 			<legend>Choose Type:</legend>
 			<label for="all">
@@ -82,7 +82,6 @@ title: "Archives"
 		});
 
 		document.getElementById('clear-filters').addEventListener('click', function () {
-			document.getElementById('filter').value = '';
 			clearFilters();
 		});
 
@@ -95,54 +94,35 @@ title: "Archives"
 		});
 	});
 
-	function filterPostByType(postType) {
-		if (postType === 'all') {
-			document.querySelectorAll('.archives-list li').forEach((x) => {
-				x.removeAttribute('hidden');
-			});
-			return;
-		}
-
-		document.querySelectorAll('.archives-list li').forEach((x, idx) => {
-			if (x.getAttribute('data-post-type') === postType) {
-				x.removeAttribute('hidden');
-			} else {
-				x.setAttribute('hidden', true);
-			}
-		});
-	}
-
-	function filterItems(val) {
-		if (val.trim().length === 0) {
-			clearFilters();
-			return;
-		}
-
-		document.querySelectorAll('.archives-list li').forEach((x, idx) => {
-			if (x.querySelector('a')?.textContent.toLowerCase().includes(val.toLowerCase())) {
-				x.removeAttribute('hidden');
-			} else {
-				x.setAttribute('hidden', true);
-			}
-		});
-
-		textFilter = val;
-	}
-
 	function filterArchives(text = undefined, postType = undefined) {
-		if (!text) {
-			textFilter = text;
+		if (text) {
+			textFilter = text.trim();
 		}
 
-		if (!postType) {
+		if (postType) {
 			filteredPostType = postType;
 		}
+
+		document.querySelectorAll('.archives-list li').forEach((x, idx) => {
+			const matchesText = textFilter === ''
+				? true
+				: x.querySelector('a')?.textContent.toLowerCase().includes(textFilter.toLowerCase());
+
+			const matchesType = filteredPostType === 'all'
+				? true
+				: x.getAttribute('data-post-type') === filteredPostType;
+
+			if (matchesText && matchesType) {
+				x.removeAttribute('hidden');
+			} else {
+				x.setAttribute('hidden', true);
+			}
+		});
 	}
 
 	function clearFilters() {
-		// document.querySelectorAll('.archives-list li').forEach((x) => {
-		//	 x.removeAttribute('hidden');
-		//});
-		filterArchives('', undefined);
+		document.getElementById('filter').value = '';
+		document.postFields.postType.value = 'all';
+		filterArchives('', 'all');
 	}
 </script>
