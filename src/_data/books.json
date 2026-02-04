@@ -43,57 +43,57 @@
           "colorCode": "#cd6a29"
         }
       ]
-    },
-    {
-      "bookId": 413,
-      "title": "Chip War",
-      "subTitle": "The Fight for the World\u0027s Most Critical Technology",
-      "fullTitle": "Chip War: The Fight for the World\u0027s Most Critical Technology",
-      "author": "Chris Miller",
-      "link": "https://bookshop.org/p/books/chip-war-the-fight-for-the-world-s-most-critical-technology-chris-miller/18265375?ean=9781982172008",
-      "dateStarted": "2026-01-21T00:00:00Z",
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/0NHVc92N/chip-war.jpg",
-      "isAtLibrary": true,
-      "isPurchased": false,
-      "currentPage": 600,
-      "pageCount": 758,
-      "progress": 79,
-      "sortOrder": 980,
-      "status": {
-        "name": "Reading",
-        "colorCode": "#6a208f"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "History",
-          "colorCode": "rgb(4, 38, 142)"
-        },
-        {
-          "name": "Technology",
-          "colorCode": "rgb(55, 78, 146)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Audiobook",
-          "colorCode": "#b300b3"
-        }
-      ]
     }
   ],
   "completed": [
     {
       "year": "2026",
       "books": [
+        {
+          "bookId": 413,
+          "title": "Chip War",
+          "subTitle": "The Fight for the World\u0027s Most Critical Technology",
+          "fullTitle": "Chip War: The Fight for the World\u0027s Most Critical Technology",
+          "author": "Chris Miller",
+          "link": "https://bookshop.org/p/books/chip-war-the-fight-for-the-world-s-most-critical-technology-chris-miller/18265375?ean=9781982172008",
+          "dateStarted": "2026-01-21T00:00:00Z",
+          "dateCompleted": "2026-02-03T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "A fascinating look at the history of computer chips and their geopolitical implications from the Cold War to the present.",
+          "coverImageUrl": "https://i.postimg.cc/0NHVc92N/chip-war.jpg",
+          "isAtLibrary": true,
+          "isPurchased": false,
+          "currentPage": 758,
+          "pageCount": 758,
+          "progress": 100,
+          "sortOrder": 980,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Non-Fiction",
+            "colorCode": "#244c43"
+          },
+          "series": null,
+          "genres": [
+            {
+              "name": "History",
+              "colorCode": "rgb(4, 38, 142)"
+            },
+            {
+              "name": "Technology",
+              "colorCode": "rgb(55, 78, 146)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Audiobook",
+              "colorCode": "#b300b3"
+            }
+          ]
+        },
         {
           "bookId": 577,
           "title": "Children of Ruin",
