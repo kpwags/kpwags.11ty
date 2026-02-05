@@ -1,5 +1,69 @@
 [
   {
+    "linkId": 1387,
+    "title": "Saying \u201CNo\u201D In an Age of Abundance",
+    "url": "https://blog.jim-nielsen.com/2026/saying-no/",
+    "author": "Jim Nielsen",
+    "linkDate": "2026-02-04T00:00:00Z",
+    "readingLogIssueNumber": 159,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1388,
+    "title": "It\u0027s not normal",
+    "url": "https://pluralistic.net/2026/01/14/sole-and-despotic/",
+    "author": "Cory Doctorow",
+    "linkDate": "2026-02-04T00:00:00Z",
+    "readingLogIssueNumber": 159,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 1389,
+    "title": "Tips for making the Performance Panel less overwhelming",
+    "url": "https://calendar.perfplanet.com/2025/tips-for-making-the-performance-panel-less-overwhelming/",
+    "author": "Ian Duffy",
+    "linkDate": "2026-02-04T00:00:00Z",
+    "readingLogIssueNumber": 159,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1386,
+    "title": "Job applicants are winning the AI arms race against recruiters",
+    "url": "https://www.economist.com/business/2026/01/12/job-applicants-are-winning-the-ai-arms-race-against-recruiters?giftId=MDI3OTZlYTMtODNkYi00NzBlLWJhNTctN2YwNDQyMTYwNjAy\u0026utm_campaign=gifted_article",
+    "author": "The Economist",
+    "linkDate": "2026-02-03T00:00:00Z",
+    "readingLogIssueNumber": 159,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
     "linkId": 1385,
     "title": "Notepad\u002B\u002B Hijacked by State-Sponsored Hackers",
     "url": "https://notepad-plus-plus.org/news/hijacked-incident-info-update/",

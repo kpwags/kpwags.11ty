@@ -1,5 +1,14 @@
 [
 	{
+		"roaster": "Gimme!",
+		"blend": "Honduras Angel BBs",
+		"roast": "Medium",
+		"location": "Ithaca, NY",
+		"link": "https://gimmecoffee.com/products/honduras-angel-bbs-fairtrade-organic?variant=44879443263707",
+		"thoughts": "",
+		"date": "2026-02-03"
+	},
+	{
 		"roaster": "Broadsheet",
 		"blend": "Capricornio",
 		"roast": "Medium",
@@ -34,14 +43,5 @@
 		"link": "https://atomicroastery.com/products/rocketeer?variant=13346902081654",
 		"thoughts": "",
 		"date": "2026-01-09"
-	},
-	{
-		"roaster": "Caffe Vita",
-		"blend": "Bistro Blend",
-		"roast": "Medium",
-		"location": "Brooklyn, NY",
-		"link": "https://www.caffevita.com/products/bistro-blend",
-		"thoughts": "",
-		"date": "2026-01-07"
 	}
 ]
