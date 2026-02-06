@@ -600,30 +600,15 @@ section.filter .text-filter input {
 	width: 300px;
 }
 
-@media (max-width: 500px) {
-	section.filter .text-filter {
-		gap: 16px;
-	}
-
-	section.filter .text-filter input {
-		display: block;
-		margin: 8px 0 0 0;
-		padding: 9px 12px;
-	}
-
-	section.filter .text-filter button {
-		align-self: flex-end;
-	}
-}
-
 .post-controls fieldset {
 	display: flex;
-	column-gap: 16px;
+	gap: 16px;
 	align-items: center;
 	border: none;
 	padding: 0;
 	margin: 0;
 	width: 100%;
+	flex-wrap: wrap;
 }
 
 .post-controls legend {
@@ -651,6 +636,42 @@ section.filter .text-filter input {
 	border: 1px solid var(--primary-color);
 	background-color: var(--primary-color);
 	color: var(--primary-color-contrast);
+}
+
+@media (max-width: 500px) {
+	section.filter {
+		gap: 32px;
+	}
+
+	section.filter .text-filter input {
+		display: block;
+		margin: 8px 0 0 0;
+		padding: 9px 12px;
+		width: 100%;
+	}
+
+	section.filter .text-filter {
+		flex-direction: column;
+		gap: 8px;
+		width: 100%;
+	}
+
+	section.filter .text-filter button {
+		width: 100%;
+	}
+
+	.post-controls legend {
+		display: block;
+		margin-bottom: 8px;
+	}
+
+	.post-controls label {
+		width: 100%;
+	}
+
+	.post-type-option {
+		padding: 8px;
+	}
 }
 
 section.archives h2 {

@@ -123,6 +123,8 @@ title: "Archives"
 	function clearFilters() {
 		document.getElementById('filter').value = '';
 		document.postFields.postType.value = 'all';
+		textFilter = '';
+		filteredostType = 'all';
 		filterArchives('', 'all');
 	}
 </script>
