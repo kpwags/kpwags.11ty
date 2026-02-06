@@ -14,11 +14,42 @@ title: "Archives"
 </section>
 
 <section class="filter">
-	<label for="filter">
-		Filter
-		<input type="text" name="filter" id="filter" />
-	</label>
-	<button type="button" id="clear-filters" class="btn-primary">Clear</button>
+	<div class="text-filter">
+		<label for="filter">
+			Filter
+			<input type="text" name="filter" id="filter" />
+		</label>
+		<button type="button" id="clear-filters" class="btn-primary">Clear</button>
+	</div>
+	<form class="post-controls" name="postFields">
+		<fieldset>
+			<legend>Choose Type:</legend>
+			<label for="all">
+				<div class="post-type-option">All</div>
+				<input type="radio" id="all" name="postType" value="all" checked />
+			</label>
+			<label for="blog">
+				<div class="post-type-option">Post</div>
+				<input type="radio" id="blog" name="postType" value="Post" />
+			</label>
+			<label for="note">
+				<div class="post-type-option">Note</div>
+				<input type="radio" id="note" name="postType" value="Note" />
+			</label>
+			<label for="reading-log">
+				<div class="post-type-option">Reading Log</div>
+				<input type="radio" id="reading-log" name="postType" value="Reading Log" />
+			</label>
+			<label for="week-note">
+				<div class="post-type-option">Week Note</div>
+				<input type="radio" id="week-note" name="postType" value="Week Note" />
+			</label>
+			<label for="book-note">
+				<div class="post-type-option">Book Note</div>
+				<input type="radio" id="book-note" name="postType" value="Book Note" />
+			</label>
+		</fieldset>
+	</form>
 </section>
 
 <section class="archives">
@@ -28,7 +59,7 @@ title: "Archives"
 
 			<ul class="archives-list">
 				{% for post in year.posts %}
-					<li>
+					<li data-post-type="{{ post.type.name }}">
 						<a href="{{ post.url }}">{{ post.title }}</a>
 						<div class="post-metadata">
 							<span class="tag {{ post.type.css }}">{{ post.type.name }}</span>
@@ -42,25 +73,46 @@ title: "Archives"
 </section>
 
 <script>
+	let filteredPostType = 'all';
+	let textFilter = '';
+
 	addEventListener('DOMContentLoaded', () => {
 		document.getElementById('filter').addEventListener('keyup', function (e) {
-			filterItems(e.target.value);
+			filterArchives(e.target.value, undefined);
 		});
 
 		document.getElementById('clear-filters').addEventListener('click', function () {
-			document.getElementById('filter').value = '';
 			clearFilters();
+		});
+
+		const postTypeOptions = document.querySelectorAll('input[name="postType"]');
+
+		postTypeOptions.forEach((opt) => {
+			opt.addEventListener('change', (e) => {
+				filterArchives(undefined, e.target.value);
+			});
 		});
 	});
 
-	function filterItems(val) {
-		if (val.trim().length === 0) {
-			clearFilters();
-			return;
+	function filterArchives(text = undefined, postType = undefined) {
+		if (text) {
+			textFilter = text.trim();
+		}
+
+		if (postType) {
+			filteredPostType = postType;
 		}
 
 		document.querySelectorAll('.archives-list li').forEach((x, idx) => {
-			if (x.querySelector('a')?.textContent.toLowerCase().includes(val.toLowerCase())) {
+			const matchesText = textFilter === ''
+				? true
+				: x.querySelector('a')?.textContent.toLowerCase().includes(textFilter.toLowerCase());
+
+			const matchesType = filteredPostType === 'all'
+				? true
+				: x.getAttribute('data-post-type') === filteredPostType;
+
+			if (matchesText && matchesType) {
 				x.removeAttribute('hidden');
 			} else {
 				x.setAttribute('hidden', true);
@@ -69,8 +121,10 @@ title: "Archives"
 	}
 
 	function clearFilters() {
-		document.querySelectorAll('.archives-list li').forEach((x) => {
-			x.removeAttribute('hidden');
-		});
+		document.getElementById('filter').value = '';
+		document.postFields.postType.value = 'all';
+		textFilter = '';
+		filteredostType = 'all';
+		filterArchives('', 'all');
 	}
 </script>

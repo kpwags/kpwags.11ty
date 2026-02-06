@@ -450,6 +450,61 @@
     ]
   },
   {
+    "musicAlbumId": 256,
+    "title": "Antique Hearts: Revisited",
+    "artist": "American Aquarium",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/1RYj9Wck/american-aquarium-antique-hearts-revisited.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Country",
+        "colorCode": "rgb(120, 74, 0)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Antique Hearts"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Savior"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Anne Marie"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Big City"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Califronia"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Dandelions"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Ain\u0027t No Use in Tryin\u0027"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Tellin\u0027 A Lie"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 197,
     "title": "Chicamacomico",
     "artist": "American Aquarium",
@@ -758,6 +813,132 @@
       {
         "trackNumber": 25,
         "title": "Katherine Belle"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 257,
+    "title": "Slappers, Bangers \u0026 Certified Twangers: Volume One",
+    "artist": "American Aquarium",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/bYFBz69c/american-aquarium-slappers-vol-1.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Country",
+        "colorCode": "rgb(120, 74, 0)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Queen of My Double Wide Trailer"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Some Girls Do"
+      },
+      {
+        "trackNumber": 3,
+        "title": "I Try to Think About Elvis"
+      },
+      {
+        "trackNumber": 4,
+        "title": "She\u0027s in Love With the Boy"
+      },
+      {
+        "trackNumber": 5,
+        "title": "John Deere Green"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Wild One"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Lost and Found"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Down at the Twist and Shout"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Heads Carolina, Tails California"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Should\u0027ve Been a Cowboy"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 255,
+    "title": "Things Change",
+    "artist": "American Aquarium",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/05HB8t01/american-aquarium-things-change.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Country",
+        "colorCode": "rgb(120, 74, 0)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "The World is on Fire"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Crooked\u002BStraight"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Tough Folks"
+      },
+      {
+        "trackNumber": 4,
+        "title": "When We Were Younger Men"
+      },
+      {
+        "trackNumber": 5,
+        "title": "One Day at a Time"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Things Change"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Work Conquers All"
+      },
+      {
+        "trackNumber": 8,
+        "title": "I Gave Up the Drinking (Before She Gave Up on Me)"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Shadows of You"
+      },
+      {
+        "trackNumber": 10,
+        "title": "\u0027Til the Final Curtain Falls"
       }
     ]
   },
@@ -6450,6 +6631,73 @@
     ]
   },
   {
+    "musicAlbumId": 259,
+    "title": "Lessons that We Swear to Keep",
+    "artist": "Free Throw",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/9XNnWxY3/free-throw-lessons.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "A Part is Better than Zero"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Spacer\u0027s Choice"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Relacing Leene\u0027s Bell"
+      },
+      {
+        "trackNumber": 4,
+        "title": "The Museum of Orphaned Concepts"
+      },
+      {
+        "trackNumber": 5,
+        "title": "So Yeah, So"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Thanks for Asking"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Into the Wind Stream"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Joy Ephemeral"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Cinnabar Island"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Tips for Safe Travels"
+      },
+      {
+        "trackNumber": 11,
+        "title": "What Comes Around is All Around"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 239,
     "title": "Those Days are Gone (10 Year Anniversary Edition)",
     "artist": "Free Throw",
@@ -10514,6 +10762,45 @@
     ]
   },
   {
+    "musicAlbumId": 258,
+    "title": "My Best Impression of Being Okay",
+    "artist": "Lax Poetic",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/pXh1yDqc/lax-poetic-best-impression.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Stockholm Syndrome"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Don\u0027t Spook the Rabbit"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Kitchen Nightmares"
+      },
+      {
+        "trackNumber": 4,
+        "title": "\u0022Have I Ever Told You Guys the Story About My Triple Play?\u0022"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 99,
     "title": "Significant Other",
     "artist": "Limp Bizkit",
@@ -12364,6 +12651,49 @@
     ]
   },
   {
+    "musicAlbumId": 254,
+    "title": "Hold On, Dodge",
+    "artist": "The Menzingers",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/3J4bWgn6/menzingers-hold-on-dodge.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Sunday Morning"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Lilith Avi"
+      },
+      {
+        "trackNumber": 3,
+        "title": "They Speak of My Drinking, But Never of My Thirst"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Red, White, and Blues"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Kentucky Gentlemen"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 249,
     "title": "A Lesson in the Abuse of Information Technology",
     "artist": "The Menzingers",
@@ -13643,6 +13973,132 @@
       {
         "trackNumber": 15,
         "title": "The Growl"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 261,
+    "title": "Let\u0027s Start Degeneracy",
+    "artist": "Microwave",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/hPz3h9p3/microwave-lets-start-degeneracy.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Portals"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Ferrari"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Circling the Drain"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Bored of Being Sad"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Straw Hat"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Let\u0027s Start Degeneracy"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Omni"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Strangers"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Conceriro in G Major"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Hyperzine Dreams"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 260,
+    "title": "Stovall",
+    "artist": "Microwave",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/VLrH5jDV/microwave-stovall.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Stovall"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Grass Stains"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Labor Day"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Something Right"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Mansion in the Sky"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Trash Stains"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Work it Out"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Tar"
+      },
+      {
+        "trackNumber": 9,
+        "title": "The Last"
+      },
+      {
+        "trackNumber": 10,
+        "title": "The Fever"
       }
     ]
   },
@@ -16498,6 +16954,77 @@
       {
         "trackNumber": 11,
         "title": "Disasterpiece"
+      }
+    ]
+  },
+  {
+    "musicAlbumId": 253,
+    "title": "War All the Time (Live)",
+    "artist": "Thursday",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/3J4bWgt5/thursday-war-all-the-time-live.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Live Albums",
+        "colorCode": "rgb(92, 19, 162)"
+      },
+      {
+        "name": "Punk",
+        "colorCode": "rgb(191, 0, 188)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "For the Workforce, Drowning"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Between the Rapture and Rupture"
+      },
+      {
+        "trackNumber": 3,
+        "title": "Division St."
+      },
+      {
+        "trackNumber": 4,
+        "title": "Signals Over the Air"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Marches and Maneuvers"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Asleep in the Chapel"
+      },
+      {
+        "trackNumber": 7,
+        "title": "This Song Brought to You By a Falling Bomb"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Steps Ascending"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Wall All the Time"
+      },
+      {
+        "trackNumber": 10,
+        "title": "M. Shepard"
+      },
+      {
+        "trackNumber": 11,
+        "title": "Tomorrow I\u0027ll Be You"
       }
     ]
   },
