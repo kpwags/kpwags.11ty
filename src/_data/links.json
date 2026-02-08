@@ -1,5 +1,117 @@
 [
   {
+    "linkId": 1394,
+    "title": "There isn\u2019t even a cynical explanation for Jeff Bezos destroying The Washington Post",
+    "url": "https://www.theverge.com/policy/874958/jeff-bezos-washington-post-layoffs-trump?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjQ5SXQxS2dvTVEiLCJwIjoiL3BvbGljeS84NzQ5NTgvamVmZi1iZXpvcy13YXNoaW5ndG9uLXBvc3QtbGF5b2Zmcy10cnVtcCIsImV4cCI6MTc3MDk5NTE1MiwiaWF0IjoxNzcwNTYzMTUyfQ.2N9GJ3I7nXmBMJ5OXzV3TQ8faXeoo8SxsxPbjv8p0bo\u0026utm_medium=gift-link",
+    "author": "Tina Nguyen",
+    "linkDate": "2026-02-08T00:00:00Z",
+    "readingLogIssueNumber": 159,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Journalism",
+      "colorCode": "#131519"
+    }
+  },
+  {
+    "linkId": 1395,
+    "title": "The Washington Post Is No Longer Useful to Jeff Bezos",
+    "url": "https://www.404media.co/the-washington-post-is-no-longer-useful-to-jeff-bezos/",
+    "author": "Jason Koebler",
+    "linkDate": "2026-02-08T00:00:00Z",
+    "readingLogIssueNumber": 159,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Journalism",
+      "colorCode": "#131519"
+    }
+  },
+  {
+    "linkId": 1396,
+    "title": "FBI Couldn\u2019t Get into WaPo Reporter\u2019s iPhone Because It Had Lockdown Mode Enabled",
+    "url": "https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/",
+    "author": "Joseph Cox",
+    "linkDate": "2026-02-08T00:00:00Z",
+    "readingLogIssueNumber": 159,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 1390,
+    "title": "Better defaults for popovers",
+    "url": "https://www.matuzo.at/blog/2026/better-defaults-for-popovers",
+    "author": "Manuel Matuzovi\u0107",
+    "linkDate": "2026-02-06T00:00:00Z",
+    "readingLogIssueNumber": 159,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1391,
+    "title": "Wikipedia at 25: What the web can be",
+    "url": "https://www.anildash.com/2026/01/15/wikipedia-at-25/",
+    "author": "Anil Dash",
+    "linkDate": "2026-02-06T00:00:00Z",
+    "readingLogIssueNumber": 159,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 1392,
+    "title": "Tim Cook sold Apple\u0027s soul",
+    "url": "https://www.loopwerk.io/articles/2026/tim-cook-sold-apples-soul/",
+    "author": "Kevin Renskers",
+    "linkDate": "2026-02-06T00:00:00Z",
+    "readingLogIssueNumber": 159,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 1393,
+    "title": "Vibe Coding Is Killing Open Source Software, Researchers Argue",
+    "url": "https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/",
+    "author": "Matthew Gault",
+    "linkDate": "2026-02-06T00:00:00Z",
+    "readingLogIssueNumber": 159,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
     "linkId": 1387,
     "title": "Saying \u201CNo\u201D In an Age of Abundance",
     "url": "https://blog.jim-nielsen.com/2026/saying-no/",
