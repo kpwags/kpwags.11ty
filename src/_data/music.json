@@ -4931,6 +4931,69 @@
     ]
   },
   {
+    "musicAlbumId": 262,
+    "title": "Resolutions XV Part 1",
+    "artist": "Dave Hause",
+    "thoughts": "",
+    "coverImageUrl": "https://i.postimg.cc/XNrRcFQM/dave-hause-resolutions-xv-1.jpg",
+    "isTopTen": false,
+    "showOnNowPage": false,
+    "genres": [
+      {
+        "name": "Alternative",
+        "colorCode": "rgb(11, 148, 129)"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Digital",
+        "colorCode": "rgb(102, 59, 177)"
+      }
+    ],
+    "tracks": [
+      {
+        "trackNumber": 1,
+        "title": "Time Will Tell"
+      },
+      {
+        "trackNumber": 2,
+        "title": "Melanin"
+      },
+      {
+        "trackNumber": 3,
+        "title": "C\u0027mon Kid"
+      },
+      {
+        "trackNumber": 4,
+        "title": "Pray for Tucson"
+      },
+      {
+        "trackNumber": 5,
+        "title": "Resolutions"
+      },
+      {
+        "trackNumber": 6,
+        "title": "Prague"
+      },
+      {
+        "trackNumber": 7,
+        "title": "Heavy Heart"
+      },
+      {
+        "trackNumber": 8,
+        "title": "Years from Now"
+      },
+      {
+        "trackNumber": 9,
+        "title": "Rankers \u0026 Rattlers"
+      },
+      {
+        "trackNumber": 10,
+        "title": "Meet Me at the Lanes"
+      }
+    ]
+  },
+  {
     "musicAlbumId": 187,
     "title": "September Haze",
     "artist": "Dave Hause",

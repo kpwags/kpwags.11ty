@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/6pwHNXpd/children-of-memory.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 113,
+      "currentPage": 211,
       "pageCount": 480,
-      "progress": 24,
+      "progress": 44,
       "sortOrder": 22,
       "status": {
         "name": "Reading",
@@ -43,6 +43,47 @@
           "colorCode": "#cd6a29"
         }
       ]
+    },
+    {
+      "bookId": 648,
+      "title": "How to Think Like Socrates",
+      "subTitle": "Ancient Philosophy as a Way of Life in the Modern World",
+      "fullTitle": "How to Think Like Socrates: Ancient Philosophy as a Way of Life in the Modern World",
+      "author": "Donald J. Robertson",
+      "link": "https://bookshop.org/p/books/how-to-think-like-socrates-ancient-philosophy-as-a-way-of-life-in-the-modern-world-donald-j-robertson/4bb0f6ae0feb0ce1",
+      "dateStarted": "2026-02-08T00:00:00Z",
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "https://i.postimg.cc/8PkV3HQN/thinking-like-socrates.jpg",
+      "isAtLibrary": true,
+      "isPurchased": false,
+      "currentPage": 83,
+      "pageCount": 685,
+      "progress": 12,
+      "sortOrder": 32,
+      "status": {
+        "name": "Reading",
+        "colorCode": "#6a208f"
+      },
+      "type": {
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Philosophy",
+          "colorCode": "rgb(9, 58, 78)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Audiobook",
+          "colorCode": "#b300b3"
+        }
+      ]
     }
   ],
   "completed": [
@@ -59,7 +100,7 @@
           "dateStarted": "2026-01-21T00:00:00Z",
           "dateCompleted": "2026-02-03T00:00:00Z",
           "rating": 4,
-          "bookNotesUrl": "",
+          "bookNotesUrl": "chris-miller-chip-war",
           "thoughts": "A fascinating look at the history of computer chips and their geopolitical implications from the Cold War to the present.",
           "coverImageUrl": "https://i.postimg.cc/0NHVc92N/chip-war.jpg",
           "isAtLibrary": true,
