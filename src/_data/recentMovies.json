@@ -1,5 +1,31 @@
 [
   {
+    "movieId": 194,
+    "title": "John Candy: I Like Me",
+    "imdbLink": "https://www.imdb.com/title/tt26683420/",
+    "dateWatched": "2026-02-08T00:00:00Z",
+    "sortOrder": null,
+    "rating": 3,
+    "thoughts": "A look at John Candy\u0027s life that shows how much he affected (in a good way) those who knew him.",
+    "posterImageUrl": "https://i.postimg.cc/RZSYZtk3/john-candy-i-like-me.jpg",
+    "status": {
+      "name": "Watched",
+      "colorCode": "#2a9a39"
+    },
+    "genres": [
+      {
+        "name": "Documentary",
+        "colorCode": "#11659c"
+      }
+    ],
+    "services": [
+      {
+        "name": "Amazon Prime",
+        "colorCode": "#008cb4"
+      }
+    ]
+  },
+  {
     "movieId": 193,
     "title": "Hitman\u0027s Wife\u0027s Bodyguard",
     "imdbLink": "https://www.imdb.com/title/tt8385148/",
