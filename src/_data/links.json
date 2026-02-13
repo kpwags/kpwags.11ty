@@ -1,5 +1,213 @@
 [
   {
+    "linkId": 1405,
+    "title": "Revealed: How Substack makes money from hosting Nazi newsletters",
+    "url": "https://www.theguardian.com/media/2026/feb/07/revealed-how-substack-makes-money-from-hosting-nazi-newsletters",
+    "author": "Geraldine McKelvie",
+    "linkDate": "2026-02-12T00:00:00Z",
+    "readingLogIssueNumber": 160,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "The Internet",
+      "colorCode": "#8b3d15"
+    }
+  },
+  {
+    "linkId": 1406,
+    "title": "Dream Big. Start Small. But Most of All, Start.",
+    "url": "https://dotneteers.net/dream-big-start-small-but-most-of-all-start/",
+    "author": "Peter Smulovics",
+    "linkDate": "2026-02-12T00:00:00Z",
+    "readingLogIssueNumber": 160,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Everything Else",
+      "colorCode": "#921e14"
+    }
+  },
+  {
+    "linkId": 1410,
+    "title": "My Worst Report: Lessons Learned From the Field",
+    "url": "https://blogs.fangraphs.com/my-worst-report-lessons-learned-from-the-field/",
+    "author": "Brendan Gawlowski",
+    "linkDate": "2026-02-12T00:00:00Z",
+    "readingLogIssueNumber": 160,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Sports",
+      "colorCode": "#2d5f6f"
+    }
+  },
+  {
+    "linkId": 1411,
+    "title": "Vibe Coding Is Killing Open Source Software, Researchers Argue",
+    "url": "https://www.404media.co/vibe-coding-is-killing-open-source-software-researchers-argue/",
+    "author": "Matthew Gault",
+    "linkDate": "2026-02-12T00:00:00Z",
+    "readingLogIssueNumber": 160,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1412,
+    "title": "Why I Prefer Avoiding the Async Suffix in C# Asynchronous Methods",
+    "url": "https://www.code4it.dev/blog/code-opinion-async-suffix/",
+    "author": "Davide Bellone",
+    "linkDate": "2026-02-12T00:00:00Z",
+    "readingLogIssueNumber": 160,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1413,
+    "title": "Making foreach on an IEnumerable allocation-free using reflection and dynamic methods",
+    "url": "https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/",
+    "author": "Andrew Lock",
+    "linkDate": "2026-02-12T00:00:00Z",
+    "readingLogIssueNumber": 160,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
+    "linkId": 1414,
+    "title": "Naked Power",
+    "url": "https://infrequently.org/2026/01/naked-power/",
+    "author": "Alex Russell",
+    "linkDate": "2026-02-12T00:00:00Z",
+    "readingLogIssueNumber": 160,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 1415,
+    "title": "How much can a city take?",
+    "url": "https://www.theverge.com/policy/864195/minneapolis-ice-invasion-organizing-immigration",
+    "author": "Scott Meslow",
+    "linkDate": "2026-02-12T00:00:00Z",
+    "readingLogIssueNumber": 160,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
+    }
+  },
+  {
+    "linkId": 1403,
+    "title": "How the sewing machine got us \u2026 software",
+    "url": "https://www.npr.org/2026/02/11/nx-s1-5707856/singer-sewing-machine-patent-pool-antitrust-mpeg",
+    "author": "Planet Money",
+    "linkDate": "2026-02-11T00:00:00Z",
+    "readingLogIssueNumber": 160,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1404,
+    "title": "How Identity Literally Changes What You See (with Samuel Bagg)",
+    "url": "https://www.404media.co/how-identity-literally-changes-what-you-see-with-samuel-bagg/",
+    "author": "404 Media Podcast",
+    "linkDate": "2026-02-11T00:00:00Z",
+    "readingLogIssueNumber": 160,
+    "type": {
+      "name": "Podcast",
+      "colorCode": "#5725a0"
+    },
+    "category": {
+      "name": "Podcasts",
+      "colorCode": "#239f5b"
+    }
+  },
+  {
+    "linkId": 1407,
+    "title": "Creating Your Own Opportunities",
+    "url": "https://terriblesoftware.org/2026/01/05/creating-your-own-opportunities/",
+    "author": "Matheus Lima",
+    "linkDate": "2026-02-11T00:00:00Z",
+    "readingLogIssueNumber": 160,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1408,
+    "title": "The Incredible Overcomplexity of the Shadcn Radio Button",
+    "url": "https://paulmakeswebsites.com/writing/shadcn-radio-button/",
+    "author": "Paul Hebert",
+    "linkDate": "2026-02-11T00:00:00Z",
+    "readingLogIssueNumber": 160,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Web Development",
+      "colorCode": "#27681b"
+    }
+  },
+  {
+    "linkId": 1409,
+    "title": "I Am Not Immune To The Charms Of A Really Big Moon Rocket",
+    "url": "https://defector.com/i-am-not-immune-to-the-charms-of-a-really-big-moon-rocket",
+    "author": "Barry Petchesky",
+    "linkDate": "2026-02-11T00:00:00Z",
+    "readingLogIssueNumber": 160,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
     "linkId": 1397,
     "title": "Time saving / time wasting",
     "url": "https://hidde.blog/time-saving-time-wasting/",
