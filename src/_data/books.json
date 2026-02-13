@@ -15,9 +15,9 @@
       "coverImageUrl": "https://i.postimg.cc/6pwHNXpd/children-of-memory.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 246,
+      "currentPage": 304,
       "pageCount": 480,
-      "progress": 51,
+      "progress": 63,
       "sortOrder": 22,
       "status": {
         "name": "Reading",
@@ -59,9 +59,9 @@
       "coverImageUrl": "https://i.postimg.cc/8PkV3HQN/thinking-like-socrates.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 83,
+      "currentPage": 267,
       "pageCount": 685,
-      "progress": 12,
+      "progress": 39,
       "sortOrder": 32,
       "status": {
         "name": "Reading",
@@ -24803,6 +24803,78 @@
         {
           "name": "Horror",
           "colorCode": "rgb(146, 4, 4)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 649,
+      "title": "The Ship of Death",
+      "subTitle": "",
+      "fullTitle": "The Ship of Death",
+      "author": "Kyle Winkler",
+      "link": "https://bookshop.org/p/books/the-ship-of-death-a-novel-kyle-winkler/520197a9cfa11145",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3280,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Horror",
+          "colorCode": "rgb(146, 4, 4)"
+        }
+      ],
+      "formats": []
+    },
+    {
+      "bookId": 650,
+      "title": "The Subtle Art of Folding Space",
+      "subTitle": "",
+      "fullTitle": "The Subtle Art of Folding Space",
+      "author": "John Chu",
+      "link": "https://bookshop.org/p/books/the-subtle-art-of-folding-space-john-chu/82fa36c6edeab94d",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": false,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3290,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
         }
       ],
       "formats": []
