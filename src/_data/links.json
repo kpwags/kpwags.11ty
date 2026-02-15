@@ -1,5 +1,37 @@
 [
   {
+    "linkId": 1417,
+    "title": "Permission to Experiment Granted",
+    "url": "https://bartwullems.blogspot.com/2026/01/permission-to-experiment-granted.html",
+    "author": "Bart Wullems",
+    "linkDate": "2026-02-15T00:00:00Z",
+    "readingLogIssueNumber": 160,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1416,
+    "title": "An AI Agent Published a Hit Piece on Me",
+    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+    "author": "Scott Shambaugh",
+    "linkDate": "2026-02-13T00:00:00Z",
+    "readingLogIssueNumber": 160,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
     "linkId": 1405,
     "title": "Revealed: How Substack makes money from hosting Nazi newsletters",
     "url": "https://www.theguardian.com/media/2026/feb/07/revealed-how-substack-makes-money-from-hosting-nazi-newsletters",

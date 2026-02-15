@@ -1,46 +1,47 @@
 {
   "inProgress": [
     {
-      "bookId": 644,
-      "title": "Children of Memory",
-      "subTitle": "",
-      "fullTitle": "Children of Memory",
-      "author": "Adrian Tchaikovsky",
-      "link": "https://bookshop.org/p/books/children-of-memory-adrian-tchaikovsky/2bdd73055c954a77",
-      "dateStarted": "2026-02-01T00:00:00Z",
+      "bookId": 77,
+      "title": "Blood in the Machine",
+      "subTitle": "The Origins of the Rebellion Against Big Tech",
+      "fullTitle": "Blood in the Machine: The Origins of the Rebellion Against Big Tech",
+      "author": "Brian Merchant",
+      "link": "https://bookshop.org/p/books/blood-in-the-machine-the-origins-of-the-rebellion-against-big-tech-brian-merchant/17824365?ean=9780316487740",
+      "dateStarted": "2026-02-14T00:00:00Z",
       "dateCompleted": null,
       "rating": 0,
       "bookNotesUrl": "",
       "thoughts": "",
-      "coverImageUrl": "https://i.postimg.cc/6pwHNXpd/children-of-memory.jpg",
+      "coverImageUrl": "https://i.postimg.cc/SQc6Jggs/blood-in-the-machine.jpg",
       "isAtLibrary": false,
       "isPurchased": true,
-      "currentPage": 304,
-      "pageCount": 480,
-      "progress": 63,
-      "sortOrder": 22,
+      "currentPage": 28,
+      "pageCount": 412,
+      "progress": 7,
+      "sortOrder": 1,
       "status": {
         "name": "Reading",
         "colorCode": "#6a208f"
       },
       "type": {
-        "name": "Fiction",
-        "colorCode": "#1d3c8c"
+        "name": "Non-Fiction",
+        "colorCode": "#244c43"
       },
-      "series": {
-        "name": "Children of Time",
-        "colorCode": "#03229b"
-      },
+      "series": null,
       "genres": [
         {
-          "name": "Science Fiction",
-          "colorCode": "rgb(102, 119, 2)"
+          "name": "Politics",
+          "colorCode": "rgb(130, 40, 40)"
+        },
+        {
+          "name": "Technology",
+          "colorCode": "rgb(55, 78, 146)"
         }
       ],
       "formats": [
         {
-          "name": "Paperback",
-          "colorCode": "#cd6a29"
+          "name": "Hardcover",
+          "colorCode": "#a0175f"
         }
       ]
     },
@@ -59,9 +60,9 @@
       "coverImageUrl": "https://i.postimg.cc/8PkV3HQN/thinking-like-socrates.jpg",
       "isAtLibrary": true,
       "isPurchased": false,
-      "currentPage": 267,
+      "currentPage": 309,
       "pageCount": 685,
-      "progress": 39,
+      "progress": 45,
       "sortOrder": 32,
       "status": {
         "name": "Reading",
@@ -90,6 +91,50 @@
     {
       "year": "2026",
       "books": [
+        {
+          "bookId": 644,
+          "title": "Children of Memory",
+          "subTitle": "",
+          "fullTitle": "Children of Memory",
+          "author": "Adrian Tchaikovsky",
+          "link": "https://bookshop.org/p/books/children-of-memory-adrian-tchaikovsky/2bdd73055c954a77",
+          "dateStarted": "2026-02-01T00:00:00Z",
+          "dateCompleted": "2026-02-13T00:00:00Z",
+          "rating": 4,
+          "bookNotesUrl": "",
+          "thoughts": "Another fantastic book in the series. The speculative science-y parts so often add a neat aspect to things.",
+          "coverImageUrl": "https://i.postimg.cc/6pwHNXpd/children-of-memory.jpg",
+          "isAtLibrary": false,
+          "isPurchased": true,
+          "currentPage": 480,
+          "pageCount": 480,
+          "progress": 100,
+          "sortOrder": 22,
+          "status": {
+            "name": "Finished",
+            "colorCode": "#0e6532"
+          },
+          "type": {
+            "name": "Fiction",
+            "colorCode": "#1d3c8c"
+          },
+          "series": {
+            "name": "Children of Time",
+            "colorCode": "#03229b"
+          },
+          "genres": [
+            {
+              "name": "Science Fiction",
+              "colorCode": "rgb(102, 119, 2)"
+            }
+          ],
+          "formats": [
+            {
+              "name": "Paperback",
+              "colorCode": "#cd6a29"
+            }
+          ]
+        },
         {
           "bookId": 413,
           "title": "Chip War",
@@ -15356,51 +15401,6 @@
       ]
     },
     {
-      "bookId": 77,
-      "title": "Blood in the Machine",
-      "subTitle": "The Origins of the Rebellion Against Big Tech",
-      "fullTitle": "Blood in the Machine: The Origins of the Rebellion Against Big Tech",
-      "author": "Brian Merchant",
-      "link": "https://bookshop.org/p/books/blood-in-the-machine-the-origins-of-the-rebellion-against-big-tech-brian-merchant/17824365?ean=9780316487740",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": true,
-      "currentPage": 1,
-      "pageCount": 0,
-      "progress": 0,
-      "sortOrder": 180,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Politics",
-          "colorCode": "rgb(130, 40, 40)"
-        },
-        {
-          "name": "Technology",
-          "colorCode": "rgb(55, 78, 146)"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Hardcover",
-          "colorCode": "#a0175f"
-        }
-      ]
-    },
-    {
       "bookId": 576,
       "title": "Cryptonomicon",
       "subTitle": "",
@@ -24552,42 +24552,6 @@
       "formats": []
     },
     {
-      "bookId": 617,
-      "title": "Every Day Is Sunday",
-      "subTitle": "How Jerry Jones, Robert Kraft, and Roger Goodell Turned the NFL into a Cultural \u0026 Economic Juggernaut",
-      "fullTitle": "Every Day Is Sunday: How Jerry Jones, Robert Kraft, and Roger Goodell Turned the NFL into a Cultural \u0026 Economic Juggernaut",
-      "author": "Ken Belson",
-      "link": "https://bookshop.org/p/books/every-day-is-sunday-how-jerry-jones-robert-kraft-and-roger-goodell-turned-the-nfl-into-a-cultural-economic-juggernaut-ken-belson/acf6b3176c03e34a",
-      "dateStarted": null,
-      "dateCompleted": null,
-      "rating": 0,
-      "bookNotesUrl": "",
-      "thoughts": "",
-      "coverImageUrl": "",
-      "isAtLibrary": false,
-      "isPurchased": false,
-      "currentPage": 1,
-      "pageCount": 1,
-      "progress": 100,
-      "sortOrder": 3200,
-      "status": {
-        "name": "To Read",
-        "colorCode": "#313ca2"
-      },
-      "type": {
-        "name": "Non-Fiction",
-        "colorCode": "#244c43"
-      },
-      "series": null,
-      "genres": [
-        {
-          "name": "Sports",
-          "colorCode": "rgb(0, 80, 20)"
-        }
-      ],
-      "formats": []
-    },
-    {
       "bookId": 628,
       "title": "World Eaters",
       "subTitle": "How Venture Capital is Cannibalizing the Economy",
@@ -24878,6 +24842,806 @@
         }
       ],
       "formats": []
+    },
+    {
+      "bookId": 651,
+      "title": "#Selfcare",
+      "subTitle": "",
+      "fullTitle": "#Selfcare",
+      "author": "Annalee Newitz",
+      "link": "https://bookshop.org/p/books/selfcare-a-tor-com-original-annalee-newitz/bbaeaec0a12b151c",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3300,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Fantasy",
+          "colorCode": "rgb(172, 152, 5)"
+        },
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 652,
+      "title": "All the Birds in the Sky",
+      "subTitle": "",
+      "fullTitle": "All the Birds in the Sky",
+      "author": "Charlie Jane Anders",
+      "link": "https://bookshop.org/p/books/all-the-birds-in-the-sky-charlie-jane-anders/e069ad9097c7ee63",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3310,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Fantasy",
+          "colorCode": "rgb(172, 152, 5)"
+        },
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 653,
+      "title": "As Good As New",
+      "subTitle": "",
+      "fullTitle": "As Good As New",
+      "author": "Charlie Jane Anders",
+      "link": "https://bookshop.org/p/books/as-good-as-new-a-tor-com-original-charlie-jane-anders/5aee62a8d19a03c5",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3320,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 654,
+      "title": "Clover",
+      "subTitle": "",
+      "fullTitle": "Clover",
+      "author": "Charlie Jane Anders",
+      "link": "https://bookshop.org/p/books/clover-a-tor-com-original-charlie-jane-anders/9f2c9f0848beb505",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3330,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Fantasy",
+          "colorCode": "rgb(172, 152, 5)"
+        },
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 655,
+      "title": "Victories Greater Than Death",
+      "subTitle": "",
+      "fullTitle": "Victories Greater Than Death",
+      "author": "Charlie Jane Anders",
+      "link": "https://bookshop.org/p/books/victories-greater-than-death-charlie-jane-anders/890304fb9f988497",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3340,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "Unstoppable",
+        "colorCode": "#932092"
+      },
+      "genres": [
+        {
+          "name": "Fantasy",
+          "colorCode": "rgb(172, 152, 5)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 656,
+      "title": "Dreams Bigger Than Heartbreak",
+      "subTitle": "",
+      "fullTitle": "Dreams Bigger Than Heartbreak",
+      "author": "Charlie Jane Anders",
+      "link": "https://bookshop.org/p/books/dreams-bigger-than-heartbreak-charlie-jane-anders/63283cad0005154d",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3350,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "Unstoppable",
+        "colorCode": "#932092"
+      },
+      "genres": [
+        {
+          "name": "Fantasy",
+          "colorCode": "rgb(172, 152, 5)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 657,
+      "title": "Promises Stronger Than Darkness",
+      "subTitle": "",
+      "fullTitle": "Promises Stronger Than Darkness",
+      "author": "Charlie Jane Anders",
+      "link": "https://bookshop.org/p/books/promises-stronger-than-darkness-charlie-jane-anders/01204edd409b64ef",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3360,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": {
+        "name": "Unstoppable",
+        "colorCode": "#932092"
+      },
+      "genres": [
+        {
+          "name": "Fantasy",
+          "colorCode": "rgb(172, 152, 5)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 658,
+      "title": "Even Greater Mistakes",
+      "subTitle": "",
+      "fullTitle": "Even Greater Mistakes",
+      "author": "Charlie Jane Anders",
+      "link": "https://bookshop.org/p/books/even-greater-mistakes-stories-charlie-jane-anders/534c9cca2e88b8ac",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3370,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 659,
+      "title": "If You Take My Meaning",
+      "subTitle": "",
+      "fullTitle": "If You Take My Meaning",
+      "author": "Charlie Jane Anders",
+      "link": "https://bookshop.org/p/books/if-you-take-my-meaning-a-tor-com-original-charlie-jane-anders/c048f00d16511d59",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3380,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 660,
+      "title": "Intestate",
+      "subTitle": "",
+      "fullTitle": "Intestate",
+      "author": "Charlie Jane Anders",
+      "link": "https://bookshop.org/p/books/intestate-a-tor-com-original-charlie-jane-anders/101b84511be9aa5e",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3390,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 661,
+      "title": "Never Say You Can\u0027t Survive",
+      "subTitle": "How to Get Through Hard Times By Making Up Stories",
+      "fullTitle": "Never Say You Can\u0027t Survive: How to Get Through Hard Times By Making Up Stories",
+      "author": "Charlie Jane Anders",
+      "link": "https://bookshop.org/p/books/never-say-you-can-t-survive-how-to-get-through-hard-times-by-making-up-stories-charlie-jane-anders/b994df2cd2ba935f",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3400,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Self Help",
+          "colorCode": "rgb(75, 61, 190)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 662,
+      "title": "Old Media",
+      "subTitle": "",
+      "fullTitle": "Old Media",
+      "author": "Annalee Newitz",
+      "link": "https://bookshop.org/p/books/old-media-a-tor-com-original-annalee-newitz/c2d3efa7b544313e",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3410,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 663,
+      "title": "Six Months, Three Days",
+      "subTitle": "",
+      "fullTitle": "Six Months, Three Days",
+      "author": "Charlie Jane Anders",
+      "link": "https://bookshop.org/p/books/six-months-three-days-a-tor-com-original-charlie-jane-anders/a159c09dbab220d6",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3420,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 664,
+      "title": "The Cartography of Sudden Death",
+      "subTitle": "",
+      "fullTitle": "The Cartography of Sudden Death",
+      "author": "Charlie Jane Anders",
+      "link": "https://bookshop.org/p/books/the-cartography-of-sudden-death-a-tor-com-original-charlie-jane-anders/92630302cfd5fdfc",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3430,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 665,
+      "title": "The Fermi Paradox is Our Business Model",
+      "subTitle": "",
+      "fullTitle": "The Fermi Paradox is Our Business Model",
+      "author": "Charlie Jane Anders",
+      "link": "https://bookshop.org/p/books/the-fermi-paradox-is-our-business-model-a-tor-com-original-charlie-jane-anders/ed43a714eac44f83",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3440,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 666,
+      "title": "The Future of Another Timeline",
+      "subTitle": "",
+      "fullTitle": "The Future of Another Timeline",
+      "author": "Annalee Newitz",
+      "link": "https://bookshop.org/p/books/the-future-of-another-timeline-annalee-newitz/391c8dbe2dc503cf",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3450,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 667,
+      "title": "Lessons in Magic and Disaster",
+      "subTitle": "",
+      "fullTitle": "Lessons in Magic and Disaster",
+      "author": "Charlie Jane Anders",
+      "link": "https://bookshop.org/p/books/lessons-in-magic-and-disaster-charlie-jane-anders/91a53d2d8cf035ef",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3460,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Fantasy",
+          "colorCode": "rgb(172, 152, 5)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 668,
+      "title": "Autonomous",
+      "subTitle": "",
+      "fullTitle": "Autonomous",
+      "author": "Annalee Newitz",
+      "link": "https://bookshop.org/p/books/autonomous-a-novel-annalee-newitz/2aef20994294838a",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3470,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
+    },
+    {
+      "bookId": 669,
+      "title": "The City in the Middle of the Night",
+      "subTitle": "",
+      "fullTitle": "The City in the Middle of the Night",
+      "author": "Charlie Jane Anders",
+      "link": "https://bookshop.org/p/books/the-city-in-the-middle-of-the-night-charlie-jane-anders/e7b5d7a776059978?",
+      "dateStarted": null,
+      "dateCompleted": null,
+      "rating": 0,
+      "bookNotesUrl": "",
+      "thoughts": "",
+      "coverImageUrl": "",
+      "isAtLibrary": false,
+      "isPurchased": true,
+      "currentPage": 1,
+      "pageCount": 1,
+      "progress": 100,
+      "sortOrder": 3480,
+      "status": {
+        "name": "To Read",
+        "colorCode": "#313ca2"
+      },
+      "type": {
+        "name": "Fiction",
+        "colorCode": "#1d3c8c"
+      },
+      "series": null,
+      "genres": [
+        {
+          "name": "Science Fiction",
+          "colorCode": "rgb(102, 119, 2)"
+        }
+      ],
+      "formats": [
+        {
+          "name": "eBook",
+          "colorCode": "#2c5813"
+        }
+      ]
     }
   ]
 }
