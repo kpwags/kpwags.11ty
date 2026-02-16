@@ -1,0 +1,63 @@
+export const config = {
+	rootUrl: 'http://192.168.1.232:3010',
+	outputDirectory: {
+		linux: '/home/keith/Desktop/Temporary',
+		mac: '/Users/keith/Desktop/Temporary/scaffolder',
+	},
+	outputFolders: {
+		blog: 'posts',
+		note: 'notes',
+		bookNote: 'booknotes',
+		readingLog: 'readinglogs',
+		weekNote: 'weeknotes',
+	},
+	prompts:  {
+		blog: [
+			{ 
+				prompt: 'Is this post RSS Only?',
+				propertyName: 'rss_only',
+				promptType: 'bool',
+				defaultValue: 'no',
+			},
+			{ 
+				prompt: 'Pin this post?',
+				propertyName: 'pinned',
+				promptType: 'bool',
+				defaultValue: 'no',
+			},
+			{ 
+				prompt: 'Does his post contain spoilers?',
+				propertyName: 'spoilers',
+				promptType: 'bool',
+				defaultValue: 'no',
+			},
+		],
+		note: [],
+		bookNote: [],
+	},
+	readingLogCategories: [
+		'.NET',
+		'Web Development',
+		'General Development',
+		'Design',
+		'The Internet',
+		'Technology',
+		'Cybersecurity',
+		'AI',
+		'Science',
+		'Space',
+		'Climate Change',
+		'Gaming',
+		'Business & Finance',
+		'Economics',
+		'Sports',
+		'Health & Fitness',
+		'Podcasts',
+		'Media & Entertainment',
+		'Longform',
+		'Journalism',
+		'History',
+		'Politics',
+		'Everything Else',
+	]
+}
