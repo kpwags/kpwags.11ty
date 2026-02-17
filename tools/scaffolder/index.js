@@ -104,7 +104,7 @@ const buildUrlSlug = (title) => {
 const getAdditionalPromptResponse = async (prompt) => {
 	switch (prompt.promptType) {
 		case 'bool':
-			return await readUserInputBoolean(`${prompt.prompt}`, prompt.defaultValue);
+			return await readUserInputBoolean(` ${prompt.prompt}`, prompt.defaultValue);
 
 		default:
 			throw new Error(`Invalid Prompt Type (${prompt.promptType})`);
