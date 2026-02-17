@@ -1123,6 +1123,7 @@ section.links .links-list li .category span.tag {
 	border-radius: 2px;
 	align-self: center;
 	font-size: 0.75rem;
+	color: oklch(100% 0 0);
 }
 
 section.links .links-list li .category span.tag.type {
