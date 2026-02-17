@@ -1,5 +1,21 @@
 [
   {
+    "linkId": 1420,
+    "title": ".NET 11 Preview 1 is now available!",
+    "url": "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/",
+    "author": ".NET Team",
+    "linkDate": "2026-02-16T00:00:00Z",
+    "readingLogIssueNumber": 160,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": ".NET",
+      "colorCode": "#5725a0"
+    }
+  },
+  {
     "linkId": 1417,
     "title": "Permission to Experiment Granted",
     "url": "https://bartwullems.blogspot.com/2026/01/permission-to-experiment-granted.html",
@@ -13,6 +29,38 @@
     "category": {
       "name": "General Development",
       "colorCode": "#4a468a"
+    }
+  },
+  {
+    "linkId": 1418,
+    "title": "This SpaceX Situation: Not Good!",
+    "url": "https://www.404media.co/this-spacex-situation-not-good/",
+    "author": "Jason Koebler",
+    "linkDate": "2026-02-15T00:00:00Z",
+    "readingLogIssueNumber": 160,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Space",
+      "colorCode": "#2c0d18"
+    }
+  },
+  {
+    "linkId": 1419,
+    "title": "ICE is pushing Minneapolis underground",
+    "url": "https://www.theverge.com/policy/877106/minneapolis-ice-cbp-occupation-immigration-raid-mutual-aid?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InpUak1rcEJuTWkiLCJwIjoiL3BvbGljeS84NzcxMDYvbWlubmVhcG9saXMtaWNlLWNicC1vY2N1cGF0aW9uLWltbWlncmF0aW9uLXJhaWQtbXV0dWFsLWFpZCIsImV4cCI6MTc3MTYzOTU1MywiaWF0IjoxNzcxMjA3NTUzfQ.xDtVnSKbtj7kBEFRMTiTmgVVTUfBlTDko7gKwVzh0F4\u0026utm_medium=gift-link",
+    "author": "Gaby Del Valle",
+    "linkDate": "2026-02-15T00:00:00Z",
+    "readingLogIssueNumber": 160,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Politics",
+      "colorCode": "#8b642f"
     }
   },
   {

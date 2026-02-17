@@ -11,7 +11,7 @@
     "debugstart": "DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
     "benchmark": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy",
     "start": "bash ./scripts/generator.sh && npx @11ty/eleventy --serve",
-    "scaffold": "bash ./scripts/scaffolder.sh"
+    "scaffold": "node ./tools/scaffolder/index.js"
   },
   "keywords": [],
   "author": "",
