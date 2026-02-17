@@ -1,8 +1,11 @@
 export const config = {
 	rootUrl: 'http://192.168.1.232:3010',
 	outputDirectory: {
-		linux: '/home/keith/Desktop/Temporary',
-		mac: '/Users/keith/Desktop/Temporary/scaffolder',
+		linux: '/home/keith/Developer/kpwags.com/src/content',
+		mac: '/Users/keith/Developer/kpwags.com/src/content',
+		// for testing
+		// linux: '/home/keith/Desktop/Temporary',
+		// mac: '/Users/keith/Desktop/Temporary/scaffolder',
 	},
 	outputFolders: {
 		blog: 'posts',

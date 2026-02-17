@@ -325,6 +325,10 @@ const getReadingLogContentMarkdown = (data) => {
 				readingLogContent = `${readingLogContent}
 ${getLinkMarkdown(link)}`;
 			}
+
+			readingLogContent = `${readingLogContent}
+			
+---`;
 		}
 	}
 
@@ -356,6 +360,8 @@ tags:
 ---
 Excerpt
 <!-- excerpt -->
+
+---
 
 ${readingLogMarkdown}
 
