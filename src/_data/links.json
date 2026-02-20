@@ -1,5 +1,53 @@
 [
   {
+    "linkId": 1421,
+    "title": "Underground Facial Recognition Tool Unmasks Camgirls",
+    "url": "https://www.404media.co/underground-facial-recognition-tool-unmasks-camgirls/",
+    "author": "Joseph Cox",
+    "linkDate": "2026-02-17T00:00:00Z",
+    "readingLogIssueNumber": 161,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "Technology",
+      "colorCode": "#273fd2"
+    }
+  },
+  {
+    "linkId": 1422,
+    "title": "\u0027Students Are Being Treated Like Guinea Pigs:\u0027 Inside an AI-Powered Private School",
+    "url": "https://www.404media.co/students-are-being-treated-like-guinea-pigs-inside-an-ai-powered-private-school/",
+    "author": "Emanuel Maiberg",
+    "linkDate": "2026-02-17T00:00:00Z",
+    "readingLogIssueNumber": 161,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "AI",
+      "colorCode": "#7c2a00"
+    }
+  },
+  {
+    "linkId": 1423,
+    "title": "7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript",
+    "url": "https://github.blog/developer-skills/programming-languages-and-frameworks/7-learnings-from-anders-hejlsberg-the-architect-behind-c-and-typescript/",
+    "author": "Aaron Winston",
+    "linkDate": "2026-02-17T00:00:00Z",
+    "readingLogIssueNumber": 161,
+    "type": {
+      "name": "Link",
+      "colorCode": "#009b8f"
+    },
+    "category": {
+      "name": "General Development",
+      "colorCode": "#4a468a"
+    }
+  },
+  {
     "linkId": 1420,
     "title": ".NET 11 Preview 1 is now available!",
     "url": "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/",

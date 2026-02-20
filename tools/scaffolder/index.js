@@ -32,7 +32,7 @@ const writeHeader = (text) => {
 
 const writeSuccess = (text) => {
 	console.log('');
-	console.log('\x1b[32m' + text + '\x1b[0m');
+	console.log('\x1b[32m ' + text + '\x1b[0m');
 	console.log('');
 }
 
@@ -274,7 +274,6 @@ tags:
   - ${author}
 ${noteTags}
 ---
-
 `;
 
 	const outputFolder = `${outputDirectory}/${config.outputFolders.note}/${new Date().getFullYear()}`;
