@@ -33,7 +33,7 @@ const writeSuccess = (text) => {
 const populate = async () => {
 	console.log('');
 	console.log('----------------------------------------');
-	console.log(` kpwags.com Populator (v1.0.0)`);
+	console.log(` kpwags.com Populator (v${config.build})`);
 	console.log('----------------------------------------');
 	console.log('');
 

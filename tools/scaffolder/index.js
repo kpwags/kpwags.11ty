@@ -48,7 +48,7 @@ const readLineAsync = (prompt) => {
 };
 
 const readLineStringDefault = async (prompt, defaultValue) => {
-	let response = await readLineAsync(`${prompt} (${defaultValue}): `);
+	let response = await readLineAsync(` ${prompt} (${defaultValue}): `);
 
 	if (response.trim() === '') {
 		response = defaultValue;
@@ -623,7 +623,7 @@ Excerpt
 const scaffold = async () => {
 	console.log('');
 	console.log('----------------------------------------');
-	console.log(` kpwags.com Scaffolder (v1.0.0)`);
+	console.log(` kpwags.com Scaffolder (v${config.build})`);
 	console.log('----------------------------------------');
 	console.log('');
 	console.log('----------------------------------------');
