@@ -1,8 +1,9 @@
-import pjson from './package.json' with { type: 'json' };
 import fs from 'node:fs';
 import { config } from './config.js';
 import { populateBooks } from './books.js';
 import { populateLinks } from './links.js';
+import { populateMovies } from './movies.js';
+import { populateMusic } from './music.js';
 import { populatePodcasts } from './podcasts.js';
 import { populateTelevision } from './tv.js';
 import { populateVideoGames } from './videoGames.js';
@@ -32,20 +33,18 @@ const writeSuccess = (text) => {
 const populate = async () => {
 	console.log('');
 	console.log('----------------------------------------');
-	console.log(` kpwags.com Populator (v${pjson.version})`);
+	console.log(` kpwags.com Populator (v1.0.0)`);
 	console.log('----------------------------------------');
 	console.log('');
 
 	try {
 		await populateBooks();
 		await populateLinks();
-		// TODO: Movies
-		// TODO: Recent Movies
+		await populateMovies();
 		await populatePodcasts();
 		await populateTelevision();
 		await populateVideoGames();
-		// TODO: Music
-		// TODO: Recent Music
+		await populateMusic();
 
 		writeSuccess(`JSON Download Complete`);
 	} catch (e) {

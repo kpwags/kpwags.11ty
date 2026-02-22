@@ -1,7 +1,64 @@
 import { config } from './config.js';
 import { Api } from './api.js';
 import { replaceFile } from './io.js';
-import { getUniqueItems } from './utillities.js';
+import { getUniqueItems, sortAlphabetically, sortByDate, sortNumerically } from './utillities.js';
+
+const trimJson = (book) => ({
+	bookId: book.bookId,
+	title: book.title,
+	subTitle: book.subTitle,
+	fullTitle: book.fullTitle,
+	author: book.author,
+	link: book.link,
+	dateStarted: book.dateStarted,
+	dateCompleted: book.dateCompleted,
+	rating: book.rating,
+	bookNotesUrl: book.bookNotesUrl,
+	thoughts: book.thoughts,
+	coverImageUrl: book.coverImageUrl,
+	isAtLibrary: book.isAtLibrary,
+	isPurchased: book.isPurchased,
+	currentPage: book.currentPage,
+	pageCount: book.pageCount,
+	progress: book.progress,
+	sortOrder: book.sortOrder,
+	status: {
+		name: book.status.name,
+		colorCode: book.status.colorCode,
+	},
+	type: {
+		name: book.type.name,
+		colorCode: book.type.colorCode,
+	},
+	series: book.series ? {
+		name: book.series.name,
+		colorCode: book.series.colorCode,
+	} : null,
+	genres: book.genres.map((g) => ({
+		name: g.name,
+		colorCode: g.colorCode,
+	})),
+	formats: book.formats.map((f) => ({
+		name: f.name,
+		colorCode: f.colorCode,
+	})),
+});
+
+const groupBooksByYear = (books) => {
+	const allYears = books.map((b) => new Date(b.dateCompleted).getFullYear());
+	const years = getUniqueItems(allYears);
+
+	const finished = [];
+
+	for (const year of years) {
+		finished.push({
+			year,
+			books: books.filter((b) => new Date(b.dateCompleted).getFullYear() === year),
+		});
+	}
+
+	return finished;
+};
 
 const populateAuthors = async (books) => {
 	console.log('Populating Authors');
@@ -14,7 +71,7 @@ const populateAuthors = async (books) => {
 	for (const author of authors) {
 		const authorBooks = books
 			.filter((b) => b.author === author)
-			.sort((a, b) => new Date(a.dateCompleted) - new Date(b.dateCompleted));
+			.sort((a, b) => sortByDate(a.dateCompleted, b.dateCompleted, 'ASC'));
 
 		authorJson.push({
 			name: author,
@@ -30,20 +87,20 @@ const populateBookJson = async (books) => {
 
 	const backlog = books
 		.filter((b) => b.status.name === 'To Read')
-		.sort((a, b) => a.sortOrder - b.sortOrder);
+		.sort((a, b) => sortNumerically(a.sortOrder, b.sortOrder));
 
 	const inProgress = books
 		.filter((b) => b.status.name === 'Reading')
-		.sort((a, b) => a.fullTitle.localeCompare(b.fullTitle));
+		.sort((a, b) => sortAlphabetically(a.fullTitle, b.fullTitle));
 
 	const finished = books
 		.filter((b) => b.status.name === 'Finished')
-		.sort((a, b) => new Date(a.dateCompleted) - new Date(b.dateCompleted));
+		.sort((a, b) => sortByDate(a.dateCompleted, b.dateCompleted, 'DESC'));
 
 	const bookJson = {
-		inProgress,
-		complated: finished,
-		toRead: backlog,
+		inProgress: inProgress.map((b) => trimJson(b)),
+		completed: groupBooksByYear(finished.map((b) => trimJson(b))),
+		toRead: backlog.map((b) => trimJson(b)),
 	};
 
 	await replaceFile('books.json', JSON.stringify(bookJson, null, "\t"));

@@ -1,7 +1,18 @@
 import { config } from './config.js';
 import { Api } from './api.js';
 import { replaceFile } from './io.js';
-import { getUniqueItems } from './utillities.js';
+import { getUniqueItems, sortByTitle } from './utillities.js';
+
+const trimJson = (podcast) => ({
+	podcastId: podcast.podcastId,
+	name: podcast.name,
+	link: podcast.link,
+	coverImageUrl: podcast.coverImageUrl,
+	category: {
+		name: podcast.category.name,
+		colorCode: podcast.category.colorCode,
+	},
+});
 
 export const populatePodcasts = async () => {
 	console.log('Populating Podcasts');
@@ -19,7 +30,8 @@ export const populatePodcasts = async () => {
 	for (const category of categories) {
 		const podcasts = data
 			.filter((p) => p.category.name === category)
-			.sort((a, b) => a.name.localeCompare(b.name));
+			.sort((a, b) => sortByTitle(a.name, b.name))
+			.map((p) => trimJson(p));
 
 		podcastJson.push({ name: category, podcasts });
 	}

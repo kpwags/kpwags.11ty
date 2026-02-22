@@ -1,0 +1,902 @@
+[
+	{
+		"musicAlbumId": 262,
+		"title": "Resolutions XV Part 1",
+		"artist": "Dave Hause",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/XNrRcFQM/dave-hause-resolutions-xv-1.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Sun, 08 Feb 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Time Will Tell"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Melanin"
+			},
+			{
+				"trackNumber": 3,
+				"title": "C'mon Kid"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Pray for Tucson"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Resolutions"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Prague"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Heavy Heart"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Years from Now"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Rankers & Rattlers"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Meet Me at the Lanes"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 253,
+		"title": "War All the Time (Live)",
+		"artist": "Thursday",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/3J4bWgt5/thursday-war-all-the-time-live.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 06 Feb 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Live Albums",
+				"colorCode": "rgb(92, 19, 162)"
+			},
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "For the Workforce, Drowning"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Between the Rapture and Rupture"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Division St."
+			},
+			{
+				"trackNumber": 4,
+				"title": "Signals Over the Air"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Marches and Maneuvers"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Asleep in the Chapel"
+			},
+			{
+				"trackNumber": 7,
+				"title": "This Song Brought to You By a Falling Bomb"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Steps Ascending"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Wall All the Time"
+			},
+			{
+				"trackNumber": 10,
+				"title": "M. Shepard"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Tomorrow I'll Be You"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 254,
+		"title": "Hold On, Dodge",
+		"artist": "The Menzingers",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/3J4bWgn6/menzingers-hold-on-dodge.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 06 Feb 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Sunday Morning"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Lilith Avi"
+			},
+			{
+				"trackNumber": 3,
+				"title": "They Speak of My Drinking, But Never of My Thirst"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Red, White, and Blues"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Kentucky Gentlemen"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 255,
+		"title": "Things Change",
+		"artist": "American Aquarium",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/05HB8t01/american-aquarium-things-change.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 06 Feb 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Country",
+				"colorCode": "rgb(120, 74, 0)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "The World is on Fire"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Crooked+Straight"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Tough Folks"
+			},
+			{
+				"trackNumber": 4,
+				"title": "When We Were Younger Men"
+			},
+			{
+				"trackNumber": 5,
+				"title": "One Day at a Time"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Things Change"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Work Conquers All"
+			},
+			{
+				"trackNumber": 8,
+				"title": "I Gave Up the Drinking (Before She Gave Up on Me)"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Shadows of You"
+			},
+			{
+				"trackNumber": 10,
+				"title": "'Til the Final Curtain Falls"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 256,
+		"title": "Antique Hearts: Revisited",
+		"artist": "American Aquarium",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/1RYj9Wck/american-aquarium-antique-hearts-revisited.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 06 Feb 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Country",
+				"colorCode": "rgb(120, 74, 0)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Antique Hearts"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Savior"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Anne Marie"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Big City"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Califronia"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Dandelions"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Ain't No Use in Tryin'"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Tellin' A Lie"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 257,
+		"title": "Slappers, Bangers & Certified Twangers: Volume One",
+		"artist": "American Aquarium",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/bYFBz69c/american-aquarium-slappers-vol-1.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 06 Feb 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Country",
+				"colorCode": "rgb(120, 74, 0)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Queen of My Double Wide Trailer"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Some Girls Do"
+			},
+			{
+				"trackNumber": 3,
+				"title": "I Try to Think About Elvis"
+			},
+			{
+				"trackNumber": 4,
+				"title": "She's in Love With the Boy"
+			},
+			{
+				"trackNumber": 5,
+				"title": "John Deere Green"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Wild One"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Lost and Found"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Down at the Twist and Shout"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Heads Carolina, Tails California"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Should've Been a Cowboy"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 258,
+		"title": "My Best Impression of Being Okay",
+		"artist": "Lax Poetic",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/pXh1yDqc/lax-poetic-best-impression.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 06 Feb 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Stockholm Syndrome"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Don't Spook the Rabbit"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Kitchen Nightmares"
+			},
+			{
+				"trackNumber": 4,
+				"title": "\"Have I Ever Told You Guys the Story About My Triple Play?\""
+			}
+		]
+	},
+	{
+		"musicAlbumId": 259,
+		"title": "Lessons that We Swear to Keep",
+		"artist": "Free Throw",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/9XNnWxY3/free-throw-lessons.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 06 Feb 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "A Part is Better than Zero"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Spacer's Choice"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Relacing Leene's Bell"
+			},
+			{
+				"trackNumber": 4,
+				"title": "The Museum of Orphaned Concepts"
+			},
+			{
+				"trackNumber": 5,
+				"title": "So Yeah, So"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Thanks for Asking"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Into the Wind Stream"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Joy Ephemeral"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Cinnabar Island"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Tips for Safe Travels"
+			},
+			{
+				"trackNumber": 11,
+				"title": "What Comes Around is All Around"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 260,
+		"title": "Stovall",
+		"artist": "Microwave",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/VLrH5jDV/microwave-stovall.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 06 Feb 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Stovall"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Grass Stains"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Labor Day"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Something Right"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Mansion in the Sky"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Trash Stains"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Work it Out"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Tar"
+			},
+			{
+				"trackNumber": 9,
+				"title": "The Last"
+			},
+			{
+				"trackNumber": 10,
+				"title": "The Fever"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 261,
+		"title": "Let's Start Degeneracy",
+		"artist": "Microwave",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/hPz3h9p3/microwave-lets-start-degeneracy.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 06 Feb 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Portals"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Ferrari"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Circling the Drain"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Bored of Being Sad"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Straw Hat"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Let's Start Degeneracy"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Omni"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Strangers"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Conceriro in G Major"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Hyperzine Dreams"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 249,
+		"title": "A Lesson in the Abuse of Information Technology",
+		"artist": "The Menzingers",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/HsDRvS5C/menzingers-lesson-abuse-informaton-technology.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Thu, 29 Jan 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Alpha Kappa Fell Off a Balcony"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Sir Yes Sir"
+			},
+			{
+				"trackNumber": 3,
+				"title": "A Lesson in the Abuse of Information Technology"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Ave Maria"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Coal City Blues"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Keychain"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Even for an Eggshell"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Richard Corry"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Straight to Hell"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Victory Gin"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Cold Weather Gear"
+			},
+			{
+				"trackNumber": 12,
+				"title": "Clap Hands Two Guns"
+			},
+			{
+				"trackNumber": 13,
+				"title": "No Ticket"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 250,
+		"title": "This Place Will Become Your Tomb",
+		"artist": "Sleep Token",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/YCTGtCP1/sleep-token-this-place-will-become.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Thu, 29 Jan 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Metal",
+				"colorCode": "rgb(68, 56, 155)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			},
+			{
+				"name": "Vinyl",
+				"colorCode": "#a51643"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Atlantic"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Hypnosis"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Mine"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Like That"
+			},
+			{
+				"trackNumber": 5,
+				"title": "The Love You Want"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Fall for Me"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Alkaline"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Distraction"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Descending"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Telomeres"
+			},
+			{
+				"trackNumber": 11,
+				"title": "High Water"
+			},
+			{
+				"trackNumber": 12,
+				"title": "Missing Limbs"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 251,
+		"title": "Take Me Back to Eden",
+		"artist": "Sleep Token",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/Gm68bmfP/sleep-token-take-me-back-to-eden.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Thu, 29 Jan 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Metal",
+				"colorCode": "rgb(68, 56, 155)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			},
+			{
+				"name": "Vinyl",
+				"colorCode": "#a51643"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Chokehold"
+			},
+			{
+				"trackNumber": 2,
+				"title": "The Summoning"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Granite"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Aqua Regia"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Vore"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Ascensionism"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Are You Really Okay?"
+			},
+			{
+				"trackNumber": 8,
+				"title": "The Apparition"
+			},
+			{
+				"trackNumber": 9,
+				"title": "DYWTYLM"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Rain"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Take Me Back to Eden"
+			},
+			{
+				"trackNumber": 12,
+				"title": "Euclid"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 252,
+		"title": "Sundowning",
+		"artist": "Sleep Token",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/qvWhpvFs/sleep_token_sundowning.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Thu, 29 Jan 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Metal",
+				"colorCode": "rgb(68, 56, 155)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Vinyl",
+				"colorCode": "#a51643"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "The Night Does Not Belong to God"
+			},
+			{
+				"trackNumber": 2,
+				"title": "The Offering"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Levitate"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Dark Signs"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Higher"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Take Aim"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Give"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Gods"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Sugar"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Say That You Will"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Drag Me Under"
+			},
+			{
+				"trackNumber": 12,
+				"title": "Blood Sport"
+			}
+		]
+	}
+]

@@ -1,6 +1,7 @@
 import { config } from './config.js';
 import { Api } from './api.js';
 import { replaceFile } from './io.js';
+import { sortByDate } from './utillities.js';
 
 const trimJson = (link) => ({
 	linkId: link.linkId,
@@ -27,7 +28,9 @@ export const populateLinks = async () => {
 		throw new Error(error);
 	}
 
-	const links = data.map((l) => trimJson(l));
+	const links = data
+		.sort((a, b) => sortByDate(a.linkDate, b.linkDate, 'DESC'))
+		.map((l) => trimJson(l));
 
 	await replaceFile('links.json', JSON.stringify(links, null, "\t"));
 };

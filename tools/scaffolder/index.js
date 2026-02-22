@@ -1,13 +1,12 @@
 import readline from 'readline';
 import fs from 'node:fs';
 import os from 'node:os';
-import pjson from './package.json' with { type: 'json' };
 import { config } from './config.js';
 import { Api } from './api.js';
 
 const rl = readline.createInterface({
-	input: process.stdin,   // Read from stdin (user input)
-	output: process.stdout  // Write to stdout (console)
+	input: process.stdin,
+	output: process.stdout
 });
 
 const outputDirectory = os.platform() === 'darwin'
@@ -624,7 +623,7 @@ Excerpt
 const scaffold = async () => {
 	console.log('');
 	console.log('----------------------------------------');
-	console.log(` kpwags.com Scaffolder (v${pjson.version})`);
+	console.log(` kpwags.com Scaffolder (v1.0.0)`);
 	console.log('----------------------------------------');
 	console.log('');
 	console.log('----------------------------------------');
@@ -670,10 +669,9 @@ const scaffold = async () => {
 				throw new Error('Invalid Selection');
 				break;
 		}
-
-		rl.close();
 	} catch (e) {
 		writeError(e.message);
+	} finally {
 		rl.close();
 	}
 };
