@@ -45,6 +45,16 @@ title: "What I'm Up To"
 	</div>
 </section>
 
+<section class="media-section">
+	<h2>Recently Purchased Music</h2>
+
+	<div class="grid music">
+		{% for music in recentMusic %}
+		{% musicListing music %}
+		{% endfor %}
+	</div>
+</section>
+
 {% if recentMovies.length > 0 %}
 	<section class="media-section">
 		<h2>Recent Movies</h2>
