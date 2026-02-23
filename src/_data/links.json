@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1435,
+		"title": "Inside Microsoft’s big Xbox leadership shake-up",
+		"author": "Tom Warren",
+		"url": "https://www.theverge.com/tech/883015/microsoft-xbox-new-ceo-shakeup-notepad",
+		"linkDate": "2026-02-23T00:00:00.000Z",
+		"category": {
+			"name": "Gaming",
+			"colorCode": "#275576"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1429,
 		"title": "Programming principles for self taught front-end developers",
 		"author": "Kilian Valkhof",
