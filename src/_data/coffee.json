@@ -1,5 +1,14 @@
 [
 	{
+		"roaster": "Atomic Coffee Roasters",
+		"blend": "Space Cadet",
+		"roast": "Medium",
+		"location": "Peabody, MA",
+		"link": "https://atomicroastery.com/products/space-cadet?variant=13347106553974",
+		"thoughts": "I actually really like this blend for cold brew",
+		"date": "2025-02-24"
+	},
+	{
 		"roaster": "Irving Farm",
 		"blend": "71 House",
 		"roast": "Medium",
@@ -34,14 +43,5 @@
 		"link": "",
 		"thoughts": "",
 		"date": "2026-01-27"
-	},
-	{
-		"roaster": "Small Planes",
-		"blend": "Gateway",
-		"roast": "Medium",
-		"location": "Washington D.C.",
-		"link": "https://smallplanescoffee.com/products/gateway",
-		"thoughts": "",
-		"date": "2025-01-21"
 	}
 ]

@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1441,
+		"title": "This App Warns You if Someone Is Wearing Smart Glasses Nearby",
+		"author": "Joseph Cox",
+		"url": "https://www.404media.co/this-app-warns-you-if-someone-is-wearing-smart-glasses-nearby/",
+		"linkDate": "2026-02-24T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1435,
 		"title": "Inside Microsoft’s big Xbox leadership shake-up",
 		"author": "Tom Warren",
@@ -8,6 +23,81 @@
 		"category": {
 			"name": "Gaming",
 			"colorCode": "#275576"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1436,
+		"title": "Former top general calls military's removal of trans troops a costly mistake",
+		"author": "Lauren Hodges",
+		"url": "https://www.npr.org/2026/02/21/nx-s1-5720178/trump-military-ban-rights-transgender-troops",
+		"linkDate": "2026-02-23T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1437,
+		"title": "How Nazgul the wolfdog made his run for Winter Olympic glory in Italy",
+		"author": "Nathaniel Herz",
+		"url": "https://www.npr.org/2026/02/21/nx-s1-5721755/how-nazgul-the-wolfdog-made-his-run-for-winter-olympic-glory-in-italy",
+		"linkDate": "2026-02-23T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1438,
+		"title": "NASA says it needs to haul the Artemis II rocket back to the hangar for repairs",
+		"author": "Stephen Clark",
+		"url": "https://arstechnica.com/space/2026/02/nasa-says-it-needs-to-haul-the-artemis-ii-rocket-back-to-the-hangar-for-repairs/",
+		"linkDate": "2026-02-23T00:00:00.000Z",
+		"category": {
+			"name": "Space",
+			"colorCode": "#2c0d18"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1439,
+		"title": "Team USA Had The Golden Goalie",
+		"author": "Ray Ratto",
+		"url": "https://defector.com/team-usa-had-connor-hellebuyck-golden-goalie?giftLink=7905fb5e566530fa0d2a87abb1539963",
+		"linkDate": "2026-02-23T00:00:00.000Z",
+		"category": {
+			"name": "Sports",
+			"colorCode": "#2d5f6f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1440,
+		"title": "Meta Director of AI Safety Allows AI Agent to Accidentally Delete Her Inbox",
+		"author": "Emanuel Maiberg",
+		"url": "https://www.404media.co/meta-director-of-ai-safety-allows-ai-agent-to-accidentally-delete-her-inbox/",
+		"linkDate": "2026-02-23T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
 		},
 		"type": {
 			"name": "Link",
