@@ -1,5 +1,65 @@
 [
 	{
+		"linkId": 1442,
+		"title": "What’s the Point of School When AI Can Do Your Homework?",
+		"author": "Matthew Gault",
+		"url": "https://www.404media.co/whats-the-point-of-school-when-ai-can-do-your-homework/",
+		"linkDate": "2026-02-25T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1443,
+		"title": "Some CSS only contrast options until contrast-color() is Baseline widely available",
+		"author": "Donnie D’Amato",
+		"url": "https://piccalil.li/blog/some-css-only-contrast-options-until-contrast-color-is-baseline-widely-available/",
+		"linkDate": "2026-02-25T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1444,
+		"title": "Mike Masnick on the decentralised internet",
+		"author": "Humans in the Loop",
+		"url": "https://podcasts.apple.com/us/podcast/mike-masnick-on-the-decentralised-internet/id1831285114?i=1000751154702",
+		"linkDate": "2026-02-25T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1445,
+		"title": "Introduction to the new HTML element <geolocation>",
+		"author": "Manuel Matuzović",
+		"url": "https://www.matuzo.at/blog/2026/geolocation-element",
+		"linkDate": "2026-02-25T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1441,
 		"title": "This App Warns You if Someone Is Wearing Smart Glasses Nearby",
 		"author": "Joseph Cox",
