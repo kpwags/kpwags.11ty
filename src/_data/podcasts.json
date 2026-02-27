@@ -1503,6 +1503,26 @@
 				}
 			},
 			{
+				"podcastId": 183,
+				"name": "Humans in the Loop",
+				"link": "https://podcasts.apple.com/us/podcast/humans-in-the-loop/id1831285114",
+				"coverImageUrl": "https://i.postimg.cc/cCH5wvm8/humans-in-the-loop.jpg",
+				"category": {
+					"name": "Tech & Design",
+					"colorCode": "#c46640"
+				}
+			},
+			{
+				"podcastId": 186,
+				"name": "The Interface",
+				"link": "https://www.bbc.co.uk/programmes/m002qwn7",
+				"coverImageUrl": "https://i.postimg.cc/yxdrcDPW/the-interface.jpg",
+				"category": {
+					"name": "Tech & Design",
+					"colorCode": "#c46640"
+				}
+			},
+			{
 				"podcastId": 18,
 				"name": "Marketplace Tech",
 				"link": "https://www.marketplace.org/shows/marketplace-tech/",
@@ -1588,6 +1608,16 @@
 		"name": "Uncategorized",
 		"podcasts": [
 			{
+				"podcastId": 182,
+				"name": "Conan O'Brien Needs a Friend",
+				"link": "https://teamcoco.com/podcasts/conan-obrien-needs-a-friend",
+				"coverImageUrl": "https://i.postimg.cc/mkD6CPwH/conan-obrien-needs-a-friend.jpg",
+				"category": {
+					"name": "Uncategorized",
+					"colorCode": "#de3a80"
+				}
+			},
+			{
 				"podcastId": 28,
 				"name": "The Distraction",
 				"link": "https://www.stitcher.com/show/the-distraction-a-defector-podcast",
@@ -1628,10 +1658,30 @@
 				}
 			},
 			{
+				"podcastId": 185,
+				"name": "Judge John Hodgman",
+				"link": "https://maximumfun.org/podcasts/judge-john-hodgman/",
+				"coverImageUrl": "https://i.postimg.cc/d31SrhBh/judge-john-hodgman.jpg",
+				"category": {
+					"name": "Uncategorized",
+					"colorCode": "#de3a80"
+				}
+			},
+			{
 				"podcastId": 23,
 				"name": "Plain English",
 				"link": "https://www.theringer.com/plain-english-with-derek-thompson-podcast",
 				"coverImageUrl": "https://i.postimg.cc/VsJxj0YR/plain-english.jpg",
+				"category": {
+					"name": "Uncategorized",
+					"colorCode": "#de3a80"
+				}
+			},
+			{
+				"podcastId": 184,
+				"name": "The Sam Sanders Show",
+				"link": "https://www.npr.org/podcasts/1263450739/the-sam-sanders-show",
+				"coverImageUrl": "https://i.postimg.cc/7h6Q05Vf/sam-sanders-show.jpg",
 				"category": {
 					"name": "Uncategorized",
 					"colorCode": "#de3a80"
