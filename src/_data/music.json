@@ -2332,6 +2332,42 @@
 		]
 	},
 	{
+		"musicAlbumId": 263,
+		"title": "Georgia",
+		"artist": "Brian Fallon",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/BnkfJWGk/brian-fallon-georgia.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 27 Feb 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Tin Pan Alley"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Low Love"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Georgia"
+			}
+		]
+	},
+	{
 		"musicAlbumId": 154,
 		"title": "Local Honey",
 		"artist": "Brian Fallon",
@@ -2339,7 +2375,7 @@
 		"coverImageUrl": "https://i.postimg.cc/D00sbhkB/brianfallon-localhoney.jpg",
 		"isTopTen": false,
 		"showOnNowPage": false,
-		"datePurchased": null,
+		"datePurchased": "Wed, 25 Mar 2020 00:00:00 GMT",
 		"genres": [
 			{
 				"name": "Alternative",

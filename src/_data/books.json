@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/SQc6Jggs/blood-in-the-machine.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 233,
+			"currentPage": 353,
 			"pageCount": 412,
-			"progress": 57,
+			"progress": 86,
 			"sortOrder": 1,
 			"status": {
 				"name": "Reading",
@@ -25642,6 +25642,78 @@
 					"colorCode": "#2c5813"
 				}
 			]
+		},
+		{
+			"bookId": 670,
+			"title": "Hyperion",
+			"subTitle": "",
+			"fullTitle": "Hyperion",
+			"author": "Dan Simmons",
+			"link": "https://bookshop.org/p/books/hyperion-dan-simmons/91c9fa80587a0c0b",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3490,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 671,
+			"title": "Do Androids Dream of Electric Sheep?",
+			"subTitle": "",
+			"fullTitle": "Do Androids Dream of Electric Sheep?",
+			"author": "Philip K. Dick",
+			"link": "https://bookshop.org/p/books/do-androids-dream-of-electric-sheep-the-inspiration-for-the-films-blade-runner-and-blade-runner-2049-philip-k-dick/718ef0ab48ecf273",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3500,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": []
 		}
 	]
 }
