@@ -1,11 +1,18 @@
 [
 	{
+		"roaster": "Small Planes",
+		"blend": "Colonnade",
+		"roast": "Medium",
+		"location": "Washington D.C.",
+		"link": "https://smallplanescoffee.com/products/colonnade",
+		"date": "2026-03-02"
+	},
+	{
 		"roaster": "Atomic Coffee Roasters",
 		"blend": "Space Cadet",
 		"roast": "Medium",
 		"location": "Peabody, MA",
 		"link": "https://atomicroastery.com/products/space-cadet?variant=13347106553974",
-		"thoughts": "I actually really like this blend for cold brew",
 		"date": "2025-02-24"
 	},
 	{
@@ -14,16 +21,14 @@
 		"roast": "Medium",
 		"location": "Millerton, NY",
 		"link": "https://irvingfarmcoffee.com/collections/best-sellers/products/71-irving-house-blend",
-		"thoughts": "",
 		"date": "2026-02-16"
 	},
 	{
 		"roaster": "Backyard Beans",
-		"blend": "Wild Esressp",
+		"blend": "Wild Espresso",
 		"roast": "Medium",
 		"location": "Lansdale, PA",
 		"link": "https://backyardbeans.com/products/wildespresso",
-		"thoughts": "",
 		"date": "2026-02-09"
 	},
 	{
@@ -32,16 +37,6 @@
 		"roast": "Medium",
 		"location": "Ithaca, NY",
 		"link": "https://gimmecoffee.com/products/honduras-angel-bbs-fairtrade-organic?variant=44879443263707",
-		"thoughts": "",
 		"date": "2026-02-03"
-	},
-	{
-		"roaster": "Broadsheet",
-		"blend": "Capricornio",
-		"roast": "Medium",
-		"location": "Cambridge, MA",
-		"link": "",
-		"thoughts": "",
-		"date": "2026-01-27"
 	}
 ]
