@@ -1,5 +1,50 @@
 [
 	{
+		"linkId": 1453,
+		"title": "How to Detect Phone Spying Tech (with Cooper Quintin)",
+		"author": "404 Media Podcast",
+		"url": "https://www.404media.co/how-to-detect-phone-spying-tech-with-cooper-quintin/",
+		"linkDate": "2026-03-02T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1454,
+		"title": "With Iran War, Kalshi and Polymarket Bet That the Depravity Economy Has No Bottom",
+		"author": "Jason Koebler",
+		"url": "https://www.404media.co/with-iran-war-kalshi-and-polymarket-bet-that-the-depravity-economy-has-no-bottom/",
+		"linkDate": "2026-03-02T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1455,
+		"title": "I Am Happier Writing Code By Hand",
+		"author": "Abhinav Omprakash",
+		"url": "https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/",
+		"linkDate": "2026-03-02T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1452,
 		"title": "The Ellisons Prepare to Expand Their Media Empire",
 		"author": "On the Media",
