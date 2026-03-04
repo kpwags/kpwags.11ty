@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1456,
+		"title": "Technical debt as a lack of understanding",
+		"author": "Dave Rupert",
+		"url": "https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/",
+		"linkDate": "2026-03-04T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1453,
 		"title": "How to Detect Phone Spying Tech (with Cooper Quintin)",
 		"author": "404 Media Podcast",
