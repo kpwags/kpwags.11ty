@@ -3,6 +3,7 @@ import fs from 'node:fs';
 import os from 'node:os';
 import { config } from './config.js';
 import { Api } from './api.js';
+import { formatDate, getDate } from './../shared/date.js';
 
 const rl = readline.createInterface({
 	input: process.stdin,
@@ -80,6 +81,20 @@ const readUserInputBoolean = async (prompt, defaultValue = 'no') => {
 	return response.toLowerCase() === 'yes';
 };
 
+const readUserInputDate = async (prompt, defaultValue = 'today') => {
+	const date = defaultValue === 'today' ? new Date() : new Date(defaultValue);
+
+	let response = await readLineAsync(` ${prompt} (${formatDate(date)}): `);
+
+	const dateArr = (response.trim() === '' ? formatDate(date) : response).split('-');
+
+	const hour = response.trim() === '' ? date.getHours() : 0;
+	const minute = response.trim() === '' ? date.getMinutes() : 0;
+	const second = response.trim() === '' ? date.getSeconds() : 0;
+
+	return new Date(dateArr[0], parseInt(dateArr[1]) - 1, dateArr[2], hour, minute, second);
+};
+
 const readUserInputTags = async (prompt) => {
 	const response = await readLineAsync(` ${prompt} (Separate By Commas): `);
 
@@ -108,12 +123,6 @@ const getAdditionalPromptResponse = async (prompt) => {
 		default:
 			throw new Error(`Invalid Prompt Type (${prompt.promptType})`);
 	}
-};
-
-const getDate = () => {
-	const today = new Date();
-
-	return `${today.getFullYear()}-${(today.getMonth() + 1).toString().padStart(2, '0')}-${today.getDate().toString().padStart(2, '0')}T${today.getHours().toString().padStart(2, '0')}:${today.getMinutes().toString().padStart(2, '0')}:00.000Z`;
 };
 
 const getMonthName = (monthNumber) => {
@@ -153,8 +162,8 @@ const getLongDate = (d = null) => {
 	return `${getMonthName(today.getMonth() + 1)} ${today.getDate()}, ${today.getFullYear()}`;
 };
 
-const getFilenamePrefix = () => {
-	const today = new Date();
+const getFilenamePrefix = (d = null) => {
+	const today = d ?? new Date();
 
 	return `${today.getFullYear()}-${(today.getMonth() + 1).toString().padStart(2, '0')}-${today.getDate().toString().padStart(2, '0')}`;
 };
@@ -164,6 +173,8 @@ const buildBlogPostTemplate = async () => {
 
 	const title = await readLineAsync('Title');
 	const description = await readLineAsync('Description');
+	const date = await readUserInputDate('Date');
+
 	let urlSlug = await readLineAsync(`Permalink (${buildUrlSlug(title)})`);
 
 	if (urlSlug.trim() === '');
@@ -206,8 +217,8 @@ ${prompt.propertyName}: ${response}`;
 	const scaffoldedTemplate = `---
 title: "${title}"
 description: "${description}"
-date: '${getDate()}'
-permalink: /posts/${new Date().getFullYear()}/${urlSlug}/index.html
+date: '${getDate(date)}'
+permalink: /posts/${new Date(date).getFullYear()}/${urlSlug}/index.html
 ${additionalPrompts}
 tags:
 ${blogTags}
@@ -218,7 +229,7 @@ Excerpt
 `;
 
 	const outputFolder = `${outputDirectory}/${config.outputFolders.blog}/${new Date().getFullYear()}`;
-	const outputFile =  `${outputFolder}/${getFilenamePrefix()}-${urlSlug}.md`;
+	const outputFile =  `${outputFolder}/${formatDate(date)}-${urlSlug}.md`;
 
 	if (fs.existsSync(outputFile)) {
 		throw new Error('Output file already exists.');
@@ -325,7 +336,7 @@ ${getLinkMarkdown(link)}`;
 			}
 
 			readingLogContent = `${readingLogContent}
-			
+
 ---`;
 		}
 	}
@@ -446,9 +457,9 @@ const getBookFormat = async () => {
 	console.log(' 3. eBook');
 	console.log(' 4. Audiobook');
 	console.log('');
-	
+
 	const choice = await readUserInputInteger('Format');
-	
+
 	switch (choice) {
 		case 1:
 			return 'Hardcover';
@@ -639,7 +650,7 @@ const scaffold = async () => {
 
 	try {
 		const choice = await readUserInputInteger('Type');
-	
+
 		switch (choice) {
 			case 1:
 				await buildBlogPostTemplate();
