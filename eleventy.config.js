@@ -23,6 +23,7 @@ import lengthFilter from './src/filters/length-filter.js';
 import domainFilter from './src/filters/domain-filter.js';
 import { linkContent, linkMostRecentDate } from './src/filters/link-filters.js';
 import { rssThankYou } from './src/filters/rssThankYou-filter.js';
+import { rssClub } from './src/filters/rssClub-filter.js';
 import { tagFilter } from './src/filters/tagFilter-filter.js';
 import { rssPostTitle } from './src/filters/rssPostTitle-filter.js';
 
@@ -96,6 +97,7 @@ export default function (eleventyConfig) {
     eleventyConfig.addFilter('cleanTitle', cleanTitle);
     eleventyConfig.addFilter('rssThankYou', rssThankYou);
     eleventyConfig.addFilter('rssPostTitle', rssPostTitle);
+    eleventyConfig.addFilter('rssClub', rssClub);
 
     eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
     eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);

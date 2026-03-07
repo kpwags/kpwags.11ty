@@ -30,7 +30,7 @@
     <item>
       <title>{{ post | rssPostTitle }}</title>
       <link>{{ absolutePostUrl }}</link>
-      <description>{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | rssThankYou }}</description>
+      <description>{{ post | rssClub }}{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | rssThankYou }}</description>
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
