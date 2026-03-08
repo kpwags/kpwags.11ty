@@ -1,9 +1,249 @@
 [
 	{
+		"linkId": 1465,
+		"title": "Prediction markets in the news are a dangerous gamble",
+		"author": "Decoder",
+		"url": "https://www.theverge.com/podcast/889177/prediction-markets-news-gambling-polymarket-kalshi-iran-war-regulation",
+		"linkDate": "2026-03-08T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1466,
+		"title": "Navigation API - a better way to navigate, is now Baseline Newly Available",
+		"author": "Jay Rungta",
+		"url": "https://web.dev/blog/baseline-navigation-api?hl=en",
+		"linkDate": "2026-03-08T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1467,
+		"title": "Magic",
+		"author": "Jeremy Keith",
+		"url": "https://adactio.com/journal/22399",
+		"linkDate": "2026-03-08T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1468,
+		"title": "You had a story",
+		"author": "Nolan Lawson",
+		"url": "https://nolanlawson.com/2026/02/18/you-had-a-story/",
+		"linkDate": "2026-03-08T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1469,
+		"title": "Reduce the JS Workload with no- or lo-JS options",
+		"author": "Aaron T. Grogg",
+		"url": "https://aarontgrogg.github.io/NoLoJS/",
+		"linkDate": "2026-03-08T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1470,
+		"title": "JS-heavy approaches are not compatible with long-term performance goals",
+		"author": "Sérgio Gomes",
+		"url": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
+		"linkDate": "2026-03-08T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1471,
+		"title": "An in-depth guide to customising lists with CSS",
+		"author": "Richard Rutter",
+		"url": "https://piccalil.li/blog/an-in-depth-guide-to-customising-lists-with-css/",
+		"linkDate": "2026-03-08T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1472,
+		"title": "A programmer's loss of a social identity",
+		"author": "Dave Gauer",
+		"url": "https://ratfactor.com/tech-nope2",
+		"linkDate": "2026-03-08T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1464,
+		"title": "Preserving The Web Is Not The Problem. Losing It Is.",
+		"author": "Mark Graham",
+		"url": "https://www.techdirt.com/2026/02/17/preserving-the-web-is-not-the-problem-losing-it-is/",
+		"linkDate": "2026-03-07T00:00:00.000Z",
+		"category": {
+			"name": "The Internet",
+			"colorCode": "#8b3d15"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1462,
+		"title": "The WNBA is a mess",
+		"author": "Drew Magary",
+		"url": "https://www.sfgate.com/sports/article/wnba-mess-players-21957800.php",
+		"linkDate": "2026-03-06T00:00:00.000Z",
+		"category": {
+			"name": "Sports",
+			"colorCode": "#2d5f6f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1463,
+		"title": "At the Pentagon, OpenAI is In and Anthropic Is Out",
+		"author": "Hard Fork Podcast",
+		"url": "www.nytimes.com/2026/02/28/podcasts/hardfork-pentagon-anthropic-openai.html",
+		"linkDate": "2026-03-06T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1459,
+		"title": "The View From RSS",
+		"author": "Caroline Crampton",
+		"url": "https://www.carolinecrampton.com/the-view-from-rss/",
+		"linkDate": "2026-03-05T00:00:00.000Z",
+		"category": {
+			"name": "The Internet",
+			"colorCode": "#8b3d15"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1460,
+		"title": "The American Media Polycrisis: Cascading Layers of Capture",
+		"author": "Viktor Pickard",
+		"url": "https://lpeproject.org/blog/the-american-media-polycrisis-cascading-layers-of-capture/",
+		"linkDate": "2026-03-05T00:00:00.000Z",
+		"category": {
+			"name": "Journalism",
+			"colorCode": "#131519"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1461,
+		"title": "Molly guard in reverse",
+		"author": "Marcin Wichary",
+		"url": "https://unsung.aresluna.org/molly-guard-in-reverse/",
+		"linkDate": "2026-03-05T00:00:00.000Z",
+		"category": {
+			"name": "Design",
+			"colorCode": "#0b545e"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1456,
 		"title": "Technical debt as a lack of understanding",
 		"author": "Dave Rupert",
 		"url": "https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/",
+		"linkDate": "2026-03-04T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1457,
+		"title": "Is the U.S. heading into a dictatorship?",
+		"author": "Fresh Air",
+		"url": "https://www.npr.org/2026/02/04/nx-s1-5699388/is-the-u-s-heading-into-a-dictatorship",
+		"linkDate": "2026-03-04T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1458,
+		"title": "Wishcessibility",
+		"author": "Nic Chan",
+		"url": "https://www.nicchan.me/blog/wishcessibility/",
 		"linkDate": "2026-03-04T00:00:00.000Z",
 		"category": {
 			"name": "General Development",

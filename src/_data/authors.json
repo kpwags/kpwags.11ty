@@ -1544,6 +1544,15 @@
 		]
 	},
 	{
+		"name": "Mary Shelley",
+		"books": [
+			{
+				"title": "Frankenstein",
+				"link": "https://bookshop.org/p/books/frankenstein-mary-shelley/6a5ab762f4a4486e"
+			}
+		]
+	},
+	{
 		"name": "Matt Parker",
 		"books": [
 			{
