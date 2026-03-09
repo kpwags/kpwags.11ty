@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/HsZs8YFw/projecthailmary.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 1,
+			"currentPage": 54,
 			"pageCount": 476,
-			"progress": 1,
+			"progress": 11,
 			"sortOrder": 1,
 			"status": {
 				"name": "Reading",
@@ -97,7 +97,7 @@
 					"dateStarted": "2026-02-14T00:00:00.000Z",
 					"dateCompleted": "2026-03-01T00:00:00.000Z",
 					"rating": 4,
-					"bookNotesUrl": "",
+					"bookNotesUrl": "brian-merchant-blood-in-the-machine",
 					"thoughts": "An interesting look diving into the Luddites of the early 1800s and how it relates to today with big tech and the rise of AI.",
 					"coverImageUrl": "https://i.postimg.cc/SQc6Jggs/blood-in-the-machine.jpg",
 					"isAtLibrary": false,
@@ -17247,7 +17247,7 @@
 			"title": "Altered Carbon",
 			"subTitle": "",
 			"fullTitle": "Altered Carbon",
-			"author": "Richard K. Martin",
+			"author": "Richard K. Morgan",
 			"link": "https://bookshop.org/p/books/altered-carbon-with-earbuds-richard-k-morgan/15278767?ean=9780345457684",
 			"dateStarted": null,
 			"dateCompleted": null,
@@ -17255,7 +17255,7 @@
 			"bookNotesUrl": "",
 			"thoughts": "",
 			"coverImageUrl": "",
-			"isAtLibrary": false,
+			"isAtLibrary": true,
 			"isPurchased": false,
 			"currentPage": 1,
 			"pageCount": 0,
@@ -17270,7 +17270,12 @@
 				"colorCode": "#1d3c8c"
 			},
 			"series": null,
-			"genres": [],
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
 			"formats": []
 		},
 		{
@@ -25829,6 +25834,42 @@
 				{
 					"name": "Politics",
 					"colorCode": "rgb(130, 40, 40)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 675,
+			"title": "No Man's Land",
+			"subTitle": "",
+			"fullTitle": "No Man's Land",
+			"author": "Richard K. Morgan",
+			"link": "https://bookshop.org/p/books/no-man-s-land-richard-k-morgan/420e5e539e2df8d1",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3520,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
 				}
 			],
 			"formats": []
