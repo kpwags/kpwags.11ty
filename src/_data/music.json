@@ -16085,7 +16085,7 @@
 		"artist": "Rise Against",
 		"thoughts": "",
 		"coverImageUrl": "https://i.postimg.cc/v84Cs6Cx/riseagainst-endgame.jpg",
-		"isTopTen": true,
+		"isTopTen": false,
 		"showOnNowPage": false,
 		"datePurchased": null,
 		"genres": [
@@ -16669,8 +16669,8 @@
 		"artist": "Sleep Token",
 		"thoughts": "",
 		"coverImageUrl": "https://i.postimg.cc/bNtngDPH/sleep-token-only-in-arcadia.jpg",
-		"isTopTen": false,
-		"showOnNowPage": true,
+		"isTopTen": true,
+		"showOnNowPage": false,
 		"datePurchased": "Mon, 19 Jan 2026 00:00:00 GMT",
 		"genres": [
 			{
