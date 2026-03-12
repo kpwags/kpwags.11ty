@@ -35,25 +35,29 @@ title: "What I'm Up To"
 	</div>
 </section>
 
-<section class="media-section">
-	<h2>Currently Listening To</h2>
+{% if now.music.length > 0 %}
+	<section class="media-section">
+		<h2>Currently Listening To</h2>
 
-	<div class="grid music">
-		{% for music in now.music %}
-		{% musicListing music %}
-		{% endfor %}
-	</div>
-</section>
+		<div class="grid music">
+			{% for music in now.music %}
+			{% musicListing music %}
+			{% endfor %}
+		</div>
+	</section>
+{% endif %}
 
-<section class="media-section">
-	<h2>Recently Purchased Music</h2>
+{% if recentMusic.length > 0 %}
+	<section class="media-section">
+		<h2>Recently Purchased Music</h2>
 
-	<div class="grid music">
-		{% for music in recentMusic %}
-		{% musicListing music %}
-		{% endfor %}
-	</div>
-</section>
+		<div class="grid music">
+			{% for music in recentMusic %}
+			{% musicListing music %}
+			{% endfor %}
+		</div>
+	</section>
+{% endif %}
 
 {% if recentMovies.length > 0 %}
 	<section class="media-section">
