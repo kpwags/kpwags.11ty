@@ -1202,6 +1202,13 @@ section.links .links-list li .category span.tag.type {
 	width: 80%;
 }
 
+div.image-credit {
+	font-style: italic;
+	font-size: 0.8rem;
+	margin-top: -28px;
+	text-align: center;
+}
+
 @media (max-width: 500px) {
 	.post p picture {
 		width: 100%;
