@@ -1,43 +1,43 @@
 {
 	"inProgress": [
 		{
-			"bookId": 674,
-			"title": "Project Hail Mary",
-			"subTitle": "",
-			"fullTitle": "Project Hail Mary",
-			"author": "Andy Weir",
-			"link": "https://bookshop.org/books/project-hail-mary/9780593135204",
-			"dateStarted": "2026-03-08T00:00:00.000Z",
+			"bookId": 545,
+			"title": "Mood Machine",
+			"subTitle": "The Rise of Spotify and the Costs of the Perfect Playlist",
+			"fullTitle": "Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist",
+			"author": "Liz Pelly",
+			"link": "https://www.simonandschuster.com/books/Mood-Machine/Liz-Pelly/9781668083505",
+			"dateStarted": "2026-03-15T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/HsZs8YFw/projecthailmary.jpg",
+			"coverImageUrl": "https://i.postimg.cc/CxTdJKwr/liz-pelly-mood-machine.jpg",
 			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 277,
-			"pageCount": 476,
-			"progress": 58,
-			"sortOrder": 1,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 237,
+			"progress": 1,
+			"sortOrder": 2750,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
 			},
 			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
 			},
 			"series": null,
 			"genres": [
 				{
-					"name": "Science Fiction",
-					"colorCode": "rgb(102, 119, 2)"
+					"name": "Technology",
+					"colorCode": "rgb(55, 78, 146)"
 				}
 			],
 			"formats": [
 				{
-					"name": "Paperback",
-					"colorCode": "#cd6a29"
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
 				}
 			]
 		}
@@ -46,6 +46,47 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 674,
+					"title": "Project Hail Mary",
+					"subTitle": "",
+					"fullTitle": "Project Hail Mary",
+					"author": "Andy Weir",
+					"link": "https://bookshop.org/books/project-hail-mary/9780593135204",
+					"dateStarted": "2026-03-08T00:00:00.000Z",
+					"dateCompleted": "2026-03-14T00:00:00.000Z",
+					"rating": 5,
+					"bookNotesUrl": "",
+					"thoughts": "I chose to re-read this with the movie coming out. It was better than I remembered. I loved the characters and it really gripped you.",
+					"coverImageUrl": "https://i.postimg.cc/HsZs8YFw/projecthailmary.jpg",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 476,
+					"pageCount": 476,
+					"progress": 100,
+					"sortOrder": 1,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Science Fiction",
+							"colorCode": "rgb(102, 119, 2)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Paperback",
+							"colorCode": "#cd6a29"
+						}
+					]
+				},
 				{
 					"bookId": 672,
 					"title": "Frankenstein",
@@ -23394,42 +23435,6 @@
 			"formats": []
 		},
 		{
-			"bookId": 545,
-			"title": "Mood Machine",
-			"subTitle": "The Rise of Spotify and the Costs of the Perfect Playlist",
-			"fullTitle": "Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist",
-			"author": "Liz Pelly",
-			"link": "https://www.simonandschuster.com/books/Mood-Machine/Liz-Pelly/9781668083505",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": false,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 2750,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Technology",
-					"colorCode": "rgb(55, 78, 146)"
-				}
-			],
-			"formats": []
-		},
-		{
 			"bookId": 546,
 			"title": "What If We Get It Right?",
 			"subTitle": "Visions of Climate Futures",
@@ -25870,6 +25875,46 @@
 				{
 					"name": "Science Fiction",
 					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 676,
+			"title": "Means of Control",
+			"subTitle": "How the Hidden Alliance of Tech and Government Is Creating a New American Surveillance State",
+			"fullTitle": "Means of Control: How the Hidden Alliance of Tech and Government Is Creating a New American Surveillance State",
+			"author": "Byron Tau",
+			"link": "https://bookshop.org/p/books/means-of-control-how-the-hidden-alliance-of-tech-and-government-is-creating-a-new-american-surveillance-state-byron-tau/68b1e1ca5cd9445a",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3530,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Politics",
+					"colorCode": "rgb(130, 40, 40)"
+				},
+				{
+					"name": "Technology",
+					"colorCode": "rgb(55, 78, 146)"
 				}
 			],
 			"formats": []
