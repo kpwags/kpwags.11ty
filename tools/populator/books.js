@@ -73,9 +73,17 @@ const populateAuthors = async (books) => {
 			.filter((b) => b.author === author)
 			.sort((a, b) => sortByDate(a.dateCompleted, b.dateCompleted, 'ASC'));
 
+		// This is to handle re-reads. No need to have the same book listed here twice.
+		const booksRead = [];
+		for (const authorBook of authorBooks) {
+			if (booksRead.filter((b) => b.title === authorBook.fullTitle).length === 0) {
+				booksRead.push({ title: authorBook.fullTitle, link: authorBook.link });
+			}
+		}
+
 		authorJson.push({
 			name: author,
-			books: authorBooks.map((b) => ({ title: b.fullTitle, link: b.link })),
+			books: booksRead,
 		});
 	}
 

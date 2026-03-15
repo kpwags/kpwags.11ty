@@ -1,5 +1,5 @@
 export const config = {
-	build: '1.0.0',
+	build: '1.0.1',
 	apiUrl: 'http://192.168.1.232:3010',
 	// apiUrl: 'http://127.0.0.1:3010',
 	outputDirectory: {
