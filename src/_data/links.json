@@ -1,5 +1,125 @@
 [
 	{
+		"linkId": 1482,
+		"title": "From Flock to ICE, Here’s a Breakdown of How You’re Being Watched",
+		"author": "Evy Kwong, Joseph Cox, & Jason Koebler",
+		"url": "https://www.404media.co/flock-ice-surveillance-technology-reddit-ama/",
+		"linkDate": "2026-03-15T00:00:00.000Z",
+		"category": {
+			"name": "Privacy",
+			"colorCode": "#26a269"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1477,
+		"title": "Will You Finally Address Your Development Bottlenecks In 2026?",
+		"author": "Jason Gorman",
+		"url": "https://codemanship.wordpress.com/2026/02/23/will-you-finally-address-your-development-bottlenecks-in-2026/",
+		"linkDate": "2026-03-14T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1478,
+		"title": "America desperately needs new privacy laws",
+		"author": "Adi Robertson",
+		"url": "https://www.theverge.com/column/882516/privacy-laws-america",
+		"linkDate": "2026-03-14T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1479,
+		"title": "The Media Still Can’t Figure Out That Trump Says Things That Aren’t True",
+		"author": "Mike Masnick",
+		"url": "https://www.techdirt.com/2026/02/23/the-media-still-cant-figure-out-that-trump-says-things-that-arent-true/",
+		"linkDate": "2026-03-14T00:00:00.000Z",
+		"category": {
+			"name": "Journalism",
+			"colorCode": "#131519"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1480,
+		"title": "71% of Developers and Engineering Leaders Believe “AI” Makes Engineering Discipline More Important",
+		"author": "Jason Gorman",
+		"url": "https://codemanship.wordpress.com/2026/02/26/71-of-developers-and-engineering-leaders-believe-ai-makes-engineering-discipline-more-important/",
+		"linkDate": "2026-03-14T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1481,
+		"title": "Native HTML components don’t guarantee good UX",
+		"author": "Adam Silver",
+		"url": "https://adamsilver.io/blog/native-html-components-dont-guarantee-good-ux/",
+		"linkDate": "2026-03-14T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1475,
+		"title": "“This Is Not The Computer For You”",
+		"author": "Sam Henri Gold",
+		"url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+		"linkDate": "2026-03-13T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1476,
+		"title": "Rely On AI And Get Left Behind",
+		"author": "Jason Gorman",
+		"url": "https://codemanship.wordpress.com/2026/02/21/is-comprehension-debt-in-your-risk-register/",
+		"linkDate": "2026-03-13T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1474,
 		"title": "What if You Said No?",
 		"author": "Lynn Fisher",
