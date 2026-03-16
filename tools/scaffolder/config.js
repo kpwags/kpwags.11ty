@@ -47,6 +47,7 @@ export const config = {
 		'The Internet',
 		'Technology',
 		'Cybersecurity',
+		'Privacy',
 		'AI',
 		'Science',
 		'Space',

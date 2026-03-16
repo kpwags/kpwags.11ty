@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1491,
+		"title": "Progressive enhancement as a benefit of CSS Nesting",
+		"author": "Kilian Valkhof",
+		"url": "https://kilianvalkhof.com/2026/css-html/progressive-enhancement-as-a-benefit-of-css-nesting/",
+		"linkDate": "2026-03-16T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1482,
 		"title": "From Flock to ICE, Here’s a Breakdown of How You’re Being Watched",
 		"author": "Evy Kwong, Joseph Cox, & Jason Koebler",
@@ -8,6 +23,126 @@
 		"category": {
 			"name": "Privacy",
 			"colorCode": "#26a269"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1483,
+		"title": "Cleaner switch expressions with pattern matching in C#",
+		"author": "Bart Wullems",
+		"url": "https://bartwullems.blogspot.com/2026/02/cleaner-switch-expressions-with-pattern.html",
+		"linkDate": "2026-03-15T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1484,
+		"title": "My favorite way to write code in 2026 (on becoming a TDD addict)",
+		"author": "Chris Ferdinandi",
+		"url": "https://gomakethings.com/my-favorite-way-to-write-code-in-2026-on-becoming-a-tdd-addict/",
+		"linkDate": "2026-03-15T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1485,
+		"title": "Too Much Color",
+		"author": "Keith Cirkel",
+		"url": "https://www.keithcirkel.co.uk/too-much-color/",
+		"linkDate": "2026-03-15T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1486,
+		"title": "Research Reveals Why Tatooine Planets are Rare",
+		"author": "Matthew Williams",
+		"url": "https://www.universetoday.com/articles/research-reveals-why-tatooine-planets-are-rare",
+		"linkDate": "2026-03-15T00:00:00.000Z",
+		"category": {
+			"name": "Space",
+			"colorCode": "#2c0d18"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1487,
+		"title": "Programming in the swamp",
+		"author": "Sean Voisen",
+		"url": "https://seanvoisen.com/writing/programming-in-the-swamp/",
+		"linkDate": "2026-03-15T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1488,
+		"title": "Nobody Gets Promoted for Simplicity",
+		"author": "Matheus Lima",
+		"url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+		"linkDate": "2026-03-15T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1489,
+		"title": "The Artisanal Web ",
+		"author": "Carter Baxter",
+		"url": "https://another.rodeo/artisanal-web/",
+		"linkDate": "2026-03-15T00:00:00.000Z",
+		"category": {
+			"name": "The Internet",
+			"colorCode": "#8b3d15"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1490,
+		"title": "Design-First Collaboration",
+		"author": "Rahul Garg",
+		"url": "https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html",
+		"linkDate": "2026-03-15T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
 		},
 		"type": {
 			"name": "Link",
