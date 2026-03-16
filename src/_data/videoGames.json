@@ -1,6 +1,41 @@
 {
 	"inProgress": [
 		{
+			"videoGameId": 36,
+			"title": "God of War",
+			"link": "https://www.playstation.com/en-us/god-of-war/",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/wTFG8Zxs/god-of-war.jpg",
+			"sortOrder": 1,
+			"status": {
+				"name": "In Progress",
+				"colorCode": "#d76c28"
+			},
+			"completion": {
+				"name": "N/A",
+				"colorCode": "#144d72"
+			},
+			"genres": [
+				{
+					"name": "Adventure",
+					"colorCode": "#50518b"
+				},
+				{
+					"name": "Hack and Slash",
+					"colorCode": "#a30d42"
+				}
+			],
+			"systems": [
+				{
+					"name": "PlayStation",
+					"colorCode": "#191f77"
+				}
+			]
+		},
+		{
 			"videoGameId": 67,
 			"title": "Helldivers II",
 			"link": "https://www.playstation.com/en-us/games/helldivers-2/",
@@ -22,37 +57,6 @@
 				{
 					"name": "Third Person Shooter",
 					"colorCode": "#8c1e8b"
-				}
-			],
-			"systems": [
-				{
-					"name": "PlayStation",
-					"colorCode": "#191f77"
-				}
-			]
-		},
-		{
-			"videoGameId": 69,
-			"title": "Star Wars Squadrons",
-			"link": "https://www.ea.com/games/starwars/squadrons",
-			"dateStarted": "2026-01-18T00:00:00.000Z",
-			"dateCompleted": null,
-			"rating": 0,
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/7hPpkvmp/star-wars-squadrons.jpg",
-			"sortOrder": null,
-			"status": {
-				"name": "In Progress",
-				"colorCode": "#d76c28"
-			},
-			"completion": {
-				"name": "N/A",
-				"colorCode": "#144d72"
-			},
-			"genres": [
-				{
-					"name": "Pilot Combat",
-					"colorCode": "#e66100"
 				}
 			],
 			"systems": [
@@ -99,6 +103,37 @@
 		}
 	],
 	"completed": [
+		{
+			"videoGameId": 69,
+			"title": "Star Wars Squadrons",
+			"link": "https://www.ea.com/games/starwars/squadrons",
+			"dateStarted": "2026-01-18T00:00:00.000Z",
+			"dateCompleted": "2026-03-15T00:00:00.000Z",
+			"rating": 3,
+			"thoughts": "The story was 'meh' at best. Game play wasn't horrible. It did remind me a lot of the old X-Wing and TIE Fighter games.",
+			"coverImageUrl": "https://i.postimg.cc/7hPpkvmp/star-wars-squadrons.jpg",
+			"sortOrder": null,
+			"status": {
+				"name": "Completed",
+				"colorCode": "#08824e"
+			},
+			"completion": {
+				"name": "Yes",
+				"colorCode": "#469838"
+			},
+			"genres": [
+				{
+					"name": "Pilot Combat",
+					"colorCode": "#e66100"
+				}
+			],
+			"systems": [
+				{
+					"name": "PlayStation",
+					"colorCode": "#191f77"
+				}
+			]
+		},
 		{
 			"videoGameId": 68,
 			"title": "Far Cry New Dawn",

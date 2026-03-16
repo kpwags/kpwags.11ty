@@ -1,5 +1,13 @@
 [
 	{
+		"roaster": "Caffe Vita",
+		"blend": "Bistro Blend",
+		"roast": "Medium",
+		"location": "Brooklyn, NY",
+		"link": "https://www.caffevita.com/products/bistro-blend",
+		"date": "2026-03-16"
+	},
+	{
 		"roaster": "8th & Roast Coffee Co.",
 		"blend": "Common Voice: Heirloom",
 		"roast": "Medium",
@@ -30,13 +38,5 @@
 		"location": "Millerton, NY",
 		"link": "https://irvingfarmcoffee.com/collections/best-sellers/products/71-irving-house-blend",
 		"date": "2026-02-16"
-	},
-	{
-		"roaster": "Backyard Beans",
-		"blend": "Wild Espresso",
-		"roast": "Medium",
-		"location": "Lansdale, PA",
-		"link": "https://backyardbeans.com/products/wildespresso",
-		"date": "2026-02-09"
 	}
 ]
