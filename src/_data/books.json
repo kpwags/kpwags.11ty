@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/CxTdJKwr/liz-pelly-mood-machine.jpg",
 			"isAtLibrary": false,
 			"isPurchased": false,
-			"currentPage": 24,
+			"currentPage": 57,
 			"pageCount": 237,
-			"progress": 10,
+			"progress": 24,
 			"sortOrder": 2750,
 			"status": {
 				"name": "Reading",
@@ -38,6 +38,51 @@
 				{
 					"name": "Hardcover",
 					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 677,
+			"title": "Too Big to Fail",
+			"subTitle": "The Inside Story of How Wall Street and Washington Fought to Save the Financial System--and Themselves",
+			"fullTitle": "Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System--and Themselves",
+			"author": "Andrew Ross Sorkin",
+			"link": "https://bookshop.org/p/books/too-big-to-fail-the-inside-story-of-how-wall-street-and-washington-fought-to-save-the-financial-system-and-themselves-andrew-ross-sorkin/d5832fe5c3b9f33b",
+			"dateStarted": "2026-03-16T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/sg5Yhkm6/sorkin-too-big-to-fail.jpg",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 52,
+			"pageCount": 1263,
+			"progress": 4,
+			"sortOrder": 2760,
+			"status": {
+				"name": "Reading",
+				"colorCode": "#6a208f"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
+				},
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Audiobook",
+					"colorCode": "#b300b3"
 				}
 			]
 		}
