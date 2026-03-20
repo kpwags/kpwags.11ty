@@ -1,5 +1,31 @@
 [
 	{
+		"movieId": 217,
+		"title": "The Bride!",
+		"imdbLink": "https://www.imdb.com/title/tt30851137/",
+		"dateWatched": "2026-03-17T00:00:00.000Z",
+		"sortOrder": null,
+		"rating": 3,
+		"thoughts": "It was fine. Wasn’t particularly my type of movie though.",
+		"posterImageUrl": "https://i.postimg.cc/gJ5xtCZx/the-bride.jpg",
+		"status": {
+			"name": "Watched",
+			"colorCode": "#2a9a39"
+		},
+		"genres": [
+			{
+				"name": "Dark Comedy",
+				"colorCode": "#000000"
+			}
+		],
+		"services": [
+			{
+				"name": "Theater",
+				"colorCode": "#e66100"
+			}
+		]
+	},
+	{
 		"movieId": 216,
 		"title": "Apollo 11",
 		"imdbLink": "https://www.imdb.com/title/tt8760684/",
