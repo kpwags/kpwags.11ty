@@ -1,5 +1,200 @@
 [
 	{
+		"linkId": 1505,
+		"title": "Coding Is When We’re Least Productive",
+		"author": "Jason Gorman",
+		"url": "https://codemanship.wordpress.com/2026/01/30/coding-is-when-were-least-productive/",
+		"linkDate": "2026-03-22T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1506,
+		"title": "Two React Design Choices Developers Don’t Like—But Can’t Avoid",
+		"author": "Ryan Carniato",
+		"url": "https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g",
+		"linkDate": "2026-03-22T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1507,
+		"title": "On Debugging Problems",
+		"author": "Jeremy Miller",
+		"url": "https://jeremydmiller.com/2026/02/24/on-debugging-problems/",
+		"linkDate": "2026-03-22T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1501,
+		"title": "Your API Tests Are Passing. That’s the Problem.",
+		"author": "Gil Zilberfeld",
+		"url": "https://testingil.com/2026/03/your-api-tests-are-passing-thats-the-problem.html",
+		"linkDate": "2026-03-21T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1502,
+		"title": "I Am in an Abusive Relationship with the Technology Industry",
+		"author": "Salma Alam-Naylor",
+		"url": "https://whitep4nth3r.com/blog/i-am-in-an-abusive-relationship-with-the-technology-industry/",
+		"linkDate": "2026-03-21T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1503,
+		"title": "The Value of z-index",
+		"author": "Amit Sheen",
+		"url": "https://css-tricks.com/the-value-of-z-index/",
+		"linkDate": "2026-03-21T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1504,
+		"title": "The Laid-off Scientists and Lawyers Training AI to Steal Their Careers",
+		"author": "Josh Dzieza",
+		"url": "https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ild0Y2FLZml3dnciLCJwIjoiL2NzL2ZlYXR1cmVzLzg3NzM4OC93aGl0ZS1jb2xsYXItd29ya2Vycy10cmFpbmluZy1haS1tZXJjb3IiLCJleHAiOjE3NzQ1NTE5MzAsImlhdCI6MTc3NDExOTkzMH0.hPESRB70zS3Q9ICgSxvsoHtjksM4FYwCEf8BK1VkraA&utm_medium=gift-link",
+		"linkDate": "2026-03-21T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1495,
+		"title": "It’s Gambling",
+		"author": "Lauren Theisen",
+		"url": "https://defector.com/its-gambling",
+		"linkDate": "2026-03-20T00:00:00.000Z",
+		"category": {
+			"name": "Sports",
+			"colorCode": "#2d5f6f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1496,
+		"title": "Everyone but Trump Understands What He’s Done",
+		"author": "Anne Applebaum",
+		"url": "https://www.theatlantic.com/ideas/2026/03/trump-iran-war-allies/686423/?gift=hVZeG3M9DnxL4CekrWGK31dWsRj9tVhI4YolO-4zzIE",
+		"linkDate": "2026-03-20T00:00:00.000Z",
+		"category": {
+			"name": "Politics",
+			"colorCode": "#8b642f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1497,
+		"title": "Other nations danced for joy at the World Baseball Classic. Team USA played toy soldiers",
+		"author": "Howard Bryant",
+		"url": "https://www.theguardian.com/sport/2026/mar/18/world-baseball-classic-usa-venezuela-trump-war",
+		"linkDate": "2026-03-20T00:00:00.000Z",
+		"category": {
+			"name": "Sports",
+			"colorCode": "#2d5f6f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1498,
+		"title": "The End of Coding? Wrong Question",
+		"author": "Oskar Dudycz",
+		"url": "https://event-driven.io/en/the_end_of_coding_wrong_question/",
+		"linkDate": "2026-03-20T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1499,
+		"title": "18 lessons from 18 years of blogging",
+		"author": "Ben Overmyer",
+		"url": "https://goodinternetmagazine.com/18-lessons-from-18-years-of-blogging/",
+		"linkDate": "2026-03-20T00:00:00.000Z",
+		"category": {
+			"name": "Writing",
+			"colorCode": "#371a94"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1500,
+		"title": "Boy I was wrong about the Fediverse",
+		"author": "Mat Duggan",
+		"url": "https://matduggan.com/boy-i-was-wrong-about-the-fediverse/",
+		"linkDate": "2026-03-20T00:00:00.000Z",
+		"category": {
+			"name": "The Internet",
+			"colorCode": "#8b3d15"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1492,
 		"title": "Mike & Karl Talk AI",
 		"author": "Techdirt Podcast",
