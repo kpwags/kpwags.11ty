@@ -25971,6 +25971,42 @@
 				}
 			],
 			"formats": []
+		},
+		{
+			"bookId": 678,
+			"title": "A Peace to End All Peace",
+			"subTitle": "The Fall of the Ottoman Empire and the Creation of the Modern Middle East",
+			"fullTitle": "A Peace to End All Peace: The Fall of the Ottoman Empire and the Creation of the Modern Middle East",
+			"author": "David Fromkin",
+			"link": "https://bookshop.org/p/books/a-peace-to-end-all-peace-the-fall-of-the-ottoman-empire-and-the-creation-of-the-modern-middle-east-david-fromkin/df210f7a1fb6f9b4",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3540,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
 		}
 	]
 }
