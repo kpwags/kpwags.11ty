@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1508,
+		"title": "Hubble (accidentally!) catches a comet tearing itself apart",
+		"author": "Philip Plait",
+		"url": "https://badastronomy.beehiiv.com/p/hubble-accidentally-catches-a-comet-tearing-itself-apart",
+		"linkDate": "2026-03-25T00:00:00.000Z",
+		"category": {
+			"name": "Space",
+			"colorCode": "#2c0d18"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1505,
 		"title": "Coding Is When We’re Least Productive",
 		"author": "Jason Gorman",

@@ -1,5 +1,31 @@
 [
 	{
+		"movieId": 218,
+		"title": "Project Hail Mary",
+		"imdbLink": "https://www.imdb.com/title/tt12042730/",
+		"dateWatched": "2026-03-24T00:00:00.000Z",
+		"sortOrder": null,
+		"rating": 5,
+		"thoughts": "This was absolutely fantastic. It did such a great job adapting the book to the big screen.",
+		"posterImageUrl": "https://i.postimg.cc/Rhxqg1DJ/project-hail-mary.jpg",
+		"status": {
+			"name": "Watched",
+			"colorCode": "#2a9a39"
+		},
+		"genres": [
+			{
+				"name": "Science Fiction",
+				"colorCode": "#1b7016"
+			}
+		],
+		"services": [
+			{
+				"name": "Theater",
+				"colorCode": "#e66100"
+			}
+		]
+	},
+	{
 		"movieId": 217,
 		"title": "The Bride!",
 		"imdbLink": "https://www.imdb.com/title/tt30851137/",
@@ -74,32 +100,6 @@
 			{
 				"name": "HBO",
 				"colorCode": "#6a4bc9"
-			}
-		]
-	},
-	{
-		"movieId": 212,
-		"title": "Good Luck, Have Fun, Don't Die",
-		"imdbLink": "https://www.imdb.com/title/tt1341338",
-		"dateWatched": "2026-02-21T00:00:00.000Z",
-		"sortOrder": null,
-		"rating": 4,
-		"thoughts": "I really enjoyed this. It was offbeat, had some good laughs, cast was excellent, and would highly recommend.",
-		"posterImageUrl": "https://i.postimg.cc/Y0rzWT5D/good-luck-have-fun-dont-die.jpg",
-		"status": {
-			"name": "Watched",
-			"colorCode": "#2a9a39"
-		},
-		"genres": [
-			{
-				"name": "Comedy",
-				"colorCode": "#a60483"
-			}
-		],
-		"services": [
-			{
-				"name": "Theater",
-				"colorCode": "#e66100"
 			}
 		]
 	}

@@ -1175,6 +1175,12 @@ section.links .links-list li .category span.tag.type {
 	color: var(--meta);
 }
 
+.post-heading .subtitle {
+	font-style: italic;
+	font-size: 1.1rem;
+	margin-top: 8px;
+}
+
 .post h3 {
 	color: var(--tertiary-color);
 }

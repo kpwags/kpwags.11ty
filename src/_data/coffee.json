@@ -1,5 +1,13 @@
 [
 	{
+		"roaster": "Pastime Coffee",
+		"blend": "4:30 a.m.",
+		"roast": "Medium",
+		"location": "Portland, OR",
+		"link": "https://pastime.coffee/products/430am?variant=48152107942181",
+		"date": "2026-03-23"
+	},
+	{
 		"roaster": "Caffe Vita",
 		"blend": "Bistro Blend",
 		"roast": "Medium",
@@ -30,13 +38,5 @@
 		"location": "Peabody, MA",
 		"link": "https://atomicroastery.com/products/space-cadet?variant=13347106553974",
 		"date": "2025-02-24"
-	},
-	{
-		"roaster": "Irving Farm",
-		"blend": "71 House",
-		"roast": "Medium",
-		"location": "Millerton, NY",
-		"link": "https://irvingfarmcoffee.com/collections/best-sellers/products/71-irving-house-blend",
-		"date": "2026-02-16"
 	}
 ]
