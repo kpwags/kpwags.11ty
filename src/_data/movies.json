@@ -3,6 +3,32 @@
 		"year": 2026,
 		"movies": [
 			{
+				"movieId": 218,
+				"title": "Project Hail Mary",
+				"imdbLink": "https://www.imdb.com/title/tt12042730/",
+				"dateWatched": "2026-03-24T00:00:00.000Z",
+				"sortOrder": null,
+				"rating": 5,
+				"thoughts": "This was absolutely fantastic. It did such a great job adapting the book to the big screen.",
+				"posterImageUrl": "https://i.postimg.cc/Rhxqg1DJ/project-hail-mary.jpg",
+				"status": {
+					"name": "Watched",
+					"colorCode": "#2a9a39"
+				},
+				"genres": [
+					{
+						"name": "Science Fiction",
+						"colorCode": "#1b7016"
+					}
+				],
+				"services": [
+					{
+						"name": "Theater",
+						"colorCode": "#e66100"
+					}
+				]
+			},
+			{
 				"movieId": 217,
 				"title": "The Bride!",
 				"imdbLink": "https://www.imdb.com/title/tt30851137/",

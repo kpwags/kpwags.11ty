@@ -172,6 +172,7 @@ const buildBlogPostTemplate = async () => {
 	writeHeader('Scaffolding Blog Post');
 
 	const title = await readLineAsync('Title');
+	const subtitle = await readLineAsync('Subtitle');
 	const description = await readLineAsync('Description');
 	const date = await readUserInputDate('Date');
 
@@ -216,6 +217,7 @@ ${prompt.propertyName}: ${response}`;
 
 	const scaffoldedTemplate = `---
 title: "${title}"
+subtitle: "${subtitle}"
 description: "${description}"
 date: '${getDate(date)}'
 permalink: /posts/${new Date(date).getFullYear()}/${urlSlug}/index.html
