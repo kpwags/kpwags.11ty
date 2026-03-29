@@ -67,6 +67,37 @@
 			]
 		},
 		{
+			"videoGameId": 70,
+			"title": "Pokemon: Fire Red",
+			"link": "https://www.nintendo.com/us/store/products/english-pokemon-firered-version-switch/",
+			"dateStarted": "2026-03-27T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/rs6TLJk8/pokemon-fire-red.jpg",
+			"sortOrder": null,
+			"status": {
+				"name": "In Progress",
+				"colorCode": "#d76c28"
+			},
+			"completion": {
+				"name": "N/A",
+				"colorCode": "#144d72"
+			},
+			"genres": [
+				{
+					"name": "Role Playing Game",
+					"colorCode": "#a83ece"
+				}
+			],
+			"systems": [
+				{
+					"name": "Nintendo Switch",
+					"colorCode": "#8e0b24"
+				}
+			]
+		},
+		{
 			"videoGameId": 30,
 			"title": "World of Warcraft",
 			"link": "https://worldofwarcraft.com/en-us/wowclassic",

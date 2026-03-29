@@ -1,5 +1,77 @@
 [
 	{
+		"musicAlbumId": 273,
+		"title": "Moments Before the Wind",
+		"artist": "Free Throw",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/zf0KgFKz/free-throw-moments-before-the-wind.jpg",
+		"isTopTen": false,
+		"showOnNowPage": true,
+		"datePurchased": "Fri, 27 Mar 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			},
+			{
+				"name": "Vinyl",
+				"colorCode": "#a51643"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "MissingNo."
+			},
+			{
+				"trackNumber": 2,
+				"title": "Mike Nolan's Long Weekend"
+			},
+			{
+				"trackNumber": 3,
+				"title": "For Those Who Come After"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Floaroma Town"
+			},
+			{
+				"trackNumber": 5,
+				"title": "The Need for a Post-Credits Scene"
+			},
+			{
+				"trackNumber": 6,
+				"title": "The Outlaw Star"
+			},
+			{
+				"trackNumber": 7,
+				"title": "A Hero's Grave"
+			},
+			{
+				"trackNumber": 8,
+				"title": "There Will Come Soft Rains"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Deviancy"
+			},
+			{
+				"trackNumber": 10,
+				"title": "This Dollar General Store Ain't Gonna Rob Itself"
+			},
+			{
+				"trackNumber": 11,
+				"title": "The Waters of Life"
+			}
+		]
+	},
+	{
 		"musicAlbumId": 264,
 		"title": "Makers (Extended Edition)",
 		"artist": "Rocky Votolato",
