@@ -519,6 +519,7 @@ title: "${title}"
 subtitle: "${subtitle}"
 fullTitle: "${title}: ${subtitle}"
 author: "${author}"
+format: ${format}
 coverImage: "${coverImageUrl}"
 rating: ${rating}
 date: '${dateFinished}'
