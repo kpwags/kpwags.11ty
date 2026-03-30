@@ -1053,36 +1053,6 @@
 				}
 			},
 			{
-				"podcastId": 70,
-				"name": "The Athletic Football Show",
-				"link": "https://theathletic.com/podcast/211-the-athletic-football-show/",
-				"coverImageUrl": "https://i.postimg.cc/rm46rzfT/athletic-football-show.jpg",
-				"category": {
-					"name": "Sports",
-					"colorCode": "#4d4983"
-				}
-			},
-			{
-				"podcastId": 69,
-				"name": "The Athletic Hockey Show",
-				"link": "https://theathletic.com/podcast/211-the-athletic-football-show/",
-				"coverImageUrl": "https://i.postimg.cc/sDsFMj7F/athletic-hockey-show.jpg",
-				"category": {
-					"name": "Sports",
-					"colorCode": "#4d4983"
-				}
-			},
-			{
-				"podcastId": 68,
-				"name": "The Athletic NBA Show",
-				"link": "https://theathletic.com/podcast/8-the-nba-show/",
-				"coverImageUrl": "https://i.postimg.cc/bNT7b79Z/athletic-nba-show.jpg",
-				"category": {
-					"name": "Sports",
-					"colorCode": "#4d4983"
-				}
-			},
-			{
 				"podcastId": 67,
 				"name": "The Bill Simmons Podcast",
 				"link": "https://www.theringer.com/the-bill-simmons-podcast",
@@ -1277,16 +1247,6 @@
 				"name": "The Ryen Russillo Padcast",
 				"link": "https://www.theringer.com/ryen-russillo-podcast",
 				"coverImageUrl": "https://i.postimg.cc/MTBTp6RM/ryenrussillo.jpg",
-				"category": {
-					"name": "Sports",
-					"colorCode": "#4d4983"
-				}
-			},
-			{
-				"podcastId": 175,
-				"name": "The Windup",
-				"link": "https://www.nytimes.com/athletic/podcast/243-the-athletic-baseball-show/",
-				"coverImageUrl": "https://i.postimg.cc/g0XxYS6Q/the-windup.jpg",
 				"category": {
 					"name": "Sports",
 					"colorCode": "#4d4983"
@@ -1487,16 +1447,6 @@
 				"name": "For a Better Web",
 				"link": "https://vivaldi.com/blog/better-web/",
 				"coverImageUrl": "https://i.postimg.cc/yxk393CS/for-a-better-web.jpg",
-				"category": {
-					"name": "Tech & Design",
-					"colorCode": "#c46640"
-				}
-			},
-			{
-				"podcastId": 15,
-				"name": "Hard Fork",
-				"link": "https://www.nytimes.com/2022/10/04/podcasts/hard-fork-technology.html",
-				"coverImageUrl": "https://i.postimg.cc/kGvmbkmH/hard-fork.jpg",
 				"category": {
 					"name": "Tech & Design",
 					"colorCode": "#c46640"

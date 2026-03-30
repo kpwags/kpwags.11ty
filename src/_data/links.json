@@ -1,5 +1,110 @@
 [
 	{
+		"linkId": 1514,
+		"title": "There is no ethical consumption of HBO’s Harry Potter series",
+		"author": "Charles Pulliam-Moore",
+		"url": "https://www.theverge.com/report/901818/hbo-harry-potter-jk-rowling-transphobia",
+		"linkDate": "2026-03-30T00:00:00.000Z",
+		"category": {
+			"name": "Media & Entertainment",
+			"colorCode": "#7949a8"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1515,
+		"title": "Copilot Edited an Ad Into My PR",
+		"author": "Zach Manson",
+		"url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+		"linkDate": "2026-03-30T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1509,
+		"title": "A Top Google Search Result for Claude Plugins Was Planted by Hackers",
+		"author": "Emanuel Maiberg",
+		"url": "https://www.404media.co/a-top-google-search-result-for-claude-plugins-was-planted-by-hackers/",
+		"linkDate": "2026-03-29T00:00:00.000Z",
+		"category": {
+			"name": "Cybersecurity",
+			"colorCode": "#948000"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1510,
+		"title": "Competition, Innovation, and the Future of the Web – Why Independent Browser Engines Matter",
+		"author": "Andrew Overholt",
+		"url": "https://blog.mozilla.org/netpolicy/2026/03/23/competition-innovation-and-the-future-of-the-web/",
+		"linkDate": "2026-03-29T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1511,
+		"title": "Building the Good Web",
+		"author": "Brennan Kenneth Brown",
+		"url": "https://brennan.day/building-the-good-web/",
+		"linkDate": "2026-03-29T00:00:00.000Z",
+		"category": {
+			"name": "The Internet",
+			"colorCode": "#8b3d15"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1512,
+		"title": "People are not friction",
+		"author": "Dave Rupert",
+		"url": "https://daverupert.com/2026/03/people-are-not-friction/",
+		"linkDate": "2026-03-29T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1513,
+		"title": "It’s about to get a lot easier for your JavaScript to clean up after itself",
+		"author": "Mat Marquis",
+		"url": "https://piccalil.li/blog/its-about-to-get-a-lot-easier-for-your-javascript-to-clean-up-after-itself/",
+		"linkDate": "2026-03-29T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1508,
 		"title": "Hubble (accidentally!) catches a comet tearing itself apart",
 		"author": "Philip Plait",
