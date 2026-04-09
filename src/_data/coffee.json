@@ -1,5 +1,14 @@
 [
 	{
+		"roaster": "Small Planes",
+		"blend": "Gateway",
+		"roast": "Medium",
+		"location": "Washington D.C.",
+		"link": "https://smallplanescoffee.com/products/gateway",
+		"thoughts": "",
+		"date": "2025-01-21"
+	},
+	{
 		"roaster": "Atomic Coffee Roasters",
 		"blend": "House",
 		"roast": "Medium",
@@ -30,13 +39,5 @@
 		"location": "Nashville, TN",
 		"link": "https://www.8thandroast.com/collections/common-voice/products/heirloom",
 		"date": "2026-03-09"
-	},
-	{
-		"roaster": "Small Planes",
-		"blend": "Colonnade",
-		"roast": "Medium",
-		"location": "Washington D.C.",
-		"link": "https://smallplanescoffee.com/products/colonnade",
-		"date": "2026-03-02"
 	}
 ]

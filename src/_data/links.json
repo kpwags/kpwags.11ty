@@ -1,5 +1,230 @@
 [
 	{
+		"linkId": 1529,
+		"title": "Ridicule as Praxis (with Emily Bender and Alex Hanna)",
+		"author": "404 Media Podcast",
+		"url": "https://www.404media.co/ridicule-as-praxis-with-emily-bender-and-alex-hanna/",
+		"linkDate": "2026-04-07T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1530,
+		"title": "Lina Khan was right",
+		"author": "Victoria Song",
+		"url": "https://www.theverge.com/report/896820/lina-khan-ftc-meta-supernatural-antitrust?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IllXdHFBcHUyRGEiLCJwIjoiL3JlcG9ydC84OTY4MjAvbGluYS1raGFuLWZ0Yy1tZXRhLXN1cGVybmF0dXJhbC1hbnRpdHJ1c3QiLCJleHAiOjE3NzYwMjYzNTEsImlhdCI6MTc3NTU5NDM1MX0.J6ioSXjcSSCgPN8dz4oucazn7HTylgzEf_23CJ6ePcM&utm_medium=gift-link",
+		"linkDate": "2026-04-07T00:00:00.000Z",
+		"category": {
+			"name": "Politics",
+			"colorCode": "#8b642f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1528,
+		"title": "I Tried Vibing an RSS Reader and My Dreams Did Not Come True",
+		"author": "Jim Nielsen",
+		"url": "https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/",
+		"linkDate": "2026-04-06T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1524,
+		"title": "You Might Debate It — If You Could See It",
+		"author": "Jim Nielsen",
+		"url": "https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/",
+		"linkDate": "2026-04-05T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1525,
+		"title": "Why designing in code makes you a better designer",
+		"author": "Adam Silver",
+		"url": "https://adamsilver.io/blog/why-designing-in-code-makes-you-a-better-designer/",
+		"linkDate": "2026-04-05T00:00:00.000Z",
+		"category": {
+			"name": "Design",
+			"colorCode": "#0b545e"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1526,
+		"title": "Coding Isn’t the Hard Part",
+		"author": "Derek Comartin",
+		"url": "https://codeopinion.com/coding-isnt-the-hard-part/",
+		"linkDate": "2026-04-05T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1527,
+		"title": "Who's afraid of private credit?",
+		"author": "The Indicator",
+		"url": "https://www.npr.org/2026/03/31/nx-s1-5766278/whos-afraid-of-private-credit",
+		"linkDate": "2026-04-05T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1523,
+		"title": "Before I go: People like it when other people make things",
+		"author": "Dave Rupert",
+		"url": "https://daverupert.com/2026/04/make-something/",
+		"linkDate": "2026-04-04T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1522,
+		"title": "Everything is iPhone now",
+		"author": "Nilay Patel",
+		"url": "https://www.theverge.com/tech/905398/apple-iphone-anniversary-jobs-release",
+		"linkDate": "2026-04-03T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1519,
+		"title": "How Thomson Reuters Powers ICE and Palantir",
+		"author": "Joseph Cox",
+		"url": "https://www.404media.co/how-thomson-reuters-powers-ice-and-palantir/",
+		"linkDate": "2026-04-02T00:00:00.000Z",
+		"category": {
+			"name": "Politics",
+			"colorCode": "#8b642f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1520,
+		"title": "‘BLOCKADE’: The Right Is Using AI Content Scanners to Try to Supercharge Book Banning",
+		"author": "Claire Woodcock",
+		"url": "https://www.404media.co/blockade-the-right-is-using-ai-content-scanners-to-try-to-supercharge-book-banning/",
+		"linkDate": "2026-04-02T00:00:00.000Z",
+		"category": {
+			"name": "Politics",
+			"colorCode": "#8b642f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1521,
+		"title": "What do coders do after AI?",
+		"author": "Anil Dash",
+		"url": "https://www.anildash.com/2026/03/13/coders-after-ai/",
+		"linkDate": "2026-04-02T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1516,
+		"title": "Comprehension Debt - the hidden cost of AI generated code.",
+		"author": "Addy Osmani",
+		"url": "https://addyosmani.com/blog/comprehension-debt/",
+		"linkDate": "2026-03-31T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1517,
+		"title": "Write tests to solve trust issues, not code coverage",
+		"author": "Hristiyan Dodov",
+		"url": "https://dodov.dev/blog/write-tests-to-solve-trust-issues-not-code-coverage",
+		"linkDate": "2026-03-31T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1518,
+		"title": "Food, Software, and Trade-offs",
+		"author": "Jim Nielsen",
+		"url": "https://blog.jim-nielsen.com/2026/food-software-and-trade-offs/",
+		"linkDate": "2026-03-31T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1514,
 		"title": "There is no ethical consumption of HBO’s Harry Potter series",
 		"author": "Charles Pulliam-Moore",
