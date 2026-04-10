@@ -76,31 +76,5 @@
 				"colorCode": "#c71212"
 			}
 		]
-	},
-	{
-		"movieId": 215,
-		"title": "Armed Only with a Camera",
-		"imdbLink": "https://www.imdb.com/title/tt35515733/",
-		"dateWatched": "2026-03-04T00:00:00.000Z",
-		"sortOrder": 25,
-		"rating": 3,
-		"thoughts": "A sobering look at the life of a photo journalist in some of the most dangerous places and times on Earth.",
-		"posterImageUrl": "https://i.postimg.cc/HLVVRYS8/armed-only-with-a-camera.jpg",
-		"status": {
-			"name": "Watched",
-			"colorCode": "#2a9a39"
-		},
-		"genres": [
-			{
-				"name": "Documentary",
-				"colorCode": "#11659c"
-			}
-		],
-		"services": [
-			{
-				"name": "HBO",
-				"colorCode": "#6a4bc9"
-			}
-		]
 	}
 ]

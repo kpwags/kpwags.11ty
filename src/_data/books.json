@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/T1LFL3Kk/fromkin-peace-to-end-all-peace.jpg",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 120,
+			"currentPage": 1234,
 			"pageCount": 1396,
-			"progress": 9,
+			"progress": 88,
 			"sortOrder": 3540,
 			"status": {
 				"name": "Reading",
@@ -42,24 +42,24 @@
 			]
 		},
 		{
-			"bookId": 670,
-			"title": "Hyperion",
+			"bookId": 574,
+			"title": "Wheel of the Infinite",
 			"subTitle": "",
-			"fullTitle": "Hyperion",
-			"author": "Dan Simmons",
-			"link": "https://bookshop.org/p/books/hyperion-dan-simmons/91c9fa80587a0c0b",
-			"dateStarted": "2026-03-27T00:00:00.000Z",
+			"fullTitle": "Wheel of the Infinite",
+			"author": "Martha Wells",
+			"link": "https://bookshop.org/p/books/wheel-of-the-infinite-updated-and-revised-edition-martha-wells/3299c7e680d68a1b",
+			"dateStarted": "2026-04-01T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/nrStwjn4/dan-simmons-hyperion.jpg",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 1649,
-			"pageCount": 8113,
-			"progress": 20,
-			"sortOrder": 1,
+			"coverImageUrl": "https://i.postimg.cc/1XSrsdrz/wells-wheel-of-the-infinite.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 278,
+			"pageCount": 355,
+			"progress": 78,
+			"sortOrder": 160,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
@@ -68,20 +68,17 @@
 				"name": "Fiction",
 				"colorCode": "#1d3c8c"
 			},
-			"series": {
-				"name": "Hyperion",
-				"colorCode": "#c64600"
-			},
+			"series": null,
 			"genres": [
 				{
-					"name": "Science Fiction",
-					"colorCode": "rgb(102, 119, 2)"
+					"name": "Fantasy",
+					"colorCode": "rgb(172, 152, 5)"
 				}
 			],
 			"formats": [
 				{
-					"name": "eBook",
-					"colorCode": "#2c5813"
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
 				}
 			]
 		}
@@ -15572,47 +15569,6 @@
 			]
 		},
 		{
-			"bookId": 574,
-			"title": "Wheel of Infinite",
-			"subTitle": "",
-			"fullTitle": "Wheel of Infinite",
-			"author": "Martha Wells",
-			"link": "https://bookshop.org/p/books/wheel-of-the-infinite-updated-and-revised-edition-martha-wells/bf34e1a6c4a3c91a",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 160,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Science Fiction",
-					"colorCode": "rgb(102, 119, 2)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Paperback",
-					"colorCode": "#cd6a29"
-				}
-			]
-		},
-		{
 			"bookId": 575,
 			"title": "Seveneves",
 			"subTitle": "",
@@ -25978,6 +25934,545 @@
 				{
 					"name": "Technology",
 					"colorCode": "rgb(55, 78, 146)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 679,
+			"title": "Of Monsters and Mainframes",
+			"subTitle": "",
+			"fullTitle": "Of Monsters and Mainframes",
+			"author": "Barbara Truelove",
+			"link": "https://bookshop.org/p/books/of-monsters-and-mainframes-barbara-truelove/e8151d9546a82f7d",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3540,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
+				},
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 680,
+			"title": "The Long Way to a Small, Angry Planet",
+			"subTitle": "",
+			"fullTitle": "The Long Way to a Small, Angry Planet",
+			"author": "Becky Chambers",
+			"link": "https://bookshop.org/p/books/the-long-way-to-a-small-angry-planet-becky-chambers/6437435",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3570,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "Wayfarers",
+				"colorCode": "#ff40ff"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 681,
+			"title": "A Closed and Common Orbit",
+			"subTitle": "",
+			"fullTitle": "A Closed and Common Orbit",
+			"author": "Becky Chambers",
+			"link": "https://bookshop.org/p/books/a-closed-and-common-orbit-becky-chambers/e2cee5e80f2fd634",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3580,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "Wayfarers",
+				"colorCode": "#ff40ff"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 682,
+			"title": "Record of a Spaceborn Few",
+			"subTitle": "",
+			"fullTitle": "Record of a Spaceborn Few",
+			"author": "Becky Chambers",
+			"link": "https://bookshop.org/p/books/record-of-a-spaceborn-few-becky-chambers/4e12b306393db901",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3590,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "Wayfarers",
+				"colorCode": "#ff40ff"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 683,
+			"title": "The Galaxy, and the Ground Within",
+			"subTitle": "",
+			"fullTitle": "The Galaxy, and the Ground Within",
+			"author": "Becky Chambers",
+			"link": "https://bookshop.org/p/books/the-galaxy-and-the-ground-within-a-novel-becky-chambers/79961c02dfb54ea8",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3600,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "Wayfarers",
+				"colorCode": "#ff40ff"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 684,
+			"title": "On the Calculation of Volume (Book I)",
+			"subTitle": "",
+			"fullTitle": "On the Calculation of Volume (Book I)",
+			"author": "Solvej Balle",
+			"link": "https://bookshop.org/p/books/on-the-calculation-of-volume-book-i-shortlisted-for-the-2025-international-booker-prize-solvej-balle/39837e132ef254c6",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3610,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "On the Calculation of Volume",
+				"colorCode": "#009192"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 685,
+			"title": "On the Calculation of Volume (Book II)",
+			"subTitle": "",
+			"fullTitle": "On the Calculation of Volume (Book II)",
+			"author": "Solvej Balle",
+			"link": "https://bookshop.org/p/books/on-the-calculation-of-volume-book-ii-solvej-balle/bc0406fa3eeba7ed",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3620,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "On the Calculation of Volume",
+				"colorCode": "#009192"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 686,
+			"title": "On the Calculation of Volume (Book III)",
+			"subTitle": "",
+			"fullTitle": "On the Calculation of Volume (Book III)",
+			"author": "Solvej Balle",
+			"link": "https://bookshop.org/p/books/on-the-calculation-of-volume-book-iii-solvej-balle/c439f1a4f51fcdb8",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3630,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "On the Calculation of Volume",
+				"colorCode": "#009192"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 687,
+			"title": "On the Calculation of Volume (Book IV)",
+			"subTitle": "",
+			"fullTitle": "On the Calculation of Volume (Book IV)",
+			"author": "Solvej Balle",
+			"link": "https://bookshop.org/p/books/on-the-calculation-of-volume-book-iv-russell/47bfaa6a52cd6b14",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3640,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "On the Calculation of Volume",
+				"colorCode": "#009192"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 688,
+			"title": "On the Calculation of Volume (Book V)",
+			"subTitle": "",
+			"fullTitle": "On the Calculation of Volume (Book V)",
+			"author": "Solvej Balle",
+			"link": "https://bookshop.org/p/books/on-the-calculation-of-volume-book-v-solvej-balle/f03ac57283a45099",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3650,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "On the Calculation of Volume",
+				"colorCode": "#009192"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 689,
+			"title": "An Earthquake Is a Shaking of the Surface of the Earth",
+			"subTitle": "",
+			"fullTitle": "An Earthquake Is a Shaking of the Surface of the Earth",
+			"author": "Anna Moschovakis",
+			"link": "https://bookshop.org/p/books/an-earthquake-is-a-shaking-of-the-surface-of-the-earth-anna-moschovakis/73cac1a681d37c2d",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3660,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "General Fiction",
+					"colorCode": "rgb(145, 104, 104)"
+				},
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 690,
+			"title": "The Word for World Is Forest",
+			"subTitle": "",
+			"fullTitle": "The Word for World Is Forest",
+			"author": "Ursula K. Le Guin",
+			"link": "https://bookshop.org/p/books/the-word-for-world-is-forest-ursula-k-le-guin/27e69e53878f85d1",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3670,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 691,
+			"title": "Discovering Cyrus",
+			"subTitle": "The Persian Conqueror Astride the Ancient World",
+			"fullTitle": "Discovering Cyrus: The Persian Conqueror Astride the Ancient World",
+			"author": "Reza Zaghamee",
+			"link": "https://bookshop.org/p/books/discovering-cyrus-the-persian-conqueror-astride-the-ancient-world-reza-zaghamee/62dfb3a7548ba2a3",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3680,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 692,
+			"title": "The Persian Empire",
+			"subTitle": "A Corpus of Sources from the Achaemenid Period",
+			"fullTitle": "The Persian Empire: A Corpus of Sources from the Achaemenid Period",
+			"author": "Amélie Kuhrt",
+			"link": "https://bookshop.org/p/books/the-persian-empire-a-corpus-of-sources-from-the-achaemenid-period-am-lie-kuhrt/57465974a9d51e13",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3690,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
 				}
 			],
 			"formats": []
