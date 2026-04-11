@@ -1,24 +1,24 @@
 {
 	"inProgress": [
 		{
-			"bookId": 678,
-			"title": "A Peace to End All Peace",
-			"subTitle": "The Fall of the Ottoman Empire and the Creation of the Modern Middle East",
-			"fullTitle": "A Peace to End All Peace: The Fall of the Ottoman Empire and the Creation of the Modern Middle East",
-			"author": "David Fromkin",
-			"link": "https://bookshop.org/p/books/a-peace-to-end-all-peace-the-fall-of-the-ottoman-empire-and-the-creation-of-the-modern-middle-east-david-fromkin/df210f7a1fb6f9b4",
-			"dateStarted": "2026-03-28T00:00:00.000Z",
+			"bookId": 693,
+			"title": "Inheritocracy",
+			"subTitle": "It's Time to Talk about the Bank of Mum and Dad",
+			"fullTitle": "Inheritocracy: It's Time to Talk about the Bank of Mum and Dad",
+			"author": "Eliza Filby",
+			"link": "https://townebc.com/book/9780753561904",
+			"dateStarted": "2026-04-12T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/T1LFL3Kk/fromkin-peace-to-end-all-peace.jpg",
+			"coverImageUrl": "https://i.postimg.cc/J4L7PFMx/inheritocracy.jpg",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 1234,
-			"pageCount": 1396,
-			"progress": 88,
-			"sortOrder": 3540,
+			"currentPage": 1,
+			"pageCount": 4052,
+			"progress": 1,
+			"sortOrder": 170,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
@@ -30,55 +30,14 @@
 			"series": null,
 			"genres": [
 				{
-					"name": "History",
-					"colorCode": "rgb(4, 38, 142)"
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
 				}
 			],
 			"formats": [
 				{
-					"name": "Audiobook",
-					"colorCode": "#b300b3"
-				}
-			]
-		},
-		{
-			"bookId": 574,
-			"title": "Wheel of the Infinite",
-			"subTitle": "",
-			"fullTitle": "Wheel of the Infinite",
-			"author": "Martha Wells",
-			"link": "https://bookshop.org/p/books/wheel-of-the-infinite-updated-and-revised-edition-martha-wells/3299c7e680d68a1b",
-			"dateStarted": "2026-04-01T00:00:00.000Z",
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/1XSrsdrz/wells-wheel-of-the-infinite.jpg",
-			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 278,
-			"pageCount": 355,
-			"progress": 78,
-			"sortOrder": 160,
-			"status": {
-				"name": "Reading",
-				"colorCode": "#6a208f"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Fantasy",
-					"colorCode": "rgb(172, 152, 5)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Paperback",
-					"colorCode": "#cd6a29"
+					"name": "eBook",
+					"colorCode": "#2c5813"
 				}
 			]
 		}
@@ -87,6 +46,88 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 574,
+					"title": "Wheel of the Infinite",
+					"subTitle": "",
+					"fullTitle": "Wheel of the Infinite",
+					"author": "Martha Wells",
+					"link": "https://bookshop.org/p/books/wheel-of-the-infinite-updated-and-revised-edition-martha-wells/3299c7e680d68a1b",
+					"dateStarted": "2026-04-01T00:00:00.000Z",
+					"dateCompleted": "2026-04-10T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "An enjoyable story. Good characters and the world building was great.",
+					"coverImageUrl": "https://i.postimg.cc/1XSrsdrz/wells-wheel-of-the-infinite.jpg",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 355,
+					"pageCount": 355,
+					"progress": 100,
+					"sortOrder": 160,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Fantasy",
+							"colorCode": "rgb(172, 152, 5)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Paperback",
+							"colorCode": "#cd6a29"
+						}
+					]
+				},
+				{
+					"bookId": 678,
+					"title": "A Peace to End All Peace",
+					"subTitle": "The Fall of the Ottoman Empire and the Creation of the Modern Middle East",
+					"fullTitle": "A Peace to End All Peace: The Fall of the Ottoman Empire and the Creation of the Modern Middle East",
+					"author": "David Fromkin",
+					"link": "https://bookshop.org/p/books/a-peace-to-end-all-peace-the-fall-of-the-ottoman-empire-and-the-creation-of-the-modern-middle-east-david-fromkin/df210f7a1fb6f9b4",
+					"dateStarted": "2026-03-28T00:00:00.000Z",
+					"dateCompleted": "2026-04-10T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "An interesting dive into the Ottoman Empire’s final years and the political ambitions of the western powers. It was long and in depth, and provided a lot of background that I never realized.",
+					"coverImageUrl": "https://i.postimg.cc/T1LFL3Kk/fromkin-peace-to-end-all-peace.jpg",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 1396,
+					"pageCount": 1396,
+					"progress": 100,
+					"sortOrder": 3540,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "History",
+							"colorCode": "rgb(4, 38, 142)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Audiobook",
+							"colorCode": "#b300b3"
+						}
+					]
+				},
 				{
 					"bookId": 677,
 					"title": "Too Big to Fail",
@@ -97,7 +138,7 @@
 					"dateStarted": "2026-03-16T00:00:00.000Z",
 					"dateCompleted": "2026-03-28T00:00:00.000Z",
 					"rating": 3,
-					"bookNotesUrl": "",
+					"bookNotesUrl": "andrew-ross-sorkin-too-big-to-fail",
 					"thoughts": "An interesting look at the lead up to the 2008 financial crisis and the people involved in both the banks and government.",
 					"coverImageUrl": "https://i.postimg.cc/sg5Yhkm6/sorkin-too-big-to-fail.jpg",
 					"isAtLibrary": true,

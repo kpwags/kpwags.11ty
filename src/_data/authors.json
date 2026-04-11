@@ -564,6 +564,15 @@
 		]
 	},
 	{
+		"name": "David Fromkin",
+		"books": [
+			{
+				"title": "A Peace to End All Peace: The Fall of the Ottoman Empire and the Creation of the Modern Middle East",
+				"link": "https://bookshop.org/p/books/a-peace-to-end-all-peace-the-fall-of-the-ottoman-empire-and-the-creation-of-the-modern-middle-east-david-fromkin/df210f7a1fb6f9b4"
+			}
+		]
+	},
+	{
 		"name": "David Graeber",
 		"books": [
 			{
@@ -1535,6 +1544,10 @@
 			{
 				"title": "System Collapse",
 				"link": "https://bookshop.org/p/books/system-collapse-martha-wells/19538545"
+			},
+			{
+				"title": "Wheel of the Infinite",
+				"link": "https://bookshop.org/p/books/wheel-of-the-infinite-updated-and-revised-edition-martha-wells/3299c7e680d68a1b"
 			}
 		]
 	},
