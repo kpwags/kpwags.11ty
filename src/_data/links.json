@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1534,
+		"title": "Some writing advice from Project Hail Mary’s Andy Weir",
+		"author": "Andrew Webster",
+		"url": "https://www.theverge.com/entertainment/898918/project-hail-mary-andy-weir-writing-advice-interview",
+		"linkDate": "2026-04-11T00:00:00.000Z",
+		"category": {
+			"name": "Writing",
+			"colorCode": "#371a94"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1531,
 		"title": "Why We Fly",
 		"author": "Barry Petchesky",

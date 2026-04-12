@@ -57,6 +57,7 @@ export const config = {
 		'Economics',
 		'Sports',
 		'Health & Fitness',
+		'Writing',
 		'Podcasts',
 		'Media & Entertainment',
 		'Longform',
