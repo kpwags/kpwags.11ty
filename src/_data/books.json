@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/J4L7PFMx/inheritocracy.jpg",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 1,
+			"currentPage": 762,
 			"pageCount": 4052,
-			"progress": 1,
+			"progress": 19,
 			"sortOrder": 170,
 			"status": {
 				"name": "Reading",
@@ -15260,6 +15260,50 @@
 		}
 	],
 	"toRead": [
+		{
+			"bookId": 694,
+			"title": "Children of Strife",
+			"subTitle": "",
+			"fullTitle": "Children of Strife",
+			"author": "Adrian Tchaikovsky",
+			"link": "https://bookshop.org/p/books/children-of-strife-adrian-tchaikovsky/a5faafb97f58dfb0",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/c4Wz83G1/children-of-strife.webp",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 477,
+			"progress": 0,
+			"sortOrder": 1,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "Children of Time",
+				"colorCode": "#03229b"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
 		{
 			"bookId": 634,
 			"title": "Old Man's War",
