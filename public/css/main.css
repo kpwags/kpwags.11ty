@@ -1923,3 +1923,23 @@ th.shows {
 	padding: 0;
 	margin: 0;
 }
+
+.credited-image {
+	margin-bottom: 32px;
+}
+
+.credited-image .image {
+	justify-content: center;
+	display: flex;
+}
+
+.credited-image .image picture {
+	width: 80%;
+}
+
+.credited-image .credit {
+	font-style: italic;
+	font-size: 0.8rem;
+	text-align: center;
+	margin-top: 4px;
+}
