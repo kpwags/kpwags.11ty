@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1535,
+		"title": "Substack Still Has A Nazi Problem (And Doesn't Care)",
+		"author": "Karl Bode",
+		"url": "https://karlbode.com/substack-still-has-a-nazi-problem-and-doesnt-care/",
+		"linkDate": "2026-04-13T00:00:00.000Z",
+		"category": {
+			"name": "Journalism",
+			"colorCode": "#131519"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1534,
 		"title": "Some writing advice from Project Hail Mary’s Andy Weir",
 		"author": "Andrew Webster",
