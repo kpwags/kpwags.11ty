@@ -24,57 +24,5 @@
 				"colorCode": "#e66100"
 			}
 		]
-	},
-	{
-		"movieId": 217,
-		"title": "The Bride!",
-		"imdbLink": "https://www.imdb.com/title/tt30851137/",
-		"dateWatched": "2026-03-17T00:00:00.000Z",
-		"sortOrder": null,
-		"rating": 3,
-		"thoughts": "It was fine. Wasn’t particularly my type of movie though.",
-		"posterImageUrl": "https://i.postimg.cc/gJ5xtCZx/the-bride.jpg",
-		"status": {
-			"name": "Watched",
-			"colorCode": "#2a9a39"
-		},
-		"genres": [
-			{
-				"name": "Dark Comedy",
-				"colorCode": "#000000"
-			}
-		],
-		"services": [
-			{
-				"name": "Theater",
-				"colorCode": "#e66100"
-			}
-		]
-	},
-	{
-		"movieId": 216,
-		"title": "Apollo 11",
-		"imdbLink": "https://www.imdb.com/title/tt8760684/",
-		"dateWatched": "2026-03-15T00:00:00.000Z",
-		"sortOrder": null,
-		"rating": 4,
-		"thoughts": "The restored footage was absolutely phenomenal. It’s amazing to see and think what Apollo 11 and the entire early space program was able to do with the technology available.",
-		"posterImageUrl": "https://i.postimg.cc/g234vBGY/apollo-11.jpg",
-		"status": {
-			"name": "Watched",
-			"colorCode": "#2a9a39"
-		},
-		"genres": [
-			{
-				"name": "Documentary",
-				"colorCode": "#11659c"
-			}
-		],
-		"services": [
-			{
-				"name": "Netflix",
-				"colorCode": "#c71212"
-			}
-		]
 	}
 ]
