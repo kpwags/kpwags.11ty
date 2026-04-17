@@ -1,5 +1,35 @@
 [
 	{
+		"linkId": 1537,
+		"title": "Working Through the Fear of Being Seen",
+		"author": "Ashley Willis",
+		"url": "https://ashley.dev/posts/fear-of-being-seen/",
+		"linkDate": "2026-04-17T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1536,
+		"title": "How the Internet Became Hell (with Whitney Phillips)",
+		"author": "404 Media Podcast",
+		"url": "https://www.404media.co/how-the-internet-became-hell-with-whitney-phillips/",
+		"linkDate": "2026-04-16T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
 		"linkId": 1535,
 		"title": "Substack Still Has A Nazi Problem (And Doesn't Care)",
 		"author": "Karl Bode",

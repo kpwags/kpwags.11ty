@@ -1,5 +1,13 @@
 [
 	{
+		"roaster": "Gimme!",
+		"blend": "Honduras Angel BBs",
+		"roast": "Medium",
+		"location": "Ithaca, NY",
+		"link": "https://gimmecoffee.com/products/honduras-angel-bbs-fairtrade-organic?variant=44879443263707",
+		"date": "2026-04-14"
+	},
+	{
 		"roaster": "Small Planes",
 		"blend": "Gateway",
 		"roast": "Medium",
@@ -31,13 +39,5 @@
 		"location": "Brooklyn, NY",
 		"link": "https://www.caffevita.com/products/bistro-blend",
 		"date": "2026-03-16"
-	},
-	{
-		"roaster": "8th & Roast Coffee Co.",
-		"blend": "Common Voice: Heirloom",
-		"roast": "Medium",
-		"location": "Nashville, TN",
-		"link": "https://www.8thandroast.com/collections/common-voice/products/heirloom",
-		"date": "2026-03-09"
 	}
 ]

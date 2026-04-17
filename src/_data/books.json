@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/J4L7PFMx/inheritocracy.jpg",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 1072,
+			"currentPage": 2643,
 			"pageCount": 4052,
-			"progress": 26,
+			"progress": 65,
 			"sortOrder": 170,
 			"status": {
 				"name": "Reading",
@@ -26558,6 +26558,42 @@
 				{
 					"name": "History",
 					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 695,
+			"title": "Privacy's Defender",
+			"subTitle": "My Thirty-Year Fight Against Digital Surveillance",
+			"fullTitle": "Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance",
+			"author": "Cindy Cohn",
+			"link": "https://bookshop.org/p/books/privacy-s-defender-my-thirty-year-fight-against-digital-surveillance-cindy-cohn/53886568f609835d",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3700,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Technology",
+					"colorCode": "rgb(55, 78, 146)"
 				}
 			],
 			"formats": []
