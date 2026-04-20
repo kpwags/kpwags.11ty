@@ -1,5 +1,35 @@
 [
 	{
+		"linkId": 1538,
+		"title": "Anthropic secretly installs spyware when you install Claude Desktop",
+		"author": "Alexander Hanff",
+		"url": "https://www.thatprivacyguy.com/blog/anthropic-spyware/",
+		"linkDate": "2026-04-20T00:00:00.000Z",
+		"category": {
+			"name": "Cybersecurity",
+			"colorCode": "#948000"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1539,
+		"title": "How To Write When You Have Nothing To Write About",
+		"author": "Alex Zalben",
+		"url": "https://medium.com/@azalben/how-to-write-when-you-have-nothing-to-write-about-34a8619af807",
+		"linkDate": "2026-04-20T00:00:00.000Z",
+		"category": {
+			"name": "Writing",
+			"colorCode": "#371a94"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1537,
 		"title": "Working Through the Fear of Being Seen",
 		"author": "Ashley Willis",

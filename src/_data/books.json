@@ -1,43 +1,46 @@
 {
 	"inProgress": [
 		{
-			"bookId": 693,
-			"title": "Inheritocracy",
-			"subTitle": "It's Time to Talk about the Bank of Mum and Dad",
-			"fullTitle": "Inheritocracy: It's Time to Talk about the Bank of Mum and Dad",
-			"author": "Eliza Filby",
-			"link": "https://townebc.com/book/9780753561904",
-			"dateStarted": "2026-04-12T00:00:00.000Z",
+			"bookId": 694,
+			"title": "Children of Strife",
+			"subTitle": "",
+			"fullTitle": "Children of Strife",
+			"author": "Adrian Tchaikovsky",
+			"link": "https://bookshop.org/p/books/children-of-strife-adrian-tchaikovsky/a5faafb97f58dfb0",
+			"dateStarted": "2026-04-20T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/J4L7PFMx/inheritocracy.jpg",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 3399,
-			"pageCount": 4052,
-			"progress": 84,
-			"sortOrder": 170,
+			"coverImageUrl": "https://i.postimg.cc/c4Wz83G1/children-of-strife.webp",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 477,
+			"progress": 1,
+			"sortOrder": 1,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
 			},
 			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
 			},
-			"series": null,
+			"series": {
+				"name": "Children of Time",
+				"colorCode": "#03229b"
+			},
 			"genres": [
 				{
-					"name": "Business & Economics",
-					"colorCode": "rgb(23, 126, 0)"
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
 				}
 			],
 			"formats": [
 				{
-					"name": "eBook",
-					"colorCode": "#2c5813"
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
 				}
 			]
 		}
@@ -46,6 +49,47 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 693,
+					"title": "Inheritocracy",
+					"subTitle": "It's Time to Talk about the Bank of Mum and Dad",
+					"fullTitle": "Inheritocracy: It's Time to Talk about the Bank of Mum and Dad",
+					"author": "Eliza Filby",
+					"link": "https://townebc.com/book/9780753561904",
+					"dateStarted": "2026-04-12T00:00:00.000Z",
+					"dateCompleted": "2026-04-19T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "A thoughtful look and reminder of how much of our lives are helped by our parents and grandparents and how they can help determine how our lives unwind.",
+					"coverImageUrl": "https://i.postimg.cc/J4L7PFMx/inheritocracy.jpg",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 4052,
+					"pageCount": 4052,
+					"progress": 100,
+					"sortOrder": 170,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Business & Economics",
+							"colorCode": "rgb(23, 126, 0)"
+						}
+					],
+					"formats": [
+						{
+							"name": "eBook",
+							"colorCode": "#2c5813"
+						}
+					]
+				},
 				{
 					"bookId": 574,
 					"title": "Wheel of the Infinite",
@@ -15260,50 +15304,6 @@
 		}
 	],
 	"toRead": [
-		{
-			"bookId": 694,
-			"title": "Children of Strife",
-			"subTitle": "",
-			"fullTitle": "Children of Strife",
-			"author": "Adrian Tchaikovsky",
-			"link": "https://bookshop.org/p/books/children-of-strife-adrian-tchaikovsky/a5faafb97f58dfb0",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/c4Wz83G1/children-of-strife.webp",
-			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 1,
-			"pageCount": 477,
-			"progress": 0,
-			"sortOrder": 1,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": {
-				"name": "Children of Time",
-				"colorCode": "#03229b"
-			},
-			"genres": [
-				{
-					"name": "Science Fiction",
-					"colorCode": "rgb(102, 119, 2)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Hardcover",
-					"colorCode": "#a0175f"
-				}
-			]
-		},
 		{
 			"bookId": 634,
 			"title": "Old Man's War",
