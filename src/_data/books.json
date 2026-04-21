@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/c4Wz83G1/children-of-strife.webp",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 1,
+			"currentPage": 29,
 			"pageCount": 477,
-			"progress": 1,
+			"progress": 6,
 			"sortOrder": 1,
 			"status": {
 				"name": "Reading",
@@ -24274,42 +24274,6 @@
 					"colorCode": "#a0175f"
 				}
 			]
-		},
-		{
-			"bookId": 602,
-			"title": "How Countries Go Broke",
-			"subTitle": "The Big Cycle",
-			"fullTitle": "How Countries Go Broke: The Big Cycle",
-			"author": "Ray Dalio",
-			"link": "https://bookshop.org/p/books/principles-investment-and-economic-ray-dalio/21286041",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 3000,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Business & Economics",
-					"colorCode": "rgb(23, 126, 0)"
-				}
-			],
-			"formats": []
 		},
 		{
 			"bookId": 605,
