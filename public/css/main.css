@@ -1205,7 +1205,7 @@ section.links .links-list li .category span.tag.type {
 }
 
 .post p picture {
-	width: 80%;
+	max-width: 80%;
 }
 
 div.image-credit {
@@ -1217,6 +1217,7 @@ div.image-credit {
 
 @media (max-width: 500px) {
 	.post p picture {
+		max-width: 100%;
 		width: 100%;
 	}
 }
