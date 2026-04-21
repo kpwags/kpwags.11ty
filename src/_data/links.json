@@ -1,5 +1,50 @@
 [
 	{
+		"linkId": 1541,
+		"title": "This AI Tool Rips Off Open Source Software Without Violating Copyright",
+		"author": "Emanuel Maiberg",
+		"url": "https://www.404media.co/this-ai-tool-rips-off-open-source-software-without-violating-copyright/",
+		"linkDate": "2026-04-21T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1542,
+		"title": "Corporate landlords aren't the real villain",
+		"author": "The Indicator",
+		"url": "https://www.npr.org/2026/04/21/nx-s1-5792868/corporate-landlords-arent-the-real-villain",
+		"linkDate": "2026-04-21T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1540,
+		"title": "Brandon Sanderson vs. AI Art",
+		"author": "Cal Newport",
+		"url": "https://calnewport.com/brandon-sanderson-vs-ai-art/",
+		"linkDate": "2026-04-20T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1538,
 		"title": "Anthropic secretly installs spyware when you install Claude Desktop",
 		"author": "Alexander Hanff",
