@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1544,
+		"title": "A Feast Of Sludge, With Ed Zitron",
+		"author": "The Distraction",
+		"url": "https://defector.com/a-feast-of-sludge-with-ed-zitron",
+		"linkDate": "2026-04-23T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
 		"linkId": 1541,
 		"title": "This AI Tool Rips Off Open Source Software Without Violating Copyright",
 		"author": "Emanuel Maiberg",
@@ -27,6 +42,21 @@
 		"type": {
 			"name": "Podcast",
 			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1543,
+		"title": "The FBI Director Is MIA",
+		"author": "Sarah Fitzpatrick",
+		"url": "https://www.theatlantic.com/politics/2026/04/kash-patel-fbi-director-drinking-absences/686839/?gift=1DB4SN346BQMZD_z1NnltfwMk872ccQiLIIMrgGfuaQ",
+		"linkDate": "2026-04-21T00:00:00.000Z",
+		"category": {
+			"name": "Politics",
+			"colorCode": "#8b642f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
 		}
 	},
 	{
