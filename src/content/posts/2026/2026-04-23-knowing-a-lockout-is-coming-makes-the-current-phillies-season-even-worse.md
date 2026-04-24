@@ -1,0 +1,31 @@
+---
+title: "Knowing a Lockout is Coming Makes the Current Phillies Season Even Worse"
+subtitle: "There's Always Next Season...Oh..."
+description: "The Phillies season is a dumpster fire at the moment, no hope in sight, and a lockout on the horizon."
+date: '2026-04-23T20:21:00.000Z'
+permalink: /posts/2026/knowing-a-lockout-is-coming-makes-the-current-phillies-season-even-worse/index.html
+rss_only: false
+pinned: false
+spoilers: false
+tags:
+  - Phillies
+  - Baseball
+  - MLB
+  - Sports
+---
+Baseball is in an interesting place right now. The changes they've implemented over the last few years to speed up the game and produce more offense have been generally successful. Games don't feel like quite the slog they used to and viewership is back on the rise. My team, the Philadelphia Phillies have been competitive. We've been to the playoffs the last 4 seasons, were in the 2022 World Series and are back-to-back NL East champs. This season however, while still early, is looking, well, to put it charitably, not looking good.
+<!-- excerpt -->
+
+The Phillies are 8-17, on a 9-game losing streak, and are not playing good baseball. Their offense is anemic and their pitching has been a little erratic. It feels like they're either exploding at the plate and winning big or just crashing and burning.
+
+What makes this worse is that the current collective bargaining agreement (CBA) expires after this season, December 1st. There have been two major baseball labor conflicts in my life. The 1994 strike that ended up cancelling the 1994 World Series and really drove away a lot of fans, and the 2021-22 lockout that was resolved fast enough to only have a minimal effect on the season. This next one I suspect is going to be big.
+
+Baseball is the only sport out of the major four (Football, Baseball, Hockey, & Basketball) to not have a salary cap of any kind. Teams are welcome to spend as much (or in some cases, as little) as they want to field their team. There is a [luxury tax](https://www.mlb.com/glossary/transactions/competitive-balance-tax) that teams have to pay if they go over certain amounts, but there is no actual limit to what teams can spend. Owners want a salary cap. Rob Manfred, the commissioner of Major League Baseball has been going around to the different clubhouses over the last year to talk about it. It even caused a dust up between [him and Bryce Harper](https://www.espn.com/mlb/story/_/id/45842533/sources-phillies-bryce-harper-tells-mlb-boss-get-clubhouse) over the thought of a salary cap. From a labor perspective, owners want a salary cap because it arbitrarily limits the amount of money they can spend on the players, and players don't like the salary cap for the same reason. I'm not certain how they're going to get past that if the owners are deadset on a salary cap.
+
+Part of this upcoming labor strife is likely caused by the Los Angeles Dodgers. The Dodgers have won back-to-back World Series over the last 2 seasons. They also have an astronomical payroll, sitting at $415.8 million. The next closest team is the Mets at $381 million. Also for reference, the Miami Marlins have the honor of having the lowest payroll at $81.2 million. Needless to say, there's a large discrepancy  between the Dodgers and the Marlins and I think there's a growing resentment about the Dodgers "buying championships".
+
+"Buying Championships" isn't anything new though. It's been done before in the late-90s, early-00s with the New York Yankees. I put buying championships in quotes because the Yankees, despite their current high payroll haven't won the World Series since 2009. My Phillies, have the 4th highest payroll this year, and we haven't won since 2008...and are well below .500. As someone who is decidedly *not* a fan of the Dodgers, sure it's frustrating to see them loading up their roster with some of the absolute best players in baseball, including Shohei Ohtani who is probably the best player of this generation, and will likely go down as one of the greatest players to have ever played the game. They have the money to spend and will spend it. From a league-wide perspective, it's also hard to complain about the Dodgers spending money to build a juggernaut when other owners, for teams like the Reds, Pirates, and Marlins, refuse to spend money to put a competitive team on the field.
+
+The last lockout didn't ultimately cost the MLB the season. It had a condensed spring, and started a little later, but they still got in the 162 games. The lockout was primarily fought over the way teams tend to treat the younger players and manipulate their service time (how many years they're considered to be an MLB player) and keep them cheap and under team control longer before they can become a free agent. The younger the player, the less service time he has under his belt, the less the team has to pay them. The longer you can keep them under team control, the better for the team. Teams would literally send a player down for the first week of a season *just* to get an extra year of team control and a smaller contract. In the end the MLB Player's Association (MLBPA), their union got the owners to agree to some new rules to try to incentivize owners to put the best product on the field.
+
+This next one, well it's still too early to say. But if the sides remain as far apart as they seem right now, I'm not sure how they might find some way to find a middle ground. And if it does turn out to be an extended affair, the last season of baseball being such a lousy one from my Phillies is gonna hit so much harder. The Phillies have their share of superstars in Bryce Harper, Kyle Schwarber, Trea Turner, Zack Wheeler, and JT Realmuto. They're all getting older and probably on the other side of their prime. I want to see more of them as close to their prime as possible. I want to see them turn this season around and become competitive. I don't want the last baseball I see before another potential prolonged lockout be...whatever lousy baseball the Phillies are playing now.

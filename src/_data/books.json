@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/c4Wz83G1/children-of-strife.webp",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 29,
+			"currentPage": 105,
 			"pageCount": 477,
-			"progress": 6,
+			"progress": 22,
 			"sortOrder": 1,
 			"status": {
 				"name": "Reading",
@@ -41,6 +41,47 @@
 				{
 					"name": "Hardcover",
 					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 696,
+			"title": "In This Economy?",
+			"subTitle": "How Money & Markets Really Work",
+			"fullTitle": "In This Economy?: How Money & Markets Really Work",
+			"author": "Kyla Scanlon",
+			"link": "https://bookshop.org/p/books/in-this-economy-how-money-markets-really-work-kyla-scanlon/9527da7b1e7936ea",
+			"dateStarted": "2026-04-22T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/ZYXy2Q0s/scanlon-in-this-economy.webp",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 328,
+			"pageCount": 579,
+			"progress": 57,
+			"sortOrder": 11,
+			"status": {
+				"name": "Reading",
+				"colorCode": "#6a208f"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Audiobook",
+					"colorCode": "#b300b3"
 				}
 			]
 		}
