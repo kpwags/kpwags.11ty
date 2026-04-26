@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/c4Wz83G1/children-of-strife.webp",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 105,
+			"currentPage": 143,
 			"pageCount": 477,
-			"progress": 22,
+			"progress": 30,
 			"sortOrder": 1,
 			"status": {
 				"name": "Reading",
@@ -45,24 +45,24 @@
 			]
 		},
 		{
-			"bookId": 696,
-			"title": "In This Economy?",
-			"subTitle": "How Money & Markets Really Work",
-			"fullTitle": "In This Economy?: How Money & Markets Really Work",
-			"author": "Kyla Scanlon",
-			"link": "https://bookshop.org/p/books/in-this-economy-how-money-markets-really-work-kyla-scanlon/9527da7b1e7936ea",
-			"dateStarted": "2026-04-22T00:00:00.000Z",
+			"bookId": 676,
+			"title": "Means of Control",
+			"subTitle": "How the Hidden Alliance of Tech and Government Is Creating a New American Surveillance State",
+			"fullTitle": "Means of Control: How the Hidden Alliance of Tech and Government Is Creating a New American Surveillance State",
+			"author": "Byron Tau",
+			"link": "https://bookshop.org/p/books/means-of-control-how-the-hidden-alliance-of-tech-and-government-is-creating-a-new-american-surveillance-state-byron-tau/68b1e1ca5cd9445a",
+			"dateStarted": "2026-04-25T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/ZYXy2Q0s/scanlon-in-this-economy.webp",
+			"coverImageUrl": "https://i.postimg.cc/L5yD5hP8/tau-means-of-control.webp",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 328,
-			"pageCount": 579,
-			"progress": 57,
-			"sortOrder": 11,
+			"currentPage": 37,
+			"pageCount": 671,
+			"progress": 6,
+			"sortOrder": 3530,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
@@ -74,8 +74,12 @@
 			"series": null,
 			"genres": [
 				{
-					"name": "Business & Economics",
-					"colorCode": "rgb(23, 126, 0)"
+					"name": "Politics",
+					"colorCode": "rgb(130, 40, 40)"
+				},
+				{
+					"name": "Technology",
+					"colorCode": "rgb(55, 78, 146)"
 				}
 			],
 			"formats": [
@@ -90,6 +94,47 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 696,
+					"title": "In This Economy?",
+					"subTitle": "How Money & Markets Really Work",
+					"fullTitle": "In This Economy?: How Money & Markets Really Work",
+					"author": "Kyla Scanlon",
+					"link": "https://bookshop.org/p/books/in-this-economy-how-money-markets-really-work-kyla-scanlon/9527da7b1e7936ea",
+					"dateStarted": "2026-04-22T00:00:00.000Z",
+					"dateCompleted": "2026-04-25T00:00:00.000Z",
+					"rating": 4,
+					"bookNotesUrl": "",
+					"thoughts": "This was a good, thoughtful book going over the various economic terms and issues we hear about constantly in the news. It’s described in clear simple terms, but with enough detail and context to learn about why the economy works the way it does and how we as people are the economy.",
+					"coverImageUrl": "https://i.postimg.cc/ZYXy2Q0s/scanlon-in-this-economy.webp",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 579,
+					"pageCount": 579,
+					"progress": 100,
+					"sortOrder": 11,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Business & Economics",
+							"colorCode": "rgb(23, 126, 0)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Audiobook",
+							"colorCode": "#b300b3"
+						}
+					]
+				},
 				{
 					"bookId": 693,
 					"title": "Inheritocracy",
@@ -25984,46 +26029,6 @@
 				{
 					"name": "Science Fiction",
 					"colorCode": "rgb(102, 119, 2)"
-				}
-			],
-			"formats": []
-		},
-		{
-			"bookId": 676,
-			"title": "Means of Control",
-			"subTitle": "How the Hidden Alliance of Tech and Government Is Creating a New American Surveillance State",
-			"fullTitle": "Means of Control: How the Hidden Alliance of Tech and Government Is Creating a New American Surveillance State",
-			"author": "Byron Tau",
-			"link": "https://bookshop.org/p/books/means-of-control-how-the-hidden-alliance-of-tech-and-government-is-creating-a-new-american-surveillance-state-byron-tau/68b1e1ca5cd9445a",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 3530,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Politics",
-					"colorCode": "rgb(130, 40, 40)"
-				},
-				{
-					"name": "Technology",
-					"colorCode": "rgb(55, 78, 146)"
 				}
 			],
 			"formats": []

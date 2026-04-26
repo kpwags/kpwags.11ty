@@ -1,5 +1,80 @@
 [
 	{
+		"linkId": 1554,
+		"title": "Why I Switched to Primary Constructors for DI in C#",
+		"author": "Milan Jovanović",
+		"url": "https://www.milanjovanovic.tech/blog/why-i-switched-to-primary-constructors-for-di-in-csharp",
+		"linkDate": "2026-04-26T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1555,
+		"title": "On being a fellow Dainosaur",
+		"author": "Roy Cornelissen",
+		"url": "https://roycornelissen.wordpress.com/2026/04/18/on-being-a-fellow-dainosaur/",
+		"linkDate": "2026-04-26T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1551,
+		"title": "If you thought the speed of writing code was your problem - you have bigger problems",
+		"author": "Andrew Murphy",
+		"url": "https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems",
+		"linkDate": "2026-04-25T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1552,
+		"title": "Do I belong in tech anymore?",
+		"author": "Ky Decker",
+		"url": "https://ky.fyi/posts/ai-burnout",
+		"linkDate": "2026-04-25T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1553,
+		"title": "What Comes After The Garden?",
+		"author": "Heather Wei-Xi Chen",
+		"url": "https://defector.com/what-comes-after-the-garden",
+		"linkDate": "2026-04-25T00:00:00.000Z",
+		"category": {
+			"name": "Sports",
+			"colorCode": "#2d5f6f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1544,
 		"title": "A Feast Of Sludge, With Ed Zitron",
 		"author": "The Distraction",
@@ -12,6 +87,81 @@
 		"type": {
 			"name": "Podcast",
 			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1545,
+		"title": "From Allbirds to Glossier, millennial brands have lost their mojo",
+		"author": "The Economist",
+		"url": "https://www.economist.com/business/2026/04/21/from-allbirds-to-glossier-millennial-brands-have-lost-their-mojo",
+		"linkDate": "2026-04-23T00:00:00.000Z",
+		"category": {
+			"name": "Business & Finance",
+			"colorCode": "#0d5430"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1547,
+		"title": "Age verification is a mess but we’re doing it anyway",
+		"author": "Emma Roth",
+		"url": "https://www.theverge.com/policy/913038/age-verification-flaws?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZQQmpualNtZGkiLCJwIjoiL3BvbGljeS85MTMwMzgvYWdlLXZlcmlmaWNhdGlvbi1mbGF3cyIsImV4cCI6MTc3NzQyNTY4MywiaWF0IjoxNzc2OTkzNjgzfQ.ZUjyubVenaMVd48Qm6Jm411oe9_ErTQAcBwt2xtH-YQ&utm_medium=gift-link",
+		"linkDate": "2026-04-23T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1548,
+		"title": "The Three Pillars of JavaScript Bloat",
+		"author": "James Garbutt",
+		"url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+		"linkDate": "2026-04-23T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1549,
+		"title": "EF Core is Better with Wolverine",
+		"author": "Jeremy Miller",
+		"url": "https://jeremydmiller.com/2026/04/21/ef-core-is-better-with-wolverine/",
+		"linkDate": "2026-04-23T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1550,
+		"title": "You Can Never Let Them Think They Have A Chance",
+		"author": "Diana Moskovitz",
+		"url": "https://defector.com/dianna-russini-mike-vrabel-the-athletic",
+		"linkDate": "2026-04-23T00:00:00.000Z",
+		"category": {
+			"name": "Journalism",
+			"colorCode": "#131519"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
 		}
 	},
 	{
