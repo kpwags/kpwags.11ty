@@ -30,6 +30,66 @@
 		}
 	},
 	{
+		"linkId": 1556,
+		"title": "You’re about to feel the AI money squeeze",
+		"author": "Hayden Field",
+		"url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+		"linkDate": "2026-04-26T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1557,
+		"title": "The Great CSS Expansion",
+		"author": "Pavel Laptev",
+		"url": "https://blog.gitbutler.com/the-great-css-expansion",
+		"linkDate": "2026-04-26T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1558,
+		"title": "I used AI. It worked. I hated it.",
+		"author": "Michael Taggart",
+		"url": "https://taggart-tech.com/reckoning/",
+		"linkDate": "2026-04-26T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1559,
+		"title": "Forbes Prediction Market Gamifies Story About Mass Shooting of 8 Children",
+		"author": "Matthew Gault",
+		"url": "https://www.404media.co/forbes-prediction-market-gamefies-story-about-mass-shooting-of-8-children/",
+		"linkDate": "2026-04-26T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1551,
 		"title": "If you thought the speed of writing code was your problem - you have bigger problems",
 		"author": "Andrew Murphy",
