@@ -1,5 +1,13 @@
 [
 	{
+		"roaster": "Irving Farm Coffee",
+		"blend": "71 House",
+		"roast": "Medium",
+		"location": "Millerton, NY",
+		"link": "https://irvingfarmcoffee.com/collections/best-sellers/products/71-irving-house-blend",
+		"date": "2026-04-29"
+	},
+	{
 		"roaster": "Broadsheet Coffee Roasters",
 		"blend": "Line Street",
 		"roast": "Medium",
@@ -31,13 +39,5 @@
 		"location": "Peabody, MA",
 		"link": "https://atomicroastery.com/products/house-blend?variant=13346752725110",
 		"date": "2025-03-29"
-	},
-	{
-		"roaster": "Pastime Coffee",
-		"blend": "4:30 a.m.",
-		"roast": "Medium",
-		"location": "Portland, OR",
-		"link": "https://pastime.coffee/products/430am?variant=48152107942181",
-		"date": "2026-03-23"
 	}
 ]
