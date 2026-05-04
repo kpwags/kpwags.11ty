@@ -1,5 +1,221 @@
 [
 	{
+		"musicAlbumId": 279,
+		"title": "Wings on My Shoes",
+		"artist": "Will Hoge",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/tCD9cs5G/will-hoge-wings-on-my-shoes.webp",
+		"isTopTen": false,
+		"showOnNowPage": true,
+		"datePurchased": "Sat, 02 May 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			},
+			{
+				"name": "Country",
+				"colorCode": "rgb(120, 74, 0)"
+			},
+			{
+				"name": "Folk",
+				"colorCode": "rgb(202, 122, 5)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "John Prine's Cadillac"
+			},
+			{
+				"trackNumber": 2,
+				"title": "It's Just You"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Queenie"
+			},
+			{
+				"trackNumber": 4,
+				"title": "You are the Place"
+			},
+			{
+				"trackNumber": 5,
+				"title": "The Last One to Go"
+			},
+			{
+				"trackNumber": 6,
+				"title": "All I Can Take"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Ain't How it Used to Be"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Birmingham"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Dead Man's Hand"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Whose God is This?"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 277,
+		"title": "Outlier",
+		"artist": "Emily Wolfe",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/mrgjGK0s/emily-wolfe-outlier.webp",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 01 May 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "No Man"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Cover of Virtue"
+			},
+			{
+				"trackNumber": 3,
+				"title": "LA / NY"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Something Better"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Never Gonna Learn"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Vermillion Park"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Damage Control"
+			},
+			{
+				"trackNumber": 8,
+				"title": "My Lungs Give Out"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Death Row Kiss"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Heavenly Hell"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 278,
+		"title": "Sweet Misery",
+		"artist": "Will Hoge",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/Ls8DMGrS/will-hoge-sweet-misery.webp",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 01 May 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			},
+			{
+				"name": "Country",
+				"colorCode": "rgb(120, 74, 0)"
+			},
+			{
+				"name": "Folk",
+				"colorCode": "rgb(202, 122, 5)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Maryanne"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Another Planet"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Last American Summer"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Sweet Misery"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Keeping My Windows"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Saint Agnes"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Postcards & Payphones"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Silver Linings"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Til It's Gone"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Say Goodnight"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Sweet Misery (Live Acoustic)"
+			},
+			{
+				"trackNumber": 12,
+				"title": "Keeping My Windows (Live Acoustic)"
+			}
+		]
+	},
+	{
 		"musicAlbumId": 275,
 		"title": "Number Seven",
 		"artist": "Will Hoge",

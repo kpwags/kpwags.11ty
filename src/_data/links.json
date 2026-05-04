@@ -1,5 +1,110 @@
 [
 	{
+		"linkId": 1562,
+		"title": "Form-Associated Custom Elements in Practice ",
+		"author": "Rob Levin",
+		"url": "https://frontendmasters.com/blog/form-associated-custom-elements-in-practice/",
+		"linkDate": "2026-05-04T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1563,
+		"title": "University Turned Professors' Lectures Into AI Slop",
+		"author": "Samantha Cole",
+		"url": "https://www.404media.co/asu-atomic-ai-modules-arizona-state-university/",
+		"linkDate": "2026-05-04T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1564,
+		"title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Pitch Demo, Renews Contract Anyway",
+		"author": "Jason Koebler",
+		"url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+		"linkDate": "2026-05-04T00:00:00.000Z",
+		"category": {
+			"name": "Privacy",
+			"colorCode": "#26a269"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1565,
+		"title": "Is exercise as effective as treatments for depression and anxiety?",
+		"author": "The Economist",
+		"url": "https://www.economist.com/science-and-technology/2026/04/24/is-exercise-as-effective-as-treatments-for-depression-and-anxiety?giftId=ZmU0NzBkZjAtZTBlNS00MGRmLWJjYjgtNzU3NmM4NGNmYmYw&utm_campaign=gifted_article",
+		"linkDate": "2026-05-04T00:00:00.000Z",
+		"category": {
+			"name": "Health & Fitness",
+			"colorCode": "#871c4a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1566,
+		"title": "Dimming the sun is probably a very bad idea",
+		"author": "Philip Plait",
+		"url": "https://badastronomy.beehiiv.com/p/dimming-the-sun-is-probably-a-very-bad-idea",
+		"linkDate": "2026-05-04T00:00:00.000Z",
+		"category": {
+			"name": "Climate",
+			"colorCode": "#9a702d"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1561,
+		"title": "Palantir Goes Mask-Off For Fascism. It Won’t End Well.",
+		"author": "Mike Masnick",
+		"url": "https://www.techdirt.com/2026/04/20/palantir-goes-mask-off-for-fascism-it-wont-end-well/",
+		"linkDate": "2026-05-03T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1560,
+		"title": "Voters Can Be Disenfranchised Now",
+		"author": "Adam Serwer",
+		"url": "https://www.theatlantic.com/ideas/2026/04/vra-supreme-court-callais-decision/686997/?gift=fXb4ymsFcV2ntAzqIpmYvQsQHJI6RQ_lLoVG255zHxw",
+		"linkDate": "2026-04-30T00:00:00.000Z",
+		"category": {
+			"name": "Politics",
+			"colorCode": "#8b642f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1554,
 		"title": "Why I Switched to Primary Constructors for DI in C#",
 		"author": "Milan Jovanović",

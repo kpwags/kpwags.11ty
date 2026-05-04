@@ -2,6 +2,10 @@ import dayjs from 'dayjs';
 
 export default (concert) => {
 	const getHeadliner = (headliner) => {
+		if (headliner.length === 3){
+			return `${headliner[0]}, ${headliner[1]}, & ${headliner[2]}`;
+		}
+
 		if (headliner.length === 2){
 			return `${headliner[0]} & ${headliner[1]}`;
 		}
@@ -15,6 +19,14 @@ export default (concert) => {
 		}
 
 		let html = '<div class="openers">with ';
+
+		if (openers.length === 5) {
+			html += `${openers[0]}, ${openers[1]}, ${openers[2]}, ${openers[3]}, & ${openers[4]}`;
+		}
+
+		if (openers.length === 4) {
+			html += `${openers[0]}, ${openers[1]}, ${openers[2]}, & ${openers[3]}`;
+		}
 
 		if (openers.length === 3) {
 			html += `${openers[0]}, ${openers[1]}, & ${openers[2]}`;

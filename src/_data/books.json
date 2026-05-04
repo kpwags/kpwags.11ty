@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/c4Wz83G1/children-of-strife.webp",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 143,
+			"currentPage": 209,
 			"pageCount": 477,
-			"progress": 30,
+			"progress": 44,
 			"sortOrder": 1,
 			"status": {
 				"name": "Reading",
@@ -59,9 +59,9 @@
 			"coverImageUrl": "https://i.postimg.cc/L5yD5hP8/tau-means-of-control.webp",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 119,
+			"currentPage": 443,
 			"pageCount": 671,
-			"progress": 18,
+			"progress": 66,
 			"sortOrder": 3530,
 			"status": {
 				"name": "Reading",
@@ -86,6 +86,47 @@
 				{
 					"name": "Audiobook",
 					"colorCode": "#b300b3"
+				}
+			]
+		},
+		{
+			"bookId": 650,
+			"title": "The Subtle Art of Folding Space",
+			"subTitle": "",
+			"fullTitle": "The Subtle Art of Folding Space",
+			"author": "John Chu",
+			"link": "https://bookshop.org/p/books/the-subtle-art-of-folding-space-john-chu/82fa36c6edeab94d",
+			"dateStarted": "2026-04-28T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/C5Fggp8W/chu-subtle-art-of-folding-space.webp",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 184,
+			"pageCount": 445,
+			"progress": 41,
+			"sortOrder": 3290,
+			"status": {
+				"name": "Reading",
+				"colorCode": "#6a208f"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "eBook",
+					"colorCode": "#2c5813"
 				}
 			]
 		}
@@ -25085,42 +25126,6 @@
 				{
 					"name": "Horror",
 					"colorCode": "rgb(146, 4, 4)"
-				}
-			],
-			"formats": []
-		},
-		{
-			"bookId": 650,
-			"title": "The Subtle Art of Folding Space",
-			"subTitle": "",
-			"fullTitle": "The Subtle Art of Folding Space",
-			"author": "John Chu",
-			"link": "https://bookshop.org/p/books/the-subtle-art-of-folding-space-john-chu/82fa36c6edeab94d",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": false,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 3290,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Science Fiction",
-					"colorCode": "rgb(102, 119, 2)"
 				}
 			],
 			"formats": []
