@@ -45,69 +45,24 @@
 			]
 		},
 		{
-			"bookId": 676,
-			"title": "Means of Control",
-			"subTitle": "How the Hidden Alliance of Tech and Government Is Creating a New American Surveillance State",
-			"fullTitle": "Means of Control: How the Hidden Alliance of Tech and Government Is Creating a New American Surveillance State",
-			"author": "Byron Tau",
-			"link": "https://bookshop.org/p/books/means-of-control-how-the-hidden-alliance-of-tech-and-government-is-creating-a-new-american-surveillance-state-byron-tau/68b1e1ca5cd9445a",
-			"dateStarted": "2026-04-25T00:00:00.000Z",
+			"bookId": 697,
+			"title": "Star Wars: From a Certain Point of View",
+			"subTitle": "",
+			"fullTitle": "Star Wars: From a Certain Point of View",
+			"author": "Various Authors",
+			"link": "https://bookshop.org/p/books/from-a-certain-point-of-view-star-wars-meg-cabot/35b6a6d65cbee309",
+			"dateStarted": "2026-05-07T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/L5yD5hP8/tau-means-of-control.webp",
+			"coverImageUrl": "https://i.postimg.cc/MKF5gn15/star-wars-point-of-view.jpg",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 443,
-			"pageCount": 671,
-			"progress": 66,
-			"sortOrder": 3530,
-			"status": {
-				"name": "Reading",
-				"colorCode": "#6a208f"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Politics",
-					"colorCode": "rgb(130, 40, 40)"
-				},
-				{
-					"name": "Technology",
-					"colorCode": "rgb(55, 78, 146)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Audiobook",
-					"colorCode": "#b300b3"
-				}
-			]
-		},
-		{
-			"bookId": 650,
-			"title": "The Subtle Art of Folding Space",
-			"subTitle": "",
-			"fullTitle": "The Subtle Art of Folding Space",
-			"author": "John Chu",
-			"link": "https://bookshop.org/p/books/the-subtle-art-of-folding-space-john-chu/82fa36c6edeab94d",
-			"dateStarted": "2026-04-28T00:00:00.000Z",
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/C5Fggp8W/chu-subtle-art-of-folding-space.webp",
-			"isAtLibrary": false,
-			"isPurchased": false,
-			"currentPage": 304,
-			"pageCount": 445,
-			"progress": 68,
-			"sortOrder": 3290,
+			"currentPage": 9,
+			"pageCount": 798,
+			"progress": 1,
+			"sortOrder": 11,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
@@ -135,6 +90,92 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 650,
+					"title": "The Subtle Art of Folding Space",
+					"subTitle": "",
+					"fullTitle": "The Subtle Art of Folding Space",
+					"author": "John Chu",
+					"link": "https://bookshop.org/p/books/the-subtle-art-of-folding-space-john-chu/82fa36c6edeab94d",
+					"dateStarted": "2026-04-28T00:00:00.000Z",
+					"dateCompleted": "2026-05-06T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "An interesting story with some good twists.",
+					"coverImageUrl": "https://i.postimg.cc/C5Fggp8W/chu-subtle-art-of-folding-space.webp",
+					"isAtLibrary": false,
+					"isPurchased": false,
+					"currentPage": 445,
+					"pageCount": 445,
+					"progress": 100,
+					"sortOrder": 3290,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Science Fiction",
+							"colorCode": "rgb(102, 119, 2)"
+						}
+					],
+					"formats": [
+						{
+							"name": "eBook",
+							"colorCode": "#2c5813"
+						}
+					]
+				},
+				{
+					"bookId": 676,
+					"title": "Means of Control",
+					"subTitle": "How the Hidden Alliance of Tech and Government Is Creating a New American Surveillance State",
+					"fullTitle": "Means of Control: How the Hidden Alliance of Tech and Government Is Creating a New American Surveillance State",
+					"author": "Byron Tau",
+					"link": "https://bookshop.org/p/books/means-of-control-how-the-hidden-alliance-of-tech-and-government-is-creating-a-new-american-surveillance-state-byron-tau/68b1e1ca5cd9445a",
+					"dateStarted": "2026-04-25T00:00:00.000Z",
+					"dateCompleted": "2026-05-06T00:00:00.000Z",
+					"rating": 4,
+					"bookNotesUrl": "",
+					"thoughts": "After reading this, I kind of want to destroy all electronics and run away into the woods. It’s a good dive into how so many different companies are tracking us and giving or selling our data to the government.",
+					"coverImageUrl": "https://i.postimg.cc/L5yD5hP8/tau-means-of-control.webp",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 671,
+					"pageCount": 671,
+					"progress": 100,
+					"sortOrder": 3530,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Politics",
+							"colorCode": "rgb(130, 40, 40)"
+						},
+						{
+							"name": "Technology",
+							"colorCode": "rgb(55, 78, 146)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Audiobook",
+							"colorCode": "#b300b3"
+						}
+					]
+				},
 				{
 					"bookId": 696,
 					"title": "In This Economy?",

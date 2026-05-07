@@ -295,6 +295,15 @@
 		]
 	},
 	{
+		"name": "Byron Tau",
+		"books": [
+			{
+				"title": "Means of Control: How the Hidden Alliance of Tech and Government Is Creating a New American Surveillance State",
+				"link": "https://bookshop.org/p/books/means-of-control-how-the-hidden-alliance-of-tech-and-government-is-creating-a-new-american-surveillance-state-byron-tau/68b1e1ca5cd9445a"
+			}
+		]
+	},
+	{
 		"name": "Caitlin Starling",
 		"books": [
 			{
@@ -1152,6 +1161,15 @@
 			{
 				"title": "Lost Moon",
 				"link": "https://bookshop.org/p/books/apollo-13-jeffrey-kluger/11836052"
+			}
+		]
+	},
+	{
+		"name": "John Chu",
+		"books": [
+			{
+				"title": "The Subtle Art of Folding Space",
+				"link": "https://bookshop.org/p/books/the-subtle-art-of-folding-space-john-chu/82fa36c6edeab94d"
 			}
 		]
 	},
