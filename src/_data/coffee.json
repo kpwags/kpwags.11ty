@@ -1,5 +1,13 @@
 [
 	{
+		"roaster": "Verve Coffee Roasters",
+		"blend": "Buena Vista",
+		"roast": "Dark",
+		"location": "Santa Cruz, CA",
+		"link": "https://www.vervecoffee.com/products/buena-vista-dark-roast",
+		"date": "2025-05-07"
+	},
+	{
 		"roaster": "Irving Farm Coffee",
 		"blend": "71 House",
 		"roast": "Medium",
@@ -31,13 +39,5 @@
 		"link": "https://smallplanescoffee.com/products/gateway",
 		"thoughts": "",
 		"date": "2025-01-21"
-	},
-	{
-		"roaster": "Atomic Coffee Roasters",
-		"blend": "House",
-		"roast": "Medium",
-		"location": "Peabody, MA",
-		"link": "https://atomicroastery.com/products/house-blend?variant=13346752725110",
-		"date": "2025-03-29"
 	}
 ]
