@@ -1,5 +1,481 @@
 [
 	{
+		"musicAlbumId": 280,
+		"title": "Cold World",
+		"artist": "The Flatliners",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/RZ3Nfnn8/flatliners-cold-world.jpg",
+		"isTopTen": false,
+		"showOnNowPage": true,
+		"datePurchased": "Fri, 08 May 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Stolen Valour"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Good, You?"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Inner Peace"
+			},
+			{
+				"trackNumber": 4,
+				"title": "And They're Off"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Only Darkness"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Whyte Light"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Into Annihilation"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Pulpit"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Turning Signal Rhythm"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Gush"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Burn"
+			},
+			{
+				"trackNumber": 12,
+				"title": "United in Spite"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 281,
+		"title": "Cavalcade",
+		"artist": "The Flatliners",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/RZkpxy5B/flatliners-cavalcade.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 08 May 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "The Calming Collection"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Carry the Banner"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Bleed"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Here Comes Treble"
+			},
+			{
+				"trackNumber": 5,
+				"title": "He was a Jazzman"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Shithawks"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Monumental"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Filthy Habits"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Liver Alone"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Sleep Your Life Away"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Count Your Bruises"
+			},
+			{
+				"trackNumber": 12,
+				"title": "New Years Resolutions"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 282,
+		"title": "Dead Language",
+		"artist": "The Flatliners",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/bw7VfWcq/flatliners-dead-language.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 08 May 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Resuscitation of the Year"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Bury Me"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Birds of England"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Drown in Blood"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Sew My Mouth Shut"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Caskets Full"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Ashes Away"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Hounds"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Dead Hands"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Quitters"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Tail Feathers"
+			},
+			{
+				"trackNumber": 12,
+				"title": "Young Professionals"
+			},
+			{
+				"trackNumber": 13,
+				"title": "Brilliant Resillience"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 283,
+		"title": "Division of Spoils",
+		"artist": "The Flatliners",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/3xsfQV5Y/flatliners-division-of-spoils.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 08 May 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Lifers"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Broken Men"
+			},
+			{
+				"trackNumber": 3,
+				"title": "This Guy Reads from a Card"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Cut Your Teeth"
+			},
+			{
+				"trackNumber": 5,
+				"title": "This Song is Like Thunder and Lightning in a Wide Open Field"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Calutron Girls"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Wynford Bridge"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Sleep is for Bitches (Demo)"
+			},
+			{
+				"trackNumber": 9,
+				"title": "407"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Daggers"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Christ Punchers"
+			},
+			{
+				"trackNumber": 12,
+				"title": "Sticky Bastards"
+			},
+			{
+				"trackNumber": 13,
+				"title": "Run Like Hell"
+			},
+			{
+				"trackNumber": 14,
+				"title": "Open Hearts and Bloody Grins"
+			},
+			{
+				"trackNumber": 15,
+				"title": "Hot Trouble"
+			},
+			{
+				"trackNumber": 16,
+				"title": "Fangs"
+			},
+			{
+				"trackNumber": 17,
+				"title": "Fireball"
+			},
+			{
+				"trackNumber": 18,
+				"title": "Ahead by a Century"
+			},
+			{
+				"trackNumber": 19,
+				"title": "Cry Cry Cry"
+			},
+			{
+				"trackNumber": 20,
+				"title": "Southwards"
+			},
+			{
+				"trackNumber": 21,
+				"title": "Straight American Slave"
+			},
+			{
+				"trackNumber": 22,
+				"title": "Get Out of My Face"
+			},
+			{
+				"trackNumber": 23,
+				"title": "Spill Your Guts"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 284,
+		"title": "New Ruin",
+		"artist": "The Flatliners",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/3xsfQV5x/flatliners-new-ruin.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 08 May 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Performative Hours"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Rat King"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Big Strum"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Top Left Door"
+			},
+			{
+				"trackNumber": 5,
+				"title": "It'll Hurt"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Oath"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Recoil"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Souvenir"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Tunnel Vision"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Heirloom"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Under a Dying Sun"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 285,
+		"title": "The Great Awake",
+		"artist": "The Flatliners",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/MpC3JN2Z/flatliners-great-awake.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 08 May 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "July! August! Reno!"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Eulogy"
+			},
+			{
+				"trackNumber": 3,
+				"title": "...And the World Files for Chapter 11"
+			},
+			{
+				"trackNumber": 4,
+				"title": "The Respirator"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Meanwhile, In Hell..."
+			},
+			{
+				"trackNumber": 6,
+				"title": "Mother Teresa Chokeslams the World"
+			},
+			{
+				"trackNumber": 7,
+				"title": "This is Giving Up"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Mastering the World's Smallest Violin"
+			},
+			{
+				"trackNumber": 9,
+				"title": "You Guys Want One of These"
+			},
+			{
+				"trackNumber": 10,
+				"title": "These Words are Bullets"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Hal Johnson Smokes Cigarettes"
+			},
+			{
+				"trackNumber": 12,
+				"title": "KHTDR"
+			}
+		]
+	},
+	{
 		"musicAlbumId": 279,
 		"title": "Wings on My Shoes",
 		"artist": "Will Hoge",
