@@ -1,5 +1,95 @@
 [
 	{
+		"linkId": 1576,
+		"title": "As the cost of living rises, adult education programs offer one path to earning more",
+		"author": "Sarah Asch",
+		"url": "https://www.marketplace.org/story/2026/05/11/why-affordability-struggles-are-boosting-adult-education-programs",
+		"linkDate": "2026-05-11T00:00:00.000Z",
+		"category": {
+			"name": "Economics",
+			"colorCode": "#4f7a28"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1571,
+		"title": "Building the most inaccessible site possible with a perfect Lighthouse score",
+		"author": "Manuel Matuzović",
+		"url": "https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/",
+		"linkDate": "2026-05-10T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1572,
+		"title": "Applying accessibility fixes with stealth for the greater good",
+		"author": "Steve Frenzel",
+		"url": "https://piccalil.li/blog/applying-accessibility-fixes-with-stealth-for-the-greater-good/",
+		"linkDate": "2026-05-10T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1573,
+		"title": "X marks the spot: Landmark elements",
+		"author": "Steve Frenzel",
+		"url": "https://www.stevefrenzel.dev/posts/x-marks-the-spot-landmark-elements/",
+		"linkDate": "2026-05-10T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1574,
+		"title": "When Fleer was king — and like currency",
+		"author": "Matt Breen",
+		"url": "https://share.inquirer.com/XdB08M",
+		"linkDate": "2026-05-10T00:00:00.000Z",
+		"category": {
+			"name": "Sports",
+			"colorCode": "#2d5f6f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1575,
+		"title": "Lazy and Prompt",
+		"author": "Matthias Ott",
+		"url": "https://matthiasott.com/notes/lazy-and-prompt",
+		"linkDate": "2026-05-10T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1567,
 		"title": "‘HELLO BOSS’: Inside the Chinese Realtime Deepfake Software Powering Scams Around the World",
 		"author": "Joseph Cox",
