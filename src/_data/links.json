@@ -1,5 +1,35 @@
 [
 	{
+		"linkId": 1577,
+		"title": "Google’s Prompt AI",
+		"author": "Mat Marquis",
+		"url": "https://wil.to/posts/googles-prompt-api/",
+		"linkDate": "2026-05-12T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1578,
+		"title": "10,000-watt GPU meet 40-watt lump of meat",
+		"author": "Dave Rupert",
+		"url": "https://daverupert.com/2026/04/if-i-could-watt-10-000-florps/",
+		"linkDate": "2026-05-12T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1576,
 		"title": "As the cost of living rises, adult education programs offer one path to earning more",
 		"author": "Sarah Asch",
