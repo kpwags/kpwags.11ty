@@ -1,5 +1,35 @@
 [
 	{
+		"linkId": 1579,
+		"title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
+		"author": "Paresh Dave",
+		"url": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+		"linkDate": "2026-05-15T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1580,
+		"title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
+		"author": "Carrie Webster",
+		"url": "https://www.smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
+		"linkDate": "2026-05-15T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1577,
 		"title": "Google’s Prompt AI",
 		"author": "Mat Marquis",
