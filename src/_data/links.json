@@ -1,5 +1,95 @@
 [
 	{
+		"linkId": 1586,
+		"title": "Why suspending the gas tax won’t help consumers",
+		"author": "Janet Nguyen",
+		"url": "https://www.marketplace.org/story/2026/05/13/why-suspending-the-gas-tax-wont-help-consumers",
+		"linkDate": "2026-05-17T00:00:00.000Z",
+		"category": {
+			"name": "Economics",
+			"colorCode": "#4f7a28"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1587,
+		"title": "Astronomers find over ten thousand potential new exoplanets",
+		"author": "Philip Plait",
+		"url": "https://badastronomy.beehiiv.com/p/astronomers-find-over-ten-thousand-potential-new-exoplanets",
+		"linkDate": "2026-05-17T00:00:00.000Z",
+		"category": {
+			"name": "Space",
+			"colorCode": "#2c0d18"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1588,
+		"title": "Psyche peeks at Mars before a gravitational rendezvous",
+		"author": "Philip Plait",
+		"url": "https://badastronomy.beehiiv.com/p/psyche-peeks-at-mars-before-a-gravitational-rendezvous",
+		"linkDate": "2026-05-17T00:00:00.000Z",
+		"category": {
+			"name": "Space",
+			"colorCode": "#2c0d18"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1589,
+		"title": "Your AI Use Is Breaking My Brain",
+		"author": "Jason Koebler",
+		"url": "https://www.404media.co/your-ai-use-is-breaking-my-brain/",
+		"linkDate": "2026-05-17T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1584,
+		"title": "The Hottest AI Coding Skill In 2026? Coding Without AI",
+		"author": "Jason Gorman",
+		"url": "https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/",
+		"linkDate": "2026-05-16T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1585,
+		"title": "25 years later, is it time for a new iPod?",
+		"author": "Janko Roettgers",
+		"url": "https://www.theverge.com/column/917369/sleevenote-new-ipod-streaming-bandcamp-music",
+		"linkDate": "2026-05-16T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1579,
 		"title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
 		"author": "Paresh Dave",
@@ -19,6 +109,51 @@
 		"title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
 		"author": "Carrie Webster",
 		"url": "https://www.smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
+		"linkDate": "2026-05-15T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1581,
+		"title": "Own Your Web – Issue 18: Curators",
+		"author": "Matthias Ott",
+		"url": "https://newsletter.ownyourweb.site/archive/own-your-web-issue-18-curators/",
+		"linkDate": "2026-05-15T00:00:00.000Z",
+		"category": {
+			"name": "The Internet",
+			"colorCode": "#8b3d15"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1582,
+		"title": "Trump Wants to Double Production of New Nuclear Weapon Cores",
+		"author": "Matthew Gault",
+		"url": "https://www.404media.co/trump-2027-budget-nuclear-weapons/",
+		"linkDate": "2026-05-15T00:00:00.000Z",
+		"category": {
+			"name": "Politics",
+			"colorCode": "#8b642f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1583,
+		"title": "Software Eats Its Own",
+		"author": "Om Malik",
+		"url": "https://om.co/2026/04/22/software-eats-its-own/",
 		"linkDate": "2026-05-15T00:00:00.000Z",
 		"category": {
 			"name": "AI",

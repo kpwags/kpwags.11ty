@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/c4Wz83G1/children-of-strife.webp",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 209,
+			"currentPage": 222,
 			"pageCount": 477,
-			"progress": 44,
+			"progress": 47,
 			"sortOrder": 1,
 			"status": {
 				"name": "Reading",
@@ -43,53 +43,53 @@
 					"colorCode": "#a0175f"
 				}
 			]
-		},
-		{
-			"bookId": 697,
-			"title": "Star Wars: From a Certain Point of View",
-			"subTitle": "",
-			"fullTitle": "Star Wars: From a Certain Point of View",
-			"author": "Various Authors",
-			"link": "https://bookshop.org/p/books/from-a-certain-point-of-view-star-wars-meg-cabot/35b6a6d65cbee309",
-			"dateStarted": "2026-05-07T00:00:00.000Z",
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/MKF5gn15/star-wars-point-of-view.jpg",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 714,
-			"pageCount": 798,
-			"progress": 89,
-			"sortOrder": 11,
-			"status": {
-				"name": "Reading",
-				"colorCode": "#6a208f"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Science Fiction",
-					"colorCode": "rgb(102, 119, 2)"
-				}
-			],
-			"formats": [
-				{
-					"name": "eBook",
-					"colorCode": "#2c5813"
-				}
-			]
 		}
 	],
 	"completed": [
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 697,
+					"title": "Star Wars: From a Certain Point of View",
+					"subTitle": "",
+					"fullTitle": "Star Wars: From a Certain Point of View",
+					"author": "Various Authors",
+					"link": "https://bookshop.org/p/books/from-a-certain-point-of-view-star-wars-meg-cabot/35b6a6d65cbee309",
+					"dateStarted": "2026-05-07T00:00:00.000Z",
+					"dateCompleted": "2026-05-15T00:00:00.000Z",
+					"rating": 4,
+					"bookNotesUrl": "",
+					"thoughts": "I enjoyed a lot of the stories and how they tied into the lore and story of A New Hope. Some added more lore, some brought laughs, some were more somber. Definitely enjoyed them as a Star Wars fan.",
+					"coverImageUrl": "https://i.postimg.cc/MKF5gn15/star-wars-point-of-view.jpg",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 798,
+					"pageCount": 798,
+					"progress": 100,
+					"sortOrder": 11,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Science Fiction",
+							"colorCode": "rgb(102, 119, 2)"
+						}
+					],
+					"formats": [
+						{
+							"name": "eBook",
+							"colorCode": "#2c5813"
+						}
+					]
+				},
 				{
 					"bookId": 650,
 					"title": "The Subtle Art of Folding Space",
