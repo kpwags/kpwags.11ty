@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1590,
+		"title": "Agentic Coding is a Trap",
+		"author": "Lars Faye",
+		"url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+		"linkDate": "2026-05-18T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1586,
 		"title": "Why suspending the gas tax won’t help consumers",
 		"author": "Janet Nguyen",
