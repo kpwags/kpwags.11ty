@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1591,
+		"title": "AI & Alignment",
+		"author": "Chris Coyier",
+		"url": "https://chriscoyier.net/2026/04/25/ai-alignment/",
+		"linkDate": "2026-05-20T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1590,
 		"title": "Agentic Coding is a Trap",
 		"author": "Lars Faye",
