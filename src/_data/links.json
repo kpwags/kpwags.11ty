@@ -15,6 +15,51 @@
 		}
 	},
 	{
+		"linkId": 1592,
+		"title": "Hating AI is Good, Actually",
+		"author": "Marisa Kabas",
+		"url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
+		"linkDate": "2026-05-20T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1593,
+		"title": "The Jobs Apocalypse: A (Very) Short History",
+		"author": "The Economist",
+		"url": "https://economist.com/finance-and-economics/2026/05/14/the-jobs-apocalypse-a-very-short-history?giftId=ZTk3ODhlZWItZWFjYy00NjVkLWFmNTUtMTVlNTY1NjllODYw&utm_campaign=gifted_article",
+		"linkDate": "2026-05-20T00:00:00.000Z",
+		"category": {
+			"name": "Economics",
+			"colorCode": "#4f7a28"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1594,
+		"title": "Collective Speed Is Not the Summation of Individual Speed",
+		"author": "Jim Nielsen",
+		"url": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/",
+		"linkDate": "2026-05-20T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1590,
 		"title": "Agentic Coding is a Trap",
 		"author": "Lars Faye",

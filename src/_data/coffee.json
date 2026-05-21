@@ -1,5 +1,13 @@
 [
 	{
+		"roaster": "Small Planes Coffee",
+		"blend": "Colonnade",
+		"roast": "Medium",
+		"location": "Washington D.C.",
+		"link": "https://smallplanescoffee.com/products/colonnade",
+		"date": "2026-05-21"
+	},
+	{
 		"roaster": "Atomic Coffee Roasters",
 		"blend": "Space Cadet",
 		"roast": "Medium",
@@ -31,13 +39,5 @@
 		"location": "Cambridge, MA",
 		"link": "",
 		"date": "2026-04-22"
-	},
-	{
-		"roaster": "Gimme!",
-		"blend": "Honduras Angel BBs",
-		"roast": "Medium",
-		"location": "Ithaca, NY",
-		"link": "https://gimmecoffee.com/products/honduras-angel-bbs-fairtrade-organic?variant=44879443263707",
-		"date": "2026-04-14"
 	}
 ]
