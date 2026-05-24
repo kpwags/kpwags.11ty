@@ -1,46 +1,43 @@
 {
 	"inProgress": [
 		{
-			"bookId": 694,
-			"title": "Children of Strife",
-			"subTitle": "",
-			"fullTitle": "Children of Strife",
-			"author": "Adrian Tchaikovsky",
-			"link": "https://bookshop.org/p/books/children-of-strife-adrian-tchaikovsky/a5faafb97f58dfb0",
-			"dateStarted": "2026-04-20T00:00:00.000Z",
+			"bookId": 698,
+			"title": "The Ottoman Endgame",
+			"subTitle": "War, Revolution, and the Making of the Modern Middle East, 1908-1923",
+			"fullTitle": "The Ottoman Endgame: War, Revolution, and the Making of the Modern Middle East, 1908-1923",
+			"author": "Sean McMeekin",
+			"link": "https://i.postimg.cc/7htmwJ2q/ottoman-endgame.jpg",
+			"dateStarted": "2026-05-23T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/c4Wz83G1/children-of-strife.webp",
+			"coverImageUrl": "https://i.postimg.cc/7htmwJ2q/ottoman-endgame.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 345,
-			"pageCount": 477,
-			"progress": 72,
+			"currentPage": 18,
+			"pageCount": 495,
+			"progress": 4,
 			"sortOrder": 1,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
 			},
 			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
 			},
-			"series": {
-				"name": "Children of Time",
-				"colorCode": "#03229b"
-			},
+			"series": null,
 			"genres": [
 				{
-					"name": "Science Fiction",
-					"colorCode": "rgb(102, 119, 2)"
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
 				}
 			],
 			"formats": [
 				{
-					"name": "Hardcover",
-					"colorCode": "#a0175f"
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
 				}
 			]
 		}
@@ -49,6 +46,50 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 694,
+					"title": "Children of Strife",
+					"subTitle": "",
+					"fullTitle": "Children of Strife",
+					"author": "Adrian Tchaikovsky",
+					"link": "https://bookshop.org/p/books/children-of-strife-adrian-tchaikovsky/a5faafb97f58dfb0",
+					"dateStarted": "2026-04-20T00:00:00.000Z",
+					"dateCompleted": "2026-05-22T00:00:00.000Z",
+					"rating": 5,
+					"bookNotesUrl": "",
+					"thoughts": "Another fantastic addition to the Children of Time series. I really enjoyed the characters and the overarching story and its satisfying ending",
+					"coverImageUrl": "https://i.postimg.cc/c4Wz83G1/children-of-strife.webp",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 477,
+					"pageCount": 477,
+					"progress": 100,
+					"sortOrder": 1,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": {
+						"name": "Children of Time",
+						"colorCode": "#03229b"
+					},
+					"genres": [
+						{
+							"name": "Science Fiction",
+							"colorCode": "rgb(102, 119, 2)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Hardcover",
+							"colorCode": "#a0175f"
+						}
+					]
+				},
 				{
 					"bookId": 697,
 					"title": "Star Wars: From a Certain Point of View",

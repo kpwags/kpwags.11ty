@@ -1,5 +1,50 @@
 [
 	{
+		"linkId": 1597,
+		"title": "Is AI causing a repeat of Frontend’s Lost Decade?",
+		"author": "Mauro Bieg",
+		"url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+		"linkDate": "2026-05-24T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1595,
+		"title": "Ad Infini­tum",
+		"author": "Matthias Ott",
+		"url": "https://matthiasott.com/notes/ad-infinitum",
+		"linkDate": "2026-05-22T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1596,
+		"title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
+		"author": "Joseph Cox",
+		"url": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/",
+		"linkDate": "2026-05-22T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1591,
 		"title": "AI & Alignment",
 		"author": "Chris Coyier",

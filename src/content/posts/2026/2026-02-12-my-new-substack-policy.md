@@ -22,3 +22,7 @@ There are other platforms out there like [Ghost](https://ghost.org/) or [Beehiiv
 So if you're on Substack, I'd kindly ask that you think about whether you want to remain on there. Substack is surprisingly open with its authors and allows its authors to migrate with their audience. [Molly White even wrote about her experience moving to Ghost](https://www.citationneeded.news/substack-to-self-hosted-ghost/). I know one of the Substacks I subscribed to moved to Beehiiv and there was no interruption for me. I continued to get his newsletters in my inbox without so much as a blip.
 
 It's a shame too because there have been some that I've eyed up, only to find that they're hosted on Substack. Oh well.
+
+I want to add a link to [Ghost's Migration Page](https://ghost.org/move-to-ghost/). It's they're service to help you migrate to their platform. If you're on Substack, give it a look.
+
+*Edit (5/24/2026): Added link to Ghost's migration page.*

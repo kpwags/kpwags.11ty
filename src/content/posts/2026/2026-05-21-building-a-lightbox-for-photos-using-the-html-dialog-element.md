@@ -182,7 +182,9 @@ It still looks the same on the page, good. The next part will be to add the dial
 
 The dialog is on the page, and all it contains is an empty image element and a close button. The close button is z-indexed to be on top of the image and the dialog so it should always be visible and clickable. 
 
-**Note:** The close button though is still one thing I'm working on. Depending on colors the image, it can be hard to see.
+{% renderTemplate "webc" %}
+<alert type="note">The close button though is still one thing I'm working on. Depending on colors the image, it can be hard to see.</alert>
+{% endrenderTemplate %}
 
 Now that the HTML and CSS are in place, time for a little bit of JavaScript.
 
