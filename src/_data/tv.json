@@ -61,34 +61,6 @@
 			]
 		},
 		{
-			"televisionShowId": 115,
-			"title": "Malcolm in the Middle: Life's Still Unfair",
-			"imdbLink": "https://www.imdb.com/title/tt35466672/",
-			"rating": 0,
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/xddjn6Dx/malcom-lifes-still-unpoor.jpg",
-			"seasonEpisodeCount": 4,
-			"currentSeasonEpisode": 3,
-			"progress": 75,
-			"sortOrder": null,
-			"status": {
-				"name": "Watching",
-				"colorCode": "#005c78"
-			},
-			"genres": [
-				{
-					"name": "Comedy",
-					"colorCode": "#a60483"
-				}
-			],
-			"services": [
-				{
-					"name": "Hulu",
-					"colorCode": "#1cb153"
-				}
-			]
-		},
-		{
 			"televisionShowId": 85,
 			"title": "The Wire",
 			"imdbLink": "https://www.imdb.com/title/tt0306414/",
@@ -769,6 +741,34 @@
 			"coverImageUrl": "https://i.postimg.cc/cCxRzxYJ/malcolm-in-the-middle.jpg",
 			"seasonEpisodeCount": 151,
 			"currentSeasonEpisode": 151,
+			"progress": 100,
+			"sortOrder": null,
+			"status": {
+				"name": "Watched",
+				"colorCode": "#343aa8"
+			},
+			"genres": [
+				{
+					"name": "Comedy",
+					"colorCode": "#a60483"
+				}
+			],
+			"services": [
+				{
+					"name": "Hulu",
+					"colorCode": "#1cb153"
+				}
+			]
+		},
+		{
+			"televisionShowId": 115,
+			"title": "Malcolm in the Middle: Life's Still Unfair",
+			"imdbLink": "https://www.imdb.com/title/tt35466672/",
+			"rating": 3,
+			"thoughts": "While not bad, it felt a little short and rushed. Still had some good jokes and was enjoyable.",
+			"coverImageUrl": "https://i.postimg.cc/xddjn6Dx/malcom-lifes-still-unpoor.jpg",
+			"seasonEpisodeCount": 4,
+			"currentSeasonEpisode": 4,
 			"progress": 100,
 			"sortOrder": null,
 			"status": {

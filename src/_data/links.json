@@ -1,5 +1,95 @@
 [
 	{
+		"linkId": 1603,
+		"title": "‘BusPatrol’ Put AI Cameras in Tens of Thousands of School Buses. Now They Want to Give Cops Access",
+		"author": "Joseph Cox",
+		"url": "https://www.404media.co/buspatrol-put-ai-cameras-in-tens-of-thousands-of-school-buses-now-they-want-to-give-cops-access/",
+		"linkDate": "2026-05-26T00:00:00.000Z",
+		"category": {
+			"name": "Privacy",
+			"colorCode": "#26a269"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1598,
+		"title": "An Incomplete List of Successful Anti-Data Center Legislation",
+		"author": "Matthew Gault",
+		"url": "https://www.404media.co/an-incomplete-list-of-successful-anti-data-center-legislation/",
+		"linkDate": "2026-05-25T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1599,
+		"title": "3 ways to store variables in React, and why you shouldn't sleep on useRef",
+		"author": "Rachel Kaufman",
+		"url": "https://www.readwriterachel.com/things-i-learned/2026/04/23/back-to-basics-react-variables.html",
+		"linkDate": "2026-05-25T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1600,
+		"title": "Vibe Coding Will Break Your Company",
+		"author": "Jason Wingard",
+		"url": "https://www.forbes.com/sites/jasonwingard/2026/04/23/vibe-coding-will-break-your-company/",
+		"linkDate": "2026-05-25T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1601,
+		"title": "The Test Pyramid Is a Lie (and What I Do Instead)",
+		"author": "Milan Jovanović",
+		"url": "https://www.milanjovanovic.tech/blog/the-test-pyramid-is-a-lie-and-what-i-do-instead",
+		"linkDate": "2026-05-25T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1602,
+		"title": "Record-breaking JWST observation shows the universe’s first stars were better alchemists than we thought",
+		"author": "Philip Plait",
+		"url": "https://badastronomy.beehiiv.com/p/record-breaking-jwst-observation-shows-the-universe-s-first-stars-were-better-alchemists-than-we-tho",
+		"linkDate": "2026-05-25T00:00:00.000Z",
+		"category": {
+			"name": "Space",
+			"colorCode": "#2c0d18"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1597,
 		"title": "Is AI causing a repeat of Frontend’s Lost Decade?",
 		"author": "Mauro Bieg",
