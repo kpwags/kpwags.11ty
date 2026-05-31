@@ -178,7 +178,7 @@ const buildBlogPostTemplate = async () => {
 
 	let urlSlug = await readLineAsync(`Permalink (${buildUrlSlug(title)})`);
 
-	if (urlSlug.trim() === '');
+	if (urlSlug.trim() === '')
 	{
 		urlSlug = buildUrlSlug(title);
 	}
@@ -255,7 +255,7 @@ const buildBlogNotePostTemplate = async () => {
 
 	let urlSlug = await readLineAsync(`Permalink (${buildUrlSlug(title)})`);
 
-	if (urlSlug.trim() === '');
+	if (urlSlug.trim() === '')
 	{
 		urlSlug = buildUrlSlug(title);
 	}
@@ -493,7 +493,7 @@ const buildBookNoteTemplate = async () => {
 	const dateFinished = await readLineAsync('Date Finished');
 	let urlSlug = await readLineAsync(`Permalink (${buildUrlSlug(`${author}-${title}`)})`);
 
-	if (urlSlug.trim() === '');
+	if (urlSlug.trim() === '')
 	{
 		urlSlug = buildUrlSlug(`${author}-${title}`);
 	}

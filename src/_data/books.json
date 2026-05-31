@@ -1,6 +1,47 @@
 {
 	"inProgress": [
 		{
+			"bookId": 213,
+			"title": "East of Eden",
+			"subTitle": "",
+			"fullTitle": "East of Eden",
+			"author": "John Steinbeck",
+			"link": "https://bookshop.org/p/books/east-of-eden-john-steinbeck/16287413?ean=9780140186390",
+			"dateStarted": "2026-05-31T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/xjsP12BS/east-of-eden.jpg",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1391,
+			"progress": 1,
+			"sortOrder": 710,
+			"status": {
+				"name": "Reading",
+				"colorCode": "#6a208f"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "General Fiction",
+					"colorCode": "rgb(145, 104, 104)"
+				}
+			],
+			"formats": [
+				{
+					"name": "eBook",
+					"colorCode": "#2c5813"
+				}
+			]
+		},
+		{
 			"bookId": 698,
 			"title": "The Ottoman Endgame",
 			"subTitle": "War, Revolution, and the Making of the Modern Middle East, 1908-1923",
@@ -15,9 +56,9 @@
 			"coverImageUrl": "https://i.postimg.cc/7htmwJ2q/ottoman-endgame.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 40,
+			"currentPage": 163,
 			"pageCount": 495,
-			"progress": 8,
+			"progress": 33,
 			"sortOrder": 1,
 			"status": {
 				"name": "Reading",
@@ -15514,6 +15555,86 @@
 	],
 	"toRead": [
 		{
+			"bookId": 699,
+			"title": "Green & Deadly Things",
+			"subTitle": "",
+			"fullTitle": "Green & Deadly Things",
+			"author": "Jenn Lyons",
+			"link": "https://bookshop.org/p/books/green-deadly-things-jenn-lyons/b6959aa2ff5d37ec",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/Hk9Wzygz/green-deadly-things.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 354,
+			"progress": 0,
+			"sortOrder": 1,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Fantasy",
+					"colorCode": "rgb(172, 152, 5)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 700,
+			"title": "We Are Legion (We Are Bob)",
+			"subTitle": "",
+			"fullTitle": "We Are Legion (We Are Bob)",
+			"author": "Dennis E. Taylor",
+			"link": "https://bookshop.org/p/books/we-are-legion-we-are-bob-bobiverse-book-1-dennis-e-taylor/9b80867ccfc6271b",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/wjw83cH9/we-are-legion-we-are-bob.jpg",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 2,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "Bobiverse",
+				"colorCode": "#1b66de"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": []
+		},
+		{
 			"bookId": 634,
 			"title": "Old Man's War",
 			"subTitle": "",
@@ -17589,37 +17710,6 @@
 			"pageCount": 0,
 			"progress": 0,
 			"sortOrder": 700,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": null,
-			"genres": [],
-			"formats": []
-		},
-		{
-			"bookId": 213,
-			"title": "East of Eden",
-			"subTitle": "",
-			"fullTitle": "East of Eden",
-			"author": "John Steinbeck",
-			"link": "https://bookshop.org/p/books/east-of-eden-john-steinbeck/16287413?ean=9780140186390",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": false,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 0,
-			"progress": 0,
-			"sortOrder": 710,
 			"status": {
 				"name": "To Read",
 				"colorCode": "#313ca2"
@@ -26694,6 +26784,167 @@
 				}
 			],
 			"formats": []
+		},
+		{
+			"bookId": 701,
+			"title": "Addiction by Design",
+			"subTitle": "Machine Gambling in Las Vegas",
+			"fullTitle": "Addiction by Design: Machine Gambling in Las Vegas",
+			"author": "Natasha Dow Schüll",
+			"link": "https://bookshop.org/p/books/addiction-by-design-machine-gambling-in-las-vegas-natasha-dow-sch-ll/0def40356ddd5b82",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/7YbSpq6m/addiction-by-design.jpg",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3710,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
+				},
+				{
+					"name": "Technology",
+					"colorCode": "rgb(55, 78, 146)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 702,
+			"title": "Radical Infrastructure",
+			"subTitle": "Imagining the Internet from the Ground Up",
+			"fullTitle": "Radical Infrastructure: Imagining the Internet from the Ground Up",
+			"author": "Britt Paris",
+			"link": "https://bookshop.org/p/books/radical-infrastructure-imagining-the-internet-from-the-ground-up-britt-paris-ph-d/8191b351b4b45c1e",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3720,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Politics",
+					"colorCode": "rgb(130, 40, 40)"
+				},
+				{
+					"name": "Technology",
+					"colorCode": "rgb(55, 78, 146)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 703,
+			"title": "Plunder",
+			"subTitle": "Private Equity's Plan to Pillage America",
+			"fullTitle": "Plunder: Private Equity's Plan to Pillage America",
+			"author": "Brendan Ballou",
+			"link": "https://bookshop.org/p/books/plunder-private-equity-s-plan-to-pillage-america-brendan-ballou/868be1439333930f",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3730,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
+				},
+				{
+					"name": "Politics",
+					"colorCode": "rgb(130, 40, 40)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 704,
+			"title": "Spitfires",
+			"subTitle": "The American Women Who Flew in the Face of Danger During World War II",
+			"fullTitle": "Spitfires: The American Women Who Flew in the Face of Danger During World War II",
+			"author": "Becky Aikman",
+			"link": "https://bookshop.org/p/books/spitfires-the-american-women-who-flew-in-the-face-of-danger-during-world-war-ii-becky-aikman/8f6139cab9395ee4",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/xjsP12B2/aikman-spitfires.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3750,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
 		}
 	]
 }
