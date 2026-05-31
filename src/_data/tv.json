@@ -1,38 +1,6 @@
 {
 	"inProgress": [
 		{
-			"televisionShowId": 110,
-			"title": "Abbott Elementary",
-			"imdbLink": "https://www.imdb.com/title/tt14218830/",
-			"rating": 0,
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/XNymgqnL/abbott-elementary.jpg",
-			"seasonEpisodeCount": 93,
-			"currentSeasonEpisode": 80,
-			"progress": 86,
-			"sortOrder": null,
-			"status": {
-				"name": "Watching",
-				"colorCode": "#005c78"
-			},
-			"genres": [
-				{
-					"name": "Comedy",
-					"colorCode": "#a60483"
-				}
-			],
-			"services": [
-				{
-					"name": "Disney+",
-					"colorCode": "#df00de"
-				},
-				{
-					"name": "Hulu",
-					"colorCode": "#1cb153"
-				}
-			]
-		},
-		{
 			"televisionShowId": 44,
 			"title": "Anthony Bourdain: Parts Unknown",
 			"imdbLink": "https://www.imdb.com/title/tt2845786/",
@@ -90,6 +58,38 @@
 		}
 	],
 	"betweenSeasons": [
+		{
+			"televisionShowId": 110,
+			"title": "Abbott Elementary",
+			"imdbLink": "https://www.imdb.com/title/tt14218830/",
+			"rating": 0,
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/XNymgqnL/abbott-elementary.jpg",
+			"seasonEpisodeCount": 93,
+			"currentSeasonEpisode": 84,
+			"progress": 90,
+			"sortOrder": null,
+			"status": {
+				"name": "In Between Seasons",
+				"colorCode": "#901960"
+			},
+			"genres": [
+				{
+					"name": "Comedy",
+					"colorCode": "#a60483"
+				}
+			],
+			"services": [
+				{
+					"name": "Disney+",
+					"colorCode": "#df00de"
+				},
+				{
+					"name": "Hulu",
+					"colorCode": "#1cb153"
+				}
+			]
+		},
 		{
 			"televisionShowId": 103,
 			"title": "Elsbeth",

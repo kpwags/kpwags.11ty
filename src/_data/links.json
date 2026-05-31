@@ -1,5 +1,200 @@
 [
 	{
+		"linkId": 1616,
+		"title": "AI hiring tools can be biased, new study finds",
+		"author": "Samantha Fields",
+		"url": "https://www.marketplace.org/story/2026/05/28/ai-hiring-tools-can-still-have-racial-biases-study-finds",
+		"linkDate": "2026-05-31T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1617,
+		"title": ".NET (OK, C#) finally gets union types",
+		"author": "Andrew Lock",
+		"url": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
+		"linkDate": "2026-05-31T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1609,
+		"title": "\"Dad books\" are on the decline",
+		"author": "Kai Ryssdal & Sofia Terenzio",
+		"url": "https://www.marketplace.org/story/2026/05/27/why-dad-books-serious-nonfiction-titles-are-declining#dad-books-are-on-the-decline-",
+		"linkDate": "2026-05-29T00:00:00.000Z",
+		"category": {
+			"name": "Books",
+			"colorCode": "#a30000"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1610,
+		"title": "How companies weaponize the terms of service against you",
+		"author": "Decoder",
+		"url": "https://www.theverge.com/podcast/930342/brendan-ballou-companies-courts-forced-arbitration-lawsuits-scalia",
+		"linkDate": "2026-05-29T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1611,
+		"title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
+		"author": "Decoder",
+		"url": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
+		"linkDate": "2026-05-29T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1612,
+		"title": "Ronan Farrow on Sam Altman’s ‘unconstrained’ relationship with the truth",
+		"author": "Decoder",
+		"url": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry",
+		"linkDate": "2026-05-29T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1614,
+		"title": "The best way to create email templates in .NET",
+		"author": "David Grace",
+		"url": "https://www.roundthecode.com/dotnet-tutorials/best-way-create-email-templates",
+		"linkDate": "2026-05-29T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1615,
+		"title": "California’s 3D Printer Law Would Criminalize Open Source, Enshittify The 3D Printing Space",
+		"author": "Karl Bode",
+		"url": "https://www.techdirt.com/2026/04/27/californias-3d-printer-law-would-criminalize-open-source-enshittify-the-3d-printing-space/",
+		"linkDate": "2026-05-29T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1606,
+		"title": "Headway Therapy Patients Forced to Scan Their Faces to Keep Getting Care",
+		"author": "Samantha Cole",
+		"url": "https://www.404media.co/headway-therapy-facial-scan-biometric-data-identity-verification/",
+		"linkDate": "2026-05-28T00:00:00.000Z",
+		"category": {
+			"name": "Privacy",
+			"colorCode": "#26a269"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1607,
+		"title": "Why people really hate AI",
+		"author": "The Vergecast",
+		"url": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast",
+		"linkDate": "2026-05-28T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1608,
+		"title": "Elon Musk’s astronomical SpaceX bet",
+		"author": "Money Talks",
+		"url": "https://www.economist.com/podcasts/2026/05/28/elon-musks-astronomical-spacex-bet",
+		"linkDate": "2026-05-28T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1604,
+		"title": "The Physical Politics of the Internet with Britt Paris",
+		"author": "404 Media Podcast",
+		"url": "https://www.404media.co/podcast-the-physical-politics-of-the-internet-with-britt-paris/",
+		"linkDate": "2026-05-27T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1605,
+		"title": "Millions of People Are Installing Malware on Their Partners’ Phones (with Zack Whittaker)",
+		"author": "404 Media Podcast",
+		"url": "https://www.404media.co/millions-of-people-are-installing-malware-on-their-partners-phones-with-zack-whittaker/",
+		"linkDate": "2026-05-27T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
 		"linkId": 1603,
 		"title": "‘BusPatrol’ Put AI Cameras in Tens of Thousands of School Buses. Now They Want to Give Cops Access",
 		"author": "Joseph Cox",
