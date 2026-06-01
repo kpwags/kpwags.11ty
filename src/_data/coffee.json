@@ -1,5 +1,13 @@
 [
 	{
+		"roaster": "Caffe Vita",
+		"blend": "Bistro Blend",
+		"roast": "Medium",
+		"location": "Brooklyn, NY",
+		"link": "https://www.caffevita.com/products/bistro-blend",
+		"date": "2026-03-16"
+	},
+	{
 		"roaster": "Small Planes Coffee",
 		"blend": "Colonnade",
 		"roast": "Medium",
@@ -31,13 +39,5 @@
 		"location": "Millerton, NY",
 		"link": "https://irvingfarmcoffee.com/collections/best-sellers/products/71-irving-house-blend",
 		"date": "2026-04-29"
-	},
-	{
-		"roaster": "Broadsheet Coffee Roasters",
-		"blend": "Line Street",
-		"roast": "Medium",
-		"location": "Cambridge, MA",
-		"link": "",
-		"date": "2026-04-22"
 	}
 ]
