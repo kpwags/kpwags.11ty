@@ -30,6 +30,51 @@
 		}
 	},
 	{
+		"linkId": 1618,
+		"title": "Trusted vs. Untrusted Agency Amplifiers",
+		"author": "Jason Rodriguez",
+		"url": "https://www.rodriguezcommaj.com//blog/trusted-vs-untrusted-agency-amplifiers/",
+		"linkDate": "2026-05-31T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1619,
+		"title": "Franchising has quietly made countless Americans rich",
+		"author": "The Economist",
+		"url": "https://www.economist.com/business/2026/05/24/franchising-has-quietly-made-countless-americans-rich",
+		"linkDate": "2026-05-31T00:00:00.000Z",
+		"category": {
+			"name": "Business & Finance",
+			"colorCode": "#0d5430"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1620,
+		"title": "Two Paradigms for Enhancing HTML Tags",
+		"author": "Jared White",
+		"url": "https://thathtml.blog/2026/04/two-paradigms-for-enhancing-html-tags/",
+		"linkDate": "2026-05-31T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1609,
 		"title": "\"Dad books\" are on the decline",
 		"author": "Kai Ryssdal & Sofia Terenzio",

@@ -26945,6 +26945,51 @@
 					"colorCode": "#cd6a29"
 				}
 			]
+		},
+		{
+			"bookId": 705,
+			"title": "When Companies Run the Courts",
+			"subTitle": "How Forced Arbitration Became America's Secret Justice System",
+			"fullTitle": "When Companies Run the Courts: How Forced Arbitration Became America's Secret Justice System",
+			"author": "Brendan Ballou",
+			"link": "https://bookshop.org/p/books/when-companies-run-the-courts-how-forced-arbitration-became-america-s-secret-justice-system-brendan-ballou/737fb3f75cdb1a99",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3760,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
+				},
+				{
+					"name": "Politics",
+					"colorCode": "rgb(130, 40, 40)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
 		}
 	]
 }
