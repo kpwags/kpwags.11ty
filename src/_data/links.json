@@ -1,5 +1,65 @@
 [
 	{
+		"linkId": 1622,
+		"title": "Deus vs. Machina",
+		"author": "Ctrl-Alt-Speech",
+		"url": "https://podcast.ctrlaltspeech.com/2315966/episodes/19256820-deus-vs-machina",
+		"linkDate": "2026-06-03T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1623,
+		"title": "How AI is clogging the courtroom",
+		"author": "The Indicator",
+		"url": "https://www.npr.org/2026/06/01/nx-s1-5839913/how-ai-is-clogging-the-courtroom",
+		"linkDate": "2026-06-03T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1624,
+		"title": "The sneaky way companies get new chemicals into our food",
+		"author": "Planet Money",
+		"url": "https://www.npr.org/2026/05/29/nx-s1-5836552/fda-gras-food-chemicals-additives-rfk",
+		"linkDate": "2026-06-03T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1621,
+		"title": "The Zig project's rationale for their firm anti-AI contribution policy",
+		"author": "Simon Willison",
+		"url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+		"linkDate": "2026-06-02T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1616,
 		"title": "AI hiring tools can be biased, new study finds",
 		"author": "Samantha Fields",
