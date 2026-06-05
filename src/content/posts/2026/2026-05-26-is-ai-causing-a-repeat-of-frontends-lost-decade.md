@@ -16,7 +16,7 @@ tags:
   - Development
   - Mauro Bieg
 ---
-This was originally going to be a note after reading Mauro Berg's piece, [Is AI causing a repeat of Frontend’s Lost Decade?](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/), but I think I have more thoughts than what generally fits for a note here.
+This was originally going to be a note after reading Mauro Bieg's piece, [Is AI causing a repeat of Frontend’s Lost Decade?](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/), but I think I have more thoughts than what generally fits for a note here.
 <!-- excerpt -->
 
 > The *deskilling of the frontend* was the introduction of frameworks and other tooling that treats the browser as a mere compilation target – just like any other app runtime (e.g. JVM or iOS). Then you can just load in [the monstrosity that is a Shadcn radio button](https://paulmakeswebsites.com/writing/shadcn-radio-button/), and don’t need to understand the underlying HTML, any subtleties involving different browsers, page load performance, and accessibility.
@@ -44,3 +44,5 @@ Many of us developers I'm sure, myself included, have gone down the path of copy
 As Mauro Bieg opines, I'm wondering what this new world will bring to those developers who appreciate the art of writing code. The pride of bringing a new app or website online with fantastic craftsmanship.
 
 <div class="view-link"><a href="https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/">Read the Original Post</a></div>
+
+*Edit 6/5/2026:* I incorrectly spelled Mauro's last name in the intro. I have corrected that

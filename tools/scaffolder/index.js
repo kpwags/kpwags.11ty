@@ -585,7 +585,7 @@ Excerpt
 <!-- excerpt -->
 
 {% renderTemplate "webc" %}
-<monthly-roundup runs="0" milesran="0" walks="0" mileswalked="0" lifts="0" volumelifted="0" bikes="0" milesrode="0" gaming="true" tv="true" movies="true">
+<monthly-roundup runs="0" milesran="0" walks="0" mileswalked="0" lifts="0" volumelifted="0" bikes="0" milesrode="0" gaming="true" tv="true" movies="true" music="true">
 	<ul slot="books-read">
 		<li>Finished <a href="LINK">TITLE</a> by AUTHOR</li>
 		<li>Started <a href="LINK">TITLE</a> by AUTHOR</li>
@@ -613,6 +613,10 @@ Excerpt
 
 	<ul slot="movies">
 		<li><a href="LINK">TITLE</a></li>
+	</ul>
+
+	<ul slot="music">
+		<li></li>
 	</ul>
 </monthly-roundup>
 {% endrenderTemplate %}

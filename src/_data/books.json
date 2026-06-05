@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/xjsP12BS/east-of-eden.jpg",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 223,
+			"currentPage": 350,
 			"pageCount": 1391,
-			"progress": 16,
+			"progress": 25,
 			"sortOrder": 710,
 			"status": {
 				"name": "Reading",
@@ -26990,6 +26990,46 @@
 					"colorCode": "#a0175f"
 				}
 			]
+		},
+		{
+			"bookId": 706,
+			"title": "Ctrl + Alt + Chaos",
+			"subTitle": "How Teenage Hackers Hijack the Internet",
+			"fullTitle": "Ctrl + Alt + Chaos: How Teenage Hackers Hijack the Internet",
+			"author": "Joe Tidy",
+			"link": "https://bookshop.org/p/books/ctrl-alt-chaos-how-teenage-hackers-hijack-the-internet-joe-tidy/429474585348aeb8",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3770,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Crime",
+					"colorCode": "rgb(8, 84, 3)"
+				},
+				{
+					"name": "Technology",
+					"colorCode": "rgb(55, 78, 146)"
+				}
+			],
+			"formats": []
 		}
 	]
 }

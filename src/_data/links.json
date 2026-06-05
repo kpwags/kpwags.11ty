@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1625,
+		"title": "Vastaamo",
+		"author": "Darknet Diaries",
+		"url": "https://darknetdiaries.com/episode/159/",
+		"linkDate": "2026-06-05T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
 		"linkId": 1622,
 		"title": "Deus vs. Machina",
 		"author": "Ctrl-Alt-Speech",
