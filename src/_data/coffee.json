@@ -1,5 +1,14 @@
 [
 	{
+		"roaster": "Red Rooster",
+		"blend": "Waxwing",
+		"roast": "Medium Dark",
+		"location": "Floyd, VA",
+		"link": "https://www.redroostercoffee.com/products/waxwing-all-purpose-blend",
+		"thoughts": "",
+		"date": "2026-06-05"
+	},
+	{
 		"roaster": "Caffe Vita",
 		"blend": "Bistro Blend",
 		"roast": "Medium",
@@ -31,13 +40,5 @@
 		"location": "Santa Cruz, CA",
 		"link": "https://www.vervecoffee.com/products/buena-vista-dark-roast",
 		"date": "2026-05-07"
-	},
-	{
-		"roaster": "Irving Farm Coffee",
-		"blend": "71 House",
-		"roast": "Medium",
-		"location": "Millerton, NY",
-		"link": "https://irvingfarmcoffee.com/collections/best-sellers/products/71-irving-house-blend",
-		"date": "2026-04-29"
 	}
 ]
