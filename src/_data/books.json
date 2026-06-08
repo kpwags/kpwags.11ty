@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/xjsP12BS/east-of-eden.jpg",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 529,
+			"currentPage": 651,
 			"pageCount": 1391,
-			"progress": 38,
+			"progress": 47,
 			"sortOrder": 710,
 			"status": {
 				"name": "Reading",
@@ -27027,6 +27027,123 @@
 				{
 					"name": "Technology",
 					"colorCode": "rgb(55, 78, 146)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 707,
+			"title": "Fire and Fortitude",
+			"subTitle": "",
+			"fullTitle": "Fire and Fortitude",
+			"author": "John C. McManus",
+			"link": "https://bookshop.org/p/books/fire-and-fortitude-the-us-army-in-the-pacific-war-1941-1943-john-c-mcmanus/83f63f2c398b7f16",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3780,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": {
+				"name": "John McManus Pacific War Trilogy",
+				"colorCode": "#846124"
+			},
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 708,
+			"title": "Island Infernos",
+			"subTitle": "The US Army's Pacific War Odyssey, 1944",
+			"fullTitle": "Island Infernos: The US Army's Pacific War Odyssey, 1944",
+			"author": "John C. McManus",
+			"link": "https://bookshop.org/p/books/island-infernos-the-us-army-s-pacific-war-odyssey-1944-john-c-mcmanus/95a7c1643fc9a6bd",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3790,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": {
+				"name": "John McManus Pacific War Trilogy",
+				"colorCode": "#846124"
+			},
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 709,
+			"title": "To the End of the Earth",
+			"subTitle": "The US Army and the Downfall of Japan, 1945",
+			"fullTitle": "To the End of the Earth: The US Army and the Downfall of Japan, 1945",
+			"author": "John C. McManus",
+			"link": "https://bookshop.org/p/books/to-the-end-of-the-earth-the-us-army-and-the-downfall-of-japan-1945-john-c-mcmanus/2899512abd999911",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3800,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": {
+				"name": "John McManus Pacific War Trilogy",
+				"colorCode": "#846124"
+			},
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
 				}
 			],
 			"formats": []

@@ -1,5 +1,50 @@
 [
 	{
+		"linkId": 1626,
+		"title": "A tale of two media women",
+		"author": "Marisa Kabas",
+		"url": "https://www.thehandbasket.co/p/bari-weiss-cbs-scott-pelley-marisa-kabas",
+		"linkDate": "2026-06-08T00:00:00.000Z",
+		"category": {
+			"name": "Journalism",
+			"colorCode": "#131519"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1627,
+		"title": "Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search",
+		"author": "Jason Koebler",
+		"url": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
+		"linkDate": "2026-06-08T00:00:00.000Z",
+		"category": {
+			"name": "The Internet",
+			"colorCode": "#8b3d15"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1628,
+		"title": "The attack on competence",
+		"author": "Iris Meredith",
+		"url": "https://deadsimpletech.com/blog/attack-on-competence",
+		"linkDate": "2026-06-08T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1625,
 		"title": "Vastaamo",
 		"author": "Darknet Diaries",
