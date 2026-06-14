@@ -1,47 +1,6 @@
 {
 	"inProgress": [
 		{
-			"bookId": 213,
-			"title": "East of Eden",
-			"subTitle": "",
-			"fullTitle": "East of Eden",
-			"author": "John Steinbeck",
-			"link": "https://bookshop.org/p/books/east-of-eden-john-steinbeck/16287413?ean=9780140186390",
-			"dateStarted": "2026-06-01T00:00:00.000Z",
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/xjsP12BS/east-of-eden.jpg",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 755,
-			"pageCount": 1391,
-			"progress": 54,
-			"sortOrder": 710,
-			"status": {
-				"name": "Reading",
-				"colorCode": "#6a208f"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "General Fiction",
-					"colorCode": "rgb(145, 104, 104)"
-				}
-			],
-			"formats": [
-				{
-					"name": "eBook",
-					"colorCode": "#2c5813"
-				}
-			]
-		},
-		{
 			"bookId": 698,
 			"title": "The Ottoman Endgame",
 			"subTitle": "War, Revolution, and the Making of the Modern Middle East, 1908-1923",
@@ -56,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/7htmwJ2q/ottoman-endgame.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 177,
+			"currentPage": 199,
 			"pageCount": 495,
-			"progress": 36,
+			"progress": 40,
 			"sortOrder": 1,
 			"status": {
 				"name": "Reading",
@@ -87,6 +46,47 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 213,
+					"title": "East of Eden",
+					"subTitle": "",
+					"fullTitle": "East of Eden",
+					"author": "John Steinbeck",
+					"link": "https://bookshop.org/p/books/east-of-eden-john-steinbeck/16287413?ean=9780140186390",
+					"dateStarted": "2026-06-01T00:00:00.000Z",
+					"dateCompleted": "2026-06-13T00:00:00.000Z",
+					"rating": 1,
+					"bookNotesUrl": "",
+					"thoughts": "I at times had to force myself to push through and read this. Can’t say I really liked it.",
+					"coverImageUrl": "https://i.postimg.cc/xjsP12BS/east-of-eden.jpg",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 1391,
+					"pageCount": 1391,
+					"progress": 100,
+					"sortOrder": 710,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "General Fiction",
+							"colorCode": "rgb(145, 104, 104)"
+						}
+					],
+					"formats": [
+						{
+							"name": "eBook",
+							"colorCode": "#2c5813"
+						}
+					]
+				},
 				{
 					"bookId": 694,
 					"title": "Children of Strife",
@@ -26251,6 +26251,42 @@
 			"formats": []
 		},
 		{
+			"bookId": 710,
+			"title": "Incorruptible",
+			"subTitle": "Why Good Companies Go Bad... and How Great Companies Stay Great",
+			"fullTitle": "Incorruptible: Why Good Companies Go Bad... and How Great Companies Stay Great",
+			"author": "Eric Ries",
+			"link": "https://bookshop.org/p/books/incorruptible-why-good-companies-go-bad-and-how-great-companies-stay-great-eric-ries/59b9dafd417d9e02",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3550,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
+				}
+			],
+			"formats": []
+		},
+		{
 			"bookId": 680,
 			"title": "The Long Way to a Small, Angry Planet",
 			"subTitle": "",
@@ -27144,6 +27180,42 @@
 				{
 					"name": "History",
 					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 711,
+			"title": "The Lean Startup",
+			"subTitle": "How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+			"fullTitle": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+			"author": "Eric Ries",
+			"link": "https://bookshop.org/p/books/the-lean-startup-how-today-s-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses-eric-ries/3cb6bdcf8f1bebc2",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3810,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
 				}
 			],
 			"formats": []
