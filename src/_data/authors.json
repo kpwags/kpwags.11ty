@@ -1275,6 +1275,15 @@
 		]
 	},
 	{
+		"name": "John Steinbeck",
+		"books": [
+			{
+				"title": "East of Eden",
+				"link": "https://bookshop.org/p/books/east-of-eden-john-steinbeck/16287413?ean=9780140186390"
+			}
+		]
+	},
+	{
 		"name": "John Strausbaugh",
 		"books": [
 			{
