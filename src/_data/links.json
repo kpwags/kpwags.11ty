@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1639,
+		"title": "The world’s first trillionaire is a killer",
+		"author": "TC Sottek",
+		"url": "https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer",
+		"linkDate": "2026-06-15T00:00:00.000Z",
+		"category": {
+			"name": "Politics",
+			"colorCode": "#8b642f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1631,
 		"title": "A tale of two browsers",
 		"author": "Jeremy Keith",
@@ -8,6 +23,111 @@
 		"category": {
 			"name": "Web Development",
 			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1632,
+		"title": "The American Rebellion Against Al Is Gaining Steam",
+		"author": "Amrith Ramkumar, Katherine Blunt & Lindsay Ellis",
+		"url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
+		"linkDate": "2026-06-14T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1633,
+		"title": "Software Developers Say AI Is Rotting Their Brains",
+		"author": "Emanuel Maiberg",
+		"url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
+		"linkDate": "2026-06-14T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1634,
+		"title": "The duality of language models in the browser",
+		"author": "Dave Rupert",
+		"url": "https://daverupert.com/2026/05/small-language-models-in-the-browser/",
+		"linkDate": "2026-06-14T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1635,
+		"title": "C# / .NET Performance: Why Is It Slow 'Here' and What Should You Optimize First?",
+		"author": "Chris Pietschmann",
+		"url": "https://www.pietschsoft.com/post/2026/04/29/csharp-dotnet-performance-what-to-optimize-first",
+		"linkDate": "2026-06-14T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1636,
+		"title": "Reminder: You Can Stitch Together Lots of Little HTML Pages With Navigations For Interactions",
+		"author": "Jim Nielsen",
+		"url": "https://blog.jim-nielsen.com/2026/small-html-pages/",
+		"linkDate": "2026-06-14T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1637,
+		"title": "Building a UI Without Breakpoints",
+		"author": "Amit Sheen",
+		"url": "https://frontendmasters.com/blog/building-a-ui-without-breakpoints/",
+		"linkDate": "2026-06-14T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1638,
+		"title": "If you thought the speed of writing code was your problem - you have bigger problems",
+		"author": "Andrew Murphy",
+		"url": "https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems",
+		"linkDate": "2026-06-14T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
 		},
 		"type": {
 			"name": "Link",
