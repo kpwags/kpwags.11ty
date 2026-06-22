@@ -1,5 +1,170 @@
 [
 	{
+		"linkId": 1650,
+		"title": "Read this before you vibe-code another app",
+		"author": "Yael Grauer",
+		"url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+		"linkDate": "2026-06-22T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1647,
+		"title": "All tomorrow’s parties.",
+		"author": "Ethan Marcotte",
+		"url": "https://ethanmarcotte.com/wrote/all-tomorrows-parties/",
+		"linkDate": "2026-06-21T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1648,
+		"title": "Things I Think I Think... Data Privacy",
+		"author": "Ted Neward",
+		"url": "https://blogs.newardassociates.com/blog/2026/titit-data-privacy.html",
+		"linkDate": "2026-06-21T00:00:00.000Z",
+		"category": {
+			"name": "Privacy",
+			"colorCode": "#26a269"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1649,
+		"title": "AI Doesn't Fix Accessible Systems. It Depends on Them.",
+		"author": "Anna E. Cook",
+		"url": "https://annaecook.com/writing/2026/ai-doesnt-fix-accessible-systems-it-depends-on-them",
+		"linkDate": "2026-06-21T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1646,
+		"title": "C#: Should This Be a Class, Record, Struct, or Interface?",
+		"author": "Chris Pietschmann",
+		"url": "https://www.pietschsoft.com/post/2026/05/07/csharp-class-record-struct-or-interface-how-to-choose",
+		"linkDate": "2026-06-20T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1645,
+		"title": "If AI Is Sentient Then So Is ‘Age of Empires II’",
+		"author": "Matthew Gault",
+		"url": "https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/",
+		"linkDate": "2026-06-19T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1643,
+		"title": "Rupert Murdoch's High-Stakes Blitz Against the NFL",
+		"author": "Dana Mattioli, Josh Dawsey, Andrew Beaton & Joe Flint",
+		"url": "https://www.wsj.com/business/media/murdoch-nfl-television-fight-35aa3587",
+		"linkDate": "2026-06-18T00:00:00.000Z",
+		"category": {
+			"name": "Business & Finance",
+			"colorCode": "#0d5430"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1644,
+		"title": "The unreasonable effectiveness of simple HTML",
+		"author": "Terence Eden",
+		"url": "https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/",
+		"linkDate": "2026-06-18T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1642,
+		"title": "Sledgehammer and Big Shot",
+		"author": "Hardcore History Addendum",
+		"url": "https://www.dancarlin.com/product/ep-33-sledgehammer-and-big-shot/",
+		"linkDate": "2026-06-17T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1640,
+		"title": "The **epic** story of Markdown",
+		"author": "The Vergecast",
+		"url": "https://www.theverge.com/podcast/950082/markdown-history-gruber-vergecast",
+		"linkDate": "2026-06-16T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1641,
+		"title": "It Is Trivially Easy to Use Reddit to Manipulate AI Search, Research Suggests",
+		"author": "Jason Koebler",
+		"url": "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/",
+		"linkDate": "2026-06-16T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1639,
 		"title": "The world’s first trillionaire is a killer",
 		"author": "TC Sottek",

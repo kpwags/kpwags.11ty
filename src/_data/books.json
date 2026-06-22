@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/7htmwJ2q/ottoman-endgame.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 199,
+			"currentPage": 413,
 			"pageCount": 495,
-			"progress": 40,
+			"progress": 83,
 			"sortOrder": 1,
 			"status": {
 				"name": "Reading",
@@ -27216,6 +27216,122 @@
 				{
 					"name": "Business & Economics",
 					"colorCode": "rgb(23, 126, 0)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 712,
+			"title": "With the Old Breed",
+			"subTitle": "At Peleliu and Okinawa",
+			"fullTitle": "With the Old Breed: At Peleliu and Okinawa",
+			"author": "E.B. Sledge",
+			"link": "https://bookshop.org/p/books/with-the-old-breed-e-b-sledge/66d07581ef9c6e21",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3820,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Biography / Memoir",
+					"colorCode": "rgb(68, 0, 214)"
+				},
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 713,
+			"title": "The Old Breed... The Complete Story Revealed",
+			"subTitle": "A Father, A Son, and How WWII in the Pacific Shaped Their Lives",
+			"fullTitle": "The Old Breed... The Complete Story Revealed: A Father, A Son, and How WWII in the Pacific Shaped Their Lives",
+			"author": "W. Henry Sledge",
+			"link": "https://bookshop.org/p/books/the-old-breed-the-complete-story-revealed-a-father-a-son-and-how-wwii-in-the-pacific-shaped-their-lives-w-henry-sledge/4bbb6b727827021e",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3830,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Biography / Memoir",
+					"colorCode": "rgb(68, 0, 214)"
+				},
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 714,
+			"title": "The Things That Remain",
+			"subTitle": "The Artifacts of Eugene B. Sledge",
+			"fullTitle": "The Things That Remain: The Artifacts of Eugene B. Sledge",
+			"author": "W. Henry Sledge",
+			"link": "https://bookshop.org/p/books/the-things-that-remain-the-artifacts-of-eugene-b-sledge-w-henry-sledge/fd5c02d4887ff02e",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3840,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
 				}
 			],
 			"formats": []
