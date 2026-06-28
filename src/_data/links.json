@@ -1,5 +1,140 @@
 [
 	{
+		"linkId": 1654,
+		"title": "The goal isn't to write more code",
+		"author": "Jon Hilton",
+		"url": "https://jonhilton.net/moar-code-bad/",
+		"linkDate": "2026-06-28T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1655,
+		"title": "Betting on risk changes the world",
+		"author": "Tim Harford",
+		"url": "https://timharford.com/2026/05/betting-on-risk-changes-the-world/",
+		"linkDate": "2026-06-28T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1656,
+		"title": "Don't Outsource the Learning",
+		"author": "Addy Osmani",
+		"url": "https://addyosmani.com/blog/dont-outsource-learning/",
+		"linkDate": "2026-06-28T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1657,
+		"title": "How we’re approaching theming with modern CSS",
+		"author": "Andy Bell",
+		"url": "https://piccalil.li/blog/how-were-approaching-theming-with-modern-css/",
+		"linkDate": "2026-06-28T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1658,
+		"title": "I Built the Same App 10 Times: Evaluating Frameworks for Mobile Performance",
+		"author": "Loren Stewart",
+		"url": "https://www.lorenstew.art/blog/10-kanban-boards/",
+		"linkDate": "2026-06-28T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1660,
+		"title": "Understanding the fundamentals of CSS Layout",
+		"author": "Kilian Valkhof",
+		"url": "https://polypane.app/blog/understanding-the-fundamentals-of-css-layout/",
+		"linkDate": "2026-06-28T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1653,
+		"title": "Are Public Libraries Becoming Children’s Libraries?",
+		"author": "Claire Woodcock",
+		"url": "https://www.404media.co/are-public-libraries-becoming-childrens-libraries/",
+		"linkDate": "2026-06-26T00:00:00.000Z",
+		"category": {
+			"name": "Books",
+			"colorCode": "#a30000"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1652,
+		"title": "Bungie hit with ‘significant’ layoffs after ending Destiny 2",
+		"author": "Andrew Webster",
+		"url": "https://www.theverge.com/entertainment/956880/bungie-layoffs-destiny-2",
+		"linkDate": "2026-06-25T00:00:00.000Z",
+		"category": {
+			"name": "Gaming",
+			"colorCode": "#275576"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1651,
+		"title": "Cape Verde Deserved Better Than Whatever The Hell JP Dellacamera Was Doing",
+		"author": "Tom Ley",
+		"url": "https://defector.com/cape-verde-deserved-better-than-whatever-the-hell-jp-dellacamera-was-doing",
+		"linkDate": "2026-06-22T00:00:00.000Z",
+		"category": {
+			"name": "Sports",
+			"colorCode": "#2d5f6f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1650,
 		"title": "Read this before you vibe-code another app",
 		"author": "Yael Grauer",

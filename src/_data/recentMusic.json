@@ -1,1 +1,82 @@
-[]
+[
+	{
+		"musicAlbumId": 286,
+		"title": "Clear Blocks Ahead",
+		"artist": "Tim Barry",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/bYQLXYdj/tim-barry-clear-blocks-ahead.jpg",
+		"isTopTen": false,
+		"showOnNowPage": true,
+		"datePurchased": "Thu, 25 Jun 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Folk",
+				"colorCode": "rgb(202, 122, 5)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			},
+			{
+				"name": "Vinyl",
+				"colorCode": "#a51643"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "W.W. Pool"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Still Lit"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Wreck-Less"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Waltzing the Cell"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Hello from Roanoake"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Too Richmond for RVA"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Miller & Rhoads"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Steady Locomotion"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Iron City Break"
+			},
+			{
+				"trackNumber": 10,
+				"title": "It Ain't Easy"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Broken Songs"
+			},
+			{
+				"trackNumber": 12,
+				"title": "Loads East, Empties West"
+			},
+			{
+				"trackNumber": 13,
+				"title": "Thank You (For All the Songs)"
+			}
+		]
+	}
+]
