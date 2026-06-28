@@ -1,5 +1,13 @@
 [
 	{
+		"roaster": "Caffe Vita",
+		"blend": "Bistro Blend",
+		"roast": "Medium",
+		"location": "Brooklyn, NY",
+		"link": "https://www.caffevita.com/products/bistro-blend",
+		"date": "2026-03-16"
+	},
+	{
 		"roaster": "8th & Roast Coffee Co.",
 		"blend": "Common Voice: Heirloom",
 		"roast": "Medium",
@@ -31,14 +39,5 @@
 		"location": "Washington D.C.",
 		"link": "https://smallplanescoffee.com/products/colonnade",
 		"date": "2026-05-21"
-	},
-	{
-		"roaster": "Atomic Coffee Roasters",
-		"blend": "Space Cadet",
-		"roast": "Medium",
-		"location": "Peabody, MA",
-		"link": "https://atomicroastery.com/products/space-cadet?variant=13347106553974",
-		"thoughts": "",
-		"date": "2026-05-15"
 	}
 ]

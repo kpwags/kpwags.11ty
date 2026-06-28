@@ -1,0 +1,263 @@
+body.resume footer {
+	border-top: none;
+	padding-top: 0;
+}
+
+div.resume {
+	border-top: 5px solid var(--primary-color);
+	border-bottom: 5px solid var(--primary-color);
+	margin: 32px 0;
+}
+
+div.resume h2 {
+	font-size: 3rem;
+}
+
+div.resume h3 {
+	font-size: 2.25rem;
+	margin: 24px 0;
+}
+
+div.resume h4 {
+	font-size: 1.85rem;
+}
+
+div.resume h5 {
+	font-size: 1.35rem;
+}
+
+@media (max-width: 767px) {
+	div.resume h2 {
+		font-size: 2.25rem;
+	}
+
+	div.resume h3 {
+		font-size: 2rem;
+	}
+
+	div.resume h4 {
+		font-size: 1.55rem;
+	}
+
+	div.resume h5 {
+		font-size: 1.35rem;
+	}
+}
+
+.title {
+	display: flex;
+	gap: 96px;
+	align-items: center;
+	border-bottom: 1px solid var(--primary-color);
+}
+
+.contact-list {
+	text-align: right;
+	margin: 0;
+	min-width: 275px;
+}
+
+.contact-list li {
+	list-style-type: none;
+	margin-left: 0;
+}
+
+@media (max-width: 767px) {
+	.title {
+		flex-direction: column;
+		gap: 32px;
+		align-items: flex-start;
+		padding-bottom: 24px;
+	}
+
+	.name-summary p {
+		margin-bottom: 0;
+	}
+
+	.contact-list {
+		text-align: center;
+		width: 100%;
+	}
+}
+
+.experience,
+.education {
+	border-bottom: 1px solid var(--primary-color);
+}
+
+.jobs {
+	display: flex;
+	flex-direction: column;
+	gap: 32px;
+}
+
+.job {
+	width: 100%;
+	border-bottom: 1px solid var(--secondary-color);
+}
+
+.job:last-of-type {
+	border-bottom: none;
+}
+
+.job .job-info {
+	display: flex;
+	gap: 96px;
+	align-items: flex-start;
+}
+
+.job .job-info h4 {
+	margin: 0;
+}
+
+.job .job-info h5 {
+	margin: 0;
+	color: var(--secondary-color);
+}
+
+.job .job-info .title-company {
+	flex-grow: 1;
+}
+
+.job .job-info .time-location {
+	text-align: right;
+}
+
+.job .responsibilities {
+	margin: 24px 0;
+}
+
+@media (max-width: 767px) {
+	.job .job-info {
+		flex-direction: column;
+		gap: 0;
+	}
+
+	.job .job-info .time-location {
+		text-align: left;
+	}
+
+	.job .responsibilities {
+		margin: 16px 0 24px 0;
+	}
+}
+
+.education h4,
+.honors h4 {
+	margin-bottom: 0;
+}
+
+.education h5 {
+	margin: 0;
+	color: var(--secondary-color);
+}
+
+.honors h5 {
+	margin: 0 0 24px;
+	color: var(--secondary-color);
+}
+
+.education h6 {
+	margin: 0 0 24px;
+}
+
+.hidden-contact {
+	display: none;
+}
+
+.older-jobs ul {
+	margin: 24px 0;
+}
+
+.older-jobs ul li span.company {
+	color: var(--secondary-color);
+}
+
+.older-jobs ul li span.position {
+	color: var(--tertiary-color);
+}
+
+@media print {
+	body {
+		color: #000;
+	}
+
+	a {
+		color: #000;
+	}
+
+	body header,
+	body footer {
+		display: none;
+	}
+
+	div.resume {
+		margin: 0;
+		border-top: none;
+		border-bottom: none;
+	}
+
+	div.resume h2 {
+		color: var(--primary-color);
+		font-size: 1.85rem;
+		margin-bottom: 12px;
+	}
+
+	div.resume h3 {
+		font-size: 1.6rem;
+		margin: 24px 0;
+	}
+
+	div.resume h4 {
+		font-size: 1.45rem;
+	}
+
+	div.resume h5 {
+		font-size: 1.3rem;
+	}
+
+	.title {
+		flex-direction: row;
+		gap: 32px;
+		align-items: center;
+	}
+
+	.contact-list {
+		text-align: right;
+	}
+
+	.job .job-info {
+		flex-direction: row;
+		gap: 32px;
+	}
+
+	.job .job-info .time-location {
+		text-align: right;
+	}
+
+	.job .job-info h5,
+	.education h5,
+	.honors h5 {
+		color: var(--tertiary-color);
+	}
+
+	.page-break {
+		page-break-after: always;
+	}
+
+	.job.page-break {
+		border-bottom: none;
+	}
+
+	.hidden-contact {
+		display: block;
+	}
+
+	.hidden-contact .phone::before {
+		content: '267.250.7384';
+	}
+
+	.experience {
+		border-bottom: none;
+	}
+}

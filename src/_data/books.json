@@ -1,24 +1,24 @@
 {
 	"inProgress": [
 		{
-			"bookId": 698,
-			"title": "The Ottoman Endgame",
-			"subTitle": "War, Revolution, and the Making of the Modern Middle East, 1908-1923",
-			"fullTitle": "The Ottoman Endgame: War, Revolution, and the Making of the Modern Middle East, 1908-1923",
-			"author": "Sean McMeekin",
-			"link": "https://bookshop.org/p/books/the-ottoman-endgame-war-revolution-and-the-making-of-the-modern-middle-east-1908-1923-sean-mcmeekin/b62417099bc70c69",
-			"dateStarted": "2026-05-23T00:00:00.000Z",
+			"bookId": 701,
+			"title": "Addiction by Design",
+			"subTitle": "Machine Gambling in Las Vegas",
+			"fullTitle": "Addiction by Design: Machine Gambling in Las Vegas",
+			"author": "Natasha Dow Schüll",
+			"link": "https://bookshop.org/p/books/addiction-by-design-machine-gambling-in-las-vegas-natasha-dow-sch-ll/0def40356ddd5b82",
+			"dateStarted": "2026-06-23T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/7htmwJ2q/ottoman-endgame.jpg",
-			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 413,
-			"pageCount": 495,
+			"coverImageUrl": "https://i.postimg.cc/7YbSpq6m/addiction-by-design.jpg",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 725,
+			"pageCount": 872,
 			"progress": 83,
-			"sortOrder": 1,
+			"sortOrder": 3710,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
@@ -30,14 +30,62 @@
 			"series": null,
 			"genres": [
 				{
-					"name": "History",
-					"colorCode": "rgb(4, 38, 142)"
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
+				},
+				{
+					"name": "Technology",
+					"colorCode": "rgb(55, 78, 146)"
 				}
 			],
 			"formats": [
 				{
-					"name": "Paperback",
-					"colorCode": "#cd6a29"
+					"name": "Audiobook",
+					"colorCode": "#b300b3"
+				}
+			]
+		},
+		{
+			"bookId": 700,
+			"title": "We Are Legion (We Are Bob)",
+			"subTitle": "",
+			"fullTitle": "We Are Legion (We Are Bob)",
+			"author": "Dennis E. Taylor",
+			"link": "https://bookshop.org/p/books/we-are-legion-we-are-bob-bobiverse-book-1-dennis-e-taylor/9b80867ccfc6271b",
+			"dateStarted": "2026-06-25T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/wjw83cH9/we-are-legion-we-are-bob.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 155,
+			"pageCount": 302,
+			"progress": 51,
+			"sortOrder": 2,
+			"status": {
+				"name": "Reading",
+				"colorCode": "#6a208f"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "Bobiverse",
+				"colorCode": "#1b66de"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
 				}
 			]
 		}
@@ -46,6 +94,47 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 698,
+					"title": "The Ottoman Endgame",
+					"subTitle": "War, Revolution, and the Making of the Modern Middle East, 1908-1923",
+					"fullTitle": "The Ottoman Endgame: War, Revolution, and the Making of the Modern Middle East, 1908-1923",
+					"author": "Sean McMeekin",
+					"link": "https://bookshop.org/p/books/the-ottoman-endgame-war-revolution-and-the-making-of-the-modern-middle-east-1908-1923-sean-mcmeekin/b62417099bc70c69",
+					"dateStarted": "2026-05-23T00:00:00.000Z",
+					"dateCompleted": "2026-06-24T00:00:00.000Z",
+					"rating": 4,
+					"bookNotesUrl": "",
+					"thoughts": "An interesting and in-depth deep dive into the wars the Ottoman Empire faced prior to and after World War I. It provides a lot of history about how the Ottoman Empire collapsed into the Republic of Turkey and how the rest of the Middle East sort of broke free from Ottoman rule.",
+					"coverImageUrl": "https://i.postimg.cc/7htmwJ2q/ottoman-endgame.jpg",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 495,
+					"pageCount": 495,
+					"progress": 100,
+					"sortOrder": 1,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "History",
+							"colorCode": "rgb(4, 38, 142)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Paperback",
+							"colorCode": "#cd6a29"
+						}
+					]
+				},
 				{
 					"bookId": 213,
 					"title": "East of Eden",
@@ -15596,19 +15685,19 @@
 			]
 		},
 		{
-			"bookId": 700,
-			"title": "We Are Legion (We Are Bob)",
+			"bookId": 718,
+			"title": "Piranesi",
 			"subTitle": "",
-			"fullTitle": "We Are Legion (We Are Bob)",
-			"author": "Dennis E. Taylor",
-			"link": "https://bookshop.org/p/books/we-are-legion-we-are-bob-bobiverse-book-1-dennis-e-taylor/9b80867ccfc6271b",
+			"fullTitle": "Piranesi",
+			"author": "Susanna Clarke",
+			"link": "https://bookshop.org/p/books/piranesi-susanna-clarke/878ecea84a8eca72",
 			"dateStarted": null,
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/wjw83cH9/we-are-legion-we-are-bob.jpg",
-			"isAtLibrary": false,
+			"coverImageUrl": "",
+			"isAtLibrary": true,
 			"isPurchased": false,
 			"currentPage": 1,
 			"pageCount": 1,
@@ -15622,14 +15711,11 @@
 				"name": "Fiction",
 				"colorCode": "#1d3c8c"
 			},
-			"series": {
-				"name": "Bobiverse",
-				"colorCode": "#1b66de"
-			},
+			"series": null,
 			"genres": [
 				{
-					"name": "Science Fiction",
-					"colorCode": "rgb(102, 119, 2)"
+					"name": "Fantasy",
+					"colorCode": "rgb(172, 152, 5)"
 				}
 			],
 			"formats": []
@@ -26822,46 +26908,6 @@
 			"formats": []
 		},
 		{
-			"bookId": 701,
-			"title": "Addiction by Design",
-			"subTitle": "Machine Gambling in Las Vegas",
-			"fullTitle": "Addiction by Design: Machine Gambling in Las Vegas",
-			"author": "Natasha Dow Schüll",
-			"link": "https://bookshop.org/p/books/addiction-by-design-machine-gambling-in-las-vegas-natasha-dow-sch-ll/0def40356ddd5b82",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/7YbSpq6m/addiction-by-design.jpg",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 3710,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Business & Economics",
-					"colorCode": "rgb(23, 126, 0)"
-				},
-				{
-					"name": "Technology",
-					"colorCode": "rgb(55, 78, 146)"
-				}
-			],
-			"formats": []
-		},
-		{
 			"bookId": 702,
 			"title": "Radical Infrastructure",
 			"subTitle": "Imagining the Internet from the Ground Up",
@@ -27332,6 +27378,194 @@
 				{
 					"name": "History",
 					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 715,
+			"title": "The Twenty-Six Words That Created the Internet",
+			"subTitle": "",
+			"fullTitle": "The Twenty-Six Words That Created the Internet",
+			"author": "Jeff Kosseff",
+			"link": "https://bookshop.org/p/books/the-twenty-six-words-that-created-the-internet-jeff-kosseff/2a7ff0afafd4255a",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3850,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Politics",
+					"colorCode": "rgb(130, 40, 40)"
+				},
+				{
+					"name": "Technology",
+					"colorCode": "rgb(55, 78, 146)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 716,
+			"title": "The United States of Anonymous",
+			"subTitle": "How the First Amendment Shaped Online Speech",
+			"fullTitle": "The United States of Anonymous: How the First Amendment Shaped Online Speech",
+			"author": "Jeff Kosseff",
+			"link": "https://bookshop.org/p/books/the-united-states-of-anonymous-how-the-first-amendment-shaped-online-speech-jeff-kosseff/aa5cb97450b35363",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3860,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Politics",
+					"colorCode": "rgb(130, 40, 40)"
+				},
+				{
+					"name": "Technology",
+					"colorCode": "rgb(55, 78, 146)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 717,
+			"title": "Custodians of the Internet",
+			"subTitle": "Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media",
+			"fullTitle": "Custodians of the Internet: Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media",
+			"author": "Tarleton Gillespie",
+			"link": "https://bookshop.org/p/books/custodians-of-the-internet-platforms-content-moderation-and-the-hidden-decisions-that-shape-social-media-tarleton-gillespie/ebca8ee6033c0f53",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3870,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Technology",
+					"colorCode": "rgb(55, 78, 146)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 719,
+			"title": "Black AF History",
+			"subTitle": "The Un-Whitewashed Story of America",
+			"fullTitle": "Black AF History: The Un-Whitewashed Story of America",
+			"author": "Michael Harriot",
+			"link": "https://bookshop.org/p/books/black-af-history-the-un-whitewashed-story-of-america-michael-harriot/477c46f12ab025e8",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3880,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 720,
+			"title": "The Wage Standard",
+			"subTitle": "What's Wrong in the Labor Market and How to Fix It",
+			"fullTitle": "The Wage Standard: What's Wrong in the Labor Market and How to Fix It",
+			"author": "Arindrajit Dube",
+			"link": "https://bookshop.org/p/books/the-wage-standard-what-s-wrong-in-the-labor-market-and-how-to-fix-it-arindrajit-dube/1e9e3ba164a2a624",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3890,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
 				}
 			],
 			"formats": []

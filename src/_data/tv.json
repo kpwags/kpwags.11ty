@@ -29,38 +29,6 @@
 			]
 		},
 		{
-			"televisionShowId": 116,
-			"title": "Widow's Bay",
-			"imdbLink": "https://www.imdb.com/title/tt33332385/",
-			"rating": 0,
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/gjsLpz1B/widows-bay.webp",
-			"seasonEpisodeCount": 10,
-			"currentSeasonEpisode": 6,
-			"progress": 60,
-			"sortOrder": null,
-			"status": {
-				"name": "Watching",
-				"colorCode": "#005c78"
-			},
-			"genres": [
-				{
-					"name": "Comedy",
-					"colorCode": "#a60483"
-				},
-				{
-					"name": "Horror",
-					"colorCode": "#bc001f"
-				}
-			],
-			"services": [
-				{
-					"name": "Apple TV",
-					"colorCode": "#892f86"
-				}
-			]
-		},
-		{
 			"televisionShowId": 85,
 			"title": "The Wire",
 			"imdbLink": "https://www.imdb.com/title/tt0306414/",
@@ -331,6 +299,38 @@
 				{
 					"name": "Paramount+",
 					"colorCode": "#037fb4"
+				}
+			]
+		},
+		{
+			"televisionShowId": 116,
+			"title": "Widow's Bay",
+			"imdbLink": "https://www.imdb.com/title/tt33332385/",
+			"rating": 0,
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/gjsLpz1B/widows-bay.webp",
+			"seasonEpisodeCount": 10,
+			"currentSeasonEpisode": 10,
+			"progress": 100,
+			"sortOrder": null,
+			"status": {
+				"name": "In Between Seasons",
+				"colorCode": "#901960"
+			},
+			"genres": [
+				{
+					"name": "Comedy",
+					"colorCode": "#a60483"
+				},
+				{
+					"name": "Horror",
+					"colorCode": "#bc001f"
+				}
+			],
+			"services": [
+				{
+					"name": "Apple TV",
+					"colorCode": "#892f86"
 				}
 			]
 		},
