@@ -1,24 +1,24 @@
 {
 	"inProgress": [
 		{
-			"bookId": 701,
-			"title": "Addiction by Design",
-			"subTitle": "Machine Gambling in Las Vegas",
-			"fullTitle": "Addiction by Design: Machine Gambling in Las Vegas",
-			"author": "Natasha Dow Schüll",
-			"link": "https://bookshop.org/p/books/addiction-by-design-machine-gambling-in-las-vegas-natasha-dow-sch-ll/0def40356ddd5b82",
-			"dateStarted": "2026-06-23T00:00:00.000Z",
+			"bookId": 721,
+			"title": "Range",
+			"subTitle": "Why Generalists Triumph in a Specialized World",
+			"fullTitle": "Range: Why Generalists Triumph in a Specialized World",
+			"author": "David Epstein",
+			"link": "https://bookshop.org/p/books/range-why-generalists-triumph-in-a-specialized-world-david-epstein/966e9c6e1ddd6889",
+			"dateStarted": "2026-06-30T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/7YbSpq6m/addiction-by-design.jpg",
+			"coverImageUrl": "https://i.postimg.cc/cJ4MVd4Q/epstein-range.jpg",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 725,
-			"pageCount": 872,
-			"progress": 83,
-			"sortOrder": 3710,
+			"currentPage": 27,
+			"pageCount": 646,
+			"progress": 4,
+			"sortOrder": 2,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
@@ -30,12 +30,8 @@
 			"series": null,
 			"genres": [
 				{
-					"name": "Business & Economics",
-					"colorCode": "rgb(23, 126, 0)"
-				},
-				{
-					"name": "Technology",
-					"colorCode": "rgb(55, 78, 146)"
+					"name": "Philosophy",
+					"colorCode": "rgb(9, 58, 78)"
 				}
 			],
 			"formats": [
@@ -60,9 +56,9 @@
 			"coverImageUrl": "https://i.postimg.cc/wjw83cH9/we-are-legion-we-are-bob.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 198,
+			"currentPage": 264,
 			"pageCount": 302,
-			"progress": 66,
+			"progress": 87,
 			"sortOrder": 2,
 			"status": {
 				"name": "Reading",
@@ -94,6 +90,51 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 701,
+					"title": "Addiction by Design",
+					"subTitle": "Machine Gambling in Las Vegas",
+					"fullTitle": "Addiction by Design: Machine Gambling in Las Vegas",
+					"author": "Natasha Dow Schüll",
+					"link": "https://bookshop.org/p/books/addiction-by-design-machine-gambling-in-las-vegas-natasha-dow-sch-ll/0def40356ddd5b82",
+					"dateStarted": "2026-06-23T00:00:00.000Z",
+					"dateCompleted": "2026-06-30T00:00:00.000Z",
+					"rating": 2,
+					"bookNotesUrl": "",
+					"thoughts": "Reading this makes me so glad I don't gamble. The design of casinos and the machines are there solely to hook people in to take all their money. The underlying lesson continues to ring true. The house always wins.",
+					"coverImageUrl": "https://i.postimg.cc/7YbSpq6m/addiction-by-design.jpg",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 872,
+					"pageCount": 872,
+					"progress": 100,
+					"sortOrder": 3710,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Business & Economics",
+							"colorCode": "rgb(23, 126, 0)"
+						},
+						{
+							"name": "Technology",
+							"colorCode": "rgb(55, 78, 146)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Audiobook",
+							"colorCode": "#b300b3"
+						}
+					]
+				},
 				{
 					"bookId": 698,
 					"title": "The Ottoman Endgame",
