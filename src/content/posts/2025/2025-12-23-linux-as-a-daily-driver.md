@@ -3,6 +3,10 @@ title: "Linux as a Daily Driver"
 date: '2025-12-23T13:47:30.76Z'
 permalink: /posts/2025/12/23/linux-as-a-daily-driver/index.html
 description: "I've been using my Linux Mint desktop as my primary computer now for several months and have been happy with it."
+relatedPosts: [
+  { title: 'Gaming on Linux', url: '/posts/2026/gaming-on-linux/' },
+  { title: 'Linux as a Hedge Against Monitoring', url: '/posts/2026/linux-as-a-hedge-against-monitoring/' },
+]
 tags:
   - Linux
   - Operating System

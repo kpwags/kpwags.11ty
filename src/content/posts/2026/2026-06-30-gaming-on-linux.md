@@ -7,6 +7,10 @@ permalink: /posts/2026/gaming-on-linux/index.html
 rss_only: false
 pinned: false
 spoilers: false
+relatedPosts: [
+  { title: 'Linux as a Daily Driver', url: '/posts/2025/12/23/linux-as-a-daily-driver/' },
+  { title: 'Linux as a Hedge Against Monitoring', url: '/posts/2026/linux-as-a-hedge-against-monitoring/' },
+]
 tags:
   - Gaming
   - Video Games

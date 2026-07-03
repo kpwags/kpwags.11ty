@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/cJ4MVd4Q/epstein-range.jpg",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 27,
+			"currentPage": 110,
 			"pageCount": 646,
-			"progress": 4,
+			"progress": 17,
 			"sortOrder": 2,
 			"status": {
 				"name": "Reading",
@@ -42,46 +42,43 @@
 			]
 		},
 		{
-			"bookId": 700,
-			"title": "We Are Legion (We Are Bob)",
-			"subTitle": "",
-			"fullTitle": "We Are Legion (We Are Bob)",
-			"author": "Dennis E. Taylor",
-			"link": "https://bookshop.org/p/books/we-are-legion-we-are-bob-bobiverse-book-1-dennis-e-taylor/9b80867ccfc6271b",
-			"dateStarted": "2026-06-25T00:00:00.000Z",
+			"bookId": 722,
+			"title": "The Reverse Centaur's Guide to Life After AI",
+			"subTitle": "How to Think About Artificial Intelligence—Before It's Too Late",
+			"fullTitle": "The Reverse Centaur's Guide to Life After AI: How to Think About Artificial Intelligence—Before It's Too Late",
+			"author": "Cory Doctorow",
+			"link": "https://bookshop.org/p/books/the-reverse-centaur-s-guide-to-life-after-ai-how-to-think-about-artificial-intelligence-before-it-s-too-late-cory-doctorow/ac86987834ee96c2",
+			"dateStarted": "2026-07-01T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/wjw83cH9/we-are-legion-we-are-bob.jpg",
+			"coverImageUrl": "https://i.postimg.cc/rsXcQSBp/doctorow-reverse-centaur.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 264,
-			"pageCount": 302,
-			"progress": 87,
-			"sortOrder": 2,
+			"currentPage": 106,
+			"pageCount": 222,
+			"progress": 48,
+			"sortOrder": 12,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
 			},
 			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
 			},
-			"series": {
-				"name": "Bobiverse",
-				"colorCode": "#1b66de"
-			},
+			"series": null,
 			"genres": [
 				{
-					"name": "Science Fiction",
-					"colorCode": "rgb(102, 119, 2)"
+					"name": "Technology",
+					"colorCode": "rgb(55, 78, 146)"
 				}
 			],
 			"formats": [
 				{
-					"name": "Hardcover",
-					"colorCode": "#a0175f"
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
 				}
 			]
 		}
@@ -90,6 +87,50 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 700,
+					"title": "We Are Legion (We Are Bob)",
+					"subTitle": "",
+					"fullTitle": "We Are Legion (We Are Bob)",
+					"author": "Dennis E. Taylor",
+					"link": "https://bookshop.org/p/books/we-are-legion-we-are-bob-bobiverse-book-1-dennis-e-taylor/9b80867ccfc6271b",
+					"dateStarted": "2026-06-25T00:00:00.000Z",
+					"dateCompleted": "2026-06-30T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "This was enjoyable. Had some humor and modern sci-fi references. Left a lot open for the rest of the series.",
+					"coverImageUrl": "https://i.postimg.cc/wjw83cH9/we-are-legion-we-are-bob.jpg",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 302,
+					"pageCount": 302,
+					"progress": 100,
+					"sortOrder": 2,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": {
+						"name": "Bobiverse",
+						"colorCode": "#1b66de"
+					},
+					"genres": [
+						{
+							"name": "Science Fiction",
+							"colorCode": "rgb(102, 119, 2)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Hardcover",
+							"colorCode": "#a0175f"
+						}
+					]
+				},
 				{
 					"bookId": 701,
 					"title": "Addiction by Design",
@@ -27594,6 +27635,119 @@
 			"pageCount": 1,
 			"progress": 100,
 			"sortOrder": 3890,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 723,
+			"title": "Barbarians at the Gate",
+			"subTitle": "The Fall of RJR Nabisco",
+			"fullTitle": "Barbarians at the Gate: The Fall of RJR Nabisco",
+			"author": "Bryan Burrough & John Helyar",
+			"link": "https://bookshop.org/p/books/barbarians-at-the-gate-the-fall-of-rjr-nabisco-bryan-burrough/e9e9378b551041ba",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3910,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 724,
+			"title": "The Women",
+			"subTitle": "",
+			"fullTitle": "The Women",
+			"author": "Kristin Hannah",
+			"link": "https://bookshop.org/p/books/the-women-a-novel-kristin-hannah/5472123ec95595c8",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3920,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Historical Fiction",
+					"colorCode": "#da0158"
+				}
+			],
+			"formats": [
+				{
+					"name": "eBook",
+					"colorCode": "#2c5813"
+				}
+			]
+		},
+		{
+			"bookId": 725,
+			"title": "Bubbles and Crashes",
+			"subTitle": "The Boom and Bust of Technological Innovation",
+			"fullTitle": "Bubbles and Crashes: The Boom and Bust of Technological Innovation",
+			"author": "Brent Goldfarb and David A. Kirsch",
+			"link": "https://bookshop.org/p/books/bubbles-and-crashes-the-boom-and-bust-of-technological-innovation-brent-goldfarb/30e5dd2904f34fcd",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3930,
 			"status": {
 				"name": "To Read",
 				"colorCode": "#313ca2"

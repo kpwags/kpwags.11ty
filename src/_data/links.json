@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1661,
+		"title": "Google Employees Internally Share Memes About How Its AI Sucks",
+		"author": "Emanuel Maiberg",
+		"url": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/",
+		"linkDate": "2026-06-30T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1654,
 		"title": "The goal isn't to write more code",
 		"author": "Jon Hilton",
