@@ -1,5 +1,35 @@
 [
 	{
+		"linkId": 1667,
+		"title": "Microsoft is laying off 4,800 employees",
+		"author": "Tom Warren",
+		"url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+		"linkDate": "2026-07-06T00:00:00.000Z",
+		"category": {
+			"name": "Gaming",
+			"colorCode": "#275576"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1668,
+		"title": "Sony is killing discs — and showing us why it’s a terrible idea",
+		"author": "Andrew Webster",
+		"url": "https://www.theverge.com/games/960212/sony-playstation-killing-discs-digital-preservation",
+		"linkDate": "2026-07-06T00:00:00.000Z",
+		"category": {
+			"name": "Gaming",
+			"colorCode": "#275576"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1665,
 		"title": "Three stoic principles for better web accessibility",
 		"author": "Steve Frenzel",
