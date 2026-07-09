@@ -1,7 +1,7 @@
 ---
 title: "Linux Distro Hopping"
-subtitle: "I still see others using different distros, singing their praises, and wonder if I’d like them better. The grass is always greener, right?"
-description: ""
+subtitle: ""
+description: "I still see others using different distros, singing their praises, and wonder if I’d like them better. The grass is always greener, right?"
 date: '2026-07-08T19:43:00.000Z'
 permalink: /posts/2026/linux-distro-hopping/index.html
 rss_only: false
