@@ -1,5 +1,80 @@
 [
 	{
+		"linkId": 1673,
+		"title": "The Tour de France’s Infernal Present Portends Its Impossible Future",
+		"author": "Patrick Redford",
+		"url": "https://defector.com/the-tour-de-frances-infernal-present-portends-its-impossible-future?giftLink=af122fc11951e94bf7c302fa365e6c3b",
+		"linkDate": "2026-07-08T00:00:00.000Z",
+		"category": {
+			"name": "Sports",
+			"colorCode": "#2d5f6f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1674,
+		"title": "Announcing TypeScript 7.0",
+		"author": "Daniel Rosenwasser",
+		"url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+		"linkDate": "2026-07-08T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1669,
+		"title": "The Milky Way's Turbulence Distorts Light from Distant Quasars",
+		"author": "Evan Gough",
+		"url": "https://www.universetoday.com/articles/the-milky-ways-turbulence-distorts-light-from-distant-quasars",
+		"linkDate": "2026-07-07T00:00:00.000Z",
+		"category": {
+			"name": "Space",
+			"colorCode": "#2c0d18"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1670,
+		"title": "Another JWST jaw-dropper: a galaxy that looks like it’s exploding but is actually doing the opposite",
+		"author": "Philip Plait",
+		"url": "https://badastronomy.beehiiv.com/p/another-jwst-jaw-dropper-a-galaxy-that-looks-like-it-s-exploding-but-is-actually-doing-the-opposite",
+		"linkDate": "2026-07-07T00:00:00.000Z",
+		"category": {
+			"name": "Space",
+			"colorCode": "#2c0d18"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1671,
+		"title": "The problem with HTML reset buttons",
+		"author": "Adam Silver",
+		"url": "https://adamsilver.io/blog/the-problem-with-html-reset-buttons/",
+		"linkDate": "2026-07-07T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1667,
 		"title": "Microsoft is laying off 4,800 employees",
 		"author": "Tom Warren",

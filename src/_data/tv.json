@@ -36,8 +36,8 @@
 			"thoughts": "",
 			"coverImageUrl": "https://i.postimg.cc/BQ2qxfnc/band-of-brothers.jpg",
 			"seasonEpisodeCount": 10,
-			"currentSeasonEpisode": 7,
-			"progress": 70,
+			"currentSeasonEpisode": 9,
+			"progress": 90,
 			"sortOrder": null,
 			"status": {
 				"name": "Watching",
@@ -51,34 +51,6 @@
 				{
 					"name": "Historical Drama",
 					"colorCode": "#007e18"
-				}
-			],
-			"services": [
-				{
-					"name": "HBO",
-					"colorCode": "#6a4bc9"
-				}
-			]
-		},
-		{
-			"televisionShowId": 85,
-			"title": "The Wire",
-			"imdbLink": "https://www.imdb.com/title/tt0306414/",
-			"rating": 0,
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/yNfXS7MY/the-wire.jpg",
-			"seasonEpisodeCount": 60,
-			"currentSeasonEpisode": 1,
-			"progress": 2,
-			"sortOrder": 4,
-			"status": {
-				"name": "Watching",
-				"colorCode": "#005c78"
-			},
-			"genres": [
-				{
-					"name": "Drama",
-					"colorCode": "#481180"
 				}
 			],
 			"services": [
