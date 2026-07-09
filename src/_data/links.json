@@ -1,5 +1,50 @@
 [
 	{
+		"linkId": 1675,
+		"title": "Browsers Treat Big Sites Differently",
+		"author": "Den Odell",
+		"url": "https://denodell.com/blog/browsers-treat-big-sites-differently",
+		"linkDate": "2026-07-09T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1676,
+		"title": "A few ways of specifying per-theme colours in only CSS",
+		"author": "Chris Morgan",
+		"url": "https://chrismorgan.info/css-themed-colours",
+		"linkDate": "2026-07-09T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1677,
+		"title": "The war against ‘woke’ could end US science as we know it",
+		"author": "Bethany Brookshire",
+		"url": "https://www.theverge.com/science/957630/omb-killing-science-budget-grants-research",
+		"linkDate": "2026-07-09T00:00:00.000Z",
+		"category": {
+			"name": "Science",
+			"colorCode": "#732a45"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1673,
 		"title": "The Tour de France’s Infernal Present Portends Its Impossible Future",
 		"author": "Patrick Redford",

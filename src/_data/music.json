@@ -896,6 +896,70 @@
 		]
 	},
 	{
+		"musicAlbumId": 287,
+		"title": "New Ways to Lose",
+		"artist": "American Aquarium",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/D0QrZC9s/american-aquarium-new-ways-to-lose.jpg",
+		"isTopTen": false,
+		"showOnNowPage": true,
+		"datePurchased": "Wed, 08 Jul 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Country",
+				"colorCode": "rgb(120, 74, 0)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Dollar General"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Can't Into Could"
+			},
+			{
+				"trackNumber": 3,
+				"title": "4x60"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Twin Flames"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Out There in the Dark"
+			},
+			{
+				"trackNumber": 6,
+				"title": "History Repeats Itself"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Favorite Hello"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Whatever Helps You Sleep at Night"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Just Like You"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Bad Habits"
+			}
+		]
+	},
+	{
 		"musicAlbumId": 257,
 		"title": "Slappers, Bangers & Certified Twangers: Volume One",
 		"artist": "American Aquarium",
@@ -20116,6 +20180,62 @@
 			{
 				"trackNumber": 12,
 				"title": "Jackson Park Express"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 288,
+		"title": "Modern American Protest Music",
+		"artist": "Will Hoge",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/5y5B0PhL/will-hoge-modern-protest-music.webp",
+		"isTopTen": false,
+		"showOnNowPage": true,
+		"datePurchased": "Wed, 08 Jul 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Country",
+				"colorCode": "rgb(120, 74, 0)"
+			},
+			{
+				"name": "Folk",
+				"colorCode": "rgb(202, 122, 5)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Founding Fathers"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Jesus Came to Tennessee"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Folded Flag"
+			},
+			{
+				"trackNumber": 4,
+				"title": "When Do I Get to Come Home"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Times are Not Changing"
+			},
+			{
+				"trackNumber": 6,
+				"title": "I Don't Believe"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Ballad of Trayvon Martin"
 			}
 		]
 	},
