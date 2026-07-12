@@ -1,37 +1,37 @@
 {
 	"inProgress": [
 		{
-			"bookId": 726,
-			"title": "This is How You Lose the Time War",
-			"subTitle": "",
-			"fullTitle": "This is How You Lose the Time War",
-			"author": "Amal El-Mohtar & Max Gladstone",
-			"link": "https://bookshop.org/p/books/this-is-how-you-lose-the-time-war-amal-el-mohtar/9829bd5ae7b0d770",
-			"dateStarted": "2026-07-08T00:00:00.000Z",
+			"bookId": 727,
+			"title": "Planet Money",
+			"subTitle": "A Guide to the Economic Forces That Shape Your Life",
+			"fullTitle": "Planet Money: A Guide to the Economic Forces That Shape Your Life",
+			"author": "Alex Mayyasi ",
+			"link": "https://bookshop.org/p/books/planet-money-a-guide-to-the-economic-forces-that-shape-your-life/d29b4f0b46b2bbe5",
+			"dateStarted": "2026-07-11T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/R0zqMV7g/this-is-how-you-lose-the-time-war.webp",
+			"coverImageUrl": "https://i.postimg.cc/J7BSKDD1/mayyasi-planet-money.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 66,
-			"pageCount": 198,
-			"progress": 33,
-			"sortOrder": 22,
+			"currentPage": 44,
+			"pageCount": 283,
+			"progress": 16,
+			"sortOrder": 3940,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
 			},
 			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
 			},
 			"series": null,
 			"genres": [
 				{
-					"name": "Science Fiction",
-					"colorCode": "rgb(102, 119, 2)"
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
 				}
 			],
 			"formats": [
@@ -46,6 +46,47 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 726,
+					"title": "This is How You Lose the Time War",
+					"subTitle": "",
+					"fullTitle": "This is How You Lose the Time War",
+					"author": "Amal El-Mohtar & Max Gladstone",
+					"link": "https://bookshop.org/p/books/this-is-how-you-lose-the-time-war-amal-el-mohtar/9829bd5ae7b0d770",
+					"dateStarted": "2026-07-08T00:00:00.000Z",
+					"dateCompleted": "2026-07-10T00:00:00.000Z",
+					"rating": 2,
+					"bookNotesUrl": "",
+					"thoughts": "I’m not sure if I just wasn’t the target audience for this but it felt a little dull.",
+					"coverImageUrl": "https://i.postimg.cc/R0zqMV7g/this-is-how-you-lose-the-time-war.webp",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 198,
+					"pageCount": 198,
+					"progress": 100,
+					"sortOrder": 22,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Science Fiction",
+							"colorCode": "rgb(102, 119, 2)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Hardcover",
+							"colorCode": "#a0175f"
+						}
+					]
+				},
 				{
 					"bookId": 721,
 					"title": "Range",
@@ -27802,6 +27843,42 @@
 				{
 					"name": "Business & Economics",
 					"colorCode": "rgb(23, 126, 0)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 728,
+			"title": "Body Electric",
+			"subTitle": "The Hidden Health Costs of the Digital Age and New Science to Reclaim Your Well-Being",
+			"fullTitle": "Body Electric: The Hidden Health Costs of the Digital Age and New Science to Reclaim Your Well-Being",
+			"author": "Manoush Zomorodi",
+			"link": "https://bookshop.org/p/books/body-electric-the-hidden-health-costs-of-the-digital-age-and-new-science-to-reclaim-your-well-being-keith-diaz-phd/89845c6f7856af68",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/zGmy0Qxm/zomorodi-body-electric.webp",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3940,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Technology",
+					"colorCode": "rgb(55, 78, 146)"
 				}
 			],
 			"formats": []

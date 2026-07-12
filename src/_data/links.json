@@ -1,5 +1,80 @@
 [
 	{
+		"linkId": 1682,
+		"title": "Grief in the AI Age",
+		"author": "Brad Frost",
+		"url": "https://bradfrost.com/blog/post/grief-in-the-ai-age/",
+		"linkDate": "2026-07-12T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1680,
+		"title": "The MLB Draft Is Once Again for Diehards Only",
+		"author": "Michael Baumann",
+		"url": "https://blogs.fangraphs.com/the-mlb-draft-is-once-again-for-diehards-only/",
+		"linkDate": "2026-07-11T00:00:00.000Z",
+		"category": {
+			"name": "Sports",
+			"colorCode": "#2d5f6f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1681,
+		"title": "Prompts are technical debt too",
+		"author": "Sean Goedecke",
+		"url": "https://www.seangoedecke.com/prompts-are-technical-debt-too/",
+		"linkDate": "2026-07-11T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1678,
+		"title": " Wally Funk, last of Mercury 13 and oldest woman in space, dies at 87 ",
+		"author": "Robert Pearlman",
+		"url": "https://arstechnica.com/space/2026/07/wally-funk-last-of-mercury-13-and-oldest-woman-in-space-dies-at-87/",
+		"linkDate": "2026-07-10T00:00:00.000Z",
+		"category": {
+			"name": "Space",
+			"colorCode": "#2c0d18"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1679,
+		"title": "Prepare your “no” and keep it handy",
+		"author": "Derek Silvers",
+		"url": "https://sive.rs/n0",
+		"linkDate": "2026-07-10T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1675,
 		"title": "Browsers Treat Big Sites Differently",
 		"author": "Den Odell",
