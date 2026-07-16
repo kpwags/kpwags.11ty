@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1687,
+		"title": "How to train for a heatwave",
+		"author": "The Economist",
+		"url": "https://www.economist.com/science-and-technology/2026/07/10/how-to-train-for-a-heatwave",
+		"linkDate": "2026-07-13T00:00:00.000Z",
+		"category": {
+			"name": "Health & Fitness",
+			"colorCode": "#871c4a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1682,
 		"title": "Grief in the AI Age",
 		"author": "Brad Frost",
@@ -8,6 +23,51 @@
 		"category": {
 			"name": "AI",
 			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1684,
+		"title": "ICE are Heavily Armed Killers. They’re Also Huge Losers.",
+		"author": "TC Sottek",
+		"url": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
+		"linkDate": "2026-07-12T00:00:00.000Z",
+		"category": {
+			"name": "Politics",
+			"colorCode": "#8b642f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1685,
+		"title": "You can style alt text like any other text",
+		"author": "Andy Bell",
+		"url": "https://piccalil.li/blog/you-can-style-alt-text-like-any-other-text/",
+		"linkDate": "2026-07-12T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1686,
+		"title": "When times are hard, we eat more beans. And it's happening again now",
+		"author": "Joe Hernandez",
+		"url": "https://www.npr.org/2026/05/18/nx-s1-5768189/beans-fiber-diet-legumes",
+		"linkDate": "2026-07-12T00:00:00.000Z",
+		"category": {
+			"name": "Food",
+			"colorCode": "#4e7a27"
 		},
 		"type": {
 			"name": "Link",
