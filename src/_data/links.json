@@ -1,5 +1,125 @@
 [
 	{
+		"linkId": 1688,
+		"title": "Cory Doctorow: You Bought it, They Break It",
+		"author": "What Now? with Trevor Noah",
+		"url": "https://www.iheart.com/podcast/1319-what-now-with-trevor-noah-126066991/episode/cory-doctorow-you-bought-it-they-break-it-338480008",
+		"linkDate": "2026-07-14T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1689,
+		"title": "How dementia is being defeated",
+		"author": "The Economist",
+		"url": "https://economist.com/briefing/2026/07/09/how-dementia-is-being-defeated",
+		"linkDate": "2026-07-14T00:00:00.000Z",
+		"category": {
+			"name": "Health & Fitness",
+			"colorCode": "#871c4a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1690,
+		"title": "Using AI to write better code more slowly",
+		"author": "Nolan Lawson",
+		"url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+		"linkDate": "2026-07-14T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1691,
+		"title": "How I restarted using RSS, and actually noticed!",
+		"author": "Glenn Fleishman",
+		"url": "https://sixcolors.com/post/2026/05/how-i-restarted-using-rss-and-actually-noticed/",
+		"linkDate": "2026-07-14T00:00:00.000Z",
+		"category": {
+			"name": "The Internet",
+			"colorCode": "#8b3d15"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1692,
+		"title": "Hacks vs. Artists",
+		"author": "Nick Maggiulli",
+		"url": "https://ofdollarsanddata.com/hacks-vs-artists/",
+		"linkDate": "2026-07-14T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1693,
+		"title": "The Disappearance of the Public Bench",
+		"author": "Gabrielle Bruney",
+		"url": "https://placesjournal.org/article/the-disappearance-of-the-public-bench/?ref=sidebar&cn-reloaded=1",
+		"linkDate": "2026-07-14T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1694,
+		"title": "Doing More with GitHub Copilot as a .NET Developer",
+		"author": "Wendy Breiding",
+		"url": "https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/",
+		"linkDate": "2026-07-14T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1695,
+		"title": "Promises and perils",
+		"author": "Mandy Brown",
+		"url": "https://aworkinglibrary.com/writing/promises-and-perils",
+		"linkDate": "2026-07-14T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1687,
 		"title": "How to train for a heatwave",
 		"author": "The Economist",

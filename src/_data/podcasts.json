@@ -553,6 +553,16 @@
 		"name": "News",
 		"podcasts": [
 			{
+				"podcastId": 188,
+				"name": "Consider This",
+				"link": "https://www.npr.org/podcasts/510355/considerthis",
+				"coverImageUrl": "https://i.postimg.cc/fTd0RWp0/consider-this.webp",
+				"category": {
+					"name": "News",
+					"colorCode": "#584927"
+				}
+			},
+			{
 				"podcastId": 82,
 				"name": "The Intelligence",
 				"link": "https://theintelligence.economist.com/",
@@ -1658,20 +1668,20 @@
 				}
 			},
 			{
-				"podcastId": 20,
-				"name": "WorkLife with Adam Grant",
-				"link": "https://www.ted.com/podcasts/worklife",
-				"coverImageUrl": "https://i.postimg.cc/65yP28qm/worklife_adam_grant.jpg",
+				"podcastId": 187,
+				"name": "What Now? with Trevor Noah",
+				"link": "https://www.iheart.com/podcast/1319-what-now-with-trevor-noah-126066991/",
+				"coverImageUrl": "https://i.postimg.cc/T3mjFJTK/what-now.webp",
 				"category": {
 					"name": "Uncategorized",
 					"colorCode": "#de3a80"
 				}
 			},
 			{
-				"podcastId": 19,
-				"name": "WTF with Marc Maron",
-				"link": "https://www.wtfpod.com/",
-				"coverImageUrl": "https://i.postimg.cc/gkQTvG6k/wtf_podcast.jpg",
+				"podcastId": 20,
+				"name": "WorkLife with Adam Grant",
+				"link": "https://www.ted.com/podcasts/worklife",
+				"coverImageUrl": "https://i.postimg.cc/65yP28qm/worklife_adam_grant.jpg",
 				"category": {
 					"name": "Uncategorized",
 					"colorCode": "#de3a80"
