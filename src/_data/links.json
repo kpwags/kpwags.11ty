@@ -1,5 +1,125 @@
 [
 	{
+		"linkId": 1696,
+		"title": "Designing for AI means designing like it’s 1999",
+		"author": "Patrick Neeman",
+		"url": "https://uxdesign.cc/designing-for-ai-means-designing-like-its-1999-da9c53d24644?gi=6214c313249d",
+		"linkDate": "2026-07-15T00:00:00.000Z",
+		"category": {
+			"name": "Design",
+			"colorCode": "#0b545e"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1697,
+		"title": "Fast is better than slow",
+		"author": "Patrick Dubroy",
+		"url": "https://dubroy.com/blog/fast-is-better-than-slow/",
+		"linkDate": "2026-07-15T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1698,
+		"title": "From Developer to Architect, the Career Path Nobody Explained",
+		"author": "John Kilmister",
+		"url": "https://www.blueboxes.co.uk/from-developer-to-architect-the-career-path-nobody-explained",
+		"linkDate": "2026-07-15T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1699,
+		"title": "Do graphs and charts need to be accessible?",
+		"author": "Martin Underhill",
+		"url": "https://www.tempertemper.net/blog/do-graphs-and-charts-need-to-be-accessible",
+		"linkDate": "2026-07-15T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1700,
+		"title": "An Ode to the Exacting Pedantry of Computers",
+		"author": "Jim Nielsen",
+		"url": "https://blog.jim-nielsen.com/2026/pedantry-of-computing/",
+		"linkDate": "2026-07-15T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1701,
+		"title": "Our CSS isn't opinionated enough",
+		"author": "Craig Abbott",
+		"url": "https://www.craigabbott.co.uk/blog/2026/our-css-isnt-opinionated-enough/",
+		"linkDate": "2026-07-15T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1702,
+		"title": "The conditionally open web",
+		"author": "Cory Dransfeldt",
+		"url": "https://www.coryd.dev/posts/2026/the-conditionally-open-web",
+		"linkDate": "2026-07-15T00:00:00.000Z",
+		"category": {
+			"name": "The Internet",
+			"colorCode": "#8b3d15"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1703,
+		"title": "The revolution will not be optimised: on frictionmaxxing and the creative virtues of inconvenience",
+		"author": "Nina Maria",
+		"url": "https://www.itsnicethat.com/articles/pov-friction-breeds-creativity-creative-industry-260526",
+		"linkDate": "2026-07-15T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1688,
 		"title": "Cory Doctorow: You Bought it, They Break It",
 		"author": "What Now? with Trevor Noah",
