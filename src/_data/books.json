@@ -1,24 +1,24 @@
 {
 	"inProgress": [
 		{
-			"bookId": 727,
-			"title": "Planet Money",
-			"subTitle": "A Guide to the Economic Forces That Shape Your Life",
-			"fullTitle": "Planet Money: A Guide to the Economic Forces That Shape Your Life",
-			"author": "Alex Mayyasi ",
-			"link": "https://bookshop.org/p/books/planet-money-a-guide-to-the-economic-forces-that-shape-your-life/d29b4f0b46b2bbe5",
-			"dateStarted": "2026-07-11T00:00:00.000Z",
+			"bookId": 729,
+			"title": "Band of Brothers",
+			"subTitle": "E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
+			"fullTitle": "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
+			"author": "Stephen E. Ambrose",
+			"link": "https://bookshop.org/p/books/band-of-brothers-e-company-506th-regiment-101st-airborne-from-normandy-to-hitler-s-eagle-s-nest-stephen-e-ambrose/85f1e152153e5369",
+			"dateStarted": "2026-07-19T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/J7BSKDD1/mayyasi-planet-money.jpg",
-			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 140,
-			"pageCount": 283,
-			"progress": 49,
-			"sortOrder": 3940,
+			"coverImageUrl": "https://i.postimg.cc/g041s86y/ambrose-band-of-brothers.webp",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 307,
+			"progress": 1,
+			"sortOrder": 3950,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
@@ -30,8 +30,8 @@
 			"series": null,
 			"genres": [
 				{
-					"name": "Business & Economics",
-					"colorCode": "rgb(23, 126, 0)"
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
 				}
 			],
 			"formats": [
@@ -46,6 +46,47 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 727,
+					"title": "Planet Money",
+					"subTitle": "A Guide to the Economic Forces That Shape Your Life",
+					"fullTitle": "Planet Money: A Guide to the Economic Forces That Shape Your Life",
+					"author": "Alex Mayyasi ",
+					"link": "https://bookshop.org/p/books/planet-money-a-guide-to-the-economic-forces-that-shape-your-life/d29b4f0b46b2bbe5",
+					"dateStarted": "2026-07-11T00:00:00.000Z",
+					"dateCompleted": "2026-07-18T00:00:00.000Z",
+					"rating": 4,
+					"bookNotesUrl": "",
+					"thoughts": "It was interesting, entertaining, and educational, just like the podcast. Being a long-time listener of the podcast, some of the lessons were repetitive since I’ve heard the episode they referred to, but still good.",
+					"coverImageUrl": "https://i.postimg.cc/J7BSKDD1/mayyasi-planet-money.jpg",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 283,
+					"pageCount": 283,
+					"progress": 100,
+					"sortOrder": 3940,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Business & Economics",
+							"colorCode": "rgb(23, 126, 0)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Hardcover",
+							"colorCode": "#a0175f"
+						}
+					]
+				},
 				{
 					"bookId": 726,
 					"title": "This is How You Lose the Time War",

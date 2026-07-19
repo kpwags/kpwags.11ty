@@ -27,38 +27,6 @@
 					"colorCode": "#6a4bc9"
 				}
 			]
-		},
-		{
-			"televisionShowId": 8,
-			"title": "Fallout",
-			"imdbLink": "https://www.imdb.com/title/tt12637874/",
-			"rating": 0,
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/MHbQygDP/fallout.jpg",
-			"seasonEpisodeCount": 20,
-			"currentSeasonEpisode": 12,
-			"progress": 60,
-			"sortOrder": null,
-			"status": {
-				"name": "Watching",
-				"colorCode": "#005c78"
-			},
-			"genres": [
-				{
-					"name": "Action",
-					"colorCode": "#bc0b0b"
-				},
-				{
-					"name": "Comedy",
-					"colorCode": "#a60483"
-				}
-			],
-			"services": [
-				{
-					"name": "Amazon Prime",
-					"colorCode": "#008cb4"
-				}
-			]
 		}
 	],
 	"betweenSeasons": [
@@ -123,6 +91,38 @@
 				{
 					"name": "Paramount+",
 					"colorCode": "#037fb4"
+				}
+			]
+		},
+		{
+			"televisionShowId": 8,
+			"title": "Fallout",
+			"imdbLink": "https://www.imdb.com/title/tt12637874/",
+			"rating": 0,
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/MHbQygDP/fallout.jpg",
+			"seasonEpisodeCount": 18,
+			"currentSeasonEpisode": 18,
+			"progress": 100,
+			"sortOrder": null,
+			"status": {
+				"name": "In Between Seasons",
+				"colorCode": "#901960"
+			},
+			"genres": [
+				{
+					"name": "Action",
+					"colorCode": "#bc0b0b"
+				},
+				{
+					"name": "Comedy",
+					"colorCode": "#a60483"
+				}
+			],
+			"services": [
+				{
+					"name": "Amazon Prime",
+					"colorCode": "#008cb4"
 				}
 			]
 		},
