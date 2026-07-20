@@ -1,5 +1,35 @@
 [
 	{
+		"linkId": 1705,
+		"title": "How Cops Use Flock to Track People, Not Cars",
+		"author": "Joseph Cox",
+		"url": "https://www.404media.co/how-cops-use-flock-to-track-people-not-cars/",
+		"linkDate": "2026-07-20T00:00:00.000Z",
+		"category": {
+			"name": "Privacy",
+			"colorCode": "#26a269"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1704,
+		"title": "Hack Reveals Suno AI Music Generator Scraped YouTube, Deezer, and Genius",
+		"author": "Jason Koebler",
+		"url": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
+		"linkDate": "2026-07-19T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1696,
 		"title": "Designing for AI means designing like it’s 1999",
 		"author": "Patrick Neeman",

@@ -1,5 +1,73 @@
 [
 	{
+		"musicAlbumId": 289,
+		"title": "Everything I Ever Saw",
+		"artist": "The Menzingers",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/MKk2B2Ly/menzingers-everything-i-ever-saw.webp",
+		"isTopTen": false,
+		"showOnNowPage": true,
+		"datePurchased": "Fri, 17 Jul 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Vinyl",
+				"colorCode": "#a51643"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Chance Encounters"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Better Angels"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Romanticism"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Other People's Money"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Gasoline & Matches"
+			},
+			{
+				"trackNumber": 6,
+				"title": "The Fool"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Nobody's Heroes"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Breathe With Me"
+			},
+			{
+				"trackNumber": 9,
+				"title": "When She Enters My Dreams"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Parade Day"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Everything I Ever Saw"
+			}
+		]
+	},
+	{
 		"musicAlbumId": 287,
 		"title": "New Ways to Lose",
 		"artist": "American Aquarium",
