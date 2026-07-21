@@ -27923,6 +27923,42 @@
 				}
 			],
 			"formats": []
+		},
+		{
+			"bookId": 730,
+			"title": "On Courage",
+			"subTitle": "How to Be a Dissident in an Age of Fear",
+			"fullTitle": "On Courage: How to Be a Dissident in an Age of Fear",
+			"author": "Julia Angwin & Ami Fields-Meyer",
+			"link": "https://bookshop.org/p/books/on-courage-how-to-be-a-dissident-in-an-age-of-fear-ami-fields-meyer/5114a6bf6c9eb615",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3950,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Politics",
+					"colorCode": "rgb(130, 40, 40)"
+				}
+			],
+			"formats": []
 		}
 	]
 }

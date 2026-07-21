@@ -1,5 +1,80 @@
 [
 	{
+		"linkId": 1707,
+		"title": "AI Made Cloning Games Easier Than Ever",
+		"author": "Nicole Carpenter",
+		"url": "https://www.404media.co/ai-made-cloning-games-easier-than-ever/",
+		"linkDate": "2026-07-21T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1708,
+		"title": "When China’s open-source AI is a trap",
+		"author": "The Economist",
+		"url": "https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap",
+		"linkDate": "2026-07-21T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1709,
+		"title": "40 Lessons I Learned in 12 Years as a .NET Developer",
+		"author": "Anton Martyniuk",
+		"url": "https://antondevtips.com/blog/40-lessons-i-learned-in-12-years-as-a-dotnet-developer",
+		"linkDate": "2026-07-21T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1710,
+		"title": "DRY Is the Most Misunderstood Rule in Programming",
+		"author": "Milan Jovanović",
+		"url": "https://milanjovanovic.tech/blog/dry-is-the-most-misunderstood-rule-in-programming",
+		"linkDate": "2026-07-21T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1711,
+		"title": "The stubborn scarcity of female breadwinners",
+		"author": "The Economist",
+		"url": "https://www.economist.com/finance-and-economics/2026/07/13/the-stubborn-scarcity-of-female-breadwinners",
+		"linkDate": "2026-07-21T00:00:00.000Z",
+		"category": {
+			"name": "Economics",
+			"colorCode": "#4f7a28"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1705,
 		"title": "How Cops Use Flock to Track People, Not Cars",
 		"author": "Joseph Cox",
@@ -8,6 +83,21 @@
 		"category": {
 			"name": "Privacy",
 			"colorCode": "#26a269"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1706,
+		"title": "Trans Girl Baseball Makes Me A Better Woman",
+		"author": "Alexandra Tey",
+		"url": "https://defector.com/trans-girl-baseball-makes-me-a-better-woman",
+		"linkDate": "2026-07-20T00:00:00.000Z",
+		"category": {
+			"name": "Sports",
+			"colorCode": "#2d5f6f"
 		},
 		"type": {
 			"name": "Link",
