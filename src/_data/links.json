@@ -1,5 +1,35 @@
 [
 	{
+		"linkId": 1718,
+		"title": "Codeberg Divides",
+		"author": "Armin Ronacher",
+		"url": "https://lucumr.pocoo.org/2026/7/24/codeberg-divides/",
+		"linkDate": "2026-07-24T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1717,
+		"title": "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop",
+		"author": "Emanuel Maiberg",
+		"url": "https://www.404media.co/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop/",
+		"linkDate": "2026-07-22T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1707,
 		"title": "AI Made Cloning Games Easier Than Ever",
 		"author": "Nicole Carpenter",
@@ -68,6 +98,81 @@
 		"category": {
 			"name": "Economics",
 			"colorCode": "#4f7a28"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1712,
+		"title": "A trans ban came to rugby. Baltimore’s Ferals played on.",
+		"author": "Kyle Goon",
+		"url": "https://www.thebanner.com/sports/rugby-baltimore-transgender-flamingos-ferals-ban-YI75KICXSZEZZPIJDXVYDLRRYY/",
+		"linkDate": "2026-07-21T00:00:00.000Z",
+		"category": {
+			"name": "Sports",
+			"colorCode": "#2d5f6f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1713,
+		"title": "The Codebase Is the Prompt: Wolverine, Vertical Slices, and AI-Assisted Development",
+		"author": "Jeremy D. Miller",
+		"url": "https://jeremydmiller.com/2026/06/04/the-codebase-is-the-prompt-wolverine-vertical-slices-and-ai-assisted-development/",
+		"linkDate": "2026-07-21T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1714,
+		"title": "The rate at which Earth is absorbing energy is alarming scientists",
+		"author": "The Economist",
+		"url": "https://www.economist.com/science-and-technology/2026/07/15/the-rate-at-which-earth-is-absorbing-energy-is-alarming-scientists?giftId=NDI4ZjdhZDktZjA1ZS00ODQwLThhNTQtN2UwOTAyMmQ0ZjAx&utm_campaign=gifted_article",
+		"linkDate": "2026-07-21T00:00:00.000Z",
+		"category": {
+			"name": "Climate",
+			"colorCode": "#9a702d"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1715,
+		"title": "The end of responsive images",
+		"author": "Mat Marquis",
+		"url": "https://piccalil.li/blog/the-end-of-responsive-images/",
+		"linkDate": "2026-07-21T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1716,
+		"title": "AI and greener choices",
+		"author": "Hidde de Vries",
+		"url": "https://hidde.blog/ai-greener-choices/",
+		"linkDate": "2026-07-21T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
 		},
 		"type": {
 			"name": "Link",
