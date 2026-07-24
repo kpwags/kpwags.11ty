@@ -40,6 +40,47 @@
 					"colorCode": "#a0175f"
 				}
 			]
+		},
+		{
+			"bookId": 718,
+			"title": "Piranesi",
+			"subTitle": "",
+			"fullTitle": "Piranesi",
+			"author": "Susanna Clarke",
+			"link": "https://bookshop.org/p/books/piranesi-susanna-clarke/878ecea84a8eca72",
+			"dateStarted": "2026-07-22T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/3RvjgdLY/clarke-piranesi.webp",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 72,
+			"pageCount": 245,
+			"progress": 29,
+			"sortOrder": 2,
+			"status": {
+				"name": "Reading",
+				"colorCode": "#6a208f"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Fantasy",
+					"colorCode": "rgb(172, 152, 5)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
 		}
 	],
 	"completed": [
@@ -15890,42 +15931,6 @@
 			]
 		},
 		{
-			"bookId": 718,
-			"title": "Piranesi",
-			"subTitle": "",
-			"fullTitle": "Piranesi",
-			"author": "Susanna Clarke",
-			"link": "https://bookshop.org/p/books/piranesi-susanna-clarke/878ecea84a8eca72",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 2,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Fantasy",
-					"colorCode": "rgb(172, 152, 5)"
-				}
-			],
-			"formats": []
-		},
-		{
 			"bookId": 634,
 			"title": "Old Man's War",
 			"subTitle": "",
@@ -24016,42 +24021,6 @@
 				{
 					"name": "History",
 					"colorCode": "rgb(4, 38, 142)"
-				}
-			],
-			"formats": []
-		},
-		{
-			"bookId": 520,
-			"title": "Piranesi",
-			"subTitle": "",
-			"fullTitle": "Piranesi",
-			"author": "Susanna Clarke",
-			"link": "https://bookshop.org/p/books/piranesi-susanna-clarke/15861178",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": false,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 0,
-			"progress": 0,
-			"sortOrder": 2710,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Fantasy",
-					"colorCode": "rgb(172, 152, 5)"
 				}
 			],
 			"formats": []
