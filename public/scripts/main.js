@@ -41,25 +41,25 @@ function resetTheme() {
 	document.themeControls.colorTheme.value = 'system';
 }
 
-function changeTheme(theme) {
-	if (theme === 'system') {
-		resetTheme();
-		return;
-	}
+// function changeTheme(theme) {
+// 	if (theme === 'system') {
+// 		resetTheme();
+// 		return;
+// 	}
 
-	LocalStorageUtilities.setValue('data-theme', theme);
+// 	LocalStorageUtilities.setValue('data-theme', theme);
 
-	document.querySelector('meta[name="theme-color"]')?.setAttribute('content', getPrimaryColor(theme));
-	document.documentElement.setAttribute('data-theme', theme);
-	document.themeControls.colorTheme.value = theme;
-}
+// 	document.querySelector('meta[name="theme-color"]')?.setAttribute('content', getPrimaryColor(theme));
+// 	document.documentElement.setAttribute('data-theme', theme);
+// 	document.themeControls.colorTheme.value = theme;
+// }
 
-window.addEventListener('load', () => {
-	const colorOptions = document.querySelectorAll('input[name="colorTheme"]');
+// window.addEventListener('load', () => {
+// 	const colorOptions = document.querySelectorAll('input[name="colorTheme"]');
 
-	colorOptions.forEach((opt) => {
-		opt.addEventListener('change', (e) => {
-			changeTheme(e.target.value);
-		});
-	});
-});
+// 	colorOptions.forEach((opt) => {
+// 		opt.addEventListener('change', (e) => {
+// 			changeTheme(e.target.value);
+// 		});
+// 	});
+// });
