@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ metadata.language }}">
+
+<head>
+	{% include "head.html" %}
+	<title>Keith Wagner</title>
+</head>
+
+<body>
+	{% include "header.html" %}
+
+	<main class="homepage">
+		<section class="homepage-intro">
+			<div class="standard-width">
+				<div class="welcome-text">
+					<p>Hi, I'm Keith!</p>
+					<p>I'm a software developer, gamer, geek, beer league hockey player, Philadelphia sports fan and a whole lot more. I live in the Philadelphia area and use this site to share my thoughts and other things I'm working on.</p>
+				</div>
+			</div>
+		</section>
+
+		<div class="standard-width">
+			{{ content }}
+		</div>
+	</main>
+
+	{% include "footer.html" %}
+</body>
+
+</html>

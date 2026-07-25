@@ -29,8 +29,13 @@ svg[aria-hidden="true"] {
 
 main {
 	width: var(--width);
-	margin: 32px auto 128px auto;
+	margin: 128px auto;
 	max-width: 100%;
+}
+
+main.homepage {
+	margin: 0 0 128px 0;
+	width: 100%;
 }
 
 h1 {
@@ -197,6 +202,12 @@ hr {
 	border-width: 0;
 }
 
+.standard-width {
+	width: var(--width);
+	margin: 0 auto;
+	max-width: 100%;
+}
+
 fit-vids {
 	margin-bottom: 48px;
 }
@@ -205,7 +216,6 @@ fit-vids {
 header {
 	background-color: var(--color-1);
 	position: relative;
-	margin-bottom: 72px;
 }
 
 header img {
@@ -276,7 +286,6 @@ header .content nav ul li a:hover {
 @media (max-width: 900px) {
 	header {
 		height: auto;
-		margin-bottom: 32px;
 	}
 
 	header img {
@@ -491,3 +500,105 @@ footer .theme-controls label:has(input:checked) .theme-option {
 	}
 }
 /* ---- END FOOTER ---- */
+
+/* ---- HOMEPAGE INTRO ---- */
+.homepage-intro {
+	background: var(--primary-400);
+	color: var(--white);
+	padding: 160px 0 64px 0;
+	margin-bottom: 32px;
+}
+
+.homepage-intro .welcome-text {
+	width: 60%;
+	margin-left: 20%;
+}
+
+.homepage-intro .welcome-text p {
+	margin-top: 0;
+	font-size: 1.33rem;
+}
+
+.homepage-intro .welcome-text p:first-of-type {
+	font-size: 1.75rem;
+}
+
+.homepage-intro .welcome-text p:last-of-type {
+	margin-bottom: 0;
+}
+
+@media (max-width: 900px) {
+	.homepage-intro {
+		padding: 32px 0;
+	}
+
+	.homepage-intro .welcome-text {
+		width: 100%;
+		padding: 0 15px;
+		margin: 0;
+	}
+}
+/* ---- END HOMEPAGE INTRO ---- */
+
+/* ---- HOMEPAGE SECTIONS ---- */
+.homepage {
+	display: flex;
+	flex-direction: column;
+	gap: 32px;
+}
+
+.homepage-section h2 {
+	font-size: 1.2rem;
+	text-decoration: underline;
+	margin-left: 132px;
+}
+
+.homepage-section ul {
+	margin: 0;
+	padding: 0;
+}
+
+.homepage-section ul li {
+	display: flex;
+	flex-direction: column;
+	list-style-type: none;
+	margin: 0 0 24px 0;
+	line-height: 1;
+}
+
+.homepage-section ul li div.post-data {
+	display: flex;
+	gap: 12px;
+	align-items: flex-end;
+}
+
+.homepage-section ul li div.post-data div.post-date {
+	min-width: 120px;
+	font-size: 0.9rem;
+}
+
+.homepage-section ul li div.post-data a {
+	font-size: 1.6rem;
+}
+
+.homepage-section ul li div.post-description {
+	margin-left: 132px;
+	margin-top: 8px;
+	line-height: 1.33;
+}
+
+@media (max-width: 500px) {
+	.homepage-section h2 {
+		margin-left: 0;
+	}
+
+	.homepage-section ul li div.post-data {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+	.homepage-section ul li div.post-description {
+		margin-left: 0;
+	}
+}
+/* ---- END HOMEPAGE SECTIONS ---- */
