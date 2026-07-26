@@ -40,53 +40,53 @@
 					"colorCode": "#a0175f"
 				}
 			]
-		},
-		{
-			"bookId": 718,
-			"title": "Piranesi",
-			"subTitle": "",
-			"fullTitle": "Piranesi",
-			"author": "Susanna Clarke",
-			"link": "https://bookshop.org/p/books/piranesi-susanna-clarke/878ecea84a8eca72",
-			"dateStarted": "2026-07-22T00:00:00.000Z",
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/3RvjgdLY/clarke-piranesi.webp",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 72,
-			"pageCount": 245,
-			"progress": 29,
-			"sortOrder": 2,
-			"status": {
-				"name": "Reading",
-				"colorCode": "#6a208f"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Fantasy",
-					"colorCode": "rgb(172, 152, 5)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Hardcover",
-					"colorCode": "#a0175f"
-				}
-			]
 		}
 	],
 	"completed": [
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 718,
+					"title": "Piranesi",
+					"subTitle": "",
+					"fullTitle": "Piranesi",
+					"author": "Susanna Clarke",
+					"link": "https://bookshop.org/p/books/piranesi-susanna-clarke/878ecea84a8eca72",
+					"dateStarted": "2026-07-22T00:00:00.000Z",
+					"dateCompleted": "2026-07-25T00:00:00.000Z",
+					"rating": 2,
+					"bookNotesUrl": "",
+					"thoughts": "This book was weird. Suspense picked up in the second half, but the first half was boring as all get out.",
+					"coverImageUrl": "https://i.postimg.cc/3RvjgdLY/clarke-piranesi.webp",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 245,
+					"pageCount": 245,
+					"progress": 100,
+					"sortOrder": 2,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Fantasy",
+							"colorCode": "rgb(172, 152, 5)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Hardcover",
+							"colorCode": "#a0175f"
+						}
+					]
+				},
 				{
 					"bookId": 727,
 					"title": "Planet Money",

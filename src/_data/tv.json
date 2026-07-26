@@ -27,6 +27,62 @@
 					"colorCode": "#6a4bc9"
 				}
 			]
+		},
+		{
+			"televisionShowId": 75,
+			"title": "Arrested Development",
+			"imdbLink": "https://www.imdb.com/title/tt0367279/",
+			"rating": 0,
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/0jMNymgG/arrested-development.webp",
+			"seasonEpisodeCount": 84,
+			"currentSeasonEpisode": 5,
+			"progress": 6,
+			"sortOrder": 4,
+			"status": {
+				"name": "Watching",
+				"colorCode": "#005c78"
+			},
+			"genres": [
+				{
+					"name": "Comedy",
+					"colorCode": "#a60483"
+				}
+			],
+			"services": [
+				{
+					"name": "Netflix",
+					"colorCode": "#c71212"
+				}
+			]
+		},
+		{
+			"televisionShowId": 68,
+			"title": "Ken Burns: Vietnam",
+			"imdbLink": "https://www.imdb.com/title/tt1877514/",
+			"rating": 0,
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/X7FX0mCB/ken-burns-vietnam.webp",
+			"seasonEpisodeCount": 10,
+			"currentSeasonEpisode": 1,
+			"progress": 10,
+			"sortOrder": null,
+			"status": {
+				"name": "Watching",
+				"colorCode": "#005c78"
+			},
+			"genres": [
+				{
+					"name": "Documentary",
+					"colorCode": "#11659c"
+				}
+			],
+			"services": [
+				{
+					"name": "PBS",
+					"colorCode": "#011a7e"
+				}
+			]
 		}
 	],
 	"betweenSeasons": [
