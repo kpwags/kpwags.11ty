@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1721,
+		"title": "AI in Linux",
+		"author": "Drew DeVault",
+		"url": "https://drewdevault.com/blog/AI-in-Linux/",
+		"linkDate": "2026-07-25T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1718,
 		"title": "Codeberg Divides",
 		"author": "Armin Ronacher",
@@ -8,6 +23,36 @@
 		"category": {
 			"name": "General Development",
 			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1719,
+		"title": "When to use (and not use) CSS shorthand properties",
+		"author": "Elaina Natario",
+		"url": "https://thoughtbot.com/blog/when-to-use-and-not-use-css-shorthand-properties",
+		"linkDate": "2026-07-24T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1720,
+		"title": "‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies",
+		"author": "Zoe Williams",
+		"url": "https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies",
+		"linkDate": "2026-07-24T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
 		},
 		"type": {
 			"name": "Link",
