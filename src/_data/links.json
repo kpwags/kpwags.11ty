@@ -1,5 +1,35 @@
 [
 	{
+		"linkId": 1722,
+		"title": "Why Read Anymore?",
+		"author": "The Vergecast",
+		"url": "https://www.theverge.com/tech/970369/why-read-anymore",
+		"linkDate": "2026-07-27T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1723,
+		"title": "Big Lettuce meets Small Intestine",
+		"author": "Planet Money",
+		"url": "https://www.npr.org/2026/07/22/nx-s1-5903288/taylor-farms-lettuce-cyclospora-taco-bell-explosive-diarrhea",
+		"linkDate": "2026-07-27T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
 		"linkId": 1721,
 		"title": "AI in Linux",
 		"author": "Drew DeVault",
