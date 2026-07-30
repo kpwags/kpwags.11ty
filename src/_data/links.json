@@ -1,5 +1,95 @@
 [
 	{
+		"linkId": 1724,
+		"title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture’",
+		"author": "Emma Madden",
+		"url": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
+		"linkDate": "2026-07-29T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1725,
+		"title": "What is IdentityServer and When Do You Need it?",
+		"author": "Maarten Balliauw",
+		"url": "https://blog.maartenballiauw.be/posts/2026-06-11-what-is-identityserver-and-when-do-you-need-it/",
+		"linkDate": "2026-07-29T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1726,
+		"title": "The Best Loading States Are No Loading States",
+		"author": "Jenna Smith",
+		"url": "https://jjenzz.com/best-loading-states-are-no-loading-states/",
+		"linkDate": "2026-07-29T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1727,
+		"title": "It doesn’t matter if it works",
+		"author": "Henry Desroches",
+		"url": "https://henry.codes/writing/it-doesnt-matter-if-it-works/",
+		"linkDate": "2026-07-29T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1728,
+		"title": "Nobody clicks your share buttons",
+		"author": "Derek Hanson",
+		"url": "https://derekhanson.blog/nobody-clicks-your-share-buttons/",
+		"linkDate": "2026-07-29T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1729,
+		"title": "Exploring the SLNX Solution File Format",
+		"author": "Dave Brock",
+		"url": "https://www.telerik.com/blogs/exploring-slnx-solution-file-format",
+		"linkDate": "2026-07-29T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1722,
 		"title": "Why Read Anymore?",
 		"author": "The Vergecast",
