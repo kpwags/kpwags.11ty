@@ -22,19 +22,20 @@
 			<h1><a href="{{ link }}">{{ title }}</a></h1>
 
 			<div class="metadata">
-				<div>{{ author }}</div>
-				<div>&bull;</div>
 				<div>{{ dateString }}</div>
+				<div class="desktop-only">&bull;</div>
+				<div>{{ author }}</div>
+				<div class="desktop-only">&bull;</div>
+				<div>{{ link | domainFromUrl }}</div>
 			</div>
+
+			{% tagList tags %}
 
 			<div class="content">{{ content }}</div>
 
-			<hr />
+			<div class="view-link"><a href="{{ link }}">Read More</a></div>
 
-			<div class="footer">
-				{% tagList tags %}
-				{% replyLinks title %}
-			</div>
+			{% replyLinks title %}
 		</article>
 	</main>
 
