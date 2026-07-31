@@ -4,7 +4,7 @@ description: "I'm no longer going to be sharing Substack posts."
 date: '2026-02-12T23:51:29.237Z'
 permalink: /posts/2026/my-new-substack-policy/index.html
 rss_only: false
-pinned: true
+pinned: false
 spoilers: false
 tags:
   - Substack

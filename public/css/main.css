@@ -38,6 +38,12 @@ main.homepage {
 	width: 100%;
 }
 
+@media (max-width: 900px) {
+	main {
+		margin: 64px auto;
+	}
+}
+
 h1 {
 	font-weight: 500;
 	font-size: 3rem;
@@ -169,6 +175,36 @@ hr {
 	margin: 40px auto;
 	border-bottom: 1px solid var(--border-color);
 	background-color: transparent;
+}
+
+blockquote {
+	margin: 0 32px 32px;
+	border-left: 4px solid var(--color-1);
+	padding-left: 24px;
+}
+
+blockquote + blockquote {
+    margin-top: 32px;
+}
+
+blockquote p {
+	margin: 0 0 24px 0;
+}
+
+blockquote p:last-child {
+	margin: 0;
+}
+
+blockquote ol,
+blockquote ul {
+	padding-left: 16px;
+	margin: 16px 0;
+}
+
+@media (max-width: 500px) {
+	blockquote {
+		margin: 0 16px;
+	}
 }
 
 .hidden {
@@ -491,7 +527,7 @@ footer .theme-controls label:has(input:checked) .theme-option {
 	footer .columns {
 		flex-wrap: wrap;
 		justify-content: flex-start;
-		gap: 48px 128px;
+		gap: 64px 96px;
 	}
 }
 
@@ -604,3 +640,192 @@ footer .theme-controls label:has(input:checked) .theme-option {
 	}
 }
 /* ---- END HOMEPAGE SECTIONS ---- */
+
+/* ---- BLOG POST INDEX PAGE ---- */
+.blog-posts {
+	display: flex;
+	flex-direction: column;
+	gap: 48px;
+	margin-top: 64px;
+}
+
+.blog-posts article div.post-data {
+	display: flex;
+	gap: 12px;
+	align-items: flex-end;
+}
+
+.blog-posts article div.post-data div.post-date {
+	min-width: 120px;
+	font-size: 0.9rem;
+}
+
+.blog-posts article div.post-data a {
+	font-size: 1.6rem;
+}
+
+.blog-posts article div.post-description {
+	margin-left: 132px;
+	margin-top: 8px;
+	line-height: 1.33;
+}
+
+@media (max-width: 500px) {
+	.blog-posts article div.post-data {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 8px;
+	}
+
+	.blog-posts article div.post-description {
+		margin-left: 0;
+	}
+}
+/* ---- END BLOG POST INDEX PAGE ---- */
+
+/* ---- BLOG POST INDEX PAGE ---- */
+.notes {
+	display: flex;
+	flex-direction: column;
+	gap: 64px;
+	margin-top: 64px;
+}
+
+.notes article div.note-data {
+	display: flex;
+	gap: 12px;
+	align-items: flex-end;
+}
+
+.notes article div.note-data div.note-date {
+	min-width: 120px;
+	font-size: 0.9rem;
+}
+
+.notes article div.note-data h2 {
+	font-size: 1.33rem;
+	line-height: 1;
+	margin: 0;
+	padding: 0
+}
+
+.notes article div.note-metadata {
+	margin-top: 8px;
+	font-size: 0.9rem;
+	margin-left: 132px;
+	display: flex;
+	gap: 16px;
+}
+
+.notes article div.note-content {
+	margin-left: 132px;
+	margin-top: 24px;
+}
+
+@media (max-width: 500px) {
+	.notes article div.note-data {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 8px;
+	}
+
+	.notes article div.note-metadata,
+	.notes article div.note-content {
+		margin-left: 0;
+	}
+}
+/* ---- END BLOG POST INDEX PAGE ---- */
+
+/* ---- READING LOG INDEX PAGE ---- */
+.reading-logs {
+	display: flex;
+	flex-direction: column;
+	gap: 48px;
+	margin-top: 64px;
+}
+
+.reading-logs article div.post-data {
+	display: flex;
+	gap: 12px;
+	align-items: flex-end;
+}
+
+.reading-logs article div.post-data div.post-date {
+	min-width: 120px;
+	font-size: 0.9rem;
+}
+
+.reading-logs article div.post-data a {
+	font-size: 1.6rem;
+}
+
+.reading-logs article div.post-description {
+	margin-left: 132px;
+	margin-top: 8px;
+	line-height: 1.33;
+}
+
+@media (max-width: 500px) {
+	.reading-logs article div.post-data {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 8px;
+	}
+
+	.reading-logs article div.post-description {
+		margin-left: 0;
+	}
+}
+/* ---- END READING LOG INDEX PAGE ---- */
+
+/* ---- WEEK NOTES INDEX PAGE ---- */
+.week-notes {
+	display: flex;
+	flex-direction: column;
+	gap: 48px;
+	margin-top: 64px;
+}
+
+.week-notes article div.post-data {
+	display: flex;
+	gap: 12px;
+	align-items: flex-end;
+}
+
+.week-notes article div.post-data div.post-date {
+	min-width: 120px;
+	font-size: 0.9rem;
+}
+
+.week-notes article div.post-data a {
+	font-size: 1.6rem;
+}
+
+.week-notes article div.post-description {
+	margin-left: 132px;
+	margin-top: 8px;
+	line-height: 1.33;
+}
+
+@media (max-width: 500px) {
+	.week-notes article div.post-data {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 8px;
+	}
+
+	.week-notes article div.post-description {
+		margin-left: 0;
+	}
+}
+/* ---- END WEEK NOTES INDEX PAGE ---- */
+
+/* ---- PAGINATION ---- */
+section.pagination {
+	margin: 64px 0 32px 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 32px;
+}
+/* ---- END PAGINATION ---- */
