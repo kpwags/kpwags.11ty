@@ -820,6 +820,52 @@ footer .theme-controls label:has(input:checked) .theme-option {
 }
 /* ---- END WEEK NOTES INDEX PAGE ---- */
 
+/* ---- NOTE PAGE ---- */
+article.note h1 {
+	font-size: 2.25rem;
+	margin-bottom: 16px;
+}
+
+article.note .metadata {
+	display: flex;
+	gap: 16px;
+	justify-content: center;
+	margin: 0;
+}
+
+article.note .view-link {
+	margin: 32px 0;
+	text-align: center;
+}
+
+article.note .view-link a {
+	border-radius: 6px;
+	padding: 8px 16px;
+	font-size: 1rem;
+	background-color: var(--color-1);
+	color: var(--white);
+	text-decoration: none;
+}
+
+article.note .view-link a:hover {
+	background-color: var(--primary-700);
+	text-decoration: underline;
+	text-decoration-color: var(--color-3);
+}
+
+@media (max-width: 550px) {
+	article.note .metadata {
+		flex-direction: column;
+		gap: 8px;
+		align-items: center;
+	}
+
+	article.note .metadata .desktop-only {
+		display: none;
+	}
+}
+/* ---- END NOTE PAGE ---- */
+
 /* ---- PAGINATION ---- */
 section.pagination {
 	margin: 64px 0 32px 0;
@@ -829,3 +875,72 @@ section.pagination {
 	gap: 32px;
 }
 /* ---- END PAGINATION ---- */
+
+
+/* ---- TAG LIST ---- */
+ul.tag-list {
+	display: flex;
+	gap: 8px;
+	flex-wrap: wrap;
+	margin: 32px 0 48px 0;
+	align-items: center;
+	justify-content: center;
+	padding: 0;
+}
+
+ul.tag-list li {
+	list-style-type: none;
+	background-color: var(--color-1);
+	border-radius: 16px;
+	padding: 4px 16px;
+	font-size: 0.85rem;
+	margin: 0;
+}
+
+ul.tag-list li a {
+	display: flex;
+	gap: 8px;
+	align-items: center;
+	color: var(--white);
+	text-decoration: none;
+}
+
+ul.tag-list li a svg {
+	fill: var(--white);
+}
+
+ul.tag-list li:hover {
+	background-color: var(--primary-700);
+}
+
+ul.tag-list li:hover a {
+	text-decoration: underline;
+	text-decoration-color: var(--color-3);
+}
+/* ---- END TAG LIST ---- */
+
+/* ---- REPLY LIST ---- */
+.reply-via {
+	display: flex;
+	gap: 16px;
+	align-items: center;
+	margin: 64px 0 32px 0;
+}
+
+.reply-via span {
+	font-weight: 700;
+}
+
+.reply-via ul {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	gap: 24px;
+}
+
+.reply-via ul li {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+/* ---- END REPLY LIST ---- */
