@@ -46,7 +46,7 @@ main.homepage {
 
 h1 {
 	font-weight: 500;
-	font-size: 3rem;
+	font-size: 2.25rem;
 	color: var(--color-1);
 	margin: 0 0 32px 0;
 	padding: 0;
@@ -62,14 +62,14 @@ h1 span.prefix {
 
 h2 {
 	font-weight: 500;
-	font-size: 2.5rem;
+	font-size: 2rem;
 	color: var(--color-2);
 	margin: 24px 0;
 	padding: 0;
 }
 
 h3 {
-	font-size: 1.8rem;
+	font-size: 1.75rem;
 	color: var(--color-3);
 	font-weight: 400;
 	margin: 20px 0;
@@ -77,14 +77,14 @@ h3 {
 }
 
 h4 {
-	font-size: 1.6rem;
+	font-size: 1.5rem;
 	font-weight: 400;
 	color: var(--color-1);
 	margin: 12px 0;
 }
 
 h5 {
-	font-size: 1.5rem;
+	font-size: 1.35rem;
 	font-weight: 400;
 	margin: 12px 0;
 }
@@ -541,7 +541,7 @@ footer .theme-controls label:has(input:checked) .theme-option {
 
 /* ---- HOMEPAGE INTRO ---- */
 .homepage-intro {
-	background: var(--primary-400);
+	background: var(--primary-700);
 	color: var(--white);
 	padding: 160px 0 64px 0;
 	margin-bottom: 32px;
@@ -552,17 +552,18 @@ footer .theme-controls label:has(input:checked) .theme-option {
 	margin-left: 20%;
 }
 
-.homepage-intro .welcome-text p {
-	margin-top: 0;
-	font-size: 1.33rem;
-}
-
-.homepage-intro .welcome-text p:first-of-type {
+.homepage-intro .welcome-text h1 {
 	font-size: 1.75rem;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	color: var(--white);
+	margin-bottom: 12px;
 }
 
-.homepage-intro .welcome-text p:last-of-type {
-	margin-bottom: 0;
+.homepage-intro .welcome-text p{
+	margin: 0;
+	font-size: 1.33rem;
 }
 
 @media (max-width: 900px) {
@@ -866,6 +867,62 @@ article.note .view-link a:hover {
 }
 /* ---- END NOTE PAGE ---- */
 
+/* ---- WEEK NOTE PAGE ---- */
+article.week-note h1 {
+	font-size: 2.25rem;
+	margin-bottom: 16px;
+}
+
+article.week-note .metadata {
+	display: flex;
+	gap: 16px;
+	justify-content: center;
+	margin: 0;
+}
+
+article.week-note .interesting-links {
+	display: flex;
+	flex-direction: column;
+	gap: 48px;
+}
+
+article.week-note .interesting-links .shared-link h3 {
+	font-size: 1.5rem;
+	padding: 0;
+	margin: 0;
+}
+
+article.week-note .interesting-links .shared-link .posted-by {
+	font-style: italic;
+	margin-bottom: 8px;
+}
+
+article.week-note .interesting-links .shared-link p {
+	margin-block-start: 16px;
+	margin-block-end: 16px;
+}
+
+article.week-note .interesting-links .shared-link p:first-of-type {
+	margin-top: 0;
+}
+
+article.week-note .interesting-links .shared-link p:last-of-type,
+article.week-note .interesting-links .shared-link p:has(+ p:empty) {
+	margin-bottom: 0;
+}
+
+article.week-note .interesting-links .shared-link p:empty {
+	/* Annoyingly markdown occasionally puts these in */
+	display: none;
+}
+/* ---- END WEEK NOTE PAGE ---- */
+
+/* ---- POST CONTENT ---- */
+.post-content p + h2 {
+	margin-top: 48px;
+}
+/* ---- END POST CONTENT ---- */
+
 /* ---- PAGINATION ---- */
 section.pagination {
 	margin: 64px 0 32px 0;
@@ -875,7 +932,6 @@ section.pagination {
 	gap: 32px;
 }
 /* ---- END PAGINATION ---- */
-
 
 /* ---- TAG LIST ---- */
 ul.tag-list {
@@ -895,6 +951,7 @@ ul.tag-list li {
 	padding: 4px 16px;
 	font-size: 0.85rem;
 	margin: 0;
+	cursor: pointer;
 }
 
 ul.tag-list li a {
