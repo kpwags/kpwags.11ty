@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1730,
+		"title": "LLMs and performative productivity",
+		"author": "Josh Collinsworth",
+		"url": "https://joshcollinsworth.com/blog/productivity",
+		"linkDate": "2026-07-31T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1724,
 		"title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture’",
 		"author": "Emma Madden",
