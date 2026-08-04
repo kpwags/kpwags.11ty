@@ -283,8 +283,8 @@ permalink: /notes/${urlSlug}/index.html
 link: ${link}
 author: ${author}
 tags:
-  - ${author}
 ${noteTags}
+  - ${author}
 ---
 `;
 
