@@ -58,14 +58,14 @@
 		},
 		{
 			"televisionShowId": 68,
-			"title": "Ken Burns: Vietnam",
+			"title": "Ken Burns: The Vietnam War",
 			"imdbLink": "https://www.imdb.com/title/tt1877514/",
 			"rating": 0,
 			"thoughts": "",
 			"coverImageUrl": "https://i.postimg.cc/X7FX0mCB/ken-burns-vietnam.webp",
 			"seasonEpisodeCount": 10,
-			"currentSeasonEpisode": 2,
-			"progress": 20,
+			"currentSeasonEpisode": 3,
+			"progress": 30,
 			"sortOrder": null,
 			"status": {
 				"name": "Watching",
