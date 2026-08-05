@@ -1,5 +1,5 @@
 export const config = {
-	build: '1.2.3',
+	build: '1.2.4',
 	rootUrl: 'http://192.168.1.232:3010',
 	outputDirectory: {
 		linux: '/home/keith/Developer/kpwags.com/src/content',

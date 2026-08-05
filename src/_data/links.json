@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1731,
+		"title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+		"author": "Nate Anderson",
+		"url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+		"linkDate": "2026-08-04T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1730,
 		"title": "LLMs and performative productivity",
 		"author": "Josh Collinsworth",

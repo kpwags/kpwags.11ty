@@ -1,24 +1,24 @@
 {
 	"inProgress": [
 		{
-			"bookId": 729,
-			"title": "Band of Brothers",
-			"subTitle": "E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
-			"fullTitle": "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
-			"author": "Stephen E. Ambrose",
-			"link": "https://bookshop.org/p/books/band-of-brothers-e-company-506th-regiment-101st-airborne-from-normandy-to-hitler-s-eagle-s-nest-stephen-e-ambrose/85f1e152153e5369",
-			"dateStarted": "2026-07-19T00:00:00.000Z",
+			"bookId": 735,
+			"title": "I Am Not a Robot",
+			"subTitle": "My Year Using AI to Do (Almost) Everything",
+			"fullTitle": "I Am Not a Robot: My Year Using AI to Do (Almost) Everything",
+			"author": "Joanna Stern",
+			"link": "https://bookshop.org/p/books/i-am-not-a-robot-my-year-using-ai-to-do-almost-everything-joanna-stern/f4f2bde5f7986a39",
+			"dateStarted": "2026-08-04T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/g041s86y/ambrose-band-of-brothers.webp",
+			"coverImageUrl": "https://i.postimg.cc/9ftHx998/stern-i-am-not-a-robot.webp",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 213,
-			"pageCount": 307,
-			"progress": 69,
-			"sortOrder": 3950,
+			"currentPage": 97,
+			"pageCount": 481,
+			"progress": 20,
+			"sortOrder": 4000,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
@@ -30,14 +30,55 @@
 			"series": null,
 			"genres": [
 				{
-					"name": "History",
-					"colorCode": "rgb(4, 38, 142)"
+					"name": "Technology",
+					"colorCode": "rgb(55, 78, 146)"
 				}
 			],
 			"formats": [
 				{
-					"name": "Hardcover",
-					"colorCode": "#a0175f"
+					"name": "Audiobook",
+					"colorCode": "#b300b3"
+				}
+			]
+		},
+		{
+			"bookId": 734,
+			"title": "What Kind of Mother",
+			"subTitle": "",
+			"fullTitle": "What Kind of Mother",
+			"author": "Clay McLeod Chapman",
+			"link": "https://bookshop.org/p/books/what-kind-of-mother-clay-mcleod-chapman/f6bfedf2c5ff33a1",
+			"dateStarted": "2026-08-04T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/d3W23Dz1/chapman-what-kind-of-mother.webp",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 290,
+			"progress": 1,
+			"sortOrder": 3990,
+			"status": {
+				"name": "Reading",
+				"colorCode": "#6a208f"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
 				}
 			]
 		}
@@ -46,6 +87,47 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 729,
+					"title": "Band of Brothers",
+					"subTitle": "E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
+					"fullTitle": "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
+					"author": "Stephen E. Ambrose",
+					"link": "https://bookshop.org/p/books/band-of-brothers-e-company-506th-regiment-101st-airborne-from-normandy-to-hitler-s-eagle-s-nest-stephen-e-ambrose/85f1e152153e5369",
+					"dateStarted": "2026-07-19T00:00:00.000Z",
+					"dateCompleted": "2026-08-03T00:00:00.000Z",
+					"rating": 4,
+					"bookNotesUrl": "",
+					"thoughts": "Having watched the HBO series, I figured the book would be a good companion. It was. It provided some extra details and context to Easy Company that the TV series couldn't. Would recommend.",
+					"coverImageUrl": "https://i.postimg.cc/g041s86y/ambrose-band-of-brothers.webp",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 307,
+					"pageCount": 307,
+					"progress": 100,
+					"sortOrder": 3950,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "History",
+							"colorCode": "rgb(4, 38, 142)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Hardcover",
+							"colorCode": "#a0175f"
+						}
+					]
+				},
 				{
 					"bookId": 718,
 					"title": "Piranesi",
