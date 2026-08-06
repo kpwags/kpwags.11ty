@@ -15,6 +15,51 @@
 		}
 	},
 	{
+		"linkId": 1733,
+		"title": "Substackers Say New AI Detection Tool Is a ‘Witch Hunt",
+		"author": "Emanuel Maiberg",
+		"url": "https://www.404media.co/substackers-say-new-ai-detection-tool-is-a-witch-hunt/",
+		"linkDate": "2026-08-05T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1735,
+		"title": "Data Centers Are Easy to Build. Powering Them Is Complicated, Slow, and Expensive",
+		"author": "Matthew Gault",
+		"url": "https://www.404media.co/data-centers-power-energy-grid-epa-clean-air-act/",
+		"linkDate": "2026-08-05T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1736,
+		"title": "AI Made Writing Code Easier. It Made Being an Engineer Harder.",
+		"author": "Ivan Turković",
+		"url": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
+		"linkDate": "2026-08-05T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1731,
 		"title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
 		"author": "Nate Anderson",
