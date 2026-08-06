@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1732,
+		"title": "The Women’s Pro Baseball League Will Eventually Need To Escape The Past",
+		"author": "Sarah Borus",
+		"url": "https://defector.com/the-womens-pro-baseball-league-will-eventually-need-to-escape-the-past",
+		"linkDate": "2026-08-05T00:00:00.000Z",
+		"category": {
+			"name": "Sports",
+			"colorCode": "#2d5f6f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1731,
 		"title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
 		"author": "Nate Anderson",

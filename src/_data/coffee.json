@@ -1,5 +1,21 @@
 [
 	{
+		"roaster": "Atomic Coffee Roasters",
+		"blend": "Rocketeer",
+		"roast": "Medium Dark",
+		"location": "Peabody, MA",
+		"link": "https://atomicroastery.com/products/rocketeer",
+		"date": "2026-08-04"
+	},
+	{
+		"roaster": "JoeCoffee",
+		"blend": "Amsterdam",
+		"roast": "Medium",
+		"location": "Queens, NY",
+		"link": "https://joecoffeecompany.com/products/amsterdam?variant=51107860906277",
+		"date": "2026-07-27"
+	},
+	{
 		"roaster": "Small Planes Coffee",
 		"blend": "Gateway",
 		"roast": "Medium",
@@ -23,21 +39,5 @@
 		"location": "Savannah, GA",
 		"link": "https://perccoffee.com/products/brazil",
 		"date": "2026-07-02"
-	},
-	{
-		"roaster": "Caffe Vita",
-		"blend": "Bistro Blend",
-		"roast": "Medium",
-		"location": "Brooklyn, NY",
-		"link": "https://www.caffevita.com/products/bistro-blend",
-		"date": "2026-06-24"
-	},
-	{
-		"roaster": "8th & Roast Coffee Co.",
-		"blend": "Common Voice: Heirloom",
-		"roast": "Medium",
-		"location": "Nashville, TN",
-		"link": "https://www.8thandroast.com/collections/common-voice/products/heirloom",
-		"date": "2026-06-13"
 	}
 ]
