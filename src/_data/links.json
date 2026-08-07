@@ -1,5 +1,80 @@
 [
 	{
+		"linkId": 1737,
+		"title": "Hello Local Business, Your AI Ads Are Costing You Customers",
+		"author": "Luke Plunkett",
+		"url": "https://aftermath.site/ai-poster-ad-flyer-local-business/",
+		"linkDate": "2026-08-07T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1738,
+		"title": "They don’t make ’em like Sublime Text anymore",
+		"author": "David Bushell",
+		"url": "https://dbushell.com/2026/08/07/sublime-text/",
+		"linkDate": "2026-08-07T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1739,
+		"title": "A workaround for hiding empty slots in Chromium",
+		"author": "Dave Rupert",
+		"url": "https://daverupert.com/2026/06/fix-for-host-has-slot/",
+		"linkDate": "2026-08-07T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1740,
+		"title": "Cities Are Ditching Flock, Immediately Replacing It With Axon License Plate Readers",
+		"author": "Joseph Cox",
+		"url": "https://www.404media.co/cities-are-ditching-flock-immediately-replacing-it-with-axon-license-plate-readers/",
+		"linkDate": "2026-08-07T00:00:00.000Z",
+		"category": {
+			"name": "Privacy",
+			"colorCode": "#26a269"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1741,
+		"title": "Don't Use A Class For That!",
+		"author": "Alvaro Montoro",
+		"url": "https://alvaromontoro.com/blog/68107/dont-use-a-class-for-that",
+		"linkDate": "2026-08-07T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1732,
 		"title": "The Women’s Pro Baseball League Will Eventually Need To Escape The Past",
 		"author": "Sarah Borus",

@@ -456,6 +456,58 @@
 		]
 	},
 	{
+		"musicAlbumId": 292,
+		"title": "Split",
+		"artist": "Alkaline Trio / Hot Water Music",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/JnmN5hNq/alk-trio-hot-water-music-split.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 07 Aug 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Alkaline Trio - Queen of Pain"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Alkaline Trio - While You're Waiting"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Alkaline Trio - Rooftops"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Hot Water Music - God Deciding"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Hot Water Music - Russian Roulette"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Hot Water Music - Radio"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Hot Water Music - Bleeder"
+			}
+		]
+	},
+	{
 		"musicAlbumId": 256,
 		"title": "Antique Hearts: Revisited",
 		"artist": "American Aquarium",
@@ -4728,6 +4780,126 @@
 		]
 	},
 	{
+		"musicAlbumId": 294,
+		"title": "Haunted Churches: Live in Leeds",
+		"artist": "Dave Hause",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/63wrfQrc/dave-hause-haunted-churches.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 07 Aug 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			},
+			{
+				"name": "Live Albums",
+				"colorCode": "rgb(92, 19, 162)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Drive it Like it's Stolen"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Hazard Lights"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Pretty Good Year"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Paradise"
+			},
+			{
+				"trackNumber": 5,
+				"title": "We Could Be Kings"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Gary"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Cheap Seats (New Years Day, NYC, 2042)"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Resolutions"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Please Be Here"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Summerkiss"
+			},
+			{
+				"trackNumber": 11,
+				"title": "High Hopes"
+			},
+			{
+				"trackNumber": 12,
+				"title": "Sandy Sheets"
+			},
+			{
+				"trackNumber": 13,
+				"title": "Tarnish"
+			},
+			{
+				"trackNumber": 14,
+				"title": "Bricks"
+			},
+			{
+				"trackNumber": 15,
+				"title": "Louisiana"
+			},
+			{
+				"trackNumber": 16,
+				"title": "Surfboard"
+			},
+			{
+				"trackNumber": 17,
+				"title": "Time Will Tell"
+			},
+			{
+				"trackNumber": 18,
+				"title": "The Ditch"
+			},
+			{
+				"trackNumber": 19,
+				"title": "Low"
+			},
+			{
+				"trackNumber": 20,
+				"title": "Prague (Revive Me)"
+			},
+			{
+				"trackNumber": 21,
+				"title": "Learning to Fly (feat. Will Hoge)"
+			},
+			{
+				"trackNumber": 22,
+				"title": "Fireflies"
+			},
+			{
+				"trackNumber": 23,
+				"title": "Damn Personal"
+			}
+		]
+	},
+	{
 		"musicAlbumId": 185,
 		"title": "Hearses",
 		"artist": "Dave Hause",
@@ -5548,6 +5720,186 @@
 			{
 				"trackNumber": 12,
 				"title": "Player Hater Anthem"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 290,
+		"title": "Homesick",
+		"artist": "A Day to Remember",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/Ssq6fK6D/day-to-remember-homesick.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 07 Aug 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Pop Punk",
+				"colorCode": "rgb(32, 92, 9)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "The Downfall of Us All"
+			},
+			{
+				"trackNumber": 2,
+				"title": "My Life for Hire"
+			},
+			{
+				"trackNumber": 3,
+				"title": "I'm Made of Wax, Larry, What are Your Made Of?"
+			},
+			{
+				"trackNumber": 4,
+				"title": "NJ Legion Iced Tea"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Mr. Highway's Thinking About the End"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Have Faith in Me"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Welcome to the Family"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Homesick"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Holdin' it Down for the Underground"
+			},
+			{
+				"trackNumber": 10,
+				"title": "You Already Know What You Are"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Another Song About the Weekend"
+			},
+			{
+				"trackNumber": 12,
+				"title": "If it Means a Lot to You"
+			},
+			{
+				"trackNumber": 13,
+				"title": "Homesick (Acoustic)"
+			},
+			{
+				"trackNumber": 14,
+				"title": "Another Song About the Weekend (Acoustic) "
+			},
+			{
+				"trackNumber": 15,
+				"title": "The Downfall of Us All (Live in Switzerland)"
+			},
+			{
+				"trackNumber": 16,
+				"title": "Fast Forward to 2012 (Live in Switzerland)"
+			},
+			{
+				"trackNumber": 17,
+				"title": "My Life for Hire (Live in Switzerland)"
+			},
+			{
+				"trackNumber": 18,
+				"title": "The Danger in Starting a Fire (Live in Switzerland)"
+			},
+			{
+				"trackNumber": 19,
+				"title": "Mr. Highway's Thinking About the End (Live in Switzerland)"
+			},
+			{
+				"trackNumber": 20,
+				"title": "I'm Made of Wax, Larry, What are Your Made Of? (Live in Switzerland)"
+			},
+			{
+				"trackNumber": 21,
+				"title": "A Shot in the Dark (Live in Switzerland)"
+			},
+			{
+				"trackNumber": 22,
+				"title": "You Should Have Killed Me When You Had the Chance (Live in Switzerland)"
+			},
+			{
+				"trackNumber": 23,
+				"title": "The Plot to Bomb the Panhandle (Live in Switzerland)"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 291,
+		"title": "What Separates Me From You",
+		"artist": "A Day to Remember",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/G2rFxpFz/day-to-remember-separates-me-from-you.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 07 Aug 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Pop Punk",
+				"colorCode": "rgb(32, 92, 9)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Sticks & Bricks"
+			},
+			{
+				"trackNumber": 2,
+				"title": "All I Want"
+			},
+			{
+				"trackNumber": 3,
+				"title": "It's Complicated"
+			},
+			{
+				"trackNumber": 4,
+				"title": "This is the House that Doubt Built"
+			},
+			{
+				"trackNumber": 5,
+				"title": "2nd Sucks"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Better Off this Way"
+			},
+			{
+				"trackNumber": 7,
+				"title": "All Signs Point to Lauderdale"
+			},
+			{
+				"trackNumber": 8,
+				"title": "You Be Tails, I'll Be Sonic"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Out of Time"
+			},
+			{
+				"trackNumber": 10,
+				"title": "If I Leave"
 			}
 		]
 	},
@@ -11120,6 +11472,78 @@
 		]
 	},
 	{
+		"musicAlbumId": 293,
+		"title": "Something More Than Free",
+		"artist": "Jason Isbell",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/PxhWQqWV/isbell-something-more-than-free.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 07 Aug 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Country",
+				"colorCode": "rgb(120, 74, 0)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "If it Takes a Lifetime"
+			},
+			{
+				"trackNumber": 2,
+				"title": "24 Frames"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Flagship"
+			},
+			{
+				"trackNumber": 4,
+				"title": "How to Forget"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Children of Children"
+			},
+			{
+				"trackNumber": 6,
+				"title": "The Life You Chose"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Something More Than Free"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Speed Trap Town"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Hudsom Commodore"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Palmetto Rose"
+			},
+			{
+				"trackNumber": 11,
+				"title": "To a Band That I Loved"
+			},
+			{
+				"trackNumber": 12,
+				"title": "Should I Go Missing"
+			}
+		]
+	},
+	{
 		"musicAlbumId": 44,
 		"title": "The Nashville Sound",
 		"artist": "Jason Isbell and the 400 Unit",
@@ -15796,6 +16220,86 @@
 			{
 				"trackNumber": 13,
 				"title": "Run for Your Life"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 295,
+		"title": "Decades",
+		"artist": "Motionless in White",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/d1v2j02H/motionless-in-white-decades.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 07 Aug 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Metal",
+				"colorCode": "rgb(68, 56, 155)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Decades"
+			},
+			{
+				"trackNumber": 2,
+				"title": "log_in//crash_out"
+			},
+			{
+				"trackNumber": 3,
+				"title": "R.I.P."
+			},
+			{
+				"trackNumber": 4,
+				"title": "Fight Like Hell"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Playing God"
+			},
+			{
+				"trackNumber": 6,
+				"title": "All That I've Ever Known"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Blood Rave"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Love at First Bite"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Count Back from Zero"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Blood Pact"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Afraid of the Dark"
+			},
+			{
+				"trackNumber": 12,
+				"title": "Suglasses at Night"
+			},
+			{
+				"trackNumber": 13,
+				"title": "Hollywood (Bonus Track)"
+			},
+			{
+				"trackNumber": 14,
+				"title": "Fight Like Hell (Bonus Track)"
 			}
 		]
 	},
