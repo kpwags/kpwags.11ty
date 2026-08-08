@@ -1,7 +1,7 @@
 {
   "name": "kpwags.11ty",
   "type": "module",
-  "version": "1.2.0",
+  "version": "3.0.0",
   "description": "My Personal Site (in 11ty)",
   "main": "index.js",
   "scripts": {

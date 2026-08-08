@@ -27,7 +27,6 @@ import { rssClub } from './src/filters/rssClub-filter.js';
 import { tagFilter } from './src/filters/tagFilter-filter.js';
 import { rssPostTitle } from './src/filters/rssPostTitle-filter.js';
 
-import inDepthShortcode from './src/shortcodes/inDepth-shortcode.js';
 import youTubeShortcode from './src/shortcodes/youTube-shortcode.js';
 import starRatingShortcode from './src/shortcodes/starRating-shortcode.js';
 import tagListShortcode from './src/shortcodes/tagList-shortcode.js';
@@ -102,7 +101,6 @@ export default function (eleventyConfig) {
     eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
     eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);
 
-    eleventyConfig.addPairedShortcode('inDepth', inDepthShortcode);
     eleventyConfig.addShortcode('youTubeEmbed', youTubeShortcode);
     eleventyConfig.addShortcode('starRating', starRatingShortcode);
     eleventyConfig.addShortcode('tagList', tagListShortcode);
