@@ -135,7 +135,7 @@ p {
 }
 
 ul {
-	margin: 0;
+	margin: 32px 0;
 	padding: 0;
 }
 
@@ -178,9 +178,9 @@ hr {
 }
 
 blockquote {
-	margin: 0 32px 32px;
+	margin: 32px 16px;
 	border-left: 4px solid var(--color-1);
-	padding-left: 24px;
+	padding-left: 16px;
 }
 
 blockquote + blockquote {
@@ -879,43 +879,21 @@ article.week-note .metadata {
 	justify-content: center;
 	margin: 0;
 }
+/* ---- END WEEK NOTE PAGE ---- */
 
-article.week-note .interesting-links {
-	display: flex;
-	flex-direction: column;
-	gap: 48px;
+/* ---- READING LOG PAGE ---- */
+article.reading-log h1 {
+	font-size: 2.25rem;
+	margin-bottom: 16px;
 }
 
-article.week-note .interesting-links .shared-link h3 {
-	font-size: 1.5rem;
-	padding: 0;
+article.reading-log .metadata {
+	display: flex;
+	gap: 16px;
+	justify-content: center;
 	margin: 0;
 }
-
-article.week-note .interesting-links .shared-link .posted-by {
-	font-style: italic;
-	margin-bottom: 8px;
-}
-
-article.week-note .interesting-links .shared-link p {
-	margin-block-start: 16px;
-	margin-block-end: 16px;
-}
-
-article.week-note .interesting-links .shared-link p:first-of-type {
-	margin-top: 0;
-}
-
-article.week-note .interesting-links .shared-link p:last-of-type,
-article.week-note .interesting-links .shared-link p:has(+ p:empty) {
-	margin-bottom: 0;
-}
-
-article.week-note .interesting-links .shared-link p:empty {
-	/* Annoyingly markdown occasionally puts these in */
-	display: none;
-}
-/* ---- END WEEK NOTE PAGE ---- */
+/* ---- END READING LOG PAGE ---- */
 
 /* ---- POST CONTENT ---- */
 .post-content p + h2 {
@@ -1001,3 +979,41 @@ ul.tag-list li:hover a {
 	padding: 0;
 }
 /* ---- END REPLY LIST ---- */
+
+/* ---- INTERESTING LINKS ---- */
+.interesting-links {
+	display: flex;
+	flex-direction: column;
+	gap: 64px;
+}
+
+.interesting-links .shared-link h3 {
+	font-size: 1.5rem;
+	padding: 0;
+	margin: 0;
+}
+
+.interesting-links .shared-link .posted-by {
+	font-style: italic;
+	margin-bottom: 8px;
+}
+
+.interesting-links .shared-link p {
+	margin-block-start: 16px;
+	margin-block-end: 16px;
+}
+
+.interesting-links .shared-link p:first-of-type {
+	margin-top: 0;
+}
+
+.interesting-links .shared-link p:last-of-type,
+.interesting-links .shared-link p:has(+ p:empty) {
+	margin-bottom: 0;
+}
+
+.interesting-links .shared-link p:empty {
+	/* Annoyingly markdown occasionally puts these in */
+	display: none;
+}
+/* ---- END INTERESTING LINKS ---- */
