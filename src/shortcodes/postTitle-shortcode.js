@@ -19,19 +19,5 @@ export default (title, date, subtitle) => {
 		return title;
 	};
 
-	const outputSubtitle = () => {
-		if ((subtitle ?? '').length === 0) {
-			return '';
-		}
-
-		return `<div class="subtitle">${subtitle}</div>`;
-	}
-
-	return `
-		<div class="post-heading">
-			<h1>${heading()}</h1>
-			${outputSubtitle()}
-			<div class="metadata">${date}</div>
-		</div>
-	`;
+	return `<h1>${heading()}</h1>`;
 }
