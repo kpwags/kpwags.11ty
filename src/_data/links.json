@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1742,
+		"title": "The next Xbox could play every Xbox game ever made",
+		"author": "Sean Hollister",
+		"url": "https://www.theverge.com/games/974773/xbox-helix-disc-digital-backwards-compatibility-leaked-memo-opt-in",
+		"linkDate": "2026-08-08T00:00:00.000Z",
+		"category": {
+			"name": "Gaming",
+			"colorCode": "#275576"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1737,
 		"title": "Hello Local Business, Your AI Ads Are Costing You Customers",
 		"author": "Luke Plunkett",
