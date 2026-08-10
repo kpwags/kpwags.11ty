@@ -1,24 +1,24 @@
 {
 	"inProgress": [
 		{
-			"bookId": 735,
-			"title": "I Am Not a Robot",
-			"subTitle": "My Year Using AI to Do (Almost) Everything",
-			"fullTitle": "I Am Not a Robot: My Year Using AI to Do (Almost) Everything",
-			"author": "Joanna Stern",
-			"link": "https://bookshop.org/p/books/i-am-not-a-robot-my-year-using-ai-to-do-almost-everything-joanna-stern/f4f2bde5f7986a39",
-			"dateStarted": "2026-08-04T00:00:00.000Z",
+			"bookId": 695,
+			"title": "Privacy's Defender",
+			"subTitle": "My Thirty-Year Fight Against Digital Surveillance",
+			"fullTitle": "Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance",
+			"author": "Cindy Cohn",
+			"link": "https://bookshop.org/p/books/privacy-s-defender-my-thirty-year-fight-against-digital-surveillance-cindy-cohn/53886568f609835d",
+			"dateStarted": "2026-08-09T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/9ftHx998/stern-i-am-not-a-robot.webp",
+			"coverImageUrl": "https://i.postimg.cc/Bv41NRxj/cohn-privacys-defender.jpg",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 429,
-			"pageCount": 481,
-			"progress": 89,
-			"sortOrder": 4000,
+			"currentPage": 87,
+			"pageCount": 516,
+			"progress": 17,
+			"sortOrder": 3700,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
@@ -56,9 +56,9 @@
 			"coverImageUrl": "https://i.postimg.cc/d3W23Dz1/chapman-what-kind-of-mother.webp",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 158,
+			"currentPage": 208,
 			"pageCount": 290,
-			"progress": 54,
+			"progress": 72,
 			"sortOrder": 3990,
 			"status": {
 				"name": "Reading",
@@ -87,6 +87,47 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 735,
+					"title": "I Am Not a Robot",
+					"subTitle": "My Year Using AI to Do (Almost) Everything",
+					"fullTitle": "I Am Not a Robot: My Year Using AI to Do (Almost) Everything",
+					"author": "Joanna Stern",
+					"link": "https://bookshop.org/p/books/i-am-not-a-robot-my-year-using-ai-to-do-almost-everything-joanna-stern/f4f2bde5f7986a39",
+					"dateStarted": "2026-08-04T00:00:00.000Z",
+					"dateCompleted": "2026-08-09T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "An interesting look at all the different AI and robotic tools companies are pushing. It did a decent job to balance what the tools could do and where its weaknesses were.",
+					"coverImageUrl": "https://i.postimg.cc/9ftHx998/stern-i-am-not-a-robot.webp",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 481,
+					"pageCount": 481,
+					"progress": 100,
+					"sortOrder": 4000,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Technology",
+							"colorCode": "rgb(55, 78, 146)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Audiobook",
+							"colorCode": "#b300b3"
+						}
+					]
+				},
 				{
 					"bookId": 729,
 					"title": "Band of Brothers",
@@ -27128,42 +27169,6 @@
 			"formats": []
 		},
 		{
-			"bookId": 695,
-			"title": "Privacy's Defender",
-			"subTitle": "My Thirty-Year Fight Against Digital Surveillance",
-			"fullTitle": "Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance",
-			"author": "Cindy Cohn",
-			"link": "https://bookshop.org/p/books/privacy-s-defender-my-thirty-year-fight-against-digital-surveillance-cindy-cohn/53886568f609835d",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 3700,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Technology",
-					"colorCode": "rgb(55, 78, 146)"
-				}
-			],
-			"formats": []
-		},
-		{
 			"bookId": 702,
 			"title": "Radical Infrastructure",
 			"subTitle": "Imagining the Internet from the Ground Up",
@@ -28115,6 +28120,42 @@
 				{
 					"name": "Technology",
 					"colorCode": "rgb(55, 78, 146)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 736,
+			"title": "My Husband's Wife",
+			"subTitle": "",
+			"fullTitle": "My Husband's Wife",
+			"author": "Alice Feeney",
+			"link": "https://bookshop.org/p/books/my-husband-s-wife-alice-feeney/75a10dfa1c7fff94",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3990,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Mystery",
+					"colorCode": "rgb(1, 102, 47)"
 				}
 			],
 			"formats": []
