@@ -42,43 +42,43 @@
 			]
 		},
 		{
-			"bookId": 734,
-			"title": "What Kind of Mother",
-			"subTitle": "",
-			"fullTitle": "What Kind of Mother",
-			"author": "Clay McLeod Chapman",
-			"link": "https://bookshop.org/p/books/what-kind-of-mother-clay-mcleod-chapman/f6bfedf2c5ff33a1",
-			"dateStarted": "2026-08-04T00:00:00.000Z",
+			"bookId": 737,
+			"title": "Why We Love Baseball",
+			"subTitle": "A History in 50 Moments",
+			"fullTitle": "Why We Love Baseball: A History in 50 Moments",
+			"author": "Joe Posnanski",
+			"link": "https://bookshop.org/p/books/why-we-love-baseball-a-history-in-50-moments-joe-posnanski/debbff6d40e86325",
+			"dateStarted": "2026-08-11T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/d3W23Dz1/chapman-what-kind-of-mother.webp",
+			"coverImageUrl": "https://i.postimg.cc/wB1WzRSj/why-we-love-baseball.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 208,
-			"pageCount": 290,
-			"progress": 72,
-			"sortOrder": 3990,
+			"currentPage": 1,
+			"pageCount": 363,
+			"progress": 1,
+			"sortOrder": 4000,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
 			},
 			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
 			},
 			"series": null,
 			"genres": [
 				{
-					"name": "Horror",
-					"colorCode": "rgb(146, 4, 4)"
+					"name": "Sports",
+					"colorCode": "rgb(0, 80, 20)"
 				}
 			],
 			"formats": [
 				{
-					"name": "Paperback",
-					"colorCode": "#cd6a29"
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
 				}
 			]
 		}
@@ -87,6 +87,47 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 734,
+					"title": "What Kind of Mother",
+					"subTitle": "",
+					"fullTitle": "What Kind of Mother",
+					"author": "Clay McLeod Chapman",
+					"link": "https://bookshop.org/p/books/what-kind-of-mother-clay-mcleod-chapman/f6bfedf2c5ff33a1",
+					"dateStarted": "2026-08-04T00:00:00.000Z",
+					"dateCompleted": "2026-08-10T00:00:00.000Z",
+					"rating": 2,
+					"bookNotesUrl": "",
+					"thoughts": "Creepy, but I’m still not entirely sure I understand the ending.",
+					"coverImageUrl": "https://i.postimg.cc/d3W23Dz1/chapman-what-kind-of-mother.webp",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 290,
+					"pageCount": 290,
+					"progress": 100,
+					"sortOrder": 3990,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Horror",
+							"colorCode": "rgb(146, 4, 4)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Paperback",
+							"colorCode": "#cd6a29"
+						}
+					]
+				},
 				{
 					"bookId": 735,
 					"title": "I Am Not a Robot",
