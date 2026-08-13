@@ -1,5 +1,95 @@
 [
 	{
+		"linkId": 1747,
+		"title": "Echoes of light show our galaxy’s spiral arms are more wide-flung than we thought",
+		"author": "Philip Plait",
+		"url": "https://badastronomy.beehiiv.com/p/echoes-of-light-show-our-galaxy-s-spiral-arms-are-more-wide-flung-than-we-thought",
+		"linkDate": "2026-08-13T00:00:00.000Z",
+		"category": {
+			"name": "Space",
+			"colorCode": "#2c0d18"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1748,
+		"title": "Flock CEO: ‘We got this one wrong’",
+		"author": "Lauren Feiner",
+		"url": "https://www.theverge.com/policy/979339/flock-ceo-audits-data-retention",
+		"linkDate": "2026-08-13T00:00:00.000Z",
+		"category": {
+			"name": "Privacy",
+			"colorCode": "#26a269"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1749,
+		"title": "The Government is Monitoring Anti-Flock TikTok and Instagram Accounts",
+		"author": "Jason Koebler",
+		"url": "https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/",
+		"linkDate": "2026-08-13T00:00:00.000Z",
+		"category": {
+			"name": "Privacy",
+			"colorCode": "#26a269"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1743,
+		"title": "I'm done using AI",
+		"author": "Brett C",
+		"url": "https://brettcodes.com/im-done-using-ai/",
+		"linkDate": "2026-08-12T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1744,
+		"title": "Eventually Everyone Will Be Called A Terrorist",
+		"author": "Sohini Desai",
+		"url": "https://defector.com/eventually-everyone-will-be-called-a-terrorist",
+		"linkDate": "2026-08-12T00:00:00.000Z",
+		"category": {
+			"name": "Politics",
+			"colorCode": "#8b642f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1745,
+		"title": "My Thoughts on AI, Part 1: Fears, Opinions, and Mental Journey",
+		"author": "Mark Erikson",
+		"url": "https://blog.isquaredsoftware.com/2026/05/ai-thoughts-part-1-fears-opinions-journey/",
+		"linkDate": "2026-08-12T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1742,
 		"title": "The next Xbox could play every Xbox game ever made",
 		"author": "Sean Hollister",
