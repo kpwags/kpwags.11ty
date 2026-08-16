@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/Bv41NRxj/cohn-privacys-defender.jpg",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 112,
+			"currentPage": 452,
 			"pageCount": 516,
-			"progress": 22,
+			"progress": 88,
 			"sortOrder": 3700,
 			"status": {
 				"name": "Reading",
@@ -56,9 +56,9 @@
 			"coverImageUrl": "https://i.postimg.cc/wB1WzRSj/why-we-love-baseball.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 46,
+			"currentPage": 135,
 			"pageCount": 363,
-			"progress": 13,
+			"progress": 37,
 			"sortOrder": 4000,
 			"status": {
 				"name": "Reading",
@@ -28197,6 +28197,286 @@
 				{
 					"name": "Mystery",
 					"colorCode": "rgb(1, 102, 47)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 738,
+			"title": "The Path to Power",
+			"subTitle": "The Years of Lyndon Johnson I",
+			"fullTitle": "The Path to Power: The Years of Lyndon Johnson I",
+			"author": "Robert A. Caro",
+			"link": "https://bookshop.org/p/books/the-path-to-power-the-years-of-lyndon-johnson-i-robert-a-caro/adb253cb5570a15b",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4000,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": {
+				"name": "Caro - LBJ",
+				"colorCode": "#a51d2d"
+			},
+			"genres": [
+				{
+					"name": "Biography / Memoir",
+					"colorCode": "rgb(68, 0, 214)"
+				},
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 739,
+			"title": "Means of Ascent",
+			"subTitle": "The Years of Lyndon Johnson II",
+			"fullTitle": "Means of Ascent: The Years of Lyndon Johnson II",
+			"author": "Robert A. Caro",
+			"link": "https://bookshop.org/p/books/means-of-ascent-the-years-of-lyndon-johnson-ii-robert-a-caro/a2f3f1e63de14c1f",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4010,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": {
+				"name": "Caro - LBJ",
+				"colorCode": "#a51d2d"
+			},
+			"genres": [
+				{
+					"name": "Biography / Memoir",
+					"colorCode": "rgb(68, 0, 214)"
+				},
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 740,
+			"title": "Master of the Senate",
+			"subTitle": "The Years of Lyndon Johnson III",
+			"fullTitle": "Master of the Senate: The Years of Lyndon Johnson III",
+			"author": "Robert A. Caro",
+			"link": "https://bookshop.org/p/books/master-of-the-senate-the-years-of-lyndon-johnson-iii-robert-a-caro/56e6e291d6d0dfe2",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4020,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": {
+				"name": "Caro - LBJ",
+				"colorCode": "#a51d2d"
+			},
+			"genres": [
+				{
+					"name": "Biography / Memoir",
+					"colorCode": "rgb(68, 0, 214)"
+				},
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 741,
+			"title": "The Passage of Power",
+			"subTitle": "The Years of Lyndon Johnson, Vol. IV",
+			"fullTitle": "The Passage of Power: The Years of Lyndon Johnson, Vol. IV",
+			"author": "Robert A. Caro",
+			"link": "https://bookshop.org/p/books/the-passage-of-power-the-years-of-lyndon-johnson-iv-robert-a-caro/daf1598f9c503ba8",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4030,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": {
+				"name": "Caro - LBJ",
+				"colorCode": "#a51d2d"
+			},
+			"genres": [
+				{
+					"name": "Biography / Memoir",
+					"colorCode": "rgb(68, 0, 214)"
+				},
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 742,
+			"title": "Working",
+			"subTitle": "",
+			"fullTitle": "Working",
+			"author": "Robert A. Caro",
+			"link": "https://bookshop.org/p/books/working-robert-a-caro/b37074d07b49bf9b",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4040,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Biography / Memoir",
+					"colorCode": "rgb(68, 0, 214)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 743,
+			"title": "The Pentagon Papers",
+			"subTitle": "The Secret History of the Vietnam War",
+			"fullTitle": "The Pentagon Papers: The Secret History of the Vietnam War",
+			"author": "Neil Sheehan & Hedrick Smith",
+			"link": "https://bookshop.org/p/books/the-pentagon-papers-the-secret-history-of-the-vietnam-war-e-w-kenworthy/bb4d208b725a7d7a",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4050,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 744,
+			"title": "Secrets",
+			"subTitle": "A Memoir of Vietnam and the Pentagon Papers",
+			"fullTitle": "Secrets: A Memoir of Vietnam and the Pentagon Papers",
+			"author": "Daniel Ellsberg",
+			"link": "https://bookshop.org/p/books/secrets-a-memoir-of-vietnam-and-the-pentagon-papers-daniel-ellsberg/7d3cb71ea7a35a04",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4060,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Biography / Memoir",
+					"colorCode": "rgb(68, 0, 214)"
 				}
 			],
 			"formats": []
