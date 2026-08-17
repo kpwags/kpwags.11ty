@@ -1,47 +1,6 @@
 {
 	"inProgress": [
 		{
-			"bookId": 695,
-			"title": "Privacy's Defender",
-			"subTitle": "My Thirty-Year Fight Against Digital Surveillance",
-			"fullTitle": "Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance",
-			"author": "Cindy Cohn",
-			"link": "https://bookshop.org/p/books/privacy-s-defender-my-thirty-year-fight-against-digital-surveillance-cindy-cohn/53886568f609835d",
-			"dateStarted": "2026-08-09T00:00:00.000Z",
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/Bv41NRxj/cohn-privacys-defender.jpg",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 452,
-			"pageCount": 516,
-			"progress": 88,
-			"sortOrder": 3700,
-			"status": {
-				"name": "Reading",
-				"colorCode": "#6a208f"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Technology",
-					"colorCode": "rgb(55, 78, 146)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Audiobook",
-					"colorCode": "#b300b3"
-				}
-			]
-		},
-		{
 			"bookId": 737,
 			"title": "Why We Love Baseball",
 			"subTitle": "A History in 50 Moments",
@@ -56,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/wB1WzRSj/why-we-love-baseball.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 135,
+			"currentPage": 183,
 			"pageCount": 363,
-			"progress": 37,
+			"progress": 50,
 			"sortOrder": 4000,
 			"status": {
 				"name": "Reading",
@@ -87,6 +46,47 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 695,
+					"title": "Privacy's Defender",
+					"subTitle": "My Thirty-Year Fight Against Digital Surveillance",
+					"fullTitle": "Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance",
+					"author": "Cindy Cohn",
+					"link": "https://bookshop.org/p/books/privacy-s-defender-my-thirty-year-fight-against-digital-surveillance-cindy-cohn/53886568f609835d",
+					"dateStarted": "2026-08-09T00:00:00.000Z",
+					"dateCompleted": "2026-08-17T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "An interesting memoir talking about her time with the EFF fighting to protect our rights. The book focused on the EFF's fight for strong encryption and code as speech, fighting against mass surveillance with metadata, and national security letters. It was a unique look at Cindy's involvement in the battle for our rights and privacy.",
+					"coverImageUrl": "https://i.postimg.cc/Bv41NRxj/cohn-privacys-defender.jpg",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 516,
+					"pageCount": 516,
+					"progress": 100,
+					"sortOrder": 3700,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Technology",
+							"colorCode": "rgb(55, 78, 146)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Audiobook",
+							"colorCode": "#b300b3"
+						}
+					]
+				},
 				{
 					"bookId": 734,
 					"title": "What Kind of Mother",
