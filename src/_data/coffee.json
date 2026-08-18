@@ -1,5 +1,13 @@
 [
 	{
+		"roaster": "Broadsheet Coffee Roasters",
+		"blend": "Line Street",
+		"roast": "Medium",
+		"location": "Cambridge, MA",
+		"link": "",
+		"date": "2026-08-18"
+	},
+	{
 		"roaster": "Atomic Coffee Roasters",
 		"blend": "Rocketeer",
 		"roast": "Medium Dark",
@@ -31,13 +39,5 @@
 		"location": "Nashville, TN",
 		"link": "https://www.8thandroast.com/collections/common-voice/products/heirloom",
 		"date": "2026-07-14"
-	},
-	{
-		"roaster": "PERC Coffee",
-		"blend": "Brazil Legender",
-		"roast": "Medium",
-		"location": "Savannah, GA",
-		"link": "https://perccoffee.com/products/brazil",
-		"date": "2026-07-02"
 	}
 ]
