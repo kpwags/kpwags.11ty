@@ -1,6 +1,47 @@
 {
 	"inProgress": [
 		{
+			"bookId": 724,
+			"title": "The Women",
+			"subTitle": "",
+			"fullTitle": "The Women",
+			"author": "Kristin Hannah",
+			"link": "https://bookshop.org/p/books/the-women-a-novel-kristin-hannah/5472123ec95595c8",
+			"dateStarted": "2026-08-18T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/j51CrH15/hannah-the-women.jpg",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 108,
+			"pageCount": 897,
+			"progress": 12,
+			"sortOrder": 3920,
+			"status": {
+				"name": "Reading",
+				"colorCode": "#6a208f"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Historical Fiction",
+					"colorCode": "#da0158"
+				}
+			],
+			"formats": [
+				{
+					"name": "Audiobook",
+					"colorCode": "#b300b3"
+				}
+			]
+		},
+		{
 			"bookId": 737,
 			"title": "Why We Love Baseball",
 			"subTitle": "A History in 50 Moments",
@@ -27907,47 +27948,6 @@
 				}
 			],
 			"formats": []
-		},
-		{
-			"bookId": 724,
-			"title": "The Women",
-			"subTitle": "",
-			"fullTitle": "The Women",
-			"author": "Kristin Hannah",
-			"link": "https://bookshop.org/p/books/the-women-a-novel-kristin-hannah/5472123ec95595c8",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 3920,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Historical Fiction",
-					"colorCode": "#da0158"
-				}
-			],
-			"formats": [
-				{
-					"name": "eBook",
-					"colorCode": "#2c5813"
-				}
-			]
 		},
 		{
 			"bookId": 725,

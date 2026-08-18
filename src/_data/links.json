@@ -1,5 +1,50 @@
 [
 	{
+		"linkId": 1754,
+		"title": "Enhancing with CSS Grid Lanes",
+		"author": "Jeremy Keith",
+		"url": "https://adactio.com/journal/22613",
+		"linkDate": "2026-08-18T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1755,
+		"title": "You Got Faster. Your Company Didn’t.",
+		"author": "Matheus Lima",
+		"url": "https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/",
+		"linkDate": "2026-08-18T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1756,
+		"title": "My HTML boilerplate in 2026",
+		"author": "Manuel Matuzovic",
+		"url": "https://matuzo.at/blog/2026/html-boilerplate",
+		"linkDate": "2026-08-18T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1753,
 		"title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
 		"author": "Emanuel Maiberg",
