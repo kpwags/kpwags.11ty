@@ -19,7 +19,7 @@ I’ve toyed with the idea over the last year about possibly [moving](https://kp
     link="https://fediverse.zachleat.com/@zachleat"
     author="Zach Leatherman"
     date="December 4, 2023"
-    site="mastodon"
+    site="bluesky"
 >
     <p>Vercel’s Next.js v14 has shipped and (as one does) I had a look at the JavaScript footprint of the production build of Hello World:</p>
     <p>v14 (2023): 299 kB<br/>v13 (2022): 272 kB<br/>v12 (2021): 228 kB</p>

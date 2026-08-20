@@ -18,13 +18,17 @@
 	{% include "header.html" %}
 
 	<main>
-		<article class="post week-note">
+		<article class="post">
 			<div class="content">
-				{% postTitle title dateString subtitle %}
+				{% postTitle title %}
 
-				<div class="body">
-					{{ content }}
+				<div class="metadata">
+					<div>{{ dateString }}</div>
 				</div>
+
+				{% tagList tags %}
+
+				<div class="content post-content">{{ content }}</div>
 
 				{% if relatedPosts %}
 					<section class="related-posts">
@@ -35,14 +39,9 @@
 							{% endfor %}
 						</ul>
 					</section>
-					<hr />
-				{% else %}
-					<hr />
 				{% endif %}
 
-				<div class="footer">
-					{% tagList tags %}
-					{% replyLinks title %}
+				{% replyLinks title %}
 				</div>
 			</div>
 		</article>

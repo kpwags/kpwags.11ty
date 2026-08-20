@@ -16,7 +16,7 @@ Bezos probably remembers the spats between the Post and Trump for the last 8 yea
 And it’s funny too because Bezos’ later op-ed justifying his decision completely misses the point.
 
 {% renderTemplate "webc" %}
-<quote-link-block source="Mike Masnick" href="https://www.techdirt.com/2024/10/29/dear-jeff-bezos-the-hard-truth-is-that-cowardice-like-yours-is-why-people-dont-trust-the-media/">
+<cited-quote source="Mike Masnick" href="https://www.techdirt.com/2024/10/29/dear-jeff-bezos-the-hard-truth-is-that-cowardice-like-yours-is-why-people-dont-trust-the-media/">
 But this isn’t actually about the decision not to publish an endorsement. The real issue is **you stepping in as owner to block the endorsement** at the perfect time to show that you capitulated in advance to an authoritarian bully who has attacked your business interests in the past and has indicated he has a plan to exact revenge on all who wronged him.
  
 The principled response to such threats is to *continue doing good journalism and not back down*. The cowardly shit is to suddenly come up with an excuse for not publishing an endorsement that had already been planned.
@@ -24,7 +24,7 @@ The principled response to such threats is to *continue doing good journalism an
 ...
  
 And for what? Do you think that MAGA folks are suddenly going to come rushing to subscribe to the Washington Post now? Do you think this built up your credibility with a crew of folks who have made it clear they only wish to surround themselves with propaganda and bullshit? Is that who you want credibility with? If so, hire a propagandist and fire your journalists.
-</quote-link-block>
+</cited-quote>
 {% endrenderTemplate %}
 
 I can definitely understand why Post subscribers are cancelling. I don’t have a subscription to the Post to cancel, but I do have an Amazon Prime subscription. And while I have in the past wrestled with keeping it, the ease of it has always kept me away from the cancel page.
