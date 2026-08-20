@@ -56,9 +56,9 @@
 			"coverImageUrl": "https://i.postimg.cc/wB1WzRSj/why-we-love-baseball.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 259,
+			"currentPage": 293,
 			"pageCount": 363,
-			"progress": 71,
+			"progress": 81,
 			"sortOrder": 4000,
 			"status": {
 				"name": "Reading",
@@ -28477,6 +28477,166 @@
 				{
 					"name": "Biography / Memoir",
 					"colorCode": "rgb(68, 0, 214)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 745,
+			"title": "A Complete History of the Negro Leagues: 1884 to 1955",
+			"subTitle": "",
+			"fullTitle": "A Complete History of the Negro Leagues: 1884 to 1955",
+			"author": "Mark Ribowsky",
+			"link": "https://bookshop.org/p/books/comp-hist-negro-leg-p-mark-ribowsky/c4ab47618cf50ae4",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4070,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				},
+				{
+					"name": "Sports",
+					"colorCode": "rgb(0, 80, 20)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 746,
+			"title": "Shades of Glory",
+			"subTitle": "The Negro Leagues & the Story of African-American Baseball",
+			"fullTitle": "Shades of Glory: The Negro Leagues & the Story of African-American Baseball",
+			"author": "Lawrence D. Hogan",
+			"link": "https://bookshop.org/p/books/shades-of-glory-the-negro-leagues-the-story-of-african-american-baseball-lawrence-d-hogan/276ef51587368994",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4080,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				},
+				{
+					"name": "Sports",
+					"colorCode": "rgb(0, 80, 20)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 747,
+			"title": "Of Monarchs and Black Barons",
+			"subTitle": "Essays on Baseball's Negro Leagues",
+			"fullTitle": "Of Monarchs and Black Barons: Essays on Baseball's Negro Leagues",
+			"author": "James A. Riley",
+			"link": "https://bookshop.org/p/books/of-monarchs-and-black-barons-essays-on-baseball-s-negro-leagues-james-a-riley/ed3c33c9d7539172",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4090,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				},
+				{
+					"name": "Sports",
+					"colorCode": "rgb(0, 80, 20)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 748,
+			"title": "I Was Right On Time",
+			"subTitle": "",
+			"fullTitle": "I Was Right On Time",
+			"author": "Buck O'Neil, David Conrads & Steve Wulf",
+			"link": "https://bookshop.org/p/books/i-was-right-on-time-buck-o-neil/eab00e4361d7fd44",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4100,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Biography / Memoir",
+					"colorCode": "rgb(68, 0, 214)"
+				},
+				{
+					"name": "Sports",
+					"colorCode": "rgb(0, 80, 20)"
 				}
 			],
 			"formats": []
