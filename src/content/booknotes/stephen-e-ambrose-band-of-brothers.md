@@ -31,4 +31,4 @@ The book ends with this quote, featured in the TV series as well, which I think 
 
 > In one of has last newsletters, Mike Ranney wrote "In thinking back on the last days of Easy Company, I'm treasuring my remark to a grandson who asked 'Grandpa, were you a hero in the war?'
 > 
-> "No, I answerrd, 'but l served in a company of heroes.'"
+> "No, I answered, 'but l served in a company of heroes.'"
