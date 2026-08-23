@@ -1,6 +1,50 @@
 {
 	"inProgress": [
 		{
+			"bookId": 749,
+			"title": "The Calamities",
+			"subTitle": "",
+			"fullTitle": "The Calamities",
+			"author": "Chuck Wendig",
+			"link": "https://doylestownbookshop.com/book/9798217091812",
+			"dateStarted": "2026-08-23T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/63nt07s9/wendig-calamities.webp",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 564,
+			"progress": 1,
+			"sortOrder": 3930,
+			"status": {
+				"name": "Reading",
+				"colorCode": "#6a208f"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "The Fiends",
+				"colorCode": "#008f51"
+			},
+			"genres": [
+				{
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
 			"bookId": 724,
 			"title": "The Women",
 			"subTitle": "",
@@ -15,9 +59,9 @@
 			"coverImageUrl": "https://i.postimg.cc/j51CrH15/hannah-the-women.jpg",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 142,
+			"currentPage": 230,
 			"pageCount": 897,
-			"progress": 16,
+			"progress": 26,
 			"sortOrder": 3920,
 			"status": {
 				"name": "Reading",
@@ -40,53 +84,53 @@
 					"colorCode": "#b300b3"
 				}
 			]
-		},
-		{
-			"bookId": 737,
-			"title": "Why We Love Baseball",
-			"subTitle": "A History in 50 Moments",
-			"fullTitle": "Why We Love Baseball: A History in 50 Moments",
-			"author": "Joe Posnanski",
-			"link": "https://bookshop.org/p/books/why-we-love-baseball-a-history-in-50-moments-joe-posnanski/debbff6d40e86325",
-			"dateStarted": "2026-08-11T00:00:00.000Z",
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/wB1WzRSj/why-we-love-baseball.jpg",
-			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 293,
-			"pageCount": 363,
-			"progress": 81,
-			"sortOrder": 4000,
-			"status": {
-				"name": "Reading",
-				"colorCode": "#6a208f"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Sports",
-					"colorCode": "rgb(0, 80, 20)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Hardcover",
-					"colorCode": "#a0175f"
-				}
-			]
 		}
 	],
 	"completed": [
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 737,
+					"title": "Why We Love Baseball",
+					"subTitle": "A History in 50 Moments",
+					"fullTitle": "Why We Love Baseball: A History in 50 Moments",
+					"author": "Joe Posnanski",
+					"link": "https://bookshop.org/p/books/why-we-love-baseball-a-history-in-50-moments-joe-posnanski/debbff6d40e86325",
+					"dateStarted": "2026-08-11T00:00:00.000Z",
+					"dateCompleted": "2026-08-22T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "A lot of great baseball stories, and he’s right, they do show some of the many reasons I love baseball.",
+					"coverImageUrl": "https://i.postimg.cc/wB1WzRSj/why-we-love-baseball.jpg",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 363,
+					"pageCount": 363,
+					"progress": 100,
+					"sortOrder": 4000,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Sports",
+							"colorCode": "rgb(0, 80, 20)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Hardcover",
+							"colorCode": "#a0175f"
+						}
+					]
+				},
 				{
 					"bookId": 695,
 					"title": "Privacy's Defender",
