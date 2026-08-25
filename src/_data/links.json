@@ -1,5 +1,155 @@
 [
 	{
+		"linkId": 1771,
+		"title": "Thinking About Nothing Takes a Lot of Work",
+		"author": "Kin Lane",
+		"url": "https://kinlane.com/2026/06/29/thinking-about-nothing-takes-a-lot-of-work/",
+		"linkDate": "2026-08-25T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1772,
+		"title": "Why the accept attribute degrades file upload UX",
+		"author": "Adam Silver",
+		"url": "https://adamsilver.io/blog/why-the-accept-attribute-degrades-file-upload-ux/",
+		"linkDate": "2026-08-25T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1773,
+		"title": "Progressively enhancing Grid Lanes",
+		"author": "Manuel Matuzovic",
+		"url": "https://www.matuzo.at/blog/2026/grid-lanes-progressive-enhancement",
+		"linkDate": "2026-08-25T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1764,
+		"title": "Before and after: SpaceX rocket lunar impact crater spotted from orbit",
+		"author": "Philp Plait",
+		"url": "https://badastronomy.beehiiv.com/p/before-and-after-spacex-rocket-lunar-impact-crater-spotted-from-orbit",
+		"linkDate": "2026-08-24T00:00:00.000Z",
+		"category": {
+			"name": "Space",
+			"colorCode": "#2c0d18"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1765,
+		"title": "The New Women’s Pro Baseball League Offers Hope—And Frustrations",
+		"author": "Jen Ramos Eisen & Frankie de la Cretaz",
+		"url": "https://defector.com/the-new-womens-pro-baseball-league-offers-hope-and-frustrations",
+		"linkDate": "2026-08-24T00:00:00.000Z",
+		"category": {
+			"name": "Sports",
+			"colorCode": "#2d5f6f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1766,
+		"title": "The new bottleneck",
+		"author": "Eira May",
+		"url": "https://stackoverflow.blog/2026/06/18/the-new-bottleneck/",
+		"linkDate": "2026-08-24T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1767,
+		"title": "AI can write the code. Your team still owns the debt.",
+		"author": "Robert Curlee",
+		"url": "https://thenewstack.io/ai-technical-debt-verification/",
+		"linkDate": "2026-08-24T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1768,
+		"title": "The Need For GTA 6's Success Is A Symptom Of A Broken Industry",
+		"author": "Joshua Rivera",
+		"url": "https://aftermath.site/grand-theft-auto-vi-games-industry/",
+		"linkDate": "2026-08-24T00:00:00.000Z",
+		"category": {
+			"name": "Gaming",
+			"colorCode": "#275576"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1769,
+		"title": "What are git worktrees, and why should I use them?",
+		"author": "Cassidy Williams",
+		"url": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
+		"linkDate": "2026-08-24T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1770,
+		"title": "The 2026 College Football Offseason Recap",
+		"author": "Israel Daramola & Ray Ratto",
+		"url": "https://defector.com/the-2026-college-football-offseason-recap",
+		"linkDate": "2026-08-24T00:00:00.000Z",
+		"category": {
+			"name": "Sports",
+			"colorCode": "#2d5f6f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1761,
 		"title": "Vibe Coder vs Software Engineer",
 		"author": "Yusuf Aytas",
