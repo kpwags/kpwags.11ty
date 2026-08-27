@@ -1,5 +1,65 @@
 [
 	{
+		"linkId": 1777,
+		"title": "Worse is better: JSON versus XML",
+		"author": "Mark Seemann",
+		"url": "https://blog.ploeh.dk/2026/07/06/worse-is-better-json-versus-xml/",
+		"linkDate": "2026-08-27T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1774,
+		"title": "We took away psychological safety and then told everyone to be more productive",
+		"author": "Liz Dugan",
+		"url": "https://medium.com/design-bootcamp/we-took-away-psychological-safety-and-then-told-everyone-to-be-more-productive-47ed1fac491c",
+		"linkDate": "2026-08-26T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1775,
+		"title": "Why Good Architecture Still Fails in Production",
+		"author": "Ivan Pelivanovic",
+		"url": "https://shiftmag.dev/why-good-architecture-still-fails-in-production-9894/",
+		"linkDate": "2026-08-26T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1776,
+		"title": "Replication Is Not Innovation",
+		"author": "Christopher Butler",
+		"url": "https://www.chrbutler.com/replication-is-not-innovation",
+		"linkDate": "2026-08-26T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1771,
 		"title": "Thinking About Nothing Takes a Lot of Work",
 		"author": "Kin Lane",
