@@ -17,11 +17,11 @@ tags:
 Leave it to Randall Munroe to point out the obvious.
 <!-- excerpt -->
 
-<div style="width:266px;margin:0 auto;">
+<a href="https://xkcd.com/3290/" style="display:block;width:266px;margin:0 auto;">
 
 ![An xkcd comic with a person holding a hammer threatening his leg saying 'Listen up leg. I've been sending you rich, oxygenated blood for years, while you send me worthless used-up blood with no oxygen. Time to teach you a lesson about not ripping me off!](https://imgs.xkcd.com/comics/trade.png)
 
-</div>
+</a>
 
 The alt text is good as always.
 
