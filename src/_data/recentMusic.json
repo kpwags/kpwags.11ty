@@ -1,5 +1,73 @@
 [
 	{
+		"musicAlbumId": 296,
+		"title": "Midnight Motel",
+		"artist": "Jared Hart",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/tJ7Xx76n/jared-hart-midnight-motel.jpg",
+		"isTopTen": false,
+		"showOnNowPage": true,
+		"datePurchased": "Fri, 28 Aug 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			},
+			{
+				"name": "Vinyl",
+				"colorCode": "#a51643"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Friends with Beneficiaries"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Bridges"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Ready to Go"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Tilted"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Room Keys"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Law of Subtraction"
+			},
+			{
+				"trackNumber": 7,
+				"title": "The Mantle"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Seafoam Green"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Late Checkout"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Downwhen"
+			}
+		]
+	},
+	{
 		"musicAlbumId": 290,
 		"title": "Homesick",
 		"artist": "A Day to Remember",

@@ -59,9 +59,9 @@
 			"coverImageUrl": "https://i.postimg.cc/j51CrH15/hannah-the-women.jpg",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 462,
+			"currentPage": 573,
 			"pageCount": 897,
-			"progress": 52,
+			"progress": 64,
 			"sortOrder": 3920,
 			"status": {
 				"name": "Reading",
@@ -16139,6 +16139,51 @@
 	],
 	"toRead": [
 		{
+			"bookId": 679,
+			"title": "Of Monsters and Mainframes",
+			"subTitle": "",
+			"fullTitle": "Of Monsters and Mainframes",
+			"author": "Barbara Truelove",
+			"link": "https://bookshop.org/p/books/of-monsters-and-mainframes-barbara-truelove/e8151d9546a82f7d",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/XYgMpyTP/truelove-of-monsters-and-mainframes.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 411,
+			"progress": 0,
+			"sortOrder": 1,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
+				},
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
 			"bookId": 699,
 			"title": "Green & Deadly Things",
 			"subTitle": "",
@@ -16156,7 +16201,7 @@
 			"currentPage": 1,
 			"pageCount": 354,
 			"progress": 0,
-			"sortOrder": 1,
+			"sortOrder": 2,
 			"status": {
 				"name": "To Read",
 				"colorCode": "#313ca2"
@@ -16724,51 +16769,6 @@
 				{
 					"name": "Horror",
 					"colorCode": "rgb(146, 4, 4)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Paperback",
-					"colorCode": "#cd6a29"
-				}
-			]
-		},
-		{
-			"bookId": 679,
-			"title": "Of Monsters and Mainframes",
-			"subTitle": "",
-			"fullTitle": "Of Monsters and Mainframes",
-			"author": "Barbara Truelove",
-			"link": "https://bookshop.org/p/books/of-monsters-and-mainframes-barbara-truelove/e8151d9546a82f7d",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/XYgMpyTP/truelove-of-monsters-and-mainframes.jpg",
-			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 1,
-			"pageCount": 411,
-			"progress": 0,
-			"sortOrder": 16,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Horror",
-					"colorCode": "rgb(146, 4, 4)"
-				},
-				{
-					"name": "Science Fiction",
-					"colorCode": "rgb(102, 119, 2)"
 				}
 			],
 			"formats": [
@@ -17964,6 +17964,47 @@
 				{
 					"name": "Hardcover",
 					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 770,
+			"title": "Vietnam",
+			"subTitle": "An Epic Tragedy, 1945-1975",
+			"fullTitle": "Vietnam: An Epic Tragedy, 1945-1975",
+			"author": "Max Hastings",
+			"link": "https://bookshop.org/p/books/vietnam-an-epic-tragedy-1945-1975-max-hastings/15280704",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/gc1cdzLr/vietnamepictragedy.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 45,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": [
+				{
+					"name": "eBook",
+					"colorCode": "#2c5813"
 				}
 			]
 		},

@@ -1,5 +1,140 @@
 [
 	{
+		"linkId": 1781,
+		"title": "I Think I Have LLM Burnout",
+		"author": "Alec Scollon",
+		"url": "https://www.alecscollon.com/blog/llm-burnout/",
+		"linkDate": "2026-08-29T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1782,
+		"title": "Americans are cheering for vigilantes who take down Flock cameras",
+		"author": "Janus Rose",
+		"url": "https://www.theverge.com/tech/985155/flock-camera-destruction-vigilantes",
+		"linkDate": "2026-08-29T00:00:00.000Z",
+		"category": {
+			"name": "Privacy",
+			"colorCode": "#26a269"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1783,
+		"title": "Why Reading Matters",
+		"author": "Cal Newport",
+		"url": "https://calnewport.com/why-reading-matters/",
+		"linkDate": "2026-08-29T00:00:00.000Z",
+		"category": {
+			"name": "Books",
+			"colorCode": "#a30000"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1784,
+		"title": "Code is a Medium for Thought",
+		"author": "Amelia Wattenberger",
+		"url": "https://wattenberger.com/thoughts/code-is-a-medium-for-thought/",
+		"linkDate": "2026-08-29T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1785,
+		"title": "C# Tip: Use required members to prevent invalid object initialization (beware of SetsRequiredMembers attribute!)",
+		"author": "Davide Bellone",
+		"url": "https://www.code4it.dev/csharptips/required-members-and-setrequiredmembers-attribute/",
+		"linkDate": "2026-08-29T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1786,
+		"title": "In defense of polyfills",
+		"author": "Lea Verou",
+		"url": "https://lea.verou.me/blog/2026/polyfills/",
+		"linkDate": "2026-08-29T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1778,
+		"title": "Blogging Can Just Be Stating The Obvious",
+		"author": "Jim Nielsen",
+		"url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+		"linkDate": "2026-08-28T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1779,
+		"title": "A New Browser Vision?",
+		"author": "Brian Kardell",
+		"url": "https://bkardell.com/blog/NewBrowserVision.html",
+		"linkDate": "2026-08-28T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1780,
+		"title": "What Akron's tire collapse can teach us about the AI economy",
+		"author": "David Brancaccio",
+		"url": "https://www.marketplace.org/story/2026/08/26/akrons-tire-collapse-holds-lessons-for-ai",
+		"linkDate": "2026-08-28T00:00:00.000Z",
+		"category": {
+			"name": "Business & Finance",
+			"colorCode": "#0d5430"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1777,
 		"title": "Worse is better: JSON versus XML",
 		"author": "Mark Seemann",
