@@ -1,5 +1,80 @@
 [
 	{
+		"linkId": 1788,
+		"title": "5 Software Architecture Mistakes That Make Systems Hard to Change",
+		"author": "Derek Comartin",
+		"url": "https://codeopinion.com/5-software-architecture-mistakes/",
+		"linkDate": "2026-08-30T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1789,
+		"title": "The Best Code is the One You Shift+Delete",
+		"author": "Ayende Rahien",
+		"url": "https://ravendb.net/articles/the-best-code-is-the-one-you-shift-delete",
+		"linkDate": "2026-08-30T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1790,
+		"title": "The code review bug hunt is dead. Here’s what developers get wrong.",
+		"author": "Adrian Bridgwater",
+		"url": "https://thenewstack.io/code-review-catches-maintainability-bugs/",
+		"linkDate": "2026-08-30T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1791,
+		"title": "Improvements to reading Process outputs",
+		"author": "Andrew Lock",
+		"url": "https://andrewlock.net/exploring-the-dotnet-11-preview-5-improvments-to-process-apis/",
+		"linkDate": "2026-08-30T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1792,
+		"title": "The maverick scientist trying to save coffee from extinction",
+		"author": "The Economist",
+		"url": "https://www.economist.com/interactive/1843/2026/07/23/the-maverick-scientist-trying-to-save-coffee-from-extinction",
+		"linkDate": "2026-08-30T00:00:00.000Z",
+		"category": {
+			"name": "Climate",
+			"colorCode": "#9a702d"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1781,
 		"title": "I Think I Have LLM Burnout",
 		"author": "Alec Scollon",
