@@ -10100,6 +10100,78 @@
 		]
 	},
 	{
+		"musicAlbumId": 297,
+		"title": "Caution",
+		"artist": "Hot Water Music",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/hv8Gj7F9/hot-water-music-caution.webp",
+		"isTopTen": false,
+		"showOnNowPage": true,
+		"datePurchased": "Tue, 01 Sep 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Remedy"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Trusty Chords"
+			},
+			{
+				"trackNumber": 3,
+				"title": "I Was on a Mountain"
+			},
+			{
+				"trackNumber": 4,
+				"title": "One Step to Slip"
+			},
+			{
+				"trackNumber": 5,
+				"title": "It's All Related"
+			},
+			{
+				"trackNumber": 6,
+				"title": "The Sense"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Not for Anyone"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Sweet Disasters"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Alright for Now"
+			},
+			{
+				"trackNumber": 10,
+				"title": "We'll Say Anything We Want"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Wayfarer"
+			},
+			{
+				"trackNumber": 12,
+				"title": "The End"
+			}
+		]
+	},
+	{
 		"musicAlbumId": 265,
 		"title": "Fuel for the Hate Game",
 		"artist": "Hot Water Music",
