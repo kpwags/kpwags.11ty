@@ -1,5 +1,413 @@
 [
 	{
+		"musicAlbumId": 298,
+		"title": "Hause Family Campfire - Volume 1",
+		"artist": "Dave Hause",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/PxzJLBDT/hause-family-campfire-1.webp",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 04 Sep 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			},
+			{
+				"name": "Vinyl",
+				"colorCode": "#a51643"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Wildflowers"
+			},
+			{
+				"trackNumber": 2,
+				"title": "The Cheapest Key"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Hanalei"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Shamrock"
+			},
+			{
+				"trackNumber": 5,
+				"title": "(What's So Funny 'Bout) Peace Love and Understanding"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Hard on Everyone"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Gary"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Magazines"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Fireflies"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Dancing in the Dark"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 299,
+		"title": "The Stubbornness of the Young",
+		"artist": "Chris Cresswell",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/wxbhVmP0/chris-cresswell-stubbornness.webp",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 04 Sep 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Behind the Crow"
+			},
+			{
+				"trackNumber": 2,
+				"title": "On Precious Ground"
+			},
+			{
+				"trackNumber": 3,
+				"title": "The Ink"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Roam"
+			},
+			{
+				"trackNumber": 5,
+				"title": "You Don't Wanna Listen to Me"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Noticing You"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Let This Go"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Comandeer"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Follow Me"
+			},
+			{
+				"trackNumber": 10,
+				"title": "A Force to Be Reckoned With"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 300,
+		"title": "The Inside Man",
+		"artist": "Chris Cresswell",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/RCbcRH8g/chris-cresswell-inside-man.webp",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 04 Sep 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "So Lonely"
+			},
+			{
+				"trackNumber": 2,
+				"title": "We Will Become Silhouettes"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Dancing On My Own"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Tired of Being Alone"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Waiting Room"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Watching the Wheels"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Nothing With You"
+			},
+			{
+				"trackNumber": 8,
+				"title": "In My Room"
+			},
+			{
+				"trackNumber": 9,
+				"title": "When You're Gone (featuring Sarah Cogan)"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Hate it Here (featuring Paul Ramirez & Dave Grabowski)"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 301,
+		"title": "Lucky Seven",
+		"artist": "The Scandals",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/8knhH630/scandals-lucky-seven.webp",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 04 Sep 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Lucky 7's"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Emerald City"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Hostage"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Birthmarks"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Calling Cards"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 302,
+		"title": "Katy Bar the Door / Living Undercover",
+		"artist": "Rise Against",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/h439rdw3/rise-against-katy.webp",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 04 Sep 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Katy Bar the Door"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Living Undercover"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 303,
+		"title": "Hurricane Season",
+		"artist": "Dan Andriano in the Emergency Room",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/Y2y13WVD/dan-andriano-hurricane-season.webp",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 04 Sep 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "It's Gonna Rain All Day"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Hurricane Season"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Hollow Sounds"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Let Me In"
+			},
+			{
+				"trackNumber": 5,
+				"title": "This Light"
+			},
+			{
+				"trackNumber": 6,
+				"title": "On Monday"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Me and Denver"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Say Say Say"
+			},
+			{
+				"trackNumber": 9,
+				"title": "The Last Day We Ever Close Our Eyes"
+			},
+			{
+				"trackNumber": 10,
+				"title": "From This Oil Can"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 304,
+		"title": "Party Adjacent",
+		"artist": "Dan Andriano in the Emergency Room",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/QNnpbTP4/dan-andriano-party-adjacent.webp",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 04 Sep 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Pretty Teeth"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Wait"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Eye Contact"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Don't Have a Thing"
+			},
+			{
+				"trackNumber": 5,
+				"title": "My Human Being"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Haunt Your House"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Fire Pit"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Enemies"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Lowrider"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Plain Old Whiskey"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Lost"
+			},
+			{
+				"trackNumber": 12,
+				"title": "Snake Bites"
+			}
+		]
+	},
+	{
 		"musicAlbumId": 297,
 		"title": "Caution",
 		"artist": "Hot Water Music",
