@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/63nt07s9/wendig-calamities.webp",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 159,
+			"currentPage": 309,
 			"pageCount": 564,
-			"progress": 28,
+			"progress": 55,
 			"sortOrder": 3930,
 			"status": {
 				"name": "Reading",
@@ -43,53 +43,53 @@
 					"colorCode": "#a0175f"
 				}
 			]
-		},
-		{
-			"bookId": 724,
-			"title": "The Women",
-			"subTitle": "",
-			"fullTitle": "The Women",
-			"author": "Kristin Hannah",
-			"link": "https://bookshop.org/p/books/the-women-a-novel-kristin-hannah/5472123ec95595c8",
-			"dateStarted": "2026-08-18T00:00:00.000Z",
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/j51CrH15/hannah-the-women.jpg",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 849,
-			"pageCount": 897,
-			"progress": 95,
-			"sortOrder": 3920,
-			"status": {
-				"name": "Reading",
-				"colorCode": "#6a208f"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Historical Fiction",
-					"colorCode": "#da0158"
-				}
-			],
-			"formats": [
-				{
-					"name": "Audiobook",
-					"colorCode": "#b300b3"
-				}
-			]
 		}
 	],
 	"completed": [
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 724,
+					"title": "The Women",
+					"subTitle": "",
+					"fullTitle": "The Women",
+					"author": "Kristin Hannah",
+					"link": "https://bookshop.org/p/books/the-women-a-novel-kristin-hannah/5472123ec95595c8",
+					"dateStarted": "2026-08-18T00:00:00.000Z",
+					"dateCompleted": "2026-09-04T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "A tough read, but good. It’s historical fiction but it speaks to the challenges veterans, especially the women, faced coming back from Vietnam.",
+					"coverImageUrl": "https://i.postimg.cc/j51CrH15/hannah-the-women.jpg",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 897,
+					"pageCount": 897,
+					"progress": 100,
+					"sortOrder": 3920,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Historical Fiction",
+							"colorCode": "#da0158"
+						}
+					],
+					"formats": [
+						{
+							"name": "Audiobook",
+							"colorCode": "#b300b3"
+						}
+					]
+				},
 				{
 					"bookId": 737,
 					"title": "Why We Love Baseball",

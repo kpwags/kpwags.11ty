@@ -1,5 +1,80 @@
 [
 	{
+		"linkId": 1793,
+		"title": "The Lost Joy of Music Piracy",
+		"author": "Eden Dasilva",
+		"url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+		"linkDate": "2026-09-02T00:00:00.000Z",
+		"category": {
+			"name": "The Internet",
+			"colorCode": "#8b3d15"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1794,
+		"title": "The Era of Personal Software",
+		"author": "Allen Hutchison",
+		"url": "https://allen.hutchison.org/2025/11/28/the-era-of-personal-software/",
+		"linkDate": "2026-09-02T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1795,
+		"title": "Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends",
+		"author": "Andrew Lock",
+		"url": "https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/",
+		"linkDate": "2026-09-02T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1796,
+		"title": "Clean Architecture vs Modular Monolith in C#: What's the Difference?",
+		"author": "Nick Cosentino",
+		"url": "https://www.devleader.ca/2026/07/28/clean-architecture-vs-modular-monolith-in-c-whats-the-difference",
+		"linkDate": "2026-09-02T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1797,
+		"title": "Should we still design code for humans?",
+		"author": "Valentina Servile",
+		"url": "https://www.thoughtworks.com/insights/blog/programming-languages/should-still-design-code-humans",
+		"linkDate": "2026-09-02T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1788,
 		"title": "5 Software Architecture Mistakes That Make Systems Hard to Change",
 		"author": "Derek Comartin",
