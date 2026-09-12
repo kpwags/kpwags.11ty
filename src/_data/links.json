@@ -1,5 +1,65 @@
 [
 	{
+		"linkId": 1798,
+		"title": "The Complete Package: Why Debugging Is Only Half the C# Productivity Story",
+		"author": "Isaac Levin",
+		"url": "https://blog.jetbrains.com/dotnet/2026/07/30/the-complete-package-why-debugging-is-only-half-the-csharp-productivity-story/",
+		"linkDate": "2026-09-08T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1799,
+		"title": "Websites Are Not Going to Die",
+		"author": "Jens Oliver Meiert",
+		"url": "https://meiert.com/blog/websites-are-not-going-to-die/",
+		"linkDate": "2026-09-08T00:00:00.000Z",
+		"category": {
+			"name": "The Internet",
+			"colorCode": "#8b3d15"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1800,
+		"title": "The Web Won Because It Got Easier",
+		"author": "Gordon McLean",
+		"url": "https://www.gordonmclean.co.uk/2026/06/18/on-the-indiefediactivitymastoweb/",
+		"linkDate": "2026-09-08T00:00:00.000Z",
+		"category": {
+			"name": "The Internet",
+			"colorCode": "#8b3d15"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1801,
+		"title": "Another Reason Not to Use “AI” For Your Writing",
+		"author": "John Scalzi",
+		"url": "https://whatever.scalzi.com/2026/07/31/another-reason-not-to-use-ai-for-your-writing/",
+		"linkDate": "2026-09-08T00:00:00.000Z",
+		"category": {
+			"name": "Writing",
+			"colorCode": "#371a94"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1793,
 		"title": "The Lost Joy of Music Piracy",
 		"author": "Eden Dasilva",
