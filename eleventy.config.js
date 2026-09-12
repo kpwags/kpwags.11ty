@@ -27,6 +27,7 @@ import { rssClub } from './src/filters/rssClub-filter.js';
 import { tagFilter } from './src/filters/tagFilter-filter.js';
 import { rssPostTitle } from './src/filters/rssPostTitle-filter.js';
 
+import { sharedLink } from './src/shortcodes/sharedLink-shortcode.js';
 import youTubeShortcode from './src/shortcodes/youTube-shortcode.js';
 import starRatingShortcode from './src/shortcodes/starRating-shortcode.js';
 import tagListShortcode from './src/shortcodes/tagList-shortcode.js';
@@ -115,6 +116,8 @@ export default function (eleventyConfig) {
     eleventyConfig.addShortcode('replyLinks', replyLinksShortcode);
     eleventyConfig.addShortcode('postTitle', postTitleShortcode);
     eleventyConfig.addShortcode('concert', concertShortcode);
+
+    eleventyConfig.addPairedShortcode('sharedLink', sharedLink);
 
     return {
         templateFormats: [
