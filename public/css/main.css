@@ -946,6 +946,22 @@ article.reading-log .metadata {
 .post-content p + h2 {
 	margin-top: 48px;
 }
+
+.post p:has(picture) {
+	justify-content: center;
+	display: flex;
+	margin-left: 32px;
+	margin-right: 32px;
+}
+
+@media (max-width: 500px) {
+	.post p:has(picture) {
+		justify-content: center;
+		display: flex;
+		margin-left: 16px;
+		margin-right: 16px;
+	}
+}
 /* ---- END POST CONTENT ---- */
 
 /* ---- PAGINATION ---- */
@@ -1064,3 +1080,29 @@ ul.tag-list li:hover a {
 	display: none;
 }
 /* ---- END INTERESTING LINKS ---- */
+
+/* ---- CREDITED IMAGE ---- */
+.credited-image {
+	margin-bottom: 32px;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	gap: 4px;
+}
+
+.credited-image .image picture {
+	margin: 0 32px;
+}
+
+@media (max-width: 500px) {
+	.credited-image .image picture {
+		margin: 0 16px;
+	}
+}
+
+.credited-image .credit {
+	font-style: italic;
+	font-size: 0.8rem;
+	text-align: center;
+}
+/* ---- END CREDITED IMAGE ---- */

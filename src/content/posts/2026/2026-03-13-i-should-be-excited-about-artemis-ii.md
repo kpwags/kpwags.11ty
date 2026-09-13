@@ -29,7 +29,6 @@ The other thing I've noticed is that there's been little press about the mission
 
 And despite the [lunacy of the Artemis Program](/posts/2024/09/19/the-lunacy-of-artemis/), I still am in awe of the engineering and science it takes to launch rockets into space and send spacecraft, manned or unmanned, to other celestial bodies. And it is a nice looking rocket.
 
-{% image "./images/artemis-ii-sls.jpg", "The SLS rocket carrying Artemis II rolling on the crawler." %}
-<div class="image-credit">Credit: NASA</div>
+{% creditedImage "./images/artemis-ii-sls.jpg", "The SLS rocket carrying Artemis II rolling on the crawler.", "NASA" %}
 
 Despite the lessened excitement, I'm looking forward to watching the launch and following the mission. Here's hoping the mission will go smoothly and safely.
