@@ -1,5 +1,65 @@
 [
 	{
+		"linkId": 1804,
+		"title": "Why the gender pay gap holds back productivity",
+		"author": "Justin Ho",
+		"url": "https://www.marketplace.org/story/2026/09/11/why-the-gender-pay-gap-holds-back-productivity#why-the-gender-pay-gap-holds-back-productivity",
+		"linkDate": "2026-09-13T00:00:00.000Z",
+		"category": {
+			"name": "Economics",
+			"colorCode": "#4f7a28"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1805,
+		"title": "The loan at the heart of a new foreclosure crisis",
+		"author": "Planet Money",
+		"url": "https://www.npr.org/2026/09/11/nx-s1-5966574/baltimore-foreclosure-crisis-dscr-loan",
+		"linkDate": "2026-09-13T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1802,
+		"title": "1Password wades into a right-wing mess after funding a Linux project",
+		"author": "TC Sottek",
+		"url": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
+		"linkDate": "2026-09-12T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1803,
+		"title": "1Password Supports the Ethnic Cleansing of Europe",
+		"author": "Andrew Lilley Brinker",
+		"url": "https://www.alilleybrinker.com/blog/1password-funds-ethnic-cleansing/",
+		"linkDate": "2026-09-12T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1798,
 		"title": "The Complete Package: Why Debugging Is Only Half the C# Productivity Story",
 		"author": "Isaac Levin",
