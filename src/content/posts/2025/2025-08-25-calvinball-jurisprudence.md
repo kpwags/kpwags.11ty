@@ -13,9 +13,9 @@ Supreme Court Justice Ketanji Brown Jackson had a damning dissent in a recent ru
 <!-- excerpt -->
 
 {% renderTemplate "webc" %}
-<quote-link-block href="https://www.supremecourt.gov/opinions/24pdf/25a103_kh7p.pdf" source="Justice Ketanji Brown Jackson">
+<cited-quote href="https://www.supremecourt.gov/opinions/24pdf/25a103_kh7p.pdf" source="Justice Ketanji Brown Jackson">
   This is Calvinball jurisprudence with a twist. Calvinball has only one rule: There are no fixed rules. We seem to have two: that one, and this Administration always wins.
-</quote-link-block>
+</cited-quote>
 {% endrenderTemplate %}
 
 As a Calvin & Hobbes fan, I'm amused that it's made its way into a SCOTUS ruling. At the same time I'm horrified due to it's meaning with regards to the rule of law here in America.

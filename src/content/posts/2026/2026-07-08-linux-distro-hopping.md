@@ -8,9 +8,9 @@ rss_only: false
 pinned: false
 spoilers: false
 relatedPosts: [  
-  { title: 'Linux as a Hedge Against Monitoring', url: '/posts/2026/linux-as-a-hedge-against-monitoring/' },
-  { title: 'Gaming on Linux', url: '/posts/2026/gaming-on-linux/' },  
-  { title: 'Linux as a Daily Driver', url: '/posts/2025/12/23/linux-as-a-daily-driver/' },
+  { title: 'Linux as a Hedge Against Monitoring', url: '/posts/2026/linux-as-a-hedge-against-monitoring/', date: '7/3/2026' },
+  { title: 'Gaming on Linux', url: '/posts/2026/gaming-on-linux/', date: '6/30/2026' },  
+  { title: 'Linux as a Daily Driver', url: '/posts/2025/12/23/linux-as-a-daily-driver/', date: '12/23/2025' },
 ]
 tags:
   - Linux
