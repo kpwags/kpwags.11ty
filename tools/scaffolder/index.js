@@ -366,6 +366,7 @@ const buildReadingLogTemplate = async () => {
 title: 'Reading Log - ${getLongDate()} (#${readingLogIssue})'
 date: '${getDate()}'
 permalink: /reading-log/${readingLogIssue}/index.html
+previous: ${readingLogIssue - 1}
 tags:
   - Reading Log
 ---
@@ -430,6 +431,7 @@ title: "${title}"
 description: "My week notes for the week of ${startMonth} ${startDate} through ${endMonth} ${endDate}."
 date: '${getDate()}'
 permalink: /week-note/${issueNumber}/index.html
+previous: ${issueNumber - 1}
 tags:
 ${weekNoteTags}
 ---
