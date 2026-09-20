@@ -1292,3 +1292,55 @@ section.links .links-list li .category span.tag.type {
 	margin: 0 32px;
 }
 /* ---- END USES ---- */
+
+/* ---- WORK ---- */
+section.work article.work-project {
+	margin-bottom: 64px;
+}
+
+section.work article.work-project h2 {
+	font-size: 2rem;
+	display: flex;
+	gap: 32px;
+	align-items: center;
+}
+
+section.work article.work-project .image {
+	display: flex;
+	justify-content: center;
+	margin: 32px 0;
+}
+
+section.work article.work-project .image img {
+	max-width: 80%;
+}
+
+section.work article.work-project .tag {
+	border-radius: 6px;
+	color: oklch(100% 0 0);
+	padding: 4px 12px;
+	font-size: 1rem;
+}
+
+section.work article.work-project .tag.red {
+	background-color: oklch(0.5529 0.2146 29.23);
+}
+
+section.work article.work-project .tag.green {
+	background-color: oklch(0.4824 0.1554 144);
+}
+
+section.work article.work-project .description p:last-of-type {
+	margin-bottom: 0;
+}
+
+@media (max-width: 700px) {
+	section.work article.work-project h2 {
+		display: block;
+	}
+
+	section.work article.work-project h2 span:not(.tag) {
+		display: block;
+	}
+}
+/* ---- END WORK ---- */
