@@ -1,5 +1,13 @@
 [
 	{
+		"roaster": "Huckleberry Roasters",
+		"blend": "Flores Belas",
+		"roast": "Medium",
+		"location": "Denver, CO",
+		"link": "https://www.huckleberryroasters.com/shop/products/flores-belas?Size=12+OZ",
+		"date": "2026-09-14"
+	},
+	{
 		"roaster": "Broadsheet Coffee Roasters",
 		"blend": "Line Street",
 		"roast": "Medium",
@@ -31,13 +39,5 @@
 		"link": "https://smallplanescoffee.com/products/gateway",
 		"thoughts": "",
 		"date": "2026-07-20"
-	},
-	{
-		"roaster": "8th & Roast Coffee Co.",
-		"blend": "Common Voice: Heirloom",
-		"roast": "Medium",
-		"location": "Nashville, TN",
-		"link": "https://www.8thandroast.com/collections/common-voice/products/heirloom",
-		"date": "2026-07-14"
-	}
+	}	
 ]

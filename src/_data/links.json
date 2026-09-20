@@ -1,5 +1,95 @@
 [
 	{
+		"linkId": 1811,
+		"title": "Hackers Stole Flock’s Camera Software, Revealing How the Company Tracks Cars and People",
+		"author": "Joseph Cox & Dhruv Mehrotra",
+		"url": "https://www.404media.co/hackers-stole-flocks-camera-software-revealing-how-the-company-tracks-cars-and-people-2/",
+		"linkDate": "2026-09-18T00:00:00.000Z",
+		"category": {
+			"name": "Privacy",
+			"colorCode": "#26a269"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1810,
+		"title": "What Do Booksellers Make Of “The End Of Reading”?",
+		"author": "Joel Pinckney",
+		"url": "https://defector.com/what-do-booksellers-make-of-the-end-of-reading",
+		"linkDate": "2026-09-16T00:00:00.000Z",
+		"category": {
+			"name": "Books",
+			"colorCode": "#a30000"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1806,
+		"title": "Fighting for the Future of Libraries (With Jennie Rose Halperin)",
+		"author": "404 Media Podcast",
+		"url": "https://www.404media.co/fighting-for-the-future-of-libraries-with-jennie-rose-halperin/",
+		"linkDate": "2026-09-15T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1807,
+		"title": "The Future of Deepfakes and the Decline of Reality (With Hany Farid)",
+		"author": "404 Media Podcast",
+		"url": "https://www.404media.co/the-future-of-deepfakes-and-the-decline-of-reality-with-hany-farid/",
+		"linkDate": "2026-09-15T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1808,
+		"title": "Web Security is Too Hard",
+		"author": "Eric Law",
+		"url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+		"linkDate": "2026-09-15T00:00:00.000Z",
+		"category": {
+			"name": "The Internet",
+			"colorCode": "#8b3d15"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1809,
+		"title": "The CSS Zen Garden dream, finally shipped",
+		"author": "Jo Sprague",
+		"url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
+		"linkDate": "2026-09-15T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1804,
 		"title": "Why the gender pay gap holds back productivity",
 		"author": "Justin Ho",

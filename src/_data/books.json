@@ -1,24 +1,24 @@
 {
 	"inProgress": [
 		{
-			"bookId": 728,
-			"title": "Body Electric",
-			"subTitle": "The Hidden Health Costs of the Digital Age and New Science to Reclaim Your Well-Being",
-			"fullTitle": "Body Electric: The Hidden Health Costs of the Digital Age and New Science to Reclaim Your Well-Being",
-			"author": "Manoush Zomorodi",
-			"link": "https://bookshop.org/p/books/body-electric-the-hidden-health-costs-of-the-digital-age-and-new-science-to-reclaim-your-well-being-keith-diaz-phd/89845c6f7856af68",
-			"dateStarted": "2026-09-08T00:00:00.000Z",
+			"bookId": 772,
+			"title": "1873",
+			"subTitle": "The Rothschilds, the First Great Depression, and the Making of the Modern World  Liaquat Ahamed",
+			"fullTitle": "1873: The Rothschilds, the First Great Depression, and the Making of the Modern World  Liaquat Ahamed",
+			"author": "Liaquat Ahamed",
+			"link": "https://bookshop.org/p/books/1873-the-rothschilds-the-first-great-depression-and-the-making-of-the-modern-world-liaquat-ahamed/bedb61cf185c4554",
+			"dateStarted": "2026-09-17T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/zGmy0Qxm/zomorodi-body-electric.webp",
+			"coverImageUrl": "https://i.postimg.cc/8Pkrf8zb/ahamed-1873.jpg",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 283,
-			"pageCount": 484,
-			"progress": 58,
-			"sortOrder": 3940,
+			"currentPage": 75,
+			"pageCount": 274,
+			"progress": 27,
+			"sortOrder": 4110,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
@@ -30,52 +30,8 @@
 			"series": null,
 			"genres": [
 				{
-					"name": "Technology",
-					"colorCode": "rgb(55, 78, 146)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Audiobook",
-					"colorCode": "#b300b3"
-				}
-			]
-		},
-		{
-			"bookId": 749,
-			"title": "The Calamities",
-			"subTitle": "",
-			"fullTitle": "The Calamities",
-			"author": "Chuck Wendig",
-			"link": "https://doylestownbookshop.com/book/9798217091812",
-			"dateStarted": "2026-08-23T00:00:00.000Z",
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/63nt07s9/wendig-calamities.webp",
-			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 491,
-			"pageCount": 564,
-			"progress": 87,
-			"sortOrder": 3930,
-			"status": {
-				"name": "Reading",
-				"colorCode": "#6a208f"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": {
-				"name": "The Fiends",
-				"colorCode": "#008f51"
-			},
-			"genres": [
-				{
-					"name": "Horror",
-					"colorCode": "rgb(146, 4, 4)"
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
 				}
 			],
 			"formats": [
@@ -84,53 +40,138 @@
 					"colorCode": "#a0175f"
 				}
 			]
-		},
-		{
-			"bookId": 773,
-			"title": "The Subtle Art of Folding Space",
-			"subTitle": "",
-			"fullTitle": "The Subtle Art of Folding Space",
-			"author": "John Chu",
-			"link": "https://bookshop.org/p/books/the-subtle-art-of-folding-space-john-chu/82fa36c6edeab94d",
-			"dateStarted": "2026-09-11T00:00:00.000Z",
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/C5Fggp8W/chu-subtle-art-of-folding-space.webp",
-			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 274,
-			"pageCount": 445,
-			"progress": 62,
-			"sortOrder": 4120,
-			"status": {
-				"name": "Reading",
-				"colorCode": "#6a208f"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Science Fiction",
-					"colorCode": "rgb(102, 119, 2)"
-				}
-			],
-			"formats": [
-				{
-					"name": "eBook",
-					"colorCode": "#2c5813"
-				}
-			]
 		}
 	],
 	"completed": [
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 749,
+					"title": "The Calamities",
+					"subTitle": "",
+					"fullTitle": "The Calamities",
+					"author": "Chuck Wendig",
+					"link": "https://doylestownbookshop.com/book/9798217091812",
+					"dateStarted": "2026-08-23T00:00:00.000Z",
+					"dateCompleted": "2026-09-16T00:00:00.000Z",
+					"rating": 4,
+					"bookNotesUrl": "",
+					"thoughts": "A gripping story with good characters that makes me want the sequel to come out soon",
+					"coverImageUrl": "https://i.postimg.cc/63nt07s9/wendig-calamities.webp",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 564,
+					"pageCount": 564,
+					"progress": 100,
+					"sortOrder": 3930,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": {
+						"name": "The Fiends",
+						"colorCode": "#008f51"
+					},
+					"genres": [
+						{
+							"name": "Horror",
+							"colorCode": "rgb(146, 4, 4)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Hardcover",
+							"colorCode": "#a0175f"
+						}
+					]
+				},
+				{
+					"bookId": 728,
+					"title": "Body Electric",
+					"subTitle": "The Hidden Health Costs of the Digital Age and New Science to Reclaim Your Well-Being",
+					"fullTitle": "Body Electric: The Hidden Health Costs of the Digital Age and New Science to Reclaim Your Well-Being",
+					"author": "Manoush Zomorodi",
+					"link": "https://bookshop.org/p/books/body-electric-the-hidden-health-costs-of-the-digital-age-and-new-science-to-reclaim-your-well-being-keith-diaz-phd/89845c6f7856af68",
+					"dateStarted": "2026-09-08T00:00:00.000Z",
+					"dateCompleted": "2026-09-16T00:00:00.000Z",
+					"rating": 2,
+					"bookNotesUrl": "",
+					"thoughts": "This provided some insight into some of the dangers of becoming too sedentary and some suggestions on how to help right yourself. I know it was not the author's intent, but it sometimes felt a little too \"new agey\" for my tastes.",
+					"coverImageUrl": "https://i.postimg.cc/zGmy0Qxm/zomorodi-body-electric.webp",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 484,
+					"pageCount": 484,
+					"progress": 100,
+					"sortOrder": 3940,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Technology",
+							"colorCode": "rgb(55, 78, 146)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Audiobook",
+							"colorCode": "#b300b3"
+						}
+					]
+				},
+				{
+					"bookId": 773,
+					"title": "The Subtle Art of Folding Space",
+					"subTitle": "",
+					"fullTitle": "The Subtle Art of Folding Space",
+					"author": "John Chu",
+					"link": "https://bookshop.org/p/books/the-subtle-art-of-folding-space-john-chu/82fa36c6edeab94d",
+					"dateStarted": "2026-09-11T00:00:00.000Z",
+					"dateCompleted": "2026-09-16T00:00:00.000Z",
+					"rating": 2,
+					"bookNotesUrl": "",
+					"thoughts": "I liked this better the first time I read it. There were a lot of good ideas in it, just missed the execution.",
+					"coverImageUrl": "https://i.postimg.cc/C5Fggp8W/chu-subtle-art-of-folding-space.webp",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 445,
+					"pageCount": 445,
+					"progress": 100,
+					"sortOrder": 4120,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Science Fiction",
+							"colorCode": "rgb(102, 119, 2)"
+						}
+					],
+					"formats": [
+						{
+							"name": "eBook",
+							"colorCode": "#2c5813"
+						}
+					]
+				},
 				{
 					"bookId": 724,
 					"title": "The Women",
@@ -18091,6 +18132,304 @@
 			]
 		},
 		{
+			"bookId": 774,
+			"title": "The Devils",
+			"subTitle": "",
+			"fullTitle": "The Devils",
+			"author": "Joe Abercrombie",
+			"link": "https://bookshop.org/p/books/the-devils-joe-abercrombie/be943596eb5862af",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/15RNVx3c/abercrombie-the-devils.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 547,
+			"progress": 0,
+			"sortOrder": 46,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 775,
+			"title": "Biological War",
+			"subTitle": "",
+			"fullTitle": "Biological War",
+			"author": "Anne Jacobsen",
+			"link": "https://bookshop.org/p/books/biological-war-a-scenario-annie-jacobsen/19e468e1bd74b47d",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/QxNWKLdS/jacobsen-biological-war.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 320,
+			"progress": 0,
+			"sortOrder": 47,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Politics",
+					"colorCode": "rgb(130, 40, 40)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 776,
+			"title": "I Know a Place",
+			"subTitle": "Rest Stop and Other Dark Detours",
+			"fullTitle": "I Know a Place: Rest Stop and Other Dark Detours",
+			"author": "Nat Cassidy",
+			"link": "https://bookshop.org/p/books/i-know-a-place-rest-stop-and-other-dark-detours-nat-cassidy/ab9f93862551bda7",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/c418tqLm/cassidy-i-know-a-place.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 505,
+			"progress": 0,
+			"sortOrder": 48,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 777,
+			"title": "Mary",
+			"subTitle": "An Awakening of Terror",
+			"fullTitle": "Mary: An Awakening of Terror",
+			"author": "Nat Cassidy",
+			"link": "https://bookshop.org/p/books/mary-an-awakening-of-terror-nat-cassidy/28b51fe58531b428",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/qMBC6fvm/cassidy-mary.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 402,
+			"progress": 0,
+			"sortOrder": 49,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 778,
+			"title": "The Gales of November",
+			"subTitle": "The Untold Story of the Edmund Fitzgerald",
+			"fullTitle": "The Gales of November: The Untold Story of the Edmund Fitzgerald",
+			"author": "John U. Bacon",
+			"link": "https://bookshop.org/p/books/the-gales-of-november-the-untold-story-of-the-edmund-fitzgerald-john-u-bacon/67456f2483e0da10",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/Yq2mLcCz/bacon-gales-of-november.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 389,
+			"progress": 0,
+			"sortOrder": 50,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 779,
+			"title": "Dungeon Crawler Carl",
+			"subTitle": "",
+			"fullTitle": "Dungeon Crawler Carl",
+			"author": "Matt Dinniman",
+			"link": "https://bookshop.org/p/books/dungeon-crawler-carl-matt-dinniman/0cdd8387d0a86880",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/CLMfnyx7/dinniman-dungeon-crawler-carl.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 427,
+			"progress": 0,
+			"sortOrder": 51,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "Dungeon Crawler Carl",
+				"colorCode": "#9141ac"
+			},
+			"genres": [
+				{
+					"name": "Fantasy",
+					"colorCode": "rgb(172, 152, 5)"
+				},
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 780,
+			"title": "Dead But Dreaming of Electric Sheep",
+			"subTitle": "",
+			"fullTitle": "Dead But Dreaming of Electric Sheep",
+			"author": "Paul Tremblay",
+			"link": "https://bookshop.org/p/books/dead-but-dreaming-of-electric-sheep-a-novel-paul-tremblay/ef0ae7d082a5722d",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/HsW78GkZ/tremblay-dead-but-dreaming.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 321,
+			"progress": 0,
+			"sortOrder": 52,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
+				},
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
 			"bookId": 524,
 			"title": "A Visit from the Goon Squad",
 			"subTitle": "",
@@ -29667,42 +30006,6 @@
 				{
 					"name": "Sports",
 					"colorCode": "rgb(0, 80, 20)"
-				}
-			],
-			"formats": []
-		},
-		{
-			"bookId": 772,
-			"title": "1873",
-			"subTitle": "The Rothschilds, the First Great Depression, and the Making of the Modern World  Liaquat Ahamed ",
-			"fullTitle": "1873: The Rothschilds, the First Great Depression, and the Making of the Modern World  Liaquat Ahamed ",
-			"author": "Liaquat Ahamed",
-			"link": "https://bookshop.org/p/books/1873-the-rothschilds-the-first-great-depression-and-the-making-of-the-modern-world-liaquat-ahamed/bedb61cf185c4554",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 4110,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Business & Economics",
-					"colorCode": "rgb(23, 126, 0)"
 				}
 			],
 			"formats": []
