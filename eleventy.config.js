@@ -42,6 +42,7 @@ import noteListingShortcode from './src/shortcodes/noteListing-shortcode.js';
 import replyLinksShortcode from './src/shortcodes/replyLinks-shortcode.js';
 import postTitleShortcode from './src/shortcodes/postTitle-shortcode.js';
 import concertShortcode from './src/shortcodes/concert-shortcode.js';
+import { nextPreviousLinks } from './src/shortcodes/nextPreviousLinks-shortcode.js';
 
 export default function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy({
@@ -116,6 +117,7 @@ export default function (eleventyConfig) {
     eleventyConfig.addShortcode('replyLinks', replyLinksShortcode);
     eleventyConfig.addShortcode('postTitle', postTitleShortcode);
     eleventyConfig.addShortcode('concert', concertShortcode);
+    eleventyConfig.addShortcode('nextPreviousLinks', nextPreviousLinks);
 
     eleventyConfig.addPairedShortcode('sharedLink', sharedLink);
 
