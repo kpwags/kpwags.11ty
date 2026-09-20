@@ -958,6 +958,15 @@ article.reading-log .metadata {
 	margin-right: 32px;
 }
 
+.post .post-content p:last-child::after {
+	content: ' ♦';
+	color: var(--color-1);
+}
+
+.post .post-content blockquote p:last-child::after {
+	content: '';
+}
+
 @media (max-width: 500px) {
 	.post p:has(picture) {
 		justify-content: center;
