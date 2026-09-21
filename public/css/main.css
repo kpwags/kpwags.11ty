@@ -1344,3 +1344,36 @@ section.work article.work-project .description p:last-of-type {
 	}
 }
 /* ---- END WORK ---- */
+
+/* ---- WIPs ---- */
+section.wip {
+	margin-bottom: 64px;
+}
+
+section.wip h2 {
+	margin-bottom: 4px;
+}
+
+section.wip p.description {
+	font-style: italic;
+	margin-block-start: 0;
+}
+
+section.wip article {
+	margin-bottom: 48px;
+}
+
+section.wip article p {
+	margin-block-end: 24px;
+}
+
+section.wip article p:last-child {
+	margin-bottom: 0;
+}
+
+section.wip h3 {
+	color: var(--color-3);
+	margin: 0;
+	padding: 0;
+}
+/* ---- END WIPS ---- */
