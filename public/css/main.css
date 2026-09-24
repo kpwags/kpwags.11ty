@@ -128,6 +128,15 @@ h6 {
 	}
 }
 
+h1:has(+ p.page-description) {
+	margin-bottom: 4px;
+}
+
+h1 + p.page-description {
+	margin-block-start: 0;
+	text-align: center;
+}
+
 p {
 	line-height: 32px;
 	margin-block-start: 24px;
@@ -1377,3 +1386,112 @@ section.wip h3 {
 	padding: 0;
 }
 /* ---- END WIPS ---- */
+
+/* ---- STATS PAGE ---- */
+ul.titled-horizontal-list {
+	margin: 0;
+	padding: 0;
+	display: inline-flex;
+	column-gap: 24px;
+	row-gap: 12px;
+	flex-wrap: wrap;
+}
+
+ul.titled-horizontal-list li {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+section.chart {
+	margin: 32px 0 16px 0;
+}
+
+section.chart h2 {
+	margin-bottom: 24px;
+}
+
+.stats-chart {
+	display: grid;
+	grid-template-columns: 1fr 9fr 1fr;
+	grid-column-gap: 12px;
+}
+
+.stats-chart.tags {
+	grid-template-columns: 3fr 9fr 1fr;
+}
+
+.stats-chart .bar {
+	height: 40px;
+	position: relative;
+	margin: 0 0 25px 0;
+}
+
+.stats-chart .inner-bar {
+	height: 100%;
+}
+
+.stats-chart .bar-title {
+	line-height: 40px;
+	margin: 0;
+	padding: 0;
+	white-space: nowrap;
+}
+
+.stats-chart .mobile-stats {
+	display: none;
+}
+
+.stats-chart .legend {
+	line-height: 40px;
+	margin: 0;
+	padding: 0;
+	text-align: right;
+}
+
+.stats-table {
+	display: flex;
+	flex-direction: column;
+	row-gap: 8px;
+}
+
+.stat-row {
+	display: flex;
+	font-size: 1.1rem;
+	column-gap: 24px;
+	width: 100%;
+	padding: 8px;
+	border-radius: 6px;
+}
+
+.stat-name {
+	min-width: 215px;
+	font-weight: 600;
+}
+
+@media all and (max-width: 500px) {
+	.stat-row {
+		padding: 4px 8px;
+	}
+
+	.stats-chart {
+		display: block;
+	}
+
+	.stats-chart .bar {
+		margin: 0 0 10px 0;
+	}
+
+	.stats-chart .legend {
+		display: none;
+	}
+
+	.stats-chart .mobile-stats {
+		display: inline;
+	}
+
+	.stat-name {
+		min-width: 175px;
+	}
+}
+/* ---- END STATS ---- */
