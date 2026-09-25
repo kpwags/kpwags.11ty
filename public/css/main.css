@@ -1551,3 +1551,70 @@ section.chart h2 {
 	fill: var(--primary-100);
 }
 /* ---- END BLOGROLL ---- */
+
+/* ---- PROGRESS ---- */
+.aspiration {
+	margin-bottom: 32px;
+}
+
+.aspiration h3 {
+	color: var(--tertiary-color);
+}
+
+.progress-bar {
+	display: grid;
+	grid-template-columns: 5fr 2fr;
+	grid-column-gap: 12px;
+	margin-top: 12px;
+}
+
+.progress-bar .bar {
+	height: 40px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #666;
+	position: relative;
+	margin: 0 0 25px 0;
+}
+
+.progress-bar .bar .inner-bar {
+	height: 100%;
+}
+
+.progress-bar .legend {
+	line-height: 40px;
+	margin: 0;
+	padding: 0;
+}
+
+.aspiration-status {
+	font-size: 4rem;
+	margin-top: 12px;
+}
+
+.aspiration p:last-child {
+	margin-bottom: 0;
+}
+
+@media (max-width: 500px) {
+	.progress-bar {
+		display: block;
+	}
+
+	.progress-bar .bar {
+		margin: 0 0 10px 0;
+	}
+
+	.progress-bar .legend {
+		line-height: 1;
+		margin: 0 0 25px 0;
+		text-align: center;
+	}
+
+	.aspiration-status {
+		font-size: 3rem;
+		text-align: center;
+		margin-left: 0;
+	}
+}
+/* ---- END PROGRESS ---- */
