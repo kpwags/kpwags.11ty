@@ -10,32 +10,19 @@ title: "Movies"
 
 	<div class="grid">
 		{% for film in year.movies %}
-		{% movieListing film %}
+		<div class="media-box">
+			<div class="container">
+				<img src="{{ film.posterImageUrl }}" alt="{{ film.title }}" width="200" height="300" />
+				<div class="details">
+					<div class="title-section">
+						<div class="title"><a href="{{ film.imdbLink }}">{{ film.title }}</a></div>
+					</div>
+					{% starRating film.rating %}
+					<p>{{ film.thoughts }}</p>
+				</div>
+			</div>
+		</div>
 		{% endfor %}
 	</div>
 </section>
 {% endfor %}
-
-<script type="text/javascript" src="/scripts/media.js"></script>
-<script>
-	window.addEventListener('load', function() {
-		const dialog = document.querySelector('dialog.thoughts-dialog');
-
-		const toggleButtons = document.querySelectorAll('button.toggle-thoughts');
-
-		toggleButtons.forEach((button) => {
-			button.addEventListener('click', (e) => {
-				const dataType = e.target.getAttribute('data-type');
-				const id = e.target.getAttribute('data-id');
-
-				showThoughts(id, dataType);
-			});
-		});
-
-		const modalCloseButton = document.querySelector('dialog.thoughts-dialog button');
-
-		if (modalCloseButton) {
-			modalCloseButton.addEventListener('click', () => dialog.close());
-		}
-	});
-</script>
