@@ -4,6 +4,7 @@
 		"link": "https://ohhelloana.blog/",
 		"rssLink": "https://ohhelloana.blog/feed.xml",
 		"mastodon": "https://front-end.social/@anarodrigues",
+		"bluesky": "https://bsky.app/profile/ohhelloana.blog",
 		"tags": [
 			"Web Dev"
 		]
@@ -13,6 +14,7 @@
 		"link": "https://andrewlock.net/",
 		"rssLink": "https://andrewlock.net/rss.xml",
 		"mastodon": "https://hachyderm.io/@andrewlock",
+		"bluesky": "https://bsky.app/profile/andrewlock.bsky.social",
 		"tags": [
 			".NET",
 			"C#"
@@ -22,6 +24,7 @@
 		"title": "Andy Bell",
 		"link": "https://andy-bell.co.uk",
 		"rssLink": "https://andy-bell.co.uk/feed.xml",
+		"bluesky": "https://bsky.app/profile/bell.bz",
 		"tags": [
 			"CSS",
 			"Web Dev"
@@ -32,15 +35,7 @@
 		"link": "https://bradfrost.com",
 		"rssLink": "https://feeds.feedburner.com/brad-frosts-blog",
 		"mastodon": "https://mastodon.social/@brad_frost",
-		"tags": [
-			".NET",
-			"C#"
-		]
-	},
-	{
-		"title": "Brian Hogan",
-		"link": "https://nodogmablog.bryanhogan.net/",
-		"rssLink": "https://nodogmablog.bryanhogan.net/index.xml",
+		"bluesky": "https://bsky.app/profile/bradfrost.com",
 		"tags": [
 			".NET",
 			"C#"
@@ -51,6 +46,7 @@
 		"link": "https://chriscoyier.net",
 		"rssLink": "https://chriscoyier.net/feed/",
 		"mastodon": "https://front-end.social/@chriscoyier",
+		"bluesky": "https://bsky.app/profile/chriscoyier.net",
 		"tags": [
 			"CSS",
 			"Web Dev"
@@ -61,6 +57,7 @@
 		"link": "https://gomakethings.com",
 		"rssLink": "https://gomakethings.com/feed/index.xml",
 		"mastodon": "https://mastodon.social/@cferdinandi",
+		"bluesky": "https://bsky.app/profile/cferdinandi.bsky.social",
 		"tags": [
 			"Web Dev"
 		]
@@ -70,6 +67,7 @@
 		"link": "https://coryd.dev",
 		"rssLink": "https://feedpress.me/coryd",
 		"mastodon": "https://follow.coryd.dev/@cory",
+		"bluesky": "https://bsky.app/profile/coryd.dev",
 		"tags": [
 			"Web Dev",
 			"11ty"
@@ -80,6 +78,7 @@
 		"link": "https://daverupert.com",
 		"rssLink": "https://daverupert.com/atom.xml",
 		"mastodon": "https://mastodon.social/@davatron5000",
+		"bluesky": "https://bsky.app/profile/davatron5000.bsky.social",
 		"tags": [
 			"Web Dev"
 		]
@@ -88,6 +87,8 @@
 		"title": "Eric Bailey",
 		"link": "https://ericwbailey.website/",
 		"rssLink": "https://ericwbailey.website/feed/feed.xml",
+		"mastodon": "https://social.ericwbailey.website/@eric",
+		"bluesky": "https://bsky.app/profile/ericwbailey.website",
 		"tags": [
 			"Web Dev",
 			"A11y"
@@ -98,6 +99,7 @@
 		"link": "https://adactio.com",
 		"rssLink": "https://adactio.com/rss/",
 		"mastodon": "https://mastodon.social/@adactio",
+		"bluesky": "https://bsky.app/profile/adactio.com",
 		"tags": [
 			"Web Dev"
 		]
@@ -107,6 +109,7 @@
 		"link": "https://blog.jim-nielsen.com/",
 		"rssLink": "https://blog.jim-nielsen.com/feed.xml",
 		"mastodon": "https://mastodon.social/@jimniels",
+		"bluesky": "https://bsky.app/profile/jim-nielsen.com",
 		"tags": [
 			"Web Dev"
 		]
@@ -116,6 +119,7 @@
 		"link": "https://keithjgrant.com/",
 		"rssLink": "https://keithjgrant.com/posts/index.xml",
 		"mastodon": "https://front-end.social/@keithjgrant",
+		"bluesky": "https://bsky.app/profile/keithjgrant.com",
 		"tags": [
 			"CSS",
 			"Web Dev"
@@ -136,6 +140,7 @@
 		"link": "https://lynnandtonic.com",
 		"rssLink": "https://lynnandtonic.com/feed.xml",
 		"mastodon": "https://front-end.social/@lynnandtonic",
+		"bluesky": "https://bsky.app/profile/lynnandtonic.com",
 		"tags": [
 			"Web Dev",
 			"Design"
@@ -146,6 +151,7 @@
 		"link": "https://www.matuzo.at/",
 		"rssLink": "https://www.matuzo.at/feed_all.xml",
 		"mastodon": "https://front-end.social/@matuzo",
+		"bluesky": "https://bsky.app/profile/matuzo.at",
 		"tags": [
 			"Web Dev",
 			"CSS",
@@ -161,19 +167,11 @@
 		]
 	},
 	{
-		"title": "Paul Stamatiou",
-		"link": "https://paulstamatiou.com",
-		"rssLink": "https://paulstamatiou.com/posts.xml",
-		"mastodon": "https://mastodon.social/@stammy",
-		"tags": [
-			"Design"
-		]
-	},
-	{
 		"title": "Rach Smith",
 		"link": "https://rachsmith.com/",
 		"rssLink": "https://rachsmith.com/feed.xml",
 		"mastodon": "https://mastodon.social/@rachsmith",
+		"bluesky": "https://bsky.app/profile/rachsmith.com",
 		"tags": [
 			"Web Dev"
 		]
@@ -183,6 +181,7 @@
 		"link": "https://robinrendle.com/",
 		"rssLink": "https://robinrendle.com/feed.xml",
 		"mastodon": "https://sfba.social/@fonts",
+		"bluesky": "https://bsky.app/profile/robinrendle.bsky.social",
 		"tags": [
 			"CSS",
 			"Web Dev"
@@ -193,6 +192,7 @@
 		"link": "https://rknight.me",
 		"rssLink": "https://rknight.me/subscribe/posts/atom.xml",
 		"mastodon": "https://social.lol/@robb",
+		"bluesky": "https://bsky.app/profile/rknight.me",
 		"tags": [
 			"Web Dev"
 		]
@@ -202,6 +202,7 @@
 		"link": "https://ryantrimble.com/",
 		"rssLink": "https://ryantrimble.com/rss.xml",
 		"mastodon": "https://front-end.social/@mrtrimble",
+		"bluesky": "https://bsky.app/profile/ryantrimble.com",
 		"tags": [
 			"Web Dev"
 		]
@@ -211,6 +212,7 @@
 		"link": "https://sarajoy.dev/",
 		"rssLink": "https://sarajoy.dev/rss.xml",
 		"mastodon": "https://front-end.social/@sarajw",
+		"bluesky": "https://bsky.app/profile/sjoy.lol",
 		"tags": [
 			"CSS",
 			"Web Dev"
@@ -221,6 +223,7 @@
 		"link": "https://www.zachleat.com/",
 		"rssLink": "https://www.zachleat.com/web/feed/",
 		"mastodon": "https://fediverse.zachleat.com/@zachleat",
+		"bluesky": "https://bsky.app/profile/zachleat.com",
 		"tags": [
 			"Web Dev",
 			"11ty"
