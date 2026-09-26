@@ -4,11 +4,12 @@ title: "Movies"
 ---
 <h1>Movies</h1>
 
+<div class="media-page">
 {% for year in movies %}
 <section class="media-section">
 	<h2>{{ year.year }} ({{ year.movies | length }})</h2>
 
-	<div class="grid">
+	<div class="media-grid">
 		{% for film in year.movies %}
 		<div class="media-box">
 			<div class="container">
@@ -17,6 +18,7 @@ title: "Movies"
 					<div class="title-section">
 						<div class="title"><a href="{{ film.imdbLink }}">{{ film.title }}</a></div>
 					</div>
+					<div class="date">{{ film.dateWatched | readableDate }}</div>
 					{% starRating film.rating %}
 					<p>{{ film.thoughts }}</p>
 				</div>
@@ -26,3 +28,4 @@ title: "Movies"
 	</div>
 </section>
 {% endfor %}
+</div>

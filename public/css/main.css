@@ -1623,7 +1623,7 @@ section.chart h2 {
 .media-box {
 	width: 600px;
 	margin: 32px auto;
-	border: 3px solid var(--secondary-color);
+	border: 3px solid var(--color-2);
 	border-radius: 6px;
 	background: var(--background-shaded);
 }
@@ -1631,7 +1631,7 @@ section.chart h2 {
 .media-box .title {
 	font-size: 1.5rem;
 	font-weight: 700;
-	color: var(--primary-color);
+	color: var(--color-1);
 }
 
 .media-box .container {
@@ -1701,6 +1701,34 @@ section.chart h2 {
 	}
 }
 /* ---- END MEDIA BOX ---- */
+
+/* ---- MEDIA PAGES ---- */
+.media-page {
+	display: flex;
+	flex-direction: column;
+	gap: 64px;
+}
+
+.media-grid {
+	display: flex;
+	gap: 32px;
+	flex-direction: column;
+}
+
+.media-grid .media-box {
+	width: 100%;
+	margin: 0;
+}
+
+.media-grid .media-box img {
+	width: 150px;
+	height: 225px;
+}
+
+.media-grid .media-box .date {
+	line-height: 1;
+}
+/* ---- END MEDIA PAGES ---- */
 
 /* ---- STAR RATINGS ---- */
 .star {
