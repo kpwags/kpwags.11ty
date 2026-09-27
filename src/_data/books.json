@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/8Pkrf8zb/ahamed-1873.jpg",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 109,
+			"currentPage": 241,
 			"pageCount": 274,
-			"progress": 40,
+			"progress": 88,
 			"sortOrder": 4110,
 			"status": {
 				"name": "Reading",
@@ -38,6 +38,51 @@
 				{
 					"name": "Hardcover",
 					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 781,
+			"title": "The Wager",
+			"subTitle": "A Tale of Shipwreck, Mutiny and Murder",
+			"fullTitle": "The Wager: A Tale of Shipwreck, Mutiny and Murder",
+			"author": "David Grann",
+			"link": "https://bookshop.org/p/books/the-wager-a-tale-of-shipwreck-mutiny-and-murder-david-grann/b1f2a00fc56cba78",
+			"dateStarted": "2026-09-23T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/SR2v8VjP/grann-the-wager.jpg",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 174,
+			"pageCount": 509,
+			"progress": 34,
+			"sortOrder": 4130,
+			"status": {
+				"name": "Reading",
+				"colorCode": "#6a208f"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				},
+				{
+					"name": "Mystery",
+					"colorCode": "rgb(1, 102, 47)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Audiobook",
+					"colorCode": "#b300b3"
 				}
 			]
 		}
