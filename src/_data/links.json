@@ -1,5 +1,215 @@
 [
 	{
+		"linkId": 1818,
+		"title": "After decades of fund growth, Vanguard pivots",
+		"author": "Joseph N. DiStefano",
+		"url": "https://www.inquirer.com/business/vanguard-bogle-salim-ramji-20260921.html",
+		"linkDate": "2026-09-25T00:00:00.000Z",
+		"category": {
+			"name": "Investing",
+			"colorCode": "#006c00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1819,
+		"title": "There is No Plan",
+		"author": "Nathan Grayson",
+		"url": "https://aftermath.site/microsoft-xbox-layoffs-halo-activision/",
+		"linkDate": "2026-09-25T00:00:00.000Z",
+		"category": {
+			"name": "Gaming",
+			"colorCode": "#275576"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1820,
+		"title": "‘We Hacked the FBI:’ Hackers Say They Have Data on All FBI Employees",
+		"author": "Joseph Cox",
+		"url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+		"linkDate": "2026-09-25T00:00:00.000Z",
+		"category": {
+			"name": "Cybersecurity",
+			"colorCode": "#948000"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1821,
+		"title": "How tech firms hope to beat the backlash against “pervert glasses”",
+		"author": "The Economist",
+		"url": "https://www.economist.com/business/2026/09/24/how-tech-firms-hope-to-beat-the-backlash-against-pervert-glasses",
+		"linkDate": "2026-09-25T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1822,
+		"title": "This ‘World of Warcraft: Forever’ Mod Blocks All Interactions With Asmongold Fans",
+		"author": "Matthew Gault",
+		"url": "https://www.404media.co/this-world-of-warcraft-forever-mod-blocks-all-interactions-with-asmongold-fans/",
+		"linkDate": "2026-09-25T00:00:00.000Z",
+		"category": {
+			"name": "Gaming",
+			"colorCode": "#275576"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1823,
+		"title": "The Assault On Science Funding Continues",
+		"author": "Derek Lowe",
+		"url": "https://www.science.org/content/blog-post/assault-science-funding-continues",
+		"linkDate": "2026-09-25T00:00:00.000Z",
+		"category": {
+			"name": "Science",
+			"colorCode": "#732a45"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1824,
+		"title": "On AI Coding and Its Discontents",
+		"author": "Cal Newport",
+		"url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+		"linkDate": "2026-09-25T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1825,
+		"title": "From generated code to trusted code with a unit-test agent",
+		"author": "Amaury Levé",
+		"url": "https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/",
+		"linkDate": "2026-09-25T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1826,
+		"title": "How I Find Problems to Solve as a Staff Engineer",
+		"author": "Lalit Maganti",
+		"url": "https://lalitm.com/post/find-problems-staff-engineer/",
+		"linkDate": "2026-09-25T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1827,
+		"title": "I Spent Three Sweltering Days Shredding The High Seas At Jogging Pace, And It Ruled",
+		"author": "Chris Thompson",
+		"url": "https://defector.com/i-spent-three-sweltering-days-shredding-the-high-seas-at-jogging-pace-and-it-ruled",
+		"linkDate": "2026-09-25T00:00:00.000Z",
+		"category": {
+			"name": "Longform",
+			"colorCode": "#571693"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1828,
+		"title": "Is This the Future of America?",
+		"author": "Lauren Feiner",
+		"url": "https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash",
+		"linkDate": "2026-09-25T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1816,
+		"title": "How to Optimize SQL Queries: 20 Proven Best Practices",
+		"author": "Anton Martyniuk",
+		"url": "https://antondevtips.com/blog/how-to-optimize-sql-queries-20-proven-best-practices",
+		"linkDate": "2026-09-24T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1817,
+		"title": "Sophie Cunningham Has Quite A Journey To Get Back To Basketball",
+		"author": "Samer Kalaf",
+		"url": "https://defector.com/sophie-cunningham-has-quite-a-journey-to-get-back-to-basketball",
+		"linkDate": "2026-09-24T00:00:00.000Z",
+		"category": {
+			"name": "Sports",
+			"colorCode": "#2d5f6f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1815,
+		"title": "Adding a Clone method to a C# record",
+		"author": "Gérald Barré",
+		"url": "https://www.meziantou.net/adding-a-clone-method-to-a-csharp-record.htm",
+		"linkDate": "2026-09-22T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1812,
 		"title": "How counterterrorism has empowered Donald Trump’s imperial presidency",
 		"author": "The Economist",
