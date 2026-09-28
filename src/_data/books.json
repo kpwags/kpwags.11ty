@@ -1,43 +1,47 @@
 {
 	"inProgress": [
 		{
-			"bookId": 772,
-			"title": "1873",
-			"subTitle": "The Rothschilds, the First Great Depression, and the Making of the Modern World  Liaquat Ahamed",
-			"fullTitle": "1873: The Rothschilds, the First Great Depression, and the Making of the Modern World  Liaquat Ahamed",
-			"author": "Liaquat Ahamed",
-			"link": "https://bookshop.org/p/books/1873-the-rothschilds-the-first-great-depression-and-the-making-of-the-modern-world-liaquat-ahamed/bedb61cf185c4554",
-			"dateStarted": "2026-09-17T00:00:00.000Z",
+			"bookId": 679,
+			"title": "Of Monsters and Mainframes",
+			"subTitle": "",
+			"fullTitle": "Of Monsters and Mainframes",
+			"author": "Barbara Truelove",
+			"link": "https://bookshop.org/p/books/of-monsters-and-mainframes-barbara-truelove/e8151d9546a82f7d",
+			"dateStarted": "2026-09-28T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/8Pkrf8zb/ahamed-1873.jpg",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 241,
-			"pageCount": 274,
-			"progress": 88,
-			"sortOrder": 4110,
+			"coverImageUrl": "https://i.postimg.cc/XYgMpyTP/truelove-of-monsters-and-mainframes.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 411,
+			"progress": 1,
+			"sortOrder": 1,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
 			},
 			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
 			},
 			"series": null,
 			"genres": [
 				{
-					"name": "Business & Economics",
-					"colorCode": "rgb(23, 126, 0)"
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
+				},
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
 				}
 			],
 			"formats": [
 				{
-					"name": "Hardcover",
-					"colorCode": "#a0175f"
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
 				}
 			]
 		},
@@ -91,6 +95,47 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 772,
+					"title": "1873",
+					"subTitle": "The Rothschilds, the First Great Depression, and the Making of the Modern World  Liaquat Ahamed",
+					"fullTitle": "1873: The Rothschilds, the First Great Depression, and the Making of the Modern World  Liaquat Ahamed",
+					"author": "Liaquat Ahamed",
+					"link": "https://bookshop.org/p/books/1873-the-rothschilds-the-first-great-depression-and-the-making-of-the-modern-world-liaquat-ahamed/bedb61cf185c4554",
+					"dateStarted": "2026-09-17T00:00:00.000Z",
+					"dateCompleted": "2026-09-27T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "History doesn't always repeat, but it often rhymes. It amazes me how many of our economic crashes are caused by very similar factors. Reading about the lead-up to the 1873 market crash reminds me greatly of 2008 and even today with the AI boom. It's like we don't learn anything. It was fascinating to see the different effects this had across the world.",
+					"coverImageUrl": "https://i.postimg.cc/8Pkrf8zb/ahamed-1873.jpg",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 274,
+					"pageCount": 274,
+					"progress": 100,
+					"sortOrder": 4110,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Business & Economics",
+							"colorCode": "rgb(23, 126, 0)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Hardcover",
+							"colorCode": "#a0175f"
+						}
+					]
+				},
 				{
 					"bookId": 749,
 					"title": "The Calamities",
@@ -16306,51 +16351,6 @@
 		}
 	],
 	"toRead": [
-		{
-			"bookId": 679,
-			"title": "Of Monsters and Mainframes",
-			"subTitle": "",
-			"fullTitle": "Of Monsters and Mainframes",
-			"author": "Barbara Truelove",
-			"link": "https://bookshop.org/p/books/of-monsters-and-mainframes-barbara-truelove/e8151d9546a82f7d",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/XYgMpyTP/truelove-of-monsters-and-mainframes.jpg",
-			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 1,
-			"pageCount": 411,
-			"progress": 0,
-			"sortOrder": 1,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Horror",
-					"colorCode": "rgb(146, 4, 4)"
-				},
-				{
-					"name": "Science Fiction",
-					"colorCode": "rgb(102, 119, 2)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Paperback",
-					"colorCode": "#cd6a29"
-				}
-			]
-		},
 		{
 			"bookId": 699,
 			"title": "Green & Deadly Things",
