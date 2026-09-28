@@ -1,5 +1,35 @@
 [
 	{
+		"linkId": 1829,
+		"title": "Big booze is reinventing itself",
+		"author": "The Economist: Money Talks",
+		"url": "https://www.economist.com/podcasts/2026/09/24/big-booze-is-reinventing-itself",
+		"linkDate": "2026-09-28T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1830,
+		"title": "CBC/Radio-Canada announces return of Hockey Night in Canada in PWHL partnership",
+		"author": "CBC Sports",
+		"url": "https://www.cbc.ca/sports/hockey/pwhl/cbc-hockey-night-in-canada-pwhl-partnership-9.7360500",
+		"linkDate": "2026-09-28T00:00:00.000Z",
+		"category": {
+			"name": "Sports",
+			"colorCode": "#2d5f6f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1818,
 		"title": "After decades of fund growth, Vanguard pivots",
 		"author": "Joseph N. DiStefano",
