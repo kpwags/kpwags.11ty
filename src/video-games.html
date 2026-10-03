@@ -3,26 +3,32 @@ layout: "layouts/layout.html"
 title: "Video Games"
 ---
 <h1>Video Games</h1>
+<p class="page-description">The games I've played and thoughts on them.</p>
 
-<div class="media-page">
+<div class="video-game-page">
+	{% renderTemplate "webc" %}
+	<video-game-filters></video-game-filters>
+	{% endrenderTemplate %}
 
-<section class="media-section">
-	<h2>Currently Playing (<span id="currently-playing">{{ videoGames.inProgress | length }}</span>)</h2>
+	<div class="media-page">
+		<section class="media-section playing">
+			<h2>Currently Playing (<span id="currently-playing">{{ videoGames.inProgress | length }}</span>)</h2>
 
-	<div class="media-grid">
-		{% for game in videoGames.inProgress %}
-		{% videoGameListing game false %}
-		{% endfor %}
+			<div class="media-grid">
+				{% for game in videoGames.inProgress %}
+				{% videoGameListing game false %}
+				{% endfor %}
+			</div>
+		</section>
+
+		<section class="media-section have-played">
+			<h2>Played (<span id="have-played">{{ videoGames.completed | length }}</span>)</h2>
+
+			<div class="media-grid">
+				{% for game in videoGames.completed %}
+				{% videoGameListing game true %}
+				{% endfor %}
+			</div>
+		</section>
 	</div>
-</section>
-
-<section class="media-section">
-	<h2>Played (<span id="have-played">{{ videoGames.completed | length }}</span>)</h2>
-
-	<div class="media-grid">
-		{% for game in videoGames.completed %}
-		{% videoGameListing game true %}
-		{% endfor %}
-	</div>
-</section>
 </div>
