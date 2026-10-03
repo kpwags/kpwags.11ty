@@ -34,7 +34,7 @@ import tagListShortcode from './src/shortcodes/tagList-shortcode.js';
 import movieListingShortcode from './src/shortcodes/movieListing-shortcode.js';
 import tvListingShortcode from './src/shortcodes/tvListing-shortcode.js';
 import musicListingShortcode from './src/shortcodes/musicListing-shortcode.js';
-import videoGameListingShortcode from './src/shortcodes/videoGameListing-shortcode.js';
+import { videoGameListing } from './src/shortcodes/videoGameListing-shortcode.js';
 import bookListingShortcode from './src/shortcodes/bookListing-shortcode.js';
 import progressBarShortcode from './src/shortcodes/progressBar-shortcode.js';
 import bookNoteShortcode from './src/shortcodes/bookNote-shortcode.js';
@@ -110,7 +110,7 @@ export default function (eleventyConfig) {
     eleventyConfig.addShortcode('movieListing', movieListingShortcode);
     eleventyConfig.addShortcode('tvListing', tvListingShortcode);
     eleventyConfig.addShortcode('musicListing', musicListingShortcode);
-    eleventyConfig.addShortcode('videoGameListing', videoGameListingShortcode);
+    eleventyConfig.addShortcode('videoGameListing', videoGameListing);
     eleventyConfig.addShortcode('bookListing', bookListingShortcode);
     eleventyConfig.addShortcode('progressBar', progressBarShortcode);
     eleventyConfig.addShortcode('bookNote', bookNoteShortcode);

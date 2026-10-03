@@ -1,68 +1,99 @@
-<div class="filters">
-	<legend>Filters</legend>
-	<div class="filter-list">
+<fieldset class="filters">
+	<legend class="primary">Filters</legend>
+	
+	<div class="filter-list all-games-filter">
 		<label for="all">
 			<input type="radio" id="all" name="gameFilters" checked />
-			All
-		</label>
-		<label for="pc">
-			<input type="radio" id="pc" name="gameFilters" />
-			PC
-		</label>
-		<label for="playstation">
-			<input type="radio" id="playstation" name="gameFilters" />
-			PlayStation
-		</label>
-		<label for="xbox">
-			<input type="radio" id="xbox" name="gameFilters" />
-			Xbox
-		</label>
-		<label for="nintendo">
-			<input type="radio" id="nintendo" name="gameFilters" />
-			Nintendo
-		</label>
-		<label for="adventure">
-			<input type="radio" id="adventure" name="gameFilters" />
-			Adventure
-		</label>
-		<label for="mmo">
-			<input type="radio" id="mmo" name="gameFilters" />
-			MMO
-		</label>
-		<label for="open-world">
-			<input type="radio" id="open-world" name="gameFilters" />
-			Open World
-		</label>
-		<label for="platform">
-			<input type="radio" id="platform" name="gameFilters" />
-			Platform
-		</label>
-		<label for="rts">
-			<input type="radio" id="rts" name="gameFilters" />
-			Real Time Strategy
-		</label>
-		<label for="rpg">
-			<input type="radio" id="rpg" name="gameFilters" />
-			Role Playing Game
-		</label>
-		<label for="sports">
-			<input type="radio" id="sports" name="gameFilters" />
-			Sports
-		</label>
-		<label for="shooter">
-			<input type="radio" id="shooter" name="gameFilters" />
-			Shooter
-		</label>
-		<label for="completed-2024">
-			<input type="radio" id="completed-2024" name="gameFilters" />
-			Completed in 2024
-		</label>
-		<label for="completed-0">
-			<input type="radio" id="completed-0" name="gameFilters" />
-			Completed
+			All Games
 		</label>
 	</div>
-</div>
+
+	<fieldset class="filters-sublist">
+		<legend>Systems</legend>
+		<div class="filter-list">
+			<label for="pc">
+				<input type="radio" id="pc" name="gameFilters" />
+				PC
+			</label>
+			<label for="playstation">
+				<input type="radio" id="playstation" name="gameFilters" />
+				PlayStation
+			</label>
+			<label for="xbox">
+				<input type="radio" id="xbox" name="gameFilters" />
+				Xbox
+			</label>
+			<label for="nintendo">
+				<input type="radio" id="nintendo" name="gameFilters" />
+				Nintendo
+			</label>
+		</div>
+	</fieldset>
+
+	<fieldset class="filters-sublist">
+		<legend>Genres</legend>
+		<div class="filter-list">
+			<label for="adventure">
+				<input type="radio" id="adventure" name="gameFilters" />
+				Adventure
+			</label>
+			<label for="mmo">
+				<input type="radio" id="mmo" name="gameFilters" />
+				MMO
+			</label>
+			<label for="open-world">
+				<input type="radio" id="open-world" name="gameFilters" />
+				Open World
+			</label>
+			<label for="platform">
+				<input type="radio" id="platform" name="gameFilters" />
+				Platform
+			</label>
+			<label for="rts">
+				<input type="radio" id="rts" name="gameFilters" />
+				Real Time Strategy
+			</label>
+			<label for="rpg">
+				<input type="radio" id="rpg" name="gameFilters" />
+				Role Playing Game
+			</label>
+			<label for="sports">
+				<input type="radio" id="sports" name="gameFilters" />
+				Sports
+			</label>
+			<label for="shooter">
+				<input type="radio" id="shooter" name="gameFilters" />
+				Shooter
+			</label>
+		</div>
+	</fieldset>
+
+	<fieldset class="filters-sublist">
+		<legend>Year Finished</legend>
+		<div class="filter-list">
+			<label for="completed-0">
+				<input type="radio" id="completed-0" name="gameFilters" />
+				All Finished
+			</label>
+			<label for="completed-2026">
+				<input type="radio" id="completed-2026" name="gameFilters" />
+				2026
+			</label>
+			<label for="completed-2025">
+				<input type="radio" id="completed-2025" name="gameFilters" />
+				2025
+			</label>
+			<label for="completed-2024">
+				<input type="radio" id="completed-2024" name="gameFilters" />
+				2024
+			</label>
+			<label for="completed-2023">
+				<input type="radio" id="completed-2023" name="gameFilters" />
+				2023 & Earlier
+			</label>
+		</div>
+	</fieldset>
+</fieldset>
 
 <script webc:keep>
 	window.addEventListener('load', () => {
@@ -80,7 +111,7 @@
 			const year = parseInt(yearString);
 
 			if (year === 0) {
-				document.querySelectorAll('.item').forEach((item) => {
+				document.querySelectorAll('.media-box').forEach((item) => {
 					const isCompleted = item.getAttribute('data-completed') === 'yes';
 					if (isCompleted) {
 						item.removeAttribute('hidden');
@@ -89,7 +120,7 @@
 					}
 				});
 			} else if (year <= 2023) {
-				document.querySelectorAll('.item').forEach((item) => {
+				document.querySelectorAll('.media-box').forEach((item) => {
 					const yearCompleted = parseInt(item.getAttribute('data-year-completed'));
 					if (yearCompleted > 0 && yearCompleted <= 2023) {
 						item.removeAttribute('hidden');
@@ -98,7 +129,7 @@
 					}
 				});
 			} else {
-				document.querySelectorAll('.item').forEach((item) => {
+				document.querySelectorAll('.media-box').forEach((item) => {
 					const yearCompleted = parseInt(item.getAttribute('data-year-completed'));
 					if (yearCompleted > 0 && yearCompleted === year) {
 						item.removeAttribute('hidden');
@@ -110,7 +141,7 @@
 		} else {
 			switch (filter) {
 				case 'all':
-					document.querySelectorAll('.item').forEach((item) => {
+					document.querySelectorAll('.media-box').forEach((item) => {
 						item.removeAttribute('hidden');
 					});
 					break;
@@ -118,7 +149,7 @@
 				case 'pc':
 				case 'playstation':
 				case 'xbox':
-					document.querySelectorAll('.item').forEach((item) => {
+					document.querySelectorAll('.media-box').forEach((item) => {
 						if (item.getAttribute('data-filter-platform').includes(filter)) {
 							item.removeAttribute('hidden');
 						} else {
@@ -128,7 +159,7 @@
 					break;
 
 				case 'nintendo':
-					document.querySelectorAll('.item').forEach((item) => {
+					document.querySelectorAll('.media-box').forEach((item) => {
 						if (item.getAttribute('data-filter-platform').includes('nintendo-switch')) {
 							item.removeAttribute('hidden');
 						} else {
@@ -138,7 +169,7 @@
 					break;
 
 				case 'shooter':
-					document.querySelectorAll('.item').forEach((item) => {
+					document.querySelectorAll('.media-box').forEach((item) => {
 						if (
 							item.getAttribute('data-filter-genre').includes('first-person-shooter') ||
 							item.getAttribute('data-filter-genre').includes('third-person-shooter')
@@ -151,7 +182,7 @@
 					break;
 
 				case 'completed':
-					document.querySelectorAll('.item').forEach((item) => {
+					document.querySelectorAll('.media-box').forEach((item) => {
 						if (item.getAttribute('data-completed') === 'yes') {
 							item.removeAttribute('hidden');
 						} else {
@@ -161,7 +192,7 @@
 					break;
 
 				default:
-					document.querySelectorAll('.item').forEach((item) => {
+					document.querySelectorAll('.media-box').forEach((item) => {
 						const genres = item.getAttribute('data-filter-genre').split(',');
 						if (genres.includes(convertFilterName(filter))) {
 							item.removeAttribute('hidden');
@@ -173,10 +204,25 @@
 			}
 		}
 
-		const havePlayedItems = document.querySelectorAll('.have-played-grid .item:not([hidden])');
+		const havePlayedItems = document.querySelectorAll('.media-section.have-played .media-grid .media-box:not([hidden])');
 		document.getElementById('have-played').textContent = havePlayedItems.length;
 
-		const currentlyPlayingItems = document.querySelectorAll('.playing-grid .item:not([hidden])');
+		const havePlayedSection = document.querySelector('.media-section.have-played');
+		const playingSection = document.querySelector('.media-section.playing');
+
+		if (havePlayedItems.length > 0) {
+			havePlayedSection.removeAttribute('hidden');
+		} else {
+			havePlayedSection.setAttribute('hidden', 'true');
+		}
+
+		const currentlyPlayingItems = document.querySelectorAll('.media-section.playing .media-grid .media-box:not([hidden])');
 		document.getElementById('currently-playing').textContent = currentlyPlayingItems.length;
+
+		if (currentlyPlayingItems.length > 0) {
+			playingSection.removeAttribute('hidden');
+		} else {
+			playingSection.setAttribute('hidden', 'true');
+		}
 	}
 </script>

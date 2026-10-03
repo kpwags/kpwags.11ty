@@ -1,5 +1,5 @@
 @view-transition {
-  navigation: auto;
+	navigation: auto;
 }
 
 html,
@@ -190,6 +190,42 @@ hr {
 	background-color: transparent;
 }
 
+/* ---- BUTTONS ---- */
+button {
+	border-radius: 6px;
+	border-width: 1px;
+	border-style: solid;
+	padding: 8px 16px;
+	font-size: 1rem;
+	cursor: pointer;
+}
+
+.btn-link {
+	border: none;
+	color: var(--text);
+	text-decoration: underline;
+	background-color: transparent;
+	text-decoration-color: var(--color-1);
+	text-underline-offset: 3px;
+}
+
+.btn-link:hover {
+	text-decoration-color: var(--color-2);
+	color: var(--color-1);
+}
+
+.btn-ghost {
+	background-color: transparent;
+	border-color: var(--color-1);
+	color: var(--color-1);
+}
+
+.btn-ghost:hover {
+	border-color: var(--primary-300);
+	color: var(--primary-300);
+}
+/* ---- END BUTTONS ---- */
+
 figure {
 	margin: 0;
 }
@@ -201,7 +237,7 @@ blockquote {
 }
 
 blockquote + blockquote {
-    margin-top: 32px;
+		margin-top: 32px;
 }
 
 blockquote p {
@@ -1768,3 +1804,164 @@ section.chart h2 {
 	}
 }
 /* ---- END STAR RATINGS ---- */
+
+/* ---- PLATFORM TAGS ---- */
+.platform-tag {
+	margin: 0;
+}
+
+.platform-tag .tag {
+	padding: 4px 16px;
+	border-radius: 12px;
+	display: inline-flex;
+	column-gap: 8px;
+	align-items: center;
+	font-size: 12px;
+	color: var(--white);
+}
+
+.platform-tag .tag.xbox {
+	background-color: oklch(50.41% 0.1647 142.58);
+	color: var(--white);
+}
+
+.platform-tag .tag.pc {
+	background-color: oklch(0.4125 0.0789 294.88);
+	color: var(--white);
+}
+
+.platform-tag .tag.playstation {
+	background-color: oklch(54.26% 0.1678 253.1);
+	color: var(--white);
+}
+
+.platform-tag .tag.nintendo {
+	background-color: oklch(58.14% 0.2375 27.86);
+	color: var(--white);
+}
+
+.platform-tag .tag.audiobook {
+	background-color: oklch(49.12% 0.2171 312.35);
+}
+
+.platform-tag .tag.hardcover {
+	background-color: oklch(49.12% 0.0913 65.65);
+}
+
+.platform-tag .tag.paperback {
+	background-color: oklch(47.94% 0.1653 0);
+}
+
+.platform-tag .tag.ebook {
+	background-color: oklch(49.12% 0.0814 227.65);
+}
+
+.platform-tag .tag svg {
+	fill: var(--white);
+	width: 12px;
+	height: 12px;
+}
+/* ---- END PLATFORM TAGS ---- */
+
+/* ---- VIDEO GAMES PAGE ---- */
+.video-game-page {
+	width: 100%;
+	display: grid;
+	grid-column-gap: 96px;
+	grid-template-columns: 225px auto;
+}
+
+@media (max-width: 900px) {
+	.video-game-page {
+		display: flex;
+		gap: 16px;
+		flex-direction: column;
+	}
+}
+/* ---- END VIDEO GAMES PAGE ---- */
+
+/* ---- MEDIA FILTERS ---- */
+fieldset.filters,
+fieldset.filters-sublist {
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+
+fieldset.filters-sublist:first-of-type  {
+	margin-top: 32px;
+}
+
+fieldset.filters-sublist {
+	margin-bottom: 32px;
+}
+
+fieldset.filters legend {
+	font-size: 1.5rem;
+	margin-bottom: 8px;
+	color: var(--color-2);
+}
+
+fieldset.filters-sublist legend {
+	margin-bottom: 8px;
+	font-size: 1.25rem;
+	color: var(--color-3);
+}
+
+.filters .filter-list {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+}
+
+.filters .filter-list input {
+	display: none;
+}
+
+.filters .filter-list label {
+	border: 1px solid var(--color-1);
+	border-radius: 10px;
+	padding: 8px;
+	text-align: center;
+	cursor: pointer;
+	font-size: 1rem;
+	display: block;
+	width: 100%;
+}
+
+.filters .filter-list label:has(input:checked) {
+	background-color: var(--color-1);
+	color: var(--white);
+}
+
+@media (max-width: 900px) {
+	.filter-legend {
+		margin-bottom: 16px;
+	}
+
+	fieldset.filters-sublist legend {
+		position: absolute;
+		width: 1px;
+		height: 1px;
+		padding: 0;
+		margin: -1px;
+		overflow: hidden;
+		clip: rect(0, 0, 0, 0);
+		white-space: nowrap;
+		border-width: 0;
+		margin: 0;
+	}
+
+	.filters .filter-list {
+		display: flex;
+		flex-direction: row;
+		gap: 16px;
+		flex-wrap: wrap;
+	}
+
+	.filters .filter-list label {
+		width: auto;
+	}
+}
+/* ---- END MEDIA FILTERS ---- */
+	
