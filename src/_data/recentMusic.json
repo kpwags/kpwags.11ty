@@ -1,5 +1,321 @@
 [
 	{
+		"musicAlbumId": 305,
+		"title": "Harboring the Hurt I've Caused",
+		"artist": "Cory Wells",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/4d3xP75K/cory-wells-harboring-the-hurt.jpg",
+		"isTopTen": false,
+		"showOnNowPage": true,
+		"datePurchased": "Fri, 02 Oct 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Harboring the Hurt I've Caused"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Gravity"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Hopeless"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Natural Disaster"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Do You Like That You Love Me"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Empty"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Breathe Again"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Reprise"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Long Long Time (Linda Ronstadt)"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 306,
+		"title": "Avalanche (Deluxe)",
+		"artist": "Jenny Owen Youngs",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/sX2gmQcQ/jenny-owen-youngs-avalanche.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 02 Oct 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Avalanche"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Knife Went In"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Goldenrod"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Everglades"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Bury Me Slowly"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Next Time Around"
+			},
+			{
+				"trackNumber": 7,
+				"title": "It's Later Than You Think"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Salt"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Set it on Fire"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Now Comes the Mystery"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Someone's Ex"
+			},
+			{
+				"trackNumber": 12,
+				"title": "Avalanche (Reimagined) (featuring John Mark Nelson)"
+			},
+			{
+				"trackNumber": 13,
+				"title": "Knife Went In (Reimagined) (featuring Ruen Brothers)"
+			},
+			{
+				"trackNumber": 14,
+				"title": "Someone's Ex (Piano Version) (featuring Jukebox the Ghost)"
+			},
+			{
+				"trackNumber": 15,
+				"title": "Goldenrod (Generationals Remix) (featuring Generationals)"
+			},
+			{
+				"trackNumber": 16,
+				"title": "Everglades (Demo) (featuring Tancred)"
+			},
+			{
+				"trackNumber": 17,
+				"title": "Next Time Around (Demo)"
+			},
+			{
+				"trackNumber": 18,
+				"title": "It's Later Than You Think (Demo)"
+			},
+			{
+				"trackNumber": 19,
+				"title": "Avalanche (Live)"
+			},
+			{
+				"trackNumber": 20,
+				"title": "Knife Went In (Live)"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 307,
+		"title": "Echo Mountain",
+		"artist": "Jenny Owen Youngs",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/mDrgjzw1/jenny-owen-youngs-echo-mountain.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 02 Oct 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Follow You"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Sunfish"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Little Bird"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Dungeons and Dragons"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Long Long Gone (Demo)"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Follow You (John Mark Nelson Remix)"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Dungeons and Dragons (Generationals Remix)"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Dungeons and Dragons (S. Carey Remix)"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 308,
+		"title": "It's Dangerous to Go Alone",
+		"artist": "Jenny Owen Youngs",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/QtMdm9bT/jenny-owen-youngs-dangerous-to-go-alone.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 02 Oct 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Another Castle"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Lost"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Ghosts (featuring Hrishikesh Hirway and Ty Demo)"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Dragonborn (featuring John Mark Nelson)"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 309,
+		"title": "Night Shift (Extended Edition)",
+		"artist": "Jenny Owen Youngs",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/265SGbwn/jenny-owen-youngs-night-shift.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 02 Oct 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Vampire Weeknight"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Living Room"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Dreaming on the Bus"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Gravitron"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Dream Was About"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Teenage Dream"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Vampire Weeknight (The One AM Radio Remix)"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Dreaming on the Bus (Ra Ra Riot Remix)"
+			}
+		]
+	},
+	{
 		"musicAlbumId": 298,
 		"title": "Hause Family Campfire - Volume 1",
 		"artist": "Dave Hause",
@@ -404,78 +720,6 @@
 			{
 				"trackNumber": 12,
 				"title": "Snake Bites"
-			}
-		]
-	},
-	{
-		"musicAlbumId": 297,
-		"title": "Caution",
-		"artist": "Hot Water Music",
-		"thoughts": "",
-		"coverImageUrl": "https://i.postimg.cc/hv8Gj7F9/hot-water-music-caution.webp",
-		"isTopTen": false,
-		"showOnNowPage": true,
-		"datePurchased": "Tue, 01 Sep 2026 00:00:00 GMT",
-		"genres": [
-			{
-				"name": "Punk",
-				"colorCode": "rgb(191, 0, 188)"
-			}
-		],
-		"formats": [
-			{
-				"name": "Digital",
-				"colorCode": "rgb(102, 59, 177)"
-			}
-		],
-		"tracks": [
-			{
-				"trackNumber": 1,
-				"title": "Remedy"
-			},
-			{
-				"trackNumber": 2,
-				"title": "Trusty Chords"
-			},
-			{
-				"trackNumber": 3,
-				"title": "I Was on a Mountain"
-			},
-			{
-				"trackNumber": 4,
-				"title": "One Step to Slip"
-			},
-			{
-				"trackNumber": 5,
-				"title": "It's All Related"
-			},
-			{
-				"trackNumber": 6,
-				"title": "The Sense"
-			},
-			{
-				"trackNumber": 7,
-				"title": "Not for Anyone"
-			},
-			{
-				"trackNumber": 8,
-				"title": "Sweet Disasters"
-			},
-			{
-				"trackNumber": 9,
-				"title": "Alright for Now"
-			},
-			{
-				"trackNumber": 10,
-				"title": "We'll Say Anything We Want"
-			},
-			{
-				"trackNumber": 11,
-				"title": "Wayfarer"
-			},
-			{
-				"trackNumber": 12,
-				"title": "The End"
 			}
 		]
 	}
