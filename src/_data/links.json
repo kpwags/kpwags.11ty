@@ -1,5 +1,170 @@
 [
 	{
+		"linkId": 1841,
+		"title": "Phone-Free Concerts Can Restore the Power of Live Music",
+		"author": "Jessica Karl",
+		"url": "https://www.bloomberg.com/opinion/articles/2026-06-13/phoebe-bridgers-phone-free-concerts-restore-the-power-of-live-music?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc4MTU5MiwiZXhwIjoxNzkxMzg2MzkyLCJhcnRpY2xlSWQiOiJUR0tLMjNLR0lGUFIwMCIsImJjb25uZWN0SWQiOiI4Q0NEMDRGNjgxQTM0NUVGQTY2RjZGRUFDNTRCMjhCNiJ9.B1j_SfINwFgbni_ASt3cHpSNPGAuU7fu5PO4qKo9Rn4&ueid=6952af838c8196d9b21892dd907f35e1&utm_source=Sailthru&utm_medium=email&utm_campaign=2026-10-03%20Installer%20146&utm_term=Installer",
+		"linkDate": "2026-10-03T00:00:00.000Z",
+		"category": {
+			"name": "Media & Entertainment",
+			"colorCode": "#7949a8"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1842,
+		"title": "“Code was never the hard part” is an insult to all programmers",
+		"author": "Senko Rašić",
+		"url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+		"linkDate": "2026-10-03T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1843,
+		"title": "Bottle Your Judgment and Make it Outlive You",
+		"author": "Dan Maccarone",
+		"url": "https://uxdesign.cc/bottle-your-judgment-and-make-it-outlive-you-14f422772262",
+		"linkDate": "2026-10-03T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1835,
+		"title": "You’ll miss publishers when they’re gone",
+		"author": "Andy Bell",
+		"url": "https://bell.bz/youll-miss-publishers-when-theyre-gone/",
+		"linkDate": "2026-09-30T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1836,
+		"title": "The death of web development education",
+		"author": "Mat​hia⁠s S​chäf⁠er",
+		"url": "https://molily.de/web-dev-education/",
+		"linkDate": "2026-09-30T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1837,
+		"title": "Why house prices may be in trouble",
+		"author": "The Economist",
+		"url": "https://www.economist.com/leaders/2026/09/24/why-house-prices-may-be-in-trouble",
+		"linkDate": "2026-09-30T00:00:00.000Z",
+		"category": {
+			"name": "Economics",
+			"colorCode": "#4f7a28"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1838,
+		"title": "Humans Are Reading Copilot Prompts — And They're Horrified",
+		"author": "Joseph Cox",
+		"url": "https://www.404media.co/humans-reading-copilot-prompts-images/",
+		"linkDate": "2026-09-30T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1839,
+		"title": "The Xbox reset gets ugly",
+		"author": "Tom Warren",
+		"url": "https://www.theverge.com/tech/999919/microsoft-xbox-reorganization-activision-notepad",
+		"linkDate": "2026-09-30T00:00:00.000Z",
+		"category": {
+			"name": "Gaming",
+			"colorCode": "#275576"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1840,
+		"title": "The New York Times Is Taking The Absolute Piss With This Xbox Puff Piece",
+		"author": "Luke Plunkett",
+		"url": "https://aftermath.site/xbox-asha-sharma-interview-new-york-times/",
+		"linkDate": "2026-09-30T00:00:00.000Z",
+		"category": {
+			"name": "Gaming",
+			"colorCode": "#275576"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1833,
+		"title": "Stop updating NuGet packages on every project",
+		"author": "David Grace",
+		"url": "https://www.roundthecode.com/dotnet-tutorials/stop-updating-nuget-packages-every-project",
+		"linkDate": "2026-09-29T00:00:00.000Z",
+		"category": {
+			"name": ".NET",
+			"colorCode": "#5725a0"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1834,
+		"title": "We gave AI the work people used to learn from",
+		"author": "Julie Yack",
+		"url": "https://julieyack.com/2026/08/10/we-gave-ai-the-work-people-used-to-learn-from/",
+		"linkDate": "2026-09-29T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1829,
 		"title": "Big booze is reinventing itself",
 		"author": "The Economist: Money Talks",
@@ -23,6 +188,36 @@
 		"category": {
 			"name": "Sports",
 			"colorCode": "#2d5f6f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1831,
+		"title": "Why It Took Years For A Story About Bobby Kotick Sending Journalists Legal Threats To Come Out",
+		"author": "Aftermath",
+		"url": "https://aftermath.site/podcasts/aftermath-hours-podcast-bobby-kotick-games-journalists/",
+		"linkDate": "2026-09-28T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1832,
+		"title": "Blizzard is scrambling to meet World of Warcraft Forever's unexpected popularity",
+		"author": "Willa Rowe",
+		"url": "https://www.polygon.com/world-of-warcraft-forever-beta-blizzard-population-increase/",
+		"linkDate": "2026-09-28T00:00:00.000Z",
+		"category": {
+			"name": "Gaming",
+			"colorCode": "#275576"
 		},
 		"type": {
 			"name": "Link",
