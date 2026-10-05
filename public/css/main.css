@@ -328,6 +328,10 @@ div.code-block-filename {
 	max-width: 100%;
 }
 
+.italics {
+	font-style: italic;
+}
+
 fit-vids {
 	margin-bottom: 48px;
 }
@@ -1879,6 +1883,26 @@ section.chart h2 {
 	}
 }
 /* ---- END VIDEO GAMES PAGE ---- */
+
+/* ---- PODCAST PAGE ---- */
+.podcast-grid {
+	display: flex;
+	gap: 48px 32px;
+	align-items: flex-start;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.podcast-grid .item {
+	width: 160px;
+	text-align: center;
+	font-size: 0.85rem;
+}
+
+.podcast-grid .item .info {
+	margin-top: 8px;
+}
+/* ---- END PODCAST PAGE ---- */
 
 /* ---- MEDIA FILTERS ---- */
 fieldset.filters,

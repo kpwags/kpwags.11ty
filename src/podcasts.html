@@ -4,23 +4,25 @@ title: "Podcasts"
 ---
 <h1>Podcasts</h1>
 
-<p>Last Updated: {{ config.builtAt | readableDate }}</p>
+<p class="italics">Last Updated: {{ config.builtAt | readableDate }}</p>
 
-{% for category in podcasts %}
-<section class="media-section">
-	<h2>{{ category.name }} ({{ category.podcasts | length }})</h2>
+<div class="podcast-page media-page">
+	{% for category in podcasts %}
+		<section class="media-section">
+			<h2>{{ category.name }} ({{ category.podcasts | length }})</h2>
 
-	<div class="grid">
-		{% for podcast in category.podcasts %}
-			<div class="item">
-				<div class="cover">
-					<img src="{{ podcast.coverImageUrl }}" alt="{{ podcast.name }}" width="200" height="200" />
-				</div>
-				<div class="info">
-					<a href="{{ podcast.link }}">{{ podcast.name }}</a>
-				</div>
+			<div class="podcast-grid">
+				{% for podcast in category.podcasts %}
+					<div class="item">
+						<div class="cover">
+							<img src="{{ podcast.coverImageUrl }}" alt="{{ podcast.name }}" width="200" height="200" />
+						</div>
+						<div class="info">
+							<a href="{{ podcast.link }}">{{ podcast.name }}</a>
+						</div>
+					</div>
+				{% endfor %}
 			</div>
-		{% endfor %}
-	</div>
-</section>
-{% endfor %}
+		</section>
+	{% endfor %}
+</div>
