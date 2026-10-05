@@ -1,5 +1,35 @@
 [
 	{
+		"linkId": 1845,
+		"title": "The Value of Open Source in the Age of AI",
+		"author": "Working Code",
+		"url": "https://workingcode.dev/episodes/225-the-value-of-open-source-in-the-age-of-ai/",
+		"linkDate": "2026-10-05T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1844,
+		"title": "Researchers Show How Meta's 'Pervert Glasses' Are Used to Harass Women",
+		"author": "Samantha Cole",
+		"url": "https://www.404media.co/meta-ray-ban-smart-glasses-pov-instagram-pickup-artists/",
+		"linkDate": "2026-10-04T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1841,
 		"title": "Phone-Free Concerts Can Restore the Power of Live Music",
 		"author": "Jessica Karl",
