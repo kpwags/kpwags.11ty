@@ -1768,6 +1768,23 @@ section.chart h2 {
 .media-grid .media-box .date {
 	line-height: 1;
 }
+
+.media-box .container .details {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+}
+
+.media-box .container .details .progress {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+
+.media-box .container .details .progress span {
+	font-size: 0.9rem;
+	color: var(--color-2);
+}
 /* ---- END MEDIA PAGES ---- */
 
 /* ---- STAR RATINGS ---- */
@@ -1988,4 +2005,24 @@ fieldset.filters-sublist legend {
 	}
 }
 /* ---- END MEDIA FILTERS ---- */
-	
+
+/* ---- MEDIA PROGRESS BAR ---- */
+.media-progress-bar {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.media-progress-bar .bar {
+	height: 32px;
+	border: 1px solid var(--border-color);
+}
+
+.media-progress-bar .bar .inner-bar {
+	height: 100%;
+	background-color: var(--color-1);
+	color: var(--white);
+	font-size: 0.8rem;
+	line-height: 32px;
+	text-align: center;
+}
+/* ---- END PROGRESS BAR ---- */
