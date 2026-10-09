@@ -2052,3 +2052,276 @@ fieldset.filters-sublist legend {
 	text-align: center;
 }
 /* ---- END PROGRESS BAR ---- */
+
+/* ---- ARCHIVES PAGE ---- */
+section.archives-years {
+	text-align: center;
+}
+
+section.archives-years ul {
+	margin: 0;
+	padding: 0;
+	display: inline-flex;
+	gap: 24px;
+	flex-wrap: wrap;
+}
+
+section.archives-years ul li {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+section.archives-years ul li::marker {
+	content: '';
+}
+
+section.filter {
+	margin-top: 32px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+	gap: 16px;
+}
+
+section.filter .text-filter {
+	display: flex;
+	justify-content: center;
+	gap: 24px;
+	align-items: stretch;
+}
+
+section.filter .text-filter label {
+	display: inline-block;
+}
+
+section.filter .text-filter input {
+	margin-left: 16px;
+	padding: 8px 12px;
+	width: 300px;
+}
+
+.post-controls fieldset {
+	display: flex;
+	gap: 16px;
+	align-items: center;
+	border: none;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	flex-wrap: wrap;
+}
+
+.post-controls legend {
+	font-weight: normal;
+	display: contents;
+}
+
+.post-controls label {
+	cursor: pointer;
+}
+
+.post-controls input {
+	display: none;
+}
+
+.post-type-option {
+	border: 1px solid var(--border-color);
+	padding: 4px 8px;
+	border-radius: 6px;
+	text-align: center;
+	font-size: 1rem;
+}
+
+.post-controls label:has(input[id="all"]):hover .post-type-option {
+	border-color: var(--color-1);
+}
+
+.post-controls label:has(input[id="blog"]):hover .post-type-option {
+	border-color: var(--archives-blog-post-color);
+}
+
+.post-controls label:has(input[id="note"]):hover .post-type-option {
+	border-color: var(--archives-note-color);
+}
+
+.post-controls label:has(input[id="reading-log"]):hover .post-type-option {
+	border-color: var(--archives-reading-log-color);
+}
+
+.post-controls label:has(input[id="week-note"]):hover .post-type-option {
+	border-color: var(--archives-week-note-color);
+}
+
+.post-controls label:has(input[id="book-note"]):hover .post-type-option {
+	border-color: var(--archives-book-note-color);
+}
+
+.post-controls label:has(input[id="all"]:checked) .post-type-option {
+	border: 1px solid var(--color-1);
+	background-color: var(--color-1);
+	color: var(--white);
+}
+
+.post-controls label:has(input[id="blog"]:checked) .post-type-option {
+	border: 1px solid var(--archives-blog-post-color);
+	background-color: var(--archives-blog-post-color);
+	color: var(--white);
+}
+
+.post-controls label:has(input[id="note"]:checked) .post-type-option {
+	border: 1px solid var(--archives-note-color);
+	background-color: var(--archives-note-color);
+	color: var(--white);
+}
+
+.post-controls label:has(input[id="reading-log"]:checked) .post-type-option {
+	border: 1px solid var(--archives-reading-log-color);
+	background-color: var(--archives-reading-log-color);
+	color: var(--white);
+}
+
+.post-controls label:has(input[id="week-note"]:checked) .post-type-option {
+	border: 1px solid var(--archives-week-note-color);
+	background-color: var(--archives-week-note-color);
+	color: var(--white);
+}
+
+.post-controls label:has(input[id="book-note"]:checked) .post-type-option {
+	border: 1px solid var(--archives-book-note-color);
+	background-color: var(--archives-book-note-color);
+	color: var(--white);
+}
+
+@media (max-width: 500px) {
+	section.filter {
+		gap: 32px;
+	}
+
+	section.filter .text-filter input {
+		display: block;
+		margin: 8px 0 0 0;
+		padding: 9px 12px;
+		width: 100%;
+	}
+
+	section.filter .text-filter {
+		flex-direction: column;
+		gap: 8px;
+		width: 100%;
+	}
+
+	section.filter .text-filter button {
+		width: 100%;
+	}
+
+	.post-controls legend {
+		display: block;
+		margin-bottom: 8px;
+	}
+
+	.post-controls label {
+		width: 100%;
+	}
+
+	.post-type-option {
+		padding: 8px;
+	}
+}
+
+section.archives h2 {
+	margin-top: 48px;
+}
+
+.archives-list {
+	list-style-type: none;
+}
+
+.archives-list li {
+	display: flex;
+	justify-content: space-between;
+	border-bottom: 1px solid var(--border-color);
+	align-items: center;
+	padding: 4px 8px;
+	margin: 0;
+}
+
+.archives-list li[hidden] {
+	display: none;
+}
+
+.archives-list li:first-child {
+	border-top: 1px solid var(--border-color);
+}
+
+.archives-list li .post-metadata {
+	display: flex;
+	gap: 12px;
+	min-width: 195px;
+	align-items: center;
+	justify-content: flex-end;
+}
+
+.archives-list li .post-metadata span.tag {
+	padding: 2px 8px;
+	border-radius: 2px;
+	align-self: center;
+	font-size: 0.75rem;
+}
+
+.archives-list li .post-metadata span.tag.post {
+	background-color: oklch(0.4147 0.0937 241.41);
+	color: oklch(100% 0 0);
+}
+
+.archives-list li .post-metadata span.tag.reading-log {
+	background-color: oklch(0.5235 0.1283 46.59);
+	color: oklch(100% 0 0);
+}
+
+.archives-list li .post-metadata span.tag.note {
+	background-color: oklch(0.4941 0.0863 171.53);
+	color: oklch(100% 0 0);
+}
+
+.archives-list li .post-metadata span.tag.book-note {
+	background-color: oklch(0.4294 0.1603 321.88);
+	color: oklch(100% 0 0);
+}
+
+.archives-list li .post-metadata span.tag.week-note {
+	background-color: oklch(0.4169 0.1381 354.71);
+	color: oklch(100% 0 0);
+}
+
+.archives-list li .post-metadata span.date {
+	min-width: 75px;
+	text-align: right;
+}
+
+.archive-year:has(li[hidden]) {
+	display: none;
+}
+
+.archive-year:has(li:not([hidden])) {
+	display: inherit;
+}
+
+@media (max-width: 500px) {
+	.archives-list li {
+		padding: 8px;
+	}
+
+	.archives-list li .post-metadata {
+		flex-direction: column;
+		min-width: 100px;
+		gap: 4px;
+		align-items: flex-end;
+	}
+
+	.archives-list li .post-metadata span.tag {
+		align-self: flex-end;
+	}
+}
+/* ---- END ARCHIVES PAGE ---- */

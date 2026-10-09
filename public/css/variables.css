@@ -36,6 +36,12 @@
 	--primary-700: #49159a;
 	--primary-800: #380f78;
 	--primary-900: #270954;
+
+	--archives-blog-post-color: oklch(0.4147 0.0937 241.41);
+	--archives-note-color: oklch(0.4941 0.0863 171.53);
+	--archives-reading-log-color: oklch(0.5235 0.1283 46.59);
+	--archives-week-note-color: oklch(0.4169 0.1381 354.71);
+	--archives-book-note-color: oklch(0.4294 0.1603 321.88);
 }
 
 @media (prefers-color-scheme: light) {
