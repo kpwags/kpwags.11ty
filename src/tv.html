@@ -19,7 +19,7 @@ title: "Television Shows"
 	<section class="media-section">
 		<h2>On Pause ({{ tv.betweenSeasons | length }})</h2>
 
-		<div class="grid">
+		<div class="grid tv-in-progress">
 			{% for show in tv.betweenSeasons %}
 			{% tvListing show false false %}
 			{% endfor %}

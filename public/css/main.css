@@ -1732,6 +1732,7 @@ section.chart h2 {
 		margin: 0 auto;
 		width: 200px;
 		height: 300px;
+		aspect-ratio: 2 / 3;
 	}
 }
 
@@ -1758,11 +1759,6 @@ section.chart h2 {
 .media-grid .media-box {
 	width: 100%;
 	margin: 0;
-}
-
-.media-grid .media-box img {
-	width: 150px;
-	height: 225px;
 }
 
 .media-grid .media-box .date {
@@ -1920,6 +1916,36 @@ section.chart h2 {
 	margin-top: 8px;
 }
 /* ---- END PODCAST PAGE ---- */
+
+/* ---- TV PAGE ---- */
+.tv-in-progress {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 16px;
+	justify-content: center;
+}
+
+.tv-in-progress .media-box {
+	width: 300px;
+	margin: 0;
+}
+
+.tv-in-progress .media-box .container {
+	flex-direction: column;
+	align-items: center;
+	min-width: 200px;
+}
+
+.tv-in-progress .media-box .title {
+	font-size: 1.25rem;
+}
+
+@media (max-width: 649px) {
+	.tv-in-progress .media-box {
+		width: 238px;
+	}
+}
+/* ---- END TV PAGE ---- */
 
 /* ---- MEDIA FILTERS ---- */
 fieldset.filters,

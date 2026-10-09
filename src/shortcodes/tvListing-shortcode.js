@@ -7,7 +7,7 @@ const getProgress = (showProgress, progress) => {
 
 	return `
 <div class="progress">
-	<span>Watch Pogress</span>
+	<span>Progress</span>
 	<div class="media-progress-bar" title="${progress}% complete">
 		<div class="bar">
 			<div class="inner-bar" style="width: ${progress}%">${progress}%</div>
