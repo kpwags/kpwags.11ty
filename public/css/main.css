@@ -1732,6 +1732,7 @@ section.chart h2 {
 		margin: 0 auto;
 		width: 200px;
 		height: 300px;
+		aspect-ratio: 2 / 3;
 	}
 }
 
@@ -1760,13 +1761,25 @@ section.chart h2 {
 	margin: 0;
 }
 
-.media-grid .media-box img {
-	width: 150px;
-	height: 225px;
-}
-
 .media-grid .media-box .date {
 	line-height: 1;
+}
+
+.media-box .container .details {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+}
+
+.media-box .container .details .progress {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+
+.media-box .container .details .progress span {
+	font-size: 0.9rem;
+	color: var(--color-2);
 }
 /* ---- END MEDIA PAGES ---- */
 
@@ -1904,6 +1917,36 @@ section.chart h2 {
 }
 /* ---- END PODCAST PAGE ---- */
 
+/* ---- TV PAGE ---- */
+.tv-in-progress {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 16px;
+	justify-content: center;
+}
+
+.tv-in-progress .media-box {
+	width: 300px;
+	margin: 0;
+}
+
+.tv-in-progress .media-box .container {
+	flex-direction: column;
+	align-items: center;
+	min-width: 200px;
+}
+
+.tv-in-progress .media-box .title {
+	font-size: 1.25rem;
+}
+
+@media (max-width: 649px) {
+	.tv-in-progress .media-box {
+		width: 238px;
+	}
+}
+/* ---- END TV PAGE ---- */
+
 /* ---- MEDIA FILTERS ---- */
 fieldset.filters,
 fieldset.filters-sublist {
@@ -1988,4 +2031,24 @@ fieldset.filters-sublist legend {
 	}
 }
 /* ---- END MEDIA FILTERS ---- */
-	
+
+/* ---- MEDIA PROGRESS BAR ---- */
+.media-progress-bar {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.media-progress-bar .bar {
+	height: 32px;
+	border: 1px solid var(--border-color);
+}
+
+.media-progress-bar .bar .inner-bar {
+	height: 100%;
+	background-color: var(--color-1);
+	color: var(--white);
+	font-size: 0.8rem;
+	line-height: 32px;
+	text-align: center;
+}
+/* ---- END PROGRESS BAR ---- */
