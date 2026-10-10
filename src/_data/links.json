@@ -1,5 +1,35 @@
 [
 	{
+		"linkId": 1850,
+		"title": "Oops, Should’ve Thought of That",
+		"author": "Jim Nielsen",
+		"url": "https://blog.jim-nielsen.com/2026/oops-shouldve-thought-of-that/",
+		"linkDate": "2026-10-08T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1849,
+		"title": "Shipping JPEG XL in Chrome",
+		"author": "Luca Versari, Moritz Firsching & Philip Jägenstedt",
+		"url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+		"linkDate": "2026-10-07T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1846,
 		"title": "Meta’s Muse Is An Adorable Privacy And Security Dumpster Fire",
 		"author": "Karl Bode",
@@ -8,6 +38,36 @@
 		"category": {
 			"name": "AI",
 			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1847,
+		"title": "Why Is Everyone In Tech So Sad?",
+		"author": "Aaron Horwath",
+		"url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+		"linkDate": "2026-10-06T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1848,
+		"title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+		"author": "Andros Fenollosa",
+		"url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+		"linkDate": "2026-10-06T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
 		},
 		"type": {
 			"name": "Link",
