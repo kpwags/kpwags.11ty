@@ -1,24 +1,24 @@
 {
 	"inProgress": [
 		{
-			"bookId": 679,
-			"title": "Of Monsters and Mainframes",
+			"bookId": 699,
+			"title": "Green & Deadly Things",
 			"subTitle": "",
-			"fullTitle": "Of Monsters and Mainframes",
-			"author": "Barbara Truelove",
-			"link": "https://bookshop.org/p/books/of-monsters-and-mainframes-barbara-truelove/e8151d9546a82f7d",
-			"dateStarted": "2026-09-28T00:00:00.000Z",
+			"fullTitle": "Green & Deadly Things",
+			"author": "Jenn Lyons",
+			"link": "https://bookshop.org/p/books/green-deadly-things-jenn-lyons/b6959aa2ff5d37ec",
+			"dateStarted": "2026-10-07T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/XYgMpyTP/truelove-of-monsters-and-mainframes.jpg",
+			"coverImageUrl": "https://i.postimg.cc/Hk9Wzygz/green-deadly-things.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 364,
-			"pageCount": 411,
-			"progress": 89,
-			"sortOrder": 1,
+			"currentPage": 109,
+			"pageCount": 354,
+			"progress": 31,
+			"sortOrder": 2,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
@@ -30,18 +30,14 @@
 			"series": null,
 			"genres": [
 				{
-					"name": "Horror",
-					"colorCode": "rgb(146, 4, 4)"
-				},
-				{
-					"name": "Science Fiction",
-					"colorCode": "rgb(102, 119, 2)"
+					"name": "Fantasy",
+					"colorCode": "rgb(172, 152, 5)"
 				}
 			],
 			"formats": [
 				{
-					"name": "Paperback",
-					"colorCode": "#cd6a29"
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
 				}
 			]
 		}
@@ -50,6 +46,51 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 679,
+					"title": "Of Monsters and Mainframes",
+					"subTitle": "",
+					"fullTitle": "Of Monsters and Mainframes",
+					"author": "Barbara Truelove",
+					"link": "https://bookshop.org/p/books/of-monsters-and-mainframes-barbara-truelove/e8151d9546a82f7d",
+					"dateStarted": "2026-09-28T00:00:00.000Z",
+					"dateCompleted": "2026-10-06T00:00:00.000Z",
+					"rating": 4,
+					"bookNotesUrl": "",
+					"thoughts": "I enjoyed this. It was whimsical and enjoyable. Reminded me a little of The Murderbot Diaries.",
+					"coverImageUrl": "https://i.postimg.cc/XYgMpyTP/truelove-of-monsters-and-mainframes.jpg",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 411,
+					"pageCount": 411,
+					"progress": 100,
+					"sortOrder": 1,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Horror",
+							"colorCode": "rgb(146, 4, 4)"
+						},
+						{
+							"name": "Science Fiction",
+							"colorCode": "rgb(102, 119, 2)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Paperback",
+							"colorCode": "#cd6a29"
+						}
+					]
+				},
 				{
 					"bookId": 781,
 					"title": "The Wager",
@@ -16351,47 +16392,6 @@
 		}
 	],
 	"toRead": [
-		{
-			"bookId": 699,
-			"title": "Green & Deadly Things",
-			"subTitle": "",
-			"fullTitle": "Green & Deadly Things",
-			"author": "Jenn Lyons",
-			"link": "https://bookshop.org/p/books/green-deadly-things-jenn-lyons/b6959aa2ff5d37ec",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/Hk9Wzygz/green-deadly-things.jpg",
-			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 1,
-			"pageCount": 354,
-			"progress": 0,
-			"sortOrder": 2,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Fantasy",
-					"colorCode": "rgb(172, 152, 5)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Hardcover",
-					"colorCode": "#a0175f"
-				}
-			]
-		},
 		{
 			"bookId": 634,
 			"title": "Old Man's War",
