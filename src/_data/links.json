@@ -1,5 +1,35 @@
 [
 	{
+		"linkId": 1851,
+		"title": "Well done AI, that’s the end of the honesty boxes",
+		"author": "Ben Frain",
+		"url": "https://benfrain.com/well-done-ai-thats-the-end-of-the-honest-boxes/",
+		"linkDate": "2026-10-10T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1852,
+		"title": "How the AI boom could worsen the rich world’s fiscal crunch",
+		"author": "The Economist",
+		"url": "https://www.economist.com/finance-and-economics/2026/09/29/how-the-ai-boom-could-worsen-the-rich-worlds-fiscal-crunch",
+		"linkDate": "2026-10-10T00:00:00.000Z",
+		"category": {
+			"name": "Business & Finance",
+			"colorCode": "#0d5430"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1850,
 		"title": "Oops, Should’ve Thought of That",
 		"author": "Jim Nielsen",
