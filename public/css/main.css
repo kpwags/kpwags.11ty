@@ -1897,6 +1897,50 @@ section.chart h2 {
 }
 /* ---- END VIDEO GAMES PAGE ---- */
 
+/* ---- MUSIC ALBUMS PAGE ---- */
+.albums-page {
+	width: 100%;
+	display: grid;
+	grid-column-gap: 64px;
+	grid-template-columns: 200px auto;
+	margin: 64px 0 0 0;
+}
+
+.albums-page .albums-grid {
+	display: flex;
+	gap: 32px 16px;
+	flex-wrap: wrap;
+	align-items: stretch;
+	justify-content: center;
+}
+
+.albums-page .albums-grid .music-album {
+	width: 238px;
+	text-align: center;
+	border: 3px solid var(--color-2);
+	border-radius: 6px;
+	background: var(--background-shaded);
+}
+
+.albums-page .albums-grid .music-album .container {
+	padding: 16px;
+	min-width: 200px;
+}
+
+.albums-page .albums-grid .music-album .meta {
+	margin-top: 8px;
+	font-size: 0.75rem;
+}
+
+@media (max-width: 900px) {
+	.albums-page {
+		display: flex;
+		gap: 16px;
+		flex-direction: column;
+	}
+}
+/* ---- END MUSIC ALBUMS PAGE ---- */
+
 /* ---- PODCAST PAGE ---- */
 .podcast-grid {
 	display: flex;
@@ -2325,3 +2369,116 @@ section.archives h2 {
 	}
 }
 /* ---- END ARCHIVES PAGE ---- */
+
+/* ---- MUSIC ALBUM PAGE ---- */
+.music-album .back-link {
+	margin: 0 0 64px 0;
+}
+
+.album-info {
+	width: 800px;
+	margin: 0 auto;
+	display: flex;
+	gap: 32px;
+}
+
+.album-info .cover {
+	width: 200px;
+	flex-shrink: 0;
+	align-self: flex-start;
+}
+
+.album-info .details {
+	flex-grow: 1;
+	width: 100%;
+}
+
+.album-info .details h1 {
+	text-align: left;
+	margin: 0;
+	padding-bottom: 8px;
+	border-bottom: 1px solid var(--border-color);
+}
+
+.album-info .details .row {
+	display: flex;
+	gap: 48px;
+	border-bottom: 1px solid var(--border-color);
+	padding: 8px 0;
+}
+
+.album-info .details .row:last-child {
+	border-bottom: none;
+}
+
+.album-info .details .row .key {
+	width: 150px;
+	font-weight: bold;
+	flex-shrink: 0;
+}
+
+.album-info .details .row .value ul.tags {
+	margin: 0;
+	padding: 0;
+	display: inline-flex;
+	flex-wrap: wrap;
+	gap: 4px;
+}
+
+.album-info .details .row .value ul.tags li {
+	margin: 0;
+	padding: 2px 8px;
+	border-radius: 6px;
+	align-self: center;
+	color: var(--white);
+	list-style-type: none;
+	font-size: 0.8rem;
+}
+
+section.tracks {
+	border-top: 1px solid var(--border-color);
+	margin-top: 64px;
+	padding-top: 16px;
+}
+
+@media (max-width: 900px) {
+	.album-info {
+		width: 100%;
+	}
+}
+
+@media (max-width: 650px) {
+	.music-album .back-link {
+		margin: 32px 0;
+	}
+
+	.album-info {
+		width: 100%;
+		flex-direction: column;
+	}
+
+	.album-info .cover {
+		align-self: center;
+	}
+
+	.album-info .details h1 {
+		text-align: center;
+	}
+
+	.album-info .details .row {
+		gap: 32px;
+	}
+
+	.album-info .details .row .key {
+		width: 100px;
+	}
+
+	.album-info .details .row.date-purchased {
+		align-items: center;
+	}
+
+	section.tracks {
+		margin-top: 32px;
+	}
+}
+/* ---- END MUSIC ALBUM PAGE ---- */

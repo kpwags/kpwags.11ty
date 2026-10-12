@@ -1,269 +1,317 @@
 [
 	{
-		"musicAlbumId": 289,
-		"title": "Everything I Ever Saw",
-		"artist": "The Menzingers",
+		"musicAlbumId": 305,
+		"title": "Harboring the Hurt I've Caused",
+		"artist": "Cory Wells",
 		"thoughts": "",
-		"coverImageUrl": "https://i.postimg.cc/MKk2B2Ly/menzingers-everything-i-ever-saw.webp",
+		"coverImageUrl": "https://i.postimg.cc/4d3xP75K/cory-wells-harboring-the-hurt.jpg",
 		"isTopTen": false,
 		"showOnNowPage": true,
-		"datePurchased": "Fri, 17 Jul 2026 00:00:00 GMT",
+		"datePurchased": "Fri, 02 Oct 2026 00:00:00 GMT",
 		"genres": [
 			{
-				"name": "Punk",
-				"colorCode": "rgb(191, 0, 188)"
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
 			}
 		],
 		"formats": [
 			{
-				"name": "Vinyl",
-				"colorCode": "#a51643"
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
 			}
 		],
 		"tracks": [
 			{
 				"trackNumber": 1,
-				"title": "Chance Encounters"
+				"title": "Harboring the Hurt I've Caused"
 			},
 			{
 				"trackNumber": 2,
-				"title": "Better Angels"
+				"title": "Gravity"
 			},
 			{
 				"trackNumber": 3,
-				"title": "Romanticism"
+				"title": "Hopeless"
 			},
 			{
 				"trackNumber": 4,
-				"title": "Other People's Money"
+				"title": "Natural Disaster"
 			},
 			{
 				"trackNumber": 5,
-				"title": "Gasoline & Matches"
+				"title": "Do You Like That You Love Me"
 			},
 			{
 				"trackNumber": 6,
-				"title": "The Fool"
+				"title": "Empty"
 			},
 			{
 				"trackNumber": 7,
-				"title": "Nobody's Heroes"
+				"title": "Breathe Again"
 			},
 			{
 				"trackNumber": 8,
-				"title": "Breathe With Me"
+				"title": "Reprise"
 			},
 			{
 				"trackNumber": 9,
-				"title": "When She Enters My Dreams"
+				"title": "Long Long Time (Linda Ronstadt)"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 306,
+		"title": "Avalanche (Deluxe)",
+		"artist": "Jenny Owen Youngs",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/sX2gmQcQ/jenny-owen-youngs-avalanche.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 02 Oct 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Avalanche"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Knife Went In"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Goldenrod"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Everglades"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Bury Me Slowly"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Next Time Around"
+			},
+			{
+				"trackNumber": 7,
+				"title": "It's Later Than You Think"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Salt"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Set it on Fire"
 			},
 			{
 				"trackNumber": 10,
-				"title": "Parade Day"
+				"title": "Now Comes the Mystery"
 			},
 			{
 				"trackNumber": 11,
-				"title": "Everything I Ever Saw"
-			}
-		]
-	},
-	{
-		"musicAlbumId": 287,
-		"title": "New Ways to Lose",
-		"artist": "American Aquarium",
-		"thoughts": "",
-		"coverImageUrl": "https://i.postimg.cc/D0QrZC9s/american-aquarium-new-ways-to-lose.jpg",
-		"isTopTen": false,
-		"showOnNowPage": false,
-		"datePurchased": "Wed, 08 Jul 2026 00:00:00 GMT",
-		"genres": [
-			{
-				"name": "Country",
-				"colorCode": "rgb(120, 74, 0)"
-			}
-		],
-		"formats": [
-			{
-				"name": "Digital",
-				"colorCode": "rgb(102, 59, 177)"
-			}
-		],
-		"tracks": [
-			{
-				"trackNumber": 1,
-				"title": "Dollar General"
-			},
-			{
-				"trackNumber": 2,
-				"title": "Can't Into Could"
-			},
-			{
-				"trackNumber": 3,
-				"title": "4x60"
-			},
-			{
-				"trackNumber": 4,
-				"title": "Twin Flames"
-			},
-			{
-				"trackNumber": 5,
-				"title": "Out There in the Dark"
-			},
-			{
-				"trackNumber": 6,
-				"title": "History Repeats Itself"
-			},
-			{
-				"trackNumber": 7,
-				"title": "Favorite Hello"
-			},
-			{
-				"trackNumber": 8,
-				"title": "Whatever Helps You Sleep at Night"
-			},
-			{
-				"trackNumber": 9,
-				"title": "Just Like You"
-			},
-			{
-				"trackNumber": 10,
-				"title": "Bad Habits"
-			}
-		]
-	},
-	{
-		"musicAlbumId": 288,
-		"title": "Modern American Protest Music",
-		"artist": "Will Hoge",
-		"thoughts": "",
-		"coverImageUrl": "https://i.postimg.cc/5y5B0PhL/will-hoge-modern-protest-music.webp",
-		"isTopTen": false,
-		"showOnNowPage": false,
-		"datePurchased": "Wed, 08 Jul 2026 00:00:00 GMT",
-		"genres": [
-			{
-				"name": "Country",
-				"colorCode": "rgb(120, 74, 0)"
-			},
-			{
-				"name": "Folk",
-				"colorCode": "rgb(202, 122, 5)"
-			}
-		],
-		"formats": [
-			{
-				"name": "Digital",
-				"colorCode": "rgb(102, 59, 177)"
-			}
-		],
-		"tracks": [
-			{
-				"trackNumber": 1,
-				"title": "Founding Fathers"
-			},
-			{
-				"trackNumber": 2,
-				"title": "Jesus Came to Tennessee"
-			},
-			{
-				"trackNumber": 3,
-				"title": "Folded Flag"
-			},
-			{
-				"trackNumber": 4,
-				"title": "When Do I Get to Come Home"
-			},
-			{
-				"trackNumber": 5,
-				"title": "Times are Not Changing"
-			},
-			{
-				"trackNumber": 6,
-				"title": "I Don't Believe"
-			},
-			{
-				"trackNumber": 7,
-				"title": "Ballad of Trayvon Martin"
-			}
-		]
-	},
-	{
-		"musicAlbumId": 286,
-		"title": "Clear Blocks Ahead",
-		"artist": "Tim Barry",
-		"thoughts": "",
-		"coverImageUrl": "https://i.postimg.cc/bYQLXYdj/tim-barry-clear-blocks-ahead.jpg",
-		"isTopTen": false,
-		"showOnNowPage": true,
-		"datePurchased": "Thu, 25 Jun 2026 00:00:00 GMT",
-		"genres": [
-			{
-				"name": "Folk",
-				"colorCode": "rgb(202, 122, 5)"
-			}
-		],
-		"formats": [
-			{
-				"name": "Digital",
-				"colorCode": "rgb(102, 59, 177)"
-			},
-			{
-				"name": "Vinyl",
-				"colorCode": "#a51643"
-			}
-		],
-		"tracks": [
-			{
-				"trackNumber": 1,
-				"title": "W.W. Pool"
-			},
-			{
-				"trackNumber": 2,
-				"title": "Still Lit"
-			},
-			{
-				"trackNumber": 3,
-				"title": "Wreck-Less"
-			},
-			{
-				"trackNumber": 4,
-				"title": "Waltzing the Cell"
-			},
-			{
-				"trackNumber": 5,
-				"title": "Hello from Roanoake"
-			},
-			{
-				"trackNumber": 6,
-				"title": "Too Richmond for RVA"
-			},
-			{
-				"trackNumber": 7,
-				"title": "Miller & Rhoads"
-			},
-			{
-				"trackNumber": 8,
-				"title": "Steady Locomotion"
-			},
-			{
-				"trackNumber": 9,
-				"title": "Iron City Break"
-			},
-			{
-				"trackNumber": 10,
-				"title": "It Ain't Easy"
-			},
-			{
-				"trackNumber": 11,
-				"title": "Broken Songs"
+				"title": "Someone's Ex"
 			},
 			{
 				"trackNumber": 12,
-				"title": "Loads East, Empties West"
+				"title": "Avalanche (Reimagined) (featuring John Mark Nelson)"
 			},
 			{
 				"trackNumber": 13,
-				"title": "Thank You (For All the Songs)"
+				"title": "Knife Went In (Reimagined) (featuring Ruen Brothers)"
+			},
+			{
+				"trackNumber": 14,
+				"title": "Someone's Ex (Piano Version) (featuring Jukebox the Ghost)"
+			},
+			{
+				"trackNumber": 15,
+				"title": "Goldenrod (Generationals Remix) (featuring Generationals)"
+			},
+			{
+				"trackNumber": 16,
+				"title": "Everglades (Demo) (featuring Tancred)"
+			},
+			{
+				"trackNumber": 17,
+				"title": "Next Time Around (Demo)"
+			},
+			{
+				"trackNumber": 18,
+				"title": "It's Later Than You Think (Demo)"
+			},
+			{
+				"trackNumber": 19,
+				"title": "Avalanche (Live)"
+			},
+			{
+				"trackNumber": 20,
+				"title": "Knife Went In (Live)"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 307,
+		"title": "Echo Mountain",
+		"artist": "Jenny Owen Youngs",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/mDrgjzw1/jenny-owen-youngs-echo-mountain.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 02 Oct 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Follow You"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Sunfish"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Little Bird"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Dungeons and Dragons"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Long Long Gone (Demo)"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Follow You (John Mark Nelson Remix)"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Dungeons and Dragons (Generationals Remix)"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Dungeons and Dragons (S. Carey Remix)"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 308,
+		"title": "It's Dangerous to Go Alone",
+		"artist": "Jenny Owen Youngs",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/QtMdm9bT/jenny-owen-youngs-dangerous-to-go-alone.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 02 Oct 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Another Castle"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Lost"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Ghosts (featuring Hrishikesh Hirway and Ty Demo)"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Dragonborn (featuring John Mark Nelson)"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 309,
+		"title": "Night Shift (Extended Edition)",
+		"artist": "Jenny Owen Youngs",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/265SGbwn/jenny-owen-youngs-night-shift.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Fri, 02 Oct 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Vampire Weeknight"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Living Room"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Dreaming on the Bus"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Gravitron"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Dream Was About"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Teenage Dream"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Vampire Weeknight (The One AM Radio Remix)"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Dreaming on the Bus (Ra Ra Riot Remix)"
 			}
 		]
 	}

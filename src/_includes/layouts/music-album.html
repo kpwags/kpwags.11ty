@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="{{ metadata.language }}">
+
+<head>
+	{% include "head.html" %}
+	<title>{{ title }} by {{ artist }} - Music Collection - Keith Wagner</title>
+
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://kpwags.com{{ page.url }}" />
+	<meta property="og:title" content="{{ title }} by {{ artist }} - Music - Keith Wagner" />
+</head>
+
+<body>
+	{% include "header.html" %}
+
+	<main>
+		<article class="music-album">
+			<div class="content">
+				<div class="back-link">
+					<a href="/music/">&larr; Back to Music Collection</a>
+				</div>
+
+				<div class="album-info">
+					<div class="cover"><img src="{{ coverImageUrl }}" alt="Album cover for {{ title }} by {{ artist }}" width="200" height="200" /></div>
+					<div class="details">
+						<h1>{{ title }}</h1>
+
+						<div class="row">
+							<div class="key">Artist</div>
+							<div class="value">{{ artist }}</div>
+						</div>
+
+						{% if datePurchased %}
+							<div class="row date-purchased">
+								<div class="key">Date Purchased</div>
+								<div class="value">{{ datePurchased | readableDate }}</div>
+							</div>
+						{% endif %}
+
+						<div class="row">
+							<div class="key">Format(s)</div>
+							<div class="value">
+								<ul class="tags">
+									{% for format in formats %}
+										<li style="background-color: {{ format.color }};">{{ format.name }}</li>
+									{% endfor %}
+								</ul>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="key">Gernes(s)</div>
+							<div class="value">
+								<ul class="tags">
+									{% for genre in genres %}
+										<li style="background-color: {{ genre.color }};">{{ genre.name }}</li>
+									{% endfor %}
+								</ul>
+							</div>
+						</div>
+
+						{% if thoughts.length > 0 %}
+							<div class="row">
+								<div class="key">Thoughts</div>
+								<div class="value">{{ thoughts }}</div>
+							</div>	
+						{% endif %}
+					</div>
+				</div>
+
+				<section class="tracks">
+					<h2>Tracks</h2>
+					<ol>
+						{% for track in tracks %}
+							<li>{{ track }}</li>
+						{% endfor %}
+					</ol>
+				</section>
+			</div>
+		</article>
+	</main>
+
+	{% include "footer.html" %}
+</body>
+
+</html>

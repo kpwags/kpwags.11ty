@@ -6,8 +6,8 @@ const outputDirectory = os.platform() === 'darwin'
 	? config.outputDirectory.mac
 	: config.outputDirectory.linux;
 
-export const replaceFile = async (filename, content) => {
-	const outputFile =  `${outputDirectory}/${filename}`;
+export const replaceFile = async (filename, content, path = '/src/_data') => {
+	const outputFile =  `${outputDirectory}${path}/${filename}`;
 
 	if (fs.existsSync(outputFile)) {
 		await fs.unlinkSync(outputFile)
