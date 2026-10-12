@@ -104,15 +104,3 @@ title: "What I'm Up To"
 		{% endfor %}
 	</section>
 {% endif %}
-
-{% renderTemplate "webc" %}
-	<music-dialog></music-dialog>
-{% endrenderTemplate %}
-
-
-<script type="text/javascript" src="/scripts/music.js"></script>
-<script>
-	window.addEventListener('load', function () {
-		attachMusicAlbumEvents('.media-section .grid.music .item .btn-link');
-	});
-</script>
