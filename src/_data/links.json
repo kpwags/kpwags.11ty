@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1853,
+		"title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo",
+		"author": "Joseph Cox",
+		"url": "https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/",
+		"linkDate": "2026-10-12T00:00:00.000Z",
+		"category": {
+			"name": "Privacy",
+			"colorCode": "#26a269"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1851,
 		"title": "Well done AI, that’s the end of the honesty boxes",
 		"author": "Ben Frain",
