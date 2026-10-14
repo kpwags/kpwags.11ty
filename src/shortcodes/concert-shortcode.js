@@ -15,42 +15,31 @@ export default (concert) => {
 
 	const getOpeneners = (openers) => {
 		if (openers.length === 0) {
-			return '';
+			return '<div class="spacer"></div>';
 		}
 
-		let html = '<div class="openers">with ';
+		let html = '<div class="openers"><span>with</span><ul> ';
 
-		if (openers.length === 5) {
-			html += `${openers[0]}, ${openers[1]}, ${openers[2]}, ${openers[3]}, & ${openers[4]}`;
-		}
+		openers.forEach((opener) => {
+			html += `<li>${opener}</li>`;
+		});
 
-		if (openers.length === 4) {
-			html += `${openers[0]}, ${openers[1]}, ${openers[2]}, & ${openers[3]}`;
-		}
-
-		if (openers.length === 3) {
-			html += `${openers[0]}, ${openers[1]}, & ${openers[2]}`;
-		}
-
-		if (openers.length === 2){
-			html += `${openers[0]} & ${openers[1]}`;
-		}
-
-		if (openers.length === 1) {
-			html += openers[0];
-		}
-
-		html += '</div>';
+		html += '</ul></div>';
 
 		return html;
 	}
 
 	return `
 		<div class="event">
+			<div class="date"><span>${dayjs(concert.date).format('MMMM D, YYYY')}</span></div>
+
 			<h3>${getHeadliner(concert.headliner)}</h3>
+			
 			${getOpeneners(concert.openers)}
-			<div class="date">${dayjs(concert.date).format('MMMM D, YYYY')}</div>
-			<div>${concert.location} &bull; <em>${concert.city}</em></div>
+			
+			<div class="details">
+				<div>${concert.location} &bull; <em>${concert.city}</em></div>
+			</div>
 		</div>
 	`;
 };
