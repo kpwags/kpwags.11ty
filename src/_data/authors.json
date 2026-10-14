@@ -219,6 +219,15 @@
 		]
 	},
 	{
+		"name": "Barbara Truelove",
+		"books": [
+			{
+				"title": "Of Monsters and Mainframes",
+				"link": "https://bookshop.org/p/books/of-monsters-and-mainframes-barbara-truelove/e8151d9546a82f7d"
+			}
+		]
+	},
+	{
 		"name": "Barry Strauss",
 		"books": [
 			{
@@ -466,6 +475,19 @@
 			{
 				"title": "The Staircase in the Woods",
 				"link": "https://doylestownbookshop.com/book/9780593156568"
+			},
+			{
+				"title": "The Calamities",
+				"link": "https://doylestownbookshop.com/book/9798217091812"
+			}
+		]
+	},
+	{
+		"name": "Cindy Cohn",
+		"books": [
+			{
+				"title": "Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance",
+				"link": "https://bookshop.org/p/books/privacy-s-defender-my-thirty-year-fight-against-digital-surveillance-cindy-cohn/53886568f609835d"
 			}
 		]
 	},
@@ -487,6 +509,10 @@
 			{
 				"title": "Acquired Taste",
 				"link": "https://bookshop.org/p/books/acquired-taste-clay-mcleod-chapman/2d97fa26f163e8c5"
+			},
+			{
+				"title": "What Kind of Mother",
+				"link": "https://bookshop.org/p/books/what-kind-of-mother-clay-mcleod-chapman/f6bfedf2c5ff33a1"
 			}
 		]
 	},
@@ -622,6 +648,15 @@
 			{
 				"title": "Bullshit Jobs",
 				"link": "https://bookshop.org/p/books/bullshit-jobs-a-theory-david-graeber/6692761?ean=9781501143335"
+			}
+		]
+	},
+	{
+		"name": "David Grann",
+		"books": [
+			{
+				"title": "The Wager: A Tale of Shipwreck, Mutiny and Murder",
+				"link": "https://bookshop.org/p/books/the-wager-a-tale-of-shipwreck-mutiny-and-murder-david-grann/b1f2a00fc56cba78"
 			}
 		]
 	},
@@ -1209,6 +1244,24 @@
 		]
 	},
 	{
+		"name": "Joanna Stern",
+		"books": [
+			{
+				"title": "I Am Not a Robot: My Year Using AI to Do (Almost) Everything",
+				"link": "https://bookshop.org/p/books/i-am-not-a-robot-my-year-using-ai-to-do-almost-everything-joanna-stern/f4f2bde5f7986a39"
+			}
+		]
+	},
+	{
+		"name": "Joe Posnanski",
+		"books": [
+			{
+				"title": "Why We Love Baseball: A History in 50 Moments",
+				"link": "https://bookshop.org/p/books/why-we-love-baseball-a-history-in-50-moments-joe-posnanski/debbff6d40e86325"
+			}
+		]
+	},
+	{
 		"name": "John Chu",
 		"books": [
 			{
@@ -1497,6 +1550,15 @@
 		]
 	},
 	{
+		"name": "Kristin Hannah",
+		"books": [
+			{
+				"title": "The Women",
+				"link": "https://bookshop.org/p/books/the-women-a-novel-kristin-hannah/5472123ec95595c8"
+			}
+		]
+	},
+	{
 		"name": "Kyla Scanlon",
 		"books": [
 			{
@@ -1520,6 +1582,10 @@
 			{
 				"title": "Lords of Finance: The Bankers Who Broke the World",
 				"link": "https://bookshop.org/p/books/lords-of-finance-the-bankers-who-broke-the-world-liaquat-ahamed/15278774?ean=9780143116806"
+			},
+			{
+				"title": "1873: The Rothschilds, the First Great Depression, and the Making of the Modern World",
+				"link": "https://bookshop.org/p/books/1873-the-rothschilds-the-first-great-depression-and-the-making-of-the-modern-world-liaquat-ahamed/bedb61cf185c4554"
 			}
 		]
 	},
@@ -1569,6 +1635,15 @@
 			{
 				"title": "Talking to Strangers: What We Should Know about the People We Don't Know",
 				"link": "https://bookshop.org/p/books/talking-to-strangers-what-we-should-know-about-the-people-we-don-t-know-malcolm-gladwell/16344994?ean=9780316299220"
+			}
+		]
+	},
+	{
+		"name": "Manoush Zomorodi",
+		"books": [
+			{
+				"title": "Body Electric: The Hidden Health Costs of the Digital Age and New Science to Reclaim Your Well-Being",
+				"link": "https://bookshop.org/p/books/body-electric-the-hidden-health-costs-of-the-digital-age-and-new-science-to-reclaim-your-well-being-keith-diaz-phd/89845c6f7856af68"
 			}
 		]
 	},
@@ -2224,6 +2299,15 @@
 		]
 	},
 	{
+		"name": "Stephen E. Ambrose",
+		"books": [
+			{
+				"title": "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
+				"link": "https://bookshop.org/p/books/band-of-brothers-e-company-506th-regiment-101st-airborne-from-normandy-to-hitler-s-eagle-s-nest-stephen-e-ambrose/85f1e152153e5369"
+			}
+		]
+	},
+	{
 		"name": "Stephen King",
 		"books": [
 			{
@@ -2302,6 +2386,15 @@
 			{
 				"title": "Think Like a Freak",
 				"link": "https://bookshop.org/p/books/think-like-a-freak-the-authors-of-freakonomics-offer-to-retrain-your-brain-steven-d-levitt/265965"
+			}
+		]
+	},
+	{
+		"name": "Susanna Clarke",
+		"books": [
+			{
+				"title": "Piranesi",
+				"link": "https://bookshop.org/p/books/piranesi-susanna-clarke/878ecea84a8eca72"
 			}
 		]
 	},

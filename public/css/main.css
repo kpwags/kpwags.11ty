@@ -289,8 +289,16 @@ div.code-block-filename {
 	display: none;
 }
 
+.align-left {
+	text-align: left;
+}
+
 .align-center {
 	text-align: center;
+}
+
+.align-right {
+	text-align: right;
 }
 
 .rainbow-bar {
@@ -2482,3 +2490,93 @@ section.tracks {
 	}
 }
 /* ---- END MUSIC ALBUM PAGE ---- */
+
+/* ---- CONCERTS ---- */
+.concert-events {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+}
+
+.concert-events .event {
+	border: 3px solid var(--color-2);
+	border-radius: 6px;
+	background: var(--background-shaded);
+}
+
+.concert-events .event .date {
+	font-size: 0.8rem;
+	text-align: right;
+	line-height: 1;
+}
+
+.concert-events .event .date span {
+	border-bottom-left-radius: 6px;
+	padding: 1px 16px 4px 16px;
+	color: var(--white);
+	background-color: var(--color-2);
+}
+
+.concert-events .event .spacer {
+	height: 16px;
+}
+
+.concert-events .event h3 {
+	text-align: center;
+	margin: 0;
+	padding: 8px 16px 0 16px;
+	text-wrap: initial;
+}
+
+.concert-events .event .openers {
+	padding: 8px 16px 16px 16px;
+	text-align: center;
+}
+
+.concert-events .event .openers span {
+	font-style: italic;
+}
+
+.concert-events .event .openers ul {
+	margin: 0;
+	padding: 0;
+	list-style-position: inside;
+}
+
+.concert-events .event .openers ul li {
+	margin: 0;
+	padding: 0;
+}
+
+.concert-events	.event .details {
+	padding: 0 16px;
+	text-align: center;	
+	color: var(--white);
+	background-color: var(--color-2);
+}
+
+.concert-stats table {
+	border-spacing: 0;
+}
+
+.concert-stats table tr th {
+	border-bottom: 3px solid var(--border-color);
+	padding: 4px 0;
+}
+
+.concert-stats table tr td {
+	border-bottom: 1px solid var(--border-color);
+	padding: 4px 0;
+}
+
+.concert-stats table th.band {
+	width: 100%;
+}
+
+.concert-stats table th.shows {
+	min-width: 80px;
+}
+
+.concert-stats table tbody tr:hover td {
+	background: var(--background-shaded);
+}

@@ -1,64 +1,23 @@
 {
 	"inProgress": [
 		{
-			"bookId": 729,
-			"title": "Band of Brothers",
-			"subTitle": "E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
-			"fullTitle": "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
-			"author": "Stephen E. Ambrose",
-			"link": "https://bookshop.org/p/books/band-of-brothers-e-company-506th-regiment-101st-airborne-from-normandy-to-hitler-s-eagle-s-nest-stephen-e-ambrose/85f1e152153e5369",
-			"dateStarted": "2026-07-19T00:00:00.000Z",
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/g041s86y/ambrose-band-of-brothers.webp",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 42,
-			"pageCount": 307,
-			"progress": 14,
-			"sortOrder": 3950,
-			"status": {
-				"name": "Reading",
-				"colorCode": "#6a208f"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "History",
-					"colorCode": "rgb(4, 38, 142)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Hardcover",
-					"colorCode": "#a0175f"
-				}
-			]
-		},
-		{
-			"bookId": 718,
-			"title": "Piranesi",
+			"bookId": 699,
+			"title": "Green & Deadly Things",
 			"subTitle": "",
-			"fullTitle": "Piranesi",
-			"author": "Susanna Clarke",
-			"link": "https://bookshop.org/p/books/piranesi-susanna-clarke/878ecea84a8eca72",
-			"dateStarted": "2026-07-22T00:00:00.000Z",
+			"fullTitle": "Green & Deadly Things",
+			"author": "Jenn Lyons",
+			"link": "https://bookshop.org/p/books/green-deadly-things-jenn-lyons/b6959aa2ff5d37ec",
+			"dateStarted": "2026-10-07T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/3RvjgdLY/clarke-piranesi.webp",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 72,
-			"pageCount": 245,
-			"progress": 29,
+			"coverImageUrl": "https://i.postimg.cc/Hk9Wzygz/green-deadly-things.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 203,
+			"pageCount": 354,
+			"progress": 57,
 			"sortOrder": 2,
 			"status": {
 				"name": "Reading",
@@ -87,6 +46,550 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 679,
+					"title": "Of Monsters and Mainframes",
+					"subTitle": "",
+					"fullTitle": "Of Monsters and Mainframes",
+					"author": "Barbara Truelove",
+					"link": "https://bookshop.org/p/books/of-monsters-and-mainframes-barbara-truelove/e8151d9546a82f7d",
+					"dateStarted": "2026-09-28T00:00:00.000Z",
+					"dateCompleted": "2026-10-06T00:00:00.000Z",
+					"rating": 4,
+					"bookNotesUrl": "",
+					"thoughts": "I enjoyed this. It was whimsical and enjoyable. Reminded me a little of The Murderbot Diaries.",
+					"coverImageUrl": "https://i.postimg.cc/XYgMpyTP/truelove-of-monsters-and-mainframes.jpg",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 411,
+					"pageCount": 411,
+					"progress": 100,
+					"sortOrder": 1,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Horror",
+							"colorCode": "rgb(146, 4, 4)"
+						},
+						{
+							"name": "Science Fiction",
+							"colorCode": "rgb(102, 119, 2)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Paperback",
+							"colorCode": "#cd6a29"
+						}
+					]
+				},
+				{
+					"bookId": 781,
+					"title": "The Wager",
+					"subTitle": "A Tale of Shipwreck, Mutiny and Murder",
+					"fullTitle": "The Wager: A Tale of Shipwreck, Mutiny and Murder",
+					"author": "David Grann",
+					"link": "https://bookshop.org/p/books/the-wager-a-tale-of-shipwreck-mutiny-and-murder-david-grann/b1f2a00fc56cba78",
+					"dateStarted": "2026-09-23T00:00:00.000Z",
+					"dateCompleted": "2026-10-04T00:00:00.000Z",
+					"rating": 4,
+					"bookNotesUrl": "david-grann-the-wager",
+					"thoughts": "This was a captivating tale of the true story of the shipwreck of a British war vessel off the coast of South America. It kept me interested and wanting to know what happens next.",
+					"coverImageUrl": "https://i.postimg.cc/SR2v8VjP/grann-the-wager.jpg",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 509,
+					"pageCount": 509,
+					"progress": 100,
+					"sortOrder": 4130,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "History",
+							"colorCode": "rgb(4, 38, 142)"
+						},
+						{
+							"name": "Mystery",
+							"colorCode": "rgb(1, 102, 47)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Audiobook",
+							"colorCode": "#b300b3"
+						}
+					]
+				},
+				{
+					"bookId": 772,
+					"title": "1873",
+					"subTitle": "The Rothschilds, the First Great Depression, and the Making of the Modern World",
+					"fullTitle": "1873: The Rothschilds, the First Great Depression, and the Making of the Modern World",
+					"author": "Liaquat Ahamed",
+					"link": "https://bookshop.org/p/books/1873-the-rothschilds-the-first-great-depression-and-the-making-of-the-modern-world-liaquat-ahamed/bedb61cf185c4554",
+					"dateStarted": "2026-09-17T00:00:00.000Z",
+					"dateCompleted": "2026-09-27T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "History doesn't always repeat, but it often rhymes. It amazes me how many of our economic crashes are caused by very similar factors. Reading about the lead-up to the 1873 market crash reminds me greatly of 2008 and even today with the AI boom. It's like we don't learn anything. It was fascinating to see the different effects this had across the world.",
+					"coverImageUrl": "https://i.postimg.cc/8Pkrf8zb/ahamed-1873.jpg",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 274,
+					"pageCount": 274,
+					"progress": 100,
+					"sortOrder": 4110,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Business & Economics",
+							"colorCode": "rgb(23, 126, 0)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Hardcover",
+							"colorCode": "#a0175f"
+						}
+					]
+				},
+				{
+					"bookId": 749,
+					"title": "The Calamities",
+					"subTitle": "",
+					"fullTitle": "The Calamities",
+					"author": "Chuck Wendig",
+					"link": "https://doylestownbookshop.com/book/9798217091812",
+					"dateStarted": "2026-08-23T00:00:00.000Z",
+					"dateCompleted": "2026-09-16T00:00:00.000Z",
+					"rating": 4,
+					"bookNotesUrl": "",
+					"thoughts": "A gripping story with good characters that makes me want the sequel to come out soon",
+					"coverImageUrl": "https://i.postimg.cc/63nt07s9/wendig-calamities.webp",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 564,
+					"pageCount": 564,
+					"progress": 100,
+					"sortOrder": 3930,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": {
+						"name": "The Fiends",
+						"colorCode": "#008f51"
+					},
+					"genres": [
+						{
+							"name": "Horror",
+							"colorCode": "rgb(146, 4, 4)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Hardcover",
+							"colorCode": "#a0175f"
+						}
+					]
+				},
+				{
+					"bookId": 728,
+					"title": "Body Electric",
+					"subTitle": "The Hidden Health Costs of the Digital Age and New Science to Reclaim Your Well-Being",
+					"fullTitle": "Body Electric: The Hidden Health Costs of the Digital Age and New Science to Reclaim Your Well-Being",
+					"author": "Manoush Zomorodi",
+					"link": "https://bookshop.org/p/books/body-electric-the-hidden-health-costs-of-the-digital-age-and-new-science-to-reclaim-your-well-being-keith-diaz-phd/89845c6f7856af68",
+					"dateStarted": "2026-09-08T00:00:00.000Z",
+					"dateCompleted": "2026-09-16T00:00:00.000Z",
+					"rating": 2,
+					"bookNotesUrl": "",
+					"thoughts": "This provided some insight into some of the dangers of becoming too sedentary and some suggestions on how to help right yourself. I know it was not the author's intent, but it sometimes felt a little too \"new agey\" for my tastes.",
+					"coverImageUrl": "https://i.postimg.cc/zGmy0Qxm/zomorodi-body-electric.webp",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 484,
+					"pageCount": 484,
+					"progress": 100,
+					"sortOrder": 3940,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Technology",
+							"colorCode": "rgb(55, 78, 146)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Audiobook",
+							"colorCode": "#b300b3"
+						}
+					]
+				},
+				{
+					"bookId": 773,
+					"title": "The Subtle Art of Folding Space",
+					"subTitle": "",
+					"fullTitle": "The Subtle Art of Folding Space",
+					"author": "John Chu",
+					"link": "https://bookshop.org/p/books/the-subtle-art-of-folding-space-john-chu/82fa36c6edeab94d",
+					"dateStarted": "2026-09-11T00:00:00.000Z",
+					"dateCompleted": "2026-09-16T00:00:00.000Z",
+					"rating": 2,
+					"bookNotesUrl": "",
+					"thoughts": "I liked this better the first time I read it. There were a lot of good ideas in it, just missed the execution.",
+					"coverImageUrl": "https://i.postimg.cc/C5Fggp8W/chu-subtle-art-of-folding-space.webp",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 445,
+					"pageCount": 445,
+					"progress": 100,
+					"sortOrder": 4120,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Science Fiction",
+							"colorCode": "rgb(102, 119, 2)"
+						}
+					],
+					"formats": [
+						{
+							"name": "eBook",
+							"colorCode": "#2c5813"
+						}
+					]
+				},
+				{
+					"bookId": 724,
+					"title": "The Women",
+					"subTitle": "",
+					"fullTitle": "The Women",
+					"author": "Kristin Hannah",
+					"link": "https://bookshop.org/p/books/the-women-a-novel-kristin-hannah/5472123ec95595c8",
+					"dateStarted": "2026-08-18T00:00:00.000Z",
+					"dateCompleted": "2026-09-04T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "A tough read, but good. It’s historical fiction but it speaks to the challenges veterans, especially the women, faced coming back from Vietnam.",
+					"coverImageUrl": "https://i.postimg.cc/j51CrH15/hannah-the-women.jpg",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 897,
+					"pageCount": 897,
+					"progress": 100,
+					"sortOrder": 3920,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Historical Fiction",
+							"colorCode": "#da0158"
+						}
+					],
+					"formats": [
+						{
+							"name": "Audiobook",
+							"colorCode": "#b300b3"
+						}
+					]
+				},
+				{
+					"bookId": 737,
+					"title": "Why We Love Baseball",
+					"subTitle": "A History in 50 Moments",
+					"fullTitle": "Why We Love Baseball: A History in 50 Moments",
+					"author": "Joe Posnanski",
+					"link": "https://bookshop.org/p/books/why-we-love-baseball-a-history-in-50-moments-joe-posnanski/debbff6d40e86325",
+					"dateStarted": "2026-08-11T00:00:00.000Z",
+					"dateCompleted": "2026-08-22T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "A lot of great baseball stories, and he’s right, they do show some of the many reasons I love baseball.",
+					"coverImageUrl": "https://i.postimg.cc/wB1WzRSj/why-we-love-baseball.jpg",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 363,
+					"pageCount": 363,
+					"progress": 100,
+					"sortOrder": 4000,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Sports",
+							"colorCode": "rgb(0, 80, 20)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Hardcover",
+							"colorCode": "#a0175f"
+						}
+					]
+				},
+				{
+					"bookId": 695,
+					"title": "Privacy's Defender",
+					"subTitle": "My Thirty-Year Fight Against Digital Surveillance",
+					"fullTitle": "Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance",
+					"author": "Cindy Cohn",
+					"link": "https://bookshop.org/p/books/privacy-s-defender-my-thirty-year-fight-against-digital-surveillance-cindy-cohn/53886568f609835d",
+					"dateStarted": "2026-08-09T00:00:00.000Z",
+					"dateCompleted": "2026-08-17T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "An interesting memoir talking about her time with the EFF fighting to protect our rights. The book focused on the EFF's fight for strong encryption and code as speech, fighting against mass surveillance with metadata, and national security letters. It was a unique look at Cindy's involvement in the battle for our rights and privacy.",
+					"coverImageUrl": "https://i.postimg.cc/Bv41NRxj/cohn-privacys-defender.jpg",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 516,
+					"pageCount": 516,
+					"progress": 100,
+					"sortOrder": 3700,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Technology",
+							"colorCode": "rgb(55, 78, 146)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Audiobook",
+							"colorCode": "#b300b3"
+						}
+					]
+				},
+				{
+					"bookId": 734,
+					"title": "What Kind of Mother",
+					"subTitle": "",
+					"fullTitle": "What Kind of Mother",
+					"author": "Clay McLeod Chapman",
+					"link": "https://bookshop.org/p/books/what-kind-of-mother-clay-mcleod-chapman/f6bfedf2c5ff33a1",
+					"dateStarted": "2026-08-04T00:00:00.000Z",
+					"dateCompleted": "2026-08-10T00:00:00.000Z",
+					"rating": 2,
+					"bookNotesUrl": "",
+					"thoughts": "Creepy, but I’m still not entirely sure I understand the ending.",
+					"coverImageUrl": "https://i.postimg.cc/d3W23Dz1/chapman-what-kind-of-mother.webp",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 290,
+					"pageCount": 290,
+					"progress": 100,
+					"sortOrder": 3990,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Horror",
+							"colorCode": "rgb(146, 4, 4)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Paperback",
+							"colorCode": "#cd6a29"
+						}
+					]
+				},
+				{
+					"bookId": 735,
+					"title": "I Am Not a Robot",
+					"subTitle": "My Year Using AI to Do (Almost) Everything",
+					"fullTitle": "I Am Not a Robot: My Year Using AI to Do (Almost) Everything",
+					"author": "Joanna Stern",
+					"link": "https://bookshop.org/p/books/i-am-not-a-robot-my-year-using-ai-to-do-almost-everything-joanna-stern/f4f2bde5f7986a39",
+					"dateStarted": "2026-08-04T00:00:00.000Z",
+					"dateCompleted": "2026-08-09T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "An interesting look at all the different AI and robotic tools companies are pushing. It did a decent job to balance what the tools could do and where its weaknesses were.",
+					"coverImageUrl": "https://i.postimg.cc/9ftHx998/stern-i-am-not-a-robot.webp",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 481,
+					"pageCount": 481,
+					"progress": 100,
+					"sortOrder": 4000,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Technology",
+							"colorCode": "rgb(55, 78, 146)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Audiobook",
+							"colorCode": "#b300b3"
+						}
+					]
+				},
+				{
+					"bookId": 729,
+					"title": "Band of Brothers",
+					"subTitle": "E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
+					"fullTitle": "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
+					"author": "Stephen E. Ambrose",
+					"link": "https://bookshop.org/p/books/band-of-brothers-e-company-506th-regiment-101st-airborne-from-normandy-to-hitler-s-eagle-s-nest-stephen-e-ambrose/85f1e152153e5369",
+					"dateStarted": "2026-07-19T00:00:00.000Z",
+					"dateCompleted": "2026-08-03T00:00:00.000Z",
+					"rating": 4,
+					"bookNotesUrl": "stephen-e-ambrose-band-of-brothers",
+					"thoughts": "Having watched the HBO series, I figured the book would be a good companion. It was. It provided some extra details and context to Easy Company that the TV series couldn't. Would recommend.",
+					"coverImageUrl": "https://i.postimg.cc/g041s86y/ambrose-band-of-brothers.webp",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 307,
+					"pageCount": 307,
+					"progress": 100,
+					"sortOrder": 3950,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "History",
+							"colorCode": "rgb(4, 38, 142)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Hardcover",
+							"colorCode": "#a0175f"
+						}
+					]
+				},
+				{
+					"bookId": 718,
+					"title": "Piranesi",
+					"subTitle": "",
+					"fullTitle": "Piranesi",
+					"author": "Susanna Clarke",
+					"link": "https://bookshop.org/p/books/piranesi-susanna-clarke/878ecea84a8eca72",
+					"dateStarted": "2026-07-22T00:00:00.000Z",
+					"dateCompleted": "2026-07-25T00:00:00.000Z",
+					"rating": 2,
+					"bookNotesUrl": "",
+					"thoughts": "This book was weird. Suspense picked up in the second half, but the first half was boring as all get out.",
+					"coverImageUrl": "https://i.postimg.cc/3RvjgdLY/clarke-piranesi.webp",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 245,
+					"pageCount": 245,
+					"progress": 100,
+					"sortOrder": 2,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Fantasy",
+							"colorCode": "rgb(172, 152, 5)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Hardcover",
+							"colorCode": "#a0175f"
+						}
+					]
+				},
 				{
 					"bookId": 727,
 					"title": "Planet Money",
@@ -15890,47 +16393,6 @@
 	],
 	"toRead": [
 		{
-			"bookId": 699,
-			"title": "Green & Deadly Things",
-			"subTitle": "",
-			"fullTitle": "Green & Deadly Things",
-			"author": "Jenn Lyons",
-			"link": "https://bookshop.org/p/books/green-deadly-things-jenn-lyons/b6959aa2ff5d37ec",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/Hk9Wzygz/green-deadly-things.jpg",
-			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 1,
-			"pageCount": 354,
-			"progress": 0,
-			"sortOrder": 1,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Fantasy",
-					"colorCode": "rgb(172, 152, 5)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Hardcover",
-					"colorCode": "#a0175f"
-				}
-			]
-		},
-		{
 			"bookId": 634,
 			"title": "Old Man's War",
 			"subTitle": "",
@@ -15942,12 +16404,12 @@
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/XJp2nFKX/scalzi-old-mans-war.jpg",
+			"coverImageUrl": "https://i.postimg.cc/rsyR2WXW/scalzi-old-mans-war.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
 			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
+			"pageCount": 303,
+			"progress": 0,
 			"sortOrder": 3,
 			"status": {
 				"name": "To Read",
@@ -15969,8 +16431,8 @@
 			],
 			"formats": [
 				{
-					"name": "eBook",
-					"colorCode": "#2c5813"
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
 				}
 			]
 		},
@@ -15986,12 +16448,12 @@
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/Xv2HMx5y/scalzi-ghost-brigades.jpg",
+			"coverImageUrl": "https://i.postimg.cc/tJRnGPQx/scalzi-ghost-brigades.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
 			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
+			"pageCount": 304,
+			"progress": 0,
 			"sortOrder": 4,
 			"status": {
 				"name": "To Read",
@@ -16013,8 +16475,8 @@
 			],
 			"formats": [
 				{
-					"name": "eBook",
-					"colorCode": "#2c5813"
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
 				}
 			]
 		},
@@ -16030,12 +16492,12 @@
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/3RdL3pjx/scalzi-last-colony.jpg",
+			"coverImageUrl": "https://i.postimg.cc/Y02LBgKF/scalzi-last-colony.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
 			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
+			"pageCount": 302,
+			"progress": 0,
 			"sortOrder": 5,
 			"status": {
 				"name": "To Read",
@@ -16057,8 +16519,8 @@
 			],
 			"formats": [
 				{
-					"name": "eBook",
-					"colorCode": "#2c5813"
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
 				}
 			]
 		},
@@ -16074,20 +16536,20 @@
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/G2HMbYP8/scalzi-zoes-tale.jpg",
+			"coverImageUrl": "https://i.postimg.cc/qqB6HnV8/scalzi-zoes-tale.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
 			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
+			"pageCount": 317,
+			"progress": 0,
 			"sortOrder": 6,
 			"status": {
 				"name": "To Read",
 				"colorCode": "#313ca2"
 			},
 			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
 			},
 			"series": {
 				"name": "Old Man's War",
@@ -16101,8 +16563,8 @@
 			],
 			"formats": [
 				{
-					"name": "eBook",
-					"colorCode": "#2c5813"
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
 				}
 			]
 		},
@@ -16118,12 +16580,12 @@
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/wBWfKFNR/scalzi-human-division.jpg",
+			"coverImageUrl": "https://i.postimg.cc/d1jZf6X6/scalzi-human-division.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
 			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
+			"pageCount": 411,
+			"progress": 0,
 			"sortOrder": 7,
 			"status": {
 				"name": "To Read",
@@ -16145,8 +16607,8 @@
 			],
 			"formats": [
 				{
-					"name": "eBook",
-					"colorCode": "#2c5813"
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
 				}
 			]
 		},
@@ -16162,12 +16624,12 @@
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/HLSZG3MM/scalzi-end-of-all-things.jpg",
+			"coverImageUrl": "https://i.postimg.cc/4dQH0PM5/scalzi-end-of-all-things.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
 			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
+			"pageCount": 365,
+			"progress": 0,
 			"sortOrder": 8,
 			"status": {
 				"name": "To Read",
@@ -16189,8 +16651,8 @@
 			],
 			"formats": [
 				{
-					"name": "eBook",
-					"colorCode": "#2c5813"
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
 				}
 			]
 		},
@@ -16206,12 +16668,12 @@
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/vBcPG97c/scalzi-shattering-peace.jpg",
+			"coverImageUrl": "https://i.postimg.cc/yx63C94c/scalzi-the-shattering-peace.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
 			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
+			"pageCount": 276,
+			"progress": 0,
 			"sortOrder": 9,
 			"status": {
 				"name": "To Read",
@@ -16280,6 +16742,340 @@
 			]
 		},
 		{
+			"bookId": 753,
+			"title": "Devil Inside",
+			"subTitle": "",
+			"fullTitle": "Devil Inside",
+			"author": "Clay McLeod Chapman",
+			"link": "https://bookshop.org/p/books/devil-inside-clay-mcleod-chapman/09973e4026ff778b",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/x1zgcrhF/chapman-devil-inside.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 384,
+			"progress": 0,
+			"sortOrder": 11,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 752,
+			"title": "The Remaking",
+			"subTitle": "",
+			"fullTitle": "The Remaking",
+			"author": "Clay McLeod Chapman",
+			"link": "https://bookshop.org/p/books/the-remaking-clay-mcleod-chapman/ffc4d3d50aa0aa77",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/JzkKGwv6/chapman-the-remaking.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 295,
+			"progress": 0,
+			"sortOrder": 12,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 751,
+			"title": "Bodies of Work",
+			"subTitle": "",
+			"fullTitle": "Bodies of Work",
+			"author": "Clay McLeod Chapman",
+			"link": "https://bookshop.org/p/books/bodies-of-work-a-novella-clay-mcleod-chapman/4b776237501da511",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/x1zgcrhs/chapman-bodies-of-work.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 164,
+			"progress": 1,
+			"sortOrder": 13,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 750,
+			"title": "Shiny Happy People",
+			"subTitle": "",
+			"fullTitle": "Shiny Happy People",
+			"author": "Clay McLeod Chapman",
+			"link": "https://bookshop.org/p/books/shiny-happy-people-clay-mcleod-chapman/a09aa3ebae30eb17",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/DwX58VHx/chapman-shiny-happy-people.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 358,
+			"progress": 0,
+			"sortOrder": 14,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 754,
+			"title": "Blackbirds",
+			"subTitle": "",
+			"fullTitle": "Blackbirds",
+			"author": "Chuck Wendig",
+			"link": "https://bookshop.org/p/books/blackbirds-chuck-wendig/715b4b61072909e4",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/NGCWXcJp/wendig-blackbirds.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 276,
+			"progress": 0,
+			"sortOrder": 15,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 755,
+			"title": "The Mercy of Gods",
+			"subTitle": "",
+			"fullTitle": "The Mercy of Gods",
+			"author": "James S.A. Corey",
+			"link": "https://bookshop.org/p/books/the-mercy-of-gods-james-s-a-corey/20886313?ean=9780316525572",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/YChy5wPw/the-mercy-of-gods.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 422,
+			"progress": 0,
+			"sortOrder": 17,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "The Captive's War",
+				"colorCode": "#865e3c"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 756,
+			"title": "The Faith of Beasts",
+			"subTitle": "",
+			"fullTitle": "The Faith of Beasts",
+			"author": "James S.A. Corey",
+			"link": "https://bookshop.org/p/books/the-faith-of-beasts-james-s-a-corey/ca22652d9fcf55ca",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/FzKbgwRc/corey-faith-of-beasts.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 436,
+			"progress": 0,
+			"sortOrder": 18,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "The Captive's War",
+				"colorCode": "#865e3c"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 757,
+			"title": "Raven Rock",
+			"subTitle": "The Story of the U.S. Government's Secret Plan to Save Itself--While the Rest of Us Die",
+			"fullTitle": "Raven Rock: The Story of the U.S. Government's Secret Plan to Save Itself--While the Rest of Us Die",
+			"author": "Garrett M. Graff",
+			"link": "https://bookshop.org/p/books/raven-rock-the-story-of-the-u-s-government-s-secret-plan-to-save-itself-while-the-rest-of-us-die-garrett-m-graff/01474bf9a9db9b81",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/Z5qRYZQv/graff-raven-rock.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 409,
+			"progress": 0,
+			"sortOrder": 19,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
 			"bookId": 575,
 			"title": "Seveneves",
 			"subTitle": "",
@@ -16291,13 +17087,13 @@
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "",
+			"coverImageUrl": "https://i.postimg.cc/tJfr195R/stephenson-seveneves.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
 			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 170,
+			"pageCount": 861,
+			"progress": 0,
+			"sortOrder": 20,
 			"status": {
 				"name": "To Read",
 				"colorCode": "#313ca2"
@@ -16332,13 +17128,13 @@
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "",
+			"coverImageUrl": "https://i.postimg.cc/5yGPHf3f/stephenson-cryptocomicon.jpg",
 			"isAtLibrary": true,
-			"isPurchased": false,
+			"isPurchased": true,
 			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 190,
+			"pageCount": 918,
+			"progress": 0,
+			"sortOrder": 21,
 			"status": {
 				"name": "To Read",
 				"colorCode": "#313ca2"
@@ -16354,7 +17150,319 @@
 					"colorCode": "rgb(102, 119, 2)"
 				}
 			],
-			"formats": []
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 704,
+			"title": "Spitfires",
+			"subTitle": "The American Women Who Flew in the Face of Danger During World War II",
+			"fullTitle": "Spitfires: The American Women Who Flew in the Face of Danger During World War II",
+			"author": "Becky Aikman",
+			"link": "https://bookshop.org/p/books/spitfires-the-american-women-who-flew-in-the-face-of-danger-during-world-war-ii-becky-aikman/8f6139cab9395ee4",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/xjsP12B2/aikman-spitfires.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 368,
+			"progress": 0,
+			"sortOrder": 22,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 703,
+			"title": "Plunder",
+			"subTitle": "Private Equity's Plan to Pillage America",
+			"fullTitle": "Plunder: Private Equity's Plan to Pillage America",
+			"author": "Brendan Ballou",
+			"link": "https://bookshop.org/p/books/plunder-private-equity-s-plan-to-pillage-america-brendan-ballou/868be1439333930f",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/sDTW4ndx/ballou-plunder.jpg",
+			"isAtLibrary": true,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 246,
+			"progress": 0,
+			"sortOrder": 23,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
+				},
+				{
+					"name": "Politics",
+					"colorCode": "rgb(130, 40, 40)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 705,
+			"title": "When Companies Run the Courts",
+			"subTitle": "How Forced Arbitration Became America's Secret Justice System",
+			"fullTitle": "When Companies Run the Courts: How Forced Arbitration Became America's Secret Justice System",
+			"author": "Brendan Ballou",
+			"link": "https://bookshop.org/p/books/when-companies-run-the-courts-how-forced-arbitration-became-america-s-secret-justice-system-brendan-ballou/737fb3f75cdb1a99",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/tCB6NrQ7/ballou-when-companies-run-the-courts.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 180,
+			"progress": 1,
+			"sortOrder": 24,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
+				},
+				{
+					"name": "Politics",
+					"colorCode": "rgb(130, 40, 40)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 758,
+			"title": "For We Are Many",
+			"subTitle": "",
+			"fullTitle": "For We Are Many",
+			"author": "Dennis E. Taylor",
+			"link": "https://bookshop.org/p/books/for-we-are-many-bobiverse-book-2-dennis-e-taylor/154a9dc1a6a18fd4",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/m2W46RRT/taylor-for-we-are-many.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 291,
+			"progress": 0,
+			"sortOrder": 25,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "Bobiverse",
+				"colorCode": "#1b66de"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 759,
+			"title": "All These Worlds",
+			"subTitle": "",
+			"fullTitle": "All These Worlds",
+			"author": "Dennis E. Taylor",
+			"link": "https://bookshop.org/p/books/all-these-worlds-bobiverse-book-3-dennis-e-taylor/1a0ab210bb09fcd9",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/ZKzmDZZ4/taylor-all-these-worlds.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 267,
+			"progress": 0,
+			"sortOrder": 26,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "Bobiverse",
+				"colorCode": "#1b66de"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 760,
+			"title": "Heaven's River",
+			"subTitle": "",
+			"fullTitle": "Heaven's River",
+			"author": "Dennis E. Taylor",
+			"link": "https://bookshop.org/p/books/heaven-s-river-bobiverse-book-4-dennis-e-taylor/1183ba223e6286c2",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/rF2TYcc8/taylor-heavens-river.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 495,
+			"progress": 0,
+			"sortOrder": 27,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "Bobiverse",
+				"colorCode": "#1b66de"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 761,
+			"title": "Not Till We Are Lost",
+			"subTitle": "",
+			"fullTitle": "Not Till We Are Lost",
+			"author": "Dennis E. Taylor",
+			"link": "https://bookshop.org/p/books/not-till-we-are-lost-bobiverse-book-5-dennis-e-taylor/a24a7fde1d5e6c6b",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/gkyWC5cQ/taylor-not-till-we-are-lost.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 28,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "Bobiverse",
+				"colorCode": "#1b66de"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
 		},
 		{
 			"bookId": 559,
@@ -16368,13 +17476,13 @@
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "",
+			"coverImageUrl": "https://i.postimg.cc/Zn2CXQTg/larson-devil-in-the-white-city.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
 			"currentPage": 1,
 			"pageCount": 390,
 			"progress": 0,
-			"sortOrder": 200,
+			"sortOrder": 29,
 			"status": {
 				"name": "To Read",
 				"colorCode": "#313ca2"
@@ -16409,13 +17517,13 @@
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "",
+			"coverImageUrl": "https://i.postimg.cc/brWs45zW/mullane-riding-rockets.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
 			"currentPage": 1,
 			"pageCount": 360,
 			"progress": 0,
-			"sortOrder": 210,
+			"sortOrder": 30,
 			"status": {
 				"name": "To Read",
 				"colorCode": "#313ca2"
@@ -16439,47 +17547,6 @@
 			]
 		},
 		{
-			"bookId": 471,
-			"title": "Nexus",
-			"subTitle": "A Brief History of Information Networks from the Stone Age to AI",
-			"fullTitle": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
-			"author": "Yuval Noah Harari",
-			"link": "https://bookshop.org/p/books/nexus-a-brief-history-of-information-networks-from-the-stone-age-to-ai-yuval-noah-harari/21003053?ean=9780593734223",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 1,
-			"pageCount": 404,
-			"progress": 0,
-			"sortOrder": 220,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Technology",
-					"colorCode": "rgb(55, 78, 146)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Hardcover",
-					"colorCode": "#a0175f"
-				}
-			]
-		},
-		{
 			"bookId": 514,
 			"title": "The Power Broker",
 			"subTitle": "Robert Moses and the Fall of New York",
@@ -16491,13 +17558,13 @@
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/43RHwvsN/caro-power-broker.jpg",
+			"coverImageUrl": "https://i.postimg.cc/pr4p3S2S/caro-power-broker.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
 			"currentPage": 1,
 			"pageCount": 1162,
 			"progress": 0,
-			"sortOrder": 230,
+			"sortOrder": 31,
 			"status": {
 				"name": "To Read",
 				"colorCode": "#313ca2"
@@ -16521,6 +17588,889 @@
 				{
 					"name": "Paperback",
 					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 471,
+			"title": "Nexus",
+			"subTitle": "A Brief History of Information Networks from the Stone Age to AI",
+			"fullTitle": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
+			"author": "Yuval Noah Harari",
+			"link": "https://bookshop.org/p/books/nexus-a-brief-history-of-information-networks-from-the-stone-age-to-ai-yuval-noah-harari/21003053?ean=9780593734223",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/L5wnGWHG/harari-nexus.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 404,
+			"progress": 0,
+			"sortOrder": 32,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Technology",
+					"colorCode": "rgb(55, 78, 146)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 762,
+			"title": "Ancillary Justice",
+			"subTitle": "",
+			"fullTitle": "Ancillary Justice",
+			"author": "Ann Leckie",
+			"link": "https://bookshop.org/p/books/ancillary-justice-ann-leckie/110863",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/0NgMyY41/leckie-ancillary-jusice.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 384,
+			"progress": 0,
+			"sortOrder": 33,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "Ancillary",
+				"colorCode": "#c74646"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 763,
+			"title": "Ancillary Sword",
+			"subTitle": "",
+			"fullTitle": "Ancillary Sword",
+			"author": "Ann Leckie",
+			"link": "https://bookshop.org/p/books/ancillary-sword-ann-leckie/110869",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/254qbqpb/leckie-ancillary-sword.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 354,
+			"progress": 0,
+			"sortOrder": 34,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "Ancillary",
+				"colorCode": "#c74646"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 764,
+			"title": "Ancillary Mercy",
+			"subTitle": "",
+			"fullTitle": "Ancillary Mercy",
+			"author": "Ann Leckie",
+			"link": "https://bookshop.org/p/books/ancillary-mercy-ann-leckie/110894",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/63t8d9wH/leckie-ancillary-mercy.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 328,
+			"progress": 0,
+			"sortOrder": 35,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "Ancillary",
+				"colorCode": "#c74646"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 765,
+			"title": "Radiant Star",
+			"subTitle": "",
+			"fullTitle": "Radiant Star",
+			"author": "Ann Leckie",
+			"link": "https://bookshop.org/p/books/radiant-star-ann-leckie/0899881d7d7e9d39",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/XJFjpv3c/leckie-radiant-star.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 357,
+			"progress": 0,
+			"sortOrder": 36,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "Ancillary",
+				"colorCode": "#c74646"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 766,
+			"title": "Moonbound",
+			"subTitle": "",
+			"fullTitle": "Moonbound",
+			"author": "Robin Sloan",
+			"link": "https://bookshop.org/p/books/moonbound-a-novel-robin-sloan/5a70912c2e3935c4",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/NGDhbXNy/sloan-moonbound.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 415,
+			"progress": 0,
+			"sortOrder": 37,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Fantasy",
+					"colorCode": "rgb(172, 152, 5)"
+				},
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 423,
+			"title": "Future Value",
+			"subTitle": "The Battle for Baseball's Soul and How Teams Will Find the Next Superstar",
+			"fullTitle": "Future Value: The Battle for Baseball's Soul and How Teams Will Find the Next Superstar",
+			"author": "Eric Longenhagen & Kiley McDaniel",
+			"link": "https://bookshop.org/p/books/future-value-the-battle-for-baseball-s-soul-and-how-teams-will-find-the-next-superstar-eric-longenhagen/16661680?ean=9781629378800",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/LXvyktHd/future-value.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 358,
+			"progress": 0,
+			"sortOrder": 38,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Sports",
+					"colorCode": "rgb(0, 80, 20)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 767,
+			"title": "Gemini",
+			"subTitle": "Stepping Stone to the Moon, the Untold Story",
+			"fullTitle": "Gemini: Stepping Stone to the Moon, the Untold Story",
+			"author": "Jeffrey Kluger",
+			"link": "https://bookshop.org/p/books/gemini-stepping-stone-to-the-moon-the-untold-story-jeffrey-kluger/5cd8e59eb6a29f53",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/SNYrjFYH/kluger-gemini.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 268,
+			"progress": 0,
+			"sortOrder": 39,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Science",
+					"colorCode": "rgb(24, 90, 80)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 410,
+			"title": "Power Failure",
+			"subTitle": "The Rise and Fall of an American Icon",
+			"fullTitle": "Power Failure: The Rise and Fall of an American Icon",
+			"author": "William D. Cohan",
+			"link": "https://bookshop.org/p/books/power-failure-the-rise-and-fall-of-an-american-icon-william-d-cohan/18255503?ean=9780593084168",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/FRqSQzpf/cohan-power-failure.jpg",
+			"isAtLibrary": true,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 748,
+			"progress": 0,
+			"sortOrder": 40,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 493,
+			"title": "The Undercover Economist",
+			"subTitle": "Exposing Why the Rich Are Rich, Why the Poor Are Poor--And Why You Can Never Buya Decent Used Car!",
+			"fullTitle": "The Undercover Economist: Exposing Why the Rich Are Rich, Why the Poor Are Poor--And Why You Can Never Buya Decent Used Car!",
+			"author": "Tim Harford",
+			"link": "https://bookshop.org/books/the-undercover-economist/9780345494016",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/RCHGGJvX/harford-undercover-economist.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 239,
+			"progress": 0,
+			"sortOrder": 41,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 461,
+			"title": "Artemis",
+			"subTitle": "",
+			"fullTitle": "Artemis",
+			"author": "Andy Weir",
+			"link": "https://bookshop.org/books/artemis-9780525532101/9780553448146",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/x1xK990Y/weir-artemis.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 334,
+			"progress": 0,
+			"sortOrder": 42,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 768,
+			"title": "Final Orbit",
+			"subTitle": "",
+			"fullTitle": "Final Orbit",
+			"author": "Chris Hadfield",
+			"link": "https://bookshop.org/p/books/final-orbit-a-novel-chris-hadfield/3d040f301ca4a4f9",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/wvcMTkhy/hadfield-final-orbit.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 395,
+			"progress": 0,
+			"sortOrder": 43,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Mystery",
+					"colorCode": "rgb(1, 102, 47)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 769,
+			"title": "Big Fan",
+			"subTitle": "Two Friends, 82,490 Miles, and the Wild, Wonderful Sports We Love",
+			"fullTitle": "Big Fan: Two Friends, 82,490 Miles, and the Wild, Wonderful Sports We Love",
+			"author": "Michael Schur & Joe Posnanski",
+			"link": "https://bookshop.org/p/books/big-fan-two-friends-81-589-miles-and-the-wild-wonderful-sports-we-love-joe-posnanski/05d4cd9779eaa682",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/x1T4sjsx/big-fan.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 406,
+			"progress": 0,
+			"sortOrder": 44,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Sports",
+					"colorCode": "rgb(0, 80, 20)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 770,
+			"title": "Vietnam",
+			"subTitle": "An Epic Tragedy, 1945-1975",
+			"fullTitle": "Vietnam: An Epic Tragedy, 1945-1975",
+			"author": "Max Hastings",
+			"link": "https://bookshop.org/p/books/vietnam-an-epic-tragedy-1945-1975-max-hastings/15280704",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/gc1cdzLr/vietnamepictragedy.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 45,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": [
+				{
+					"name": "eBook",
+					"colorCode": "#2c5813"
+				}
+			]
+		},
+		{
+			"bookId": 774,
+			"title": "The Devils",
+			"subTitle": "",
+			"fullTitle": "The Devils",
+			"author": "Joe Abercrombie",
+			"link": "https://bookshop.org/p/books/the-devils-joe-abercrombie/be943596eb5862af",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/15RNVx3c/abercrombie-the-devils.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 547,
+			"progress": 0,
+			"sortOrder": 46,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 775,
+			"title": "Biological War",
+			"subTitle": "",
+			"fullTitle": "Biological War",
+			"author": "Anne Jacobsen",
+			"link": "https://bookshop.org/p/books/biological-war-a-scenario-annie-jacobsen/19e468e1bd74b47d",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/QxNWKLdS/jacobsen-biological-war.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 320,
+			"progress": 0,
+			"sortOrder": 47,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Politics",
+					"colorCode": "rgb(130, 40, 40)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 776,
+			"title": "I Know a Place",
+			"subTitle": "Rest Stop and Other Dark Detours",
+			"fullTitle": "I Know a Place: Rest Stop and Other Dark Detours",
+			"author": "Nat Cassidy",
+			"link": "https://bookshop.org/p/books/i-know-a-place-rest-stop-and-other-dark-detours-nat-cassidy/ab9f93862551bda7",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/c418tqLm/cassidy-i-know-a-place.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 505,
+			"progress": 0,
+			"sortOrder": 48,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 777,
+			"title": "Mary",
+			"subTitle": "An Awakening of Terror",
+			"fullTitle": "Mary: An Awakening of Terror",
+			"author": "Nat Cassidy",
+			"link": "https://bookshop.org/p/books/mary-an-awakening-of-terror-nat-cassidy/28b51fe58531b428",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/qMBC6fvm/cassidy-mary.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 402,
+			"progress": 0,
+			"sortOrder": 49,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 778,
+			"title": "The Gales of November",
+			"subTitle": "The Untold Story of the Edmund Fitzgerald",
+			"fullTitle": "The Gales of November: The Untold Story of the Edmund Fitzgerald",
+			"author": "John U. Bacon",
+			"link": "https://bookshop.org/p/books/the-gales-of-november-the-untold-story-of-the-edmund-fitzgerald-john-u-bacon/67456f2483e0da10",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/Yq2mLcCz/bacon-gales-of-november.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 389,
+			"progress": 0,
+			"sortOrder": 50,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
+				}
+			]
+		},
+		{
+			"bookId": 779,
+			"title": "Dungeon Crawler Carl",
+			"subTitle": "",
+			"fullTitle": "Dungeon Crawler Carl",
+			"author": "Matt Dinniman",
+			"link": "https://bookshop.org/p/books/dungeon-crawler-carl-matt-dinniman/0cdd8387d0a86880",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/CLMfnyx7/dinniman-dungeon-crawler-carl.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 427,
+			"progress": 0,
+			"sortOrder": 51,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "Dungeon Crawler Carl",
+				"colorCode": "#9141ac"
+			},
+			"genres": [
+				{
+					"name": "Fantasy",
+					"colorCode": "rgb(172, 152, 5)"
+				},
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 780,
+			"title": "Dead But Dreaming of Electric Sheep",
+			"subTitle": "",
+			"fullTitle": "Dead But Dreaming of Electric Sheep",
+			"author": "Paul Tremblay",
+			"link": "https://bookshop.org/p/books/dead-but-dreaming-of-electric-sheep-a-novel-paul-tremblay/ef0ae7d082a5722d",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/HsW78GkZ/tremblay-dead-but-dreaming.jpg",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 1,
+			"pageCount": 321,
+			"progress": 0,
+			"sortOrder": 52,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
+				},
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Hardcover",
+					"colorCode": "#a0175f"
 				}
 			]
 		},
@@ -18303,37 +20253,6 @@
 			"formats": []
 		},
 		{
-			"bookId": 423,
-			"title": "Future Value: The Battle for Baseball’s Soul and How Teams Will Find the Next Superstar",
-			"subTitle": "",
-			"fullTitle": "Future Value: The Battle for Baseball’s Soul and How Teams Will Find the Next Superstar",
-			"author": "Eric Longenhagen & Kiley McDaniel",
-			"link": "https://bookshop.org/p/books/future-value-the-battle-for-baseball-s-soul-and-how-teams-will-find-the-next-superstar-eric-longenhagen/16661680?ean=9781629378800",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": false,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 0,
-			"progress": 0,
-			"sortOrder": 810,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [],
-			"formats": []
-		},
-		{
 			"bookId": 399,
 			"title": "The Lazarus Heist: From Hollywood to High Finance: Inside North Korea’s Global Cyber War",
 			"subTitle": "",
@@ -18452,37 +20371,6 @@
 			"type": {
 				"name": "Fiction",
 				"colorCode": "#1d3c8c"
-			},
-			"series": null,
-			"genres": [],
-			"formats": []
-		},
-		{
-			"bookId": 493,
-			"title": "The Undercover Economist",
-			"subTitle": "",
-			"fullTitle": "The Undercover Economist",
-			"author": "Tim Harford",
-			"link": "https://bookshop.org/books/the-undercover-economist/9780345494016",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": false,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 0,
-			"progress": 0,
-			"sortOrder": 860,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
 			},
 			"series": null,
 			"genres": [],
@@ -19357,42 +21245,6 @@
 			"formats": []
 		},
 		{
-			"bookId": 410,
-			"title": "Power Failure",
-			"subTitle": "The Rise and Fall of an American Icon",
-			"fullTitle": "Power Failure: The Rise and Fall of an American Icon",
-			"author": "William D. Cohan",
-			"link": "https://bookshop.org/p/books/power-failure-the-rise-and-fall-of-an-american-icon-william-d-cohan/18255503?ean=9780593084168",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 0,
-			"progress": 0,
-			"sortOrder": 1170,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Business & Economics",
-					"colorCode": "rgb(23, 126, 0)"
-				}
-			],
-			"formats": []
-		},
-		{
 			"bookId": 168,
 			"title": "Budayeen Nights",
 			"subTitle": "",
@@ -19666,37 +21518,6 @@
 			"type": {
 				"name": "Non-Fiction",
 				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [],
-			"formats": []
-		},
-		{
-			"bookId": 461,
-			"title": "Artemis",
-			"subTitle": "",
-			"fullTitle": "Artemis",
-			"author": "Andy Weir",
-			"link": "https://bookshop.org/books/artemis-9780525532101/9780553448146",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": false,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 0,
-			"progress": 0,
-			"sortOrder": 1280,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
 			},
 			"series": null,
 			"genres": [],
@@ -26471,46 +28292,6 @@
 			"formats": []
 		},
 		{
-			"bookId": 679,
-			"title": "Of Monsters and Mainframes",
-			"subTitle": "",
-			"fullTitle": "Of Monsters and Mainframes",
-			"author": "Barbara Truelove",
-			"link": "https://bookshop.org/p/books/of-monsters-and-mainframes-barbara-truelove/e8151d9546a82f7d",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 3540,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Horror",
-					"colorCode": "rgb(146, 4, 4)"
-				},
-				{
-					"name": "Science Fiction",
-					"colorCode": "rgb(102, 119, 2)"
-				}
-			],
-			"formats": []
-		},
-		{
 			"bookId": 710,
 			"title": "Incorruptible",
 			"subTitle": "Why Good Companies Go Bad... and How Great Companies Stay Great",
@@ -27046,42 +28827,6 @@
 			"formats": []
 		},
 		{
-			"bookId": 695,
-			"title": "Privacy's Defender",
-			"subTitle": "My Thirty-Year Fight Against Digital Surveillance",
-			"fullTitle": "Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance",
-			"author": "Cindy Cohn",
-			"link": "https://bookshop.org/p/books/privacy-s-defender-my-thirty-year-fight-against-digital-surveillance-cindy-cohn/53886568f609835d",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 3700,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Technology",
-					"colorCode": "rgb(55, 78, 146)"
-				}
-			],
-			"formats": []
-		},
-		{
 			"bookId": 702,
 			"title": "Radical Infrastructure",
 			"subTitle": "Imagining the Internet from the Ground Up",
@@ -27120,132 +28865,6 @@
 				}
 			],
 			"formats": []
-		},
-		{
-			"bookId": 703,
-			"title": "Plunder",
-			"subTitle": "Private Equity's Plan to Pillage America",
-			"fullTitle": "Plunder: Private Equity's Plan to Pillage America",
-			"author": "Brendan Ballou",
-			"link": "https://bookshop.org/p/books/plunder-private-equity-s-plan-to-pillage-america-brendan-ballou/868be1439333930f",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": true,
-			"isPurchased": true,
-			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 3730,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Business & Economics",
-					"colorCode": "rgb(23, 126, 0)"
-				},
-				{
-					"name": "Politics",
-					"colorCode": "rgb(130, 40, 40)"
-				}
-			],
-			"formats": []
-		},
-		{
-			"bookId": 704,
-			"title": "Spitfires",
-			"subTitle": "The American Women Who Flew in the Face of Danger During World War II",
-			"fullTitle": "Spitfires: The American Women Who Flew in the Face of Danger During World War II",
-			"author": "Becky Aikman",
-			"link": "https://bookshop.org/p/books/spitfires-the-american-women-who-flew-in-the-face-of-danger-during-world-war-ii-becky-aikman/8f6139cab9395ee4",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/xjsP12B2/aikman-spitfires.jpg",
-			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 3750,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "History",
-					"colorCode": "rgb(4, 38, 142)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Paperback",
-					"colorCode": "#cd6a29"
-				}
-			]
-		},
-		{
-			"bookId": 705,
-			"title": "When Companies Run the Courts",
-			"subTitle": "How Forced Arbitration Became America's Secret Justice System",
-			"fullTitle": "When Companies Run the Courts: How Forced Arbitration Became America's Secret Justice System",
-			"author": "Brendan Ballou",
-			"link": "https://bookshop.org/p/books/when-companies-run-the-courts-how-forced-arbitration-became-america-s-secret-justice-system-brendan-ballou/737fb3f75cdb1a99",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 3760,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Business & Economics",
-					"colorCode": "rgb(23, 126, 0)"
-				},
-				{
-					"name": "Politics",
-					"colorCode": "rgb(130, 40, 40)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Hardcover",
-					"colorCode": "#a0175f"
-				}
-			]
 		},
 		{
 			"bookId": 706,
@@ -27781,47 +29400,6 @@
 			"formats": []
 		},
 		{
-			"bookId": 724,
-			"title": "The Women",
-			"subTitle": "",
-			"fullTitle": "The Women",
-			"author": "Kristin Hannah",
-			"link": "https://bookshop.org/p/books/the-women-a-novel-kristin-hannah/5472123ec95595c8",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 3920,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Historical Fiction",
-					"colorCode": "#da0158"
-				}
-			],
-			"formats": [
-				{
-					"name": "eBook",
-					"colorCode": "#2c5813"
-				}
-			]
-		},
-		{
 			"bookId": 725,
 			"title": "Bubbles and Crashes",
 			"subTitle": "The Boom and Bust of Technological Innovation",
@@ -27858,42 +29436,6 @@
 			"formats": []
 		},
 		{
-			"bookId": 728,
-			"title": "Body Electric",
-			"subTitle": "The Hidden Health Costs of the Digital Age and New Science to Reclaim Your Well-Being",
-			"fullTitle": "Body Electric: The Hidden Health Costs of the Digital Age and New Science to Reclaim Your Well-Being",
-			"author": "Manoush Zomorodi",
-			"link": "https://bookshop.org/p/books/body-electric-the-hidden-health-costs-of-the-digital-age-and-new-science-to-reclaim-your-well-being-keith-diaz-phd/89845c6f7856af68",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/zGmy0Qxm/zomorodi-body-electric.webp",
-			"isAtLibrary": true,
-			"isPurchased": false,
-			"currentPage": 1,
-			"pageCount": 1,
-			"progress": 100,
-			"sortOrder": 3940,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Non-Fiction",
-				"colorCode": "#244c43"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Technology",
-					"colorCode": "rgb(55, 78, 146)"
-				}
-			],
-			"formats": []
-		},
-		{
 			"bookId": 730,
 			"title": "On Courage",
 			"subTitle": "How to Be a Dissident in an Age of Fear",
@@ -27925,6 +29467,590 @@
 				{
 					"name": "Politics",
 					"colorCode": "rgb(130, 40, 40)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 731,
+			"title": "Written",
+			"subTitle": "How to Keep Writing and Build a Habit That Lasts",
+			"fullTitle": "Written: How to Keep Writing and Build a Habit That Lasts",
+			"author": "Bec Evans & Chris Smith",
+			"link": "https://bookshop.org/p/books/written-how-to-keep-writing-and-build-a-habit-that-lasts-bec-evans/2487adac789e0680",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3960,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Creativity",
+					"colorCode": "rgb(0, 146, 118)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 732,
+			"title": "Trillions",
+			"subTitle": "How a Band of Wall Street Renegades Invented the Index Fund and Changed Finance Forever",
+			"fullTitle": "Trillions: How a Band of Wall Street Renegades Invented the Index Fund and Changed Finance Forever",
+			"author": "Robin Wigglesworth",
+			"link": "https://bookshop.org/p/books/trillions-how-a-band-of-wall-street-renegades-invented-the-index-fund-and-changed-finance-forever-robin-wigglesworth/747b0db7c86a0cd2?m",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3970,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 733,
+			"title": "Hyperscale",
+			"subTitle": "The Ambition and Excess of Big Tech's Data Empires",
+			"fullTitle": "Hyperscale: The Ambition and Excess of Big Tech's Data Empires",
+			"author": "Paris Marx",
+			"link": "https://bookshop.org/p/books/hyperscale-the-ambition-and-excess-of-big-tech-s-data-empires-paris-marx/bef8c026f7d016e2",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3980,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Technology",
+					"colorCode": "rgb(55, 78, 146)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 736,
+			"title": "My Husband's Wife",
+			"subTitle": "",
+			"fullTitle": "My Husband's Wife",
+			"author": "Alice Feeney",
+			"link": "https://bookshop.org/p/books/my-husband-s-wife-alice-feeney/75a10dfa1c7fff94",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 3990,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Mystery",
+					"colorCode": "rgb(1, 102, 47)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 738,
+			"title": "The Path to Power",
+			"subTitle": "The Years of Lyndon Johnson I",
+			"fullTitle": "The Path to Power: The Years of Lyndon Johnson I",
+			"author": "Robert A. Caro",
+			"link": "https://bookshop.org/p/books/the-path-to-power-the-years-of-lyndon-johnson-i-robert-a-caro/adb253cb5570a15b",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4000,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": {
+				"name": "Caro - LBJ",
+				"colorCode": "#a51d2d"
+			},
+			"genres": [
+				{
+					"name": "Biography / Memoir",
+					"colorCode": "rgb(68, 0, 214)"
+				},
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 739,
+			"title": "Means of Ascent",
+			"subTitle": "The Years of Lyndon Johnson II",
+			"fullTitle": "Means of Ascent: The Years of Lyndon Johnson II",
+			"author": "Robert A. Caro",
+			"link": "https://bookshop.org/p/books/means-of-ascent-the-years-of-lyndon-johnson-ii-robert-a-caro/a2f3f1e63de14c1f",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4010,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": {
+				"name": "Caro - LBJ",
+				"colorCode": "#a51d2d"
+			},
+			"genres": [
+				{
+					"name": "Biography / Memoir",
+					"colorCode": "rgb(68, 0, 214)"
+				},
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 740,
+			"title": "Master of the Senate",
+			"subTitle": "The Years of Lyndon Johnson III",
+			"fullTitle": "Master of the Senate: The Years of Lyndon Johnson III",
+			"author": "Robert A. Caro",
+			"link": "https://bookshop.org/p/books/master-of-the-senate-the-years-of-lyndon-johnson-iii-robert-a-caro/56e6e291d6d0dfe2",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4020,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": {
+				"name": "Caro - LBJ",
+				"colorCode": "#a51d2d"
+			},
+			"genres": [
+				{
+					"name": "Biography / Memoir",
+					"colorCode": "rgb(68, 0, 214)"
+				},
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 741,
+			"title": "The Passage of Power",
+			"subTitle": "The Years of Lyndon Johnson, Vol. IV",
+			"fullTitle": "The Passage of Power: The Years of Lyndon Johnson, Vol. IV",
+			"author": "Robert A. Caro",
+			"link": "https://bookshop.org/p/books/the-passage-of-power-the-years-of-lyndon-johnson-iv-robert-a-caro/daf1598f9c503ba8",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4030,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": {
+				"name": "Caro - LBJ",
+				"colorCode": "#a51d2d"
+			},
+			"genres": [
+				{
+					"name": "Biography / Memoir",
+					"colorCode": "rgb(68, 0, 214)"
+				},
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 742,
+			"title": "Working",
+			"subTitle": "",
+			"fullTitle": "Working",
+			"author": "Robert A. Caro",
+			"link": "https://bookshop.org/p/books/working-robert-a-caro/b37074d07b49bf9b",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4040,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Biography / Memoir",
+					"colorCode": "rgb(68, 0, 214)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 743,
+			"title": "The Pentagon Papers",
+			"subTitle": "The Secret History of the Vietnam War",
+			"fullTitle": "The Pentagon Papers: The Secret History of the Vietnam War",
+			"author": "Neil Sheehan & Hedrick Smith",
+			"link": "https://bookshop.org/p/books/the-pentagon-papers-the-secret-history-of-the-vietnam-war-e-w-kenworthy/bb4d208b725a7d7a",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4050,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 744,
+			"title": "Secrets",
+			"subTitle": "A Memoir of Vietnam and the Pentagon Papers",
+			"fullTitle": "Secrets: A Memoir of Vietnam and the Pentagon Papers",
+			"author": "Daniel Ellsberg",
+			"link": "https://bookshop.org/p/books/secrets-a-memoir-of-vietnam-and-the-pentagon-papers-daniel-ellsberg/7d3cb71ea7a35a04",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4060,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Biography / Memoir",
+					"colorCode": "rgb(68, 0, 214)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 745,
+			"title": "A Complete History of the Negro Leagues: 1884 to 1955",
+			"subTitle": "",
+			"fullTitle": "A Complete History of the Negro Leagues: 1884 to 1955",
+			"author": "Mark Ribowsky",
+			"link": "https://bookshop.org/p/books/comp-hist-negro-leg-p-mark-ribowsky/c4ab47618cf50ae4",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4070,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				},
+				{
+					"name": "Sports",
+					"colorCode": "rgb(0, 80, 20)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 746,
+			"title": "Shades of Glory",
+			"subTitle": "The Negro Leagues & the Story of African-American Baseball",
+			"fullTitle": "Shades of Glory: The Negro Leagues & the Story of African-American Baseball",
+			"author": "Lawrence D. Hogan",
+			"link": "https://bookshop.org/p/books/shades-of-glory-the-negro-leagues-the-story-of-african-american-baseball-lawrence-d-hogan/276ef51587368994",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4080,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				},
+				{
+					"name": "Sports",
+					"colorCode": "rgb(0, 80, 20)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 747,
+			"title": "Of Monarchs and Black Barons",
+			"subTitle": "Essays on Baseball's Negro Leagues",
+			"fullTitle": "Of Monarchs and Black Barons: Essays on Baseball's Negro Leagues",
+			"author": "James A. Riley",
+			"link": "https://bookshop.org/p/books/of-monarchs-and-black-barons-essays-on-baseball-s-negro-leagues-james-a-riley/ed3c33c9d7539172",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4090,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "History",
+					"colorCode": "rgb(4, 38, 142)"
+				},
+				{
+					"name": "Sports",
+					"colorCode": "rgb(0, 80, 20)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 748,
+			"title": "I Was Right On Time",
+			"subTitle": "",
+			"fullTitle": "I Was Right On Time",
+			"author": "Buck O'Neil, David Conrads & Steve Wulf",
+			"link": "https://bookshop.org/p/books/i-was-right-on-time-buck-o-neil/eab00e4361d7fd44",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4100,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Biography / Memoir",
+					"colorCode": "rgb(68, 0, 214)"
+				},
+				{
+					"name": "Sports",
+					"colorCode": "rgb(0, 80, 20)"
 				}
 			],
 			"formats": []
