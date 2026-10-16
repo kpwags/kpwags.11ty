@@ -1,24 +1,24 @@
 {
 	"inProgress": [
 		{
-			"bookId": 699,
-			"title": "Green & Deadly Things",
+			"bookId": 752,
+			"title": "The Remaking",
 			"subTitle": "",
-			"fullTitle": "Green & Deadly Things",
-			"author": "Jenn Lyons",
-			"link": "https://bookshop.org/p/books/green-deadly-things-jenn-lyons/b6959aa2ff5d37ec",
-			"dateStarted": "2026-10-07T00:00:00.000Z",
+			"fullTitle": "The Remaking",
+			"author": "Clay McLeod Chapman",
+			"link": "https://bookshop.org/p/books/the-remaking-clay-mcleod-chapman/ffc4d3d50aa0aa77",
+			"dateStarted": "2026-10-16T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/Hk9Wzygz/green-deadly-things.jpg",
+			"coverImageUrl": "https://i.postimg.cc/JzkKGwv6/chapman-the-remaking.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 203,
-			"pageCount": 354,
-			"progress": 57,
-			"sortOrder": 2,
+			"currentPage": 1,
+			"pageCount": 295,
+			"progress": 1,
+			"sortOrder": 12,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
@@ -30,14 +30,14 @@
 			"series": null,
 			"genres": [
 				{
-					"name": "Fantasy",
-					"colorCode": "rgb(172, 152, 5)"
+					"name": "Horror",
+					"colorCode": "rgb(146, 4, 4)"
 				}
 			],
 			"formats": [
 				{
-					"name": "Hardcover",
-					"colorCode": "#a0175f"
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
 				}
 			]
 		}
@@ -46,6 +46,47 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 699,
+					"title": "Green & Deadly Things",
+					"subTitle": "",
+					"fullTitle": "Green & Deadly Things",
+					"author": "Jenn Lyons",
+					"link": "https://bookshop.org/p/books/green-deadly-things-jenn-lyons/b6959aa2ff5d37ec",
+					"dateStarted": "2026-10-07T00:00:00.000Z",
+					"dateCompleted": "2026-10-15T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "A fun fantasy story that delved into romantasy a little, but still was enjoyable.",
+					"coverImageUrl": "https://i.postimg.cc/Hk9Wzygz/green-deadly-things.jpg",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 354,
+					"pageCount": 354,
+					"progress": 100,
+					"sortOrder": 2,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Fantasy",
+							"colorCode": "rgb(172, 152, 5)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Hardcover",
+							"colorCode": "#a0175f"
+						}
+					]
+				},
 				{
 					"bookId": 679,
 					"title": "Of Monsters and Mainframes",
@@ -16760,47 +16801,6 @@
 			"pageCount": 384,
 			"progress": 0,
 			"sortOrder": 11,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Horror",
-					"colorCode": "rgb(146, 4, 4)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Paperback",
-					"colorCode": "#cd6a29"
-				}
-			]
-		},
-		{
-			"bookId": 752,
-			"title": "The Remaking",
-			"subTitle": "",
-			"fullTitle": "The Remaking",
-			"author": "Clay McLeod Chapman",
-			"link": "https://bookshop.org/p/books/the-remaking-clay-mcleod-chapman/ffc4d3d50aa0aa77",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/JzkKGwv6/chapman-the-remaking.jpg",
-			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 1,
-			"pageCount": 295,
-			"progress": 0,
-			"sortOrder": 12,
 			"status": {
 				"name": "To Read",
 				"colorCode": "#313ca2"
