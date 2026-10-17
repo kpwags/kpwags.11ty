@@ -1,5 +1,50 @@
 [
 	{
+		"linkId": 1861,
+		"title": "The real villain in 'You Can See Everything' isn't Elizabeth Holmes",
+		"author": "Drew Magary",
+		"url": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php",
+		"linkDate": "2026-10-16T00:00:00.000Z",
+		"category": {
+			"name": "Media & Entertainment",
+			"colorCode": "#7949a8"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1862,
+		"title": "Dark Forestry",
+		"author": "Henry Desroches",
+		"url": "https://henry.codes/writing/dark-forestry/",
+		"linkDate": "2026-10-16T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1863,
+		"title": "A look at the geolocation HTML element and how it works",
+		"author": "Daniel Schwarz",
+		"url": "https://piccalil.li/blog/a-look-at-the-geolocation-html-element-and-how-it-works/",
+		"linkDate": "2026-10-16T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1860,
 		"title": "Someone ‘Torturing’ LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
 		"author": "Jason Koebler",
