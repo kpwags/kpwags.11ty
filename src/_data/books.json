@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/JzkKGwv6/chapman-the-remaking.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 1,
+			"currentPage": 92,
 			"pageCount": 295,
-			"progress": 1,
+			"progress": 31,
 			"sortOrder": 12,
 			"status": {
 				"name": "Reading",
@@ -30051,6 +30051,42 @@
 				{
 					"name": "Sports",
 					"colorCode": "rgb(0, 80, 20)"
+				}
+			],
+			"formats": []
+		},
+		{
+			"bookId": 782,
+			"title": "Bad Blood",
+			"subTitle": "Secrets and Lies in a Silicon Valley Startup",
+			"fullTitle": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+			"author": "John Carreyrou",
+			"link": "https://bookshop.org/p/books/bad-blood-secrets-and-lies-in-a-silicon-valley-startup-john-carreyrou/bff4576da6a46b5d",
+			"dateStarted": null,
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4140,
+			"status": {
+				"name": "To Read",
+				"colorCode": "#313ca2"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Technology",
+					"colorCode": "rgb(55, 78, 146)"
 				}
 			],
 			"formats": []
