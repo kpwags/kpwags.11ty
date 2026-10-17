@@ -2580,3 +2580,61 @@ section.tracks {
 .concert-stats table tbody tr:hover td {
 	background: var(--background-shaded);
 }
+/* ---- END CONCERTS ---- */
+
+/* ---- LIGHT/DARK SWITCH */
+.light-dark-toggle {
+ display: flex;
+ justify-content: flex-start;
+ margin-top: 16px;
+}
+
+@media (max-width: 600px) {
+	.light-dark-toggle {
+		justify-content: center;
+	}
+}
+
+.light-dark-toggle button {
+	border-radius: 50px;
+	border: 2px solid var(--white);
+	background-color: transparent;
+	padding: 8px 16px;
+ 	line-height: 12px;
+ 	font-size: 0.8rem;
+ 	color: var(--white);
+}
+
+.light-dark-toggle button:hover {
+	border-color: var(--color-3);
+	background-color: var(--primary-50);
+	color: var(--color-1);
+}
+
+.light-dark-toggle button svg {
+	width: 16px;
+	height: 16px;
+	fill: var(--color-5);
+}
+
+.light-dark-toggle button:hover svg {
+	fill: var(--color-1);
+}
+
+.light-dark-toggle button span.switch {
+	display: flex;
+	gap: 16px;
+	align-items: center;
+}
+
+.light-dark-toggle button[data-current-mode="light"] span.switch-light-mode,
+.light-dark-toggle button[data-current-mode="dark"] span.switch-dark-mode {
+	display: none;
+}
+
+
+.light-dark-toggle button[data-current-mode="light"] span.switch-dark-mode,
+.light-dark-toggle button[data-current-mode="dark"] span.switch-light-mode {
+	display: flex;
+}
+/* ---- END LIGHT/DARK SWITCH ---- */
