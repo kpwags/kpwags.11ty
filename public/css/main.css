@@ -1959,9 +1959,18 @@ section.chart h2 {
 }
 
 .podcast-grid .item {
-	width: 160px;
 	text-align: center;
 	font-size: 0.85rem;
+	padding: 16px;
+	width: 192px;
+	flex-shrink: 0;
+	border: 3px solid var(--color-2);
+	border-radius: 6px;
+	background: var(--background-shaded);
+}
+
+.podcast-grid .item img {
+	width: 160px;
 }
 
 .podcast-grid .item .info {
