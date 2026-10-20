@@ -114,6 +114,66 @@ const populateBookJson = async (books) => {
 	await replaceFile('books.json', JSON.stringify(bookJson, null, "\t"));
 }
 
+const buildFrontMatterForBook = (book) => {
+	let formats = '';
+	let genres = '';
+
+	for (const format of book.formats) {
+		if (formats === '')
+		{
+			formats = `  { name: "${format.name}", color: "${format.colorCode}" },`;
+		}
+		else
+		{
+			formats = `${formats}
+  { name: "${format.name}", color: "${format.colorCode}" },`;
+		}
+	}
+
+	for (const genre of book.genres) {
+		if (genres === '')
+		{
+			genres = `  { name: "${genre.name}", color: "${genre.colorCode}" },`;
+		}
+		else
+		{
+			genres = `${genres}
+  { name: "${genre.name}", color: "${genre.colorCode}" },`;
+		}
+	}
+
+	const frontMatter = `---
+layout: "layouts/book.html"
+title: "${book.title}"
+subtitle: "${book.subTitle}"
+fullTitle: "${book.fullTitle}"
+author: "${book.author}"
+coverImage: ${book.coverImageUrl}
+dateCompleted: ${book.dateCompleted}
+permalink: /bookshelf/book/${book.bookId}/index.html
+link: ${book.link}
+thoughts: "${book.thoughts.replaceAll("\"", "\\\"")}"
+format: ${book.formats[0].name}
+genres: [
+${genres}
+]
+---
+`;
+
+	return frontMatter;
+};
+
+const writeBookPages = async (books) => {
+	console.log('Writing Book Pages');
+
+	await Promise.all(books.map(async (book) => {
+		const frontMatter = buildFrontMatterForBook(book);
+		await replaceFile(`${book.bookId}.md`, frontMatter, '/src/bookshelf/book')
+	}));
+
+	console.log(`Wrote ${books.length} Books Pages`);
+};
+
 export const populateBooks = async () => {
 	const [data, error] = await Api.Fetch('book');
 
@@ -122,6 +182,7 @@ export const populateBooks = async () => {
 	}
 
 	await populateAuthors(data.filter((d) => d.status.name === 'Finished'));
+	await writeBookPages(data.filter((d) => d.status.name === 'Finished'));
 	await populateBookJson(data);
 };
 
