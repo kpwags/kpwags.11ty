@@ -141,6 +141,15 @@ h1:has(+ p.page-description) {
 h1 + p.page-description {
 	margin-block-start: 0;
 	text-align: center;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@media (max-width: 600px) {
+	h1 + p.page-description {
+		width: 90%;
+	}
 }
 
 p {
