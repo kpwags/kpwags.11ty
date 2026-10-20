@@ -152,6 +152,7 @@ coverImage: ${book.coverImageUrl}
 dateCompleted: ${book.dateCompleted}
 permalink: /bookshelf/book/${book.bookId}/index.html
 link: ${book.link}
+rating: ${book.rating}
 thoughts: "${book.thoughts.replaceAll("\"", "\\\"")}"
 format: ${book.formats[0].name}
 genres: [
