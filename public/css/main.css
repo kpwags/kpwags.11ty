@@ -44,6 +44,12 @@ main.homepage {
 	}
 }
 
+@media (max-width: 500px) {
+	main {
+		margin: 32px auto;
+	}
+}
+
 h1 {
 	font-weight: 500;
 	font-size: 2.25rem;
@@ -1889,7 +1895,8 @@ section.chart h2 {
 /* ---- END PLATFORM TAGS ---- */
 
 /* ---- VIDEO GAMES PAGE ---- */
-.video-game-page {
+.video-game-page,
+.bookshelf-page {
 	width: 100%;
 	display: grid;
 	grid-column-gap: 96px;
@@ -1897,7 +1904,8 @@ section.chart h2 {
 }
 
 @media (max-width: 900px) {
-	.video-game-page {
+	.video-game-page,
+	.bookshelf-page {
 		display: flex;
 		gap: 16px;
 		flex-direction: column;
@@ -2480,6 +2488,8 @@ section.tracks {
 
 	.album-info .details h1 {
 		text-align: center;
+		font-size: 1.9rem;
+		padding-bottom: 16px;
 	}
 
 	.album-info .details .row {
@@ -2647,3 +2657,118 @@ section.tracks {
 	display: flex;
 }
 /* ---- END LIGHT/DARK SWITCH ---- */
+
+/* ---- MUSIC ALBUM PAGE ---- */
+.book-page .back-link {
+	margin: 0 0 64px 0;
+}
+
+.book-info {
+	width: 800px;
+	margin: 0 auto;
+	display: flex;
+	gap: 32px;
+}
+
+.book-info .cover {
+	width: 200px;
+	flex-shrink: 0;
+	align-self: flex-start;
+}
+
+.book-info .details {
+	flex-grow: 1;
+	width: 100%;
+}
+
+.book-info .details h1 {
+	text-align: left;
+	margin: 0;
+	padding-bottom: 8px;
+	border-bottom: 1px solid var(--border-color);
+}
+
+.book-info .details .row {
+	display: flex;
+	gap: 48px;
+	border-bottom: 1px solid var(--border-color);
+	padding: 8px 0;
+}
+
+.book-info .details .row:last-child {
+	border-bottom: none;
+}
+
+.book-info .details .row .key {
+	width: 150px;
+	font-weight: bold;
+	flex-shrink: 0;
+}
+
+.book-info .details .row .value ul.tags {
+	margin: 0;
+	padding: 0;
+	display: inline-flex;
+	flex-wrap: wrap;
+	gap: 4px;
+}
+
+.book-info .details .row .value ul.tags li {
+	margin: 0;
+	padding: 2px 8px;
+	border-radius: 6px;
+	align-self: center;
+	color: var(--white);
+	list-style-type: none;
+	font-size: 0.8rem;
+}
+
+section.thoughts {
+	border-top: 1px solid var(--border-color);
+	margin-top: 64px;
+	padding-top: 16px;
+}
+
+@media (max-width: 900px) {
+	.book-info {
+		width: 100%;
+	}
+}
+
+@media (max-width: 650px) {
+	.book-page .back-link {
+		margin: 0 0 32px 0;
+	}
+
+	.book-info {
+		width: 100%;
+		flex-direction: column;
+	}
+
+	.book-info .cover {
+		align-self: center;
+	}
+
+	.book-info .details h1 {
+		text-align: center;
+		font-size: 1.9rem;
+		padding-bottom: 16px;
+	}
+
+	.book-info .details .row {
+		gap: 32px;
+	}
+
+	.book-info .details .row .key {
+		width: 100px;
+	}
+
+	.book-info .details .row.date-completed {
+		align-items: center;
+	}
+
+	section.thoughts {
+		margin-top: 32px;
+	}
+}
+/* ---- END BOOK PAGE ---- */

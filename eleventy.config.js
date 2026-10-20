@@ -44,6 +44,7 @@ import postTitleShortcode from './src/shortcodes/postTitle-shortcode.js';
 import concertShortcode from './src/shortcodes/concert-shortcode.js';
 import { nextPreviousLinks } from './src/shortcodes/nextPreviousLinks-shortcode.js';
 import { progressLinks } from './src/shortcodes/progressLinks-shortcode.js';
+import { platformTag } from './src/shortcodes/platformTag-shortcode.js';
 
 export default function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy({
@@ -120,6 +121,7 @@ export default function (eleventyConfig) {
     eleventyConfig.addShortcode('concert', concertShortcode);
     eleventyConfig.addShortcode('nextPreviousLinks', nextPreviousLinks);
     eleventyConfig.addShortcode('progressLinks', progressLinks);
+    eleventyConfig.addShortcode('platformTag', platformTag);
 
     eleventyConfig.addPairedShortcode('sharedLink', sharedLink);
 

@@ -123,10 +123,11 @@ const writeMusicPages = async (albums) => {
 	console.log('Writing Music Album Pages');
 
 	await Promise.all(albums.map(async (album) => {
-		console.log(`Writing ${album.artist} - ${album.title}`);
 		const frontMatter = buildFrontMatterForAlbum(album);
 		await replaceFile(`${album.musicAlbumId}.md`, frontMatter, '/src/music/album')
 	}));
+
+	console.log(`Wrote ${albums.length} Music Album Pages`);
 };
 
 export const populateMusic = async () => {

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="{{ metadata.language }}">
+
+<head>
+	{% include "head.html" %}
+	<title>{{ fullTitle }} by {{ author }} - Bookshelf - Keith Wagner</title>
+
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://kpwags.com{{ page.url }}" />
+	<meta property="og:title" content="{{ fullTitle }} by {{ author }} - Bookshelf - Keith Wagner" />
+</head>
+
+<body>
+	{% include "header.html" %}
+
+	<main>
+		<article class="book-page">
+			<div class="content">
+				<div class="back-link">
+					<a href="/bookshelf/">&larr; Back to Bookshelf</a>
+				</div>
+
+				<div class="book-info">
+					<div class="cover"><img src="{{ coverImage }}" alt="Book cover for {{ fullTitle }} by {{ author }}" width="200" height="200" /></div>
+					<div class="details">
+						<h1>{{ fullTitle }}</h1>
+
+						<div class="row">
+							<div class="key">Author</div>
+							<div class="value">{{ author }}</div>
+						</div>
+
+						{% if datePurchased %}
+							<div class="row date-completed">
+								<div class="key">Date Completed</div>
+								<div class="value">{{ dateCompleted | readableDate }}</div>
+							</div>
+						{% endif %}
+
+						<div class="row">
+							<div class="key">Format</div>
+							<div class="value">
+								{% platformTag format %}
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="key">Genres(s)</div>
+							<div class="value">
+								<ul class="tags">
+									{% for genre in genres %}
+										<li style="background-color: {{ genre.color }};">{{ genre.name }}</li>
+									{% endfor %}
+								</ul>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="key">Link</div>
+							<div class="value">
+								<a href="{{ link }}">{{ link | domainFromUrl }}</a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				{% if thoughts.length > 0 %}
+					<section class="thoughts">
+						<p>{{ thoughts }}</p>
+					</section>
+				{% endif %}
+			</div>
+		</article>
+	</main>
+
+	{% include "footer.html" %}
+</body>
+
+</html>

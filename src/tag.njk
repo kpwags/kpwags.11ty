@@ -8,8 +8,9 @@ permalink: /tag/{{ tag | tagUrlSlug }}/
 eleventyComputed:
   title: Posts Tagged “{{ tag }}”
 ---
-
-<h1><span class="prefix"><span class="sr-only">Posts </span>Tagged</span>{{ tag }}</h1>
+<div class="post-heading">
+	<h1><span class="prefix"><span class="sr-only">Posts </span>Tagged</span>{{ tag }}</h1>
+</div>
 
 {% set taglist = collections[ tag ] %}
 
