@@ -2695,6 +2695,10 @@ section.tracks {
 	padding: 8px 0;
 }
 
+.book-info .details .row:has(.rating) {
+	align-items: center;
+}
+
 .book-info .details .row:last-child {
 	border-bottom: none;
 }
@@ -2721,6 +2725,12 @@ section.tracks {
 	color: var(--white);
 	list-style-type: none;
 	font-size: 0.8rem;
+	background-color: var(--color-1);
+}
+
+.book-info .details .row .value .rating {
+	line-height: 1;
+	height: 24px;
 }
 
 section.thoughts {
@@ -2772,3 +2782,56 @@ section.thoughts {
 	}
 }
 /* ---- END BOOK PAGE ---- */
+
+/* ---- BOOK NOTES LISTING ---- */
+section.book-notes {
+	margin-top: 32px;
+}
+
+section.book-notes article {
+	border-bottom: 1px solid var(--border-color);
+	padding: 32px 0;
+}
+
+section.book-notes article:first-child {
+	border-top: 1px solid var(--border-color);
+}
+
+section.book-notes article:last-child {
+	margin-bottom: 0;
+}
+
+section.book-notes article .content {
+	display: flex;
+	gap: 32px;
+}
+
+section.book-notes article .content .image {
+	min-width: 100px;
+	max-width: 100px;
+}
+
+section.book-notes article .content .info h2 {
+	font-size: 2rem;
+	margin: 0 0 16px 0;
+	padding: 0;
+}
+
+@media (max-width: 500px) {
+	section.book-notes article .content .info h2 {
+		font-size: 1.5rem;
+	}
+}
+/* ---- END BOOK NOTES LISTING */
+
+/* ---- BOOK NOTE PAGE ---- */
+.book-page ul.book-purchase-links {
+	margin: 0;
+	padding: 0;
+}
+
+.book-page ul.book-purchase-links li {
+	margin: 0;
+	padding: 0;
+}
+/* ---- END BOOK NOTE PAGE ---- */

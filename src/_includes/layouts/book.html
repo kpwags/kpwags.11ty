@@ -30,7 +30,7 @@
 							<div class="value">{{ author }}</div>
 						</div>
 
-						{% if datePurchased %}
+						{% if dateCompleted %}
 							<div class="row date-completed">
 								<div class="key">Date Completed</div>
 								<div class="value">{{ dateCompleted | readableDate }}</div>
@@ -43,6 +43,15 @@
 								{% platformTag format %}
 							</div>
 						</div>
+
+						{% if rating > 0 %}
+						<div class="row">
+							<div class="key">Rating</div>
+							<div class="value">
+								{% starRating rating %}
+							</div>
+						</div>
+						{% endif %}
 
 						<div class="row">
 							<div class="key">Genres(s)</div>
