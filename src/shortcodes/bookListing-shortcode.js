@@ -28,10 +28,10 @@ const getLink = (showRatingThoughts, book) => {
 	}
 
 	if (book.bookNotesUrl === null || book.bookNotesUrl === '') {
-		return `/bookshelf/book/${book.bookId}`;
+		return `/bookshelf/book/${book.bookId}/`;
 	}
 
-	return `/books/${book.bookNotesUrl}`;
+	return `/books/${book.bookNotesUrl}/`;
 }
 
 const bookListingShortcode = (book, showProgress, showRatingThoughts) => `

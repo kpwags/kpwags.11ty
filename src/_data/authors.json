@@ -4,7 +4,7 @@
 		"books": [
 			{
 				"title": "The Passion Economy: The New Rules for Thriving in the Twenty-First Century",
-				"link": "https://bookshop.org/books/the-passion-economy-the-new-rules-for-thriving-in-the-twenty-first-century/9780804172776"
+				"link": "/bookshelf/book/472/"
 			}
 		]
 	},
@@ -13,7 +13,7 @@
 		"books": [
 			{
 				"title": "Think Again: The Power of Knowing What You Don't Know",
-				"link": "https://bookshop.org/books/think-again-the-power-of-knowing-what-you-don-t-know-9781984878106/9781984878106"
+				"link": "/bookshelf/book/503/"
 			}
 		]
 	},
@@ -22,11 +22,11 @@
 		"books": [
 			{
 				"title": "Midnight in Chernobyl",
-				"link": "https://bookshop.org/p/books/midnight-in-chernobyl-adam-higginbotham/16337254"
+				"link": "/bookshelf/book/348/"
 			},
 			{
 				"title": "Challenger: A True Story of Heroism and Disaster on the Edge of Space",
-				"link": "https://bookshop.org/p/books/challenger-an-american-tragedy-adam-higginbotham/20712668?ean=9781982176617"
+				"link": "/books/adam-higginbotham-challenger/"
 			}
 		]
 	},
@@ -35,7 +35,7 @@
 		"books": [
 			{
 				"title": "Pragmatic Test-Driven Development in C# and .NET",
-				"link": "https://bookshop.org/p/books/pragmatic-test-driven-development-in-c-and-net-write-loosely-coupled-documented-and-high-quality-code-with-ddd-using-familiar-tools-and-libraries/18917559?ean=9781803230191"
+				"link": "/bookshelf/book/377/"
 			}
 		]
 	},
@@ -44,7 +44,16 @@
 		"books": [
 			{
 				"title": "Shutdown: How Covid Shook the World's Economy",
-				"link": "https://bookshop.org/p/books/shutdown-how-covid-shook-the-world-s-economy-adam-tooze/16278362?ean=9780593297551"
+				"link": "/bookshelf/book/445/"
+			}
+		]
+	},
+	{
+		"name": "Addy Osmani",
+		"books": [
+			{
+				"title": "Learning Patterns",
+				"link": "/bookshelf/book/443/"
 			}
 		]
 	},
@@ -53,19 +62,28 @@
 		"books": [
 			{
 				"title": "Children of Time",
-				"link": "https://bookshop.org/p/books/children-of-time-adrian-tchaikovsky/854d8d3ca3125264"
+				"link": "/bookshelf/book/643/"
 			},
 			{
 				"title": "Children of Ruin",
-				"link": "https://bookshop.org/p/books/children-of-ruin-adrian-tchaikovsky/5030bfe683cae92c"
+				"link": "/bookshelf/book/577/"
 			},
 			{
 				"title": "Children of Memory",
-				"link": "https://bookshop.org/p/books/children-of-memory-adrian-tchaikovsky/2bdd73055c954a77"
+				"link": "/bookshelf/book/644/"
 			},
 			{
 				"title": "Children of Strife",
-				"link": "https://bookshop.org/p/books/children-of-strife-adrian-tchaikovsky/a5faafb97f58dfb0"
+				"link": "/bookshelf/book/694/"
+			}
+		]
+	},
+	{
+		"name": "Alex Hanna",
+		"books": [
+			{
+				"title": "The AI Con: How to Fight Big Tech's Hype and Create the Future We Want",
+				"link": "/books/emily-m-bender-alex-hanna-the-ai-con/"
 			}
 		]
 	},
@@ -74,7 +92,7 @@
 		"books": [
 			{
 				"title": "Planet Money: A Guide to the Economic Forces That Shape Your Life",
-				"link": "https://bookshop.org/p/books/planet-money-a-guide-to-the-economic-forces-that-shape-your-life/d29b4f0b46b2bbe5"
+				"link": "/bookshelf/book/727/"
 			}
 		]
 	},
@@ -83,7 +101,7 @@
 		"books": [
 			{
 				"title": "Food for Thought: Essays and Ruminations",
-				"link": "https://bookshop.org/p/books/food-for-thought-essays-and-ruminations-alton-brown/21530474"
+				"link": "/bookshelf/book/573/"
 			}
 		]
 	},
@@ -92,16 +110,16 @@
 		"books": [
 			{
 				"title": "Parallel Programming and Concurrency with C# 10 and .NET 6",
-				"link": "https://bookshop.org/p/books/parallel-programming-and-concurrency-with-c-10-and-net-6-a-modern-approach-to-building-faster-more-responsive-and-asynchronous-net-applications-alvin-/18757208?ean=9781803243672"
+				"link": "/bookshelf/book/376/"
 			}
 		]
 	},
 	{
-		"name": "Amal El-Mohtar & Max Gladstone",
+		"name": "Amal El-Mohtar",
 		"books": [
 			{
 				"title": "This is How You Lose the Time War",
-				"link": "https://bookshop.org/p/books/this-is-how-you-lose-the-time-war-amal-el-mohtar/9829bd5ae7b0d770"
+				"link": "/bookshelf/book/726/"
 			}
 		]
 	},
@@ -110,11 +128,11 @@
 		"books": [
 			{
 				"title": "1929: Inside the Greatest Crash in Wall Street History--and How It Shattered a Nation",
-				"link": "https://bookshop.org/p/books/1929-inside-the-greatest-crash-in-wall-street-history-and-how-it-shattered-a-nation-andrew-ross-sorkin/923106f6e82cd81e"
+				"link": "/bookshelf/book/629/"
 			},
 			{
 				"title": "Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System--and Themselves",
-				"link": "https://bookshop.org/p/books/too-big-to-fail-the-inside-story-of-how-wall-street-and-washington-fought-to-save-the-financial-system-and-themselves-andrew-ross-sorkin/d5832fe5c3b9f33b"
+				"link": "/books/andrew-ross-sorkin-too-big-to-fail/"
 			}
 		]
 	},
@@ -123,11 +141,11 @@
 		"books": [
 			{
 				"title": "The Martian",
-				"link": "https://bookshop.org/p/books/the-martian-andy-weir/228860"
+				"link": "/bookshelf/book/310/"
 			},
 			{
 				"title": "Project Hail Mary",
-				"link": "https://bookshop.org/books/project-hail-mary/9780593135204"
+				"link": "/bookshelf/book/478/"
 			}
 		]
 	},
@@ -136,7 +154,7 @@
 		"books": [
 			{
 				"title": "Grit: The Power of Passion and Perseverance",
-				"link": "https://bookshop.org/p/books/grit-the-power-of-passion-and-perseverance-angela-duckworth/6700116?ean=9781501111112"
+				"link": "/bookshelf/book/392/"
 			}
 		]
 	},
@@ -145,15 +163,15 @@
 		"books": [
 			{
 				"title": "Ancillary Justice",
-				"link": "https://bookshop.org/p/books/ancillary-justice-ann-leckie/110863?ean=9780316565172"
+				"link": "/bookshelf/book/534/"
 			},
 			{
 				"title": "Ancillary Sword",
-				"link": "https://bookshop.org/p/books/ancillary-sword-ann-leckie/110869?ean=9780316565196"
+				"link": "/bookshelf/book/535/"
 			},
 			{
 				"title": "Ancillary Mercy",
-				"link": "https://bookshop.org/p/books/ancillary-mercy-ann-leckie/110894?ean=9780316565189"
+				"link": "/bookshelf/book/536/"
 			}
 		]
 	},
@@ -162,19 +180,19 @@
 		"books": [
 			{
 				"title": "Four Lost Cities: A Secret History of the Urban Age",
-				"link": "https://bookshop.org/books/four-lost-cities-a-secret-history-of-the-urban-age-9781665115629/9780393652666"
+				"link": "/bookshelf/book/479/"
 			},
 			{
 				"title": "The Terraformers",
-				"link": "https://bookshop.org/p/books/the-terraformers-annalee-newitz/19537833?ean=9781250228017"
+				"link": "/bookshelf/book/373/"
 			},
 			{
 				"title": "Stories Are Weapons: Psychological Warfare and the American Mind",
-				"link": "https://bookshop.org/p/books/stories-are-weapons-psychological-warfare-and-the-american-mind-annalee-newitz/5dadea9e83b77a8a"
+				"link": "/bookshelf/book/618/"
 			},
 			{
 				"title": "Automatic Noodle",
-				"link": "https://bookshop.org/p/books/automatic-noodle-annalee-newitz/625018d0518991aa"
+				"link": "/bookshelf/book/624/"
 			}
 		]
 	},
@@ -183,7 +201,16 @@
 		"books": [
 			{
 				"title": "Autocracy, Inc.: The Dictators Who Want to Run the World",
-				"link": "https://bookshop.org/p/books/autocracy-inc-the-dictators-who-want-to-run-the-world-anne-applebaum/21057810"
+				"link": "/bookshelf/book/563/"
+			}
+		]
+	},
+	{
+		"name": "Anne Helen Petersen",
+		"books": [
+			{
+				"title": "Out of Office: The Big Problem and Bigger Promise of Working from Home",
+				"link": "/bookshelf/book/447/"
 			}
 		]
 	},
@@ -192,11 +219,11 @@
 		"books": [
 			{
 				"title": "Nuclear War: A Scenario",
-				"link": "https://bookshop.org/p/books/nuclear-war-a-scenario-annie-jacobsen/20335598?ean=9780593476093"
+				"link": "/books/annie-jacobsen-nuclear-war/"
 			},
 			{
 				"title": "Operation Paperclip: The Secret Intelligence Program That Brought Nazi Scientists to America",
-				"link": "https://bookshop.org/p/books/operation-paperclip-the-secret-intelligence-program-that-brought-nazi-scientists-to-america-annie-jacobsen/16438943"
+				"link": "/bookshelf/book/569/"
 			}
 		]
 	},
@@ -205,7 +232,7 @@
 		"books": [
 			{
 				"title": "Kitchen Confidential",
-				"link": "https://bookshop.org/p/books/kitchen-confidential-adventures-in-the-culinary-underbelly-anthony-bourdain/8862392"
+				"link": "/bookshelf/book/340/"
 			}
 		]
 	},
@@ -214,7 +241,7 @@
 		"books": [
 			{
 				"title": "Be Useful: Seven Tools for Life",
-				"link": "https://bookshop.org/p/books/be-useful-seven-tools-for-life-arnold-schwartzenegger/19976031"
+				"link": "/bookshelf/book/192/"
 			}
 		]
 	},
@@ -223,7 +250,7 @@
 		"books": [
 			{
 				"title": "Of Monsters and Mainframes",
-				"link": "https://bookshop.org/p/books/of-monsters-and-mainframes-barbara-truelove/e8151d9546a82f7d"
+				"link": "/bookshelf/book/679/"
 			}
 		]
 	},
@@ -232,25 +259,20 @@
 		"books": [
 			{
 				"title": "The War That Made the Roman Empire: Antony, Cleopatra, and Octavian at Actium",
-				"link": "https://bookshop.org/p/books/the-war-that-made-the-roman-empire-antony-cleopatra-and-octavian-at-actium-barry-strauss/18576030?ean=9781982116682"
+				"link": "/books/barry-strauss-the-war-that-made-the-roman-empire/"
 			}
 		]
 	},
 	{
-		"name": "Ben Lindbergh & Sam Miller",
+		"name": "Ben Lindbergh",
 		"books": [
 			{
 				"title": "The Only Rule is it Has to Work: Our Wild Experiment Building a New Kind of Baseball Team",
-				"link": "https://bookshop.org/p/books/the-only-rule-is-it-has-to-work-our-wild-experiment-building-a-new-kind-of-baseball-team-includes-a-new-afterword-sam-miller/230464"
-			}
-		]
-	},
-	{
-		"name": "Ben Lindbergh & Travis Sawchik",
-		"books": [
+				"link": "/bookshelf/book/313/"
+			},
 			{
 				"title": "The MVP Machine: How Baseball's New Nonconformists Are Using Data to Build Better Players",
-				"link": "https://bookshop.org/books/the-mvp-machine-how-baseball-s-new-nonconformists-are-using-data-to-build-better-players/9781541698925"
+				"link": "/bookshelf/book/499/"
 			}
 		]
 	},
@@ -259,16 +281,16 @@
 		"books": [
 			{
 				"title": "Easy Money: Cryptocurrency, Casino Capitalism, and the Golden Age of Fraud",
-				"link": "https://bookshop.org/p/books/easy-money-cryptocurrency-casino-capitalism-and-the-golden-age-of-fraud-jacob-silverman/18699362?ean=9781419766398"
+				"link": "/bookshelf/book/212/"
 			}
 		]
 	},
 	{
-		"name": "Bradley Hope & Tom Wright",
+		"name": "Bradley Hope",
 		"books": [
 			{
 				"title": "Billion Dollar Whale: The Man Who Fooled Wall Street, Hollywood, and the World",
-				"link": "https://bookshop.org/p/books/billion-dollar-whale-the-man-who-fooled-wall-street-hollywood-and-the-world-bradley-hope/15276700?ean=9780316436472"
+				"link": "/books/bradley-hope-tom-wright-billion-dollar-whale/"
 			}
 		]
 	},
@@ -277,15 +299,15 @@
 		"books": [
 			{
 				"title": "Mistborn",
-				"link": "https://bookshop.org/p/books/mistborn-the-final-empire-brandon-sanderson/15553866?ean=9781250318541&next=t&next=t"
+				"link": "/bookshelf/book/555/"
 			},
 			{
 				"title": "The Well of Ascension",
-				"link": "https://bookshop.org/p/books/the-well-of-ascension-book-two-of-mistborn-brandon-sanderson/15509153?ean=9781250318572"
+				"link": "/bookshelf/book/556/"
 			},
 			{
 				"title": "The Hero of Ages",
-				"link": "https://bookshop.org/p/books/the-well-of-ascension-book-two-of-mistborn-brandon-sanderson/15509153?ean=9781250318572"
+				"link": "/bookshelf/book/557/"
 			}
 		]
 	},
@@ -294,7 +316,7 @@
 		"books": [
 			{
 				"title": "The Alignment Problem: Machine Learning and Human Values",
-				"link": "https://bookshop.org/p/books/the-alignment-problem-machine-learning-and-human-values-brian-christian/16099409"
+				"link": "/bookshelf/book/98/"
 			}
 		]
 	},
@@ -303,7 +325,7 @@
 		"books": [
 			{
 				"title": "Blood in the Machine: The Origins of the Rebellion Against Big Tech",
-				"link": "https://bookshop.org/p/books/blood-in-the-machine-the-origins-of-the-rebellion-against-big-tech-brian-merchant/17824365?ean=9780316487740"
+				"link": "/books/brian-merchant-blood-in-the-machine/"
 			}
 		]
 	},
@@ -312,16 +334,16 @@
 		"books": [
 			{
 				"title": "The Trouble with Reality: A Rumination On Moral Panic In Our Time",
-				"link": "https://bookshop.org/p/books/the-trouble-with-reality-a-rumination-on-moral-panic-in-our-time-brooke-gladstone/6790873"
+				"link": "/bookshelf/book/324/"
 			}
 		]
 	},
 	{
-		"name": "Bryan Caplan & Zach Weinersmith",
+		"name": "Bryan Caplan",
 		"books": [
 			{
 				"title": "Open Borders",
-				"link": "https://bookshop.org/books/open-borders-the-science-and-ethics-of-immigration/9781250316967"
+				"link": "/bookshelf/book/363/"
 			}
 		]
 	},
@@ -330,7 +352,7 @@
 		"books": [
 			{
 				"title": "Means of Control: How the Hidden Alliance of Tech and Government Is Creating a New American Surveillance State",
-				"link": "https://bookshop.org/p/books/means-of-control-how-the-hidden-alliance-of-tech-and-government-is-creating-a-new-american-surveillance-state-byron-tau/68b1e1ca5cd9445a"
+				"link": "/bookshelf/book/676/"
 			}
 		]
 	},
@@ -339,7 +361,7 @@
 		"books": [
 			{
 				"title": "Last to Leave the Room",
-				"link": "https://bookshop.org/p/books/last-to-leave-the-room-caitlin-starling/19486410"
+				"link": "/bookshelf/book/96/"
 			}
 		]
 	},
@@ -348,15 +370,15 @@
 		"books": [
 			{
 				"title": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
-				"link": "https://bookshop.org/p/books/digital-minimalism-choosing-a-focused-life-in-a-noisy-world-cal-newport/12081448?ean=9780525536512"
+				"link": "/bookshelf/book/204/"
 			},
 			{
 				"title": "Slow Productivity: The Lost Art of Accomplishment Without Burnout",
-				"link": "https://bookshop.org/p/books/slow-productivity-the-lost-art-of-accomplishment-without-burnout-cal-newport/20143790?ean=9780593544853"
+				"link": "/bookshelf/book/551/"
 			},
 			{
 				"title": "Deep Work: Rules for Focused Success in a Distracted World",
-				"link": "https://bookshop.org/p/books/deep-work-rules-for-focused-success-in-a-distracted-world-cal-newport/8339760?ean=9781455586691"
+				"link": "/bookshelf/book/387/"
 			}
 		]
 	},
@@ -365,7 +387,7 @@
 		"books": [
 			{
 				"title": "Pale Blue Dot",
-				"link": "https://bookshop.org/p/books/pale-blue-dot-a-vision-of-the-human-future-in-space-ann-druyan/6315844"
+				"link": "/bookshelf/book/305/"
 			}
 		]
 	},
@@ -374,7 +396,7 @@
 		"books": [
 			{
 				"title": "The Heart is a Lonely Hunter",
-				"link": "https://bookshop.org/p/books/heart-is-a-lonely-hunter-carson-mccullers/266374"
+				"link": "/bookshelf/book/385/"
 			}
 		]
 	},
@@ -383,7 +405,16 @@
 		"books": [
 			{
 				"title": "A Physical Education: How I Escaped Diet Culture and Gained the Power of Lifting",
-				"link": "https://bookshop.org/p/books/the-heavy-lift-how-learning-to-lift-weights-helped-me-build-every-kind-of-strength-casey-johnston/21552643"
+				"link": "/bookshelf/book/590/"
+			}
+		]
+	},
+	{
+		"name": "Cass Sunstein",
+		"books": [
+			{
+				"title": "Nudge: The Final Edition",
+				"link": "/bookshelf/book/495/"
 			}
 		]
 	},
@@ -392,16 +423,16 @@
 		"books": [
 			{
 				"title": "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy",
-				"link": "https://bookshop.org/books/weapons-of-math-destruction-how-big-data-increases-inequality-and-threatens-democracy/9780553418835"
+				"link": "/bookshelf/book/488/"
 			}
 		]
 	},
 	{
-		"name": "Charlie Warzel & Anne Helen Petersen",
+		"name": "Charlie Warzel",
 		"books": [
 			{
 				"title": "Out of Office: The Big Problem and Bigger Promise of Working from Home",
-				"link": "https://bookshop.org/p/books/out-of-office-the-big-problem-and-bigger-promise-of-working-from-home-anne-helen-petersen/16467530?ean=9780593460382"
+				"link": "/bookshelf/book/447/"
 			}
 		]
 	},
@@ -410,11 +441,11 @@
 		"books": [
 			{
 				"title": "An Astronaut’s Guid to Life on Earth",
-				"link": "https://bookshop.org/p/books/an-astronaut-s-guide-to-life-on-earth-what-going-to-space-taught-me-about-ingenuity-determination-and-being-prepared-for-anything-chris-hadfield/110937"
+				"link": "/bookshelf/book/328/"
 			},
 			{
 				"title": "The Apollo Murders",
-				"link": "https://bookshop.org/books/the-apollo-murders-9781668601075/9780316264532"
+				"link": "/bookshelf/book/480/"
 			}
 		]
 	},
@@ -423,7 +454,7 @@
 		"books": [
 			{
 				"title": "The Sirens' Call: How Attention Became the World's Most Endangered Resource",
-				"link": "https://bookshop.org/p/books/the-sirens-call-how-attention-became-the-world-s-most-endangered-resource-chris-hayes/21744711"
+				"link": "/bookshelf/book/566/"
 			}
 		]
 	},
@@ -432,7 +463,7 @@
 		"books": [
 			{
 				"title": "Chip War: The Fight for the World's Most Critical Technology",
-				"link": "https://bookshop.org/p/books/chip-war-the-fight-for-the-world-s-most-critical-technology-chris-miller/18265375?ean=9781982172008"
+				"link": "/books/chris-miller-chip-war/"
 			}
 		]
 	},
@@ -441,11 +472,11 @@
 		"books": [
 			{
 				"title": "God is Not Great",
-				"link": "https://bookshop.org/p/books/god-is-not-great-how-religion-poisons-everything-christopher-hitchens/11029118"
+				"link": "/bookshelf/book/232/"
 			},
 			{
 				"title": "Mortaility",
-				"link": "https://bookshop.org/p/books/mortality-christopher-hitchens/8286375"
+				"link": "/bookshelf/book/281/"
 			}
 		]
 	},
@@ -454,31 +485,31 @@
 		"books": [
 			{
 				"title": "Black River Orchard",
-				"link": "https://bookshop.org/p/books/black-river-orchard-chuck-wendig/19598190?ean=9780593158746"
+				"link": "/bookshelf/book/196/"
 			},
 			{
 				"title": "Wanderers",
-				"link": "https://bookshop.org/p/books/wanderers-chuck-wendig/11314587?ean=9780399182129"
+				"link": "/bookshelf/book/84/"
 			},
 			{
 				"title": "Wayward",
-				"link": "https://bookshop.org/p/books/wayward-chuck-wendig/17746477?ean=9780593158791"
+				"link": "/bookshelf/book/17/"
 			},
 			{
 				"title": "Gentle Writing Advice: How to Be a Writer Without Destroying Yourself",
-				"link": "https://bookshop.org/p/books/gentle-writing-advice-how-to-be-a-writer-without-destroying-yourself-chuck-wendig/18825636?ean=9781440301209"
+				"link": "/bookshelf/book/33/"
 			},
 			{
 				"title": "The Book of Accidents",
-				"link": "https://bookshop.org/p/books/the-book-of-accidents-chuck-wendig/15648326?ean=9780399182150"
+				"link": "/bookshelf/book/527/"
 			},
 			{
 				"title": "The Staircase in the Woods",
-				"link": "https://doylestownbookshop.com/book/9780593156568"
+				"link": "/bookshelf/book/591/"
 			},
 			{
 				"title": "The Calamities",
-				"link": "https://doylestownbookshop.com/book/9798217091812"
+				"link": "/bookshelf/book/749/"
 			}
 		]
 	},
@@ -487,7 +518,7 @@
 		"books": [
 			{
 				"title": "Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance",
-				"link": "https://bookshop.org/p/books/privacy-s-defender-my-thirty-year-fight-against-digital-surveillance-cindy-cohn/53886568f609835d"
+				"link": "/bookshelf/book/695/"
 			}
 		]
 	},
@@ -496,23 +527,23 @@
 		"books": [
 			{
 				"title": "Whisper Down the Lane",
-				"link": "https://doylestownbookshop.com/book/9781683693062"
+				"link": "/bookshelf/book/558/"
 			},
 			{
 				"title": "Ghost Eaters",
-				"link": "https://doylestownbookshop.com/book/9781683693789"
+				"link": "/bookshelf/book/592/"
 			},
 			{
 				"title": "Wake Up and Open Your Eyes",
-				"link": "https://doylestownbookshop.com/book/9781683693956"
+				"link": "/bookshelf/book/593/"
 			},
 			{
 				"title": "Acquired Taste",
-				"link": "https://bookshop.org/p/books/acquired-taste-clay-mcleod-chapman/2d97fa26f163e8c5"
+				"link": "/bookshelf/book/626/"
 			},
 			{
 				"title": "What Kind of Mother",
-				"link": "https://bookshop.org/p/books/what-kind-of-mother-clay-mcleod-chapman/f6bfedf2c5ff33a1"
+				"link": "/bookshelf/book/734/"
 			}
 		]
 	},
@@ -521,7 +552,7 @@
 		"books": [
 			{
 				"title": "Coders: The Making of a New Tribe and the Remaking of the World",
-				"link": "https://bookshop.org/p/books/coders-the-making-of-a-new-tribe-and-the-remaking-of-the-world-clive-thompson/12477150?ean=9780735220584"
+				"link": "/bookshelf/book/437/"
 			}
 		]
 	},
@@ -530,7 +561,7 @@
 		"books": [
 			{
 				"title": "American Nations: A History of the Eleven Rival Regional Cultures of North America",
-				"link": "https://bookshop.org/p/books/american-nations-a-history-of-the-eleven-rival-regional-cultures-of-north-america-colin-woodard/16638225?ean=9780143122029"
+				"link": "/bookshelf/book/444/"
 			}
 		]
 	},
@@ -539,52 +570,47 @@
 		"books": [
 			{
 				"title": "Little Brother",
-				"link": "https://bookshop.org/p/books/little-brother-cory-doctorow/15282825"
+				"link": "/bookshelf/book/290/"
 			},
 			{
 				"title": "Homeland",
-				"link": "https://bookshop.org/p/books/homeland-cory-doctorow/15557664"
+				"link": "/bookshelf/book/291/"
 			},
 			{
 				"title": "Walkaway",
-				"link": "https://bookshop.org/books/walkaway/9780765392770"
+				"link": "/bookshelf/book/458/"
 			},
 			{
 				"title": "Red Team Blues",
-				"link": "https://bookshop.org/p/books/red-team-blues-cory-doctorow/18693516?ean=9781250865847"
+				"link": "/bookshelf/book/73/"
 			},
 			{
 				"title": "Lost Cause",
-				"link": "https://bookshop.org/book/9781250865939"
+				"link": "/bookshelf/book/24/"
 			},
 			{
 				"title": "The Bezzle",
-				"link": "https://bookshop.org/p/books/the-bezzle-a-martin-hench-novel-cory-doctorow/20001531"
+				"link": "/bookshelf/book/69/"
 			},
 			{
 				"title": "The Internet Con: How to Seize the Means of Computation",
-				"link": "https://bookshop.org/p/books/the-internet-con-how-to-seize-the-means-of-computation-cory-doctorow/18771891?ean=9781804291245"
+				"link": "/bookshelf/book/205/"
 			},
 			{
 				"title": "Picks and Shovels",
-				"link": "https://bookshop.org/p/books/picks-and-shovels-a-martin-hench-novel-cory-doctorow/21413549"
+				"link": "/bookshelf/book/561/"
 			},
 			{
 				"title": "Enshittification: Why Everything Suddenly Got Worse and What to Do About It",
-				"link": "https://bookshop.org/p/books/enshittification-why-everything-suddenly-got-worse-and-what-to-do-about-it-cory-doctorow/d3f8483b158906ce"
+				"link": "/bookshelf/book/641/"
 			},
 			{
 				"title": "The Reverse Centaur's Guide to Life After AI: How to Think About Artificial Intelligence—Before It's Too Late",
-				"link": "https://bookshop.org/p/books/the-reverse-centaur-s-guide-to-life-after-ai-how-to-think-about-artificial-intelligence-before-it-s-too-late-cory-doctorow/ac86987834ee96c2"
-			}
-		]
-	},
-	{
-		"name": "Cory Doctorow & Rebecca Giblin",
-		"books": [
+				"link": "/bookshelf/book/722/"
+			},
 			{
 				"title": "Chokepoint Capitalism: How Big Tech and Big Content Captured Creative Labor Markets and How We'll Win Them Back",
-				"link": "https://bookshop.org/books/chokepoint-capitalism-how-big-tech-and-big-content-captured-creative-labor-markets-and-how-we-ll-win-them-back/9780807007068"
+				"link": "/bookshelf/book/446/"
 			}
 		]
 	},
@@ -593,7 +619,16 @@
 		"books": [
 			{
 				"title": "The End is Always Near",
-				"link": "https://bookshop.org/books/the-end-is-always-near-apocalyptic-moments-from-the-bronze-age-collapse-to-nuclear-near-misses/9780062868046"
+				"link": "/bookshelf/book/371/"
+			}
+		]
+	},
+	{
+		"name": "Dan Ozzi",
+		"books": [
+			{
+				"title": "Farenheit 182: A Memoir",
+				"link": "/bookshelf/book/582/"
 			}
 		]
 	},
@@ -602,7 +637,7 @@
 		"books": [
 			{
 				"title": "The Storyteller: Tales of Life and Music",
-				"link": "https://bookshop.org/books/the-storyteller-tales-of-life-and-music/9780063076099"
+				"link": "/bookshelf/book/481/"
 			}
 		]
 	},
@@ -611,7 +646,7 @@
 		"books": [
 			{
 				"title": "Ratf**ked",
-				"link": "https://bookshop.org/p/books/ratf-ked-why-your-vote-doesn-t-count-david-daley/8274402"
+				"link": "/bookshelf/book/337/"
 			}
 		]
 	},
@@ -620,7 +655,7 @@
 		"books": [
 			{
 				"title": "Murder the Truth: Fear, the First Amendment, and a Secret Campaign to Protect the Powerful",
-				"link": "https://bookshop.org/p/books/murder-the-truth-threats-intimidation-and-a-secret-campaign-to-protect-the-powerful-david-enrich/21543213?ean=9780063372900&next=t"
+				"link": "/books/david-enrich-murder-the-truth/"
 			}
 		]
 	},
@@ -629,7 +664,7 @@
 		"books": [
 			{
 				"title": "Range: Why Generalists Triumph in a Specialized World",
-				"link": "https://bookshop.org/p/books/range-why-generalists-triumph-in-a-specialized-world-david-epstein/966e9c6e1ddd6889"
+				"link": "/bookshelf/book/721/"
 			}
 		]
 	},
@@ -638,7 +673,7 @@
 		"books": [
 			{
 				"title": "A Peace to End All Peace: The Fall of the Ottoman Empire and the Creation of the Modern Middle East",
-				"link": "https://bookshop.org/p/books/a-peace-to-end-all-peace-the-fall-of-the-ottoman-empire-and-the-creation-of-the-modern-middle-east-david-fromkin/df210f7a1fb6f9b4"
+				"link": "/bookshelf/book/678/"
 			}
 		]
 	},
@@ -647,7 +682,7 @@
 		"books": [
 			{
 				"title": "Bullshit Jobs",
-				"link": "https://bookshop.org/p/books/bullshit-jobs-a-theory-david-graeber/6692761?ean=9781501143335"
+				"link": "/bookshelf/book/449/"
 			}
 		]
 	},
@@ -656,7 +691,7 @@
 		"books": [
 			{
 				"title": "The Wager: A Tale of Shipwreck, Mutiny and Murder",
-				"link": "https://bookshop.org/p/books/the-wager-a-tale-of-shipwreck-mutiny-and-murder-david-grann/b1f2a00fc56cba78"
+				"link": "/books/david-grann-the-wager/"
 			}
 		]
 	},
@@ -665,7 +700,7 @@
 		"books": [
 			{
 				"title": "We Are Legion (We Are Bob)",
-				"link": "https://bookshop.org/p/books/we-are-legion-we-are-bob-bobiverse-book-1-dennis-e-taylor/9b80867ccfc6271b"
+				"link": "/bookshelf/book/700/"
 			}
 		]
 	},
@@ -674,7 +709,7 @@
 		"books": [
 			{
 				"title": "The Forever War",
-				"link": "https://bookshop.org/p/books/the-forever-war-dexter-filkins/8724573"
+				"link": "/bookshelf/book/345/"
 			}
 		]
 	},
@@ -683,7 +718,7 @@
 		"books": [
 			{
 				"title": "How to Think Like Socrates: Ancient Philosophy as a Way of Life in the Modern World",
-				"link": "https://bookshop.org/p/books/how-to-think-like-socrates-ancient-philosophy-as-a-way-of-life-in-the-modern-world-donald-j-robertson/4bb0f6ae0feb0ce1"
+				"link": "/bookshelf/book/648/"
 			}
 		]
 	},
@@ -692,7 +727,7 @@
 		"books": [
 			{
 				"title": "Thinking in Systems",
-				"link": "https://bookshop.org/p/books/thinking-in-systems-international-bestseller-donella-meadows/8755142"
+				"link": "/bookshelf/book/578/"
 			}
 		]
 	},
@@ -701,7 +736,7 @@
 		"books": [
 			{
 				"title": "Team of Rivals: The Political Genius of Abraham Lincoln",
-				"link": "https://bookshop.org/books/team-of-rivals-the-political-genius-of-abraham-lincoln/9780743270755"
+				"link": "/books/doris-kearns-goodwin-team-of-rivals/"
 			}
 		]
 	},
@@ -710,23 +745,23 @@
 		"books": [
 			{
 				"title": "The Hitchhiker’s Guide to the Galaxy",
-				"link": "https://bookshop.org/p/books/the-hitchhiker-s-guide-to-the-galaxy-douglas-adams/15546730"
+				"link": "/bookshelf/book/226/"
 			},
 			{
 				"title": "The Restaurant at the End of the Universe",
-				"link": "https://bookshop.org/p/books/the-restaurant-at-the-end-of-the-universe-douglas-adams/285739"
+				"link": "/bookshelf/book/227/"
 			},
 			{
 				"title": "Life, the Universe and Everything",
-				"link": "https://bookshop.org/p/books/life-the-universe-and-everything-douglas-adams/285727"
+				"link": "/bookshelf/book/228/"
 			},
 			{
 				"title": "So Long, and Thanks for all the Fish",
-				"link": "https://bookshop.org/p/books/so-long-and-thanks-for-all-the-fish-douglas-adams/285720"
+				"link": "/bookshelf/book/229/"
 			},
 			{
 				"title": "Mostly Harmless",
-				"link": "https://bookshop.org/p/books/mostly-harmless-douglas-adams/285742"
+				"link": "/bookshelf/book/230/"
 			}
 		]
 	},
@@ -735,7 +770,7 @@
 		"books": [
 			{
 				"title": "Peddling Protectionism",
-				"link": "https://bookshop.org/p/books/peddling-protectionism-smoot-hawley-and-the-great-depression-revised-douglas-a-irwin/8943934"
+				"link": "/bookshelf/book/330/"
 			}
 		]
 	},
@@ -744,16 +779,25 @@
 		"books": [
 			{
 				"title": "Moonshot: Inside Pfizer’s Nine-Month Race to Make the Impossible Possible",
-				"link": "https://bookshop.org/books/moonshot-inside-pfizer-s-nine-month-race-to-make-the-impossible-possible-9798200746163/9780063210790"
+				"link": "/bookshelf/book/460/"
 			}
 		]
 	},
 	{
-		"name": "Dr. Travis Bradberry & Dr. Jean Greaves",
+		"name": "Dr. Jean Greaves",
 		"books": [
 			{
 				"title": "Emotional Intelligence 2.0",
-				"link": "https://bookshop.org/p/books/emotional-intelligence-2-0-with-access-code-travis-bradberry/1516289?ean=9780974320625"
+				"link": "/bookshelf/book/92/"
+			}
+		]
+	},
+	{
+		"name": "Dr. Travis Bradberry",
+		"books": [
+			{
+				"title": "Emotional Intelligence 2.0",
+				"link": "/bookshelf/book/92/"
 			}
 		]
 	},
@@ -762,7 +806,7 @@
 		"books": [
 			{
 				"title": "The Night the Lights Went Out: A Memoir of Life After Brain Damage",
-				"link": "https://bookshop.org/books/the-night-the-lights-went-out-a-memoir-of-life-after-brain-damage/9780593232712"
+				"link": "/bookshelf/book/486/"
 			}
 		]
 	},
@@ -771,16 +815,16 @@
 		"books": [
 			{
 				"title": "Chokepoints: American Power in the Age of Economic Warfare",
-				"link": "https://bookshop.org/p/books/chokepoints-american-power-in-the-age-of-economic-warfare-edward-fishman/21504653"
+				"link": "/bookshelf/book/584/"
 			}
 		]
 	},
 	{
-		"name": "Eliot Brown & Maureen Farrell",
+		"name": "Eliot Brown",
 		"books": [
 			{
 				"title": "The Cult of We: Wework, Adam Neumann, and the Great Startup Delusion",
-				"link": "https://bookshop.org/books/the-cult-of-we-wework-adam-neumann-and-the-great-startup-delusion/9780593237113"
+				"link": "/bookshelf/book/506/"
 			}
 		]
 	},
@@ -789,16 +833,16 @@
 		"books": [
 			{
 				"title": "Inheritocracy: It's Time to Talk about the Bank of Mum and Dad",
-				"link": "https://townebc.com/book/9780753561904"
+				"link": "/bookshelf/book/693/"
 			}
 		]
 	},
 	{
-		"name": "Emily M. Bender & Alex Hanna ",
+		"name": "Emily M. Bender",
 		"books": [
 			{
 				"title": "The AI Con: How to Fight Big Tech's Hype and Create the Future We Want",
-				"link": "https://bookshop.org/p/books/the-ai-con-how-to-fight-big-tech-s-hype-and-create-the-future-we-want-alex-hanna/914a89ac020fc825"
+				"link": "/books/emily-m-bender-alex-hanna-the-ai-con/"
 			}
 		]
 	},
@@ -807,11 +851,11 @@
 		"books": [
 			{
 				"title": "Sea of Tranquility",
-				"link": "https://bookshop.org/p/books/sea-of-tranquility-emily-st-john-mandel/17768221?ean=9780593466735"
+				"link": "/bookshelf/book/404/"
 			},
 			{
 				"title": "Station Eleven",
-				"link": "https://bookshop.org/p/books/station-eleven-emily-st-john-mandel/586327?ean=9780804172448"
+				"link": "/bookshelf/book/522/"
 			}
 		]
 	},
@@ -820,19 +864,19 @@
 		"books": [
 			{
 				"title": "Dead Wake: The Last Crossing of the Lusitania",
-				"link": "https://bookshop.org/p/books/dead-wake-the-last-crossing-of-the-lusitania-erik-larson/7296476?ean=9780307408877"
+				"link": "/books/erik-larson-dead-wake/"
 			},
 			{
 				"title": "The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War",
-				"link": "https://bookshop.org/p/books/the-demon-of-unrest-a-saga-of-hubris-heartbreak-and-heroism-at-the-dawn-of-the-civil-war-erik-larson/20335359"
+				"link": "/books/erik-larson-the-demon-of-unrest/"
 			},
 			{
 				"title": "In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",
-				"link": "https://bookshop.org/p/books/in-the-garden-of-beasts-love-terror-and-an-american-family-in-hitler-s-berlin-erik-larson/944016?ean=9780307408853"
+				"link": "/bookshelf/book/529/"
 			},
 			{
 				"title": "The Splendid and the Vile: A Saga of Churchill, Family and Defiance During the Blitz",
-				"link": "https://bookshop.org/p/books/the-splendid-and-the-vile-a-saga-of-churchill-family-and-defiance-during-the-blitz-erik-larson/8630726?ean=9780385348737"
+				"link": "/bookshelf/book/530/"
 			}
 		]
 	},
@@ -841,7 +885,7 @@
 		"books": [
 			{
 				"title": "Ready Player One",
-				"link": "https://bookshop.org/p/books/ready-player-one-ernest-cline/228873"
+				"link": "/bookshelf/book/266/"
 			}
 		]
 	},
@@ -850,7 +894,16 @@
 		"books": [
 			{
 				"title": "Winning Fixes Everything: How Baseball's Brightest Minds Created Sports' Biggest Mess",
-				"link": "https://bookshop.org/p/books/winning-fixes-everything-how-baseball-s-brightest-minds-created-sports-biggest-mess-evan-drellich/16712231"
+				"link": "/books/evan-dwellich-winning-fixes-everything/"
+			}
+		]
+	},
+	{
+		"name": "Finbarr O’Reilly",
+		"books": [
+			{
+				"title": "Shooting Ghosts",
+				"link": "/bookshelf/book/331/"
 			}
 		]
 	},
@@ -859,7 +912,7 @@
 		"books": [
 			{
 				"title": "Dune",
-				"link": "https://bookshop.org/p/books/dune-frank-herbert/7502701"
+				"link": "/bookshelf/book/239/"
 			}
 		]
 	},
@@ -868,7 +921,7 @@
 		"books": [
 			{
 				"title": "The Bonobo and the Athiest",
-				"link": "https://bookshop.org/p/books/the-bonobo-and-the-atheist-in-search-of-humanism-among-the-primates-frans-de-waal/8757163"
+				"link": "/bookshelf/book/307/"
 			}
 		]
 	},
@@ -877,7 +930,7 @@
 		"books": [
 			{
 				"title": "The Bomb: Presidents, Generals, and the Secret History of Nuclear War",
-				"link": "https://bookshop.org/books/the-bomb-presidents-generals-and-the-secret-history-of-nuclear-war/9781982107307"
+				"link": "/bookshelf/book/489/"
 			}
 		]
 	},
@@ -886,7 +939,7 @@
 		"books": [
 			{
 				"title": "The Blood Telegram: Nixon, Kissinger, and a Forgotten Genocide",
-				"link": "https://bookshop.org/p/books/the-blood-telegram-nixon-kissinger-and-a-forgotten-genocide-gary-j-bass/9789502?ean=9780307744623"
+				"link": "/books/gary-j-bass-the-blood-telegram/"
 			}
 		]
 	},
@@ -895,7 +948,7 @@
 		"books": [
 			{
 				"title": "Failure is Not an Option",
-				"link": "https://bookshop.org/p/books/failure-is-not-an-option-mission-control-from-mercury-to-apollo-13-and-beyond-gene-kranz/16626296"
+				"link": "/bookshelf/book/335/"
 			}
 		]
 	},
@@ -904,7 +957,7 @@
 		"books": [
 			{
 				"title": "Undersea",
-				"link": "https://bookshop.org/p/books/undersea-geoffrey-morrison/7038445"
+				"link": "/bookshelf/book/256/"
 			}
 		]
 	},
@@ -913,7 +966,7 @@
 		"books": [
 			{
 				"title": "1984",
-				"link": "https://bookshop.org/p/books/1984-george-orwell/14834241"
+				"link": "/bookshelf/book/225/"
 			}
 		]
 	},
@@ -922,23 +975,23 @@
 		"books": [
 			{
 				"title": "A Game of Thrones",
-				"link": "https://bookshop.org/p/books/a-game-of-thrones-a-song-of-ice-and-fire-book-one-george-r-r-martin/15542384"
+				"link": "/bookshelf/book/233/"
 			},
 			{
 				"title": "A Clash of Kings",
-				"link": "https://bookshop.org/p/books/a-clash-of-kings-a-song-of-ice-and-fire-book-two-george-r-r-martin/15542383"
+				"link": "/bookshelf/book/234/"
 			},
 			{
 				"title": "A Storm of Swords",
-				"link": "https://bookshop.org/p/books/a-storm-of-swords-george-r-r-martin/15542521"
+				"link": "/bookshelf/book/235/"
 			},
 			{
 				"title": "A Feast for Crows",
-				"link": "https://bookshop.org/p/books/a-feast-for-crows-a-song-of-ice-and-fire-book-four-george-r-r-martin/7326468"
+				"link": "/bookshelf/book/236/"
 			},
 			{
 				"title": "A Dance with Dragons",
-				"link": "https://bookshop.org/p/books/a-dance-with-dragons-a-song-of-ice-and-fire-book-five-george-r-r-martin/7326447"
+				"link": "/bookshelf/book/237/"
 			}
 		]
 	},
@@ -947,11 +1000,11 @@
 		"books": [
 			{
 				"title": "The Forge of God",
-				"link": "https://bookshop.org/p/books/the-forge-of-god-greg-bear/7252312"
+				"link": "/bookshelf/book/178/"
 			},
 			{
 				"title": "Anvil of Stars",
-				"link": "https://bookshop.org/p/books/anvil-of-stars-greg-bear/7252548"
+				"link": "/bookshelf/book/99/"
 			}
 		]
 	},
@@ -960,7 +1013,7 @@
 		"books": [
 			{
 				"title": "The Poison Eaters and Other Stories",
-				"link": "https://bookshop.org/p/books/the-poison-eaters-and-other-stories-holly-black/6315246"
+				"link": "/bookshelf/book/180/"
 			}
 		]
 	},
@@ -969,7 +1022,7 @@
 		"books": [
 			{
 				"title": "Us vs. Them: The Failure of Globalism",
-				"link": "https://bookshop.org/p/books/us-vs-them-the-failure-of-globalism-ian-bremmer/12079231"
+				"link": "/bookshelf/book/352/"
 			}
 		]
 	},
@@ -978,15 +1031,15 @@
 		"books": [
 			{
 				"title": "Pacific Crucible: War at Sea in the Pacific, 1941-1942",
-				"link": "https://bookshop.org/p/books/pacific-crucible-war-at-sea-in-the-pacific-1941-1942-ian-w-toll/8754662"
+				"link": "/bookshelf/book/452/"
 			},
 			{
 				"title": "The Conquering Tide: War in the Pacific Islands, 1942-1944",
-				"link": "https://bookshop.org/p/books/the-conquering-tide-war-in-the-pacific-islands-1942-1944-ian-w-toll/8758811?ean=9780393353204"
+				"link": "/bookshelf/book/450/"
 			},
 			{
 				"title": "Twilight of the Gods: War in the Western Pacific, 1944-1945",
-				"link": "https://bookshop.org/p/books/twilight-of-the-gods-war-in-the-western-pacific-1944-1945-ian-w-toll/13150893?ean=9780393868302"
+				"link": "/bookshelf/book/451/"
 			}
 		]
 	},
@@ -995,67 +1048,67 @@
 		"books": [
 			{
 				"title": "Foundation",
-				"link": "https://bookshop.org/p/books/foundation-isaac-asimov/18291617"
+				"link": "/bookshelf/book/240/"
 			},
 			{
 				"title": "Foundation and Empire",
-				"link": "https://bookshop.org/p/books/second-foundation-isaac-asimov/11418044"
+				"link": "/bookshelf/book/241/"
 			},
 			{
 				"title": "Second Foundation",
-				"link": "https://bookshop.org/p/books/second-foundation-isaac-asimov/11418044"
+				"link": "/bookshelf/book/242/"
 			},
 			{
 				"title": "Prelude to Foundation",
-				"link": "https://bookshop.org/p/books/prelude-to-foundation-isaac-asimov/15537229"
+				"link": "/bookshelf/book/243/"
 			},
 			{
 				"title": "Forward the Foundation",
-				"link": "https://bookshop.org/p/books/forward-the-foundation-isaac-asimov/11460490"
+				"link": "/bookshelf/book/244/"
 			},
 			{
 				"title": "Foundation’s Edge",
-				"link": "https://bookshop.org/p/books/foundation-s-edge-isaac-asimov/18291614"
+				"link": "/bookshelf/book/245/"
 			},
 			{
 				"title": "Foundation and Earth",
-				"link": "https://bookshop.org/p/books/foundation-and-earth-isaac-asimov/18291616"
+				"link": "/bookshelf/book/246/"
 			},
 			{
 				"title": "The Caves of Steel",
-				"link": "https://bookshop.org/p/books/the-caves-of-steel-isaac-asimov/11418164"
+				"link": "/bookshelf/book/252/"
 			},
 			{
 				"title": "The Naked Sun",
-				"link": "https://bookshop.org/p/books/the-naked-sun-isaac-asimov/11418127"
+				"link": "/bookshelf/book/253/"
 			},
 			{
 				"title": "The Robots of Dawn",
-				"link": "https://bookshop.org/p/books/the-robots-of-dawn-isaac-asimov/11419150"
+				"link": "/bookshelf/book/254/"
 			},
 			{
 				"title": "I, Robot",
-				"link": "https://bookshop.org/p/books/i-robot-isaac-asimov/7509520"
+				"link": "/bookshelf/book/292/"
 			},
 			{
 				"title": "Robots and Empire",
-				"link": "https://www.amazon.com/gp/product/B01B98EV4M"
+				"link": "/bookshelf/book/293/"
 			},
 			{
 				"title": "The Stars, Like Dust",
-				"link": "https://bookshop.org/p/books/the-stars-like-dust-isaac-asimov/7252571"
+				"link": "/bookshelf/book/294/"
 			},
 			{
 				"title": "The Currents of Space",
-				"link": "https://bookshop.org/p/books/the-currents-of-space-isaac-asimov/7252572"
+				"link": "/bookshelf/book/295/"
 			},
 			{
 				"title": "Pebble in the Sky",
-				"link": "https://bookshop.org/p/books/pebble-in-the-sky-isaac-asimov/15279149"
+				"link": "/bookshelf/book/296/"
 			},
 			{
 				"title": "The Gods Themselves",
-				"link": "https://bookshop.org/p/books/the-gods-themselves-isaac-asimov/11417042"
+				"link": "/bookshelf/book/306/"
 			}
 		]
 	},
@@ -1064,23 +1117,23 @@
 		"books": [
 			{
 				"title": "The Fellowship of the Ring",
-				"link": "https://bookshop.org/p/books/the-fellowship-of-the-ring-the-lord-of-the-rings-part-one-j-r-r-tolkien/16648293"
+				"link": "/bookshelf/book/222/"
 			},
 			{
 				"title": "The Two Towers",
-				"link": "https://bookshop.org/p/books/the-two-towers-being-the-second-part-of-the-lord-of-the-rings-j-r-r-tolkien/11273084"
+				"link": "/bookshelf/book/223/"
 			},
 			{
 				"title": "The Return of the King",
-				"link": "https://bookshop.org/p/books/the-return-of-the-king-3-being-the-third-part-of-the-lord-of-the-rings-j-r-r-tolkien/6861933"
+				"link": "/bookshelf/book/224/"
 			},
 			{
 				"title": "The Hobbit",
-				"link": "https://bookshop.org/p/books/the-hobbit-or-there-and-back-again-j-r-r-tolkien/11273478"
+				"link": "/bookshelf/book/249/"
 			},
 			{
 				"title": "The Silmarillion",
-				"link": "https://bookshop.org/p/books/the-silmarillion-j-r-r-tolkien/9031904"
+				"link": "/bookshelf/book/250/"
 			}
 		]
 	},
@@ -1089,7 +1142,7 @@
 		"books": [
 			{
 				"title": "Money: The True Story of a Made-Up Thing",
-				"link": "https://bookshop.org/books/money-the-true-story-of-a-made-up-thing/9780316417198"
+				"link": "/bookshelf/book/500/"
 			}
 		]
 	},
@@ -1098,7 +1151,7 @@
 		"books": [
 			{
 				"title": "Atomic Habits",
-				"link": "https://bookshop.org/p/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones-james-clear/12117739?ean=9780735211292"
+				"link": "/bookshelf/book/398/"
 			}
 		]
 	},
@@ -1107,7 +1160,7 @@
 		"books": [
 			{
 				"title": "Battle Cry of Freedom: The Civil War Era",
-				"link": "https://bookshop.org/p/books/battle-cry-of-freedom-the-civil-war-era-james-m-mcpherson/7413205?ean=9780195168952"
+				"link": "/books/james-m-mcpherson-battle-cry-of-freedom/"
 			}
 		]
 	},
@@ -1116,67 +1169,67 @@
 		"books": [
 			{
 				"title": "Leviathan Wakes",
-				"link": "https://bookshop.org/p/books/leviathan-wakes-james-s-a-corey/109822"
+				"link": "/bookshelf/book/314/"
 			},
 			{
 				"title": "Butcher of Anderson Station",
-				"link": "https://www.amazon.com/gp/product/B0052AHUYM"
+				"link": "/bookshelf/book/315/"
 			},
 			{
 				"title": "Caliban’s War",
-				"link": "https://bookshop.org/p/books/caliban-s-war-james-s-a-corey/109809"
+				"link": "/bookshelf/book/316/"
 			},
 			{
 				"title": "Gods of Risk",
-				"link": "https://www.amazon.com/gp/product/B008CJ241O"
+				"link": "/bookshelf/book/317/"
 			},
 			{
 				"title": "Abaddon’s Gate",
-				"link": "https://bookshop.org/p/books/abaddon-s-gate-james-s-a-corey/109814"
+				"link": "/bookshelf/book/318/"
 			},
 			{
 				"title": "The Churn",
-				"link": "https://www.amazon.com/gp/product/B00I82884W"
+				"link": "/bookshelf/book/319/"
 			},
 			{
 				"title": "Cibola Burn",
-				"link": "https://bookshop.org/p/books/cibola-burn-james-s-a-corey/111900"
+				"link": "/bookshelf/book/320/"
 			},
 			{
 				"title": "Nemesis Games",
-				"link": "https://bookshop.org/p/books/nemesis-games-james-s-a-corey/110528"
+				"link": "/bookshelf/book/321/"
 			},
 			{
 				"title": "The Vital Abyss",
-				"link": "https://www.amazon.com/gp/product/B015NRKNS8"
+				"link": "/bookshelf/book/322/"
 			},
 			{
 				"title": "Babylon’s Ashes",
-				"link": "https://bookshop.org/p/books/babylon-s-ashes-james-s-a-corey/16439351"
+				"link": "/bookshelf/book/323/"
 			},
 			{
 				"title": "Strange Dogs",
-				"link": "https://www.amazon.com/gp/product/B06ZZ1MKW8"
+				"link": "/bookshelf/book/332/"
 			},
 			{
 				"title": "Perseopolis Rising",
-				"link": "https://bookshop.org/p/books/persepolis-rising-james-s-a-corey/111878"
+				"link": "/bookshelf/book/333/"
 			},
 			{
 				"title": "Tiamat’s Wrath",
-				"link": "https://bookshop.org/p/books/midnight-in-chernobyl-adam-higginbotham/16337254"
+				"link": "/bookshelf/book/347/"
 			},
 			{
 				"title": "Auberon",
-				"link": "https://www.amazon.com/gp/product/B07YKR19FN"
+				"link": "/bookshelf/book/360/"
 			},
 			{
 				"title": "Leviathan Falls",
-				"link": "https://bookshop.org/books/leviathan-falls-9781705024997/9780316332910"
+				"link": "/bookshelf/book/483/"
 			},
 			{
 				"title": "The Mercy of Gods",
-				"link": "https://bookshop.org/p/books/the-mercy-of-gods-james-s-a-corey/20886313?ean=9780316525572"
+				"link": "/bookshelf/book/8/"
 			}
 		]
 	},
@@ -1185,7 +1238,7 @@
 		"books": [
 			{
 				"title": "Play Nice: The Rise, Fall, and Future of Blizzard Entertainment",
-				"link": "https://bookshop.org/p/books/play-nice-the-rise-fall-and-future-of-blizzard-entertainment-jason-schreier/21042587"
+				"link": "/bookshelf/book/611/"
 			}
 		]
 	},
@@ -1194,7 +1247,7 @@
 		"books": [
 			{
 				"title": "Liar in a Crowded Theater: Freedom of Speech in a World of Misinformation",
-				"link": "https://bookshop.org/p/books/liar-in-a-crowded-theater-freedom-of-speech-in-a-world-of-misinformation-jeff-kosseff/19780472?ean=9781421447322"
+				"link": "/books/jeff-kosseff-liar-in-a-crowded-theater/"
 			}
 		]
 	},
@@ -1203,7 +1256,16 @@
 		"books": [
 			{
 				"title": "The Arm",
-				"link": "https://bookshop.org/p/books/the-arm-inside-the-billion-dollar-mystery-of-the-most-valuable-commodity-in-sports-jeff-passan/15541917"
+				"link": "/bookshelf/book/327/"
+			}
+		]
+	},
+	{
+		"name": "Jeffrey Kluger",
+		"books": [
+			{
+				"title": "Lost Moon",
+				"link": "/bookshelf/book/248/"
 			}
 		]
 	},
@@ -1212,7 +1274,7 @@
 		"books": [
 			{
 				"title": "The 2020 Commission Report on the North Korean Nuclear Attacks Against the United States: A Speculative Novel",
-				"link": "https://bookshop.org/p/books/the-2020-commission-report-on-the-north-korean-nuclear-attacks-against-the-u-s-a-speculative-novel-jeffrey-lewis/16604170"
+				"link": "/bookshelf/book/338/"
 			}
 		]
 	},
@@ -1221,7 +1283,7 @@
 		"books": [
 			{
 				"title": "Green & Deadly Things",
-				"link": "https://bookshop.org/p/books/green-deadly-things-jenn-lyons/b6959aa2ff5d37ec"
+				"link": "/books/jenn-lyons-green-deadly-things/"
 			}
 		]
 	},
@@ -1230,7 +1292,7 @@
 		"books": [
 			{
 				"title": "Responsible Javascript",
-				"link": "https://abookapart.com/products/responsible-javascript"
+				"link": "/bookshelf/book/457/"
 			}
 		]
 	},
@@ -1239,16 +1301,25 @@
 		"books": [
 			{
 				"title": "The Dumb Things Smart People Do With Their Money",
-				"link": "https://bookshop.org/p/books/the-dumb-things-smart-people-do-with-their-money-thirteen-ways-to-right-your-financial-wrongs-jill-schlesinger/12106038"
+				"link": "/bookshelf/book/349/"
 			}
 		]
 	},
 	{
-		"name": "Jim Lovell & Jeffrey Kluger",
+		"name": "Jim Lovell",
 		"books": [
 			{
 				"title": "Lost Moon",
-				"link": "https://bookshop.org/p/books/apollo-13-jeffrey-kluger/11836052"
+				"link": "/bookshelf/book/248/"
+			}
+		]
+	},
+	{
+		"name": "Joanna Cagan",
+		"books": [
+			{
+				"title": "Field of Schemes: How the Great Stadium Swindle Turns Public Money Into Private Profit",
+				"link": "/bookshelf/book/501/"
 			}
 		]
 	},
@@ -1257,7 +1328,7 @@
 		"books": [
 			{
 				"title": "I Am Not a Robot: My Year Using AI to Do (Almost) Everything",
-				"link": "https://bookshop.org/p/books/i-am-not-a-robot-my-year-using-ai-to-do-almost-everything-joanna-stern/f4f2bde5f7986a39"
+				"link": "/bookshelf/book/735/"
 			}
 		]
 	},
@@ -1266,7 +1337,7 @@
 		"books": [
 			{
 				"title": "Why We Love Baseball: A History in 50 Moments",
-				"link": "https://bookshop.org/p/books/why-we-love-baseball-a-history-in-50-moments-joe-posnanski/debbff6d40e86325"
+				"link": "/bookshelf/book/737/"
 			}
 		]
 	},
@@ -1275,7 +1346,7 @@
 		"books": [
 			{
 				"title": "The Subtle Art of Folding Space",
-				"link": "https://bookshop.org/p/books/the-subtle-art-of-folding-space-john-chu/82fa36c6edeab94d"
+				"link": "/bookshelf/book/650/"
 			}
 		]
 	},
@@ -1284,7 +1355,7 @@
 		"books": [
 			{
 				"title": "Where Nobody Knows Your Name: Life in the Minor Leagues of Baseball",
-				"link": "https://bookshop.org/p/books/where-nobody-knows-your-name-life-in-the-minor-leagues-of-baseball-john-feinstein/9801945"
+				"link": "/bookshelf/book/601/"
 			}
 		]
 	},
@@ -1293,7 +1364,7 @@
 		"books": [
 			{
 				"title": "The Firm",
-				"link": "https://bookshop.org/p/books/the-firm-john-grisham/7309328?ean=9780385319058"
+				"link": "/bookshelf/book/133/"
 			}
 		]
 	},
@@ -1302,7 +1373,7 @@
 		"books": [
 			{
 				"title": "Vacationland",
-				"link": "https://bookshop.org/p/books/vacationland-true-stories-from-painful-beaches-john-hodgman/12071625"
+				"link": "/bookshelf/book/336/"
 			}
 		]
 	},
@@ -1311,7 +1382,7 @@
 		"books": [
 			{
 				"title": "Doom Guy: Life in First Person",
-				"link": "https://bookshop.org/p/books/doom-guy-life-in-first-person-john-romero/18230638"
+				"link": "/books/john-romero-doom-guy/"
 			}
 		]
 	},
@@ -1320,59 +1391,59 @@
 		"books": [
 			{
 				"title": "Old Man’s War",
-				"link": "https://bookshop.org/p/books/old-man-s-war-john-scalzi/7103014"
+				"link": "/bookshelf/book/268/"
 			},
 			{
 				"title": "The Ghost Brigades",
-				"link": "https://bookshop.org/p/books/the-ghost-brigades-john-scalzi/7103048"
+				"link": "/bookshelf/book/269/"
 			},
 			{
 				"title": "The Last Colony",
-				"link": "https://bookshop.org/p/books/the-last-colony-john-scalzi/7103062"
+				"link": "/bookshelf/book/270/"
 			},
 			{
 				"title": "Zoe’s Tale",
-				"link": "https://bookshop.org/p/books/zoe-s-tale-john-scalzi/7103063"
+				"link": "/bookshelf/book/271/"
 			},
 			{
 				"title": "The Human Division",
-				"link": "https://bookshop.org/p/books/the-human-division-john-scalzi/7103223"
+				"link": "/bookshelf/book/272/"
 			},
 			{
 				"title": "Redshirts",
-				"link": "https://bookshop.org/p/books/redshirts-a-novel-with-three-codas-john-scalzi/15877527"
+				"link": "/bookshelf/book/325/"
 			},
 			{
 				"title": "Lock In",
-				"link": "https://bookshop.org/p/books/lock-in-a-novel-of-the-near-future-john-scalzi/7103583"
+				"link": "/bookshelf/book/326/"
 			},
 			{
 				"title": "The Collapsing Empire",
-				"link": "https://bookshop.org/books/the-collapsing-empire/9780765388902"
+				"link": "/bookshelf/book/367/"
 			},
 			{
 				"title": "The Consuming Fire",
-				"link": "https://bookshop.org/books/the-consuming-fire/9780765388995"
+				"link": "/bookshelf/book/368/"
 			},
 			{
 				"title": "The Last Emperox",
-				"link": "https://bookshop.org/books/the-last-emperox/9780765389169"
+				"link": "/bookshelf/book/369/"
 			},
 			{
 				"title": "Head On",
-				"link": "https://bookshop.org/books/head-on-a-novel-of-the-near-future/9780765388933"
+				"link": "/bookshelf/book/370/"
 			},
 			{
 				"title": "Starter Villain",
-				"link": "https://bookshop.org/p/books/starter-villain-john-scalzi/18753219?ean=9780765389220"
+				"link": "/bookshelf/book/197/"
 			},
 			{
 				"title": "The Android’s Dream",
-				"link": "https://bookshop.org/p/books/the-android-s-dream-john-scalzi/7103015?ean=9781250174758"
+				"link": "/bookshelf/book/74/"
 			},
 			{
 				"title": "When the Moon Hits Your Eye",
-				"link": "https://bookshop.org/p/books/when-the-moon-hits-your-eye-john-scalzi/21424940"
+				"link": "/bookshelf/book/571/"
 			}
 		]
 	},
@@ -1381,7 +1452,7 @@
 		"books": [
 			{
 				"title": "East of Eden",
-				"link": "https://bookshop.org/p/books/east-of-eden-john-steinbeck/16287413?ean=9780140186390"
+				"link": "/bookshelf/book/213/"
 			}
 		]
 	},
@@ -1390,7 +1461,7 @@
 		"books": [
 			{
 				"title": "The Wrong Stuff: How the Soviet Space Program Crashed and Burned",
-				"link": "https://bookshop.org/p/books/the-wrong-stuff-how-the-soviet-space-program-crashed-and-burned-john-strausbaugh/20664627"
+				"link": "/bookshelf/book/599/"
 			}
 		]
 	},
@@ -1399,7 +1470,7 @@
 		"books": [
 			{
 				"title": "The Soul of America",
-				"link": "https://bookshop.org/p/books/the-soul-of-america-the-battle-for-our-better-angels-jon-meacham/9581912"
+				"link": "/bookshelf/book/359/"
 			}
 		]
 	},
@@ -1408,7 +1479,7 @@
 		"books": [
 			{
 				"title": "The Righteous Mind: Why Good People Are Divided by Politics and Religion",
-				"link": "https://bookshop.org/books/the-righteous-mind-why-good-people-are-divided-by-politics-and-religion-9798200560639/9780307455772"
+				"link": "/bookshelf/book/504/"
 			}
 		]
 	},
@@ -1417,7 +1488,7 @@
 		"books": [
 			{
 				"title": "Dark Wire: The Incredible True Story of the Largest Sting Operation Ever",
-				"link": "https://bookshop.org/p/books/dark-wire-the-incredible-true-story-of-the-largest-sting-operation-in-history-joseph-cox/20664624"
+				"link": "/books/joseph-cox-dark-wire/"
 			}
 		]
 	},
@@ -1426,7 +1497,7 @@
 		"books": [
 			{
 				"title": "Catch-22",
-				"link": "https://bookshop.org/p/books/catch-22-joseph-heller/7060234?ean=9781451626650"
+				"link": "/bookshelf/book/210/"
 			}
 		]
 	},
@@ -1435,11 +1506,11 @@
 		"books": [
 			{
 				"title": "Bypass Gemini",
-				"link": "https://www.amazon.com/gp/product/1505786169"
+				"link": "/bookshelf/book/257/"
 			},
 			{
 				"title": "Unstable Prototypes",
-				"link": "https://www.amazon.com/gp/product/1505791820"
+				"link": "/bookshelf/book/259/"
 			}
 		]
 	},
@@ -1448,19 +1519,19 @@
 		"books": [
 			{
 				"title": "The Heretic",
-				"link": "https://www.amazon.com/gp/product/B003CT39PE"
+				"link": "/bookshelf/book/265/"
 			},
 			{
 				"title": "A Scream of Angels",
-				"link": "https://www.amazon.com/gp/product/B003C1R4R6"
+				"link": "/bookshelf/book/287/"
 			},
 			{
 				"title": "A Tear in the Sky",
-				"link": "https://www.amazon.com/gp/product/B003DA4302"
+				"link": "/bookshelf/book/288/"
 			},
 			{
 				"title": "Infernal Games",
-				"link": "https://www.amazon.com/gp/product/B00B9FKGCW"
+				"link": "/bookshelf/book/289/"
 			}
 		]
 	},
@@ -1469,7 +1540,7 @@
 		"books": [
 			{
 				"title": "The Aisles Have Eyes",
-				"link": "https://bookshop.org/p/books/the-aisles-have-eyes-how-retailers-track-your-shopping-strip-your-privacy-and-define-your-power-joseph-turow/8516728"
+				"link": "/bookshelf/book/339/"
 			}
 		]
 	},
@@ -1478,7 +1549,7 @@
 		"books": [
 			{
 				"title": "The Buyout of America: How Private Equity Is Destroying Jobs and Killing the American Economy",
-				"link": "https://bookshop.org/books/the-buyout-of-america-how-private-equity-is-destroying-jobs-and-killing-the-american-economy/9781591843696"
+				"link": "/bookshelf/book/505/"
 			}
 		]
 	},
@@ -1487,16 +1558,16 @@
 		"books": [
 			{
 				"title": "Your Face Belongs to Us: A Secretive Startup's Quest to End Privacy as We Know It",
-				"link": "https://bookshop.org/p/books/your-face-belongs-to-us-a-secretive-startup-s-quest-to-end-privacy-as-we-know-it-kashmir-hill/19573494?ean=9780593448564"
+				"link": "/books/kashmir-hill-your-face-belongs-to-us/"
 			}
 		]
 	},
 	{
-		"name": "Kate Conger & Ryan Mac",
+		"name": "Kate Conger",
 		"books": [
 			{
 				"title": "Character Limit: How Elon Musk Destroyed Twitter",
-				"link": "https://www.penguinrandomhouse.com/books/737290/character-limit-by-kate-conger-and-ryan-mac/"
+				"link": "/bookshelf/book/523/"
 			}
 		]
 	},
@@ -1505,20 +1576,7 @@
 		"books": [
 			{
 				"title": "The End of Everything: (Astrophysically Speaking)",
-				"link": "https://bookshop.org/books/the-end-of-everything-astrophysically-speaking-9781982103552/9781982103545"
-			}
-		]
-	},
-	{
-		"name": "Kelly & Zach Weinersmith",
-		"books": [
-			{
-				"title": "Soonish",
-				"link": "https://bookshop.org/p/books/soonish-ten-emerging-technologies-that-ll-improve-and-or-ruin-everything-zach-weinersmith/11061022"
-			},
-			{
-				"title": "A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?",
-				"link": "https://bookshop.org/p/books/a-city-on-mars-can-we-settle-space-should-we-settle-space-and-have-we-really-thought-this-through-zach-weinersmith/19777591?ean=9781984881724"
+				"link": "/bookshelf/book/485/"
 			}
 		]
 	},
@@ -1527,7 +1585,20 @@
 		"books": [
 			{
 				"title": "Stranger Things Happen",
-				"link": "https://bookshop.org/p/books/stranger-things-happen-stories-kelly-link/11019424"
+				"link": "/bookshelf/book/298/"
+			}
+		]
+	},
+	{
+		"name": "Kelly Weinersmith",
+		"books": [
+			{
+				"title": "Soonish",
+				"link": "/bookshelf/book/329/"
+			},
+			{
+				"title": "A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?",
+				"link": "/books/kelly-zach-weinersmith-a-city-on-mars/"
 			}
 		]
 	},
@@ -1536,7 +1607,7 @@
 		"books": [
 			{
 				"title": "Every Day is Sunday: How Jerry Jones, Robert Kraft, and Roger Goodell Turned the NFL Into a Cultural & Economic Juggernaut",
-				"link": "https://bookshop.org/p/books/every-day-is-sunday-how-jerry-jones-robert-kraft-and-roger-goodell-turned-the-nfl-into-a-cultural-economic-juggernaut-ken-belson/acf6b3176c03e34a"
+				"link": "/bookshelf/book/633/"
 			}
 		]
 	},
@@ -1545,7 +1616,7 @@
 		"books": [
 			{
 				"title": "Because I Said So!: The Truth Behind the Myths, Tales, and Warnings Every Generation Passes Down to Its Kids",
-				"link": "https://bookshop.org/p/books/because-i-said-so-the-truth-behind-the-myths-tales-and-warnings-every-generation-passes-down-to-its-kids-ken-jennings/10340479"
+				"link": "/bookshelf/book/299/"
 			}
 		]
 	},
@@ -1554,7 +1625,7 @@
 		"books": [
 			{
 				"title": "Our Dollar, Your Problem: An Insider's View of Seven Turbulent Decades of Global Finance, and the Road Ahead",
-				"link": "https://bookshop.org/p/books/our-dollar-your-problem-an-insider-s-view-of-seven-turbulent-decades-of-global-finance-and-the-road-ahead-kenneth-rogoff/f7eb2fbd7e0e2059"
+				"link": "/bookshelf/book/589/"
 			}
 		]
 	},
@@ -1563,7 +1634,16 @@
 		"books": [
 			{
 				"title": "The Women",
-				"link": "https://bookshop.org/p/books/the-women-a-novel-kristin-hannah/5472123ec95595c8"
+				"link": "/bookshelf/book/724/"
+			}
+		]
+	},
+	{
+		"name": "Kurt Kohlstedt",
+		"books": [
+			{
+				"title": "The 99% Invisible City",
+				"link": "/bookshelf/book/372/"
 			}
 		]
 	},
@@ -1572,7 +1652,7 @@
 		"books": [
 			{
 				"title": "In This Economy?: How Money & Markets Really Work",
-				"link": "https://bookshop.org/p/books/in-this-economy-how-money-markets-really-work-kyla-scanlon/9527da7b1e7936ea"
+				"link": "/bookshelf/book/696/"
 			}
 		]
 	},
@@ -1581,7 +1661,16 @@
 		"books": [
 			{
 				"title": "Zoo City",
-				"link": "https://bookshop.org/p/books/zoo-city-lauren-beukes/111150"
+				"link": "/bookshelf/book/297/"
+			}
+		]
+	},
+	{
+		"name": "Leon Carroll",
+		"books": [
+			{
+				"title": "Ghosts of Honolulu: A Japanese Spy, a Japanese American Spy Hunter, and the Untold Story of Pearl Harbor",
+				"link": "/bookshelf/book/646/"
 			}
 		]
 	},
@@ -1590,11 +1679,11 @@
 		"books": [
 			{
 				"title": "Lords of Finance: The Bankers Who Broke the World",
-				"link": "https://bookshop.org/p/books/lords-of-finance-the-bankers-who-broke-the-world-liaquat-ahamed/15278774?ean=9780143116806"
+				"link": "/bookshelf/book/432/"
 			},
 			{
 				"title": "1873: The Rothschilds, the First Great Depression, and the Making of the Modern World",
-				"link": "https://bookshop.org/p/books/1873-the-rothschilds-the-first-great-depression-and-the-making-of-the-modern-world-liaquat-ahamed/bedb61cf185c4554"
+				"link": "/bookshelf/book/772/"
 			}
 		]
 	},
@@ -1603,7 +1692,7 @@
 		"books": [
 			{
 				"title": "Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist",
-				"link": "https://www.simonandschuster.com/books/Mood-Machine/Liz-Pelly/9781668083505"
+				"link": "/books/liz-pelly-mood-machine/"
 			}
 		]
 	},
@@ -1612,7 +1701,7 @@
 		"books": [
 			{
 				"title": "Journey to Hart’s Halo",
-				"link": "https://www.amazon.com/gp/product/B0070YHQCE"
+				"link": "/bookshelf/book/251/"
 			}
 		]
 	},
@@ -1621,16 +1710,16 @@
 		"books": [
 			{
 				"title": "The Pale Blue Eye",
-				"link": "https://bookshop.org/p/books/the-pale-blue-eye-louis-bayard/8813994?ean=9780060733988"
+				"link": "/bookshelf/book/396/"
 			}
 		]
 	},
 	{
-		"name": "Lydia Hallie & Addy Osmani",
+		"name": "Lydia Hallie",
 		"books": [
 			{
 				"title": "Learning Patterns",
-				"link": "https://leanpub.com/learningpatterns"
+				"link": "/bookshelf/book/443/"
 			}
 		]
 	},
@@ -1639,11 +1728,11 @@
 		"books": [
 			{
 				"title": "The Bomber Mafia: A Dream, a Temptation, and the Longest Night of the Second World War",
-				"link": "https://bookshop.org/p/books/the-bomber-mafia-a-dream-a-temptation-and-the-longest-night-of-the-second-world-war-malcolm-gladwell/17377135?ean=9780316296816"
+				"link": "/bookshelf/book/456/"
 			},
 			{
 				"title": "Talking to Strangers: What We Should Know about the People We Don't Know",
-				"link": "https://bookshop.org/p/books/talking-to-strangers-what-we-should-know-about-the-people-we-don-t-know-malcolm-gladwell/16344994?ean=9780316299220"
+				"link": "/bookshelf/book/439/"
 			}
 		]
 	},
@@ -1652,7 +1741,7 @@
 		"books": [
 			{
 				"title": "Body Electric: The Hidden Health Costs of the Digital Age and New Science to Reclaim Your Well-Being",
-				"link": "https://bookshop.org/p/books/body-electric-the-hidden-health-costs-of-the-digital-age-and-new-science-to-reclaim-your-well-being-keith-diaz-phd/89845c6f7856af68"
+				"link": "/bookshelf/book/728/"
 			}
 		]
 	},
@@ -1661,25 +1750,25 @@
 		"books": [
 			{
 				"title": "Franchise: The Golden Arches in Black America",
-				"link": "https://bookshop.org/books/franchise-the-golden-arches-in-black-america-9781684577019/9781631498701"
+				"link": "/bookshelf/book/498/"
 			}
 		]
 	},
 	{
-		"name": "Mark Harmon & Leon Carroll",
+		"name": "Mark Harmon",
 		"books": [
 			{
 				"title": "Ghosts of Honolulu: A Japanese Spy, a Japanese American Spy Hunter, and the Untold Story of Pearl Harbor",
-				"link": "https://bookshop.org/p/books/ghosts-of-honolulu-a-japanese-spy-a-japanese-american-spy-hunter-and-the-untold-story-of-pearl-harbor-mark-harmon/bb7a55cb6327b101"
+				"link": "/bookshelf/book/646/"
 			}
 		]
 	},
 	{
-		"name": "Mark Hoppus & Dan Ozzi",
+		"name": "Mark Hoppus",
 		"books": [
 			{
 				"title": "Farenheit 182: A Memoir",
-				"link": "https://bookshop.org/p/books/fahrenheit-182-a-memoir-dan-ozzi/21810473"
+				"link": "/bookshelf/book/582/"
 			}
 		]
 	},
@@ -1688,39 +1777,39 @@
 		"books": [
 			{
 				"title": "All Systems Red",
-				"link": "https://bookshop.org/p/books/all-systems-red-martha-wells/7104100"
+				"link": "/bookshelf/book/189/"
 			},
 			{
 				"title": "Artificial Condition",
-				"link": "https://bookshop.org/p/books/artificial-condition-martha-wells/9858231"
+				"link": "/bookshelf/book/188/"
 			},
 			{
 				"title": "Rogue Protocol",
-				"link": "https://bookshop.org/p/books/rogue-protocol-martha-wells/9861886"
+				"link": "/bookshelf/book/187/"
 			},
 			{
 				"title": "Exit Strategy",
-				"link": "https://bookshop.org/p/books/exit-strategy-martha-wells/9861961"
+				"link": "/bookshelf/book/186/"
 			},
 			{
 				"title": "Home: Habitat, Range, Niche, Territory",
-				"link": "https://us.macmillan.com/books/9781250838865/homehabitatrangenicheterritory"
+				"link": "/bookshelf/book/537/"
 			},
 			{
 				"title": "Network Effect",
-				"link": "https://bookshop.org/p/books/network-effect-a-murderbot-novel-martha-wells/13296841"
+				"link": "/bookshelf/book/185/"
 			},
 			{
 				"title": "Fugitive Telemetry",
-				"link": "https://bookshop.org/p/books/fugitive-telemetry-martha-wells/14596858"
+				"link": "/bookshelf/book/184/"
 			},
 			{
 				"title": "System Collapse",
-				"link": "https://bookshop.org/p/books/system-collapse-martha-wells/19538545"
+				"link": "/bookshelf/book/183/"
 			},
 			{
 				"title": "Wheel of the Infinite",
-				"link": "https://bookshop.org/p/books/wheel-of-the-infinite-updated-and-revised-edition-martha-wells/3299c7e680d68a1b"
+				"link": "/bookshelf/book/574/"
 			}
 		]
 	},
@@ -1729,7 +1818,7 @@
 		"books": [
 			{
 				"title": "The Bond King: How One Man Made a Market, Built an Empire, and Lost It All",
-				"link": "https://bookshop.org/books/the-bond-king-how-one-man-made-a-market-built-an-empire-and-lost-it-all/9781250120847"
+				"link": "/bookshelf/book/470/"
 			}
 		]
 	},
@@ -1738,7 +1827,7 @@
 		"books": [
 			{
 				"title": "Packing for Mars: The Curious Science of Life in the Void",
-				"link": "https://bookshop.org/p/books/packing-for-mars-the-curious-science-of-life-in-the-void-mary-roach/1517059?ean=9781324036050"
+				"link": "/bookshelf/book/440/"
 			}
 		]
 	},
@@ -1747,7 +1836,7 @@
 		"books": [
 			{
 				"title": "Frankenstein",
-				"link": "https://bookshop.org/p/books/frankenstein-mary-shelley/6a5ab762f4a4486e"
+				"link": "/bookshelf/book/672/"
 			}
 		]
 	},
@@ -1756,7 +1845,16 @@
 		"books": [
 			{
 				"title": "Humble Pi: When Math Goes Wrong in the Real World",
-				"link": "https://bookshop.org/p/books/humble-pi-when-math-goes-wrong-in-the-real-world-matt-parker/18297581?ean=9780593084694"
+				"link": "/bookshelf/book/384/"
+			}
+		]
+	},
+	{
+		"name": "Maureen Farrell",
+		"books": [
+			{
+				"title": "The Cult of We: Wework, Adam Neumann, and the Great Startup Delusion",
+				"link": "/bookshelf/book/506/"
 			}
 		]
 	},
@@ -1765,7 +1863,16 @@
 		"books": [
 			{
 				"title": "World War Z",
-				"link": "https://bookshop.org/p/books/world-war-z-an-oral-history-of-the-zombie-war-max-brooks/228724"
+				"link": "/bookshelf/book/264/"
+			}
+		]
+	},
+	{
+		"name": "Max Gladstone",
+		"books": [
+			{
+				"title": "This is How You Lose the Time War",
+				"link": "/bookshelf/book/726/"
 			}
 		]
 	},
@@ -1774,15 +1881,15 @@
 		"books": [
 			{
 				"title": "Vietnam: An Epic Tragedy, 1945-1975",
-				"link": "https://bookshop.org/p/books/vietnam-an-epic-tragedy-1945-1975-max-hastings/15280704"
+				"link": "/bookshelf/book/350/"
 			},
 			{
 				"title": "Inferno: The World at War, 1939-1945",
-				"link": "https://bookshop.org/p/books/inferno-the-world-at-war-1939-1945-max-hastings/15283304"
+				"link": "/bookshelf/book/594/"
 			},
 			{
 				"title": "Armageddon: The Battle for Germany, 1944-1945",
-				"link": "https://bookshop.org/p/books/armageddon-the-battle-for-germany-1944-1945-max-hastings/8519135"
+				"link": "/bookshelf/book/585/"
 			}
 		]
 	},
@@ -1791,7 +1898,7 @@
 		"books": [
 			{
 				"title": "The Good Neighbor: The Life and Work of Fred Rogers",
-				"link": "https://bookshop.org/books/the-good-neighbor-the-life-and-work-of-fred-rogers-9781419735165/9781419735165"
+				"link": "/bookshelf/book/476/"
 			}
 		]
 	},
@@ -1800,15 +1907,15 @@
 		"books": [
 			{
 				"title": "The Blighted Stars",
-				"link": "https://bookshop.org/p/books/the-blighted-stars-megan-e-o-keefe/17405812?ean=9780316290791"
+				"link": "/bookshelf/book/531/"
 			},
 			{
 				"title": "The Fractured Dark",
-				"link": "https://bookshop.org/p/books/the-fractured-dark-megan-e-o-keefe/19623182?ean=9780316291132"
+				"link": "/bookshelf/book/532/"
 			},
 			{
 				"title": "The Bound Worlds",
-				"link": "https://bookshop.org/p/books/the-bound-worlds-megan-e-o-keefe/20589383?ean=9780316291576"
+				"link": "/bookshelf/book/533/"
 			}
 		]
 	},
@@ -1817,7 +1924,7 @@
 		"books": [
 			{
 				"title": "Bad Company: Private Equity and the Death of the American Dream",
-				"link": "https://bookshop.org/p/books/bad-company-private-equity-and-the-death-of-the-american-dream-megan-greenwell/22086306"
+				"link": "/bookshelf/book/598/"
 			}
 		]
 	},
@@ -1826,31 +1933,40 @@
 		"books": [
 			{
 				"title": "Jurassic Park",
-				"link": "https://bookshop.org/p/books/jurassic-park-michael-crichton/14708249"
+				"link": "/bookshelf/book/308/"
 			},
 			{
 				"title": "The Lost World",
-				"link": "https://bookshop.org/p/books/the-lost-world-michael-crichton/9120153"
+				"link": "/bookshelf/book/309/"
 			},
 			{
 				"title": "The Andromeda Strain",
-				"link": "https://bookshop.org/p/books/the-andromeda-strain-michael-crichton/15554810"
+				"link": "/bookshelf/book/353/"
 			},
 			{
 				"title": "Prey",
-				"link": "https://bookshop.org/p/books/prey-michael-crichton/6431908"
+				"link": "/bookshelf/book/354/"
 			},
 			{
 				"title": "Sphere",
-				"link": "https://bookshop.org/p/books/sphere-michael-crichton/6436953"
+				"link": "/bookshelf/book/355/"
 			},
 			{
 				"title": "Congo",
-				"link": "https://www.amazon.com/gp/product/B007UH4FK2"
+				"link": "/bookshelf/book/356/"
 			},
 			{
 				"title": "State of Fear",
-				"link": "https://bookshop.org/p/books/state-of-fear-michael-crichton/6431901?ean=9780061782664"
+				"link": "/bookshelf/book/70/"
+			}
+		]
+	},
+	{
+		"name": "Michael Forsythe",
+		"books": [
+			{
+				"title": "When McKinsey Comes to Town: The Hidden Influence of the World's Most Powerful Consulting Firm",
+				"link": "/bookshelf/book/194/"
 			}
 		]
 	},
@@ -1859,7 +1975,7 @@
 		"books": [
 			{
 				"title": "We Are Eating the Earth: The Race to Fix Our Food System and Save Our Climate",
-				"link": "https://bookshop.org/p/books/we-are-eating-the-earth-the-race-to-fix-our-food-system-and-save-our-climate-michael-grunwald/41c6116d0380f833"
+				"link": "/bookshelf/book/627/"
 			}
 		]
 	},
@@ -1868,15 +1984,15 @@
 		"books": [
 			{
 				"title": "John Gone",
-				"link": "https://www.amazon.com/gp/product/B006PKIGAU"
+				"link": "/bookshelf/book/260/"
 			},
 			{
 				"title": "Missing Signals",
-				"link": "https://www.amazon.com/gp/product/B006PKOUNW"
+				"link": "/bookshelf/book/261/"
 			},
 			{
 				"title": "Company Men",
-				"link": "https://www.amazon.com/gp/product/B006PV2KNS"
+				"link": "/bookshelf/book/262/"
 			}
 		]
 	},
@@ -1885,23 +2001,23 @@
 		"books": [
 			{
 				"title": "Flash Boys: A Wall Street Revolt",
-				"link": "https://bookshop.org/p/books/flash-boys-a-wall-street-revolt-michael-lewis/11179044"
+				"link": "/bookshelf/book/358/"
 			},
 			{
 				"title": "The Fifth Risk",
-				"link": "https://bookshop.org/books/how-to-absurd-scientific-advice-for-common-real-world-problems/9780525537090"
+				"link": "/bookshelf/book/361/"
 			},
 			{
 				"title": "The Big Short",
-				"link": "https://bookshop.org/books/the-big-short-inside-the-doomsday-machine/9780393338829"
+				"link": "/bookshelf/book/365/"
 			},
 			{
 				"title": "The Premonition: A Pandemic Story",
-				"link": "https://bookshop.org/books/the-premonition-a-pandemic-story-9781713631897/9780393881554"
+				"link": "/bookshelf/book/502/"
 			},
 			{
 				"title": "Liar’s Poker",
-				"link": "https://bookshop.org/p/books/liar-s-poker-michael-lewis/8855267?ean=9780393338690"
+				"link": "/bookshelf/book/454/"
 			}
 		]
 	},
@@ -1910,7 +2026,7 @@
 		"books": [
 			{
 				"title": "Cooked",
-				"link": "https://bookshop.org/p/books/cooked-a-natural-history-of-transformation-michael-pollan/586239"
+				"link": "/bookshelf/book/286/"
 			}
 		]
 	},
@@ -1919,16 +2035,16 @@
 		"books": [
 			{
 				"title": "The Storm Before the Storm: The Beginning of the End of the Roman Republic",
-				"link": "https://bookshop.org/p/books/the-storm-before-the-storm-the-beginning-of-the-end-of-the-roman-republic-mike-duncan/7215014?ean=9781541724037"
+				"link": "/books/mike-duncan-the-storm-before-the-storm/"
 			}
 		]
 	},
 	{
-		"name": "Mike Masnick & Others",
+		"name": "Mike Masnick",
 		"books": [
 			{
 				"title": "Working Futures",
-				"link": "http://workingfutur.es/"
+				"link": "/bookshelf/book/351/"
 			}
 		]
 	},
@@ -1937,7 +2053,7 @@
 		"books": [
 			{
 				"title": "Addiction by Design: Machine Gambling in Las Vegas",
-				"link": "https://bookshop.org/p/books/addiction-by-design-machine-gambling-in-las-vegas-natasha-dow-sch-ll/0def40356ddd5b82"
+				"link": "/bookshelf/book/701/"
 			}
 		]
 	},
@@ -1946,16 +2062,16 @@
 		"books": [
 			{
 				"title": "Snow Crash",
-				"link": "https://bookshop.org/p/books/snow-crash-neal-stephenson/7327954?ean=9780553380958"
+				"link": "/bookshelf/book/453/"
 			}
 		]
 	},
 	{
-		"name": "Neil deMause & Joanna Cagan",
+		"name": "Neil deMause",
 		"books": [
 			{
 				"title": "Field of Schemes: How the Great Stadium Swindle Turns Public Money Into Private Profit",
-				"link": "https://bookshop.org/books/field-of-schemes-how-the-great-stadium-swindle-turns-public-money-into-private-profit-revised/9780803260160"
+				"link": "/bookshelf/book/501/"
 			}
 		]
 	},
@@ -1964,15 +2080,15 @@
 		"books": [
 			{
 				"title": "American Gods",
-				"link": "https://bookshop.org/p/books/american-gods-neil-gaiman/6438874?ean=9780063081918"
+				"link": "/bookshelf/book/448/"
 			},
 			{
 				"title": "Anansi Boys",
-				"link": "https://bookshop.org/p/books/anansi-boys-neil-gaiman/6438691?ean=9780063070738"
+				"link": "/bookshelf/book/390/"
 			},
 			{
 				"title": "Trigger Warning",
-				"link": "https://bookshop.org/p/books/trigger-warning-short-fictions-and-disturbances-neil-gaiman/15543280?ean=9780063075764"
+				"link": "/bookshelf/book/217/"
 			}
 		]
 	},
@@ -1981,11 +2097,11 @@
 		"books": [
 			{
 				"title": "The Wealth Ladder: Proven Strategies for Every Step of Your Financial Life",
-				"link": "https://bookshop.org/p/books/the-wealth-ladder-proven-strategies-for-every-step-of-your-financial-life-nick-maggiulli/tcem6pxCq8TGG3XQ"
+				"link": "/bookshelf/book/607/"
 			},
 			{
 				"title": "Just Keep Buying: Proven ways to save money and build your wealth",
-				"link": "https://www.amazon.com/gp/product/0857199250"
+				"link": "/bookshelf/book/466/"
 			}
 		]
 	},
@@ -1994,7 +2110,7 @@
 		"books": [
 			{
 				"title": "Apple in China: The Capture of the World's Greatest Company",
-				"link": "https://bookshop.org/p/books/apple-in-china-the-capture-of-the-world-s-greatest-company-patrick-mcgee/21872828"
+				"link": "/books/patrick-mcgee-apple-in-china/"
 			}
 		]
 	},
@@ -2003,7 +2119,7 @@
 		"books": [
 			{
 				"title": "Making It So: A Memoir",
-				"link": "https://bookshop.org/p/books/making-it-so-a-memoir-patrick-stewart/19811025?ean=9781982167738"
+				"link": "/bookshelf/book/193/"
 			}
 		]
 	},
@@ -2012,7 +2128,7 @@
 		"books": [
 			{
 				"title": "The Incomplete Book of Running",
-				"link": "https://bookshop.org/p/books/the-incomplete-book-of-running-peter-sagal/6687479"
+				"link": "/bookshelf/book/357/"
 			}
 		]
 	},
@@ -2021,7 +2137,7 @@
 		"books": [
 			{
 				"title": "Under Alien Skies: A Sightseer's Guide to the Universe",
-				"link": "https://bookshop.org/p/books/under-alien-skies-a-sightseer-s-guide-to-the-universe-phil-plait/18507009"
+				"link": "/bookshelf/book/572/"
 			}
 		]
 	},
@@ -2030,7 +2146,7 @@
 		"books": [
 			{
 				"title": "Wherever I Wind Up",
-				"link": "https://bookshop.org/p/books/wherever-i-wind-up-my-quest-for-truth-authenticity-and-the-perfect-knuckleball-r-a-dickey/11200941"
+				"link": "/bookshelf/book/282/"
 			}
 		]
 	},
@@ -2039,7 +2155,7 @@
 		"books": [
 			{
 				"title": "Drift",
-				"link": "https://bookshop.org/p/books/drift-the-unmooring-of-american-military-power-rachel-maddow/228833"
+				"link": "/bookshelf/book/238/"
 			}
 		]
 	},
@@ -2048,7 +2164,7 @@
 		"books": [
 			{
 				"title": "Rise of the Warrior Cop: The Militarization of America's Police Forces",
-				"link": "https://bookshop.org/p/books/rise-of-the-warrior-cop-the-militarization-of-america-s-police-forces-radley-balko/11487752"
+				"link": "/bookshelf/book/603/"
 			}
 		]
 	},
@@ -2057,11 +2173,11 @@
 		"books": [
 			{
 				"title": "How To",
-				"link": "https://bookshop.org/books/how-to-absurd-scientific-advice-for-common-real-world-problems/9780525537090"
+				"link": "/bookshelf/book/362/"
 			},
 			{
 				"title": "What If? 2",
-				"link": "https://bookshop.org/p/books/what-if-2-additional-serious-scientific-answers-to-absurd-hypothetical-questions-randall-munroe/18153615"
+				"link": "/bookshelf/book/455/"
 			}
 		]
 	},
@@ -2070,7 +2186,7 @@
 		"books": [
 			{
 				"title": "Why Fascists Fear Teachers: Public Education and the Future of Democracy",
-				"link": "https://bookshop.org/p/books/why-fascists-fear-teachers-public-education-and-the-future-of-democracy-randi-weingarten/86407292f508ba9e"
+				"link": "/bookshelf/book/622/"
 			}
 		]
 	},
@@ -2079,7 +2195,7 @@
 		"books": [
 			{
 				"title": "Farenheit 451",
-				"link": "https://bookshop.org/p/books/fahrenheit-451-ray-bradbury/6766196"
+				"link": "/bookshelf/book/247/"
 			}
 		]
 	},
@@ -2088,7 +2204,16 @@
 		"books": [
 			{
 				"title": "Where the Axe is Buried",
-				"link": "https://bookshop.org/p/books/where-the-axe-is-buried-ray-nayler/21424983"
+				"link": "/bookshelf/book/565/"
+			}
+		]
+	},
+	{
+		"name": "Rebecca Giblin",
+		"books": [
+			{
+				"title": "Chokepoint Capitalism: How Big Tech and Big Content Captured Creative Labor Markets and How We'll Win Them Back",
+				"link": "/bookshelf/book/446/"
 			}
 		]
 	},
@@ -2097,16 +2222,16 @@
 		"books": [
 			{
 				"title": "Madoff: The Final Word",
-				"link": "https://bookshop.org/p/books/madoff-the-final-word-richard-behar/20807026"
+				"link": "/books/richard-behar-madoff-the-final-word//"
 			}
 		]
 	},
 	{
-		"name": "Richard Thaler & Cass Sunstein",
+		"name": "Richard Thaler",
 		"books": [
 			{
 				"title": "Nudge: The Final Edition",
-				"link": "https://bookshop.org/books/nudge-the-final-edition/9780143137009"
+				"link": "/bookshelf/book/495/"
 			}
 		]
 	},
@@ -2115,7 +2240,7 @@
 		"books": [
 			{
 				"title": "The Creative ACT: A Way of Being",
-				"link": "https://bookshop.org/p/books/the-creative-act-a-way-of-being-rick-rubin/18543579?ean=9780593652886"
+				"link": "/bookshelf/book/207/"
 			}
 		]
 	},
@@ -2124,7 +2249,7 @@
 		"books": [
 			{
 				"title": "Starship Troopers",
-				"link": "https://bookshop.org/p/books/starship-troopers-robert-a-heinlein/15024441?ean=9780441014101"
+				"link": "/bookshelf/book/76/"
 			}
 		]
 	},
@@ -2133,52 +2258,52 @@
 		"books": [
 			{
 				"title": "Mercury Falls",
-				"link": "https://bookshop.org/p/books/mercury-falls-robert-kroese/8943382"
+				"link": "/bookshelf/book/219/"
 			},
 			{
 				"title": "Mercury Swings",
-				"link": "https://www.amazon.com/gp/product/B005JTNDEM"
+				"link": "/bookshelf/book/220/"
 			},
 			{
 				"title": "Mercury Rises",
-				"link": "https://bookshop.org/p/books/mercury-rises-robert-kroese/8055078"
+				"link": "/bookshelf/book/221/"
 			},
 			{
 				"title": "Mercury Rests",
-				"link": "https://bookshop.org/p/books/mercury-rests-robert-kroese/8066901"
+				"link": "/bookshelf/book/255/"
 			},
 			{
 				"title": "Disenchanted",
-				"link": "https://bookshop.org/p/books/disenchanted-robert-kroese/8065869"
+				"link": "/bookshelf/book/283/"
 			},
 			{
 				"title": "Schrodinger’s Gat",
-				"link": "https://bookshop.org/p/books/schrodinger-s-gat-robert-kroese/7269456"
+				"link": "/bookshelf/book/284/"
 			},
 			{
 				"title": "Mercury Revolts",
-				"link": "https://bookshop.org/p/books/mercury-revolts-book-four-of-the-mercury-series-robert-kroese/10622589"
+				"link": "/bookshelf/book/285/"
 			},
 			{
 				"title": "Starship Grifters",
-				"link": "https://bookshop.org/p/books/starship-grifters-robert-kroese/8658578"
+				"link": "/bookshelf/book/304/"
 			},
 			{
 				"title": "Distopia",
-				"link": "https://bookshop.org/p/books/distopia-robert-kroese/6456956"
+				"link": "/bookshelf/book/311/"
 			},
 			{
 				"title": "Disillusioned",
-				"link": "https://www.amazon.com/gp/product/B013TCYZK6"
+				"link": "/bookshelf/book/312/"
 			}
 		]
 	},
 	{
-		"name": "Roman Mars & Kurt Kohlstedt",
+		"name": "Roman Mars",
 		"books": [
 			{
 				"title": "The 99% Invisible City",
-				"link": "https://bookshop.org/books/the-99-invisible-city-a-field-guide-to-the-hidden-world-of-everyday-design-9780358396383/9780358126607"
+				"link": "/bookshelf/book/372/"
 			}
 		]
 	},
@@ -2187,7 +2312,16 @@
 		"books": [
 			{
 				"title": "Zero Days",
-				"link": "https://bookshop.org/p/books/zero-days/18899219"
+				"link": "/bookshelf/book/179/"
+			}
+		]
+	},
+	{
+		"name": "Ryan Mac",
+		"books": [
+			{
+				"title": "Character Limit: How Elon Musk Destroyed Twitter",
+				"link": "/bookshelf/book/523/"
 			}
 		]
 	},
@@ -2196,15 +2330,24 @@
 		"books": [
 			{
 				"title": "The Moral Landscape",
-				"link": "https://bookshop.org/p/books/the-moral-landscape-how-science-can-determine-human-values-sam-harris/10578253"
+				"link": "/bookshelf/book/231/"
 			},
 			{
 				"title": "Lying",
-				"link": "https://bookshop.org/p/books/lying-sam-harris/10629392"
+				"link": "/bookshelf/book/258/"
 			},
 			{
 				"title": "Letter to a Christian Nation",
-				"link": "https://bookshop.org/p/books/letter-to-a-christian-nation-sam-harris/8722845"
+				"link": "/bookshelf/book/300/"
+			}
+		]
+	},
+	{
+		"name": "Sam Miller",
+		"books": [
+			{
+				"title": "The Only Rule is it Has to Work: Our Wild Experiment Building a New Kind of Baseball Team",
+				"link": "/bookshelf/book/313/"
 			}
 		]
 	},
@@ -2213,7 +2356,7 @@
 		"books": [
 			{
 				"title": "The Exvangelicals: Loving, Living, and Leaving the White Evangelical Church",
-				"link": "https://bookshop.org/p/books/the-exvangelicals-loving-living-and-leaving-the-white-evangelical-church-sarah-mccammon/19995483?ean=9781250284471"
+				"link": "/bookshelf/book/32/"
 			}
 		]
 	},
@@ -2222,7 +2365,7 @@
 		"books": [
 			{
 				"title": "Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone",
-				"link": "https://bookshop.org/p/books/hit-refresh-the-quest-to-rediscover-microsoft-s-soul-and-imagine-a-better-future-for-everyone-satya-nadella/6439128"
+				"link": "/bookshelf/book/334/"
 			}
 		]
 	},
@@ -2231,7 +2374,7 @@
 		"books": [
 			{
 				"title": "Dark Pools: The Rise of the Machine Traders and the Rigging of the U.S. Stock Market",
-				"link": "https://bookshop.org/books/dark-pools-the-rise-of-the-machine-traders-and-the-rigging-of-the-u-s-stock-market/9780307887184"
+				"link": "/bookshelf/book/497/"
 			}
 		]
 	},
@@ -2240,7 +2383,7 @@
 		"books": [
 			{
 				"title": "The Ottoman Endgame: War, Revolution, and the Making of the Modern Middle East, 1908-1923",
-				"link": "https://bookshop.org/p/books/the-ottoman-endgame-war-revolution-and-the-making-of-the-modern-middle-east-1908-1923-sean-mcmeekin/b62417099bc70c69"
+				"link": "/bookshelf/book/698/"
 			}
 		]
 	},
@@ -2249,7 +2392,7 @@
 		"books": [
 			{
 				"title": "More Money Than God: Hedge Funds and the Making of a New Elite",
-				"link": "https://bookshop.org/p/books/more-money-than-god-hedge-funds-and-the-making-of-a-new-elite-sebastian-mallaby/11728548"
+				"link": "/bookshelf/book/583/"
 			}
 		]
 	},
@@ -2258,7 +2401,7 @@
 		"books": [
 			{
 				"title": "The Gates of Europe: A History of Ukraine",
-				"link": "https://bookshop.org/p/books/the-gates-of-europe-a-history-of-ukraine-serhii-plokhy/15228399?ean=9781541675643"
+				"link": "/bookshelf/book/397/"
 			}
 		]
 	},
@@ -2267,7 +2410,7 @@
 		"books": [
 			{
 				"title": "Down with the System: A Memoir (of Sorts)",
-				"link": "https://bookshop.org/p/books/down-with-the-system-a-memoir-of-sorts-serj-tankian/20696252?ean=9780306831928"
+				"link": "/bookshelf/book/13/"
 			}
 		]
 	},
@@ -2276,7 +2419,7 @@
 		"books": [
 			{
 				"title": "It's Better to Be Feared: The New England Patriots Dynasty and the Pursuit of Greatness",
-				"link": "https://bookshop.org/books/it-s-better-to-be-feared-the-new-england-patriots-dynasty-and-the-pursuit-of-greatness/9781631498237"
+				"link": "/bookshelf/book/475/"
 			}
 		]
 	},
@@ -2285,7 +2428,7 @@
 		"books": [
 			{
 				"title": "The Imagineers of War",
-				"link": "https://bookshop.org/p/books/the-imagineers-of-war-the-untold-story-of-darpa-the-pentagon-agency-that-changed-the-world-sharon-weinberger/8631990"
+				"link": "/bookshelf/book/346/"
 			}
 		]
 	},
@@ -2294,7 +2437,7 @@
 		"books": [
 			{
 				"title": "The Age of Surveillance Capitalism",
-				"link": "https://bookshop.org/books/the-age-of-surveillance-capitalism-the-fight-for-a-human-future-at-the-new-frontier-of-power/9781610395694"
+				"link": "/bookshelf/book/366/"
 			}
 		]
 	},
@@ -2303,7 +2446,24 @@
 		"books": [
 			{
 				"title": "Zen Mind, Beginner's Mind",
-				"link": "https://bookshop.org/p/books/zen-mind-beginner-s-mind-50th-anniversary-edition-shunryu-suzuki/10545494"
+				"link": "/bookshelf/book/610/"
+			}
+		]
+	},
+	{
+		"name": "Stephen Dubner",
+		"books": [
+			{
+				"title": "Freakonomics",
+				"link": "/bookshelf/book/301/"
+			},
+			{
+				"title": "Superfreakonomics",
+				"link": "/bookshelf/book/302/"
+			},
+			{
+				"title": "Think Like a Freak",
+				"link": "/bookshelf/book/303/"
 			}
 		]
 	},
@@ -2312,7 +2472,7 @@
 		"books": [
 			{
 				"title": "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
-				"link": "https://bookshop.org/p/books/band-of-brothers-e-company-506th-regiment-101st-airborne-from-normandy-to-hitler-s-eagle-s-nest-stephen-e-ambrose/85f1e152153e5369"
+				"link": "/books/stephen-e-ambrose-band-of-brothers/"
 			}
 		]
 	},
@@ -2321,80 +2481,80 @@
 		"books": [
 			{
 				"title": "The Gunslinger",
-				"link": "https://bookshop.org/p/books/the-dark-tower-i-the-gunslinger-stephen-king/6771310"
+				"link": "/bookshelf/book/273/"
 			},
 			{
 				"title": "The Drawing of the Three",
-				"link": "https://bookshop.org/p/books/the-dark-tower-ii-the-drawing-of-the-three-stephen-king/6760455"
+				"link": "/bookshelf/book/274/"
 			},
 			{
 				"title": "The Waste Lands",
-				"link": "https://bookshop.org/p/books/the-dark-tower-iii-the-waste-lands-stephen-king/6774786"
+				"link": "/bookshelf/book/275/"
 			},
 			{
 				"title": "Wizard and Glass",
-				"link": "https://bookshop.org/p/books/the-dark-tower-iv-wizard-and-glass-stephen-king/6766957"
+				"link": "/bookshelf/book/276/"
 			},
 			{
 				"title": "The Wind Through the Keyhole",
-				"link": "https://bookshop.org/p/books/the-wind-through-the-keyhole-stephen-king/6776031"
+				"link": "/bookshelf/book/277/"
 			},
 			{
 				"title": "Wolves of the Calla",
-				"link": "https://bookshop.org/p/books/the-dark-tower-v-wolves-of-the-calla-stephen-king/951811"
+				"link": "/bookshelf/book/278/"
 			},
 			{
 				"title": "Song of Susannah",
-				"link": "https://bookshop.org/p/books/the-dark-tower-vi-song-of-susannah-stephen-king/14795734"
+				"link": "/bookshelf/book/279/"
 			},
 			{
 				"title": "The Dark Tower",
-				"link": "https://bookshop.org/p/books/the-dark-tower-vii-the-dark-tower-stephen-king/951855"
+				"link": "/bookshelf/book/280/"
 			},
 			{
 				"title": "The Outsider",
-				"link": "https://bookshop.org/books/the-outsider-9781501181009/9781501181009"
+				"link": "/bookshelf/book/364/"
 			},
 			{
 				"title": "On Writing: A Memoir of the Craft",
-				"link": "https://bookshop.org/p/books/on-writing-a-memoir-of-the-craft-stephen-king/14560198"
+				"link": "/bookshelf/book/438/"
 			},
 			{
 				"title": "Salem's Lot",
-				"link": "https://bookshop.org/books/salem-s-lot/9780307743671"
+				"link": "/bookshelf/book/487/"
 			},
 			{
 				"title": "11/22/63",
-				"link": "https://bookshop.org/p/books/11-22-63-stephen-king/7060372?ean=9781451627299"
+				"link": "/bookshelf/book/75/"
 			},
 			{
 				"title": "The Stand",
-				"link": "https://bookshop.org/p/books/the-stand-stephen-king/8197596?ean=9780307947307"
+				"link": "/bookshelf/book/191/"
 			},
 			{
 				"title": "Under the Dome",
-				"link": "https://bookshop.org/p/books/under-the-dome-stephen-king/10569164?ean=9781439149034"
+				"link": "/bookshelf/book/71/"
 			},
 			{
 				"title": "Holly",
-				"link": "https://bookshop.org/p/books/holly-stephen-king/19655404?ean=9781668016138"
+				"link": "/bookshelf/book/203/"
 			}
 		]
 	},
 	{
-		"name": "Steven Levitt & Stephen Dubner",
+		"name": "Steven Levitt",
 		"books": [
 			{
 				"title": "Freakonomics",
-				"link": "https://bookshop.org/p/books/freakonomics-a-rogue-economist-explores-the-hidden-side-of-everything-steven-d-levitt/8812774"
+				"link": "/bookshelf/book/301/"
 			},
 			{
 				"title": "Superfreakonomics",
-				"link": "https://bookshop.org/p/books/superfreakonomics-a-rogue-economist-explores-the-hidden-side-of-everything-steven-d-levitt/16846897"
+				"link": "/bookshelf/book/302/"
 			},
 			{
 				"title": "Think Like a Freak",
-				"link": "https://bookshop.org/p/books/think-like-a-freak-the-authors-of-freakonomics-offer-to-retrain-your-brain-steven-d-levitt/265965"
+				"link": "/bookshelf/book/303/"
 			}
 		]
 	},
@@ -2403,7 +2563,7 @@
 		"books": [
 			{
 				"title": "Piranesi",
-				"link": "https://bookshop.org/p/books/piranesi-susanna-clarke/878ecea84a8eca72"
+				"link": "/bookshelf/book/718/"
 			}
 		]
 	},
@@ -2412,7 +2572,7 @@
 		"books": [
 			{
 				"title": "Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet",
-				"link": "https://bookshop.org/p/books/extremely-online-the-untold-story-of-fame-influence-and-power-on-the-internet-taylor-lorenz/19718842?ean=9781982146863"
+				"link": "/bookshelf/book/208/"
 			}
 		]
 	},
@@ -2421,7 +2581,7 @@
 		"books": [
 			{
 				"title": "The Data Detective: Ten Easy Rules to Make Sense of Statistics",
-				"link": "https://bookshop.org/books/the-data-detective-ten-easy-rules-to-make-sense-of-statistics/9780593084595"
+				"link": "/bookshelf/book/490/"
 			}
 		]
 	},
@@ -2430,7 +2590,7 @@
 		"books": [
 			{
 				"title": "Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet",
-				"link": "https://bookshop.org/books/subprime-attention-crisis-advertising-and-the-time-bomb-at-the-heart-of-the-internet/9780374538651"
+				"link": "/bookshelf/book/462/"
 			}
 		]
 	},
@@ -2439,24 +2599,24 @@
 		"books": [
 			{
 				"title": "Blackcollar",
-				"link": "https://www.amazon.com/gp/product/B0094ANSJ2"
+				"link": "/bookshelf/book/341/"
 			},
 			{
 				"title": "The Backlash Mission",
-				"link": "https://bookshop.org/p/books/the-backlash-mission-timothy-zahn/8715452"
+				"link": "/bookshelf/book/342/"
 			},
 			{
 				"title": "The Judas Solution",
-				"link": "https://bookshop.org/p/books/blackcollar-the-judas-solution-timothy-zahn/8715420"
+				"link": "/bookshelf/book/343/"
 			}
 		]
 	},
 	{
-		"name": "TJ Brennan & Finbarr O’Reilly",
+		"name": "TJ Brennan",
 		"books": [
 			{
 				"title": "Shooting Ghosts",
-				"link": "https://www.amazon.com/gp/product/B01N1RRDMH"
+				"link": "/bookshelf/book/331/"
 			}
 		]
 	},
@@ -2465,7 +2625,7 @@
 		"books": [
 			{
 				"title": "The Death of Expertise: The Campaign Against Established Knowledge and Why It Matters",
-				"link": "https://bookshop.org/p/books/the-death-of-expertise-second-edition-the-assault-on-establishment-knowledge-and-why-it-matters-tom-nichols/20688747?ean=9780197763834"
+				"link": "/books/tom-nichols-the-death-of-expertise/"
 			}
 		]
 	},
@@ -2474,7 +2634,25 @@
 		"books": [
 			{
 				"title": "A History of the World in 6 Glasses",
-				"link": "https://bookshop.org/p/books/a-history-of-the-world-in-6-glasses-tom-standage/16634565?ean=9780802715524"
+				"link": "/bookshelf/book/441/"
+			}
+		]
+	},
+	{
+		"name": "Tom Wright",
+		"books": [
+			{
+				"title": "Billion Dollar Whale: The Man Who Fooled Wall Street, Hollywood, and the World",
+				"link": "/books/bradley-hope-tom-wright-billion-dollar-whale/"
+			}
+		]
+	},
+	{
+		"name": "Travis Sawchik",
+		"books": [
+			{
+				"title": "The MVP Machine: How Baseball's New Nonconformists Are Using Data to Build Better Players",
+				"link": "/bookshelf/book/499/"
 			}
 		]
 	},
@@ -2483,7 +2661,7 @@
 		"books": [
 			{
 				"title": "Born a Crime",
-				"link": "https://bookshop.org/books/born-a-crime-stories-from-a-south-african-childhood/9780399588198"
+				"link": "/bookshelf/book/482/"
 			}
 		]
 	},
@@ -2491,8 +2669,12 @@
 		"name": "Various Authors",
 		"books": [
 			{
+				"title": "Working Futures",
+				"link": "/bookshelf/book/351/"
+			},
+			{
 				"title": "Star Wars: From a Certain Point of View",
-				"link": "https://bookshop.org/p/books/from-a-certain-point-of-view-star-wars-meg-cabot/35b6a6d65cbee309"
+				"link": "/bookshelf/book/697/"
 			}
 		]
 	},
@@ -2501,16 +2683,16 @@
 		"books": [
 			{
 				"title": "Unit Testing Principles, Practices, and Patterns",
-				"link": "https://www.manning.com/books/unit-testing"
+				"link": "/bookshelf/book/459/"
 			}
 		]
 	},
 	{
-		"name": "Walt Bogdanich & Michael Forsythe",
+		"name": "Walt Bogdanich",
 		"books": [
 			{
 				"title": "When McKinsey Comes to Town: The Hidden Influence of the World's Most Powerful Consulting Firm",
-				"link": "https://bookshop.org/p/books/when-mckinsey-comes-to-town-the-hidden-influence-of-the-world-s-most-powerful-consulting-firm-michael-forsythe/18369941?ean=9780385546232"
+				"link": "/bookshelf/book/194/"
 			}
 		]
 	},
@@ -2519,7 +2701,7 @@
 		"books": [
 			{
 				"title": "American Whitelash: A Changing Nation and the Cost of Progress",
-				"link": "https://bookshop.org/p/books/whitelash-hope-and-horror-in-a-changing-america-wesley-lowery/17944198?ean=9780358393269"
+				"link": "/books/wesley-lowery-american-whitelash/"
 			}
 		]
 	},
@@ -2528,7 +2710,7 @@
 		"books": [
 			{
 				"title": "Just a Geek",
-				"link": "https://www.amazon.com/gp/product/0596806310"
+				"link": "/bookshelf/book/267/"
 			}
 		]
 	},
@@ -2537,7 +2719,7 @@
 		"books": [
 			{
 				"title": "Homestand: Small Town Baseball and the Fight for the Soul of America",
-				"link": "https://bookshop.org/p/books/homestand-small-town-baseball-and-the-fight-for-the-soul-of-america-will-bardenwerper/7f956b9eb45b108b"
+				"link": "/bookshelf/book/642/"
 			}
 		]
 	},
@@ -2546,7 +2728,7 @@
 		"books": [
 			{
 				"title": "The Rise and Fall of the Third Reich",
-				"link": "https://bookshop.org/p/books/the-rise-and-fall-of-the-third-reich-a-history-of-nazi-germany-william-l-shirer/15950699"
+				"link": "/bookshelf/book/263/"
 			}
 		]
 	},
@@ -2555,7 +2737,7 @@
 		"books": [
 			{
 				"title": "Why Wall Street Matters",
-				"link": "https://bookshop.org/p/books/why-wall-street-matters-william-d-cohan/11376877"
+				"link": "/bookshelf/book/344/"
 			}
 		]
 	},
@@ -2564,7 +2746,24 @@
 		"books": [
 			{
 				"title": "Homo Deus: A Brief History of Tomorrow",
-				"link": "https://bookshop.org/p/books/homo-deus-a-brief-history-of-tomorrow-yuval-noah-harari/55711"
+				"link": "/bookshelf/book/596/"
+			}
+		]
+	},
+	{
+		"name": "Zach Weinersmith",
+		"books": [
+			{
+				"title": "Open Borders",
+				"link": "/bookshelf/book/363/"
+			},
+			{
+				"title": "Soonish",
+				"link": "/bookshelf/book/329/"
+			},
+			{
+				"title": "A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?",
+				"link": "/books/kelly-zach-weinersmith-a-city-on-mars/"
 			}
 		]
 	},
@@ -2573,7 +2772,7 @@
 		"books": [
 			{
 				"title": "Number Go Up: Inside Crypto's Wild Rise and Staggering Fall",
-				"link": "https://bookshop.org/p/books/number-go-up-inside-crypto-s-wild-rise-and-staggering-fall-zeke-faux/19900961?ean=9780593443811"
+				"link": "/books/zeke-faux-number-go-up/"
 			}
 		]
 	}
