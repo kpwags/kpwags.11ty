@@ -2844,3 +2844,34 @@ section.book-notes article .content .info h2 {
 	padding: 0;
 }
 /* ---- END BOOK NOTE PAGE ---- */
+
+/* ---- AUTHORS ---- */
+.authors-read {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+
+.author-read {
+	border: 1px solid var(--border-color);
+}
+
+.author-read details summary {
+	padding: 4px 8px;
+}
+
+.author-read details ul {
+	border-top: 1px solid var(--border-color);
+	padding: 8px 12px;
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+	margin: 0;
+}
+
+.author-read details ul li {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+/* ---- END AUTHORS ---- */
