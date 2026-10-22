@@ -12,6 +12,7 @@ import { pinnedBlogPosts } from './src/collections/pinnedBlogPosts.js';
 import { allContent } from './src/collections/allContent.js';
 import { blogNotes } from './src/collections/blogNotes.js';
 import { blogPosts } from './src/collections/blogPosts.js';
+import { sitemap } from './src/collections/sitemap.js';
 
 import dateFilter from './src/filters/date-filter.js';
 import tagUrlFilter from './src/filters/tagurl-filter.js';
@@ -84,6 +85,7 @@ export default function (eleventyConfig) {
     eleventyConfig.addCollection('everythingNoPolitics', (collection) => allContent(collection, false));
     eleventyConfig.addCollection('pinnedPosts', pinnedBlogPosts);
     eleventyConfig.addCollection('tags', tags);
+    eleventyConfig.addCollection('sitemap', sitemap);
 
     eleventyConfig.addFilter('readableDate', dateFilter);
     eleventyConfig.addFilter('tagUrlSlug', tagUrlFilter);
