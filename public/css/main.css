@@ -1777,10 +1777,10 @@ section.chart h2 {
 	display: flex;
 	gap: 32px;
 	flex-direction: column;
+	align-items: center;
 }
 
 .media-grid .media-box {
-	width: 100%;
 	margin: 0;
 }
 
@@ -1903,6 +1903,18 @@ section.chart h2 {
 }
 /* ---- END PLATFORM TAGS ---- */
 
+/* ---- MOVIES PAGE ---- */
+main.movies-page h2 {
+	text-align: center;
+}
+
+@media (max-width: 700px) {
+	main.movies-page h2 {
+		text-align: left;
+	}
+}	
+/* ---- END MOVIES PAGE ---- */
+
 /* ---- VIDEO GAMES PAGE ---- */
 .video-game-page,
 .bookshelf-page {
@@ -1931,7 +1943,7 @@ section.chart h2 {
 	margin: 64px 0 0 0;
 }
 
-.albums-page .albums-grid {
+.albums-grid {
 	display: flex;
 	gap: 32px 16px;
 	flex-wrap: wrap;
@@ -1939,7 +1951,7 @@ section.chart h2 {
 	justify-content: center;
 }
 
-.albums-page .albums-grid .music-album {
+.albums-grid .music-album {
 	width: 238px;
 	text-align: center;
 	border: 3px solid var(--color-2);
@@ -1947,12 +1959,12 @@ section.chart h2 {
 	background: var(--background-shaded);
 }
 
-.albums-page .albums-grid .music-album .container {
+.albums-grid .music-album .container {
 	padding: 16px;
 	min-width: 200px;
 }
 
-.albums-page .albums-grid .music-album .meta {
+.albums-grid .music-album .meta {
 	margin-top: 8px;
 	font-size: 0.75rem;
 }
@@ -1996,6 +2008,16 @@ section.chart h2 {
 /* ---- END PODCAST PAGE ---- */
 
 /* ---- TV PAGE ---- */
+main.tv-page h2 {
+	text-align: center;
+}
+
+@media (max-width: 700px) {
+	main.tv-page h2 {
+		text-align: left;
+	}
+}	
+
 .tv-in-progress {
 	display: flex;
 	flex-wrap: wrap;
