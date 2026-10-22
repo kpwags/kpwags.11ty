@@ -5,102 +5,108 @@ title: "What I'm Up To"
 
 <h1>What I'm Up To</h1>
 
-<section class="media-section">
-	<h2>Currently Reading</h2>
-
-	<div class="grid">
-		{% for book in books.inProgress %}
-		{% bookListing book true false %}
-		{% endfor %}
-	</div>
-</section>
-
-<section class="media-section">
-	<h2>Currently Watching</h2>
-
-	<div class="grid">
-		{% for show in tv.inProgress %}
-		{% tvListing show true false %}
-		{% endfor %}
-	</div>
-</section>
-
-<section class="media-section">
-	<h2>Currently Playing</h2>
-
-	<div class="grid">
-		{% for game in videoGames.inProgress %}
-		{% videoGameListing game false %}
-		{% endfor %}
-	</div>
-</section>
-
-{% if now.music.length > 0 %}
+<div class="media-page">
 	<section class="media-section">
-		<h2>Currently Listening To</h2>
+		<h2>Currently Reading</h2>
 
-		<div class="grid music">
-			{% for music in now.music %}
-			{% musicListing music %}
+		<div class="grid reading-grid">
+			{% for book in books.inProgress %}
+			{% bookListing book true false %}
 			{% endfor %}
 		</div>
 	</section>
-{% endif %}
 
-{% if recentMusic.length > 0 %}
 	<section class="media-section">
-		<h2>Recently Purchased Music</h2>
+		<h2>Currently Watching</h2>
 
-		<div class="grid music">
-			{% for music in recentMusic %}
-			{% musicListing music %}
+		<div class="grid">
+			{% for show in tv.inProgress %}
+			{% tvListing show true false %}
 			{% endfor %}
 		</div>
 	</section>
-{% endif %}
 
-{% if recentMovies.length > 0 %}
 	<section class="media-section">
-		<h2>Recent Movies</h2>
+		<h2>Currently Playing</h2>
 
-		{% for movie in recentMovies %}
-		<div class="recent-movie">
-			<div class="cover">
-				<img src="{{ movie.posterImageUrl }}" alt="{{ movie.title }}" height="300" width="200" />
-			</div>
-			<div class="info">
-				<h3>{{ movie.title }}</h3>
-				{% starRating movie.rating %}
-				<div class="meta">{{ movie.dateWatched | readableDate }}</div>
-				<div class="thoughts">{{ movie.thoughts }}</div>
-			</div>
+		<div class="grid">
+			{% for game in videoGames.inProgress %}
+			{% videoGameListing game false %}
+			{% endfor %}
 		</div>
-		{% endfor %}
 	</section>
-{% endif %}
 
-{% if coffee.length > 0 %}
-	<section class="media-section coffee">
-		<h2>Recent Coffee</h2>
+	{% if now.music.length > 0 %}
+		<section class="media-section">
+			<h2>Currently Listening To</h2>
 
-		{% for brew in coffee %}
-			<div class="brew">
-				{% if brew.link.length > 0 %}
-					<h3><a href="{{ brew.link }}">{{ brew.blend }}</a></h3>
-				{% else %}
-					<h3>{{ brew.blend }}</h3>
-				{% endif %}
+			<section class="albums-grid">
+				{% for music in now.music %}
+				{% musicListing music %}
+				{% endfor %}
+			</section>
+		</section>
+	{% endif %}
 
-				<div class="details">
-					<span class="roaster" title="Roaster">{{ brew.roaster }}</span>
-					<span>&bull;</span>
-					<span title="Roaster Location">{{ brew.location }}</span>
-					<span>&bull;</span>
-					<span title="Roast Type">{{ brew.roast }}</span>
-					<span>&bull;</span>
-					<span title="Date">{{ brew.date | readableDate }}</span>
+	{% if recentMusic.length > 0 %}
+		<section class="media-section">
+			<h2>Recently Purchased Music</h2>
+
+			<section class="albums-grid">
+				{% for music in recentMusic %}
+				{% musicListing music %}
+				{% endfor %}
+			</section>
+		</section>
+	{% endif %}
+
+	{% if recentMovies.length > 0 %}
+		<section class="media-section">
+			<h2>Recent Movies</h2>
+
+			<div class="media-grid">
+				{% for film in recentMovies %}
+				<div class="media-box">
+					<div class="container">
+						<img src="{{ film.posterImageUrl }}" alt="{{ film.title }}" width="200" height="300" />
+						<div class="details">
+							<div class="title-section">
+								<div class="title"><a href="{{ film.imdbLink }}">{{ film.title }}</a></div>
+							</div>
+							<div class="date">{{ film.dateWatched | readableDate }}</div>
+							{% starRating film.rating %}
+							<p>{{ film.thoughts }}</p>
+						</div>
+					</div>
 				</div>
+				{% endfor %}
 			</div>
-		{% endfor %}
-	</section>
-{% endif %}
+		</section>
+	{% endif %}
+
+	{% if coffee.length > 0 %}
+		<section class="media-section coffee">
+			<h2>Recent Coffee</h2>
+
+			{% for brew in coffee %}
+				<div class="brew">
+					{% if brew.link.length > 0 %}
+						<h3><a href="{{ brew.link }}">{{ brew.blend }}</a></h3>
+					{% else %}
+						<h3>{{ brew.blend }}</h3>
+					{% endif %}
+
+					<div class="details">
+						<span class="roaster" title="Roaster">{{ brew.roaster }}</span>
+						<span>&bull;</span>
+						<span title="Roaster Location">{{ brew.location }}</span>
+						<span>&bull;</span>
+						<span title="Roast Type">{{ brew.roast }}</span>
+						<span>&bull;</span>
+						<span title="Date">{{ brew.date | readableDate }}</span>
+					</div>
+				</div>
+			{% endfor %}
+		</section>
+	{% endif %}
+</div>
