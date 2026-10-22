@@ -37,12 +37,28 @@ export const allContent = async (collection, includePolitics = true) => {
 
 	const links = await getLinks();
 
+	const linkData = [];
+
+	links.forEach((link) => {
+		linkData.push({
+			url: link.url,
+			data: {
+				title: link.title,
+				tags: [],
+				spoilers: false,
+			},
+			date: new Date(link.linkDate),
+			templateContent: `<p><a href="${link.url}">${link.title}</a> by ${link.author}</p>`,
+		})
+	});
+
 	return [
 		...posts,
 		...readingLogPosts,
 		...books,
 		...notes,
 		...weekNotePosts,
+		...linkData,
 	].sort((a, b) => {
 		if (a.date > b.date) {
 			return 1;
