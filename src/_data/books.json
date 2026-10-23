@@ -1,24 +1,24 @@
 {
 	"inProgress": [
 		{
-			"bookId": 752,
-			"title": "The Remaking",
+			"bookId": 575,
+			"title": "Seveneves",
 			"subTitle": "",
-			"fullTitle": "The Remaking",
-			"author": "Clay McLeod Chapman",
-			"link": "https://bookshop.org/p/books/the-remaking-clay-mcleod-chapman/ffc4d3d50aa0aa77",
-			"dateStarted": "2026-10-16T00:00:00.000Z",
+			"fullTitle": "Seveneves",
+			"author": "Neal Stephenson",
+			"link": "https://bookshop.org/p/books/seveneves-neal-stephenson/6434392",
+			"dateStarted": "2026-10-18T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/JzkKGwv6/chapman-the-remaking.jpg",
+			"coverImageUrl": "https://i.postimg.cc/tJfr195R/stephenson-seveneves.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 92,
-			"pageCount": 295,
-			"progress": 31,
-			"sortOrder": 12,
+			"currentPage": 229,
+			"pageCount": 861,
+			"progress": 27,
+			"sortOrder": 20,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
@@ -30,8 +30,8 @@
 			"series": null,
 			"genres": [
 				{
-					"name": "Horror",
-					"colorCode": "rgb(146, 4, 4)"
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
 				}
 			],
 			"formats": [
@@ -47,6 +47,47 @@
 			"year": 2026,
 			"books": [
 				{
+					"bookId": 752,
+					"title": "The Remaking",
+					"subTitle": "",
+					"fullTitle": "The Remaking",
+					"author": "Clay McLeod Chapman",
+					"link": "https://bookshop.org/p/books/the-remaking-clay-mcleod-chapman/ffc4d3d50aa0aa77",
+					"dateStarted": "2026-10-16T00:00:00.000Z",
+					"dateCompleted": "2026-10-18T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "This was an enjoyable spooky tale with some twists. It was a good October read and not too long of a read.",
+					"coverImageUrl": "https://i.postimg.cc/JzkKGwv6/chapman-the-remaking.jpg",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 295,
+					"pageCount": 295,
+					"progress": 100,
+					"sortOrder": 12,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Horror",
+							"colorCode": "rgb(146, 4, 4)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Paperback",
+							"colorCode": "#cd6a29"
+						}
+					]
+				},
+				{
 					"bookId": 699,
 					"title": "Green & Deadly Things",
 					"subTitle": "",
@@ -56,7 +97,7 @@
 					"dateStarted": "2026-10-07T00:00:00.000Z",
 					"dateCompleted": "2026-10-15T00:00:00.000Z",
 					"rating": 3,
-					"bookNotesUrl": "",
+					"bookNotesUrl": "jenn-lyons-green-deadly-things",
 					"thoughts": "A fun fantasy story that delved into romantasy a little, but still was enjoyable.",
 					"coverImageUrl": "https://i.postimg.cc/Hk9Wzygz/green-deadly-things.jpg",
 					"isAtLibrary": false,
@@ -17072,47 +17113,6 @@
 				{
 					"name": "Hardcover",
 					"colorCode": "#a0175f"
-				}
-			]
-		},
-		{
-			"bookId": 575,
-			"title": "Seveneves",
-			"subTitle": "",
-			"fullTitle": "Seveneves",
-			"author": "Neal Stephenson",
-			"link": "https://bookshop.org/p/books/seveneves-neal-stephenson/6434392",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/tJfr195R/stephenson-seveneves.jpg",
-			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 1,
-			"pageCount": 861,
-			"progress": 0,
-			"sortOrder": 20,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": null,
-			"genres": [
-				{
-					"name": "Science Fiction",
-					"colorCode": "rgb(102, 119, 2)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Paperback",
-					"colorCode": "#cd6a29"
 				}
 			]
 		},
