@@ -1,5 +1,50 @@
 [
 	{
+		"linkId": 1888,
+		"title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+		"author": "Jon Brodkin",
+		"url": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+		"linkDate": "2026-10-26T00:00:00.000Z",
+		"category": {
+			"name": "Politics",
+			"colorCode": "#8b642f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1889,
+		"title": "Arc-like automatic picture-in-picture in Chromium",
+		"author": "Dave Rupert",
+		"url": "https://daverupert.com/2026/10/arc-like-automatic-picture-in-picture-in-chromium/",
+		"linkDate": "2026-10-26T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1887,
+		"title": "CSS-Tricks Has a New Owner",
+		"author": "Geoff Graham",
+		"url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+		"linkDate": "2026-10-26T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1880,
 		"title": "All My Hobbies Are Getting Slopped Up, And It’s Exhausting",
 		"author": "Chris Person",
@@ -57,6 +102,51 @@
 		"type": {
 			"name": "Podcast",
 			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1884,
+		"title": "The Fall of Scientific American",
+		"author": "Emett Fraizer",
+		"url": "https://www.thenation.com/article/society/scientific-american-springer-nature-trump/",
+		"linkDate": "2026-10-25T00:00:00.000Z",
+		"category": {
+			"name": "Journalism",
+			"colorCode": "#131519"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1885,
+		"title": "The AI industry’s gigantic debts are making investors nervous",
+		"author": "The Economist",
+		"url": "https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous",
+		"linkDate": "2026-10-25T00:00:00.000Z",
+		"category": {
+			"name": "Business & Finance",
+			"colorCode": "#0d5430"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1886,
+		"title": "Do web components have a future if nobody is writing them?",
+		"author": "Nolan Lawson",
+		"url": "https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them/",
+		"linkDate": "2026-10-25T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
 		}
 	},
 	{
