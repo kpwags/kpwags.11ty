@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1893,
+		"title": "Marissa Mayer Can’t Keep Pretending 'Gender Doesn't Matter'",
+		"author": "Samantha Cole",
+		"url": "https://www.404media.co/marissa-mayer-nyt-interview/",
+		"linkDate": "2026-10-28T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1890,
 		"title": "Why I don't use generative AI",
 		"author": "Travis Jeans",
@@ -8,6 +23,36 @@
 		"category": {
 			"name": "AI",
 			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1891,
+		"title": "Recursion is DEAD and HTML killed it",
+		"author": "Dave Rupert",
+		"url": "https://daverupert.com/2026/10/html-recursion/",
+		"linkDate": "2026-10-27T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1892,
+		"title": "Limit the number of details",
+		"author": "Geoff Teehan",
+		"url": "https://design.lightspark.com/limit-the-number-of-details",
+		"linkDate": "2026-10-27T00:00:00.000Z",
+		"category": {
+			"name": "Design",
+			"colorCode": "#0b545e"
 		},
 		"type": {
 			"name": "Link",
