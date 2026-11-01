@@ -1,5 +1,545 @@
 [
 	{
+		"linkId": 1896,
+		"title": "If we stop, we lose",
+		"author": "Andy Bell",
+		"url": "https://piccalil.li/blog/if-we-stop-we-lose/",
+		"linkDate": "2026-11-01T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1894,
+		"title": "A Midterm Night’s Dream",
+		"author": "Ctrl-Alt-Speech",
+		"url": "https://podcast.ctrlaltspeech.com/2315966/episodes/20044497-a-midterm-night-s-dream",
+		"linkDate": "2026-10-30T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1895,
+		"title": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+		"author": "Joseph Cox",
+		"url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+		"linkDate": "2026-10-30T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1893,
+		"title": "Marissa Mayer Can’t Keep Pretending 'Gender Doesn't Matter'",
+		"author": "Samantha Cole",
+		"url": "https://www.404media.co/marissa-mayer-nyt-interview/",
+		"linkDate": "2026-10-28T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1890,
+		"title": "Why I don't use generative AI",
+		"author": "Travis Jeans",
+		"url": "https://futurehorizondesign.net.au/posts/2026-10-25-Why-I-Don-t-Use-Generative-AI.html",
+		"linkDate": "2026-10-27T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1891,
+		"title": "Recursion is DEAD and HTML killed it",
+		"author": "Dave Rupert",
+		"url": "https://daverupert.com/2026/10/html-recursion/",
+		"linkDate": "2026-10-27T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1892,
+		"title": "Limit the number of details",
+		"author": "Geoff Teehan",
+		"url": "https://design.lightspark.com/limit-the-number-of-details",
+		"linkDate": "2026-10-27T00:00:00.000Z",
+		"category": {
+			"name": "Design",
+			"colorCode": "#0b545e"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1888,
+		"title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+		"author": "Jon Brodkin",
+		"url": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+		"linkDate": "2026-10-26T00:00:00.000Z",
+		"category": {
+			"name": "Politics",
+			"colorCode": "#8b642f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1889,
+		"title": "Arc-like automatic picture-in-picture in Chromium",
+		"author": "Dave Rupert",
+		"url": "https://daverupert.com/2026/10/arc-like-automatic-picture-in-picture-in-chromium/",
+		"linkDate": "2026-10-26T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1887,
+		"title": "CSS-Tricks Has a New Owner",
+		"author": "Geoff Graham",
+		"url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+		"linkDate": "2026-10-26T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1880,
+		"title": "All My Hobbies Are Getting Slopped Up, And It’s Exhausting",
+		"author": "Chris Person",
+		"url": "https://aftermath.site/ai-slop-hobbies-in-software-emulation/",
+		"linkDate": "2026-10-25T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1881,
+		"title": "Stop Omarchy",
+		"author": "Brennan Kenneth Brown",
+		"url": "https://stopomarchy.org/",
+		"linkDate": "2026-10-25T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1882,
+		"title": "PBS Firing Line with Margaret Hoover: Anne Applebaum",
+		"author": "PBS Firing Line with Margaret Hoover",
+		"url": "https://www.youtube.com/watch?v=4okBq3W_E-o",
+		"linkDate": "2026-10-25T00:00:00.000Z",
+		"category": {
+			"name": "Politics",
+			"colorCode": "#8b642f"
+		},
+		"type": {
+			"name": "Video",
+			"colorCode": "#a53621"
+		}
+	},
+	{
+		"linkId": 1883,
+		"title": "'I regret that I didn't fight harder,' former labor secretary Robert Reich says",
+		"author": "Fresh Air",
+		"url": "https://www.npr.org/2025/08/21/nx-s1-5507068/i-regret-that-i-didnt-fight-harder-former-labor-secretary-robert-reich-says",
+		"linkDate": "2026-10-25T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1884,
+		"title": "The Fall of Scientific American",
+		"author": "Emett Fraizer",
+		"url": "https://www.thenation.com/article/society/scientific-american-springer-nature-trump/",
+		"linkDate": "2026-10-25T00:00:00.000Z",
+		"category": {
+			"name": "Journalism",
+			"colorCode": "#131519"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1885,
+		"title": "The AI industry’s gigantic debts are making investors nervous",
+		"author": "The Economist",
+		"url": "https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous",
+		"linkDate": "2026-10-25T00:00:00.000Z",
+		"category": {
+			"name": "Business & Finance",
+			"colorCode": "#0d5430"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1886,
+		"title": "Do web components have a future if nobody is writing them?",
+		"author": "Nolan Lawson",
+		"url": "https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them/",
+		"linkDate": "2026-10-25T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1875,
+		"title": "New Things You Should Know About HTML Here in Mid 2026",
+		"author": "Chris Coyier",
+		"url": "https://blog.master.dev/new-things-you-should-know-about-html-here-in-mid-2026/",
+		"linkDate": "2026-10-22T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1876,
+		"title": "Stuck at the Intersection of Politics and Technology",
+		"author": "Eric Schwarz",
+		"url": "https://schwarztech.net/articles/stuck-at-the-intersection-of-politics-and-technology",
+		"linkDate": "2026-10-22T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1877,
+		"title": "Notes on Software Quality",
+		"author": "Anthony Hobday",
+		"url": "https://anthonyhobday.com/blog/20260410",
+		"linkDate": "2026-10-22T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1878,
+		"title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+		"author": "Decoder",
+		"url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+		"linkDate": "2026-10-22T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1879,
+		"title": "Hieu",
+		"author": "Darknet Diaries",
+		"url": "https://darknetdiaries.com/episode/162/",
+		"linkDate": "2026-10-22T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1872,
+		"title": "Why I Resist Generative “AI”",
+		"author": "Esther Weidauer",
+		"url": "https://estherweidauer.com/articles/why-resist-generative-ai.html",
+		"linkDate": "2026-10-21T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1873,
+		"title": "Native HTML and CSS Features That Replaced JavaScript",
+		"author": "Ronalds Vilciņš",
+		"url": "https://ronaldsvilcins.com/2026/08/30/native-html-and-css-features-that-replaced-javascript/",
+		"linkDate": "2026-10-21T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1874,
+		"title": "‘Reverse-Engineer Anything’ Is the New Wild West of AI",
+		"author": "Jason Koebler",
+		"url": "https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/",
+		"linkDate": "2026-10-21T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1870,
+		"title": "Why Oracle's debt load could be your problem",
+		"author": "The Indicator",
+		"url": "https://www.npr.org/2026/10/19/nx-s1-6005514/why-oracles-debt-load-could-be-your-problem",
+		"linkDate": "2026-10-20T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1871,
+		"title": "The best dark mode toggle is probably none",
+		"author": "Lea Verou",
+		"url": "https://lea.verou.me/blog/2026/dark-mode-toggles-2/",
+		"linkDate": "2026-10-20T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1864,
+		"title": "Fit height to background pattern size with calc-size()",
+		"author": "Ahmad Shadeed",
+		"url": "https://ishadeed.com/article/fit-height-background-pattern-calc-size/",
+		"linkDate": "2026-10-19T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1865,
+		"title": "The asteroid currently hitting frontend web development",
+		"author": "Nolan Lawson",
+		"url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+		"linkDate": "2026-10-19T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1866,
+		"title": "HTML Can Do That",
+		"author": "Chris Burnell",
+		"url": "https://chrisburnell.com/html-can-do-that/",
+		"linkDate": "2026-10-19T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1867,
+		"title": "Ruminations on notifications",
+		"author": "David Bushell",
+		"url": "https://dbushell.com/2026/08/20/ruminations-on-notifications/",
+		"linkDate": "2026-10-19T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1868,
+		"title": "The Future of CSS: Target Multiple Classes with the Class Prefix Selector",
+		"author": "Bramus",
+		"url": "https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/",
+		"linkDate": "2026-10-19T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1869,
+		"title": "rogramming As A Hobby In The Age Of AI",
+		"author": "Ben Nadel",
+		"url": "https://www.bennadel.com/blog/4908-programming-as-a-hobby-in-the-age-of-ai.htm",
+		"linkDate": "2026-10-19T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1861,
+		"title": "The real villain in 'You Can See Everything' isn't Elizabeth Holmes",
+		"author": "Drew Magary",
+		"url": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php",
+		"linkDate": "2026-10-16T00:00:00.000Z",
+		"category": {
+			"name": "Media & Entertainment",
+			"colorCode": "#7949a8"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1862,
+		"title": "Dark Forestry",
+		"author": "Henry Desroches",
+		"url": "https://henry.codes/writing/dark-forestry/",
+		"linkDate": "2026-10-16T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1863,
+		"title": "A look at the geolocation HTML element and how it works",
+		"author": "Daniel Schwarz",
+		"url": "https://piccalil.li/blog/a-look-at-the-geolocation-html-element-and-how-it-works/",
+		"linkDate": "2026-10-16T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1860,
 		"title": "Someone ‘Torturing’ LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
 		"author": "Jason Koebler",

@@ -544,6 +544,10 @@
 			{
 				"title": "What Kind of Mother",
 				"link": "/bookshelf/book/734/"
+			},
+			{
+				"title": "The Remaking",
+				"link": "/bookshelf/book/752/"
 			}
 		]
 	},
@@ -1581,16 +1585,7 @@
 		]
 	},
 	{
-		"name": "Kelly Link",
-		"books": [
-			{
-				"title": "Stranger Things Happen",
-				"link": "/bookshelf/book/298/"
-			}
-		]
-	},
-	{
-		"name": "Kelly Weinersmith",
+		"name": "Kelly",
 		"books": [
 			{
 				"title": "Soonish",
@@ -1599,6 +1594,15 @@
 			{
 				"title": "A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?",
 				"link": "/books/kelly-zach-weinersmith-a-city-on-mars/"
+			}
+		]
+	},
+	{
+		"name": "Kelly Link",
+		"books": [
+			{
+				"title": "Stranger Things Happen",
+				"link": "/bookshelf/book/298/"
 			}
 		]
 	},
