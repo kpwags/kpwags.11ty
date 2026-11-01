@@ -1,5 +1,50 @@
 [
 	{
+		"linkId": 1896,
+		"title": "If we stop, we lose",
+		"author": "Andy Bell",
+		"url": "https://piccalil.li/blog/if-we-stop-we-lose/",
+		"linkDate": "2026-11-01T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1894,
+		"title": "A Midterm Night’s Dream",
+		"author": "Ctrl-Alt-Speech",
+		"url": "https://podcast.ctrlaltspeech.com/2315966/episodes/20044497-a-midterm-night-s-dream",
+		"linkDate": "2026-10-30T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1895,
+		"title": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+		"author": "Joseph Cox",
+		"url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+		"linkDate": "2026-10-30T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1893,
 		"title": "Marissa Mayer Can’t Keep Pretending 'Gender Doesn't Matter'",
 		"author": "Samantha Cole",
