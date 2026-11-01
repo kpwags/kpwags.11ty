@@ -1,6 +1,38 @@
 {
 	"inProgress": [
 		{
+			"televisionShowId": 110,
+			"title": "Abbott Elementary",
+			"imdbLink": "https://www.imdb.com/title/tt14218830/",
+			"rating": 0,
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/XNymgqnL/abbott-elementary.jpg",
+			"seasonEpisodeCount": 115,
+			"currentSeasonEpisode": 94,
+			"progress": 82,
+			"sortOrder": null,
+			"status": {
+				"name": "Watching",
+				"colorCode": "#005c78"
+			},
+			"genres": [
+				{
+					"name": "Comedy",
+					"colorCode": "#a60483"
+				}
+			],
+			"services": [
+				{
+					"name": "Disney+",
+					"colorCode": "#df00de"
+				},
+				{
+					"name": "Hulu",
+					"colorCode": "#1cb153"
+				}
+			]
+		},
+		{
 			"televisionShowId": 44,
 			"title": "Anthony Bourdain: Parts Unknown",
 			"imdbLink": "https://www.imdb.com/title/tt2845786/",
@@ -25,34 +57,6 @@
 				{
 					"name": "HBO",
 					"colorCode": "#6a4bc9"
-				}
-			]
-		},
-		{
-			"televisionShowId": 75,
-			"title": "Arrested Development",
-			"imdbLink": "https://www.imdb.com/title/tt0367279/",
-			"rating": 0,
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/0jMNymgG/arrested-development.webp",
-			"seasonEpisodeCount": 84,
-			"currentSeasonEpisode": 75,
-			"progress": 89,
-			"sortOrder": 4,
-			"status": {
-				"name": "Watching",
-				"colorCode": "#005c78"
-			},
-			"genres": [
-				{
-					"name": "Comedy",
-					"colorCode": "#a60483"
-				}
-			],
-			"services": [
-				{
-					"name": "Netflix",
-					"colorCode": "#c71212"
 				}
 			]
 		},
@@ -86,38 +90,6 @@
 		}
 	],
 	"betweenSeasons": [
-		{
-			"televisionShowId": 110,
-			"title": "Abbott Elementary",
-			"imdbLink": "https://www.imdb.com/title/tt14218830/",
-			"rating": 0,
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/XNymgqnL/abbott-elementary.jpg",
-			"seasonEpisodeCount": 93,
-			"currentSeasonEpisode": 84,
-			"progress": 90,
-			"sortOrder": null,
-			"status": {
-				"name": "In Between Seasons",
-				"colorCode": "#901960"
-			},
-			"genres": [
-				{
-					"name": "Comedy",
-					"colorCode": "#a60483"
-				}
-			],
-			"services": [
-				{
-					"name": "Disney+",
-					"colorCode": "#df00de"
-				},
-				{
-					"name": "Hulu",
-					"colorCode": "#1cb153"
-				}
-			]
-		},
 		{
 			"televisionShowId": 103,
 			"title": "Elsbeth",
@@ -475,6 +447,34 @@
 				{
 					"name": "Disney+",
 					"colorCode": "#df00de"
+				}
+			]
+		},
+		{
+			"televisionShowId": 75,
+			"title": "Arrested Development",
+			"imdbLink": "https://www.imdb.com/title/tt0367279/",
+			"rating": 4,
+			"thoughts": "I really enjoyed this show. The characters were hilarious and I now get a lot more of some of the memes going around. Seasons 1-3 were definitely its peak, but 4 and 5 weren't bad.",
+			"coverImageUrl": "https://i.postimg.cc/0jMNymgG/arrested-development.webp",
+			"seasonEpisodeCount": 84,
+			"currentSeasonEpisode": 84,
+			"progress": 100,
+			"sortOrder": 4,
+			"status": {
+				"name": "Watched",
+				"colorCode": "#343aa8"
+			},
+			"genres": [
+				{
+					"name": "Comedy",
+					"colorCode": "#a60483"
+				}
+			],
+			"services": [
+				{
+					"name": "Netflix",
+					"colorCode": "#c71212"
 				}
 			]
 		},

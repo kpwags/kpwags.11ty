@@ -2736,6 +2736,74 @@
 		]
 	},
 	{
+		"musicAlbumId": 310,
+		"title": "Not Bad for New Jersey",
+		"artist": "Brian Fallon",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/G2fBbhC6/brian-fallon-not-bad-for-new-jersey.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": "Thu, 10 Sep 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Vinyl",
+				"colorCode": "#a51643"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Not Bad for New Jersey"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Better Before"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Pearls"
+			},
+			{
+				"trackNumber": 4,
+				"title": "The Big Sleep (feat. Donovan Woods)"
+			},
+			{
+				"trackNumber": 5,
+				"title": "On Good Terms (feat. Lori McKenna)"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Nobody Likes You in NYC"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Love at the End of the World (feat. Brandon Flowers)"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Somewhere You Shouldn't Be (feat. Phil Collen)"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Fading on Me"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Walkin' Through the Garden"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Wolf by the River (feat. Marc Ribot)"
+			}
+		]
+	},
+	{
 		"musicAlbumId": 156,
 		"title": "Painkillers",
 		"artist": "Brian Fallon",
@@ -17672,6 +17740,82 @@
 			{
 				"trackNumber": 13,
 				"title": "Where's Gerroid"
+			}
+		]
+	},
+	{
+		"musicAlbumId": 311,
+		"title": "lovehatetragedy",
+		"artist": "Papa Roach",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/cLj4KkjQ/papa-roach-lovehatetragedy.jpg",
+		"isTopTen": false,
+		"showOnNowPage": false,
+		"datePurchased": null,
+		"genres": [
+			{
+				"name": "Nu Metal",
+				"colorCode": "rgb(16, 2, 55)"
+			}
+		],
+		"formats": [
+			{
+				"name": "CD",
+				"colorCode": "#106869"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "M-80 (Explosive Energy Movement)"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Life is a Bullet"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Time and Time Again"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Walking Thru Barbed Wire"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Decompression Period"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Born with Nothing, Die with Everything"
+			},
+			{
+				"trackNumber": 7,
+				"title": "She Loves Me Not"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Singular Indestructible Droid"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Black Clouds"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Code of Energy"
+			},
+			{
+				"trackNumber": 11,
+				"title": "Lovehatetragedy"
+			},
+			{
+				"trackNumber": 12,
+				"title": "Gouge Away"
+			},
+			{
+				"trackNumber": 13,
+				"title": "Never Said It"
 			}
 		]
 	},

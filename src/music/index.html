@@ -11,9 +11,11 @@ title: Music Collection
 	<music-filters></music-filters>
 	{% endrenderTemplate %}
 
-	<section class="albums-grid">
-		{% for album in music %}
-			{% musicListing album %}
-		{% endfor %}
-	</section>
+	<div>
+		<section class="albums-grid">
+			{% for album in music %}
+				{% musicListing album %}
+			{% endfor %}
+		</section>
+	</div>
 </div>
