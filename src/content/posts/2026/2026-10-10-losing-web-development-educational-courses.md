@@ -35,9 +35,9 @@ That's where so much of the human side has to come in. The makers of the courses
 The fear now, and the beginnings of what we're seeing, would see those authors leave the business of creating new courses, new books, and new tutorials with them no longer able to earn a living by doing so. As painful and unfortunate as it might be to look at things from the view of the almighty dollar, at the end of the day we live in a capitalistic society, and capitalism doesn't care whether you live or die. People have got to eat and afford life's necessities. I can't fault them for taking a sabbatical or rethinking how they spend their time and effort.
 
 {% renderTemplate "webc" %}
-<quote-block source="Julie Yack" href="https://julieyack.com/2026/08/10/we-gave-ai-the-work-people-used-to-learn-from/">
+<cited-quote source="Julie Yack" href="https://julieyack.com/2026/08/10/we-gave-ai-the-work-people-used-to-learn-from/">
 Which experiences taught someone to recognize the difference between an answer that works and an answer that’s right for the situation? And which parts were just grunt work we can happily never ask another human to do again?
-</quote-block>
+</cited-quote>
 {% endrenderTemplate %}
 
 I've been developing for the web for 20 years now, and if there's one constant, it's that things are always changing. CSS and JavaScript are always adding new methods and properties. There's always some new way to do something that people have been clamoring for for ages. There's always ways to improve how to build websites and web applications. I've found that courses, books, and tutorials have been incredibly helpful to gain an understanding of how to use the new tools and functionality.

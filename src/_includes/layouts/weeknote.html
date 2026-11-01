@@ -18,21 +18,20 @@
 	{% include "header.html" %}
 
 	<main>
-		<article class="post week-note">
-			<div class="content">
-				{% postTitle title dateString %}
+		<article class="week-note">
+			{% postTitle title %}
 
-				<div class="body">
-					{{ content }}
-				</div>
-
-				<hr />
-
-				<div class="footer">
-					{% tagList tags %}
-					{% replyLinks title %}
-				</div>
+			<div class="metadata">
+				<div>{{ dateString }}</div>
 			</div>
+
+			{% tagList tags %}
+
+			<div class="content post-content">{{ content }}</div>
+
+			{% replyLinks title %}
+
+			{% nextPreviousLinks "week-note" previous next %}
 		</article>
 	</main>
 

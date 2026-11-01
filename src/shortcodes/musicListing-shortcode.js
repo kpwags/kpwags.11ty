@@ -1,6 +1,6 @@
 const musicListingShortcode = (album) => `
 <div
-	class="item"
+	class="music-album"
 	data-albumid="${album.musicAlbumId}"
 	data-topten="${album.isTopTen}"
 	data-format="${album.formats
@@ -13,14 +13,16 @@ const musicListingShortcode = (album) => `
 		.toLowerCase()}"
 	data-album="${encodeURIComponent(JSON.stringify(album))}"
 >
-	<div class="cover">
-		<img src="${album.coverImageUrl}" alt="${album.title} by ${album.artist}" width="200" height="200" />
-	</div>
-	<div class="info">
-		<div class="title">
-			<button type="button" class="btn-link" data-id="${album.musicAlbumId}">${album.title}</button>
+	<div class="container">
+		<div class="cover">
+			<img src="${album.coverImageUrl}" alt="${album.title} by ${album.artist}" width="200" height="200" />
 		</div>
-		<div class="meta">${album.artist}</div>
+		<div class="info">
+			<div class="title">
+				<a href="/music/album/${album.musicAlbumId}/">${album.title}</a>
+			</div>
+			<div class="meta">${album.artist}</div>
+		</div>
 	</div>
 </div>
 `;

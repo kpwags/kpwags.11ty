@@ -12,6 +12,7 @@ import { pinnedBlogPosts } from './src/collections/pinnedBlogPosts.js';
 import { allContent } from './src/collections/allContent.js';
 import { blogNotes } from './src/collections/blogNotes.js';
 import { blogPosts } from './src/collections/blogPosts.js';
+import { sitemap } from './src/collections/sitemap.js';
 
 import dateFilter from './src/filters/date-filter.js';
 import tagUrlFilter from './src/filters/tagurl-filter.js';
@@ -27,14 +28,14 @@ import { rssClub } from './src/filters/rssClub-filter.js';
 import { tagFilter } from './src/filters/tagFilter-filter.js';
 import { rssPostTitle } from './src/filters/rssPostTitle-filter.js';
 
-import inDepthShortcode from './src/shortcodes/inDepth-shortcode.js';
+import { sharedLink } from './src/shortcodes/sharedLink-shortcode.js';
 import youTubeShortcode from './src/shortcodes/youTube-shortcode.js';
 import starRatingShortcode from './src/shortcodes/starRating-shortcode.js';
 import tagListShortcode from './src/shortcodes/tagList-shortcode.js';
 import movieListingShortcode from './src/shortcodes/movieListing-shortcode.js';
 import tvListingShortcode from './src/shortcodes/tvListing-shortcode.js';
 import musicListingShortcode from './src/shortcodes/musicListing-shortcode.js';
-import videoGameListingShortcode from './src/shortcodes/videoGameListing-shortcode.js';
+import { videoGameListing } from './src/shortcodes/videoGameListing-shortcode.js';
 import bookListingShortcode from './src/shortcodes/bookListing-shortcode.js';
 import progressBarShortcode from './src/shortcodes/progressBar-shortcode.js';
 import bookNoteShortcode from './src/shortcodes/bookNote-shortcode.js';
@@ -42,6 +43,9 @@ import noteListingShortcode from './src/shortcodes/noteListing-shortcode.js';
 import replyLinksShortcode from './src/shortcodes/replyLinks-shortcode.js';
 import postTitleShortcode from './src/shortcodes/postTitle-shortcode.js';
 import concertShortcode from './src/shortcodes/concert-shortcode.js';
+import { nextPreviousLinks } from './src/shortcodes/nextPreviousLinks-shortcode.js';
+import { progressLinks } from './src/shortcodes/progressLinks-shortcode.js';
+import { platformTag } from './src/shortcodes/platformTag-shortcode.js';
 
 export default function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy({
@@ -81,6 +85,7 @@ export default function (eleventyConfig) {
     eleventyConfig.addCollection('everythingNoPolitics', (collection) => allContent(collection, false));
     eleventyConfig.addCollection('pinnedPosts', pinnedBlogPosts);
     eleventyConfig.addCollection('tags', tags);
+    eleventyConfig.addCollection('sitemap', sitemap);
 
     eleventyConfig.addFilter('readableDate', dateFilter);
     eleventyConfig.addFilter('tagUrlSlug', tagUrlFilter);
@@ -102,14 +107,13 @@ export default function (eleventyConfig) {
     eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
     eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);
 
-    eleventyConfig.addPairedShortcode('inDepth', inDepthShortcode);
     eleventyConfig.addShortcode('youTubeEmbed', youTubeShortcode);
     eleventyConfig.addShortcode('starRating', starRatingShortcode);
     eleventyConfig.addShortcode('tagList', tagListShortcode);
     eleventyConfig.addShortcode('movieListing', movieListingShortcode);
     eleventyConfig.addShortcode('tvListing', tvListingShortcode);
     eleventyConfig.addShortcode('musicListing', musicListingShortcode);
-    eleventyConfig.addShortcode('videoGameListing', videoGameListingShortcode);
+    eleventyConfig.addShortcode('videoGameListing', videoGameListing);
     eleventyConfig.addShortcode('bookListing', bookListingShortcode);
     eleventyConfig.addShortcode('progressBar', progressBarShortcode);
     eleventyConfig.addShortcode('bookNote', bookNoteShortcode);
@@ -117,6 +121,11 @@ export default function (eleventyConfig) {
     eleventyConfig.addShortcode('replyLinks', replyLinksShortcode);
     eleventyConfig.addShortcode('postTitle', postTitleShortcode);
     eleventyConfig.addShortcode('concert', concertShortcode);
+    eleventyConfig.addShortcode('nextPreviousLinks', nextPreviousLinks);
+    eleventyConfig.addShortcode('progressLinks', progressLinks);
+    eleventyConfig.addShortcode('platformTag', platformTag);
+
+    eleventyConfig.addPairedShortcode('sharedLink', sharedLink);
 
     return {
         templateFormats: [

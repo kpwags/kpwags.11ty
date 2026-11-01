@@ -7,8 +7,8 @@ tags:
   - News
   - Politics
 relatedPosts: [
-    { title: 'Staying Silent is Political Too', url: '/posts/2023/10/01/staying-silent-is-political-too'},
-    { title: "Thoughts on Trump's Failed Insurrection", url: '/posts/2021/01/07/thoughts-on-trumps-failed-insurrection'}
+    { title: 'Staying Silent is Political Too', url: '/posts/2023/10/01/staying-silent-is-political-too', date: '10/1/2023' },
+    { title: "Thoughts on Trump's Failed Insurrection", url: '/posts/2021/01/07/thoughts-on-trumps-failed-insurrection', date: '1/7/2021' }
 ]
 ---
 

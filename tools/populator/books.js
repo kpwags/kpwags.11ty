@@ -60,13 +60,21 @@ const groupBooksByYear = (books) => {
 	return finished;
 };
 
+const getBookLink = (book) => {
+	if ((book.bookNotesUrl ?? '').length > 0) {
+		return `/books/${book.bookNotesUrl}/`;
+	}
+
+	return `/bookshelf/book/${book.bookId}/`;
+}
+
 const populateAuthors = async (books) => {
 	console.log('Populating Authors');
 
 	const authors = getUniqueItems(books.map((b) => b.author))
 		.sort((a, b) => a.localeCompare(b));
 
-	const authorJson = [];
+	const firstPassAuthorJson = [];
 
 	for (const author of authors) {
 		const authorBooks = books
@@ -77,15 +85,57 @@ const populateAuthors = async (books) => {
 		const booksRead = [];
 		for (const authorBook of authorBooks) {
 			if (booksRead.filter((b) => b.title === authorBook.fullTitle).length === 0) {
-				booksRead.push({ title: authorBook.fullTitle, link: authorBook.link });
+				booksRead.push({ title: authorBook.fullTitle, link: getBookLink(authorBook) });
 			}
 		}
 
-		authorJson.push({
+		firstPassAuthorJson.push({
 			name: author,
 			books: booksRead,
 		});
 	}
+
+	// final result
+	let authorJson = [];
+
+	for (const author of firstPassAuthorJson) {
+		// create the temp array of author names
+		let authorNames = [];
+
+		// check to see if there are more than 1 author, indicated by the '&' character
+		if (!author.name.includes('&')) {
+			// only 1 author, make it the array
+			authorNames = [author.name];
+		} else {
+			// split out authors and trim their names
+			authorNames = author.name.split('&').map((a) => a.trim());
+		}
+
+		for (let i = 0; i < authorNames.length; i += 1) {
+			const authorName = authorNames[i] === 'Others' ? 'Various Authors' : authorNames[i];
+
+			// find out if the author exists already in the array
+			const record = authorJson.find((a) => a.name === authorName);
+
+			if (record) {
+				// existing author, add and re-sort books
+				const newBooksArray = [
+					...record.books,
+					...author.books,
+				];
+
+				authorJson.find((a) => a.name === authorName).books = newBooksArray.sort((a, b) => sortByDate(a.dateCompleted, b.dateCompleted, 'ASC'));
+			} else {
+				// not found, add new record
+				authorJson.push({
+					name: authorName,
+					books: author.books,
+				});
+			}
+		}
+	}
+
+	authorJson = authorJson.sort((a, b) => a.name.localeCompare(b.name));
 
 	await replaceFile('authors.json', JSON.stringify(authorJson, null, "\t"));
 };
@@ -114,6 +164,67 @@ const populateBookJson = async (books) => {
 	await replaceFile('books.json', JSON.stringify(bookJson, null, "\t"));
 }
 
+const buildFrontMatterForBook = (book) => {
+	let formats = '';
+	let genres = '';
+
+	for (const format of book.formats) {
+		if (formats === '')
+		{
+			formats = `  { name: "${format.name}", color: "${format.colorCode}" },`;
+		}
+		else
+		{
+			formats = `${formats}
+  { name: "${format.name}", color: "${format.colorCode}" },`;
+		}
+	}
+
+	for (const genre of book.genres) {
+		if (genres === '')
+		{
+			genres = `  { name: "${genre.name}", color: "${genre.colorCode}" },`;
+		}
+		else
+		{
+			genres = `${genres}
+  { name: "${genre.name}", color: "${genre.colorCode}" },`;
+		}
+	}
+
+	const frontMatter = `---
+layout: "layouts/book.html"
+title: "${book.title}"
+subtitle: "${book.subTitle}"
+fullTitle: "${book.fullTitle}"
+author: "${book.author}"
+coverImage: ${book.coverImageUrl}
+dateCompleted: ${book.dateCompleted}
+permalink: /bookshelf/book/${book.bookId}/index.html
+link: ${book.link}
+rating: ${book.rating}
+thoughts: "${book.thoughts.replaceAll("\"", "\\\"")}"
+format: ${book.formats[0].name}
+genres: [
+${genres}
+]
+---
+`;
+
+	return frontMatter;
+};
+
+const writeBookPages = async (books) => {
+	console.log('Writing Book Pages');
+
+	await Promise.all(books.map(async (book) => {
+		const frontMatter = buildFrontMatterForBook(book);
+		await replaceFile(`${book.bookId}.md`, frontMatter, '/src/bookshelf/book')
+	}));
+
+	console.log(`Wrote ${books.length} Books Pages`);
+};
+
 export const populateBooks = async () => {
 	const [data, error] = await Api.Fetch('book');
 
@@ -122,6 +233,8 @@ export const populateBooks = async () => {
 	}
 
 	await populateAuthors(data.filter((d) => d.status.name === 'Finished'));
+	await writeBookPages(data.filter((d) => d.status.name === 'Finished'));
 	await populateBookJson(data);
 };
 
+populateBooks();

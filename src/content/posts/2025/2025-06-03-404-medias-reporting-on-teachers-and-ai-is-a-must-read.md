@@ -19,9 +19,9 @@ I'm pretty much against it's use for a variety of reasons, namely its massive en
 One quote from the responses stood out to me.
 
 {% renderTemplate "webc" %}
-<quote-link-block source="Nathan Schmidt, University Lecturer, managing editor at Gamers With Glasses" href="https://www.gamerswithglasses.com/">Read
+<cited-quote source="Nathan Schmidt, University Lecturer, managing editor at Gamers With Glasses" href="https://www.gamerswithglasses.com/">
   ChatGPT isn't its own, unique problem. <em>It's a symptom of a totalizing cultural paradigm in which passive consumption and regurgitation of content becomes the status quo.</em> It's a symptom of the world of TikTok and Instagram and perfecting your algorithm, in which some people are professionally deemed the 'content creators,' casting everyone else into the creatively bereft role of the content “consumer." And if that paradigm wins, as it certainly appears to be doing, pretty much everything that has been meaningful about human culture will be undone, in relatively short order.
-</quote-link-block>
+</cited-quote>
 {% endrenderTemplate %}
 
 I would encourage you to read the article and the responses as they provide a lot of good thoughts on where things currently stand in today's classrooms and universities.

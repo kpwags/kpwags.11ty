@@ -16,13 +16,11 @@
 <body>
 	{% include "header.html" %}
 
-	<main>
+	<main class={{ mainCssClass }}>
 		{{ content }}
 	</main>
 
 	{% include "footer.html" %}
-
-	{% include "dialogs.html" %}
 </body>
 
 </html>

@@ -11,6 +11,7 @@ categories:
   - Tech
   - AI
   - History
+format: Hardcover
 purchaseLinks: [
   { title: 'bookshop.org', url: 'https://bookshop.org/p/books/blood-in-the-machine-the-origins-of-the-rebellion-against-big-tech-brian-merchant/17824365?ean=9780316487740' },
   { title: 'Reads & Company', url: 'https://www.readsandcompany.com/item/-lOcjb5TGYJJk0Yh-0rOGw' },

@@ -3,80 +3,84 @@
 
 <head>
 	{% include "head.html" %}
-	<title>{{ title }} - Keith Wagner</title>
+	<title>{{ fullTitle }} by {{ author }} - Bookshelf - Keith Wagner</title>
 
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://kpwags.com{{ page.url }}" />
-	<meta property="og:title" content="{{ title }}" />
-	<meta property="og:description" content="{{ description }}" />
+	<meta property="og:title" content="{{ fullTitle }} by {{ author }} - Bookshelf - Keith Wagner" />
 </head>
 
 <body>
 	{% include "header.html" %}
 
 	<main>
-		<article class="book-note">
-			<h1>{{ fullTitle }}</h1>
+		<article class="book-page">
+			<div class="content">
+				<div class="book-info">
+					<div class="cover"><img src="{{ coverImage }}" alt="Book cover for {{ fullTitle }} by {{ author }}" width="200" height="200" /></div>
+					<div class="details">
+						<h1>{{ fullTitle }}</h1>
 
-			<div class="card">
-				<div class="content">
-					<div class="image">
-						<img src="{{ coverImage }}" alt="{{ author }} - {{ title }}" width="200" />
-					</div>
-					<div class="info">
-						<div class="detail-row"><strong>Author:</strong> {{ author }}</div>
-
-						<div class="detail-row">
-							{% if format == 'Audiobook' %}
-								{% renderTemplate "webc" %}
-									<platform-tag platform="audiobook"></platform-tag>
-								{% endrenderTemplate %}
-							{% elsif format == 'Hardcover' %}
-								{% renderTemplate "webc" %}
-									<platform-tag platform="hardcover"></platform-tag>
-								{% endrenderTemplate %}
-							{% elsif format == 'eBook' %}
-								{% renderTemplate "webc" %}
-									<platform-tag platform="ebook"></platform-tag>
-								{% endrenderTemplate %}
-							{% else %}
-								{% renderTemplate "webc" %}
-									<platform-tag platform="paperback"></platform-tag>
-								{% endrenderTemplate %}
-							{% endif %}
+						<div class="row">
+							<div class="key">Author</div>
+							<div class="value">{{ author }}</div>
 						</div>
 
-						<div class="detail-row">
-							{% starRating rating "lg" %}
+						{% if date %}
+							<div class="row date-completed">
+								<div class="key">Date Completed</div>
+								<div class="value">{{ date | readableDate }}</div>
+							</div>
+						{% endif %}
+
+						<div class="row">
+							<div class="key">Format</div>
+							<div class="value">
+								{% platformTag format %}
+							</div>
 						</div>
 
-						<div class="detail-row"><strong>Finished</strong>: {{ dateString }}</div>
-
-						<div class="detail-row categories">
-							<div class="sr-only">Tagged:</div>
-							{% for category in categories %}
-							<span class="category">{{ category }}</span>
-							{% endfor %}
+						<div class="row">
+							<div class="key">Rating</div>
+							<div class="value">
+								{% starRating rating %}
+							</div>
 						</div>
 
-						<div class="detail-row book-links">
-							<span class="lead"><strong>Links:</strong></span>
-							{% for link in purchaseLinks %}
-							<a href="{{ link.url }}">{{ link.title }}</a>
-							<span class="separator">&bull;</span>
-							{% endfor %}
+						<div class="row">
+							<div class="key">Categories</div>
+							<div class="value">
+								<ul class="tags">
+									{% for category in categories %}
+										<li>{{ category }}</li>
+									{% endfor %}
+								</ul>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="key">Links</div>
+							<div class="value">
+								<ul class="book-purchase-links">
+									{% for link in purchaseLinks %}
+										<li>
+											<a href="{{ link.url }}">{{ link.title }}</a>
+										</li>
+									{% endfor %}
+								</ul>
+							</div>
 						</div>
 					</div>
 				</div>
+
+				<section class="thoughts">
+					{{ content }}
+				</section>
+
+				<hr />
+
+				{% replyLinks title %}
 			</div>
-
-			<div class="body">
-				{{ content }}
-			</div>
-
-			<hr />
-
-			{% replyLinks title %}
 		</article>
 	</main>
 

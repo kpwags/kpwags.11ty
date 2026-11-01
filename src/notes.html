@@ -9,18 +9,22 @@ pagination:
 
 <h1>Notes</h1>
 
-{% for note in pagination.items %}
-<article class="note">
-	<h2><a href="{{ note.data.link }}">{{ note.data.title }}</a></h2>
-	<div class="metadata">
-		<div>{{ note.data.author }}</div>
-		<div class="separator">&bull;</div>
-		<a href="{{ note.url }}">{{ note.data.dateString }}</a>
-	</div>
-	<div class="content">{{ note.templateContent }}</div>
-</article>
-<hr />
-{% endfor %}
+<section class="notes">
+	{% for note in pagination.items %}
+		<article>
+			<div class="note-data">
+				<div class="note-date"><a href="{{ note.url }}">{{ note.data.dateStringDMYYYY }}</a></div>
+				<h2><a href="{{ note.data.link }}">{{ note.data.title }}</a></h2>
+			</div>
+			<div class="note-metadata">
+				<div>{{ note.data.author }}</div>
+				<div>&bull;</div>
+				<div>{{ note.data.link | domainFromUrl }}</div>
+			</div>
+			<div class="note-content">{{ note.templateContent }}</div>
+		</article>
+	{% endfor %}
+</section>
 
 <section class="pagination">
 	{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&leftarrow; Newer Notes</a>{% endif %}

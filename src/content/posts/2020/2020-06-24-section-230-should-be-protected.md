@@ -31,5 +31,4 @@ There’s been a lot of complaints from those primarily in the GOP and on the ri
 
 At the end of the day, Twitter, Facebook, and every other site have the ability to moderate their sites as they see fit. If users don’t like it, they can find a different community or start their own. The alternative is that the government regulates what users can post on social media which would likely abused by whichever political party is in power. I think we can all agree that would be bad.
 
-{% image "./images/xkcd_free_speech.png", "An infamous xkcd comic talking about free speech" %}
-<div class="image-credit">Credit <a href="https://xkcd.com/1357/" title="xkcd: Free Speech Comic">xkcd</a></div>
+{% creditedImage "./images/xkcd_free_speech.png", "An infamous xkcd comic talking about free speech", "xkcd", "https://xkcd.com/1357/" %}

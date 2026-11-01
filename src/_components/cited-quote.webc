@@ -1,0 +1,7 @@
+<figure class="quote">
+	<blockquote>
+		<slot></slot>
+	<figcaption webc:if="href">- <cite><a :href="href" @html="source"></a></cite></figcaption>
+	<figcaption webc:else>- <cite @html="source"></cite></figcaption>
+	</blockquote>
+</figure>

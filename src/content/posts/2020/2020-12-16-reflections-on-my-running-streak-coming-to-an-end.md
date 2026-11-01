@@ -10,8 +10,7 @@ tags:
 This past Monday, December 14, my running streak came to an end. I managed to get it up to 175 days, almost half the year. In the end, I just felt it was time to let it go.
 <!-- excerpt -->
 
-{% image "./images/marathon-complete.jpg", "Me finishing the 2015 Philadelphia Marathon" %}
-<div class="image-credit">Me successfully finishing the 2015 Philadelphia Marathon</div>
+{% creditedImage "./images/marathon-complete.jpg", "Me finishing the 2015 Philadelphia Marathon", "Me successfully finishing the 2015 Philadelphia Marathon", "", "", "", "" %}
 
 When COVID-19 shut everything down in March, I hadn't yet built my gym. This left me with limited options for fitness (or at least options that appealed to me). Running had generally been my go-to cardio activity since I started becoming more active, so I started running, a lot. I started running 3-4 miles a day, 4-5 days a week. I hated sitting still, so it was a good way to get my blood flowing. I stayed away from parks and just ran around my neighborhood. Didn't need a mask as I could just switch sides of the street those few times I ran into someone.
 

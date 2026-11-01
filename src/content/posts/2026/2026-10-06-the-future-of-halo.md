@@ -30,9 +30,9 @@ Ever since Halo Infinite came out though, things have seemed to go downhill for 
 And now, with the [layoffs at Microsoft](https://www.theverge.com/tech/999919/microsoft-xbox-reorganization-activision-notepad), the (probably correct) [resignation of Phil Spencer](https://aftermath.site/microsoft-xbox-phil-spencer-retires/), the push towards absolute profitability over creativity and gaming risks, [Halo and XBOX as a whole seem to have no direction](https://aftermath.site/microsoft-xbox-layoffs-halo-activision/).
 
 {% renderTemplate "webc" %}
-<quote-block source="Tom Warren" href="https://www.theverge.com/tech/999919/microsoft-xbox-reorganization-activision-notepad">
+<cited-quote source="Tom Warren" href="https://www.theverge.com/tech/999919/microsoft-xbox-reorganization-activision-notepad">
 Nothing demonstrates the scale of change going on inside the Xbox organization than Halo. “If we lose our way with Halo, we lose our way with Xbox,” said former Xbox chief Phil Spencer in 2011. It’s been clear for years that Microsoft has lost its way with Halo, and the company has definitely lost its way with Xbox.
-</quote-block>
+</cited-quote>
 {% endrenderTemplate %}
 
 Activision is taking over Halo. The studio behind the popular shooter Call of Duty now seemingly has control of the Halo franchise, one of the other most well-known first person shooter games. I'm really not sure how to feel about that. In terms of Halo multiplayer, it might not be all bad. I'd hope that they'd recognize that Halo's multiplayer is probably a little less realistic that Call of Duty's tends to be (although it's been years since I've played Call of Duty multiplayer) and has its own quirks and playability. But advancing the Halo story, expanding the lore? I don't really trust them to do that. There's [rumors of a Master Chief origin story](https://www.polygon.com/halo-reboot-master-chief-origin-story/). My thought on that is a hard pass. A game that touches on humanity's first contact with the Covenant might be fascinating, but I'm not sure we need a game delving into Master Chief being kidnapped by Dr. Halsey and conscripted to be a super soldier. We have [Halo Legends](https://www.imdb.com/title/tt1480660/) for that.
