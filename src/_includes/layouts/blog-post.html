@@ -22,6 +22,10 @@
 			<div class="content">
 				{% postTitle title %}
 
+				{% if subtitle %}
+				<div class="subtitle">{{ subtitle }}</div>
+				{% endif %}
+
 				<div class="metadata">
 					<div>{{ dateString }}</div>
 				</div>

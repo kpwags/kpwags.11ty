@@ -1,6 +1,6 @@
 ---
 title: "The Redesign is Live as is My Photography Site"
-subtitle: "What Version Is This?"
+subtitle: "What Version Is This Anyway?"
 description: "I finished and deployed both my photography site and the updated design of my site."
 date: '2026-11-02T19:03:00.000Z'
 permalink: /posts/2026/the-redesign-is-live-as-is-my-photography-site/index.html

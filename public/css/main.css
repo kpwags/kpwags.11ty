@@ -884,11 +884,22 @@ article.post h1 {
 	margin-bottom: 16px;
 }
 
+article.post:has(div.subtitle) h1 {
+	margin-bottom: 4px;
+}
+
 article.post .metadata {
 	display: flex;
 	gap: 16px;
 	justify-content: center;
 	margin: 0;
+}
+
+article.post .subtitle {
+	margin-bottom: 16px;
+	font-size: 1.25rem;
+	text-align: center;
+	font-style: italic;
 }
 /* ---- END BLOG PAGE ---- */
 
