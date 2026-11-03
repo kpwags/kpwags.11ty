@@ -2,7 +2,10 @@ import MarkdownIt from 'markdown-it';
 
 const toHtmlFilter = (str) => {
 	try {
-		return new MarkdownIt({ html: true, linkify: true }).renderInline(str);
+		const html = new MarkdownIt({ html: true, linkify: true }).renderInline(str);
+
+		return html
+			.replaceAll('&amp;', '&');
 	} catch {
 		return '';
 	}
