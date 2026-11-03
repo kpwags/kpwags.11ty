@@ -15,6 +15,141 @@
 		}
 	},
 	{
+		"linkId": 1897,
+		"title": "Alvin Ashcraft",
+		"author": "Coffee & Open Source",
+		"url": "https://podcasts.apple.com/us/podcast/alvin-ashcraft/id1589875016?i=1000725772945",
+		"linkDate": "2026-11-01T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
+		"linkId": 1898,
+		"title": "Modern Web Types",
+		"author": "Philip Walton",
+		"url": "https://philipwalton.com/articles/modern-web-types/",
+		"linkDate": "2026-11-01T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1899,
+		"title": "My life before & after automated testing",
+		"author": "Dan Lew",
+		"url": "https://blog.danlew.net/2026/09/15/my-life-before-after-automated-testing/",
+		"linkDate": "2026-11-01T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1900,
+		"title": "CSS Curioaities of the Past",
+		"author": "Declan Chidlow",
+		"url": "https://vale.rocks/posts/css-relics",
+		"linkDate": "2026-11-01T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1901,
+		"title": "Sidenotes with CSS anchor positioning",
+		"author": "Vincent Bernat",
+		"url": "https://vincent.bernat.ch/en/blog/2026-css-sidenotes",
+		"linkDate": "2026-11-01T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1902,
+		"title": "I'm worried about the web",
+		"author": "Patrick Brosset",
+		"url": "https://patrickbrosset.com/articles/2026-09-15-im-worried-about-the-web/",
+		"linkDate": "2026-11-01T00:00:00.000Z",
+		"category": {
+			"name": "The Internet",
+			"colorCode": "#8b3d15"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1903,
+		"title": "Maybe We Shouldn't Be Reviewing All This Code",
+		"author": "Rachel Laycock",
+		"url": "https://martinfowler.com/rachels-ramblings/code-review.html",
+		"linkDate": "2026-11-01T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1904,
+		"title": "Making software hurts now",
+		"author": "Erlend Sogge Heggen",
+		"url": "https://notes.erlend.sh/3muwdtclths2d",
+		"linkDate": "2026-11-01T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1905,
+		"title": "It's Hard to Read and Parse Code you Didn't Write",
+		"author": "Jon Hilton",
+		"url": "https://jonhilton.net/hard-to-read-code-you-didnt-write/",
+		"linkDate": "2026-11-01T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1894,
 		"title": "A Midterm Night’s Dream",
 		"author": "Ctrl-Alt-Speech",
