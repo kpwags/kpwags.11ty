@@ -1,5 +1,50 @@
 [
 	{
+		"linkId": 1906,
+		"title": "Death comes for XSLT",
+		"author": "David Bushell",
+		"url": "https://dbushell.com/2026/11/03/xslt-rip/",
+		"linkDate": "2026-11-03T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1907,
+		"title": "How To Quit Spotify And Improve Your Life In The Process",
+		"author": "Luke Plunkett",
+		"url": "https://aftermath.site/how-quit-cancel-spotify/",
+		"linkDate": "2026-11-03T00:00:00.000Z",
+		"category": {
+			"name": "Media & Entertainment",
+			"colorCode": "#7949a8"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1908,
+		"title": "We Must Kill Windows For A Just Future",
+		"author": "Chris Person",
+		"url": "https://aftermath.site/we-must-kill-windows/",
+		"linkDate": "2026-11-03T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1896,
 		"title": "If we stop, we lose",
 		"author": "Andy Bell",

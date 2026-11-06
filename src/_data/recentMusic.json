@@ -1,1 +1,82 @@
-[]
+[
+	{
+		"musicAlbumId": 312,
+		"title": "Future Nausea",
+		"artist": "Spanish Love Songs",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/50WsHSyJ/spanish-love-songs-future-nausea.jpg",
+		"isTopTen": false,
+		"showOnNowPage": true,
+		"datePurchased": "Wed, 04 Nov 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Alternative",
+				"colorCode": "rgb(11, 148, 129)"
+			},
+			{
+				"name": "Punk",
+				"colorCode": "rgb(191, 0, 188)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Digital",
+				"colorCode": "rgb(102, 59, 177)"
+			},
+			{
+				"name": "Vinyl",
+				"colorCode": "#a51643"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Future Nausea"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Good American"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Welcome to Hell"
+			},
+			{
+				"trackNumber": 4,
+				"title": "New Fears"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Living Blues"
+			},
+			{
+				"trackNumber": 6,
+				"title": "Jan666"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Doom Tripping"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Shadowland"
+			},
+			{
+				"trackNumber": 9,
+				"title": "No Dreams"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Future Nausea Pt. 2"
+			},
+			{
+				"trackNumber": 11,
+				"title": "See You on the Way Out"
+			},
+			{
+				"trackNumber": 12,
+				"title": "Until the Sun Explodes"
+			}
+		]
+	}
+]

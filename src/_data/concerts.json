@@ -29,6 +29,7 @@
 		{ "name": "Finger Eleven", "count": 1 },
 		{ "name": "The Flatliners", "count": 1 },
 		{ "name": "Free Throw", "count": 1 },
+		{ "name": "Future Teens", "count": 1 },
 		{ "name": "Gladie", "count": 1 },
 		{ "name": "Goo Goo Dolls", "count": 1 },
 		{ "name": "Gordon Lightfoot", "count": 1 },
@@ -44,6 +45,7 @@
 		{ "name": "Laney Lebo", "count": 1 },
 		{ "name": "Lax Poetic", "count": 1 },
 		{ "name": "Liquid Mike", "count": 1 },
+		{ "name": "Maxwell Stern & The Good Light Band", "count": 1 },
 		{ "name": "Mercy Union", "count": 1 },
 		{ "name": "Microwave", "count": 1 },
 		{ "name": "The Mountain Goats", "count": 1 },
@@ -56,6 +58,7 @@
 		{ "name": "Rodeo Boys", "count": 1 },
 		{ "name": "Roger Harvey", "count": 1 },
 		{ "name": "Skinny Lister", "count": 1 },
+		{ "name": "Spanish Love Songs", "count": 1 },
 		{ "name": "Taking Back Sunday", "count": 1 },
 		{ "name": "Ted Leo", "count": 1 },
 		{ "name": "Tigers Jaw", "count": 1 },
@@ -69,6 +72,13 @@
 		{ "name": "Weezer", "count": 1 }
 	],
 	"events": [
+		{
+			"headliner": ["Spanish Love Songs"],
+			"openers": ["Maxwell Stern & The Good Light Band", "Future Teens"],
+			"location": "Ukie Club",
+			"city": "Philadelphia, PA",
+			"date": "2026-11-05"
+		},
 		{
 			"headliner": ["Brian Fallon"],
 			"openers": [],

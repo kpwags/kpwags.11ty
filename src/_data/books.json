@@ -1,6 +1,47 @@
 {
 	"inProgress": [
 		{
+			"bookId": 783,
+			"title": "Gouged",
+			"subTitle": "The End of a Fair Price--and What That Means for Your Wallet",
+			"fullTitle": "Gouged: The End of a Fair Price--and What That Means for Your Wallet",
+			"author": "Lindsay Owens",
+			"link": "https://bookshop.org/p/books/gouged-the-end-of-a-fair-price-and-what-that-means-for-your-wallet-lindsay-owens/071cf8cf5224f8ba",
+			"dateStarted": "2026-11-04T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/C52nvD51/owens-gouged.jpg",
+			"isAtLibrary": false,
+			"isPurchased": false,
+			"currentPage": 142,
+			"pageCount": 393,
+			"progress": 36,
+			"sortOrder": 4150,
+			"status": {
+				"name": "Reading",
+				"colorCode": "#6a208f"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Audiobook",
+					"colorCode": "#b300b3"
+				}
+			]
+		},
+		{
 			"bookId": 575,
 			"title": "Seveneves",
 			"subTitle": "",
@@ -15,9 +56,9 @@
 			"coverImageUrl": "https://i.postimg.cc/tJfr195R/stephenson-seveneves.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 431,
+			"currentPage": 555,
 			"pageCount": 861,
-			"progress": 50,
+			"progress": 64,
 			"sortOrder": 20,
 			"status": {
 				"name": "Reading",
