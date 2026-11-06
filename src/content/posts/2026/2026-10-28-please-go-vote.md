@@ -5,7 +5,7 @@ description: "America has a very important election coming up next week. It's im
 date: '2026-10-28T19:05:00.000Z'
 permalink: /posts/2026/please-go-vote/index.html
 rss_only: false
-pinned: true
+pinned: false
 spoilers: false
 tags:
   - Politics
