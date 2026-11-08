@@ -61,6 +61,38 @@
 			]
 		},
 		{
+			"televisionShowId": 98,
+			"title": "For All Mankind",
+			"imdbLink": "https://www.imdb.com/title/tt7772588/",
+			"rating": 0,
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/mDJntmzd/forallmankind.jpg",
+			"seasonEpisodeCount": 6,
+			"currentSeasonEpisode": 5,
+			"progress": 83,
+			"sortOrder": null,
+			"status": {
+				"name": "Watching",
+				"colorCode": "#005c78"
+			},
+			"genres": [
+				{
+					"name": "Drama",
+					"colorCode": "#481180"
+				},
+				{
+					"name": "Science Fiction",
+					"colorCode": "#1b7016"
+				}
+			],
+			"services": [
+				{
+					"name": "Apple TV",
+					"colorCode": "#892f86"
+				}
+			]
+		},
+		{
 			"televisionShowId": 68,
 			"title": "Ken Burns: The Vietnam War",
 			"imdbLink": "https://www.imdb.com/title/tt1877514/",
@@ -153,24 +185,6 @@
 					"colorCode": "#008cb4"
 				}
 			]
-		},
-		{
-			"televisionShowId": 98,
-			"title": "For All Mankind",
-			"imdbLink": "https://www.imdb.com/title/tt7772588/",
-			"rating": 0,
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/mDJntmzd/forallmankind.jpg",
-			"seasonEpisodeCount": 0,
-			"currentSeasonEpisode": 0,
-			"progress": 0,
-			"sortOrder": null,
-			"status": {
-				"name": "In Between Seasons",
-				"colorCode": "#901960"
-			},
-			"genres": [],
-			"services": []
 		},
 		{
 			"televisionShowId": 20,
