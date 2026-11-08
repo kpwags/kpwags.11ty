@@ -36,7 +36,7 @@ Unlike September where my primary focus was on my novel, I spent the majority of
 The one thing I did during my relaxation in Cape May and outside of it was to really try to go through my RSS backlog. I subscribe to a lot of feeds and am often behind. I don't particularly mind as it is what it is and very few of the articles I have in my feeds demand *immediate* reading. But it's nice to see the unread count under 2,000 instead of hovering around 7k. I'm obviously not reading every post, but 🤷🏼‍♂️.
 
 {% renderTemplate "webc" %}
-<monthly-roundup runs="0" milesran="0" walks="0" mileswalked="0" lifts="0" volumelifted="0" gaming="true" tv="true" music="true">
+<monthly-roundup runs="3" milesran="10.88" walks="25" mileswalked="28.36" lifts="2" volumelifted="41,580" gaming="true" tv="true" music="true">
 	<ul slot="books-read">
 		<li>Finished <a href="https://bookshop.org/p/books/the-wager-a-tale-of-shipwreck-mutiny-and-murder-david-grann/b1f2a00fc56cba78">The Wager: A Tale of Shipwreack, Mutiny and Murder</a> by David Grann</li>
 		<li>Finished <a href="https://bookshop.org/p/books/of-monsters-and-mainframes-barbara-truelove/e8151d9546a82f7d">Of Monsters and Mainframes</a> by Barbara Truelove</li>
