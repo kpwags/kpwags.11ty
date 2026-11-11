@@ -236,5 +236,3 @@ export const populateBooks = async () => {
 	await writeBookPages(data.filter((d) => d.status.name === 'Finished'));
 	await populateBookJson(data);
 };
-
-populateBooks();

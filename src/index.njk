@@ -57,7 +57,7 @@ layout: 'layouts/homepage-layout.html'
 						<div class="post-date">{{ weekNote.data.dateStringDMYYYY }}</div>
 						<a href="{{ weekNote.url }}">{{ weekNote.data.title }}</a>
 					</div>
-					<div class="post-description">{{ weekNote.data.description }}</div>
+					<div class="post-description">{{ weekNote.data.page.excerpt | toHTML }}</div>
 				</li>
 			{% endfor %}
 		</ul>

@@ -1,5 +1,110 @@
 [
 	{
+		"linkId": 1910,
+		"title": "Dear Software Makers",
+		"author": "Jim Nielsen",
+		"url": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
+		"linkDate": "2026-11-10T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1911,
+		"title": "The Test Was Wrong. Rewriting.",
+		"author": "Gil Zilberfeld",
+		"url": "https://testingil.com/2026/09/ai-coding-agent-says-the-test-was-wrong.html",
+		"linkDate": "2026-11-10T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1912,
+		"title": "The Default Is Not a Design Decision",
+		"author": "hipuku",
+		"url": "https://www.hipuku.dev/writing/the-default-is-not-a-design-decision",
+		"linkDate": "2026-11-10T00:00:00.000Z",
+		"category": {
+			"name": "Design",
+			"colorCode": "#0b545e"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1913,
+		"title": "Become worthless (to tech companies)",
+		"author": "Cory Dransfeldt",
+		"url": "https://www.coryd.dev/posts/2026/become-worthless-to-tech-companies",
+		"linkDate": "2026-11-10T00:00:00.000Z",
+		"category": {
+			"name": "The Internet",
+			"colorCode": "#8b3d15"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1914,
+		"title": "The Age of the Soft Skill",
+		"author": "Rudy Faile",
+		"url": "https://rudyfaile.com/2026/09/24/the-age-of-the-soft-skill/",
+		"linkDate": "2026-11-10T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1915,
+		"title": "You should all be asking way more questions",
+		"author": "Sean Goedecke",
+		"url": "https://www.seangoedecke.com/you-should-all-be-asking-way-more-questions/",
+		"linkDate": "2026-11-10T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1909,
+		"title": "Anthropic IPO’s Moment of Truth Nears as Waiting Period Ends",
+		"author": "Anthony Hughes & Pablo Mayo Cerqueiro",
+		"url": "https://www.bloomberg.com/news/articles/2026-11-09/anthropic-ipo-s-moment-of-truth-nears-as-waiting-period-expires?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDI2Mzg3OSwiZXhwIjoxNzk0ODY4Njc5LCJhcnRpY2xlSWQiOiJUTzNBTjdLSzNOWUUwMCIsImJjb25uZWN0SWQiOiI1MzBFQUNDQjgzQzE0QzJCQjY1MDcxRTQ2NUFBRUY1QSJ9.Yu3ZRy6jzzRn-yhenfpFcCa6Pabk7xP5IUA229GqcBQ&utm_campaign=MKP_DAILY_newsletter_20261109&utm_medium=email&utm_source=sfmc_&utm_content=&utm_term=58542757&leadSource=article-gifting",
+		"linkDate": "2026-11-09T00:00:00.000Z",
+		"category": {
+			"name": "Business & Finance",
+			"colorCode": "#0d5430"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1906,
 		"title": "Death comes for XSLT",
 		"author": "David Bushell",
