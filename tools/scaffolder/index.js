@@ -38,7 +38,7 @@ const writeSuccess = (text) => {
 
 const readLineAsync = (prompt) => {
 	if (!prompt.endsWith(': ')) {
-		prompt = ` ${prompt}: `;
+		prompt = ` ${prompt}: `;1
 	}
 
 	return new Promise((resolve) => {
@@ -516,10 +516,12 @@ const buildBookNoteTemplate = async () => {
 		}
 	}
 
+	const fullTitle = subtitle.length === 0 ? title : `${title}: ${subtitle}`;
+
 	const scaffoldedTemplate = `---
 title: "${title}"
 subtitle: "${subtitle}"
-fullTitle: "${title}: ${subtitle}"
+fullTitle: "${fullTitle}"
 author: "${author}"
 format: ${format}
 coverImage: "${coverImageUrl}"
