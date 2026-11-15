@@ -1,80 +1,14 @@
 {
 	"inProgress": [
 		{
-			"videoGameId": 36,
-			"title": "God of War",
-			"link": "https://www.playstation.com/en-us/god-of-war/",
-			"dateStarted": "2026-06-07T00:00:00.000Z",
+			"videoGameId": 71,
+			"title": "World of Warcraft: Forever",
+			"link": "https://worldofwarcraft.blizzard.com/en-us/forever",
+			"dateStarted": "2026-11-08T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/wTFG8Zxs/god-of-war.jpg",
-			"sortOrder": 1,
-			"status": {
-				"name": "In Progress",
-				"colorCode": "#d76c28"
-			},
-			"completion": {
-				"name": "N/A",
-				"colorCode": "#144d72"
-			},
-			"genres": [
-				{
-					"name": "Adventure",
-					"colorCode": "#50518b"
-				},
-				{
-					"name": "Hack and Slash",
-					"colorCode": "#a30d42"
-				}
-			],
-			"systems": [
-				{
-					"name": "PlayStation",
-					"colorCode": "#191f77"
-				}
-			]
-		},
-		{
-			"videoGameId": 70,
-			"title": "Pokemon: FireRed",
-			"link": "https://www.nintendo.com/us/store/products/english-pokemon-firered-version-switch/",
-			"dateStarted": "2026-03-27T00:00:00.000Z",
-			"dateCompleted": null,
-			"rating": 0,
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/rs6TLJk8/pokemon-fire-red.jpg",
-			"sortOrder": null,
-			"status": {
-				"name": "In Progress",
-				"colorCode": "#d76c28"
-			},
-			"completion": {
-				"name": "N/A",
-				"colorCode": "#144d72"
-			},
-			"genres": [
-				{
-					"name": "Role Playing Game",
-					"colorCode": "#a83ece"
-				}
-			],
-			"systems": [
-				{
-					"name": "Nintendo Switch",
-					"colorCode": "#8e0b24"
-				}
-			]
-		},
-		{
-			"videoGameId": 30,
-			"title": "World of Warcraft",
-			"link": "https://worldofwarcraft.com/en-us/wowclassic",
-			"dateStarted": null,
-			"dateCompleted": "2023-05-29T00:00:00.000Z",
-			"rating": 4,
-			"thoughts": "I spent so much time on this in my mid 20s, and now in my late 30s, I'm definitely enjoying it again",
-			"coverImageUrl": "https://i.postimg.cc/J72V36gV/wow-mop.jpg",
+			"coverImageUrl": "https://i.postimg.cc/25kL4T5h/wow-forever.webp",
 			"sortOrder": null,
 			"status": {
 				"name": "In Progress",
@@ -88,10 +22,6 @@
 				{
 					"name": "MMO",
 					"colorCode": "#3f8398"
-				},
-				{
-					"name": "Role Playing Game",
-					"colorCode": "#a83ece"
 				}
 			],
 			"systems": [
@@ -757,6 +687,41 @@
 			]
 		},
 		{
+			"videoGameId": 30,
+			"title": "World of Warcraft: Classic",
+			"link": "https://worldofwarcraft.com/en-us/wowclassic",
+			"dateStarted": null,
+			"dateCompleted": "2023-05-29T00:00:00.000Z",
+			"rating": 4,
+			"thoughts": "I spent so much time on this in my mid 20s, and now in my late 30s, I definitely enjoyed it again",
+			"coverImageUrl": "https://i.postimg.cc/J72V36gV/wow-mop.jpg",
+			"sortOrder": null,
+			"status": {
+				"name": "Completed",
+				"colorCode": "#08824e"
+			},
+			"completion": {
+				"name": "N/A",
+				"colorCode": "#144d72"
+			},
+			"genres": [
+				{
+					"name": "MMO",
+					"colorCode": "#3f8398"
+				},
+				{
+					"name": "Role Playing Game",
+					"colorCode": "#a83ece"
+				}
+			],
+			"systems": [
+				{
+					"name": "PC",
+					"colorCode": "#4f1e57"
+				}
+			]
+		},
+		{
 			"videoGameId": 8,
 			"title": "Star Wars: Battlefront II",
 			"link": "https://www.ea.com/games/starwars/battlefront/star-wars-battlefront-2",
@@ -1394,6 +1359,41 @@
 			]
 		},
 		{
+			"videoGameId": 36,
+			"title": "God of War",
+			"link": "https://www.playstation.com/en-us/god-of-war/",
+			"dateStarted": "2026-06-07T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"thoughts": "Just never got into it. Will likely try again at some point.",
+			"coverImageUrl": "https://i.postimg.cc/wTFG8Zxs/god-of-war.jpg",
+			"sortOrder": 1,
+			"status": {
+				"name": "Completed",
+				"colorCode": "#08824e"
+			},
+			"completion": {
+				"name": "No",
+				"colorCode": "#790714"
+			},
+			"genres": [
+				{
+					"name": "Adventure",
+					"colorCode": "#50518b"
+				},
+				{
+					"name": "Hack and Slash",
+					"colorCode": "#a30d42"
+				}
+			],
+			"systems": [
+				{
+					"name": "PlayStation",
+					"colorCode": "#191f77"
+				}
+			]
+		},
+		{
 			"videoGameId": 55,
 			"title": "Rise of Nations",
 			"link": "https://www.xbox.com/en-us/games/store/rise-of-nations-extended-edition/9ns84hcwzd8b",
@@ -1483,6 +1483,37 @@
 				{
 					"name": "PlayStation",
 					"colorCode": "#191f77"
+				}
+			]
+		},
+		{
+			"videoGameId": 70,
+			"title": "Pokemon: FireRed",
+			"link": "https://www.nintendo.com/us/store/products/english-pokemon-firered-version-switch/",
+			"dateStarted": "2026-03-27T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"thoughts": "Got distracted and moved on.",
+			"coverImageUrl": "https://i.postimg.cc/rs6TLJk8/pokemon-fire-red.jpg",
+			"sortOrder": null,
+			"status": {
+				"name": "Completed",
+				"colorCode": "#08824e"
+			},
+			"completion": {
+				"name": "No",
+				"colorCode": "#790714"
+			},
+			"genres": [
+				{
+					"name": "Role Playing Game",
+					"colorCode": "#a83ece"
+				}
+			],
+			"systems": [
+				{
+					"name": "Nintendo Switch",
+					"colorCode": "#8e0b24"
 				}
 			]
 		}

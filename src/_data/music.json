@@ -8968,6 +8968,74 @@
 		]
 	},
 	{
+		"musicAlbumId": 313,
+		"title": "Still Life",
+		"artist": "Future Teens",
+		"thoughts": "",
+		"coverImageUrl": "https://i.postimg.cc/SQ8h5cTS/future-teens-still-life.webp",
+		"isTopTen": false,
+		"showOnNowPage": true,
+		"datePurchased": "Sun, 15 Nov 2026 00:00:00 GMT",
+		"genres": [
+			{
+				"name": "Pop",
+				"colorCode": "rgb(35, 96, 43)"
+			},
+			{
+				"name": "Pop Punk",
+				"colorCode": "rgb(32, 92, 9)"
+			}
+		],
+		"formats": [
+			{
+				"name": "Vinyl",
+				"colorCode": "#a51643"
+			}
+		],
+		"tracks": [
+			{
+				"trackNumber": 1,
+				"title": "Half Loser"
+			},
+			{
+				"trackNumber": 2,
+				"title": "Unmade Bed"
+			},
+			{
+				"trackNumber": 3,
+				"title": "Adjust Failure"
+			},
+			{
+				"trackNumber": 4,
+				"title": "Double Down"
+			},
+			{
+				"trackNumber": 5,
+				"title": "Mourning Time"
+			},
+			{
+				"trackNumber": 6,
+				"title": "A Win's A Win"
+			},
+			{
+				"trackNumber": 7,
+				"title": "Bad Faith"
+			},
+			{
+				"trackNumber": 8,
+				"title": "Sleep Loss"
+			},
+			{
+				"trackNumber": 9,
+				"title": "Harm Production"
+			},
+			{
+				"trackNumber": 10,
+				"title": "Still Life"
+			}
+		]
+	},
+	{
 		"musicAlbumId": 129,
 		"title": "The '59 Sound",
 		"artist": "The Gaslight Anthem",

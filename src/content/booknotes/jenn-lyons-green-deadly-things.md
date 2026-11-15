@@ -1,7 +1,7 @@
 ---
 title: "Green & Deadly Things"
 subtitle: ""
-fullTitle: "Green & Deadly Things: "
+fullTitle: "Green & Deadly Things"
 author: "Jenn Lyons"
 format: Hardcover
 coverImage: "https://i.postimg.cc/Hk9Wzygz/green-deadly-things.jpg"

@@ -1,5 +1,35 @@
 [
 	{
+		"linkId": 1916,
+		"title": "How I Succumbed To Reef Madness And Came To Love A Slowly Sinking Ship",
+		"author": "Dave McKenna",
+		"url": "https://defector.com/how-i-succumbed-to-reef-madness-and-came-to-love-a-slowly-sinking-ship",
+		"linkDate": "2026-11-13T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1917,
+		"title": "Big Walk Used AI In 'The Final Stretch' Of Development, Kicking Off Intense Awards Debate",
+		"author": "Luke Plunkett",
+		"url": "https://aftermath.site/big-walk-ai-igf-jurors-controversy/",
+		"linkDate": "2026-11-13T00:00:00.000Z",
+		"category": {
+			"name": "Gaming",
+			"colorCode": "#275576"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1910,
 		"title": "Dear Software Makers",
 		"author": "Jim Nielsen",

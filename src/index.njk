@@ -99,4 +99,22 @@ layout: 'layouts/homepage-layout.html'
 			{% endfor %}
 		</ul>
 	</section>
+
+	<section class="homepage-section">
+		<h2>Latest Book Notes</h2>
+
+		{% set recentBookNotesSorted = collections.booknotes | reverse %}
+		{% set recentBookNotes = recentBookNotesSorted.slice(0, 5) %}
+
+		<ul>
+			{% for bookNote in recentBookNotes %}
+				<li>
+					<div class="post-data">
+						<div class="post-date">{{ bookNote.data.dateStringDMYYYY }}</div>
+						<a href="{{ bookNote.url }}">{{ bookNote.data.author }} - {{ bookNote.data.title }}</a>
+					</div>
+				</li>
+			{% endfor %}
+		</ul>
+	</section>
 </div>
