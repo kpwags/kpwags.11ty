@@ -1,0 +1,17 @@
+---
+layout: "layouts/layout.html"
+title: "Bookshelf - Did Not Finish"
+---
+
+<h1>Bookshelf - Did Not Finish</h1>
+<p class="page-description">I for some reason could not finish these. Maybe I'll come back and try them again, but for now, DNF.</p>
+
+<section class="bookshelf-backlog">
+	<ul class="books-to-read">
+		{% for book in books.dnf %}
+		<li>
+			<a href="{{ book.link }}">{{ book.fullTitle }}</a> by {{ book.author }}
+		</li>
+		{% endfor %}
+	</ul>
+</section>

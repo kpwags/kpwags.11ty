@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/KjmL91d2/carreyrou-bad-blood.webp",
 			"isAtLibrary": true,
 			"isPurchased": false,
-			"currentPage": 152,
+			"currentPage": 369,
 			"pageCount": 696,
-			"progress": 22,
+			"progress": 53,
 			"sortOrder": 4140,
 			"status": {
 				"name": "Reading",
@@ -30176,6 +30176,228 @@
 				}
 			],
 			"formats": []
+		}
+	],
+	"dnf": [
+		{
+			"bookId": 784,
+			"title": "The Infinite and the Divine",
+			"subTitle": "",
+			"fullTitle": "The Infinite and the Divine",
+			"author": "Robert Rath",
+			"link": "https://bookshop.org/p/books/the-infinite-and-the-divine-robert-rath/2ddc6e55aebdb0ed",
+			"dateStarted": "2026-11-12T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "I tried. I just couldn't.",
+			"coverImageUrl": "https://i.postimg.cc/nrmmkXG9/rath-infinite-divine.webp",
+			"isAtLibrary": false,
+			"isPurchased": true,
+			"currentPage": 38,
+			"pageCount": 440,
+			"progress": 9,
+			"sortOrder": 1,
+			"status": {
+				"name": "Abandoned",
+				"colorCode": "#791b1e"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Paperback",
+					"colorCode": "#cd6a29"
+				}
+			]
+		},
+		{
+			"bookId": 771,
+			"title": "The Nerd Reich",
+			"subTitle": "Silicon Valley Fascism and the War on Democracy",
+			"fullTitle": "The Nerd Reich: Silicon Valley Fascism and the War on Democracy",
+			"author": "Gil Durán",
+			"link": "https://bookshop.org/p/books/the-nerd-reich-silicon-valley-fascism-and-the-war-on-democracy-gil-dur-n/a6f6f0dce1150339",
+			"dateStarted": "2026-09-04T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/13LJGYdt/duran-nerd-reich.webp",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 1,
+			"pageCount": 1,
+			"progress": 100,
+			"sortOrder": 4110,
+			"status": {
+				"name": "Abandoned",
+				"colorCode": "#791b1e"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Politics",
+					"colorCode": "rgb(130, 40, 40)"
+				},
+				{
+					"name": "Technology",
+					"colorCode": "rgb(55, 78, 146)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Audiobook",
+					"colorCode": "#b300b3"
+				}
+			]
+		},
+		{
+			"bookId": 602,
+			"title": "How Countries Go Broke",
+			"subTitle": "The Big Cycle",
+			"fullTitle": "How Countries Go Broke: The Big Cycle",
+			"author": "Ray Dalio",
+			"link": "https://bookshop.org/p/books/principles-investment-and-economic-ray-dalio/21286041",
+			"dateStarted": "2026-04-21T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/vTHypXFw/dalio-how-countries-go-broke.webp",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 53,
+			"pageCount": 600,
+			"progress": 9,
+			"sortOrder": 3000,
+			"status": {
+				"name": "Abandoned",
+				"colorCode": "#791b1e"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Business & Economics",
+					"colorCode": "rgb(23, 126, 0)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Audiobook",
+					"colorCode": "#b300b3"
+				}
+			]
+		},
+		{
+			"bookId": 670,
+			"title": "Hyperion",
+			"subTitle": "",
+			"fullTitle": "Hyperion",
+			"author": "Dan Simmons",
+			"link": "https://bookshop.org/p/books/hyperion-dan-simmons/91c9fa80587a0c0b",
+			"dateStarted": "2026-03-27T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/nrStwjn4/dan-simmons-hyperion.jpg",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 2042,
+			"pageCount": 8113,
+			"progress": 25,
+			"sortOrder": 1,
+			"status": {
+				"name": "Abandoned",
+				"colorCode": "#791b1e"
+			},
+			"type": {
+				"name": "Fiction",
+				"colorCode": "#1d3c8c"
+			},
+			"series": {
+				"name": "Hyperion",
+				"colorCode": "#c64600"
+			},
+			"genres": [
+				{
+					"name": "Science Fiction",
+					"colorCode": "rgb(102, 119, 2)"
+				}
+			],
+			"formats": [
+				{
+					"name": "eBook",
+					"colorCode": "#2c5813"
+				}
+			]
+		},
+		{
+			"bookId": 516,
+			"title": "Thinking, Fast and Slow",
+			"subTitle": "",
+			"fullTitle": "Thinking, Fast and Slow",
+			"author": "Daniel Kahneman",
+			"link": "https://bookshop.org/p/books/thinking-fast-and-slow-daniel-kahneman/943943?ean=9780374533557",
+			"dateStarted": "2025-03-01T00:00:00.000Z",
+			"dateCompleted": null,
+			"rating": 0,
+			"bookNotesUrl": "",
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/SxP6pLjd/thinking-fast-and-slow.jpg",
+			"isAtLibrary": true,
+			"isPurchased": false,
+			"currentPage": 58,
+			"pageCount": 1201,
+			"progress": 5,
+			"sortOrder": 2780,
+			"status": {
+				"name": "Abandoned",
+				"colorCode": "#791b1e"
+			},
+			"type": {
+				"name": "Non-Fiction",
+				"colorCode": "#244c43"
+			},
+			"series": null,
+			"genres": [
+				{
+					"name": "Creativity",
+					"colorCode": "rgb(0, 146, 118)"
+				},
+				{
+					"name": "Philosophy",
+					"colorCode": "rgb(9, 58, 78)"
+				},
+				{
+					"name": "Self Help",
+					"colorCode": "rgb(75, 61, 190)"
+				}
+			],
+			"formats": [
+				{
+					"name": "Audiobook",
+					"colorCode": "#b300b3"
+				}
+			]
 		}
 	]
 }

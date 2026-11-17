@@ -106,6 +106,8 @@ const populateAuthors = async (books) => {
 		if (!author.name.includes('&')) {
 			// only 1 author, make it the array
 			authorNames = [author.name];
+		} if (author.name === 'Kelly & Zach Weinersmith') {
+			authorNames = ['Kelly Weinersmith', 'Zach Weinersmith'];
 		} else {
 			// split out authors and trim their names
 			authorNames = author.name.split('&').map((a) => a.trim());
@@ -155,10 +157,15 @@ const populateBookJson = async (books) => {
 		.filter((b) => b.status.name === 'Finished')
 		.sort((a, b) => sortByDate(a.dateCompleted, b.dateCompleted, 'DESC'));
 
+	const dnf = books
+		.filter((b) => b.status.name === 'Abandoned')
+		.sort((a, b) => sortByDate(a.dateStarted, b.dateStarted, 'DESC'));
+
 	const bookJson = {
 		inProgress: inProgress.map((b) => trimJson(b)),
 		completed: groupBooksByYear(finished.map((b) => trimJson(b))),
 		toRead: backlog.map((b) => trimJson(b)),
+		dnf: dnf.map((b) => trimJson(b)),
 	};
 
 	await replaceFile('books.json', JSON.stringify(bookJson, null, "\t"));
