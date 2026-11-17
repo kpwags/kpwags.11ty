@@ -1,5 +1,20 @@
 [
 	{
+		"linkId": 1918,
+		"title": "AI Has Come for Arizona’s Water",
+		"author": "Gaby Del Valle",
+		"url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Imd4ZGRJY3IzdHkiLCJwIjoiL2NzL2ZlYXR1cmVzLzEwMTY2NTAvYXJpem9uYS13YXRlci1kYXRhLWNlbnRlci10c21jIiwiZXhwIjoxNzk1MjI0NTg3LCJpYXQiOjE3OTQ3OTI1ODd9.RQU__R1KzO7YXKmQCgQc5qjX13LB3UtOumQpqP3IyhU&utm_medium=gift-link",
+		"linkDate": "2026-11-15T00:00:00.000Z",
+		"category": {
+			"name": "AI",
+			"colorCode": "#7c2a00"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1916,
 		"title": "How I Succumbed To Reef Madness And Came To Love A Slowly Sinking Ship",
 		"author": "Dave McKenna",
