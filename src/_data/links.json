@@ -1,5 +1,155 @@
 [
 	{
+		"linkId": 1923,
+		"title": "Torrent Underground",
+		"author": "Janko Roettgers",
+		"url": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
+		"linkDate": "2026-11-18T00:00:00.000Z",
+		"category": {
+			"name": "The Internet",
+			"colorCode": "#8b3d15"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1924,
+		"title": "There Is No Place In A Functional Society For Elon Musk",
+		"author": "Albert Burneko",
+		"url": "https://defector.com/there-is-no-place-in-a-functional-society-for-elon-musk",
+		"linkDate": "2026-11-18T00:00:00.000Z",
+		"category": {
+			"name": "Politics",
+			"colorCode": "#8b642f"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1925,
+		"title": "Back to Basics: CSS @container Filtering",
+		"author": "Rick Strahl",
+		"url": "https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering",
+		"linkDate": "2026-11-18T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1926,
+		"title": "Friendship ended with Deno, now Node is my best friend",
+		"author": "David Bushell",
+		"url": "https://dbushell.com/2026/10/03/deno-to-node/",
+		"linkDate": "2026-11-18T00:00:00.000Z",
+		"category": {
+			"name": "General Development",
+			"colorCode": "#4a468a"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1927,
+		"title": "Do Frameworks Matter Anymore?",
+		"author": "Brooks Lybrand",
+		"url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
+		"linkDate": "2026-11-18T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1928,
+		"title": "Why don’t more developers “use the platform”?",
+		"author": "Nolan Lawson",
+		"url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+		"linkDate": "2026-11-18T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1919,
+		"title": "Artist brings old Space Shuttle tank back to life",
+		"author": "Robert Pearlman",
+		"url": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
+		"linkDate": "2026-11-17T00:00:00.000Z",
+		"category": {
+			"name": "Everything Else",
+			"colorCode": "#921e14"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1920,
+		"title": "The Confessions of an AI Fraud Kingpin",
+		"author": "Joseph Cox",
+		"url": "https://www.404media.co/the-confessions-of-an-ai-fraud-kingpin-onlyfake-owner-nazarenko/",
+		"linkDate": "2026-11-17T00:00:00.000Z",
+		"category": {
+			"name": "Technology",
+			"colorCode": "#273fd2"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1921,
+		"title": "12 CSS Features You Can Use Today with No Build Step",
+		"author": "Flavio Copes",
+		"url": "https://flaviocopes.com/modern-css-features/",
+		"linkDate": "2026-11-17T00:00:00.000Z",
+		"category": {
+			"name": "Web Development",
+			"colorCode": "#27681b"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1922,
+		"title": "The WSJ Never Retracted Its Bobby Kotick Story. His Lawyers Act Like It Did.",
+		"author": "Mike Masnick",
+		"url": "https://www.techdirt.com/2026/10/01/the-wsj-never-retracted-its-bobby-kotick-story-his-lawyers-act-like-it-did/",
+		"linkDate": "2026-11-17T00:00:00.000Z",
+		"category": {
+			"name": "Gaming",
+			"colorCode": "#275576"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
 		"linkId": 1918,
 		"title": "AI Has Come for Arizona’s Water",
 		"author": "Gaby Del Valle",
