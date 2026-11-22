@@ -1,6 +1,6 @@
 {
 	"bands": [
-		{ "name": "The Menzingers", "count": 11 },
+		{ "name": "The Menzingers", "count": 12 },
 		{ "name": "Dave Hause", "count": 9 },
 		{ "name": "The Gaslight Anthem", "count": 5 },
 		{ "name": "Frank Turner", "count": 4 },
@@ -9,6 +9,7 @@
 		{ "name": "Emily Wolfe", "count": 2 },
 		{ "name": "Jeff Rosenstock", "count": 2 },
 		{ "name": "Lucero", "count": 2 },
+		{ "name": "Mercy Union", "count": 2 },
 		{ "name": "Will Hoge", "count": 2 },
 		{ "name": "Will Varley", "count": 2 },
 		{ "name": "Against Me!", "count": 1 },
@@ -27,6 +28,7 @@
 		{ "name": "The Ergs", "count": 1 },
 		{ "name": "The Eric Mintel Quartet", "count": 1 },
 		{ "name": "Finger Eleven", "count": 1 },
+		{ "name": "Five Hundred Bucks", "count": 1 },
 		{ "name": "The Flatliners", "count": 1 },
 		{ "name": "Free Throw", "count": 1 },
 		{ "name": "Future Teens", "count": 1 },
@@ -35,6 +37,7 @@
 		{ "name": "Gordon Lightfoot", "count": 1 },
 		{ "name": "Halestorm", "count": 1 },
 		{ "name": "Hall & Oates", "count": 1 },
+		{ "name": "Hot Water Music", "count": 1 },
 		{ "name": "I Am the Avalanche", "count": 1 },
 		{ "name": "Jamie & The Guarded Heart", "count": 1 },
 		{ "name": "Jared Hart", "count": 1 },
@@ -46,7 +49,6 @@
 		{ "name": "Lax Poetic", "count": 1 },
 		{ "name": "Liquid Mike", "count": 1 },
 		{ "name": "Maxwell Stern & The Good Light Band", "count": 1 },
-		{ "name": "Mercy Union", "count": 1 },
 		{ "name": "Microwave", "count": 1 },
 		{ "name": "The Mountain Goats", "count": 1 },
 		{ "name": "New Found Glory", "count": 1 },
@@ -72,6 +74,13 @@
 		{ "name": "Weezer", "count": 1 }
 	],
 	"events": [
+		{
+			"headliner": ["The Menzingers"],
+			"openers": ["Five Hundred Bucks", "Mercy Union", "Hot Water Music"],
+			"location": "The Fillmore",
+			"city": "Philadelphia, PA",
+			"date": "2026-11-20"
+		},
 		{
 			"headliner": ["Spanish Love Songs"],
 			"openers": ["Maxwell Stern & The Good Light Band", "Future Teens"],

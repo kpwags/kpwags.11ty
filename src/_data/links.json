@@ -1,5 +1,35 @@
 [
 	{
+		"linkId": 1930,
+		"title": "Accessibility and the new model of the internet",
+		"author": "Cassidy Williams",
+		"url": "https://cassidoo.co/post/accessibility-and-the-internet/",
+		"linkDate": "2026-11-22T00:00:00.000Z",
+		"category": {
+			"name": "The Internet",
+			"colorCode": "#8b3d15"
+		},
+		"type": {
+			"name": "Link",
+			"colorCode": "#009b8f"
+		}
+	},
+	{
+		"linkId": 1929,
+		"title": "Make America Break Again",
+		"author": "Ctrl-Alt-Speech",
+		"url": "https://podcast.ctrlaltspeech.com/2315966/episodes/20153253-make-america-break-again",
+		"linkDate": "2026-11-21T00:00:00.000Z",
+		"category": {
+			"name": "Podcasts",
+			"colorCode": "#239f5b"
+		},
+		"type": {
+			"name": "Podcast",
+			"colorCode": "#5725a0"
+		}
+	},
+	{
 		"linkId": 1923,
 		"title": "Torrent Underground",
 		"author": "Janko Roettgers",

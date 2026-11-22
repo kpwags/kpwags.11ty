@@ -61,6 +61,34 @@
 			]
 		},
 		{
+			"televisionShowId": 47,
+			"title": "It’s Always Sunny in Philadelphia",
+			"imdbLink": "https://www.imdb.com/title/tt0472954/",
+			"rating": 0,
+			"thoughts": "",
+			"coverImageUrl": "https://i.postimg.cc/yddjh04w/always-sunny.jpg",
+			"seasonEpisodeCount": 188,
+			"currentSeasonEpisode": 181,
+			"progress": 96,
+			"sortOrder": null,
+			"status": {
+				"name": "Watching",
+				"colorCode": "#005c78"
+			},
+			"genres": [
+				{
+					"name": "Comedy",
+					"colorCode": "#a60483"
+				}
+			],
+			"services": [
+				{
+					"name": "Hulu",
+					"colorCode": "#1cb153"
+				}
+			]
+		},
+		{
 			"televisionShowId": 68,
 			"title": "Ken Burns: The Vietnam War",
 			"imdbLink": "https://www.imdb.com/title/tt1877514/",
@@ -211,34 +239,6 @@
 				{
 					"name": "Paramount+",
 					"colorCode": "#037fb4"
-				}
-			]
-		},
-		{
-			"televisionShowId": 47,
-			"title": "It’s Always Sunny in Philadelphia",
-			"imdbLink": "https://www.imdb.com/title/tt0472954/",
-			"rating": 0,
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/yddjh04w/always-sunny.jpg",
-			"seasonEpisodeCount": 178,
-			"currentSeasonEpisode": 178,
-			"progress": 100,
-			"sortOrder": null,
-			"status": {
-				"name": "In Between Seasons",
-				"colorCode": "#901960"
-			},
-			"genres": [
-				{
-					"name": "Comedy",
-					"colorCode": "#a60483"
-				}
-			],
-			"services": [
-				{
-					"name": "Hulu",
-					"colorCode": "#1cb153"
 				}
 			]
 		},
