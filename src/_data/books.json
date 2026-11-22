@@ -1,24 +1,24 @@
 {
 	"inProgress": [
 		{
-			"bookId": 782,
-			"title": "Bad Blood",
-			"subTitle": "Secrets and Lies in a Silicon Valley Startup",
-			"fullTitle": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
-			"author": "John Carreyrou",
-			"link": "https://bookshop.org/p/books/bad-blood-secrets-and-lies-in-a-silicon-valley-startup-john-carreyrou/bff4576da6a46b5d",
-			"dateStarted": "2026-11-14T00:00:00.000Z",
+			"bookId": 786,
+			"title": "Atlas of AI",
+			"subTitle": "Power, Politics, and the Planetary Costs of Artificial Intelligence",
+			"fullTitle": "Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence",
+			"author": "Kate Crawford",
+			"link": "https://bookshop.org/p/books/atlas-of-ai-power-politics-and-the-planetary-costs-of-artificial-intelligence-kate-crawford/f0794d2ce534d53c",
+			"dateStarted": "2026-11-20T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/KjmL91d2/carreyrou-bad-blood.webp",
-			"isAtLibrary": true,
+			"coverImageUrl": "https://i.postimg.cc/jSgTDjxV/crawford-atlas-of-ai.webp",
+			"isAtLibrary": false,
 			"isPurchased": false,
-			"currentPage": 556,
-			"pageCount": 696,
-			"progress": 80,
-			"sortOrder": 4140,
+			"currentPage": 102,
+			"pageCount": 534,
+			"progress": 19,
+			"sortOrder": 4170,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
@@ -56,9 +56,9 @@
 			"coverImageUrl": "https://i.postimg.cc/tJfr195R/stephenson-seveneves.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 776,
+			"currentPage": 817,
 			"pageCount": 861,
-			"progress": 90,
+			"progress": 95,
 			"sortOrder": 20,
 			"status": {
 				"name": "Reading",
@@ -87,6 +87,47 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 782,
+					"title": "Bad Blood",
+					"subTitle": "Secrets and Lies in a Silicon Valley Startup",
+					"fullTitle": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+					"author": "John Carreyrou",
+					"link": "https://bookshop.org/p/books/bad-blood-secrets-and-lies-in-a-silicon-valley-startup-john-carreyrou/bff4576da6a46b5d",
+					"dateStarted": "2026-11-14T00:00:00.000Z",
+					"dateCompleted": "2026-11-20T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "An interesting look at Theranos from its inception to its downfall. It goes through a lot of the issues the company had and their cut-throat methods to keep their fraud secret.",
+					"coverImageUrl": "https://i.postimg.cc/KjmL91d2/carreyrou-bad-blood.webp",
+					"isAtLibrary": true,
+					"isPurchased": false,
+					"currentPage": 696,
+					"pageCount": 696,
+					"progress": 100,
+					"sortOrder": 4140,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Non-Fiction",
+						"colorCode": "#244c43"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Technology",
+							"colorCode": "rgb(55, 78, 146)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Audiobook",
+							"colorCode": "#b300b3"
+						}
+					]
+				},
 				{
 					"bookId": 783,
 					"title": "Gouged",
