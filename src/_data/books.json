@@ -15,9 +15,9 @@
 			"coverImageUrl": "https://i.postimg.cc/jSgTDjxV/crawford-atlas-of-ai.webp",
 			"isAtLibrary": false,
 			"isPurchased": false,
-			"currentPage": 102,
+			"currentPage": 116,
 			"pageCount": 534,
-			"progress": 19,
+			"progress": 22,
 			"sortOrder": 4170,
 			"status": {
 				"name": "Reading",
@@ -42,24 +42,24 @@
 			]
 		},
 		{
-			"bookId": 575,
-			"title": "Seveneves",
+			"bookId": 634,
+			"title": "Old Man's War",
 			"subTitle": "",
-			"fullTitle": "Seveneves",
-			"author": "Neal Stephenson",
-			"link": "https://bookshop.org/p/books/seveneves-neal-stephenson/6434392",
-			"dateStarted": "2026-10-18T00:00:00.000Z",
+			"fullTitle": "Old Man's War",
+			"author": "John Scalzi",
+			"link": "https://bookshop.org/p/books/old-man-s-war-john-scalzi/8c6a917012185622",
+			"dateStarted": "2026-11-23T00:00:00.000Z",
 			"dateCompleted": null,
 			"rating": 0,
 			"bookNotesUrl": "",
 			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/tJfr195R/stephenson-seveneves.jpg",
+			"coverImageUrl": "https://i.postimg.cc/rsyR2WXW/scalzi-old-mans-war.jpg",
 			"isAtLibrary": false,
 			"isPurchased": true,
-			"currentPage": 817,
-			"pageCount": 861,
-			"progress": 95,
-			"sortOrder": 20,
+			"currentPage": 1,
+			"pageCount": 303,
+			"progress": 1,
+			"sortOrder": 3,
 			"status": {
 				"name": "Reading",
 				"colorCode": "#6a208f"
@@ -68,7 +68,10 @@
 				"name": "Fiction",
 				"colorCode": "#1d3c8c"
 			},
-			"series": null,
+			"series": {
+				"name": "Old Man's War",
+				"colorCode": "rgb(3, 93, 88)"
+			},
 			"genres": [
 				{
 					"name": "Science Fiction",
@@ -87,6 +90,47 @@
 		{
 			"year": 2026,
 			"books": [
+				{
+					"bookId": 575,
+					"title": "Seveneves",
+					"subTitle": "",
+					"fullTitle": "Seveneves",
+					"author": "Neal Stephenson",
+					"link": "https://bookshop.org/p/books/seveneves-neal-stephenson/6434392",
+					"dateStarted": "2026-10-18T00:00:00.000Z",
+					"dateCompleted": "2026-11-22T00:00:00.000Z",
+					"rating": 3,
+					"bookNotesUrl": "",
+					"thoughts": "The book had an interesting and exciting premise that was fantastic through parts 1 and 2. The final part sadly didn’t feel as great and turned the book into a slight miss.",
+					"coverImageUrl": "https://i.postimg.cc/tJfr195R/stephenson-seveneves.jpg",
+					"isAtLibrary": false,
+					"isPurchased": true,
+					"currentPage": 861,
+					"pageCount": 861,
+					"progress": 100,
+					"sortOrder": 20,
+					"status": {
+						"name": "Finished",
+						"colorCode": "#0e6532"
+					},
+					"type": {
+						"name": "Fiction",
+						"colorCode": "#1d3c8c"
+					},
+					"series": null,
+					"genres": [
+						{
+							"name": "Science Fiction",
+							"colorCode": "rgb(102, 119, 2)"
+						}
+					],
+					"formats": [
+						{
+							"name": "Paperback",
+							"colorCode": "#cd6a29"
+						}
+					]
+				},
 				{
 					"bookId": 782,
 					"title": "Bad Blood",
@@ -16597,50 +16641,6 @@
 		}
 	],
 	"toRead": [
-		{
-			"bookId": 634,
-			"title": "Old Man's War",
-			"subTitle": "",
-			"fullTitle": "Old Man's War",
-			"author": "John Scalzi",
-			"link": "https://bookshop.org/p/books/old-man-s-war-john-scalzi/8c6a917012185622",
-			"dateStarted": null,
-			"dateCompleted": null,
-			"rating": 0,
-			"bookNotesUrl": "",
-			"thoughts": "",
-			"coverImageUrl": "https://i.postimg.cc/rsyR2WXW/scalzi-old-mans-war.jpg",
-			"isAtLibrary": false,
-			"isPurchased": true,
-			"currentPage": 1,
-			"pageCount": 303,
-			"progress": 0,
-			"sortOrder": 3,
-			"status": {
-				"name": "To Read",
-				"colorCode": "#313ca2"
-			},
-			"type": {
-				"name": "Fiction",
-				"colorCode": "#1d3c8c"
-			},
-			"series": {
-				"name": "Old Man's War",
-				"colorCode": "rgb(3, 93, 88)"
-			},
-			"genres": [
-				{
-					"name": "Science Fiction",
-					"colorCode": "rgb(102, 119, 2)"
-				}
-			],
-			"formats": [
-				{
-					"name": "Paperback",
-					"colorCode": "#cd6a29"
-				}
-			]
-		},
 		{
 			"bookId": 635,
 			"title": "The Ghost Brigades",
